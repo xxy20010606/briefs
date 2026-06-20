@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Daily Brief Generator - 日报生成器
-Usage: python generate_brief.py --type [finance|ai|ai_apps]
+Usage: python generate_brief.py --type [finance|ai|ai_apps|newenergy|entertainment|semiconductor]
 """
 import argparse, json, os, re, time
 from datetime import datetime, timedelta
@@ -44,6 +44,26 @@ FEEDS = {
         ("https://rsshub.app/ithome/it", "IT之家"),
         ("https://rsshub.app/jike/topic/AI工具", "即刻-AI工具"),
     ],
+    "newenergy": [
+        ("https://rsshub.app/36kr/motif/新能源", "36氪-新能源"),
+        ("https://36kr.com/feed", "36氪"),
+        ("https://rsshub.app/ithome/it", "IT之家"),
+        ("https://rsshub.app/cls/telegraph", "财联社"),
+        ("https://rsshub.app/eastmoney/search/web+新能源", "东方财富"),
+    ],
+    "entertainment": [
+        ("https://rsshub.app/36kr/motif/文娱", "36氪-文娱"),
+        ("https://36kr.com/feed", "36氪"),
+        ("https://rsshub.app/weibo/hot/1", "微博热搜"),
+        ("https://rsshub.app/douban/movie/playing", "豆瓣-热映"),
+    ],
+    "semiconductor": [
+        ("https://rsshub.app/36kr/motif/半导体", "36氪-半导体"),
+        ("https://36kr.com/feed", "36氪"),
+        ("https://rsshub.app/ithome/it", "IT之家"),
+        ("https://rsshub.app/cls/telegraph", "财联社"),
+        ("https://rsshub.app/eastmoney/search/web+芯片", "东方财富"),
+    ],
 }
 
 # Category keywords for filtering and sorting
@@ -66,6 +86,24 @@ CATEGORIES = {
         "AI Agent 与智能体": ["Agent", "智能体", "自主", "代理", "编排", "协作", "自动化", "编排"],
         "AI 创业与商业模式": ["创业", "商业模式", "订阅", "SaaS", "收费", "定价", "营收", "增长"],
     },
+    "newenergy": {
+        "政策与市场": ["政策", "补贴", "规划", "目标", "碳中和", "碳达峰", "双碳", "国补", "地补", "发改委"],
+        "产业链动态": ["电池", "光伏", "风电", "储能", "氢能", "充电桩", "换电", "锂", "硅料", "组件", "逆变器"],
+        "企业动态": ["比亚迪", "特斯拉", "宁德时代", "蔚来", "理想", "小鹏", "隆基", "通威", "阳光电源", "亿纬锂能"],
+        "投融资与出海": ["融资", "投资", "上市", "出海", "出口", "海外", "欧洲", "东南亚", "估值", "IPO"],
+    },
+    "entertainment": {
+        "影视动态": ["电影", "电视剧", "网剧", "票房", "上映", "开播", "网飞", "好莱坞", "国产"],
+        "音乐与综艺": ["音乐", "综艺", "演唱会", "新歌", "专辑", "选秀", "节目", "播出"],
+        "明星与热点": ["明星", "演员", "导演", "官宣", "恋情", "离婚", "结婚", "热搜"],
+        "游戏与电竞": ["游戏", "电竞", "手游", "端游", "主机", "赛事", "冠军", "战队", "电竞"],
+    },
+    "semiconductor": {
+        "政策与产业": ["政策", "补贴", "大基金", "国产替代", "半导体", "芯片", "集成电路", "产业", "规划"],
+        "技术与产品": ["制程", "工艺", "光刻", "EDA", "封装", "测试", "晶圆", "代工", "GPU", "CPU", "存储"],
+        "企业动态": ["台积电", "三星", "英特尔", "英伟达", "中芯国际", "华为", "海思", "长鑫", "长江存储"],
+        "投融资与IPO": ["融资", "投资", "IPO", "上市", "估值", "收购", "并购", "亿元"],
+    },
 }
 
 # Brief colors by type
@@ -73,6 +111,9 @@ BRIEF_CONFIG = {
     "finance": {"title": "📊 财经简报", "subtitle": "科技金融 · A股港股 · 美联储 · 一级市场", "color": "#1a1a2e", "accent": "#e74c3c", "gradient": "#1a1a2e, #16213e"},
     "ai": {"title": "🤖 AI 产业简报", "subtitle": "大模型 · 智能体 · 具身智能 · 投融资", "color": "#6c5ce7", "accent": "#6c5ce7", "gradient": "#6c5ce7, #4a3cd4"},
     "ai_apps": {"title": "🚀 AI 应用简报", "subtitle": "AI 工具 · 行业落地 · Agent · 商业模式", "color": "#27ae60", "accent": "#27ae60", "gradient": "#27ae60, #1e8449"},
+    "newenergy": {"title": "⚡ 新能源简报", "subtitle": "光伏风电 · 储能电池 · 电动车 · 碳中和", "color": "#e67e22", "accent": "#e67e22", "gradient": "#e67e22, #d35400"},
+    "entertainment": {"title": "🎬 娱乐简报", "subtitle": "影视综艺 · 音乐明星 · 游戏电竞 · 热点", "color": "#e91e63", "accent": "#e91e63", "gradient": "#e91e63, #c2185b"},
+    "semiconductor": {"title": "💻 半导体简报", "subtitle": "芯片技术 · 晶圆代工 · EDA · 国产替代", "color": "#2196f3", "accent": "#2196f3", "gradient": "#2196f3, #1565c0"},
 }
 
 # ── Helper Functions ───────────────────────────────────
@@ -218,6 +259,17 @@ def build_html(brief_type, categorized, gemini_summaries=None):
         "AI + 行业落地案例": ("🏭", "case"),
         "AI Agent 与智能体": ("🤖", "agent"),
         "AI 创业与商业模式": ("💡", "biz"),
+        "政策与市场": ("📋", "policy"),
+        "产业链动态": ("🔗", "market"),
+        "企业动态": ("🏢", "case"),
+        "投融资与出海": ("🌍", "pe"),
+        "影视动态": ("🎥", "tool"),
+        "音乐与综艺": ("🎵", "app"),
+        "明星与热点": ("⭐", "biz"),
+        "游戏与电竞": ("🎮", "agent"),
+        "政策与产业": ("📋", "policy"),
+        "技术与产品": ("🔬", "model"),
+        "投融资与IPO": ("💰", "capital"),
     }
 
     # Build summary grid
@@ -342,11 +394,11 @@ body{{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--type", required=True, choices=["finance", "ai", "ai_apps"])
+    parser.add_argument("--type", required=True, choices=["finance", "ai", "ai_apps", "newenergy", "entertainment", "semiconductor"])
     args = parser.parse_args()
 
     bt = args.type
-    file_map = {"finance": "finance.html", "ai": "ai.html", "ai_apps": "ai-apps.html"}
+    file_map = {"finance": "finance.html", "ai": "ai.html", "ai_apps": "ai-apps.html", "newenergy": "newenergy.html", "entertainment": "entertainment.html", "semiconductor": "semiconductor.html"}
     output_file = file_map[bt]
     config = BRIEF_CONFIG[bt]
 
