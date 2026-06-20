@@ -42,6 +42,21 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
+      - name: Generate New Energy Brief
+        run: python scripts/generate_brief.py --type newenergy
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Generate Entertainment Brief
+        run: python scripts/generate_brief.py --type entertainment
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Generate Semiconductor Brief
+        run: python scripts/generate_brief.py --type semiconductor
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
       - name: Update index timestamp
         run: |
           sed -i "s|最后更新：.*|最后更新：$(TZ='Asia/Shanghai' date '+%Y年%m月%d日 %H:%M')|g" index.html
@@ -52,6 +67,6 @@ jobs:
           git config user.name "WorkBuddy Bot"
           git config user.email "bot@workbuddy.ai"
           git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
-          git add finance.html ai.html ai-apps.html index.html
+          git add finance.html ai.html ai-apps.html newenergy.html entertainment.html semiconductor.html index.html
           git diff --staged --quiet || git commit -m "📰 每日简报更新 - $(TZ='Asia/Shanghai' date '+%Y-%m-%d')"
           git push origin main
