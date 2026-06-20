@@ -3,6 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="简报中心">
+<link rel="apple-touch-icon" href="icons/icon-192.svg">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" type="image/svg+xml" href="icons/icon-192.svg">
 <title>每日简报中心</title>
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -95,6 +101,10 @@ body {
 <script>
 document.getElementById('today-date').textContent = new Date().toLocaleDateString('zh-CN', {year:'numeric',month:'long',day:'numeric',weekday:'long'});
 document.getElementById('update-time').textContent = '最后更新：' + new Date().toLocaleString('zh-CN');
+// Register service worker for offline support
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js');
+}
 </script>
 </body>
 </html>
