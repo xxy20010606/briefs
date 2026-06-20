@@ -1,0 +1,57 @@
+name: Daily Briefs
+
+on:
+  schedule:
+    # 北京时间 10:00 = UTC 02:00
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    # 允许手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies
+        run: pip install requests feedparser
+
+      - name: Generate Finance Brief
+        run: python scripts/generate_brief.py --type finance
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Generate AI Industry Brief
+        run: python scripts/generate_brief.py --type ai
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Generate AI Apps Brief
+        run: python scripts/generate_brief.py --type ai_apps
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Update index timestamp
+        run: |
+          sed -i "s|最后更新：.*|最后更新：$(TZ='Asia/Shanghai' date '+%Y年%m月%d日 %H:%M')|g" index.html
+          sed -i "s|id=\"today-date\">.*<|id=\"today-date\">$(TZ='Asia/Shanghai' date '+%Y年%m月%d日')<|g" index.html
+
+      - name: Commit and push
+        run: |
+          git config user.name "WorkBuddy Bot"
+          git config user.email "bot@workbuddy.ai"
+          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+          git add finance.html ai.html ai-apps.html index.html
+          git diff --staged --quiet || git commit -m "📰 每日简报更新 - $(TZ='Asia/Shanghai' date '+%Y-%m-%d')"
+          git push origin main
