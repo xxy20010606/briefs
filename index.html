@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>每日简报中心</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", Arial, sans-serif;
+  background: #0f0f1a; color: #e8e8f0; line-height: 1.7; padding: 16px; min-height: 100vh;
+}
+.container { max-width: 420px; margin: 0 auto; }
+.header {
+  background: linear-gradient(135deg, #6c5ce7 0%, #e74c3c 50%, #27ae60 100%);
+  border-radius: 16px; padding: 28px 20px; color: #fff; margin-bottom: 24px;
+}
+.header-date { font-size: 12px; color: rgba(255,255,255,0.7); margin-bottom: 4px; }
+.header-title { font-size: 26px; font-weight: 800; letter-spacing: 2px; }
+.header-sub { font-size: 13px; color: rgba(255,255,255,0.6); margin-top: 6px; }
+
+.card {
+  background: #1a1a2e; border-radius: 16px; padding: 20px;
+  margin-bottom: 14px; text-decoration: none; display: block;
+  transition: transform 0.2s, box-shadow 0.2s;
+  border: 1px solid rgba(255,255,255,0.05);
+}
+.card:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(0,0,0,0.4); }
+.card-top { display: flex; align-items: center; gap: 12px; margin-bottom: 8px; }
+.card-icon {
+  width: 44px; height: 44px; border-radius: 14px; display: flex;
+  align-items: center; justify-content: center; font-size: 22px; flex-shrink: 0;
+}
+.card-icon.finance { background: linear-gradient(135deg, #e74c3c, #c0392b); }
+.card-icon.ai { background: linear-gradient(135deg, #6c5ce7, #4834d4); }
+.card-icon.apps { background: linear-gradient(135deg, #27ae60, #1e8449); }
+.card-label { font-size: 15px; font-weight: 700; color: #fff; }
+.card-desc { font-size: 12px; color: #888; margin-left: 56px; }
+.card-meta { font-size: 11px; color: #555; margin-left: 56px; margin-top: 4px; }
+
+.status { display: flex; align-items: center; gap: 8px; margin-bottom: 20px; }
+.status-dot { width: 8px; height: 8px; border-radius: 50%; background: #27ae60; animation: pulse 2s infinite; }
+.status-text { font-size: 12px; color: #888; }
+@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+
+.footer { text-align: center; padding: 30px 0; font-size: 11px; color: #555; }
+.footer span { color: #6c5ce7; }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <div class="header-date" id="today-date">2026年6月20日</div>
+    <div class="header-title">📰 每日简报中心</div>
+    <div class="header-sub">财经 · AI产业 · AI应用 — 每天 10:00 自动更新</div>
+  </div>
+
+  <div class="status">
+    <div class="status-dot"></div>
+    <div class="status-text">每天 10:00 自动更新 · WorkBuddy AI 驱动</div>
+  </div>
+
+  <a class="card" href="finance.html">
+    <div class="card-top">
+      <div class="card-icon finance">📊</div>
+      <div class="card-label">财经简报</div>
+    </div>
+    <div class="card-desc">科技金融 · A股港股 · 美联储 · 一级市场投融资</div>
+    <div class="card-meta">今日已更新</div>
+  </a>
+
+  <a class="card" href="ai.html">
+    <div class="card-top">
+      <div class="card-icon ai">🤖</div>
+      <div class="card-label">AI 产业简报</div>
+    </div>
+    <div class="card-desc">大模型 · 智能体 · 具身智能 · AI 政策与投融资</div>
+    <div class="card-meta">今日已更新</div>
+  </a>
+
+  <a class="card" href="ai-apps.html">
+    <div class="card-top">
+      <div class="card-icon apps">🚀</div>
+      <div class="card-label">AI 应用简报</div>
+    </div>
+    <div class="card-desc">AI 工具产品 · 行业落地 · Agent · 创业商业模式</div>
+    <div class="card-meta">即将更新</div>
+  </a>
+
+  <div class="footer">
+    由 <span>WorkBuddy AI</span> 驱动 · 每日自动整理<br>
+    <span id="update-time"></span>
+  </div>
+</div>
+<script>
+document.getElementById('today-date').textContent = new Date().toLocaleDateString('zh-CN', {year:'numeric',month:'long',day:'numeric',weekday:'long'});
+document.getElementById('update-time').textContent = '最后更新：' + new Date().toLocaleString('zh-CN');
+</script>
+</body>
+</html>
