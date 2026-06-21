@@ -2,520 +2,178 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI 应用简报 | 2026-06-21</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>🚀 AI 应用简报 · 2026年06月21日</title>
 <style>
-  :root {
-    --green-900: #0a3b2e;
-    --green-800: #0e5c48;
-    --green-700: #158463;
-    --green-600: #1aa87b;
-    --green-500: #22c58b;
-    --green-400: #4ad9a5;
-    --green-300: #7ce7c0;
-    --green-100: #c5f5e5;
-    --green-50: #e8faf3;
-    --gray-900: #111827;
-    --gray-800: #1f2937;
-    --gray-700: #374151;
-    --gray-600: #4b5563;
-    --gray-500: #6b7280;
-    --gray-400: #9ca3af;
-    --gray-200: #e5e7eb;
-    --gray-100: #f3f4f6;
-    --gray-50: #f9fafb;
-    --white: #ffffff;
-  }
-
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-    background: var(--gray-100);
-    color: var(--gray-800);
-    line-height: 1.6;
-  }
-
-  .header {
-    background: linear-gradient(135deg, var(--green-900) 0%, #052e23 40%, var(--green-800) 100%);
-    color: var(--white);
-    padding: 32px 20px 28px;
-    text-align: center;
-    position: relative;
-    overflow: hidden;
-  }
-
-  .header::before {
-    content: '';
-    position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-    background: radial-gradient(circle at 30% 50%, rgba(34,197,139,0.15) 0%, transparent 60%),
-                radial-gradient(circle at 70% 30%, rgba(122,231,192,0.08) 0%, transparent 50%);
-    pointer-events: none;
-  }
-
-  .header-content { position: relative; z-index: 1; }
-
-  .header-badge {
-    display: inline-block;
-    background: rgba(255,255,255,0.15);
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(255,255,255,0.2);
-    border-radius: 20px;
-    padding: 4px 14px;
-    font-size: 13px;
-    font-weight: 500;
-    letter-spacing: 0.5px;
-    margin-bottom: 12px;
-    color: var(--green-300);
-  }
-
-  .header h1 {
-    font-size: 28px;
-    font-weight: 700;
-    letter-spacing: -0.5px;
-    margin-bottom: 6px;
-  }
-
-  .header .subtitle {
-    font-size: 15px;
-    color: var(--green-300);
-    font-weight: 400;
-    margin-bottom: 16px;
-  }
-
-  .header-stats {
-    display: flex;
-    justify-content: center;
-    gap: 24px;
-    flex-wrap: wrap;
-  }
-
-  .header-stat {
-    text-align: center;
-    min-width: 70px;
-  }
-
-  .header-stat .num {
-    font-size: 26px;
-    font-weight: 800;
-    color: var(--green-400);
-    line-height: 1;
-  }
-
-  .header-stat .label {
-    font-size: 12px;
-    color: rgba(255,255,255,0.65);
-    margin-top: 2px;
-  }
-
-  .container {
-    max-width: 720px;
-    margin: 0 auto;
-    padding: 20px 16px 40px;
-  }
-
-  .date-bar {
-    text-align: center;
-    font-size: 14px;
-    color: var(--gray-500);
-    margin-bottom: 24px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-  }
-
-  .date-bar::before,
-  .date-bar::after {
-    content: '';
-    width: 40px;
-    height: 1px;
-    background: var(--gray-200);
-  }
-
-  .section {
-    margin-bottom: 24px;
-  }
-
-  .section-title {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    font-size: 17px;
-    font-weight: 700;
-    color: var(--gray-900);
-    margin-bottom: 14px;
-    padding-bottom: 10px;
-    border-bottom: 2px solid var(--green-500);
-  }
-
-  .section-icon {
-    width: 32px;
-    height: 32px;
-    border-radius: 8px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 16px;
-    flex-shrink: 0;
-  }
-
-  .icon-tools { background: #dbeafe; color: #2563eb; }
-  .icon-industry { background: #fef3c7; color: #d97706; }
-  .icon-agent { background: #ede9fe; color: #7c3aed; }
-  .icon-business { background: #fce7f3; color: #db2777; }
-
-  .cards { display: flex; flex-direction: column; gap: 12px; }
-
-  .card {
-    background: var(--white);
-    border-radius: 14px;
-    padding: 18px 20px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03);
-    transition: transform 0.15s ease, box-shadow 0.15s ease;
-    border-left: 4px solid transparent;
-    position: relative;
-  }
-
-  .card:hover {
-    transform: translateY(-1px);
-    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
-  }
-
-  .card.tools { border-left-color: var(--green-500); }
-  .card.industry { border-left-color: var(--green-600); }
-  .card.agent { border-left-color: var(--green-700); }
-  .card.business { border-left-color: var(--green-800); }
-
-  .card-tag {
-    display: inline-block;
-    font-size: 11px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.3px;
-    padding: 2px 8px;
-    border-radius: 4px;
-    margin-bottom: 8px;
-    background: var(--green-50);
-    color: var(--green-700);
-  }
-
-  .card h3 {
-    font-size: 16px;
-    font-weight: 700;
-    color: var(--gray-900);
-    margin-bottom: 6px;
-    line-height: 1.4;
-  }
-
-  .card .summary {
-    font-size: 14px;
-    color: var(--gray-600);
-    line-height: 1.6;
-    margin-bottom: 10px;
-  }
-
-  .card .meta {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 8px;
-  }
-
-  .card .source {
-    font-size: 13px;
-    color: var(--green-600);
-    font-weight: 500;
-    text-decoration: none;
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
-    transition: color 0.15s;
-  }
-
-  .card .source:hover { color: var(--green-800); text-decoration: underline; }
-
-  .card .source svg {
-    width: 14px;
-    height: 14px;
-    opacity: 0.7;
-  }
-
-  .card .time {
-    font-size: 12px;
-    color: var(--gray-400);
-  }
-
-  .footer {
-    text-align: center;
-    padding: 28px 16px;
-    color: var(--gray-400);
-    font-size: 13px;
-  }
-
-  .footer a {
-    color: var(--green-600);
-    text-decoration: none;
-    font-weight: 500;
-  }
-
-  .footer a:hover { text-decoration: underline; }
-
-  .auto-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 5px;
-    background: var(--green-50);
-    color: var(--green-700);
-    font-size: 12px;
-    padding: 4px 10px;
-    border-radius: 12px;
-    font-weight: 500;
-  }
-
-  .auto-badge .dot {
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    background: var(--green-500);
-    animation: pulse 2s infinite;
-  }
-
-  @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.4; }
-  }
-
-  @media (max-width: 480px) {
-    .header { padding: 24px 16px 22px; }
-    .header h1 { font-size: 24px; }
-    .header-stats { gap: 16px; }
-    .header-stat .num { font-size: 22px; }
-    .container { padding: 14px 12px 32px; }
-    .card { padding: 14px 16px; }
-    .card h3 { font-size: 15px; }
-    .section-title { font-size: 16px; }
-  }
-
-  .highlight {
-    background: linear-gradient(135deg, #f0fdf6 0%, #e8faf3 100%);
-    border: 1px solid var(--green-200);
-    border-radius: 12px;
-    padding: 16px 18px;
-    margin-top: 10px;
-  }
-
-  .highlight-label {
-    font-size: 12px;
-    font-weight: 600;
-    color: var(--green-700);
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-bottom: 6px;
-  }
-
-  .highlight p {
-    font-size: 14px;
-    color: var(--gray-700);
-    line-height: 1.6;
-  }
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
+.container{max-width:420px;margin:0 auto}
+.header{background:linear-gradient(135deg,#27ae60, #1e8449);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#27ae60;flex-shrink:0}
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
+.news-item:last-child{border-bottom:none}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#27ae60;color:#fff}
+.news-body{padding-left:30px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
+.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.news-source{font-size:11px;color:#27ae60;background:rgba(39,174,96,39,174,96,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#27ae60}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
+.footer span{color:#27ae60;font-weight:600}
 </style>
 </head>
 <body>
-
-<div class="header">
-  <div class="header-content">
-    <div class="header-badge">DAILY BRIEF</div>
-    <h1>AI 应用简报</h1>
-    <p class="subtitle">人工智能行业应用方向资讯精选</p>
-    <div class="header-stats">
-      <div class="header-stat">
-        <div class="num">8</div>
-        <div class="label">精选资讯</div>
-      </div>
-      <div class="header-stat">
-        <div class="num">4</div>
-        <div class="label">分类维度</div>
-      </div>
-      <div class="header-stat">
-        <div class="num">24h</div>
-        <div class="label">覆盖范围</div>
-      </div>
-    </div>
-  </div>
-</div>
-
 <div class="container">
-
-  <div class="date-bar">2026 年 6 月 21 日 · 星期日 · 第 2 期</div>
-
-  <div class="highlight">
-    <div class="highlight-label">🔥 本周关键词</div>
-    <p><strong>智能体时代全面开启</strong> — 小米/华为/快手密集开源AI工具，智谱GLM-5.2开源登顶，Databricks发布Agent Bricks平台，金融智能体元年到来，微信AI Agent蓄势待发。AI 产业正式从模型竞赛迈入应用落地深水区。</p>
-  </div>
-
-  <!-- 分类一：AI 工具与产品发布 -->
-  <div class="section" style="margin-top:24px;">
-    <div class="section-title">
-      <div class="section-icon icon-tools">🛠</div>
-      AI 工具与产品发布
-    </div>
-    <div class="cards">
-
-      <div class="card tools">
-        <span class="card-tag">开源 · 编程</span>
-        <h3>智谱 GLM-5.2 开源登顶 Code Arena 全球第一</h3>
-        <p class="summary">智谱 AI 开源旗舰模型 GLM-5.2，支持百万 Token 上下文，在 Code Arena 全球盲测中拿下可用模型第一名。HuggingFace 首次自掏腰包为其提供 6 小时全球免费算力，马斯克公开点赞。</p>
-        <div class="meta">
-          <a class="source" href="https://www.sohu.com/a/1038183175_121869969" target="_blank">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
-            机器之心 / 36氪
-          </a>
-          <span class="time">2026-06-17</span>
-        </div>
-      </div>
-
-      <div class="card tools">
-        <span class="card-tag">开源 · 编程工具</span>
-        <h3>小米开源 MiMo Code，首次进入 Coding Agent 领域</h3>
-        <p class="summary">小米发布终端 AI 编程助手 MiMo Code，基于 OpenCode 二次开发，MIT 协议开源，支持接入 DeepSeek、Kimi、GLM 等主流模型，构建「模型+Agent」生态闭环。</p>
-        <div class="meta">
-          <a class="source" href="https://www.aitoollab.cn/articles/china-open-source-ai-wave-june-2026/" target="_blank">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
-            极客公园 / AI工具实验室
-          </a>
-          <span class="time">2026-06-11</span>
-        </div>
-      </div>
-
-    </div>
-  </div>
-
-  <!-- 分类二：AI + 行业落地案例 -->
-  <div class="section">
-    <div class="section-title">
-      <div class="section-icon icon-industry">🏭</div>
-      AI + 行业落地案例
-    </div>
-    <div class="cards">
-
-      <div class="card industry">
-        <span class="card-tag">国产算力 · 里程碑</span>
-        <h3>昇腾 910C 完成 1.6 万亿参数 DeepSeek-V4-Pro 全流程训练</h3>
-        <p class="summary">华为联合哈工大等团队，用约 1000 颗昇腾 910C 完成 DeepSeek-V4-Pro 全参数后训练，稳定运行超 1500 步，训练效率提升 14%，标志国产 AI 芯片从推理迈入复杂训练阶段。</p>
-        <div class="meta">
-          <a class="source" href="https://news.qq.com/rain/a/20260608A02FLU00" target="_blank">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
-            TechWeb / 腾讯新闻
-          </a>
-          <span class="time">2026-06-08</span>
-        </div>
-      </div>
-
-      <div class="card industry">
-        <span class="card-tag">金融 · 智能体</span>
-        <h3>金融智能体元年：AI 迈入全流程闭环作业新阶段</h3>
-        <p class="summary">阿里云在 2026 中国国际金融展上宣布，金融 AI 已完成关键代际跃迁，从问答辅助迈入可自主回测训练、风控合规、研报撰写的全流程闭环作业阶段。</p>
-        <div class="meta">
-          <a class="source" href="https://finance.sina.com.cn/roll/2026-06-18/doc-inicvvzi6358705.shtml" target="_blank">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
-            21世纪经济报道
-          </a>
-          <span class="time">2026-06-18</span>
-        </div>
-      </div>
-
-      <div class="card industry">
-        <span class="card-tag">具身智能 · 平台</span>
-        <h3>华为云发布 CloudRobo，全球首个全流程具身智能开发平台</h3>
-        <p class="summary">华为云发布具身智能专区并推出 CloudRobo 平台，覆盖数据生产、处理到模型训练全生命周期，6 月 30 日公测，加速具身智能从实验室走向工厂落地。</p>
-        <div class="meta">
-          <a class="source" href="https://news.qq.com/rain/a/20260608A03O0A00" target="_blank">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
-            CNMO科技 / 腾讯新闻
-          </a>
-          <span class="time">2026-06-05</span>
-        </div>
-      </div>
-
-    </div>
-  </div>
-
-  <!-- 分类三：AI Agent 与智能体 -->
-  <div class="section">
-    <div class="section-title">
-      <div class="section-icon icon-agent">🤖</div>
-      AI Agent 与智能体
-    </div>
-    <div class="cards">
-
-      <div class="card agent">
-        <span class="card-tag">超级 App · Agent</span>
-        <h3>微信 AI Agent 原型测通，右滑唤出即可完成搜索比价支付</h3>
-        <p class="summary">腾讯正在测试微信内置 AI Agent 原型：主界面右滑唤出，自然语言下指令，自动调用小程序完成搜索、比价、下单、支付全链条，最快 6 月启动合规审批。</p>
-        <div class="meta">
-          <a class="source" href="https://dranixj.com/articles/wechat-ai-agent-miniprogram-2026" target="_blank">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
-            金融时报 / 多家科技媒体
-          </a>
-          <span class="time">2026-06-10</span>
-        </div>
-      </div>
-
-      <div class="card agent">
-        <span class="card-tag">企业级 · 智能体平台</span>
-        <h3>Databricks 发布 Agent Bricks，10 万+ Agent 已构建</h3>
-        <p class="summary">Databricks 在 Data+AI Summit 2026 发布通用 AI Agent 平台，已构建超 10 万 Agent，年处理千万亿 Token，AstraZeneca、7-Eleven 等企业已落地使用。</p>
-        <div class="meta">
-          <a class="source" href="https://www.ai-master.cc/news/news-4117" target="_blank">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
-            Databricks Blog / AI Master
-          </a>
-          <span class="time">2026-06-19</span>
-        </div>
-      </div>
-
-    </div>
-  </div>
-
-  <!-- 分类四：AI 创业与商业模式 -->
-  <div class="section">
-    <div class="section-title">
-      <div class="section-icon icon-business">💡</div>
-      AI 创业与商业模式
-    </div>
-    <div class="cards">
-
-      <div class="card business">
-        <span class="card-tag">人才争夺 · 行业格局</span>
-        <h3>Gemini 联席负责人 Noam Shazeer 跳槽 OpenAI，任架构研究负责人</h3>
-        <p class="summary">Transformer 核心发明人之一 Noam Shazeer 离开 Google DeepMind 加入 OpenAI，将负责探索新一代 AI 模型架构，被业界视为「今年最重要的 AI 人才流动」。</p>
-        <div class="meta">
-          <a class="source" href="https://tech.ifeng.com/c/8u3OAmuK26M" target="_blank">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
-            智东西 / 凤凰科技
-          </a>
-          <span class="time">2026-06-19</span>
-        </div>
-      </div>
-
-    </div>
-  </div>
-
-  <div class="footer">
-    <p>📋 由 <a href="https://github.com/xxy20010606/briefs" target="_blank">WorkBuddy AI</a> 自动生成 · 每日 10:00 更新</p>
-    <p style="margin-top:4px;">
-      <span class="auto-badge"><span class="dot"></span>自动化运行中</span>
-    </p>
-    <p style="margin-top:8px;">数据来源：36氪 · 机器之心 · 量子位 · 极客公园 · 凤凰科技 · 21世纪经济报道 等</p>
-  </div>
-
+<div class="header">
+<div class="header-date">2026年06月21日</div>
+<div class="header-title">🚀 AI 应用简报</div>
+<div class="header-sub">AI 工具 · 行业落地 · Agent · 商业模式</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
+</div>
+<div class="summary-card">
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">AI 工具与产品发布</div></div><div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">AI + 行业落地案例</div></div><div class="summary-item green"><div class="summary-num">2</div><div class="summary-label">AI Agent 与智能体</div></div><div class="summary-item orange"><div class="summary-num">1</div><div class="summary-label">AI 创业与商业模式</div></div></div>
 </div>
 
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon tool">🛠️</div>
+      <div class="section-name">AI 工具与产品发布</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index active">1</div>
+      <div class="news-body">
+        <div class="news-title">安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向</div>
+        <div class="news-summary">36氪获悉，6月16日，安踏在上海创新创意设计研究院发布全新跑鞋技术平台“折纸科技（ANTA FOL...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3859469888508933?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index active">2</div>
+      <div class="news-body">
+        <div class="news-title">微信AI助手“小微”小范围灰度上线</div>
+        <div class="news-summary">微信AI已小范围灰度上线。部分网友微信主界面左上角已出现小眼睛式样图标，该图标即为AI助手“小微”测...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/newsflashes/3862458180359424?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon case">🏭</div>
+      <div class="section-name">AI + 行业落地案例</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">3</div>
+      <div class="news-body">
+        <div class="news-title">硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万</div>
+        <div class="news-summary">硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3859926114161665?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">4</div>
+      <div class="news-body">
+        <div class="news-title">氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功</div>
+        <div class="news-summary">大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3858015526704129?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon agent">🤖</div>
+      <div class="section-name">AI Agent 与智能体</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">5</div>
+      <div class="news-body">
+        <div class="news-title">科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心</div>
+        <div class="news-summary">国内两轮电动车市场正悄然迎来一场深层次的“基因突变”。长期以来，大众对两轮电动车的认知被牢牢框定在“...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3858803016881154?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">6</div>
+      <div class="news-body">
+        <div class="news-title">蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争</div>
+        <div class="news-summary">文｜肖漫编辑｜李勤 6月18日，蔚来同时向两代平台车型（包含8款NT2.0平台车型、4款NT2.5平...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3858329994875908?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon biz">💡</div>
+      <div class="section-name">AI 创业与商业模式</div>
+      <div class="section-count">1 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">7</div>
+      <div class="news-body">
+        <div class="news-title">科氪 | 纯粹热爱的城市探索玩家而来 ，爱玛黑翼三大新车集结亮相</div>
+        <div class="news-summary">6月17日，爱玛黑翼品牌战略发布会在四川省体育馆盛大开启。体育馆化身爱玛黑翼玩家街区，潮流青年齐聚现...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3858676671599881?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年06月21日 06:42 更新</div>
+</div>
 </body>
 </html>
