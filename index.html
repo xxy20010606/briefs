@@ -133,10 +133,11 @@ body {
 </div>
 <script>
 document.getElementById('today-date').textContent = new Date().toLocaleDateString('zh-CN', {year:'numeric',month:'long',day:'numeric',weekday:'long'});
-document.getElementById('update-time').textContent = '最后更新：2026年06月21日 14:42
-// Register service worker for offline support
+document.getElementById('update-time').textContent = '最后更新：' + new Date().toLocaleString('zh-CN');
+// Purge old service worker
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('sw.js');
+  navigator.serviceWorker.getRegistrations().then(regs => regs.forEach(r => r.unregister()));
+  navigator.serviceWorker.register = function(){}; // block re-registration
 }
 </script>
 </body>
