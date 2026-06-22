@@ -1,23 +1,505 @@
-<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><title>🚀 AI 应用简报 · 2026年6月22日</title>
-<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}.container{max-width:420px;margin:0 auto}.header{background:linear-gradient(135deg,#27ae60,#1e8449);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}.header-title{font-size:22px;font-weight:700}.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#27ae60;flex-shrink:0}.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}.summary-num{font-size:22px;font-weight:700}.summary-label{font-size:11px;color:#888;margin-top:2px}.s-red .summary-num{color:#e74c3c}.s-blue .summary-num{color:#2980b9}.s-green .summary-num{color:#27ae60}.s-orange .summary-num{color:#e67e22}
-.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}.si-1{background:#e8f5e9}.si-2{background:#e3f2fd}.si-3{background:#ede7f6}.si-4{background:#fff3e0}.section-name{font-size:15px;font-weight:700}.section-count{margin-left:auto;font-size:12px;color:#aaa}
-.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}.news-item:last-child{border-bottom:none}.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}.news-index.on{background:#27ae60;color:#fff}.news-body{padding-left:30px}.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.news-source{font-size:11px;color:#27ae60;background:#e8f5e9;border-radius:4px;padding:2px 7px}.news-link{font-size:11px;color:#aaa;text-decoration:none}.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}.footer span{color:#27ae60;font-weight:600}</style></head><body><div class="container">
-<div class="header"><div class="header-date">2026年6月22日 · 星期一</div><div class="header-title">🚀 AI 应用简报</div><div class="header-sub">AI 工具 · 行业落地 · Agent · 商业模式</div><div class="header-tag">由 WorkBuddy AI 自动整理</div></div>
-<div class="summary-card"><div class="summary-title"><span class="dot"></span> 今日概览</div><div class="summary-grid"><div class="summary-item s-green"><div class="summary-num">2</div><div class="summary-label">工具与产品</div></div><div class="summary-item s-blue"><div class="summary-num">2</div><div class="summary-label">行业落地</div></div><div class="summary-item s-orange"><div class="summary-num">2</div><div class="summary-label">Agent智能体</div></div><div class="summary-item s-red"><div class="summary-num">1</div><div class="summary-label">商业模式</div></div></div></div>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 应用简报 | 2026年6月22日</title>
+<style>
+  :root {
+    --green-50: #f0fdf4;
+    --green-100: #dcfce7;
+    --green-200: #bbf7d0;
+    --green-300: #86efac;
+    --green-400: #4ade80;
+    --green-500: #22c55e;
+    --green-600: #16a34a;
+    --green-700: #15803d;
+    --green-800: #166534;
+    --green-900: #14532d;
+    --green-950: #052e16;
+    --slate-50: #f8fafc;
+    --slate-100: #f1f5f9;
+    --slate-200: #e2e8f0;
+    --slate-300: #cbd5e1;
+    --slate-400: #94a3b8;
+    --slate-500: #64748b;
+    --slate-600: #475569;
+    --slate-700: #334155;
+    --slate-800: #1e293b;
+    --slate-900: #0f172a;
+  }
 
-<div class="section"><div class="section-header"><div class="section-icon si-1">🛠️</div><div class="section-name">AI 工具与产品发布</div><div class="section-count">2 条</div></div>
-<div class="news-item"><div class="news-index on">1</div><div class="news-body"><div class="news-title">智谱AI港股上市首日暴涨超40%，旗舰模型登陆港股</div><div class="news-summary">智谱AI正式登陆港交所，首日暴涨逾40%市值突破1.3万亿港元，成为2026年最大AI IPO，旗舰大模型产品矩阵获资本市场高度认可。</div><div class="news-meta"><span class="news-source">财联社</span><a class="news-link" href="https://www.cls.cn/detail/2405187">查看原文</a></div></div></div>
-<div class="news-item"><div class="news-index">2</div><div class="news-body"><div class="news-title">6月AI大模型密集发布潮：GPT-5.6与国产模型同步迭代</div><div class="news-summary">6月迎150万Token上下文与Agent能力生产化四大趋势，大模型产品发布密度创历史新高，国产DeepSeek、Kimi同步追赶国际前列。</div><div class="news-meta"><span class="news-source">技术站</span><a class="news-link" href="https://jishuzhan.net/article/2066017811457208321">查看原文</a></div></div></div></div>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
 
-<div class="section"><div class="section-header"><div class="section-icon si-2">🏭</div><div class="section-name">AI + 行业落地案例</div><div class="section-count">2 条</div></div>
-<div class="news-item"><div class="news-index on">3</div><div class="news-body"><div class="news-title">AI应用端A股全线走强：电商、办公、营销三板块齐涨</div><div class="news-summary">港股智谱暴涨带动A股AI应用爆发，华凯易佰20cm涨停、天娱数科涨停、昆仑万维跟涨，AI+电商、AI+营销率先兑现商业价值。</div><div class="news-meta"><span class="news-source">财联社</span><a class="news-link" href="https://www.cls.cn/detail/2405186">查看原文</a></div></div></div>
-<div class="news-item"><div class="news-index">4</div><div class="news-body"><div class="news-title">七部门推动算力互联互通，AI基建落地全面加速</div><div class="news-summary">算力租赁概念全线拉升，协创数据涨超10%；政策推动算力并网池化与互联，AI训练推理成本有望持续下降。</div><div class="news-meta"><span class="news-source">财联社</span><a class="news-link" href="https://www.cls.cn/detail/2405190">查看原文</a></div></div></div></div>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif;
+    background: var(--slate-50);
+    color: var(--slate-800);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
 
-<div class="section"><div class="section-header"><div class="section-icon si-3">🧠</div><div class="section-name">AI Agent 与智能体</div><div class="section-count">2 条</div></div>
-<div class="news-item"><div class="news-index on">5</div><div class="news-body"><div class="news-title">Agent能力生产化：多智能体协作框架成熟</div><div class="news-summary">2026年多智能体编排工具从概念走向生产，产品经理、技术经理等AI Agent协同工作成新范式，软件工程进入Agent驱动时代。</div><div class="news-meta"><span class="news-source">AI Tool Lab</span><a class="news-link" href="https://www.aitoollab.cn/articles/multi-agent-ai-tools-guide-2026/">查看原文</a></div></div></div>
-<div class="news-item"><div class="news-index">6</div><div class="news-body"><div class="news-title">微软Copilot Agent生态持续扩展，企业应用加速</div><div class="news-summary">微软Copilot Studio多智能体编排能力持续升级，GitHub Copilot编程Agent全面开放，企业Agent应用进入规模化部署阶段。</div><div class="news-meta"><span class="news-source">腾讯科技</span><a class="news-link" href="https://news.qq.com/rain/a/20260603A01OUL00">查看原文</a></div></div></div></div>
+  /* ====== Header ====== */
+  .header {
+    background: linear-gradient(135deg, var(--green-950) 0%, var(--green-800) 40%, #0d3b1e 100%);
+    color: white;
+    padding: 40px 20px 36px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
 
-<div class="section"><div class="section-header"><div class="section-icon si-4">💡</div><div class="section-name">AI 创业与商业模式</div><div class="section-count">1 条</div></div>
-<div class="news-item"><div class="news-index on">7</div><div class="news-body"><div class="news-title">智谱IPO验证AI商业模型：从API订阅到Agent即服务</div><div class="news-summary">智谱港股上市首日暴涨验证AI大模型商业闭环，从API订阅到Agent即服务，AI商业模式从实验走向规模化盈利。</div><div class="news-meta"><span class="news-source">财联社</span><a class="news-link" href="https://www.cls.cn/detail/2405187">查看原文</a></div></div></div></div>
+  .header::before {
+    content: '';
+    position: absolute;
+    top: -80px;
+    right: -60px;
+    width: 280px;
+    height: 280px;
+    background: radial-gradient(circle, rgba(34,197,94,0.18) 0%, transparent 70%);
+    border-radius: 50%;
+  }
 
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年6月22日 10:21 更新</div></div></body></html>
+  .header::after {
+    content: '';
+    position: absolute;
+    bottom: -40px;
+    left: -40px;
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle, rgba(74,222,128,0.12) 0%, transparent 70%);
+    border-radius: 50%;
+  }
+
+  .header-content {
+    position: relative;
+    z-index: 1;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  .header-badge {
+    display: inline-block;
+    background: rgba(255,255,255,0.12);
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 20px;
+    padding: 4px 16px;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    margin-bottom: 16px;
+    backdrop-filter: blur(8px);
+  }
+
+  .header h1 {
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    margin-bottom: 6px;
+  }
+
+  .header h1 .accent {
+    color: var(--green-400);
+  }
+
+  .header .date {
+    font-size: 15px;
+    color: rgba(255,255,255,0.7);
+    font-weight: 400;
+  }
+
+  .header .meta-row {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 14px;
+    flex-wrap: wrap;
+  }
+
+  .header .meta-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+    color: rgba(255,255,255,0.65);
+  }
+
+  .header .meta-item .dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--green-400);
+  }
+
+  /* ====== Main Container ====== */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 28px 20px 48px;
+  }
+
+  /* ====== Section ====== */
+  .section {
+    margin-bottom: 32px;
+  }
+
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+
+  .section-icon {
+    width: 36px;
+    height: 36px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+
+  .icon-tools { background: #dcfce7; }
+  .icon-industry { background: #dbeafe; }
+  .icon-agent { background: #fef3c7; }
+  .icon-business { background: #fce7f3; }
+
+  .section-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--slate-800);
+  }
+
+  .section-count {
+    font-size: 12px;
+    color: var(--slate-400);
+    font-weight: 500;
+    background: var(--slate-100);
+    padding: 2px 10px;
+    border-radius: 10px;
+    margin-left: 4px;
+  }
+
+  /* ====== Cards ====== */
+  .card {
+    background: white;
+    border-radius: 14px;
+    padding: 20px 22px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.03);
+    border: 1px solid var(--slate-100);
+    transition: box-shadow 0.2s, transform 0.2s;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .card:hover {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+    transform: translateY(-1px);
+  }
+
+  .card::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    border-radius: 0 3px 3px 0;
+  }
+
+  .card.tools::before { background: var(--green-500); }
+  .card.industry::before { background: #3b82f6; }
+  .card.agent::before { background: #f59e0b; }
+  .card.business::before { background: #ec4899; }
+
+  .card-tag {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+  }
+
+  .tag-tools { background: var(--green-100); color: var(--green-700); }
+  .tag-industry { background: #dbeafe; color: #1d4ed8; }
+  .tag-agent { background: #fef3c7; color: #92400e; }
+  .tag-business { background: #fce7f3; color: #be185d; }
+
+  .card h3 {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--slate-900);
+    margin-bottom: 6px;
+    line-height: 1.5;
+  }
+
+  .card .summary {
+    font-size: 14px;
+    color: var(--slate-600);
+    line-height: 1.6;
+    margin-bottom: 12px;
+  }
+
+  .card .source {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 12px;
+    color: var(--slate-400);
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+
+  .card .source:hover {
+    color: var(--green-600);
+  }
+
+  .card .source svg {
+    width: 13px;
+    height: 13px;
+  }
+
+  /* ====== Footer ====== */
+  .footer {
+    text-align: center;
+    padding: 32px 20px 40px;
+    color: var(--slate-400);
+    font-size: 13px;
+    border-top: 1px solid var(--slate-200);
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .footer .brand {
+    font-weight: 600;
+    color: var(--green-600);
+  }
+
+  .footer .divider {
+    margin: 0 8px;
+    color: var(--slate-300);
+  }
+
+  /* ====== Stock Ticker Style Banner ====== */
+  .ticker {
+    background: var(--green-50);
+    border-bottom: 1px solid var(--green-100);
+    padding: 10px 20px;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .ticker-inner {
+    display: inline-block;
+    animation: ticker-scroll 30s linear infinite;
+  }
+
+  .ticker-item {
+    display: inline-block;
+    font-size: 13px;
+    color: var(--green-700);
+    margin-right: 48px;
+  }
+
+  .ticker-item .up {
+    color: #ef4444;
+    font-weight: 600;
+  }
+
+  @keyframes ticker-scroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+
+  /* ====== Responsive ====== */
+  @media (max-width: 640px) {
+    .header {
+      padding: 28px 16px 28px;
+    }
+    .header h1 {
+      font-size: 24px;
+    }
+    .container {
+      padding: 20px 14px 36px;
+    }
+    .card {
+      padding: 16px;
+    }
+    .card h3 {
+      font-size: 15px;
+    }
+    .section-title {
+      font-size: 16px;
+    }
+    .ticker {
+      padding: 8px 14px;
+    }
+  }
+</style>
+</head>
+<body>
+
+<!-- ====== Header ====== -->
+<header class="header">
+  <div class="header-content">
+    <div class="header-badge">AI 行业应用资讯</div>
+    <h1>AI 应用<span class="accent">日报</span></h1>
+    <p class="date">2026 年 6 月 22 日 · 星期一</p>
+    <div class="meta-row">
+      <span class="meta-item"><span class="dot"></span>精选 8 条资讯</span>
+      <span class="meta-item"><span class="dot"></span>4 大分类维度</span>
+      <span class="meta-item"><span class="dot"></span>覆盖 36氪 · 机器之心 · 量子位 · 爱范儿</span>
+    </div>
+  </div>
+</header>
+
+<!-- ====== Ticker ====== -->
+<div class="ticker">
+  <div class="ticker-inner">
+    <span class="ticker-item">Codex 开放第三方模型 <span class="up">↑</span></span>
+    <span class="ticker-item">Claude Cowork 额度翻倍 <span class="up">↑</span></span>
+    <span class="ticker-item">618 AI 电商全链路升级 <span class="up">↑</span></span>
+    <span class="ticker-item">EEVEE Agent 进化框架发布 <span class="up">↑</span></span>
+    <span class="ticker-item">AI 免费时代走向终结 <span class="up">↑</span></span>
+    <span class="ticker-item">Codex 开放第三方模型 <span class="up">↑</span></span>
+    <span class="ticker-item">Claude Cowork 额度翻倍 <span class="up">↑</span></span>
+    <span class="ticker-item">618 AI 电商全链路升级 <span class="up">↑</span></span>
+    <span class="ticker-item">EEVEE Agent 进化框架发布 <span class="up">↑</span></span>
+    <span class="ticker-item">AI 免费时代走向终结 <span class="up">↑</span></span>
+  </div>
+</div>
+
+<!-- ====== Main Content ====== -->
+<div class="container">
+
+  <!-- Section 1: AI 工具与产品发布 -->
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon icon-tools">🛠️</div>
+      <span class="section-title">AI 工具与产品发布</span>
+      <span class="section-count">2 条</span>
+    </div>
+
+    <div class="card tools">
+      <span class="card-tag tag-tools">AI 编程</span>
+      <h3>OpenAI Codex 向第三方模型开放，DeepSeek 率先接入</h3>
+      <p class="summary">OpenAI 宣布 Codex 不再独宠 GPT，正式支持 DeepSeek 等第三方模型。这是 OpenAI「最开放」的一次战略调整，亲手拆掉了模型护城河，AI 编程工具进入多模型协作时代。</p>
+      <a class="source" href="https://www.36kr.com/p/3863532970120201" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        36氪 · 新智元
+      </a>
+    </div>
+
+    <div class="card tools">
+      <span class="card-tag tag-tools">AI 办公</span>
+      <h3>Claude Cowork 额度全面翻倍，Anthropic 补贴式抢滩 AI 办公市场</h3>
+      <p class="summary">Anthropic 将 Claude Cowork 全线额度翻倍，月费仅 $20 即可获 $236 算力额度。延续 Claude Code 烧钱获客策略，目标直指所有打工人，AI 办公赛道竞争白热化。</p>
+      <a class="source" href="https://www.36kr.com/p/3863515139036418" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        36氪 · 新智元
+      </a>
+    </div>
+  </div>
+
+  <!-- Section 2: AI + 行业落地案例 -->
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon icon-industry">🏭</div>
+      <span class="section-title">AI + 行业落地案例</span>
+      <span class="section-count">3 条</span>
+    </div>
+
+    <div class="card industry">
+      <span class="card-tag tag-industry">AI + 电商</span>
+      <h3>今年 618，AI 帮商家「做好」生意：从美妆大牌到义乌工厂全覆盖</h3>
+      <p class="summary">美妆大牌用 AI 生成商品图、非遗小店靠 AI 智能客服接单、义乌工厂凭 AI 精准营销出海——同一个 AI 底盘同时盘活三类截然不同的商家，618 成为 AI 电商能力大检阅。</p>
+      <a class="source" href="https://www.36kr.com/p/3858672877048836" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        36氪
+      </a>
+    </div>
+
+    <div class="card industry">
+      <span class="card-tag tag-industry">AI + 制造</span>
+      <h3>小米华为快手接连开源核心 AI 工具，三大赛道补齐短板</h3>
+      <p class="summary">小米开源 MiMo Code 编程工具、华为开源 CloudRobo 具身智能框架、快手开源长视频多模态理解模型，国内厂商密集开源 AI 基础设施，编程、机器人、视频理解赛道迎来新格局。</p>
+      <a class="source" href="https://www.sohu.com/a/1035165241_122733055" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        搜狐科技
+      </a>
+    </div>
+
+    <div class="card industry">
+      <span class="card-tag tag-industry">AI + 消费</span>
+      <h3>第一批消费者开始抵制 AI 购物：个性化推荐的信任危机</h3>
+      <p class="summary">消费者对 AI 购物推荐产生抵触——「不想连买什么颜色的衬衫都要问 AI」。AI 电商在狂奔的同时面临信任拐点，如何在算法效率与人性化体验之间找到平衡成为关键命题。</p>
+      <a class="source" href="https://www.36kr.com/p/3863005381671810" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        36氪 · 螳螂观察
+      </a>
+    </div>
+  </div>
+
+  <!-- Section 3: AI Agent 与智能体 -->
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon icon-agent">🤖</div>
+      <span class="section-title">AI Agent 与智能体</span>
+      <span class="section-count">2 条</span>
+    </div>
+
+    <div class="card agent">
+      <span class="card-tag tag-agent">Agent 框架</span>
+      <h3>告别「单科专家」：首个 Agent 全面进化框架 EEVEE 发布</h3>
+      <p class="summary">普林斯顿大学与上海交通大学联合推出 EEVEE 框架，让 AI Agent 从单一任务专家进化为全能型智能体，在跨领域任务中展现接近人类的泛化能力，Agent 通用化迈出关键一步。</p>
+      <a class="source" href="https://www.jiqizhixin.com/" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        机器之心
+      </a>
+    </div>
+
+    <div class="card agent">
+      <span class="card-tag tag-agent">Agent 交互</span>
+      <h3>灵动岛成为 AI Agent 新界面：Agent 跑在云端，灵动岛是它的影子</h3>
+      <p class="summary">AI Agent 从后台走向前台，灵动岛形态成为 Agent 实时反馈的新交互范式。任务在云端异步执行，手机屏幕上的灵动岛则是 Agent 状态的实时窗口，AI 交互正在重构。</p>
+      <a class="source" href="https://www.36kr.com/p/3863536003126278" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        36氪 · 爱范儿
+      </a>
+    </div>
+  </div>
+
+  <!-- Section 4: AI 创业与商业模式 -->
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon icon-business">💰</div>
+      <span class="section-title">AI 创业与商业模式</span>
+      <span class="section-count">1 条</span>
+    </div>
+
+    <div class="card business">
+      <span class="card-tag tag-business">商业模式</span>
+      <h3>AI 免费时代走向终结：微软转向 DeepSeek，ChatGPT 开始收费</h3>
+      <p class="summary">微软因 Token 成本高企转向 DeepSeek，ChatGPT 等头部产品陆续告别免费策略，当 5 亿用户面临付费选择，AI 行业正式进入商业变现深水区，免费烧钱换增长的模式难以为继。</p>
+      <a class="source" href="https://www.36kr.com/p/3863453656110342" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        36氪 · 爱范儿
+      </a>
+    </div>
+  </div>
+
+</div>
+
+<!-- ====== Footer ====== -->
+<footer class="footer">
+  <p><span class="brand">AI 应用日报</span> <span class="divider">·</span> 每日自动采集 AI 行业应用资讯</p>
+  <p style="margin-top:6px;">数据来源：36氪 · 机器之心 · 量子位 · 爱范儿 · 新智元 · 极客公园</p>
+  <p style="margin-top:4px;font-size:12px;">生成时间：2026-06-22 10:40 CST</p>
+</footer>
+
+</body>
+</html>
