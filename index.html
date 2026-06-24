@@ -3,16 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="简报中心">
-<link rel="apple-touch-icon" href="icons/icon-192.svg">
-<link rel="manifest" href="manifest.json">
-<link rel="icon" type="image/svg+xml" href="icons/icon-192.svg">
+<meta http-equiv="Expires" content="0">
 <title>每日简报中心</title>
-<!-- bust: 2026-06-22 -->
+<!-- v2026-06-23-2 -->
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body {
@@ -62,7 +57,7 @@ body {
 <body>
 <div class="container">
   <div class="header">
-    <div class="header-date" id="today-date">2026年06月22日</div>
+    <div class="header-date" id="today-date">2026年06月23日</div>
     <div class="header-title">📰 每日简报中心</div>
     <div class="header-sub">财经 · AI产业 · AI应用 — 每天 10:00 自动更新</div>
   </div>
@@ -72,7 +67,7 @@ body {
     <div class="status-text">每天 10:00 自动更新 · WorkBuddy AI 驱动</div>
   </div>
 
-  <a class="card" href="finance.html">
+  <a class="card" href="finance.html?v=20260623">
     <div class="card-top">
       <div class="card-icon finance">📊</div>
       <div class="card-label">财经简报</div>
@@ -81,7 +76,7 @@ body {
     <div class="card-meta">今日已更新</div>
   </a>
 
-  <a class="card" href="ai.html">
+  <a class="card" href="ai.html?v=20260623">
     <div class="card-top">
       <div class="card-icon ai">🤖</div>
       <div class="card-label">AI 产业简报</div>
@@ -90,7 +85,7 @@ body {
     <div class="card-meta">今日已更新</div>
   </a>
 
-  <a class="card" href="ai-apps.html">
+  <a class="card" href="ai-apps.html?v=20260623">
     <div class="card-top">
       <div class="card-icon apps">🚀</div>
       <div class="card-label">AI 应用简报</div>
@@ -99,31 +94,31 @@ body {
     <div class="card-meta">今日已更新</div>
   </a>
 
-  <a class="card" href="newenergy.html">
+  <a class="card" href="newenergy.html?v=20260623">
     <div class="card-top">
       <div class="card-icon newenergy">⚡</div>
       <div class="card-label">新能源简报</div>
     </div>
     <div class="card-desc">光伏风电 · 储能电池 · 电动车 · 碳中和</div>
-    <div class="card-meta">即将更新</div>
+    <div class="card-meta">今日已更新</div>
   </a>
 
-  <a class="card" href="entertainment.html">
+  <a class="card" href="entertainment.html?v=20260623">
     <div class="card-top">
       <div class="card-icon entertainment">🎬</div>
       <div class="card-label">娱乐简报</div>
     </div>
     <div class="card-desc">影视综艺 · 音乐明星 · 游戏电竞 · 热点</div>
-    <div class="card-meta">即将更新</div>
+    <div class="card-meta">今日已更新</div>
   </a>
 
-  <a class="card" href="semiconductor.html">
+  <a class="card" href="semiconductor.html?v=20260623">
     <div class="card-top">
       <div class="card-icon semiconductor">💻</div>
       <div class="card-label">半导体简报</div>
     </div>
     <div class="card-desc">芯片技术 · 晶圆代工 · EDA · 国产替代</div>
-    <div class="card-meta">即将更新</div>
+    <div class="card-meta">今日已更新</div>
   </a>
 
   <div class="footer">
@@ -134,7 +129,7 @@ body {
 </div>
 <script>
 document.getElementById('today-date').textContent = new Date().toLocaleDateString('zh-CN', {year:'numeric',month:'long',day:'numeric',weekday:'long'});
-document.getElementById('update-time').textContent = '最后更新：2026年06月22日 15:10
+document.getElementById('update-time').textContent = '最后更新：2026年06月23日 13:58
 // Purge old service worker
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.getRegistrations().then(regs => regs.forEach(r => r.unregister()));

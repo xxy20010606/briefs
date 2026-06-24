@@ -1,24 +1,179 @@
-<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><meta http-equiv="Cache-Control" content="no-cache,must-revalidate"><title>🤖 AI 产业简报 · 2026年6月23日</title>
-<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}.container{max-width:420px;margin:0 auto}.header{background:linear-gradient(135deg,#6c5ce7,#4a3cd4);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}.header-title{font-size:22px;font-weight:700}.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#6c5ce7;flex-shrink:0}.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}.summary-num{font-size:22px;font-weight:700}.summary-label{font-size:11px;color:#888;margin-top:2px}.s-red .summary-num{color:#e74c3c}.s-blue .summary-num{color:#2980b9}.s-green .summary-num{color:#27ae60}.s-orange .summary-num{color:#e67e22}
-.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}.si-1{background:#fff3e0}.si-2{background:#ede7f6}.si-3{background:#e8f5e9}.si-4{background:#fce4ec}.section-name{font-size:15px;font-weight:700}.section-count{margin-left:auto;font-size:12px;color:#aaa}
-.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}.news-item:last-child{border-bottom:none}.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}.news-index.on{background:#6c5ce7;color:#fff}.news-body{padding-left:30px}.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.news-source{font-size:11px;color:#6c5ce7;background:#ede7f6;border-radius:4px;padding:2px 7px}.news-link{font-size:11px;color:#aaa;text-decoration:none}.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}.footer span{color:#6c5ce7;font-weight:600}</style></head><body><div class="container">
-<div class="header"><div class="header-date">2026年6月23日 · 星期二</div><div class="header-title">🤖 AI 产业简报</div><div class="header-sub">大模型 · 智能体 · 具身智能 · 投融资</div><div class="header-tag">由 WorkBuddy AI 自动整理</div></div>
-<div class="summary-card"><div class="summary-title"><span class="dot"></span> 今日概览</div><div class="summary-grid"><div class="summary-item s-red"><div class="summary-num">2</div><div class="summary-label">产业政策</div></div><div class="summary-item s-blue"><div class="summary-num">2</div><div class="summary-label">大模型进展</div></div><div class="summary-item s-green"><div class="summary-num">2</div><div class="summary-label">应用与商业化</div></div><div class="summary-item s-orange"><div class="summary-num">2</div><div class="summary-label">投融资</div></div></div></div>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>🤖 AI 产业简报 · 2026年06月23日</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
+.container{max-width:420px;margin:0 auto}
+.header{background:linear-gradient(135deg,#6c5ce7, #4a3cd4);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#6c5ce7;flex-shrink:0}
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
+.news-item:last-child{border-bottom:none}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#6c5ce7;color:#fff}
+.news-body{padding-left:30px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
+.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.news-source{font-size:11px;color:#6c5ce7;background:rgba(108,92,231,108,92,231,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#6c5ce7}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
+.footer span{color:#6c5ce7;font-weight:600}
+</style>
+</head>
+<body>
+<div class="container">
+<div class="header">
+<div class="header-date">2026年06月23日</div>
+<div class="header-title">🤖 AI 产业简报</div>
+<div class="header-sub">大模型 · 智能体 · 具身智能 · 投融资</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
+</div>
+<div class="summary-card">
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">AI 产业政策与监管</div></div><div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">大模型最新进展</div></div><div class="summary-item green"><div class="summary-num">1</div><div class="summary-label">AI 应用与商业化</div></div><div class="summary-item orange"><div class="summary-num">2</div><div class="summary-label">投融资与资本动态</div></div></div>
+</div>
 
-<div class="section"><div class="section-header"><div class="section-icon si-1">📜</div><div class="section-name">AI 产业政策与监管</div><div class="section-count">2 条</div></div>
-<div class="news-item"><div class="news-index on">1</div><div class="news-body"><div class="news-title">证监会宣布科创板第五套标准扩至AI大模型行业</div><div class="news-summary">6月17日陆家嘴论坛，证监会主席吴清宣布科创板第五套标准适用范围扩大至AI大模型，DeepSeek、智谱等未盈利企业迎来A股上市窗口。</div><div class="news-meta"><span class="news-source">21世纪经济报道</span><a class="news-link" href="https://www.21jingji.com/article/20260617/herald/d42f717e8b45d22e0ea7d485b7e18936.html">查看原文</a></div></div></div>
-<div class="news-item"><div class="news-index">2</div><div class="news-body"><div class="news-title">工信部国资委联合启动人形机器人实景实训专项行动</div><div class="news-summary">6月9日，工信部联合国资委启动2026年度人形机器人与具身智能实景实训，推动在真实环境中常态化部署与规模化落地。</div><div class="news-meta"><span class="news-source">新华网</span><a class="news-link" href="https://www.news.cn/tech/20260610/0ac12d4162c34166ab66c973aab1f776/c.html">查看原文</a></div></div></div></div>
-
-<div class="section"><div class="section-header"><div class="section-icon si-2">🧠</div><div class="section-name">大模型最新进展</div><div class="section-count">2 条</div></div>
-<div class="news-item"><div class="news-index on">3</div><div class="news-body"><div class="news-title">Anthropic发布Claude Fable 5，SWE-Bench Pro 80.3%登顶</div><div class="news-summary">6月9日Anthropic发布双轨旗舰模型Fable 5与Mythos 5，编程评测得分大幅领先GPT-5.5，24小时内完成5000万行代码迁移任务。</div><div class="news-meta"><span class="news-source">机器之心</span><a class="news-link" href="https://www.sohu.com/a/1037991307_122893087">查看原文</a></div></div></div>
-<div class="news-item"><div class="news-index">4</div><div class="news-body"><div class="news-title">GPT-5.6预计下周发布：Agent能力全面强化，定价或为竞品1/3</div><div class="news-summary">OpenAI将于6月22-28日发布GPT-5.6，上下文窗口扩至150万Token，支持视觉复刻、3D生成、浏览器自动化等Agent能力。</div><div class="news-meta"><span class="news-source">腾讯新闻/华尔街见闻</span><a class="news-link" href="https://news.qq.com/rain/a/20260621A0581J00">查看原文</a></div></div></div></div>
-
-<div class="section"><div class="section-header"><div class="section-icon si-3">🔧</div><div class="section-name">AI 应用与商业化</div><div class="section-count">2 条</div></div>
-<div class="news-item"><div class="news-index on">5</div><div class="news-body"><div class="news-title">摩尔线程MTT AICUBE开启预售，家庭AI算力中枢落地消费市场</div><div class="news-summary">6月18日，摩尔线程首款家庭AI中枢开启预售，9999元起，搭载自研"长江"SoC芯片，异构AI算力达50 TOPS，可本地运行大模型。</div><div class="news-meta"><span class="news-source">快科技/人民财讯</span><a class="news-link" href="https://finance.sina.com.cn/tech/roll/2026-06-18/doc-inicvmmr3264187.shtml">查看原文</a></div></div></div>
-<div class="news-item"><div class="news-index">6</div><div class="news-body"><div class="news-title">智谱GLM-5.2发布，港股盘中市值一度破1.27万亿港元</div><div class="news-summary">6月16日发布GLM-5.2；6月22日港股智谱盘中暴涨42%，市值一度达1.27万亿港元，上市不到半年累计涨幅超1900%。</div><div class="news-meta"><span class="news-source">证券时报/人民财讯</span><a class="news-link" href="https://www.stcn.com/article/detail/3973331.html">查看原文</a></div></div></div></div>
-
-<div class="section"><div class="section-header"><div class="section-icon si-4">💰</div><div class="section-name">投融资与资本动态</div><div class="section-count">2 条</div></div>
-<div class="news-item"><div class="news-index on">7</div><div class="news-body"><div class="news-title">DeepSeek完成超500亿首轮融资，腾讯、宁德时代各投100亿</div><div class="news-summary">6月16日DeepSeek确认首轮外部融资超500亿元，估值破500亿美元，采用"无投票权+五年锁定期"罕见结构，创始人保持绝对控制权。</div><div class="news-meta"><span class="news-source">信息报/36氪</span><a class="news-link" href="https://baijiahao.baidu.com/s?id=1868404995205766408">查看原文</a></div></div></div>
-<div class="news-item"><div class="news-index">8</div><div class="news-body"><div class="news-title">具身智能上半年吸金超460亿元，头部集中效应显著</div><div class="news-summary">2026上半年具身智能领域288起融资，总额超460亿元，前5家企业拿走37%资金，千寻智能三个月吸金45亿元创纪录。</div><div class="news-meta"><span class="news-source">IT桔子/财联社</span><a class="news-link" href="https://baijiahao.baidu.com/s?id=1868346419357685007">查看原文</a></div></div></div></div>
-
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年6月23日 10:12 更新</div></div></body></html>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon policy">📜</div>
+      <div class="section-name">AI 产业政策与监管</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index active">1</div>
+      <div class="news-body">
+        <div class="news-title">商务部等9部门：支持各地优化房车上路通行管理政策</div>
+        <div class="news-summary">36氪获悉，商务部等9部门关于培育壮大汽车后市场消费若干措施的通知。完善房车通行使用环境。支持各地优...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/newsflashes/3865330081748224?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index active">2</div>
+      <div class="news-body">
+        <div class="news-title">WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！</div>
+        <div class="news-summary">盛夏赴约WAVES 2026！一群迎风的少数人，掀起中国新一代创新力量的风口。 2026年，创投圈的...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3865226824389892?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon model">🧠</div>
+      <div class="section-name">大模型最新进展</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">3</div>
+      <div class="news-body">
+        <div class="news-title">氪星晚报｜赢创计划全球裁员3200人；台积电28nm较年初减产25%；三星电子向韩国所有员工开放ChatGPT和Codex</div>
+        <div class="news-summary">大公司： 赢创计划全球裁员3200人 赢创近日宣布，将延长“赢创定制”增效计划，涉及赢创全球所有业务...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3864065855706120?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">4</div>
+      <div class="news-body">
+        <div class="news-title">瓷瓷乐玩 ：当传统文化遇上新消费浪潮 | 36氪WAVES2026新浪潮</div>
+        <div class="news-summary">“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3865208157738247?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon app">🔧</div>
+      <div class="section-name">AI 应用与商业化</div>
+      <div class="section-count">1 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">5</div>
+      <div class="news-body">
+        <div class="news-title">商务部等9部门：进一步提升车险保障能力和服务水平，建立保险车型综合分级制度</div>
+        <div class="news-summary">36氪获悉，商务部等9部门关于培育壮大汽车后市场消费若干措施的通知。其中提出，加大保险服务支持力度。...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/newsflashes/3865329750775041?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon capital">💰</div>
+      <div class="section-name">投融资与资本动态</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">6</div>
+      <div class="news-body">
+        <div class="news-title">刚注册就成独角兽，具身创企昆仑行90天融资数十亿元｜36氪独家</div>
+        <div class="news-summary">离开阿里云一年多以后，前阿里集团副总裁、阿里云中国区总裁任庚，以昆仑行创始人的身份，再次切入AI的战...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3865188719121668?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">7</div>
+      <div class="news-body">
+        <div class="news-title">硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达</div>
+        <div class="news-summary">作者&amp;nbsp;|&amp;nbsp;林晴晴 编辑&amp;nbsp;|&amp;nbsp;袁斯来 硬氪获悉，人工智能芯片公...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3865136165344516?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年06月23日 05:58 更新</div>
+</div>
+</body>
+</html>
