@@ -28,6 +28,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 .section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
 .section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
 .section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
 .section-icon.tool{background:#e8f5e9}
 .section-icon.case{background:#e3f2fd}
 .section-icon.agent{background:#ede7f6}
@@ -42,7 +48,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 .news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
 .news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
 .news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.news-source{font-size:11px;color:#27ae60;background:#e8f5e9;border-radius:4px;padding:2px 7px}
+.news-source{font-size:11px;color:#27ae60;background:rgba(39,174,96,39,174,96,0.1);border-radius:4px;padding:2px 7px}
 .news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
 .news-link:hover{color:#27ae60}
 .footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
@@ -52,142 +58,122 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 <body>
 <div class="container">
 <div class="header">
-<div class="header-date">2026年06月27日 · 星期六</div>
+<div class="header-date">2026年06月27日</div>
 <div class="header-title">🚀 AI 应用简报</div>
 <div class="header-sub">AI 工具 · 行业落地 · Agent · 商业模式</div>
 <div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
 </div>
 <div class="summary-card">
 <div class="summary-title"><span class="dot"></span> 今日概览</div>
-<div class="summary-grid">
-<div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">AI 工具与产品发布</div></div>
-<div class="summary-item blue"><div class="summary-num">3</div><div class="summary-label">AI + 行业落地案例</div></div>
-<div class="summary-item green"><div class="summary-num">1</div><div class="summary-label">AI Agent 与智能体</div></div>
-<div class="summary-item orange"><div class="summary-num">2</div><div class="summary-label">AI 创业与商业模式</div></div>
-</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">AI 工具与产品发布</div></div><div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">AI + 行业落地案例</div></div><div class="summary-item green"><div class="summary-num">2</div><div class="summary-label">AI Agent 与智能体</div></div><div class="summary-item orange"><div class="summary-num">1</div><div class="summary-label">AI 创业与商业模式</div></div></div>
 </div>
 
-<div class="section">
-<div class="section-header">
-<div class="section-icon tool">🛠️</div>
-<div class="section-name">AI 工具与产品发布</div>
-<div class="section-count">2 条</div>
-</div>
-<div class="news-item">
-<div class="news-index active">1</div>
-<div class="news-body">
-<div class="news-title">OpenAI 发布 GPT-5.6 系列：Sol/Terra/Luna 三档齐发</div>
-<div class="news-summary">6月27日 OpenAI 正式发布 GPT-5.6 系列，旗舰 Sol 编程跑分 88.8% 超 Claude Mythos 5，引入子智能体 Ultra 模式加速复杂任务，安全防护体系首次全部标记为"高风险"级别。</div>
-<div class="news-meta">
-<span class="news-source">新智元</span>
-<a class="news-link" href="https://news.qq.com/rain/a/20260627A01JJV00" target="_blank">查看原文</a>
-</div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index">2</div>
-<div class="news-body">
-<div class="news-title">OpenAI 首款自研芯片 Jalapeño 发布，9个月完成流片</div>
-<div class="news-summary">6月24日 OpenAI 与博通联合发布首款自研 AI 推理芯片 Jalapeño，9个月完成流片创行业纪录，AI 辅助芯片设计提速，2026年底大规模部署用于 GPT 系列推理服务。</div>
-<div class="news-meta">
-<span class="news-source">第一财经</span>
-<a class="news-link" href="https://www.yicai.com/news/103244890.html" target="_blank">查看原文</a>
-</div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon case">🏭</div>
-<div class="section-name">AI + 行业落地案例</div>
-<div class="section-count">3 条</div>
-</div>
-<div class="news-item">
-<div class="news-index active">3</div>
-<div class="news-body">
-<div class="news-title">MWC 上海开幕：AI 普惠成全球焦点，中国方案引热议</div>
-<div class="news-summary">2026 MWC 上海 6月24日开幕，华为汪涛指出通用 AI、机器人将带来爆炸式流量增长，中国移动 AI 助力残障人士获得"自己的声音"，通信+AI 融合打开行业天花板。</div>
-<div class="news-meta">
-<span class="news-source">中国新闻网</span>
-<a class="news-link" href="https://www.chinanews.com/cj/2026/06-24/10646364.shtml" target="_blank">查看原文</a>
-</div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index">4</div>
-<div class="news-body">
-<div class="news-title">世界杯首次！联想 AI 视频增强系统接入全球直播</div>
-<div class="news-summary">联想交付的裁判视角 AI 视频增强系统在世界杯中首次大规模接入全球转播，AI+体育场景落地标志性事件，实时处理裁判微型摄像头画面并直供直播信号。</div>
-<div class="news-meta">
-<span class="news-source">新浪科技</span>
-<a class="news-link" href="https://finance.sina.com.cn/tech/roll/2026-06-24/doc-inienxzy3027280.shtml" target="_blank">查看原文</a>
-</div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index">5</div>
-<div class="news-body">
-<div class="news-title">南京软件大会开幕：AI+工业软件成主战场</div>
-<div class="news-summary">6月26日南京软件大会聚焦"AI+软件"主题，华为、CATL等发布AI+工业软件需求清单，30+国产大模型企业参展，AI正从"对话工具"变为"企业基础设施"。</div>
-<div class="news-meta">
-<span class="news-source">财联社</span>
-<a class="news-link" href="https://www.yidaoit.cn/news-2026-06-26-b.html" target="_blank">查看原文</a>
-</div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon agent">🤖</div>
-<div class="section-name">AI Agent 与智能体</div>
-<div class="section-count">1 条</div>
-</div>
-<div class="news-item">
-<div class="news-index active">6</div>
-<div class="news-body">
-<div class="news-title">苹果 Xcode 27 深度集成 AI 智能体，开启"氛围编程"</div>
-<div class="news-summary">WWDC 2026 上苹果发布 Xcode 27，核心首次整合 AI 智能体，精准理解 Swift 语言，开发者可通过自然语言多轮对话完成编程任务，支持自动修 Bug、构建 App。</div>
-<div class="news-meta">
-<span class="news-source">IT之家</span>
-<a class="news-link" href="https://www.ithome.com/0/965/734.htm" target="_blank">查看原文</a>
-</div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon biz">💡</div>
-<div class="section-name">AI 创业与商业模式</div>
-<div class="section-count">2 条</div>
-</div>
-<div class="news-item">
-<div class="news-index active">7</div>
-<div class="news-body">
-<div class="news-title">豆包专业版上线，国产 AI 商业化进入"付费深水区"</div>
-<div class="news-summary">6月24日豆包推出68/200/500元三档订阅方案，依托豆包2.1 Pro大模型，日均Token调用突破180万亿。行业分析师称国产大模型从"免费获客"转向"免费+付费"双轨时代。</div>
-<div class="news-meta">
-<span class="news-source">36氪</span>
-<a class="news-link" href="https://www.36kr.com/p/3867066152713092" target="_blank">查看原文</a>
-</div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index">8</div>
-<div class="news-body">
-<div class="news-title">具身智能半年融资460亿：千寻智能3个月吸金45亿</div>
-<div class="news-summary">2026上半年具身智能赛道288起融资事件，总额超460亿元。千寻智能自研模型登顶 RoboArena，智元下线5000台，资本从"讲故事"转向量产交付比拼。</div>
-<div class="news-meta">
-<span class="news-source">腾讯新闻</span>
-<a class="news-link" href="https://news.qq.com/rain/a/20260618A08U1J00" target="_blank">查看原文</a>
-</div>
-</div>
-</div>
-</div>
-
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年06月27日 10:17 更新</div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon tool">🛠️</div>
+      <div class="section-name">AI 工具与产品发布</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index active">1</div>
+      <div class="news-body">
+        <div class="news-title">G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线</div>
+        <div class="news-summary">作者｜黄楠 编辑｜袁斯来 6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3869740772316162?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index active">2</div>
+      <div class="news-body">
+        <div class="news-title">追赶FSD V14，理想在补哪些课？｜最前线</div>
+        <div class="news-summary">过去几年，智能驾驶行业的竞争重心经历了几次明显变化。 最早比的是硬件：激光雷达要不要上、摄像头装几个...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3870292939658242?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon case">🏭</div>
+      <div class="section-name">AI + 行业落地案例</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">3</div>
+      <div class="news-body">
+        <div class="news-title">国家统计局：1—5月份电子行业利润同比增长103.9%</div>
+        <div class="news-summary">财联社6月27日电，国家统计局工业司首席统计师于卫宁解读2026年1—5月份工业企业利润数据。于卫宁...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/newsflashes/3870821042312192?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">4</div>
+      <div class="news-body">
+        <div class="news-title">氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍</div>
+        <div class="news-summary">大公司： 五粮液：曾从钦无法正常履职离任，选举邓敏为公司董事长 36氪获悉，五粮液公告，因曾从钦无法...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3869884559332356?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon agent">🤖</div>
+      <div class="section-name">AI Agent 与智能体</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">5</div>
+      <div class="news-body">
+        <div class="news-title">9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元</div>
+        <div class="news-summary">今日热点导览 OpenAI官宣推出GPT-5.6 亚洲“果链”股价几乎全线大幅下跌 SpaceX计划...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3870720040588295?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">6</div>
+      <div class="news-body">
+        <div class="news-title">《走进AIE》，谁是下一个主角</div>
+        <div class="news-summary">一展两地，链接全球 &amp;nbsp; &amp;nbsp;AIE 电子展成为龙头企业的必选舞台 全球智能制造产业...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3869838577620231?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon biz">💡</div>
+      <div class="section-name">AI 创业与商业模式</div>
+      <div class="section-count">1 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">7</div>
+      <div class="news-body">
+        <div class="news-title">理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底</div>
+        <div class="news-summary">图源视觉中国 动力电池一直是新能源汽车里高频博弈的战场。 它通常占据一辆新能源车30%-40%的BO...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3866946087867394?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年06月27日 05:45 更新</div>
 </div>
 </body>
 </html>
