@@ -7,7 +7,6 @@
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 <title>每日简报中心</title>
-<!-- v2026-06-23-2 -->
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body {
@@ -57,9 +56,9 @@ body {
 <body>
 <div class="container">
   <div class="header">
-    <div class="header-date" id="today-date">2026年06月27日</div>
+    <div class="header-date" id="today-date"></div>
     <div class="header-title">📰 每日简报中心</div>
-    <div class="header-sub">财经 · AI产业 · AI应用 — 每天 10:00 自动更新</div>
+    <div class="header-sub">财经 · AI产业 · AI应用 · 新能源 · 娱乐 · 半导体</div>
   </div>
 
   <div class="status">
@@ -67,7 +66,7 @@ body {
     <div class="status-text">每天 10:00 自动更新 · WorkBuddy AI 驱动</div>
   </div>
 
-  <a class="card" href="finance.html?v=20260623">
+  <a class="card" href="finance.html?v=20260627">
     <div class="card-top">
       <div class="card-icon finance">📊</div>
       <div class="card-label">财经简报</div>
@@ -76,7 +75,7 @@ body {
     <div class="card-meta">今日已更新</div>
   </a>
 
-  <a class="card" href="ai.html?v=20260623">
+  <a class="card" href="ai.html?v=20260627">
     <div class="card-top">
       <div class="card-icon ai">🤖</div>
       <div class="card-label">AI 产业简报</div>
@@ -85,7 +84,7 @@ body {
     <div class="card-meta">今日已更新</div>
   </a>
 
-  <a class="card" href="ai-apps.html?v=20260623">
+  <a class="card" href="ai-apps.html?v=20260627">
     <div class="card-top">
       <div class="card-icon apps">🚀</div>
       <div class="card-label">AI 应用简报</div>
@@ -94,7 +93,7 @@ body {
     <div class="card-meta">今日已更新</div>
   </a>
 
-  <a class="card" href="newenergy.html?v=20260623">
+  <a class="card" href="newenergy.html?v=20260627">
     <div class="card-top">
       <div class="card-icon newenergy">⚡</div>
       <div class="card-label">新能源简报</div>
@@ -103,7 +102,7 @@ body {
     <div class="card-meta">今日已更新</div>
   </a>
 
-  <a class="card" href="entertainment.html?v=20260623">
+  <a class="card" href="entertainment.html?v=20260627">
     <div class="card-top">
       <div class="card-icon entertainment">🎬</div>
       <div class="card-label">娱乐简报</div>
@@ -112,7 +111,7 @@ body {
     <div class="card-meta">今日已更新</div>
   </a>
 
-  <a class="card" href="semiconductor.html?v=20260623">
+  <a class="card" href="semiconductor.html?v=20260627">
     <div class="card-top">
       <div class="card-icon semiconductor">💻</div>
       <div class="card-label">半导体简报</div>
@@ -128,8 +127,11 @@ body {
   </div>
 </div>
 <script>
-document.getElementById('today-date').textContent = new Date().toLocaleDateString('zh-CN', {year:'numeric',month:'long',day:'numeric',weekday:'long'});
-document.getElementById('update-time').textContent = '最后更新：2026年06月27日 13:45
+(function() {
+  var now = new Date();
+  document.getElementById('today-date').textContent = now.toLocaleDateString('zh-CN', {year:'numeric',month:'long',day:'numeric',weekday:'long'});
+  document.getElementById('update-time').textContent = '最后更新：' + now.toLocaleString('zh-CN');
+})();
 </script>
 </body>
 </html>
