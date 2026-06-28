@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>🚀 AI 应用简报 · 2026年6月28日</title>
+<title>🚀 AI 应用简报 · 2026年06月28日</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
 .container{max-width:420px;margin:0 auto}
-.header{background:linear-gradient(135deg,#27ae60,#1e8449);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header{background:linear-gradient(135deg,#27ae60, #1e8449);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
 .header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
 .header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
 .header-title{font-size:22px;font-weight:700;letter-spacing:1px}
@@ -28,6 +28,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 .section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
 .section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
 .section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
 .section-icon.tool{background:#e8f5e9}
 .section-icon.case{background:#e3f2fd}
 .section-icon.agent{background:#ede7f6}
@@ -42,8 +48,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 .news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
 .news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
 .news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.news-source{font-size:11px;color:#27ae60;background:rgba(39,174,96,0.08);border-radius:4px;padding:2px 7px}
-.news-link{font-size:11px;color:#aaa;text-decoration:none}
+.news-source{font-size:11px;color:#27ae60;background:rgba(39,174,96,39,174,96,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#27ae60}
 .footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
 .footer span{color:#27ae60;font-weight:600}
 </style>
@@ -51,118 +58,122 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 <body>
 <div class="container">
 <div class="header">
-<div class="header-date">2026年6月28日 星期日</div>
+<div class="header-date">2026年06月28日</div>
 <div class="header-title">🚀 AI 应用简报</div>
 <div class="header-sub">AI 工具 · 行业落地 · Agent · 商业模式</div>
-<div class="header-tag">由 WorkBuddy AI 自动整理</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
 </div>
 <div class="summary-card">
 <div class="summary-title"><span class="dot"></span> 今日概览</div>
-<div class="summary-grid">
-<div class="summary-item green"><div class="summary-num">2</div><div class="summary-label">工具与产品</div></div>
-<div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">行业落地</div></div>
-<div class="summary-item orange"><div class="summary-num">2</div><div class="summary-label">AI Agent</div></div>
-<div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">商业模式</div></div>
-</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">AI 工具与产品发布</div></div><div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">AI + 行业落地案例</div></div><div class="summary-item green"><div class="summary-num">2</div><div class="summary-label">AI Agent 与智能体</div></div><div class="summary-item orange"><div class="summary-num">1</div><div class="summary-label">AI 创业与商业模式</div></div></div>
 </div>
 
-<div class="section">
-<div class="section-header">
-<div class="section-icon tool">🛠️</div>
-<div class="section-name">AI 工具与产品发布</div>
-<div class="section-count">2 条</div>
-</div>
-<div class="news-item">
-<div class="news-index active">1</div>
-<div class="news-body">
-<div class="news-title">OpenAI发布GPT-5.6系列：Sol/Terra/Luna三款齐发，首因安全风险受美国政府限量管控</div>
-<div class="news-summary">6月26日，OpenAI正式发布GPT-5.6系列三款模型——旗舰Sol、均衡Terra、轻量Luna，全系被标记为"高风险"级别，在美国政府要求下仅向可信合作伙伴限量预览，这是AI发布史上首次面临逐客户审批。</div>
-<div class="news-meta"><span class="news-source">新浪财经</span><a href="https://finance.sina.com.cn/tech/roll/2026-06-27/doc-inieveqy4792427.shtml" class="news-link" target="_blank">原文 →</a></div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index">2</div>
-<div class="news-body">
-<div class="news-title">字节Seedance 2.5亮相：豆包视频生成模型支持原生30秒视频直出，7月正式上线</div>
-<div class="news-summary">6月23日火山引擎FORCE大会上，字节发布Seedance 2.5视频生成模型，支持单段原生30秒视频直出与50个全模态参考素材同时导入，目前全球企业内测中，预计7月初正式开放。</div>
-<div class="news-meta"><span class="news-source">量子位 / AIHub</span><a href="https://www.aihub.cn/news/seedance-2-5-launch/" class="news-link" target="_blank">原文 →</a></div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon case">🏭</div>
-<div class="section-name">AI + 行业落地案例</div>
-<div class="section-count">2 条</div>
-</div>
-<div class="news-item">
-<div class="news-index active">3</div>
-<div class="news-body">
-<div class="news-title">2026南京软件大会开幕：「AI+软件」成主旋律，30+国产大模型集中展示工业软件AI化</div>
-<div class="news-summary">6月26日南京软件大会开幕，聚焦"AI引领软件产业数智化变革"，华为、CATL、徐工等制造业龙头发布AI需求清单，阿里通义、智谱GLM、DeepSeek等30+国产大模型集中参展，工业软件AI化站上风口。</div>
-<div class="news-meta"><span class="news-source">一道科技</span><a href="https://www.yidaoit.cn/news-2026-06-26-b.html" class="news-link" target="_blank">原文 →</a></div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index">4</div>
-<div class="news-body">
-<div class="news-title">美团集中开源AI技术体系：海报生成+数字人+31万行代码AI重构全链路闭环</div>
-<div class="news-summary">美团技术团队近期密集开源多项AI技术，包括AIGC海报生成体系、LongCat-Video-Avatar商业级数字人、31万行代码AI重构实战经验，技术已在外卖、品牌IP等核心业务中深度落地，展示工程化AI能力。</div>
-<div class="news-meta"><span class="news-source">美团技术团队</span><a href="https://tech.meituan.com/2026/06/18/AIGC-poster.html" class="news-link" target="_blank">原文 →</a></div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon agent">🤖</div>
-<div class="section-name">AI Agent 与智能体</div>
-<div class="section-count">2 条</div>
-</div>
-<div class="news-item">
-<div class="news-index active">5</div>
-<div class="news-body">
-<div class="news-title">新华社「新华语典」AI智能体正式上线：低幻觉、可溯源，覆盖政务媒体七大功能</div>
-<div class="news-summary">6月26日，新华社推出时政专用AI智能体"新华语典"，依托数十年权威新闻语料训练，主打低幻觉与内容可溯源，具备理论检索、新闻溯源、文稿审校、智能写作等七大功能，面向政务与媒体从业者提供可控可信的AI工具。</div>
-<div class="news-meta"><span class="news-source">无矩AI</span><a href="https://iaipie.com/2026-%E5%B9%B4-6-%E6%9C%88-26-%E6%97%A5-ai-%E8%A1%8C%E4%B8%9A%E8%B5%84%E8%AE%AF%E9%80%9F%E8%A7%88/" class="news-link" target="_blank">原文 →</a></div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index">6</div>
-<div class="news-body">
-<div class="news-title">BrowserBC开源：将人类浏览器操作轨迹蒸馏为Agent可复用技能，任务成功率提升超35%</div>
-<div class="news-summary">Einsia AI旗下Navers Lab发布BrowserBC，通过录制→转写→执行三步范式，将人类浏览器操作蒸馏成自然语言Skill卡，小模型执行任务成功率提升35%，揭示了Web Agent从"能用"到"好用"的新路径。</div>
-<div class="news-meta"><span class="news-source">量子位</span><a href="https://www.qbitai.com/2026/06/439393.html" class="news-link" target="_blank">原文 →</a></div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon biz">💡</div>
-<div class="section-name">AI 创业与商业模式</div>
-<div class="section-count">2 条</div>
-</div>
-<div class="news-item">
-<div class="news-index">7</div>
-<div class="news-body">
-<div class="news-title">演语科技完成近3亿美元B+轮融资：中国AI应用首现3亿ARR独角兽，腾讯顺为红杉加码</div>
-<div class="news-summary">演语科技（Evoken）完成近3亿美元B+轮融资，估值超20亿美元。旗下LiblibAI累计用户超3000万、LibTV上线两月收入增长13倍，成为国内首个以多产品矩阵跑通PMF和商业化的AI应用独角兽。</div>
-<div class="news-meta"><span class="news-source">量子位</span><a href="https://www.qbitai.com/2026/06/438336.html" class="news-link" target="_blank">原文 →</a></div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index">8</div>
-<div class="news-body">
-<div class="news-title">DeepSeek 510亿融资后全员扩招：发力AI搜索与智能体，国产开源大模型商业化提速</div>
-<div class="news-summary">刚完成510亿元首轮大额融资的DeepSeek启动全员扩招，各团队规模计划至少翻倍，重点招聘AI搜索、智能体底层架构及数据研发人才，加速从模型能力向搜索和Agent应用场景的商业化延伸。</div>
-<div class="news-meta"><span class="news-source">无矩AI</span><a href="https://iaipie.com/2026-%E5%B9%B4-6-%E6%9C%88-26-%E6%97%A5-ai-%E8%A1%8C%E4%B8%9A%E8%B5%84%E8%AE%AF%E9%80%9F%E8%A7%88/" class="news-link" target="_blank">原文 →</a></div>
-</div>
-</div>
-</div>
-
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年6月28日 10:12 更新</div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon tool">🛠️</div>
+      <div class="section-name">AI 工具与产品发布</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index active">1</div>
+      <div class="news-body">
+        <div class="news-title">G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线</div>
+        <div class="news-summary">作者｜黄楠 编辑｜袁斯来 6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3869740772316162?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index active">2</div>
+      <div class="news-body">
+        <div class="news-title">理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底</div>
+        <div class="news-summary">图源视觉中国 动力电池一直是新能源汽车里高频博弈的战场。 它通常占据一辆新能源车30%-40%的BO...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3866946087867394?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon case">🏭</div>
+      <div class="section-name">AI + 行业落地案例</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">3</div>
+      <div class="news-body">
+        <div class="news-title">一折买 Miu Miu，谁在做奢侈品牌的&quot;拼多多&quot;？｜商业Friday</div>
+        <div class="news-summary">文｜贺哲馨 编辑｜乔芊 Judy第一次意识到，原来打折的奢侈品也有准入门槛，是在申请加入On The...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3867976058803459?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">4</div>
+      <div class="news-body">
+        <div class="news-title">追赶FSD V14，理想在补哪些课？｜最前线</div>
+        <div class="news-summary">过去几年，智能驾驶行业的竞争重心经历了几次明显变化。 最早比的是硬件：激光雷达要不要上、摄像头装几个...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3870292939658242?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon agent">🤖</div>
+      <div class="section-name">AI Agent 与智能体</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">5</div>
+      <div class="news-body">
+        <div class="news-title">秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完</div>
+        <div class="news-summary">本文约2500字，建议阅读5分钟 作者&amp;nbsp;|&amp;nbsp;彭孝秋 编者按：AI 大爆发之际，越...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3871109381035011?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">6</div>
+      <div class="news-body">
+        <div class="news-title">氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍</div>
+        <div class="news-summary">大公司： 五粮液：曾从钦无法正常履职离任，选举邓敏为公司董事长 36氪获悉，五粮液公告，因曾从钦无法...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3869884559332356?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon biz">💡</div>
+      <div class="section-name">AI 创业与商业模式</div>
+      <div class="section-count">1 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">7</div>
+      <div class="news-body">
+        <div class="news-title">9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元</div>
+        <div class="news-summary">今日热点导览 OpenAI官宣推出GPT-5.6 亚洲“果链”股价几乎全线大幅下跌 SpaceX计划...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3870720040588295?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年06月28日 06:07 更新</div>
 </div>
 </body>
 </html>
