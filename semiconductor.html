@@ -2,178 +2,160 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>💻 半导体简报 · 2026年07月29日</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>半导体简报 - 2026年7月30日</title>
 <style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
-.container{max-width:420px;margin:0 auto}
-.header{background:linear-gradient(135deg,#2196f3, #1565c0);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
-.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
-.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
-.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
-.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
-.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
-.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
-.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
-.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#2196f3;flex-shrink:0}
-.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
-.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
-.summary-label{font-size:11px;color:#888;margin-top:2px}
-.summary-item.red .summary-num{color:#e74c3c}
-.summary-item.blue .summary-num{color:#2980b9}
-.summary-item.green .summary-num{color:#27ae60}
-.summary-item.orange .summary-num{color:#e67e22}
-.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
-.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
-.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
-.section-icon.policy{background:#fff3e0}
-.section-icon.market{background:#e3f2fd}
-.section-icon.pe{background:#fce4ec}
-.section-icon.model{background:#ede7f6}
-.section-icon.app{background:#e8f5e9}
-.section-icon.capital{background:#fce4ec}
-.section-icon.tool{background:#e8f5e9}
-.section-icon.case{background:#e3f2fd}
-.section-icon.agent{background:#ede7f6}
-.section-icon.biz{background:#fff3e0}
-.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
-.section-count{margin-left:auto;font-size:12px;color:#aaa}
-.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
-.news-item:last-child{border-bottom:none}
-.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
-.news-index.active{background:#2196f3;color:#fff}
-.news-body{padding-left:30px}
-.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
-.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
-.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.news-source{font-size:11px;color:#2196f3;background:rgba(33,150,243,33,150,243,0.1);border-radius:4px;padding:2px 7px}
-.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
-.news-link:hover{color:#2196f3}
-.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
-.footer span{color:#2196f3;font-weight:600}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;background:#eef2f7;color:#1a2742;line-height:1.7}
+.header{background:linear-gradient(135deg,#0d1f3c,#1a3a6b,#1e4d8c);color:#fff;padding:36px 20px;text-align:center;position:relative;overflow:hidden}
+.header::before{content:"";position:absolute;top:-50%;right:-10%;width:300px;height:300px;background:radial-gradient(circle,rgba(74,144,226,0.25),transparent 70%);border-radius:50%}
+.header::after{content:"";position:absolute;bottom:-30%;left:-5%;width:200px;height:200px;background:radial-gradient(circle,rgba(74,144,226,0.15),transparent 70%);border-radius:50%}
+.header h1{font-size:28px;margin-bottom:8px;position:relative;z-index:1;letter-spacing:2px}
+.header .date{font-size:14px;opacity:.82;position:relative;z-index:1}
+.header .weekday{display:inline-block;background:rgba(255,255,255,0.15);padding:2px 10px;border-radius:10px;margin-left:8px}
+.container{max-width:860px;margin:24px auto;padding:0 18px}
+.summary-box{background:linear-gradient(135deg,#eaf0fb,#dce6f5);border:1px solid #b8cfe8;border-radius:14px;padding:18px 24px;margin-bottom:20px}
+.summary-box h3{font-size:15px;color:#1a3a6b;margin-bottom:10px}
+.summary-box ul{list-style:none}
+.summary-box li{font-size:13px;color:#3a5278;padding:4px 0;padding-left:18px;position:relative}
+.summary-box li::before{content:"▸";position:absolute;left:0;color:#1e4d8c;font-weight:bold}
+
+.section-title{font-size:16px;color:#1a3a6b;margin:22px 0 12px 0;padding-left:14px;border-left:3px solid #2b6cc4;font-weight:700}
+
+.card{background:#fff;border-radius:12px;padding:18px 22px;margin-bottom:12px;box-shadow:0 2px 10px rgba(26,57,107,0.07);border-left:4px solid #2b6cc4;transition:all .2s ease}
+.card:hover{box-shadow:0 6px 22px rgba(26,57,107,0.12);transform:translateY(-2px)}
+.card h2{font-size:16px;color:#0d1f3c;margin-bottom:7px;line-height:1.5}
+.card .summary{font-size:13px;color:#5a6f8a;margin-bottom:6px}
+.card .meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.card .tag{display:inline-block;background:#2b6cc4;color:#fff;font-size:11px;padding:2px 10px;border-radius:10px;font-weight:500}
+.card .source{font-size:12px;color:#8899b4}
+.card .source a{color:#2b6cc4;text-decoration:none;font-weight:500}
+.card .source a:hover{text-decoration:underline}
+
+.footer{text-align:center;padding:28px 20px;font-size:12px;color:#8899b4}
+.footer a{color:#2b6cc4;text-decoration:none}
+
+.count{font-size:12px;color:#8899b4;text-align:center;margin-top:-8px;margin-bottom:16px}
 </style>
 </head>
 <body>
-<div class="container">
 <div class="header">
-<div class="header-date">2026年07月29日</div>
-<div class="header-title">💻 半导体简报</div>
-<div class="header-sub">芯片技术 · 晶圆代工 · EDA · 国产替代</div>
-<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
+<h1>💻 每日半导体简报</h1>
+<div style="position:relative;z-index:1">
+<span class="date">2026年7月30日</span>
+<span class="weekday">星期四</span>
 </div>
-<div class="summary-card">
-<div class="summary-title"><span class="dot"></span> 今日概览</div>
-<div class="summary-grid"><div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">政策与产业</div></div><div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">技术与产品</div></div><div class="summary-item green"><div class="summary-num">1</div><div class="summary-label">企业动态</div></div><div class="summary-item orange"><div class="summary-num">2</div><div class="summary-label">投融资与IPO</div></div></div>
 </div>
 
-  <div class="section">
-    <div class="section-header">
-      <div class="section-icon policy">📋</div>
-      <div class="section-name">政策与产业</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index active">1</div>
-      <div class="news-body">
-        <div class="news-title">自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发</div>
-        <div class="news-summary">文｜胡香赟 编辑｜海若镜 36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本...</div>
-        <div class="news-meta">
-          <span class="news-source">36氪</span>
-          <a class="news-link" href="https://36kr.com/p/3878652674715905?f=rss">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index active">2</div>
-      <div class="news-body">
-        <div class="news-title">36氪研究院 | 2026年中国智能硬件行业发展研究报告</div>
-        <div class="news-summary">当前，AI技术正加速向实体经济各领域渗透深化，智能硬件作为AI能力落地实体场景的核心载体，已进入产品...</div>
-        <div class="news-meta">
-          <span class="news-source">36氪</span>
-          <a class="news-link" href="https://36kr.com/p/3915066350327176?f=rss">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section">
-    <div class="section-header">
-      <div class="section-icon model">🔬</div>
-      <div class="section-name">技术与产品</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index ">3</div>
-      <div class="news-body">
-        <div class="news-title">在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab</div>
-        <div class="news-summary">文｜王欣逸 编辑｜张雨忻 见到Mind Lab创始人陈锴杰，是在北京的晚上9点半，他已经见了一天的投...</div>
-        <div class="news-meta">
-          <span class="news-source">36氪</span>
-          <a class="news-link" href="https://36kr.com/p/3916202023660929?f=rss">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index ">4</div>
-      <div class="news-body">
-        <div class="news-title">科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思</div>
-        <div class="news-summary">7月27日，东莞市数字人体与智慧睡眠创新联合体揭牌暨工作推进会在慕思健康睡眠股份有限公司（以下简称“...</div>
-        <div class="news-meta">
-          <span class="news-source">36氪</span>
-          <a class="news-link" href="https://36kr.com/p/3915239611739781?f=rss">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section">
-    <div class="section-header">
-      <div class="section-icon case">🏢</div>
-      <div class="section-name">企业动态</div>
-      <div class="section-count">1 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index ">5</div>
-      <div class="news-body">
-        <div class="news-title">8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源</div>
-        <div class="news-summary">今日热点导览 李宁此前起诉多个网络账号名誉侵权案，已取得胜诉判决 小米已注册澎程关联商标 泡泡玛特城...</div>
-        <div class="news-meta">
-          <span class="news-source">36氪</span>
-          <a class="news-link" href="https://36kr.com/p/3915953688604296?f=rss">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section">
-    <div class="section-header">
-      <div class="section-icon capital">💰</div>
-      <div class="section-name">投融资与IPO</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index ">6</div>
-      <div class="news-body">
-        <div class="news-title">柔性触觉感知企业获新一轮融资，预计2026年公司营收翻10倍｜硬氪首发</div>
-        <div class="news-summary">作者｜黄楠 编辑｜袁斯来 硬氪获悉，柔性触觉感知企业「尧乐科技」近日完成Pre-A+新一轮融资，本轮...</div>
-        <div class="news-meta">
-          <span class="news-source">36氪</span>
-          <a class="news-link" href="https://36kr.com/p/3915175290901889?f=rss">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index ">7</div>
-      <div class="news-body">
-        <div class="news-title">氪星晚报｜Meta宣布与贝莱德达成战略合作，将在埃尔帕索开发数据中心；“国科超导”完成超亿元融资；我国启动人工智能大模型IPv6能力提升专项行动</div>
-        <div class="news-summary">大公司： YouTube与NBC环球达成合作协���，将为美用户提供流媒体捆绑服务 7月27日，美国...</div>
-        <div class="news-meta">
-          <span class="news-source">36氪</span>
-          <a class="news-link" href="https://36kr.com/p/3913321294369924?f=rss">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年07月29日 04:58 更新</div>
+<div class="container">
+
+<div class="summary-box">
+<h3>📌 今日速览</h3>
+<ul>
+<li>全球芯片销售额今年首破1.5万亿美元，AI成核心驱动力</li>
+<li>手机SoC出货量降15%，内存成本暴涨300%超越处理器</li>
+<li>SK集团与英伟达签署超5000亿美元AI战略合作</li>
+<li>SK海力士Q2利润暴增557%，HBM4已启动量产</li>
+<li>高通全线双位数涨价，年底量产数据中心芯片</li>
+<li>长江存储声明：专利诉讼仍在审理中，IPO持续推进</li>
+</ul>
+</div>
+
+<p class="count">共收录 8 条快讯 · 4 个分类</p>
+
+<!-- ====== 政策与产业 ====== -->
+<div class="section-title">📋 政策与产业</div>
+
+<div class="card">
+<h2>全球芯片销售额今年首破1.5万亿美元，美国份额53.4%创40年新高</h2>
+<p class="summary">SIA报告：2026年全球芯片销售额首次突破1.5万亿美元，AI数据中心半导体年营收有望在2028年突破1.2万亿美元，存储芯片涨幅领跑。</p>
+<div class="meta">
+<span class="tag">SIA</span>
+<span class="source">来源：<a href="https://dy.163.com/article/L32PJQSR05312NX9.html" target="_blank" rel="noopener">TechSugar</a></span>
+</div>
+</div>
+
+<div class="card">
+<h2>上半年手机SoC出货量同比降15%，内存成本暴涨300%首超处理器</h2>
+<p class="summary">Counterpoint：2026年H1全球手机SoC出货量降15%，Q2手机内存价格暴涨300%，内存成本首次超越SoC成为最贵单一组件，联发科32%份额居首。</p>
+<div class="meta">
+<span class="tag">存储器</span>
+<span class="source">来源：<a href="https://dy.163.com/article/L32PJQSR05312NX9.html" target="_blank" rel="noopener">TechSugar</a></span>
+</div>
+</div>
+
+<!-- ====== 技术与产品 ====== -->
+<div class="section-title">🔬 技术与产品</div>
+
+<div class="card">
+<h2>英伟达发布自主AI芯片设计工程师：设计到验证全自动，50倍量子化学加速</h2>
+<p class="summary">英伟达发布AI芯片设计工具，覆盖设计到验证全流程，号称在三星/台积电流程上实现50倍量子化学加速，AI驱动EDA迈入新范式。</p>
+<div class="meta">
+<span class="tag">EDA</span>
+<span class="source">来源：<a href="https://dy.163.com/article/L32PJQSR05312NX9.html" target="_blank" rel="noopener">TechSugar</a></span>
+</div>
+</div>
+
+<div class="card">
+<h2>比亚迪自研4nm智驾芯片"璇玑A3"发布，支持L3/L4自动驾驶</h2>
+<p class="summary">比亚迪正式发布自研4nm制程智驾芯片璇玑A3，支持L3/L4级自动驾驶，采用先进封装技术，车规芯片国产替代再进一步。</p>
+<div class="meta">
+<span class="tag">车规芯片</span>
+<span class="source">来源：<a href="https://dy.163.com/article/L32PJQSR05312NX9.html" target="_blank" rel="noopener">TechSugar</a></span>
+</div>
+</div>
+
+<!-- ====== 企业动态 ====== -->
+<div class="section-title">🏢 企业动态</div>
+
+<div class="card">
+<h2>SK集团与英伟达签署超5000亿美元AI战略合作，涵盖AI工厂与HBM供应</h2>
+<p class="summary">SK集团与英伟达签署意向书：SK电信将建设2GW NVIDIA AI工厂，SK海力士与英伟达建立HBM长期供应及下一代AI内存联合开发合作。</p>
+<div class="meta">
+<span class="tag">战略合作</span>
+<span class="source">来源：<a href="https://36kr.com" target="_blank" rel="noopener">36氪 / 财联社</a></span>
+</div>
+</div>
+
+<div class="card">
+<h2>SK海力士Q2利润暴增557%，HBM4已量产，与10家客户签长协平抑波动</h2>
+<p class="summary">SK海力士Q2营收79.32万亿韩元，利润暴增557%，营业利润率76%。HBM4已提前一个季度量产，与约10家客户签订长协以平抑周期波动。</p>
+<div class="meta">
+<span class="tag">HBM</span>
+<span class="source">来源：<a href="https://new.qq.com/rain/a/20260730A02LRN00" target="_blank" rel="noopener">华尔街见闻</a></span>
+</div>
+</div>
+
+<div class="card">
+<h2>高通宣布全线双位数涨价，年底量产数据中心芯片，苹果订单或环比腰斩</h2>
+<p class="summary">高通Q3净利润同比下滑25%，宣布9月1日起全线双位数涨价应对内存成本危机。计划年底量产数据中心芯片，苹果订单预计下季度环比腰斩。</p>
+<div class="meta">
+<span class="tag">涨价</span>
+<span class="source">来源：<a href="https://www.163.com/dy/article/L32T801O05198NMR.html" target="_blank" rel="noopener">华尔街见闻</a></span>
+</div>
+</div>
+
+<!-- ====== 投融资与IPO ====== -->
+<div class="section-title">💰 投融资与IPO</div>
+
+<div class="card">
+<h2>长江存储深夜声明：核心专利诉讼仍在审理中，IPO辅导推进至第一期</h2>
+<p class="summary">长江存储回应网传"核心3D NAND专利被裁定全部无效"系严重误导，27项专利诉讼仍在审理。长存控股IPO辅导已于7月10日更新至第一期。</p>
+<div class="meta">
+<span class="tag">IPO</span>
+<span class="source">来源：<a href="https://www.toutiao.com/article/7668106919424344616/" target="_blank" rel="noopener">上海证券报</a></span>
+</div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+<p>💻 每日半导体简报 · 自动生成于 2026-07-30 10:00 CST</p>
+<p style="margin-top:4px">数据来源：<a href="https://www.cls.cn" target="_blank" rel="noopener">财联社</a> · 
+<a href="https://36kr.com" target="_blank" rel="noopener">36氪</a> · 
+<a href="https://wallstreetcn.com" target="_blank" rel="noopener">华尔街见闻</a> · 
+<a href="https://www.ithome.com" target="_blank" rel="noopener">IT之家</a> 等</p>
+</div>
+
 </div>
 </body>
 </html>
