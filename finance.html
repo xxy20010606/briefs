@@ -3,214 +3,72 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>财经简报 · 2026年08月01日</title>
+<title>📊 财经简报 · 2026年08月01日</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
 .container{max-width:420px;margin:0 auto}
-.header{background:linear-gradient(135deg,#8b0000,#b22222,#c62828);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
-.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.06);border-radius:50%}
-.header::before{content:"";position:absolute;bottom:-20px;left:-20px;width:80px;height:80px;background:rgba(255,255,255,0.04);border-radius:50%}
+.header{background:linear-gradient(135deg,#1a1a2e, #16213e);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
 .header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
 .header-title{font-size:22px;font-weight:700;letter-spacing:1px}
 .header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
 .header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
 .summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
 .summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
-.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#c62828;flex-shrink:0}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#e74c3c;flex-shrink:0}
 .summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
 .summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
 .summary-label{font-size:11px;color:#888;margin-top:2px}
-.summary-item.red .summary-num{color:#c62828}
-.summary-item.blue .summary-num{color:#1565c0}
-.summary-item.green .summary-num{color:#2e7d32}
-.summary-item.orange .summary-num{color:#e65100}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
 .section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
 .section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
 .section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
-.section-icon.policy{background:#ffebee}
-.section-icon.fintech{background:#e8eaf6}
+.section-icon.policy{background:#fff3e0}
 .section-icon.market{background:#e3f2fd}
-.section-icon.invest{background:#fff3e0}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
 .section-name{font-size:15px;font-weight:700;color:#1a1a2e}
 .section-count{margin-left:auto;font-size:12px;color:#aaa}
 .news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
 .news-item:last-child{border-bottom:none}
 .news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
-.news-index.active{background:#c62828;color:#fff}
+.news-index.active{background:#e74c3c;color:#fff}
 .news-body{padding-left:30px}
 .news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
 .news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
 .news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.news-source{font-size:11px;color:#c62828;background:rgba(198,40,40,0.08);border-radius:4px;padding:2px 7px}
+.news-source{font-size:11px;color:#e74c3c;background:rgba(231,76,60,231,76,60,0.1);border-radius:4px;padding:2px 7px}
 .news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
-.news-link:hover{color:#c62828}
-.market-bar{background:#fff;border-radius:14px;margin-bottom:14px;padding:16px 18px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
-.market-bar-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
-.market-bar-title .dot{width:6px;height:6px;border-radius:50%;background:#c62828;flex-shrink:0}
-.market-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px solid #f5f5fa}
-.market-row:last-child{border-bottom:none}
-.market-name{font-size:13px;font-weight:500;color:#333}
-.market-val{font-size:13px;font-weight:700}
-.market-val.up{color:#c62828}
-.market-val.down{color:#2e7d32}
+.news-link:hover{color:#e74c3c}
 .footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
-.footer span{color:#c62828;font-weight:600}
+.footer span{color:#e74c3c;font-weight:600}
 </style>
 </head>
 <body>
 <div class="container">
 <div class="header">
-<div class="header-date">2026年08月01日 星期六</div>
-<div class="header-title">财经简报</div>
-<div class="header-sub">宏观政策 · 金融科技 · 资本市场 · 投融资</div>
+<div class="header-date">2026年08月01日</div>
+<div class="header-title">📊 财经简报</div>
+<div class="header-sub">科技金融 · A股港股 · 美联储 · 一级市场</div>
 <div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
 </div>
-
 <div class="summary-card">
 <div class="summary-title"><span class="dot"></span> 今日概览</div>
-<div class="summary-grid">
-<div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">宏观政策</div></div>
-<div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">金融科技动态</div></div>
-<div class="summary-item green"><div class="summary-num">2</div><div class="summary-label">资本市场表现</div></div>
-<div class="summary-item orange"><div class="summary-num">2</div><div class="summary-label">投融资事件</div></div>
-</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">宏观政策</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">金融科技动态</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">资本市场表现</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">投融资事件</div></div></div>
 </div>
 
-<div class="market-bar">
-<div class="market-bar-title"><span class="dot"></span> 全球市场收报 · 7月31日</div>
-<div class="market-row"><span class="market-name">上证指数</span><span class="market-val up">3832.26 <span style="font-size:11px">+0.72%</span></span></div>
-<div class="market-row"><span class="market-name">深证成指</span><span class="market-val up">13578.93 <span style="font-size:11px">+2.21%</span></span></div>
-<div class="market-row"><span class="market-name">创业板指</span><span class="market-val up">3343.96 <span style="font-size:11px">+3.06%</span></span></div>
-<div class="market-row"><span class="market-name">科创50</span><span class="market-val up">1635.96 <span style="font-size:11px">+2.99%</span></span></div>
-<div class="market-row"><span class="market-name">恒生指数</span><span class="market-val up">25884.43 <span style="font-size:11px">+0.10%</span></span></div>
-<div class="market-row"><span class="market-name">恒生科技</span><span class="market-val up">4829.22 <span style="font-size:11px">+0.53%</span></span></div>
-<div class="market-row"><span class="market-name">费城半导体</span><span class="market-val down">高开低走 <span style="font-size:11px">-0.10%</span></span></div>
-<div class="market-row"><span class="market-name">伦敦金现</span><span class="market-val down">4028.04 <span style="font-size:11px">-1.56%</span></span></div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon policy">🏛️</div>
-<div class="section-name">宏观政策</div>
-<div class="section-count">2 条</div>
-</div>
-
-<div class="news-item">
-<div class="news-index active">1</div>
-<div class="news-body">
-<div class="news-title">央行7月31日开展6000亿隔夜+1340亿7天期逆回购操作，单日净投放665亿护航跨月</div>
-<div class="news-summary">中国人民银行7月31日公告，以固定利率、数量招标方式开展6000亿元隔夜逆回购+1340亿元7天期逆回购操作，操作利率1.40%，因当日有8040亿元逆回购到期，单日实现净投放665亿元。这是7月29日至7月31日连续三日6000亿隔夜操作的收官，叠加8月3日还将开展3000亿隔夜操作。央行副行长邹澜此前明确"隔夜逆回购看重的是对超短期流动性的调节能力，而非利率，7天期逆回购利率仍是唯一的政策利率"。机构认为央行选择提前公告"预告式"操作，有助于精准对冲跨月资金面波动，短端利率DR001波动将受到更有力控制。</div>
-<div class="news-meta">
-<span class="news-source">央行网站 / 证券时报 / 中新经纬</span>
-</div>
-</div>
-</div>
-
-<div class="news-item">
-<div class="news-index active">2</div>
-<div class="news-body">
-<div class="news-title">何立峰与美国财长贝森特、贸易代表格里尔举行视频通话，中美经贸高层再沟通</div>
-<div class="news-summary">北京时间7月30日晚，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔举行视频通话。双方围绕落实中美两国元首通话共识、推进宏观经济政策协调、应对全球性挑战等议题进行专业、务实、建设性的沟通。这是继6月中旬日内瓦经贸会谈后双方高层的再次接触。机构认为此次通话正值美联储7月议息会议鹰派按兵不动、美股震荡加剧的关键时点，对稳定市场预期、防止关税摩擦再度升级具有积极意义，后续华盛顿面对面磋商有望提速。</div>
-<div class="news-meta">
-<span class="news-source">新华社 / 商务部 / 21世纪经济报道</span>
-</div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon fintech">🤖</div>
-<div class="section-name">金融科技动态</div>
-<div class="section-count">2 条</div>
-</div>
-
-<div class="news-item">
-<div class="news-index active">3</div>
-<div class="news-body">
-<div class="news-title">"AI六小虎"阶跃星辰将完成近25亿美元融资冲刺港股IPO，产业链资本+港版淡马锡集中进场</div>
-<div class="news-summary">内媒报道，国产大模型"AI六小虎"之一阶跃星辰将完成近25亿美元融资，早前已拆除红筹架构，加速为港股IPO作准备，或将成为继智谱(02513.HK)、MiniMax(00100.HK)之后又一家赴港上市的国产大模型公司。本轮融资最大亮点是产业链资本集中进场——华勤、龙旗、豪威、中兴通讯等多家手机及消费电子产业链公司参与，覆盖整机制造到上游核心器件多个环节；此外"港版淡马锡"香港投资管理有限公司亦出现在股东名单中。早期消息称阶跃星辰拟今年港股IPO集资约5亿美元，正与潜在顾问洽商。</div>
-<div class="news-meta">
-<span class="news-source">AASTOCKS / 财联社 / 智通财经</span>
-</div>
-</div>
-</div>
-
-<div class="news-item">
-<div class="news-index" style="background:#c62828;color:#fff">4</div>
-<div class="news-body">
-<div class="news-title">宇树科技科创板IPO 8月10日申购：拟发行4044.6万股，询价日8.5日，上半年净利预盈2.58亿-3.06亿</div>
-<div class="news-summary">"人形机器人第一股"宇树科技发布公告，公司科创板IPO拟发行4044.6434万股，占发行后总股本10%，初步询价日为8月5日，申购日为8月10日，员工资管计划拟参与IPO战略配售规模不超发行量10%。宇树同时披露2026年上半年业绩预告，预计营业收入10.52亿元-11.28亿元，净利润2.58亿元-3.06亿元，盈利能力远超去年全年。此前宇树已完成多轮融资，估值跻身百亿独角兽，IPO进程标志着人形机器人产业链进入规模化验证新阶段，将对A股具身智能板块形成直接催化。</div>
-<div class="news-meta">
-<span class="news-source">公司公告 / 证券时报 / 上海证券报</span>
-</div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon market">📈</div>
-<div class="section-name">资本市场表现</div>
-<div class="section-count">2 条</div>
-</div>
-
-<div class="news-item">
-<div class="news-index active">5</div>
-<div class="news-body">
-<div class="news-title">A股7.31集体反弹大反攻：沪指+0.72%深成指+2.21%创业板+3.06%科创50+2.99%，AI应用+机器人+半导体全线爆发</div>
-<div class="news-summary">7月31日A股三大指数集体高开后全天高位震荡，截至收盘沪指报3832.26点涨0.72%，深证成指报13578.93点涨2.21%，创业板指报3343.96点涨3.06%(盘中一度涨近7%)，科创50报1635.96点涨2.99%。沪深京三市成交额2.56万亿元，较上日放量超2000亿元，近4700只个股上涨逾百股涨停。AI应用概念全线爆发(蓝色光标/昆仑万维涨停)，算力租赁(利通电子/美利云)、人形机器人(卧龙电驱)、半导体(芯原股份/盛科通信涨超10%)集体走强；仅银行、煤炭、保险等少数板块逆势下跌。机构认为政治局会议"适时调整货币政策工具"+科技金融数据通知构成反弹核心催化。</div>
-<div class="news-meta">
-<span class="news-source">证券时报 / 每日经济新闻 / 交通银行</span>
-</div>
-</div>
-</div>
-
-<div class="news-item">
-<div class="news-index active">6</div>
-<div class="news-body">
-<div class="news-title">美股上演"过山车"：7.30纳指+2.78%费城半导体+8%微软单日市值暴增4500亿美元，7.31芯片股高开低走+霍尔木兹通行受阻原油拉升</div>
-<div class="news-summary">7月30日美股三大指数集体收涨，纳指+2.78%报25122.18点、标普500+1.66%报7437.63点、道指+1.19%报52208.06点；费城半导体指数暴涨8.19%终结五连跌，存储芯片史诗级行情——铠侠ADR+32%、闪迪+26%、美光+18%、SK海力士+17%、西部数据/Lumentum+15%；微软+15%创2008年10月以来最大单日涨幅，单日市值增加4500亿美元。7月31日芯片股高开低走(费城半导体一度+5%后回吐全部涨幅)、黄金白银回调(伦敦金现-1.56%报4028美元)、WTI原油拉升近2%——伊朗"波斯湾海峡管理局"宣布霍尔木兹海峡已无法正常通行。同时美联储官员Hammack、Kashkari解释为何支持加息。</div>
-<div class="news-meta">
-<span class="news-source">证券时报 / 中新经纬 / 华尔街见闻</span>
-</div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon invest">💰</div>
-<div class="section-name">投融资事件</div>
-<div class="section-count">2 条</div>
-</div>
-
-<div class="news-item">
-<div class="news-index active">7</div>
-<div class="news-body">
-<div class="news-title">月之暗面完成超35亿美元F轮融资：投后估值飙至350亿美元，Pre-IPO轮估值500亿美元已提前启动</div>
-<div class="news-summary">月之暗面(Moonshot AI)近日完成超35亿美元(约合236亿元人民币)F轮融资，投后估值涨至350亿美元，认购金额超出原定目标3倍有余，本轮融资提前关闭；原定8月启动的Pre-IPO轮(G轮)融资已提前开始，投前估值升至500亿美元。年内月之暗面已完成6轮融资、估值从100亿→350亿美元、半年大涨8倍。Kimi K3发布后30分钟登顶Hugging Face趋势榜，2.8万亿参数成为全球最大开源大模型；ARR从年初1亿美元→3月突破1亿→5月2亿→6月3亿(3个月翻3倍)，API收入占比已超70%，告别依赖C端订阅单一模式进入B端规模化变现周期。本轮35亿美元仅次于DeepSeek 6月约510亿元融资，为中国大模型单轮融资第二大。</div>
-<div class="news-meta">
-<span class="news-source">证券时报网 / 铅笔道 / 华峰资本</span>
-</div>
-</div>
-</div>
-
-<div class="news-item">
-<div class="news-index active">8</div>
-<div class="news-body">
-<div class="news-title">埃芯半导体完成近10亿元B+轮融资：亦庄国投+赛米基金+高瓴+深创投押注，国产半导体量检测设备再现大额融资</div>
-<div class="news-summary">国产半导体量检测设备领域再现大额融资，埃芯半导体完成B+轮融资总规模近10亿元。本轮参与方涵盖国新基金、鲲鹏资本、高瓴创投(GL Ventures)、亦庄国投、赛米基金、建信股权、中芯聚源、穗开投资、武创投、华工投资、深担创投、合肥高投、光谷金控等十余家机构，深创投、长江资本、招商证券、华沃斯等老股东持续加注。资金将用于大规模制造、交付、服务及保障体系建设，加速先进制程、先进封装及高端科研仪器产品攻关。埃芯半导体2020年10月成立、布局光学+X射线两条技术路线，今年4月第100台晶圆量测设备已交付客户；其创始人张雪娜拥有20年半导体设备经验，曾任职美国科磊、应用材料。</div>
-<div class="news-meta">
-<span class="news-source">科创板日报 / 财联社 / 投资界</span>
-</div>
-</div>
-</div>
-</div>
-
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考 · 不构成投资建议<br>2026年08月01日 10:16 更新</div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月01日 05:23 更新</div>
 </div>
 </body>
 </html>
