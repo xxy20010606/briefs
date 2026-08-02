@@ -3,50 +3,56 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>半导体简报 · 2026年08月02日</title>
+<title>💻 半导体简报 · 2026年08月02日</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
 .container{max-width:420px;margin:0 auto}
-.header{background:linear-gradient(135deg,#1565c0,#0d47a1);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header{background:linear-gradient(135deg,#2196f3, #1565c0);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
 .header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
-.header::before{content:"";position:absolute;bottom:-20px;left:-20px;width:80px;height:80px;background:rgba(255,255,255,0.03);border-radius:50%}
 .header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
 .header-title{font-size:22px;font-weight:700;letter-spacing:1px}
 .header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
 .header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
 .summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
 .summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
-.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#1565c0;flex-shrink:0}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#2196f3;flex-shrink:0}
 .summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
 .summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
 .summary-label{font-size:11px;color:#888;margin-top:2px}
-.summary-item.red .summary-num{color:#1565c0}
-.summary-item.blue .summary-num{color:#1976d2}
-.summary-item.green .summary-num{color:#2196f3}
-.summary-item.orange .summary-num{color:#42a5f5}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
 .section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
 .section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
 .section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
-.section-icon.policy{background:#e3f2fd}
-.section-icon.tech{background:#e8eaf6}
-.section-icon.biz{background:#e3f2fd}
-.section-icon.capital{background:#bbdefb}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
 .section-name{font-size:15px;font-weight:700;color:#1a1a2e}
 .section-count{margin-left:auto;font-size:12px;color:#aaa}
 .news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
 .news-item:last-child{border-bottom:none}
-.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#e3f2fd;font-size:11px;font-weight:700;color:#1565c0;display:flex;align-items:center;justify-content:center}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#2196f3;color:#fff}
 .news-body{padding-left:30px}
 .news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
 .news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
 .news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.news-source{font-size:11px;color:#1565c0;background:rgba(21,101,192,0.1);border-radius:4px;padding:2px 7px}
+.news-source{font-size:11px;color:#2196f3;background:rgba(33,150,243,33,150,243,0.1);border-radius:4px;padding:2px 7px}
 .news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
-.news-link:hover{color:#1565c0}
+.news-link:hover{color:#2196f3}
 .footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
-.footer span{color:#1565c0;font-weight:600}
+.footer span{color:#2196f3;font-weight:600}
 </style>
 </head>
 <body>
@@ -55,140 +61,119 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 <div class="header-date">2026年08月02日</div>
 <div class="header-title">💻 半导体简报</div>
 <div class="header-sub">芯片技术 · 晶圆代工 · EDA · 国产替代</div>
-<div class="header-tag">由 WorkBuddy AI 自动整理</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
 </div>
-
 <div class="summary-card">
-<div class="summary-title"><span class="dot"></span>今日概览</div>
-<div class="summary-grid">
-<div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">政策与产业</div></div>
-<div class="summary-item blue"><div class="summary-num">3</div><div class="summary-label">技术与产品</div></div>
-<div class="summary-item green"><div class="summary-num">2</div><div class="summary-label">企业动态</div></div>
-<div class="summary-item orange"><div class="summary-num">1</div><div class="summary-label">投融资与IPO</div></div>
-</div>
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">政策与产业</div></div><div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">技术与产品</div></div><div class="summary-item green"><div class="summary-num">2</div><div class="summary-label">企业动态</div></div><div class="summary-item orange"><div class="summary-num">1</div><div class="summary-label">投融资与IPO</div></div></div>
 </div>
 
-<div class="section">
-<div class="section-header">
-<div class="section-icon policy">📋</div>
-<div class="section-name">政策与产业</div>
-<div class="section-count">2 条</div>
-</div>
-<div class="news-item">
-<div class="news-index">1</div>
-<div class="news-body">
-<div class="news-title">半导体全产业链业绩爆发，超八成A股半导体公司预喜</div>
-<div class="news-summary">截至7月31日，55家半导体上市公司上半年业绩预告中83.64%预喜。江波龙预增超622倍，存储芯片从周期品走向成长主线，国产半导体产业链系统性跃升。</div>
-<div class="news-meta">
-<span class="news-source">央视财经</span>
-<a class="news-link" href="https://finance.sina.com.cn/roll/2026-08-02/doc-inikwqpp3201525.shtml">查看原文</a>
-</div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index">2</div>
-<div class="news-body">
-<div class="news-title">日本熊本7.1级强震致「硅岛」多家半导体工厂持续停产</div>
-<div class="news-summary">受7月28日熊本强震影响，九州硅岛索尼、台积电、东京电子等工厂仍停产，设备校准预计需时，最早下周恢复，或影响全球芯片供应。</div>
-<div class="news-meta">
-<span class="news-source">财联社</span>
-<a class="news-link" href="https://view.inews.qq.com/a/20260801A06I8H00">查看原文</a>
-</div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon tech">🔬</div>
-<div class="section-name">技术与产品</div>
-<div class="section-count">3 条</div>
-</div>
-<div class="news-item">
-<div class="news-index">3</div>
-<div class="news-body">
-<div class="news-title">长鑫存储LPDDR6研发验证进入尾声，追平韩国巨头</div>
-<div class="news-summary">长鑫LPDDR6速率12800Mbps、容量16GB，已向核心客户送样，有望2026下半年量产导入，打破海外厂商长期主导前沿存储迭代的格局。</div>
-<div class="news-meta">
-<span class="news-source">观察者网</span>
-<a class="news-link" href="https://view.inews.qq.com/a/20260801A04ZQC00">查看原文</a>
-</div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index">4</div>
-<div class="news-body">
-<div class="news-title">国产浸没式DUV光刻机小规模量产，交付中芯国际等晶圆厂</div>
-<div class="news-summary">中国首款国产浸没式DUV光刻机开始小规模量产，预计今年交付中芯国际、华虹半导体及长鑫科技，ASML当日暴跌5.8%。</div>
-<div class="news-meta">
-<span class="news-source">华尔街见闻</span>
-<a class="news-link" href="https://so.html5.qq.com/page/real/search_news?docid=70000021_9016a68b4d889752">查看原文</a>
-</div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index">5</div>
-<div class="news-body">
-<div class="news-title">澜起科技率先试产CXL 3.2内存扩展控制芯片，导入三星/SK海力士</div>
-<div class="news-summary">澜起科技率先实现CXL 3.2内存扩展控制器试产，支持PCIe 6.x，最高64GT/s，已成功导入三星、SK海力士下一代CXL产品体系。</div>
-<div class="news-meta">
-<span class="news-source">网易科技</span>
-<a class="news-link" href="https://www.163.com/dy/article/L386LPDI0552OI16.html">查看原文</a>
-</div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon biz">🏢</div>
-<div class="section-name">企业动态</div>
-<div class="section-count">2 条</div>
-</div>
-<div class="news-item">
-<div class="news-index">6</div>
-<div class="news-body">
-<div class="news-title">铠侠宣布8000亿日元回购计划，存储巨头进入超级盈利周期</div>
-<div class="news-summary">铠侠Q1营业利润同比暴增逾28倍达1.326万亿日元，利润率75%，宣布最高8000亿日元回购，成为全球存储行业首家大规模回购企业。</div>
-<div class="news-meta">
-<span class="news-source">华尔街见闻</span>
-<a class="news-link" href="https://dy.163.com/article/L38CJR7F05198NMR.html">查看原文</a>
-</div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index">7</div>
-<div class="news-body">
-<div class="news-title">四大半导体材料龙头集体扩产，国产替代从送样转向批量供货</div>
-<div class="news-summary">有研新材、雅克科技、安集科技、至纯科技同日发布扩产公告，有研新材拟投4.86亿冲7nm以下制程，验证周期由两三年压缩至不到一年。</div>
-<div class="news-meta">
-<span class="news-source">IT之家</span>
-<a class="news-link" href="https://view.inews.qq.com/a/20260801A09E8D00">查看原文</a>
-</div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon capital">💰</div>
-<div class="section-name">投融资与IPO</div>
-<div class="section-count">1 条</div>
-</div>
-<div class="news-item">
-<div class="news-index">8</div>
-<div class="news-body">
-<div class="news-title">Citadel接盘AI股神持仓，全球半导体板块获支撑反弹</div>
-<div class="news-summary">Ken Griffin旗下Citadel以逾10%折价买入约160亿美元AI公开股票组合，消除被迫卖家，半导体板块重获支撑，韩国芯片指数单日反弹18%。</div>
-<div class="news-meta">
-<span class="news-source">华尔街见闻</span>
-<a class="news-link" href="https://news.qq.com/rain/a/20260801A04EYD00">查看原文</a>
-</div>
-</div>
-</div>
-</div>
-
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月02日 10:00 更新</div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon policy">📋</div>
+      <div class="section-name">政策与产业</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index active">1</div>
+      <div class="news-body">
+        <div class="news-title">银河证券：Kimi K3正式开源重塑大模型商业生态，建议关注国产超节点及产业链相关公司</div>
+        <div class="news-summary">银河证券研报指出，Kimi K3上线后仅48小时，请求量便把现有集群打满，随后Kimi宣布暂停C端新...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/newsflashes/3921888283848068?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index active">2</div>
+      <div class="news-body">
+        <div class="news-title">36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报</div>
+        <div class="news-summary">文｜王毓婵 兰杰 编辑｜乔芊 36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3910776673064073?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon model">🔬</div>
+      <div class="section-name">技术与产品</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">3</div>
+      <div class="news-body">
+        <div class="news-title">三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？</div>
+        <div class="news-summary">如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3920595518533250?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">4</div>
+      <div class="news-body">
+        <div class="news-title">氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统</div>
+        <div class="news-summary">大公司： 途牛：8月中上旬或将迎新一轮客流高峰 36氪获悉，进入8月后，学生假期仍有充足余量，亲子游...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3919378312670857?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon case">🏢</div>
+      <div class="section-name">企业动态</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">5</div>
+      <div class="news-body">
+        <div class="news-title">9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主</div>
+        <div class="news-summary">今日热点导览 字节跳动发布视频创作模型Seedance 2.5 长鑫科技市值突破4万亿 人形机器人现...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3920241240419720?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">6</div>
+      <div class="news-body">
+        <div class="news-title">开云的转折：在中国，做一个AI乐观派</div>
+        <div class="news-summary">作者 |&amp;nbsp;谢芸子 黄绎达 编辑 |&amp;nbsp;张帆 开云的转型初见成效。 7月28日，法国...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3919225763540611?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon capital">💰</div>
+      <div class="section-name">投融资与IPO</div>
+      <div class="section-count">1 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">7</div>
+      <div class="news-body">
+        <div class="news-title">国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目</div>
+        <div class="news-summary">文｜王欣逸 编辑｜张雨忻 &amp;nbsp; 一句话介绍 国内唯一做多模态长记忆的公司——丘脑智能，推出原...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3919386961177985?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月02日 05:23 更新</div>
 </div>
 </body>
 </html>

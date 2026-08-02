@@ -3,213 +3,72 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>财经简报 · 2026年08月02日</title>
+<title>📊 财经简报 · 2026年08月02日</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
 .container{max-width:420px;margin:0 auto}
-.header{background:linear-gradient(135deg,#8b0000,#b22222,#c62828);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
-.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.06);border-radius:50%}
-.header::before{content:"";position:absolute;bottom:-20px;left:-20px;width:80px;height:80px;background:rgba(255,255,255,0.04);border-radius:50%}
+.header{background:linear-gradient(135deg,#1a1a2e, #16213e);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
 .header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
 .header-title{font-size:22px;font-weight:700;letter-spacing:1px}
 .header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
 .header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
 .summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
 .summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
-.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#c62828;flex-shrink:0}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#e74c3c;flex-shrink:0}
 .summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
 .summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
 .summary-label{font-size:11px;color:#888;margin-top:2px}
-.summary-item.red .summary-num{color:#c62828}
-.summary-item.blue .summary-num{color:#1565c0}
-.summary-item.green .summary-num{color:#2e7d32}
-.summary-item.orange .summary-num{color:#e65100}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
 .section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
 .section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
 .section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
-.section-icon.policy{background:#ffebee}
-.section-icon.fintech{background:#e8eaf6}
+.section-icon.policy{background:#fff3e0}
 .section-icon.market{background:#e3f2fd}
-.section-icon.invest{background:#fff3e0}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
 .section-name{font-size:15px;font-weight:700;color:#1a1a2e}
 .section-count{margin-left:auto;font-size:12px;color:#aaa}
 .news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
 .news-item:last-child{border-bottom:none}
 .news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
-.news-index.active{background:#c62828;color:#fff}
+.news-index.active{background:#e74c3c;color:#fff}
 .news-body{padding-left:30px}
 .news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
 .news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
 .news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.news-source{font-size:11px;color:#c62828;background:rgba(198,40,40,0.08);border-radius:4px;padding:2px 7px}
+.news-source{font-size:11px;color:#e74c3c;background:rgba(231,76,60,231,76,60,0.1);border-radius:4px;padding:2px 7px}
 .news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
-.news-link:hover{color:#c62828}
-.market-bar{background:#fff;border-radius:14px;margin-bottom:14px;padding:16px 18px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
-.market-bar-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
-.market-bar-title .dot{width:6px;height:6px;border-radius:50%;background:#c62828;flex-shrink:0}
-.market-row{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px solid #f5f5fa}
-.market-row:last-child{border-bottom:none}
-.market-name{font-size:13px;font-weight:500;color:#333}
-.market-val{font-size:13px;font-weight:700}
-.market-val.up{color:#c62828}
-.market-val.down{color:#2e7d32}
+.news-link:hover{color:#e74c3c}
 .footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
-.footer span{color:#c62828;font-weight:600}
+.footer span{color:#e74c3c;font-weight:600}
 </style>
 </head>
 <body>
 <div class="container">
 <div class="header">
-<div class="header-date">2026年08月02日 星期日</div>
-<div class="header-title">财经简报</div>
-<div class="header-sub">宏观政策 · 金融科技 · 资本市场 · 投融资</div>
+<div class="header-date">2026年08月02日</div>
+<div class="header-title">📊 财经简报</div>
+<div class="header-sub">科技金融 · A股港股 · 美联储 · 一级市场</div>
 <div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
 </div>
-
 <div class="summary-card">
 <div class="summary-title"><span class="dot"></span> 今日概览</div>
-<div class="summary-grid">
-<div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">宏观政策</div></div>
-<div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">金融科技动态</div></div>
-<div class="summary-item green"><div class="summary-num">2</div><div class="summary-label">资本市场表现</div></div>
-<div class="summary-item orange"><div class="summary-num">2</div><div class="summary-label">投融资事件</div></div>
-</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">宏观政策</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">金融科技动态</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">资本市场表现</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">投融资事件</div></div></div>
 </div>
 
-<div class="market-bar">
-<div class="market-bar-title"><span class="dot"></span> 全球市场收报 · 8月1日（周五）</div>
-<div class="market-row"><span class="market-name">上证指数</span><span class="market-val down">3814.20 <span style="font-size:11px">-1.61%</span></span></div>
-<div class="market-row"><span class="market-name">创业板指</span><span class="market-val down">3276.88 <span style="font-size:11px">-2.01%</span></span></div>
-<div class="market-row"><span class="market-name">科创50</span><span class="market-val down">1565.32 <span style="font-size:11px">-4.31%</span></span></div>
-<div class="market-row"><span class="market-name">沪深300</span><span class="market-val down">周跌-1.31%</span></div>
-<div class="market-row"><span class="market-name">北证50</span><span class="market-val up">周涨+4.97%</span></div>
-<div class="market-row"><span class="market-name">美联储利率</span><span class="market-val down">3.50%-3.75% 不变</span></div>
-<div class="market-row"><span class="market-name">两市成交</span><span class="market-val down">跌破2万亿（4月7日来首次）</span></div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon policy">🏛️</div>
-<div class="section-name">宏观政策</div>
-<div class="section-count">2 条</div>
-</div>
-
-<div class="news-item">
-<div class="news-index active">1</div>
-<div class="news-body">
-<div class="news-title">政治局7.30会议定调下半年经济：加大逆周期调节力度，发改委部署8000亿金融工具+"六张网"规划建设</div>
-<div class="news-summary">7月30日中央政治局会议分析研究当前经济形势，强调"实施好更加积极的财政政策和适度宽松的货币政策，充分发挥存量政策效能，及时谋划出台务实管用的增量政策，加大逆周期调节力度"。7月31日发改委新闻发布会进一步部署：加快8000亿元新型政策性金融工具资金投放使用，加快专项债发行使用，扎实推进"六张网"规划建设（新型电网拟投资超5万亿、地下管网约5万亿、算力网新增直接投资约4万亿）和109项重大工程落地。会议明确深入实施"人工智能+"行动，加快人工智能法立法进程，扩大内需战略实施方案（2026-2030年）正在抓紧制定中。上半年GDP同比增长4.7%，新动能对经济增长贡献率超四成。</div>
-<div class="news-meta">
-<span class="news-source">央视新闻 / 经济日报 / 证券时报 / 央广网</span>
-</div>
-</div>
-</div>
-
-<div class="news-item">
-<div class="news-index active">2</div>
-<div class="news-body">
-<div class="news-title">美联储7月议息9:3鹰派按兵不动：维持3.5%-3.75%，3票反对主张加息25bp创2016年来最强鹰派信号</div>
-<div class="news-summary">北京时间7月30日凌晨，美联储FOMC以9票赞成、3票反对的结果，连续第五次维持联邦基金利率目标区间在3.5%-3.75%不变。三位投反对票的官员——达拉斯联储洛根、克利夫兰联储哈马克、明尼阿波利斯联储卡什卡利——均主张加息25个基点，这是2016年以来美联储内部出现的最强鹰派分歧信号。主席沃什在发布会上强调"不会动摇"实现2%通胀目标的承诺，表示"不能仅凭单月价格指标的改善就判断长达五年的高通胀已经缓解"，并暗示金融市场已在一定程度上替美联储"加息"。美国6月CPI同比3.5%（前值4.2%），仍显著高于2%目标。市场预计9月或10月加息概率升温，30年期美债收益率攀升至5.18%创近二十年新高。</div>
-<div class="news-meta">
-<span class="news-source">金融时报 / 汇通财经 / 招银研究 / fx678</span>
-</div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon fintech">🤖</div>
-<div class="section-name">金融科技动态</div>
-<div class="section-count">2 条</div>
-</div>
-
-<div class="news-item">
-<div class="news-index active">3</div>
-<div class="news-body">
-<div class="news-title">数字人民币2.0全面加速：中行落地两笔百亿级mBridge跨境交易，数币达累计近4700亿，离线码覆盖8城</div>
-<div class="news-summary">数字人民币跨境应用7月集中破冰。中国银行先后落地两笔百亿级多边央行数字货币桥（mBridge）跨境交易——福建省分行落地百亿港元以上跨境汇入业务，深圳市分行完成113亿元人民币跨境汇出，标志着数字人民币在大额跨境资本项下的规模化应用能力得到验证。6月上海上线的跨境"数币达"（CBETS）服务平台已有26家境内外金融机构签约，累计交易近4700亿元，手续费仅传统SWIFT的一半。7月数字人民币上线离线码功能，乘车码已覆盖8座城市；运营银行扩充至22家，截至2025年末累计交易金额达16.7万亿元。同期还落地全国首笔中马双边数字人民币跨境汇出结算（榴莲采购货款）及首笔跨境缴纳香港恒生大学学费业务。mBridge平台数字人民币交易占比超95%。</div>
-<div class="news-meta">
-<span class="news-source">头条 / 大成研究 / 腾讯新闻 / 中新社</span>
-</div>
-</div>
-</div>
-
-<div class="news-item">
-<div class="news-index active">4</div>
-<div class="news-body">
-<div class="news-title">《个人贷款业务明示综合融资成本规定》8月1日施行：IRR口径统一披露，终结"低息引流+高额服务费"模糊打法</div>
-<div class="news-summary">8月1日起，《个人贷款业务明示综合融资成本规定》正式执行，要求所有放贷机构必须用IRR（内部收益率）口径统一披露利息、担保费、服务费等综合融资成本，过往"日息万几""低息引流+高额服务费"的模糊营销手法被硬性红线腰斩。同期，9月30日即将实施的《金融产品网络营销管理办法》进一步明确第三方平台不得转委托，流量必须跳回金融机构自营阵地。分析指出，互联网金融行业底层逻辑正从"流量在手，天下我有"转向"牌照在手，合规先行，技术兜底"。与此同时，AI金融从概念走向量产——头部券商、银行的大模型策略工厂、数字员工、智能风控、AI投顾开始规模化输出，用自然语言处理读海量研报、用多模态模型识别反欺诈线索、用Agent架构帮投顾做组合再平衡。</div>
-<div class="news-meta">
-<span class="news-source">中研普华 / 头条 / 行业投资报告</span>
-</div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon market">📈</div>
-<div class="section-name">资本市场表现</div>
-<div class="section-count">2 条</div>
-</div>
-
-<div class="news-item">
-<div class="news-index active">5</div>
-<div class="news-body">
-<div class="news-title">长鑫科技科创板上市首日暴涨465.82%：成交1411亿创A股个股单日纪录，市值3.28万亿登顶A股第一</div>
-<div class="news-summary">7月27日，国产DRAM存储龙头长鑫科技（688825.SH）登陆科创板，发行价8.66元/股，收盘报49元/股大涨465.82%，盘中一度涨超535%。全天成交额达1411亿元，创下A股市场个股单日成交额历史纪录，成为A股首只单日成交突破千亿的个股。总市值达3.28万亿元，超越工商银行登顶A股市值榜首，并超越美股英特尔（约合3.15万亿元）。长鑫科技是国产DRAM研发设计制造一体化龙头，产能规模位居中国第一、全球第四。上市首日带动创业板指涨3.16%、科创综指涨2.49%，超5100股上涨。首周累计涨幅约523%，7月31日收盘53.97元。公募基金打新总浮盈超500亿元。机构预计公司2026年营收2776.90亿元、归母净利1244.05亿元。其扩产预期引发外资下调三星、SK海力士盈利预期，全球存储股连锁回调。</div>
-<div class="news-meta">
-<span class="news-source">证券时报 / 证券时报网 / 环球网 / 华西证券</span>
-</div>
-</div>
-</div>
-
-<div class="news-item">
-<div class="news-index active">6</div>
-<div class="news-body">
-<div class="news-title">A股7月收官冰火两重天：科创50月跌25.9%创纪录，7.31放量反弹2.56万亿后8.1缩量收跌近5000股下挫</div>
-<div class="news-summary">7月最后一周A股走出极端分化行情。上证指数周微涨0.47%，沪深300跌1.31%，创业板指跌3.93%，科创50暴跌8.46%，北证50逆势涨近5%——呈现典型的"红利价值抗跌、科技成长承压"格局。7月31日（周四）收官日全线爆发：沪指+0.72%报3832点、创业板+3.06%、科创50+2.99%，两市成交2.56万亿，北向资金净买入195.8亿创开通以来第七大单日净买入，近4700股上涨、101只涨停、0跌停。但8月1日（周五）即缩量调整：上证跌1.61%报3814.20点，创业板跌超2%，成交额跌破2万亿为4月7日以来首次，近5000只股票下跌，军工为唯一稍强板块。机构建议8月采取"哑铃型策略"——科技硬件链+高股息红利做底仓，从"超跌反弹"切换到"业绩验证"。</div>
-<div class="news-meta">
-<span class="news-source">新浪财经 / 腾讯新闻 / 和讯网 / 中国银河证券</span>
-</div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon invest">💰</div>
-<div class="section-name">投融资事件</div>
-<div class="section-count">2 条</div>
-</div>
-
-<div class="news-item">
-<div class="news-index active">7</div>
-<div class="news-body">
-<div class="news-title">可控核聚变龙头CFS再获10亿美元追加融资：累计40亿美元占全球核聚变行业融资总额约30%</div>
-<div class="news-summary">全球可控核聚变龙头企业Commonwealth Fusion Systems（CFS）宣布获得10亿美元追加股权融资，这是自2021年CFS宣布18亿美元B轮融资以来，全球核聚变能源领域规模最大的一笔单轮融资。加上此前筹集的8.63亿美元，CFS累计融资金额已达40亿美元，约占全球核聚变行业融资总额的30%，进一步巩固其全球最大核聚变企业的领跑地位。同期，K2 Space完成5亿美元D轮融资（投后估值68亿美元，Kleiner Perkins和ICONIQ领投，CapitalG/Lightspeed/Altimeter等跟投），Antares完成4.7亿美元C轮。核能赛道全球共振——从微型核反应堆到可控核聚变，能源安全叙事正在替代纯气候叙事成为核能融资的新引擎。此外，Multiverse Computing以5.7亿美元C轮用量子物理张量网络将大模型压缩95%。</div>
-<div class="news-meta">
-<span class="news-source">融资中国 / 融中财经 / IT桔子 / 腾讯新闻</span>
-</div>
-</div>
-</div>
-
-<div class="news-item">
-<div class="news-index active">8</div>
-<div class="news-body">
-<div class="news-title">北京海淀AI创新街区上半年入驻106家企业总融资270亿：国资撬动社会资本226亿投1029个科技项目，AI芯片融资涨超470%</div>
-<div class="news-summary">央视年中经济观察报道，北京海淀中关村原点社区（首批四大AI创新街区之一）上半年迎来"搬家入驻潮"——新入驻106家企业，总融资规模达270亿元，平均每两天落地一家新企业。社区3平方公里内聚集70%AI企业，"上下楼就是上下游"产业链配套完备。国家创投母基金今年3月增至100亿元，上半年合作55家创投机构、出资49亿，撬动社会资本226亿共投1029个科技项目。2026上半年北京创投规模同比增长两倍，近九成资金聚焦硬科技，AI、芯片相关融资规模涨幅超470%。水木创投合伙人上半年骑车"扫街"超320公里挖掘40多个项目、投出近5亿元，投资额和项目数均为去年同期两倍。资本正加速向早期项目前移——"早期不参与，项目长大就没机会了"。</div>
-<div class="news-meta">
-<span class="news-source">央广网 / 央视新闻 / 年中经济观察</span>
-</div>
-</div>
-</div>
-</div>
-
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考 · 不构成投资建议<br>2026年08月02日 10:08 更新</div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月02日 05:23 更新</div>
 </div>
 </body>
 </html>
