@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>娱乐简报 | 2026年8月4日</title>
+<style>
+  :root {
+    --pink-50: #fff0f5;
+    --pink-100: #ffe4ec;
+    --pink-200: #ffc0d5;
+    --pink-300: #ff9bb8;
+    --pink-400: #ff7099;
+    --pink-500: #ff4078;
+    --pink-600: #e8305c;
+    --pink-700: #c02044;
+    --pink-800: #9a1835;
+    --pink-900: #701028;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+    background: linear-gradient(135deg, var(--pink-50) 0%, #fff5f7 50%, var(--pink-100) 100%);
+    min-height: 100vh;
+    color: #333;
+  }
+  .container {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 30px 20px 60px;
+  }
+
+  /* Header */
+  .header {
+    text-align: center;
+    padding: 40px 20px 30px;
+    position: relative;
+  }
+  .header::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 50%;
+    transform: translateX(-50%);
+    width: 80px; height: 4px;
+    background: linear-gradient(90deg, var(--pink-300), var(--pink-500), var(--pink-300));
+    border-radius: 2px;
+  }
+  .header .icon { font-size: 48px; margin-bottom: 8px; }
+  .header h1 {
+    font-size: 28px;
+    font-weight: 700;
+    background: linear-gradient(135deg, var(--pink-600), var(--pink-400));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .header .date {
+    margin-top: 6px;
+    font-size: 14px;
+    color: var(--pink-400);
+    letter-spacing: 2px;
+  }
+  .divider {
+    width: 60px; height: 3px;
+    background: linear-gradient(90deg, var(--pink-200), var(--pink-400));
+    margin: 10px auto 0;
+    border-radius: 2px;
+  }
+
+  /* Category */
+  .category { margin-bottom: 30px; }
+  .cat-title {
+    display: flex; align-items: center; gap: 10px;
+    font-size: 17px; font-weight: 700;
+    color: var(--pink-700);
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 2px dashed var(--pink-200);
+  }
+  .cat-title .cat-icon { font-size: 22px; }
+
+  /* Card */
+  .card {
+    background: #fff;
+    border-radius: 14px;
+    padding: 18px 20px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 12px rgba(255, 64, 120, 0.08);
+    border-left: 4px solid var(--pink-300);
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(255, 64, 120, 0.15);
+  }
+  .card h3 {
+    font-size: 15px; font-weight: 600;
+    color: #222; margin-bottom: 6px;
+  }
+  .card .summary {
+    font-size: 13px; color: #777; line-height: 1.6;
+    margin-bottom: 8px;
+  }
+  .card .source {
+    font-size: 12px;
+  }
+  .card .source a {
+    color: var(--pink-500); text-decoration: none;
+    font-weight: 500;
+  }
+  .card .source a:hover { text-decoration: underline; }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding: 30px 20px;
+    color: var(--pink-400);
+    font-size: 13px;
+  }
+  .footer .tag {
+    display: inline-block;
+    background: var(--pink-100);
+    color: var(--pink-600);
+    padding: 4px 14px;
+    border-radius: 20px;
+    font-size: 12px;
+    margin: 0 4px;
+  }
+
+  @media (max-width: 600px) {
+    .container { padding: 15px 12px 40px; }
+    .header h1 { font-size: 24px; }
+    .card { padding: 14px 16px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="header">
+    <div class="icon">🎬</div>
+    <h1>娱乐简报</h1>
+    <div class="date">2026 年 8 月 4 日 · 周二</div>
+    <div class="divider"></div>
+  </div>
+
+  <!-- 影视动态 -->
+  <div class="category">
+    <div class="cat-title"><span class="cat-icon">🎥</span> 影视动态</div>
+
+    <div class="card">
+      <h3>动画《八仙!》票房破12亿，稳居年度动画冠军</h3>
+      <div class="summary">四川造神仙喜剧动画累计票房突破12亿元，豆瓣评分8.2，票务平台预测最终有望突破21亿。</div>
+      <div class="source">来源：<a href="https://view.inews.qq.com/a/20260803A0BK6G00" target="_blank">封面新闻</a></div>
+    </div>
+
+    <div class="card">
+      <h3>白鹿新剧《开到荼蘼》佛山开机，短发造型引热议</h3>
+      <div class="summary">白鹿独立后首部S+级短剧开机，改编自亦舒小说，李木戈执导，短发造型演绎复仇大女主。</div>
+      <div class="source">来源：<a href="https://new.qq.com/rain/a/20260804A04CZX00" target="_blank">腾讯新闻</a></div>
+    </div>
+  </div>
+
+  <!-- 音乐与综艺 -->
+  <div class="category">
+    <div class="cat-title"><span class="cat-icon">🎵</span> 音乐与综艺</div>
+
+    <div class="card">
+      <h3>《国乐无双》第十期收视双冠，治愈主题口碑爆棚</h3>
+      <div class="summary">陈小春、李宇春、容祖儿等七位唱将携手大凉山妞妞合唱团，双平台收视第一，话题阅读量24.4亿。</div>
+      <div class="source">来源：<a href="https://view.inews.qq.com/a/20260803A092B700" target="_blank">浙江卫视</a></div>
+    </div>
+
+    <div class="card">
+      <h3>《半熟恋人5》大结局四对牵手，创系列最高纪录</h3>
+      <div class="summary">老牌熟龄恋综第五季收官，四对嘉宾成功牵手，成年人"直球"表达比暧昧更动人引发共鸣。</div>
+      <div class="source">来源：<a href="https://view.inews.qq.com/a/20260803A07S4900" target="_blank">腾讯新闻</a></div>
+    </div>
+  </div>
+
+  <!-- 明星与热点 -->
+  <div class="category">
+    <div class="cat-title"><span class="cat-icon">🌟</span> 明星与热点</div>
+
+    <div class="card">
+      <h3>卫诗雅拍戏意外受伤，面部缝合超50针全面停工</h3>
+      <div class="summary">金像奖最佳女配得主拍摄《狩谎》时被玻璃碎片击伤面部，英皇宣布其停工，剧组致歉。</div>
+      <div class="source">来源：<a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_1636a712b4997452" target="_blank">腾讯新闻</a></div>
+    </div>
+
+    <div class="card">
+      <h3>林心如霍建华结婚10周年，落日剪影照甜蜜刷屏</h3>
+      <div class="summary">两人晒落日余晖中对视剪影，配红色爱心符号登顶热搜，婚后采用"轮岗式"育儿陪伴女儿。</div>
+      <div class="source">来源：<a href="https://view.inews.qq.com/a/20260801A096WX00" target="_blank">腾讯新闻</a></div>
+    </div>
+  </div>
+
+  <!-- 游戏与电竞 -->
+  <div class="category">
+    <div class="cat-title"><span class="cat-icon">🎮</span> 游戏与电竞</div>
+
+    <div class="card">
+      <h3>《黑神话：悟空》DLC"再战轮回"上线，全球销量破3000万</h3>
+      <div class="summary">DLC新增轮回之塔挑战模式及三位新Boss，引入路径追踪全局光照，4K光追特效全面升级。</div>
+      <div class="source">来源：<a href="https://www.toutiao.com/article/7658264894113907242" target="_blank">今日头条</a></div>
+    </div>
+
+    <div class="card">
+      <h3>LPL上演黑八奇迹：WE 3:1掀翻常规赛榜首BLG</h3>
+      <div class="summary">WE以常规赛第八身份逆袭击败排名第一的BLG，时隔多年再现黑八奇迹，电竞圈沸腾。</div>
+      <div class="source">来源：<a href="https://www.toutiao.com/article/7645812412020572714" target="_blank">今日头条</a></div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <span class="tag">影视动态</span>
+    <span class="tag">音乐综艺</span>
+    <span class="tag">明星热点</span>
+    <span class="tag">游戏电竞</span>
+    <p style="margin-top:12px;">每日更新 · 数据来源公开媒体 · 仅供参考</p>
+  </div>
+
+</div>
+</body>
+</html>
