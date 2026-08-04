@@ -2,313 +2,178 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>半导体产业每日简报 | 2026-08-04</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>💻 半导体简报 · 2026年08月04日</title>
 <style>
-  :root {
-    --bg: #f0f4fb;
-    --card-bg: #ffffff;
-    --primary: #1a56db;
-    --primary-light: #e8f0fe;
-    --text: #1e293b;
-    --text-secondary: #64748b;
-    --border: #dbeafe;
-    --accent-1: #2563eb;
-    --accent-2: #3b82f6;
-    --accent-3: #60a5fa;
-    --tag-bg: #eff6ff;
-    --tag-text: #1d4ed8;
-  }
-  * { margin:0; padding:0; box-sizing:border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    line-height: 1.6;
-    min-height: 100vh;
-  }
-  .header {
-    background: linear-gradient(135deg, #1e3a5f 0%, #1a56db 50%, #3b82f6 100%);
-    color: #fff;
-    padding: 48px 24px 36px;
-    text-align: center;
-    position: relative;
-    overflow: hidden;
-  }
-  .header::before {
-    content: '';
-    position: absolute;
-    top: -50%; left: -50%;
-    width: 200%; height: 200%;
-    background: radial-gradient(circle at 70% 30%, rgba(59,130,246,0.2) 0%, transparent 60%);
-  }
-  .header-content { position: relative; z-index: 1; }
-  .header h1 { font-size: 32px; font-weight: 700; letter-spacing: 2px; }
-  .header .subtitle { font-size: 15px; opacity: 0.85; margin-top: 8px; }
-  .header .date { font-size: 13px; opacity: 0.7; margin-top: 4px; }
-  .stats-bar {
-    display: flex;
-    justify-content: center;
-    gap: 36px;
-    margin-top: 24px;
-    flex-wrap: wrap;
-  }
-  .stat-item { text-align: center; }
-  .stat-num { font-size: 28px; font-weight: 800; }
-  .stat-label { font-size: 12px; opacity: 0.75; margin-top: 2px; }
-  .container { max-width: 900px; margin: 0 auto; padding: 32px 20px 60px; }
-  .section { margin-bottom: 36px; }
-  .section-title {
-    font-size: 18px;
-    font-weight: 700;
-    color: var(--primary);
-    padding: 10px 16px;
-    border-left: 4px solid var(--primary);
-    background: var(--primary-light);
-    border-radius: 0 8px 8px 0;
-    margin-bottom: 16px;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .section-title .icon { font-size: 20px; }
-  .card {
-    background: var(--card-bg);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 20px 24px;
-    margin-bottom: 12px;
-    transition: box-shadow 0.2s, transform 0.2s;
-  }
-  .card:hover {
-    box-shadow: 0 4px 24px rgba(26,86,219,0.1);
-    transform: translateY(-1px);
-  }
-  .card-header { display: flex; align-items: flex-start; gap: 12px; }
-  .card-num {
-    flex-shrink: 0;
-    width: 28px; height: 28px;
-    background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
-    color: #fff;
-    border-radius: 8px;
-    display: flex; align-items: center; justify-content: center;
-    font-size: 13px; font-weight: 700;
-  }
-  .card-body { flex: 1; }
-  .card-title {
-    font-size: 16px; font-weight: 600;
-    color: var(--text);
-    margin-bottom: 6px;
-    line-height: 1.5;
-  }
-  .card-summary {
-    font-size: 14px;
-    color: var(--text-secondary);
-    margin-bottom: 8px;
-    line-height: 1.6;
-  }
-  .card-source {
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
-    font-size: 12px;
-    color: var(--accent-1);
-    text-decoration: none;
-    font-weight: 500;
-  }
-  .card-source:hover { text-decoration: underline; }
-  .card-source .arrow { font-size: 11px; }
-  .footer {
-    text-align: center;
-    color: var(--text-secondary);
-    font-size: 12px;
-    padding: 24px;
-    border-top: 1px solid var(--border);
-    margin-top: 20px;
-  }
-  .footer a { color: var(--accent-1); text-decoration: none; }
-  .update-badge {
-    display: inline-block;
-    background: rgba(255,255,255,0.15);
-    border: 1px solid rgba(255,255,255,0.25);
-    border-radius: 20px;
-    padding: 4px 14px;
-    font-size: 12px;
-    margin-top: 12px;
-  }
-  @media (max-width: 640px) {
-    .header { padding: 32px 16px 28px; }
-    .header h1 { font-size: 24px; }
-    .container { padding: 20px 12px 40px; }
-    .card { padding: 16px; }
-  }
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
+.container{max-width:420px;margin:0 auto}
+.header{background:linear-gradient(135deg,#2196f3, #1565c0);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#2196f3;flex-shrink:0}
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
+.news-item:last-child{border-bottom:none}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#2196f3;color:#fff}
+.news-body{padding-left:30px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
+.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.news-source{font-size:11px;color:#2196f3;background:rgba(33,150,243,33,150,243,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#2196f3}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
+.footer span{color:#2196f3;font-weight:600}
 </style>
 </head>
 <body>
-
-<div class="header">
-  <div class="header-content">
-    <h1>💻 半导体产业每日简报</h1>
-    <div class="subtitle">芯片产业链核心资讯速览</div>
-    <div class="date">2026年8月4日 星期二</div>
-    <div class="stats-bar">
-      <div class="stat-item">
-        <div class="stat-num">8</div>
-        <div class="stat-label">精选快讯</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-num">4</div>
-        <div class="stat-label">分类维度</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-num">6</div>
-        <div class="stat-label">资讯来源</div>
-      </div>
-    </div>
-    <div class="update-badge">每工作日更新 | 自动化生成</div>
-  </div>
-</div>
-
 <div class="container">
-
-  <!-- 政策与产业 -->
-  <div class="section">
-    <div class="section-title">
-      <span class="icon">📋</span> 政策与产业
-    </div>
-
-    <div class="card">
-      <div class="card-header">
-        <div class="card-num">1</div>
-        <div class="card-body">
-          <div class="card-title">集成电路布图设计保护条例25年来首次大修，引入惩罚性赔偿</div>
-          <div class="card-summary">国务院公布修订后条例，新增惩罚性赔偿条款，10月15日正式施行，全面加强芯片知识产权保护力度。</div>
-          <a class="card-source" href="https://www.163.com/dy/article/L3FN2RM805312NX9.html" target="_blank" rel="noopener">
-            TechSugar <span class="arrow">→</span>
-          </a>
-        </div>
-      </div>
-    </div>
-
-    <div class="card">
-      <div class="card-header">
-        <div class="card-num">2</div>
-        <div class="card-body">
-          <div class="card-title">DRAM三大原厂2027年产能提前售罄，存储进入结构性短缺</div>
-          <div class="card-summary">三星、美光、SK海力士2027年DRAM/HBM产能已全数分配完毕，AI需求压缩消费端供给，存储市场转向长期卖方格局。</div>
-          <a class="card-source" href="https://dy.163.com/article/L3FNJ0NV05198NMR.html" target="_blank" rel="noopener">
-            华尔街见闻 <span class="arrow">→</span>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- 技术与产品 -->
-  <div class="section">
-    <div class="section-title">
-      <span class="icon">🔬</span> 技术与产品
-    </div>
-
-    <div class="card">
-      <div class="card-header">
-        <div class="card-num">3</div>
-        <div class="card-body">
-          <div class="card-title">SK海力士与闪迪联合发布全球首个HBF标准，最高3.0TB/s</div>
-          <div class="card-summary">高带宽闪存(HBF)标准在FMS 2026峰会发布，定位HBM与SSD之间的新存储层级，最高512GB容量，支持8/16层堆叠。</div>
-          <a class="card-source" href="https://so.html5.qq.com/page/real/search_news?docid=70000021_5636a71437063452" target="_blank" rel="noopener">
-            IT之家 <span class="arrow">→</span>
-          </a>
-        </div>
-      </div>
-    </div>
-
-    <div class="card">
-      <div class="card-header">
-        <div class="card-num">4</div>
-        <div class="card-body">
-          <div class="card-title">国产浸没式DUV光刻机开启小批量生产，ASML股价暴跌8%</div>
-          <div class="card-summary">上海企业启动首款国产浸没式DUV光刻机量产，主打28nm制程，今年交付约5台，2027年计划提升至20台。</div>
-          <a class="card-source" href="https://app.myzaker.com/news/article.php?pk=6a69553d8e9f0974982a760c" target="_blank" rel="noopener">
-            快科技 <span class="arrow">→</span>
-          </a>
-        </div>
-      </div>
-    </div>
-
-    <div class="card">
-      <div class="card-header">
-        <div class="card-num">5</div>
-        <div class="card-body">
-          <div class="card-title">华为Mate 90系列将搭载基于韬定律的新麒麟芯片，首次商用逻辑折叠</div>
-          <div class="card-summary">新麒麟芯片采用逻辑折叠技术，通过3D堆叠压缩信号时延提升性能，探索超越传统制程微缩的新路径。</div>
-          <a class="card-source" href="https://m.toutiao.com/w/7659270358105195316" target="_blank" rel="noopener">
-            科创板日报 <span class="arrow">→</span>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- 企业动态 -->
-  <div class="section">
-    <div class="section-title">
-      <span class="icon">🏢</span> 企业动态
-    </div>
-
-    <div class="card">
-      <div class="card-header">
-        <div class="card-num">6</div>
-        <div class="card-body">
-          <div class="card-title">台积电3nm提前达标月产18万片，2nm年底冲刺10万片</div>
-          <div class="card-summary">3nm月投片量Q4初达18万片，2nm上半年已达5-6万片/月，年底逼近10万片；1.4nm制程有望2028年中量产。</div>
-          <a class="card-source" href="https://www.163.com/dy/article/L3FN2RM805312NX9.html" target="_blank" rel="noopener">
-            TechSugar <span class="arrow">→</span>
-          </a>
-        </div>
-      </div>
-    </div>
-
-    <div class="card">
-      <div class="card-header">
-        <div class="card-num">7</div>
-        <div class="card-body">
-          <div class="card-title">DDR4合约价24美元创历史新高，存储芯片涨价潮持续</div>
-          <div class="card-summary">7月DDR4 8Gb均价升至24美元(环比+14.3%)，128Gb NAND首破30美元，AI挤占传统产能推动连续19个月涨价。</div>
-          <a class="card-source" href="https://www.sohu.com/a/1058438792_130887" target="_blank" rel="noopener">
-            华尔街见闻 <span class="arrow">→</span>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- 投融资与IPO -->
-  <div class="section">
-    <div class="section-title">
-      <span class="icon">💰</span> 投融资与IPO
-    </div>
-
-    <div class="card">
-      <div class="card-header">
-        <div class="card-num">8</div>
-        <div class="card-body">
-          <div class="card-title">Citadel预计AI芯片融资未来两年将新增超5000亿美元债务</div>
-          <div class="card-summary">仅芯片制造商2028年一年发行债务或超2500亿美元，Anthropic等AI公司大规模借贷采购芯片，或将重塑投资级信贷市场格局。</div>
-          <a class="card-source" href="https://new.qq.com/rain/a/20260804A03TMX00?refer=cp_1009" target="_blank" rel="noopener">
-            财联社 <span class="arrow">→</span>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-
+<div class="header">
+<div class="header-date">2026年08月04日</div>
+<div class="header-title">💻 半导体简报</div>
+<div class="header-sub">芯片技术 · 晶圆代工 · EDA · 国产替代</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
+</div>
+<div class="summary-card">
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">政策与产业</div></div><div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">技术与产品</div></div><div class="summary-item green"><div class="summary-num">1</div><div class="summary-label">企业动态</div></div><div class="summary-item orange"><div class="summary-num">2</div><div class="summary-label">投融资与IPO</div></div></div>
 </div>
 
-<div class="footer">
-  <p>半导体产业每日简报 · 自动采集自财联社、华尔街见闻、IT之家等媒体</p>
-  <p><a href="https://xxy20010606.github.io/briefs/semiconductor.html" target="_blank">在线版</a> | 内容仅供参考，不构成投资建议</p>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon policy">📋</div>
+      <div class="section-name">政策与产业</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index active">1</div>
+      <div class="news-body">
+        <div class="news-title">城堡证券预计AI热潮下的芯片需求将掀起5000亿美元债务融资热潮</div>
+        <div class="news-summary">信贷市场对数据中心创纪录的融资活动可能已感到厌倦，但科技公司尚未停下脚步。城堡证券预测，截止到202...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/newsflashes/3924702184176009?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index active">2</div>
+      <div class="news-body">
+        <div class="news-title">德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号</div>
+        <div class="news-summary">图片1 &amp;nbsp; 今日A股收盘数据 上证指数：3809.66&amp;nbsp;点，-0.59% 深证成...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3923603053686151?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon model">🔬</div>
+      <div class="section-name">技术与产品</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">3</div>
+      <div class="news-body">
+        <div class="news-title">8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元</div>
+        <div class="news-summary">今日热点导览 OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题 江小白起...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3924467692927369?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">4</div>
+      <div class="news-body">
+        <div class="news-title">可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？</div>
+        <div class="news-summary">其中高质量画面、电影感镜头、广告和商业短片是用户提及率最高的应用场景。 这次，我们进一步展开测试：如...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3923465542364545?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon case">🏢</div>
+      <div class="section-name">企业动态</div>
+      <div class="section-count">1 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">5</div>
+      <div class="news-body">
+        <div class="news-title">从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会</div>
+        <div class="news-summary">AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3923717502072969?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon capital">💰</div>
+      <div class="section-name">投融资与IPO</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">6</div>
+      <div class="news-body">
+        <div class="news-title">3氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资</div>
+        <div class="news-summary">作者&amp;nbsp;|&amp;nbsp;乔钰杰 编辑&amp;nbsp;|&amp;nbsp;袁斯来 硬氪获悉，空间态势感知公...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3924634192673153?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">7</div>
+      <div class="news-body">
+        <div class="news-title">36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿</div>
+        <div class="news-summary">作者&amp;nbsp;|&amp;nbsp;乔钰杰 编辑&amp;nbsp;|&amp;nbsp;袁斯来 硬氪获悉，精密减速器企业...</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="https://36kr.com/p/3924628805351811?f=rss">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月04日 05:11 更新</div>
 </div>
-
 </body>
 </html>
