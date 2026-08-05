@@ -28,6 +28,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 .section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
 .section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
 .section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
 .section-icon.tool{background:#e8f5e9}
 .section-icon.case{background:#e3f2fd}
 .section-icon.agent{background:#ede7f6}
@@ -42,7 +48,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 .news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
 .news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
 .news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.news-source{font-size:11px;color:#27ae60;background:rgba(39,174,96,0.1);border-radius:4px;padding:2px 7px}
+.news-source{font-size:11px;color:#27ae60;background:rgba(39,174,96,39,174,96,0.1);border-radius:4px;padding:2px 7px}
 .news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
 .news-link:hover{color:#27ae60}
 .footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
@@ -59,120 +65,10 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 </div>
 <div class="summary-card">
 <div class="summary-title"><span class="dot"></span> 今日概览</div>
-<div class="summary-grid">
-<div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">AI 工具与产品发布</div></div>
-<div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">AI + 行业落地案例</div></div>
-<div class="summary-item green"><div class="summary-num">2</div><div class="summary-label">AI Agent 与智能体</div></div>
-<div class="summary-item orange"><div class="summary-num">1</div><div class="summary-label">AI 创业与商业模式</div></div>
-</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">AI 工具与产品发布</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">AI + 行业落地案例</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">AI Agent 与智能体</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">AI 创业与商业模式</div></div></div>
 </div>
 
-  <div class="section">
-    <div class="section-header">
-      <div class="section-icon tool">🛠️</div>
-      <div class="section-name">AI 工具与产品发布</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index active">1</div>
-      <div class="news-body">
-        <div class="news-title">钉钉发布8.0版本「钉钉ONE」：多智能体协同重构AI办公</div>
-        <div class="news-summary">钉钉ONE以Agent驱动工作信息流，由消息、日程、审批等多专业智能体组成"智能体团队"，实现多角色协同办公。</div>
-        <div class="news-meta">
-          <span class="news-source">财联社</span>
-          <a class="news-link" href="https://api3.cls.cn/share/article/2125491">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index active">2</div>
-      <div class="news-body">
-        <div class="news-title">百度文库发布GenFlow 2.0：全球首个全端通用智能体，支持100+专家并行</div>
-        <div class="news-summary">GenFlow 2.0实现超100个专家智能体同时协作，3分钟完成5项复杂任务，过程可干预、记忆可追溯。</div>
-        <div class="news-meta">
-          <span class="news-source">量子位</span>
-          <a class="news-link" href="https://www.toutiao.com/article/7540092768589201954/">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section">
-    <div class="section-header">
-      <div class="section-icon case">🏭</div>
-      <div class="section-name">AI + 行业落地案例</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">3</div>
-      <div class="news-body">
-        <div class="news-title">快手可灵AI：内容播放量半年增长321%，漫剧日流水增900%</div>
-        <div class="news-summary">全球AI视频创作者规模突破1亿，AI漫剧Q3日流水较去年Q4增长900%，向短剧、影视行业加速渗透。</div>
-        <div class="news-meta">
-          <span class="news-source">36氪</span>
-          <a class="news-link" href="http://new.36kr.com/newsflashes/3443626366408073">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">4</div>
-      <div class="news-body">
-        <div class="news-title">美的集团AI Agent落地：设备故障率降低35%，智能运维新标杆</div>
-        <div class="news-summary">制造业AI应用加速，美的通过AI Agent实现设备故障率降35%，医疗领域多模态诊断Agent早期肺癌识别率突破98%。</div>
-        <div class="news-meta">
-          <span class="news-source">大模型之家</span>
-          <a class="news-link" href="https://caifuhao.eastmoney.com/news/1593128201">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section">
-    <div class="section-header">
-      <div class="section-icon agent">🤖</div>
-      <div class="section-name">AI Agent 与智能体</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">5</div>
-      <div class="news-body">
-        <div class="news-title">多智能体军团竞速：钉钉、360、百度齐发力，从"单兵"到"协同"</div>
-        <div class="news-summary">IDC预测2027年60%大型企业将采用协作型智能体系统，大厂争相布局多智能体赛道，360上线纳米AI蜂群。</div>
-        <div class="news-meta">
-          <span class="news-source">大众报业</span>
-          <a class="news-link" href="https://baijiahao.baidu.com/s?id=1841498653797334084">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">6</div>
-      <div class="news-body">
-        <div class="news-title">火山引擎扣子升级：Agent全生命周期平台，从开发到调优一站式</div>
-        <div class="news-summary">扣子从Agent开发平台进化为全生命周期平台，覆盖低代码开发、开源框架Eino、效果调优罗盘、协作空间四大模块。</div>
-        <div class="news-meta">
-          <span class="news-source">机器之心</span>
-          <a class="news-link" href="https://baijiahao.baidu.com/s?id=1834814396627004347">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section">
-    <div class="section-header">
-      <div class="section-icon biz">💡</div>
-      <div class="section-name">AI 创业与商业模式</div>
-      <div class="section-count">1 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">7</div>
-      <div class="news-body">
-        <div class="news-title">AI视频生成赛道爆发：Sora 2引爆市场，"一人公司"时代来临</div>
-        <div class="news-summary">AI视频生成市场2032年将达25.63亿美元，小影科技VivaCut登顶a16z全球AI应用榜，"一人百万美元公司"将涌现。</div>
-        <div class="news-meta">
-          <span class="news-source">虎嗅</span>
-          <a class="news-link" href="https://www.huxiu.com/article/4797569.html">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月05日 10:23 更新</div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月05日 05:11 更新</div>
 </div>
 </body>
 </html>

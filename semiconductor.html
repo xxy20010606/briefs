@@ -2,172 +2,73 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>半导体产业每日简报 | 2026-08-05</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>💻 半导体简报 · 2026年08月05日</title>
 <style>
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; background: #f0f4f8; color: #1a2a3a; line-height: 1.6; }
-.header { background: linear-gradient(135deg, #0a1628 0%, #0d2137 40%, #153357 100%); color: #fff; padding: 40px 20px; text-align: center; position: relative; overflow: hidden; }
-.header::before { content: ''; position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at 30% 50%, rgba(0,168,255,0.08) 0%, transparent 60%), radial-gradient(circle at 70% 50%, rgba(0,102,204,0.06) 0%, transparent 60%); animation: pulse 6s ease-in-out infinite; }
-@keyframes pulse { 0%, 100% { opacity: 0.6; } 50% { opacity: 1; } }
-.header h1 { font-size: 28px; font-weight: 700; letter-spacing: 2px; position: relative; z-index: 1; }
-.header h1 span { color: #4da8ff; }
-.header .date { font-size: 14px; color: #7ba9d4; margin-top: 10px; position: relative; z-index: 1; }
-.header .subtitle { font-size: 13px; color: #5a89b5; margin-top: 6px; position: relative; z-index: 1; }
-.container { max-width: 900px; margin: 0 auto; padding: 24px 16px; }
-.category { margin-bottom: 28px; }
-.cat-header { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; padding-bottom: 10px; border-bottom: 2px solid #d0dce8; }
-.cat-icon { width: 36px; height: 36px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 18px; flex-shrink: 0; }
-.cat-icon.policy { background: #1a3a5c; color: #4da8ff; }
-.cat-icon.tech { background: #0d2b45; color: #00b4d8; }
-.cat-icon.enterprise { background: #122d4a; color: #4895ef; }
-.cat-icon.finance { background: #0f2740; color: #3a7bd5; }
-.cat-title { font-size: 18px; font-weight: 700; color: #0a2342; }
-.cat-count { font-size: 12px; color: #5a89b5; background: #e3ecf5; padding: 2px 10px; border-radius: 12px; }
-.card { background: #fff; border-radius: 10px; padding: 18px 20px; margin-bottom: 10px; box-shadow: 0 1px 4px rgba(10,30,60,0.06); border-left: 3px solid transparent; transition: box-shadow 0.2s, border-color 0.2s; position: relative; }
-.card:hover { box-shadow: 0 3px 12px rgba(10,30,60,0.1); }
-.card.policy { border-left-color: #1a5fa8; }
-.card.tech { border-left-color: #0096c7; }
-.card.enterprise { border-left-color: #2563eb; }
-.card.finance { border-left-color: #3b6fd4; }
-.card .tag { display: inline-block; font-size: 11px; padding: 2px 8px; border-radius: 4px; margin-bottom: 8px; font-weight: 500; }
-.tag.policy { background: #e3f0fa; color: #1a5fa8; }
-.tag.tech { background: #e0f4fa; color: #0077a8; }
-.tag.enterprise { background: #e8effc; color: #1d4ed8; }
-.tag.finance { background: #e7edf8; color: #2d5fc4; }
-.card h3 { font-size: 16px; font-weight: 600; color: #0a2342; margin-bottom: 6px; line-height: 1.4; }
-.card .summary { font-size: 14px; color: #4a6078; margin-bottom: 10px; line-height: 1.5; }
-.card .source { font-size: 12px; color: #8899aa; }
-.card .source a { color: #1a5fa8; text-decoration: none; }
-.card .source a:hover { text-decoration: underline; }
-.divider { display: inline; color: #c0d0e0; margin: 0 8px; }
-.footer { text-align: center; padding: 30px 16px; color: #8899aa; font-size: 12px; border-top: 1px solid #dce4ee; margin-top: 10px; }
-.footer a { color: #1a5fa8; text-decoration: none; }
-.stats { display: flex; justify-content: center; gap: 24px; margin-bottom: 32px; flex-wrap: wrap; }
-.stat-item { text-align: center; background: #fff; border-radius: 10px; padding: 16px 24px; box-shadow: 0 1px 4px rgba(10,30,60,0.06); min-width: 100px; }
-.stat-value { font-size: 24px; font-weight: 700; color: #0a3d6b; }
-.stat-label { font-size: 12px; color: #7a95af; margin-top: 4px; }
-@media (max-width: 600px) {
-  .header h1 { font-size: 22px; }
-  .container { padding: 16px 10px; }
-  .card { padding: 14px 16px; }
-}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
+.container{max-width:420px;margin:0 auto}
+.header{background:linear-gradient(135deg,#2196f3, #1565c0);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#2196f3;flex-shrink:0}
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
+.news-item:last-child{border-bottom:none}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#2196f3;color:#fff}
+.news-body{padding-left:30px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
+.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.news-source{font-size:11px;color:#2196f3;background:rgba(33,150,243,33,150,243,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#2196f3}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
+.footer span{color:#2196f3;font-weight:600}
 </style>
 </head>
 <body>
-
-<div class="header">
-  <h1>💻 <span>半导体产业</span>每日简报</h1>
-  <div class="date">2026年8月5日 星期三</div>
-  <div class="subtitle">覆盖政策/技术/企业/资本 | 优先财联社·36氪·华尔街见闻·IT之家</div>
-</div>
-
 <div class="container">
-
-  <div class="stats">
-    <div class="stat-item"><div class="stat-value">8</div><div class="stat-label">条快讯</div></div>
-    <div class="stat-item"><div class="stat-value">4</div><div class="stat-label">个分类</div></div>
-    <div class="stat-item"><div class="stat-value">7</div><div class="stat-label">个来源</div></div>
-  </div>
-
-  <!-- 政策与产业 -->
-  <div class="category">
-    <div class="cat-header">
-      <div class="cat-icon policy">📋</div>
-      <div class="cat-title">政策与产业</div>
-      <div class="cat-count">2 条</div>
-    </div>
-
-    <div class="card policy">
-      <span class="tag policy">供应链安全</span>
-      <h3>美国FCC拟禁中国新型光模块进口，磷化铟供应缺口超30%</h3>
-      <div class="summary">FCC拟禁止进口中国新型号光模块，中际旭创、新易盛承压。磷化铟缺口超30%，英伟达已注资40亿美元锁定Lumentum与Coherent产能至2028年。</div>
-      <div class="source"><a href="https://new.qq.com/rain/a/20260805A03FMG00" target="_blank">TechSugar / 腾讯新闻</a><span class="divider">|</span>2026-08-05</div>
-    </div>
-
-    <div class="card policy">
-      <span class="tag policy">产业数据</span>
-      <h3>SEMI：Q2全球硅晶圆出货量同比增7.4%，上海集成电路产值增19.5%</h3>
-      <div class="summary">SEMI报告Q2全球硅晶圆出货3573 MSI，环比增9.1%。上半年上海集成电路产业规模超5800亿元，同比增19.5%，AI需求向功率器件、光子学扩散。</div>
-      <div class="source"><a href="https://new.qq.com/rain/a/20260805A03FMG00" target="_blank">TechSugar</a><span class="divider">|</span>2026-08-05</div>
-    </div>
-  </div>
-
-  <!-- 技术与产品 -->
-  <div class="category">
-    <div class="cat-header">
-      <div class="cat-icon tech">🔬</div>
-      <div class="cat-title">技术与产品</div>
-      <div class="cat-count">2 条</div>
-    </div>
-
-    <div class="card tech">
-      <span class="tag tech">存储技术</span>
-      <h3>三星展示超400层V10 BV-NAND原型及垂直堆叠HBM架构</h3>
-      <div class="summary">三星在FMS 2026展示V10 BV-NAND原型（晶圆键合架构，存储密度提升58%）、zHBM及zNAND-O，半导体设备ETF规模较年初增9.8倍至173.7亿元。</div>
-      <div class="source"><a href="https://www.163.com/dy/article/L3IF232K0512B07B.html" target="_blank">每日经济新闻</a><span class="divider">|</span>2026-08-05</div>
-    </div>
-
-    <div class="card tech">
-      <span class="tag tech">芯片设计</span>
-      <h3>Neo Semiconductor公布2T SRAM技术，片上缓存容量提升5倍</h3>
-      <div class="summary">Neo Semiconductor在FMS 2026发布X-SRAM，用双晶体管替代传统6T结构，Type B兼容GAA Nanosheet制程，3D堆叠版可达20-40倍容量。</div>
-      <div class="source"><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_5946a728f8c54252" target="_blank">IT之家</a><span class="divider">|</span>2026-08-05</div>
-    </div>
-  </div>
-
-  <!-- 企业动态 -->
-  <div class="category">
-    <div class="cat-header">
-      <div class="cat-icon enterprise">🏭</div>
-      <div class="cat-title">企业动态</div>
-      <div class="cat-count">3 条</div>
-    </div>
-
-    <div class="card enterprise">
-      <span class="tag enterprise">国产存储</span>
-      <h3>长鑫存储增资75亿元，拟在北京亦庄建第二座12英寸DRAM晶圆厂</h3>
-      <div class="summary">长鑫存储注册资本增至313.9亿元，拟在北京亦庄建第二座12英寸DRAM厂。LPDDR6已向小米/vivo送样，整体月产能有望突破60万片，Q1全球市占率8%。</div>
-      <div class="source"><a href="https://www.163.com/dy/article/L3G8BF45051481US.html" target="_blank">观察者网</a><span class="divider">|</span><a href="https://www.esmchina.com/news/14446.html" target="_blank">ESM国际电子商情</a><span class="divider">|</span>2026-08-05</div>
-    </div>
-
-    <div class="card enterprise">
-      <span class="tag enterprise">晶圆代工</span>
-      <h3>三星晶圆代工下半年目标满产，特斯拉拟用其2nm工艺造芯</h3>
-      <div class="summary">三星代工下半年产能利用率目标100%（当前70-80%），HBM4基片与2nm订单驱动。2nm良率约60%需达70%才能量产，特斯拉、高通、AMD洽谈中。</div>
-      <div class="source"><a href="https://www.toutiao.com/article/7669734826581082674/" target="_blank">IT之家 / 快科技</a><span class="divider">|</span>2026-08-05</div>
-    </div>
-
-    <div class="card enterprise">
-      <span class="tag enterprise">国产替代</span>
-      <h3>三星、SK海力士评估中微半导体设备，拟用于中国工厂</h3>
-      <div class="summary">韩国两大存储巨头正在评估中微半导体的芯片制造设备，考虑将其用于旗下中国工厂，标志国产半导体设备进入国际头部客户评估体系。</div>
-      <div class="source"><a href="https://www.163.com/news/article/L3IFK4520001899O.html" target="_blank">财联社</a><span class="divider">|</span>2026-08-05</div>
-    </div>
-  </div>
-
-  <!-- 投融资与IPO -->
-  <div class="category">
-    <div class="cat-header">
-      <div class="cat-icon finance">💰</div>
-      <div class="cat-title">投融资与IPO</div>
-      <div class="cat-count">1 条</div>
-    </div>
-
-    <div class="card finance">
-      <span class="tag finance">产业资本</span>
-      <h3>国家大基金三期入股正芯半导体，半导体设备融资热度高企</h3>
-      <div class="summary">国家大基金三期旗下基金入股沈阳正芯半导体。7月半导体私募股权融资109起，设备/材料赛道42起居首。长鑫科技576亿IPO占当月融资近七成。</div>
-      <div class="source"><a href="https://new.qq.com/rain/a/20260805A02HPK00" target="_blank">腾讯新闻 / 财联社</a><span class="divider">|</span>2026-08-05</div>
-    </div>
-  </div>
-
+<div class="header">
+<div class="header-date">2026年08月05日</div>
+<div class="header-title">💻 半导体简报</div>
+<div class="header-sub">芯片技术 · 晶圆代工 · EDA · 国产替代</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
+</div>
+<div class="summary-card">
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">政策与产业</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">技术与产品</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">企业动态</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">投融资与IPO</div></div></div>
 </div>
 
-<div class="footer">
-  <p>📡 数据来源：财联社 · 36氪 · IT之家 · 观察者网 · 每日经济新闻 · 快科技 · TechSugar</p>
-  <p>⚡ 由自动化系统每日生成 | <a href="https://xxy20010606.github.io/briefs/" target="_blank">GitHub Pages</a></p>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月05日 05:11 更新</div>
 </div>
-
 </body>
 </html>

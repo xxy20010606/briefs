@@ -2,237 +2,73 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>娱乐简报 | 2026-08-05</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>🎬 娱乐简报 · 2026年08月05日</title>
 <style>
-  :root {
-    --pink-50: #fff1f2;
-    --pink-100: #ffe4e6;
-    --pink-200: #fecdd3;
-    --pink-300: #fda4af;
-    --pink-400: #fb7185;
-    --pink-500: #f43f5e;
-    --pink-600: #e11d48;
-    --pink-700: #be123c;
-    --pink-800: #9f1239;
-    --pink-900: #881337;
-  }
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: -apple-system, "Microsoft YaHei", "PingFang SC", sans-serif;
-    background: linear-gradient(135deg, var(--pink-50), var(--pink-100));
-    min-height: 100vh;
-    color: #333;
-  }
-  .container {
-    max-width: 780px;
-    margin: 0 auto;
-    padding: 24px 20px 40px;
-  }
-  header {
-    text-align: center;
-    padding: 32px 20px;
-    background: linear-gradient(135deg, var(--pink-500), var(--pink-600));
-    border-radius: 20px;
-    color: #fff;
-    margin-bottom: 28px;
-    box-shadow: 0 8px 32px rgba(244,63,94,0.3);
-  }
-  header h1 {
-    font-size: 32px;
-    font-weight: 800;
-    letter-spacing: 2px;
-    margin-bottom: 6px;
-  }
-  header .date {
-    font-size: 14px;
-    opacity: 0.9;
-  }
-  header .emoji-row {
-    font-size: 28px;
-    margin-top: 12px;
-  }
-  .category {
-    margin-bottom: 24px;
-  }
-  .category-title {
-    font-size: 18px;
-    font-weight: 700;
-    color: var(--pink-700);
-    border-left: 4px solid var(--pink-500);
-    padding-left: 12px;
-    margin-bottom: 12px;
-  }
-  .item {
-    background: #fff;
-    border-radius: 14px;
-    padding: 18px 20px;
-    margin-bottom: 10px;
-    box-shadow: 0 2px 12px rgba(244,63,94,0.08);
-    border-left: 3px solid var(--pink-300);
-    transition: transform 0.2s, box-shadow 0.2s;
-  }
-  .item:hover {
-    transform: translateX(4px);
-    box-shadow: 0 4px 20px rgba(244,63,94,0.15);
-  }
-  .item-title {
-    font-size: 16px;
-    font-weight: 700;
-    color: #1a1a1a;
-    margin-bottom: 6px;
-    line-height: 1.5;
-  }
-  .item-summary {
-    font-size: 13px;
-    color: #666;
-    margin-bottom: 6px;
-    line-height: 1.6;
-  }
-  .item-source {
-    font-size: 12px;
-  }
-  .item-source a {
-    color: var(--pink-500);
-    text-decoration: none;
-    font-weight: 500;
-  }
-  .item-source a:hover {
-    text-decoration: underline;
-  }
-  .tag {
-    display: inline-block;
-    font-size: 11px;
-    padding: 2px 10px;
-    border-radius: 20px;
-    margin-right: 6px;
-    font-weight: 600;
-  }
-  .tag-hot { background: var(--pink-100); color: var(--pink-700); }
-  .tag-new { background: #fef3c7; color: #b45309; }
-  .tag-box { background: #e0e7ff; color: #4338ca; }
-  footer {
-    text-align: center;
-    padding: 24px;
-    color: #999;
-    font-size: 12px;
-  }
-  footer a {
-    color: var(--pink-400);
-    text-decoration: none;
-  }
-  @media (max-width: 640px) {
-    .container { padding: 12px; }
-    header h1 { font-size: 24px; }
-  }
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
+.container{max-width:420px;margin:0 auto}
+.header{background:linear-gradient(135deg,#e91e63, #c2185b);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#e91e63;flex-shrink:0}
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
+.news-item:last-child{border-bottom:none}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#e91e63;color:#fff}
+.news-body{padding-left:30px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
+.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.news-source{font-size:11px;color:#e91e63;background:rgba(233,30,99,233,30,99,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#e91e63}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
+.footer span{color:#e91e63;font-weight:600}
 </style>
 </head>
 <body>
 <div class="container">
-
-<header>
-  <h1>&#127909; 娱乐简报</h1>
-  <div class="date">2026年8月5日 &#183; 周三</div>
-  <div class="emoji-row">&#127916; &#127925; &#127775; &#127918;</div>
-</header>
-
-<!-- ====== 影视动态 ====== -->
-<div class="category">
-  <div class="category-title">&#127916; 影视动态</div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-hot">热映</span>
-      《功夫女足》票房破22亿，周星驰再证票房号召力
-    </div>
-    <div class="item-summary">上映26天累计票房破22亿，观影人次超6300万，继续领跑2026暑期档。张小斐、迪丽热巴、张艺兴领衔主演，口碑两极分化。</div>
-    <div class="item-source">来源：<a href="https://new.qq.com/rain/a/20260805A03WHI00" target="_blank">大象新闻 &#8599;</a></div>
-  </div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-new">行业</span>
-      暑期7部影片撤档，36氪评"打不过就跑"消耗观众信任
-    </div>
-    <div class="item-summary">《群星闪耀时》上映不到48小时撤档、《三国第一部：争洛阳》等共7部影片先后跳票。业内人士称排片被强片锁死后选择止损。</div>
-    <div class="item-source">来源：<a href="https://www.36kr.com/p/3925902810560643" target="_blank">36氪 &#8599;</a></div>
-  </div>
+<div class="header">
+<div class="header-date">2026年08月05日</div>
+<div class="header-title">🎬 娱乐简报</div>
+<div class="header-sub">影视综艺 · 音乐明星 · 游戏电竞 · 热点</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
+</div>
+<div class="summary-card">
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">影视动态</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">音乐与综艺</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">明星与热点</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">游戏与电竞</div></div></div>
 </div>
 
-<!-- ====== 音乐与综艺 ====== -->
-<div class="category">
-  <div class="category-title">&#127925; 音乐与综艺</div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-hot">歌王之争</span>
-      《歌手2026》总决赛歌单发布，胡彦斌齐豫争冠
-    </div>
-    <div class="item-summary">总决赛帮唱阵容公布，首发仅剩胡彦斌、齐豫、尤长靖、窦靖童四人。胡彦斌连获三期第一，齐豫包揽前两期冠军，歌王悬念拉满。</div>
-    <div class="item-source">来源：<a href="https://weibo.com/2230755857/5328487640728082" target="_blank">新浪微博 &#8599;</a></div>
-  </div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-hot">话题</span>
-      《乘风2026》曾沛慈黄灿灿粉丝大战，CP超话首例关停
-    </div>
-    <div class="item-summary">四公舞台替换埋下导火索，两月后应援活动引爆。两家工作室同日发布声明呼吁理智，"慈安灿"CP超话成《乘风》系列首例被关停。</div>
-    <div class="item-source">来源：<a href="https://new.qq.com/rain/a/20260805A03NV100" target="_blank">腾讯新闻 &#8599;</a></div>
-  </div>
-</div>
-
-<!-- ====== 明星与热点 ====== -->
-<div class="category">
-  <div class="category-title">&#127775; 明星与热点</div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-hot">争议</span>
-      李修贤炮轰周星驰"无儿无女"后公开道歉
-    </div>
-    <div class="item-summary">李修贤直播称周星驰"事业再成功也无意义"，遭全网骂后8月4日发视频致歉，称不该在公众场合说那些话，并祝贺《功夫女足》票房破20亿。</div>
-    <div class="item-source">来源：<a href="https://www.163.com/dy/article/L3HNBDCO05521FC7.html" target="_blank">网易娱乐 &#8599;</a></div>
-  </div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-hot">爆料</span>
-      卓伟曝"三字天王巨星"有私生子，登热搜第一
-    </div>
-    <div class="item-summary">8月4日晚，"曝三字天王有私生子"词条登顶热搜。卓伟称该天王为华语乐坛三字歌手，已婚且婚姻幸福，引发全网猜测。</div>
-    <div class="item-source">来源：<a href="https://www.163.com/dy/article/L3HNBDCO05521FC7.html" target="_blank">网易娱乐 &#8599;</a></div>
-  </div>
-</div>
-
-<!-- ====== 游戏与电竞 ====== -->
-<div class="category">
-  <div class="category-title">&#127918; 游戏与电竞</div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-box">LPL</span>
-      Jiejie回归EDG今日首发对阵TES，S11冠军打野重返赛场
-    </div>
-    <div class="item-summary">EDG官宣Jiejie从WBG离队回归，今日19:00迎战TES即首发出战。EDG目前0胜5负垫底，Jiejie回归被寄望扭转颓势。</div>
-    <div class="item-source">来源：<a href="https://new.qq.com/rain/a/20260805A026MZ00" target="_blank">雷速体育 &#8599;</a></div>
-  </div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-box">LPL</span>
-      TheShy连续两周当选周最佳上单，iG涅槃组两连胜
-    </div>
-    <div class="item-summary">TheShy杰斯1v4反杀名场面拿下MVP，iG以2-0击败LNG取两连胜。iG迎来15周年并官宣新赞助商，Meiko盛赞"上路令人放心"。</div>
-    <div class="item-source">来源：<a href="https://new.qq.com/rain/a/20260805A01Z6T00" target="_blank">腾讯新闻 &#8599;</a></div>
-  </div>
-</div>
-
-<footer>
-  &#127909; 每日娱乐简报 &#183; 自动生成于 2026-08-05 10:00 &#183;
-  <a href="https://xxy20010606.github.io/briefs/entertainment.html" target="_blank">在线版</a>
-</footer>
-
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月05日 05:11 更新</div>
 </div>
 </body>
 </html>

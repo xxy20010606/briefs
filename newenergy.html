@@ -2,280 +2,73 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>新能源每日简报 | 2026-08-05</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>⚡ 新能源简报 · 2026年08月05日</title>
 <style>
-  :root {
-    --bg: #0d0d0d;
-    --card-bg: #1a1a1a;
-    --orange: #ff8c00;
-    --orange-light: #ffa940;
-    --orange-dark: #cc7000;
-    --orange-bg: rgba(255,140,0,0.08);
-    --text: #e0e0e0;
-    --text-secondary: #999;
-    --border: #2a2a2a;
-    --tag-bg: rgba(255,140,0,0.12);
-  }
-  * { margin:0; padding:0; box-sizing:border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    line-height: 1.6;
-    min-height: 100vh;
-  }
-  .container { max-width: 860px; margin:0 auto; padding: 40px 20px 60px; }
-  
-  /* Header */
-  .header {
-    text-align: center;
-    padding: 50px 20px 30px;
-    border-bottom: 2px solid var(--orange-dark);
-    margin-bottom: 40px;
-  }
-  .header .icon { font-size: 42px; margin-bottom: 10px; }
-  .header h1 {
-    font-size: 28px;
-    font-weight: 700;
-    background: linear-gradient(135deg, #ff8c00, #ffb347);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-  .header .date {
-    color: var(--text-secondary);
-    font-size: 14px;
-    margin-top: 8px;
-  }
-  .header .divider {
-    width: 60px;
-    height: 3px;
-    background: linear-gradient(90deg, #ff8c00, transparent);
-    margin: 16px auto 0;
-  }
-
-  /* Stats row */
-  .stats {
-    display: flex;
-    justify-content: center;
-    gap: 32px;
-    margin-bottom: 36px;
-    flex-wrap: wrap;
-  }
-  .stat {
-    text-align: center;
-  }
-  .stat .num {
-    font-size: 28px;
-    font-weight: 700;
-    color: var(--orange);
-  }
-  .stat .label {
-    font-size: 12px;
-    color: var(--text-secondary);
-    margin-top: 2px;
-  }
-
-  /* Category section */
-  .category { margin-bottom: 32px; }
-  .category-title {
-    font-size: 18px;
-    font-weight: 700;
-    color: var(--orange-light);
-    margin-bottom: 14px;
-    padding-left: 14px;
-    border-left: 4px solid var(--orange);
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .category-title .emoji { font-size: 20px; }
-
-  /* News cards */
-  .news-list { display: flex; flex-direction: column; gap: 12px; }
-  .news-card {
-    background: var(--card-bg);
-    border-radius: 10px;
-    padding: 18px 22px;
-    border: 1px solid var(--border);
-    transition: border-color 0.2s, transform 0.15s;
-    position: relative;
-    overflow: hidden;
-  }
-  .news-card::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 4px;
-    height: 100%;
-    background: linear-gradient(180deg, var(--orange), transparent);
-  }
-  .news-card:hover {
-    border-color: var(--orange-dark);
-    transform: translateX(2px);
-  }
-  .news-card .tag {
-    display: inline-block;
-    font-size: 11px;
-    color: var(--orange);
-    background: var(--tag-bg);
-    padding: 2px 10px;
-    border-radius: 12px;
-    margin-bottom: 8px;
-    font-weight: 500;
-  }
-  .news-card h3 {
-    font-size: 16px;
-    font-weight: 600;
-    color: #f0f0f0;
-    margin-bottom: 6px;
-    line-height: 1.4;
-  }
-  .news-card .summary {
-    font-size: 13px;
-    color: var(--text-secondary);
-    line-height: 1.5;
-    margin-bottom: 10px;
-  }
-  .news-card .source {
-    font-size: 12px;
-    color: var(--orange-dark);
-  }
-  .news-card .source a {
-    color: var(--orange);
-    text-decoration: none;
-    word-break: break-all;
-  }
-  .news-card .source a:hover { text-decoration: underline; }
-
-  /* Footer */
-  .footer {
-    margin-top: 48px;
-    text-align: center;
-    padding-top: 24px;
-    border-top: 1px solid var(--border);
-  }
-  .footer p {
-    color: var(--text-secondary);
-    font-size: 12px;
-  }
-  .footer .update-time {
-    color: var(--orange);
-    font-weight: 500;
-  }
-
-  @media (max-width: 600px) {
-    .container { padding: 20px 12px 40px; }
-    .header h1 { font-size: 22px; }
-    .stats { gap: 20px; }
-    .news-card { padding: 14px 16px; }
-    .news-card h3 { font-size: 15px; }
-  }
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
+.container{max-width:420px;margin:0 auto}
+.header{background:linear-gradient(135deg,#e67e22, #d35400);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#e67e22;flex-shrink:0}
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
+.news-item:last-child{border-bottom:none}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#e67e22;color:#fff}
+.news-body{padding-left:30px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
+.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.news-source{font-size:11px;color:#e67e22;background:rgba(230,126,34,230,126,34,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#e67e22}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
+.footer span{color:#e67e22;font-weight:600}
 </style>
 </head>
 <body>
 <div class="container">
+<div class="header">
+<div class="header-date">2026年08月05日</div>
+<div class="header-title">⚡ 新能源简报</div>
+<div class="header-sub">光伏风电 · 储能电池 · 电动车 · 碳中和</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
+</div>
+<div class="summary-card">
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">政策与市场</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">产业链动态</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">企业动态</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">投融资与出海</div></div></div>
+</div>
 
-  <!-- Header -->
-  <div class="header">
-    <div class="icon">⚡</div>
-    <h1>新能源每日简报</h1>
-    <div class="date">2026年8月5日 · 星期三</div>
-    <div class="divider"></div>
-  </div>
-
-  <!-- Stats -->
-  <div class="stats">
-    <div class="stat"><div class="num">8</div><div class="label">今日资讯</div></div>
-    <div class="stat"><div class="num">4</div><div class="label">分类覆盖</div></div>
-    <div class="stat"><div class="num">10:00</div><div class="label">每日更新</div></div>
-  </div>
-
-  <!-- 一、政策与市场 -->
-  <div class="category">
-    <div class="category-title"><span class="emoji">📋</span>政策与市场</div>
-    <div class="news-list">
-      <div class="news-card">
-        <span class="tag">政策发布</span>
-        <h3>新型电力系统"十五五"规划正式出台：新增储能8000万千瓦，2030年非化石能源发电占比达50%</h3>
-        <div class="summary">发改委、能源局联合印发规划，提出到2030年电网侧独立储能达1.4亿千瓦、支撑1.1亿辆电动车充电，新能源利用率分三档管理（85%-95%）。</div>
-        <div class="source">来源：<a href="https://www.nbd.com.cn/articles/2026-08-04/4531227.html" target="_blank">每日经济新闻</a></div>
-      </div>
-      <div class="news-card">
-        <span class="tag">行业监管</span>
-        <h3>光伏行业首次价格合规指导会召开，CPIA成本核算模型正式落地</h3>
-        <div class="summary">市场监管总局指导召开首次光伏价格合规会议，光伏行业首个"反内卷"可量化工具实施，华东2.0mm镀膜玻璃主流价上涨1.17%。</div>
-        <div class="source">来源：<a href="https://www.163.com/dy/article/L3FUSRA40519QIKK.html" target="_blank">金融界</a></div>
-      </div>
-    </div>
-  </div>
-
-  <!-- 二、产业链动态 -->
-  <div class="category">
-    <div class="category-title"><span class="emoji">🔗</span>产业链动态</div>
-    <div class="news-list">
-      <div class="news-card">
-        <span class="tag">锂电排产</span>
-        <h3>8月锂电排产环比+8%、同比+65%，储能与动力双引擎并行</h3>
-        <div class="summary">头部六家电池企业8月产量环比提升约8%，宁德时代+10%、比亚迪+6%；储能产线满负荷运行，上半年储能电池产量同比翻倍。</div>
-        <div class="source">来源：<a href="https://www.163.com/dy/article/L3FSK3LE0534A4SC.html" target="_blank">界面新闻</a></div>
-      </div>
-      <div class="news-card">
-        <span class="tag">固态电池</span>
-        <h3>固态电池进入工业化卡位战：国标实施+宁德15GWh产线投产+免税政策</h3>
-        <div class="summary">7月1日全球首个车用固态电池国标实施，宁德时代宜宾15GWh全固态产线投产（500Wh/kg），财政部对固态电池实施阶段性消费税免征。</div>
-        <div class="source">来源：<a href="https://www.toutiao.com/article/7670355145925870143/" target="_blank">今日头条</a></div>
-      </div>
-    </div>
-  </div>
-
-  <!-- 三、企业动态 -->
-  <div class="category">
-    <div class="category-title"><span class="emoji">🏢</span>企业动态</div>
-    <div class="news-list">
-      <div class="news-card">
-        <span class="tag">宁德时代</span>
-        <h3>宁德时代H1营收2769亿同比+54.8%，净利432.84亿+42%，宣布史上最大规模回购</h3>
-        <div class="summary">动力电池营收1921亿+46%，储能电池532.6亿+87.5%，日均净赚2.4亿元；境外营收871亿占比31.5%，第二增长曲线稳固。</div>
-        <div class="source">来源：<a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_7546a6ff84b26952" target="_blank">腾讯新闻</a></div>
-      </div>
-      <div class="news-card">
-        <span class="tag">比亚迪</span>
-        <h3>比亚迪签约广西高速闪充网络：52对服务区建104座闪充站，单枪峰值1500kW</h3>
-        <div class="summary">与广西北投集团合作，在26条高速部署234套闪充设备覆盖12个地级市，"5分钟充好、9分钟充饱"，为全国最大规模高速闪充网络。</div>
-        <div class="source">来源：<a href="https://app.xinhuanet.com/news/article.html?articleId=2026080582b0c189c8b142cb86d2ea27d2cc4d95" target="_blank">新华网</a></div>
-      </div>
-    </div>
-  </div>
-
-  <!-- 四、投融资与出海 -->
-  <div class="category">
-    <div class="category-title"><span class="emoji">🌍</span>投融资与出海</div>
-    <div class="news-list">
-      <div class="news-card">
-        <span class="tag">海外融资</span>
-        <h3>U POWER完成1600万美元融资，正大集团连续三年追投，新增氢能IDC板块</h3>
-        <div class="summary">纳斯达克上市换电企业以1.64美元/股溢价融资1600万美元，转型"电动化交通+氢电IDC"双轨战略，已切入泰国罗勇府数据中心业务。</div>
-        <div class="source">来源：<a href="http://news.cnfol.com/diqucaijing/20260804/32325985.shtml" target="_blank">中金在线</a></div>
-      </div>
-      <div class="news-card">
-        <span class="tag">绿氢出海</span>
-        <h3>中国绿氨首次出口韩国3750吨，内蒙古两绿氢项目备案近39亿元</h3>
-        <div class="summary">大安项目年产绿氢3.2万吨、绿氨18万吨首获ISCC认证并出口韩国；内蒙古加速绿氢基建，地方氢能项目密集备案，产业从规划进入施工阶段。</div>
-        <div class="source">来源：<a href="https://www.163.com/dy/article/L3BEASCB0519EFR3.html" target="_blank">网易</a></div>
-      </div>
-    </div>
-  </div>
-
-  <!-- Footer -->
-  <div class="footer">
-    <p>⚡ 新能源每日简报 · 数据来源：财联社 / 36氪 / 东方财富 / 每日经济新闻 等</p>
-    <p>更新时间：<span class="update-time">2026-08-05 10:00 CST</span> · 自动生成</p>
-    <p style="margin-top:4px"><a href="https://xxy20010606.github.io/briefs/newenergy.html" style="color:#ff8c00">https://xxy20010606.github.io/briefs/newenergy.html</a></p>
-  </div>
-
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月05日 05:11 更新</div>
 </div>
 </body>
 </html>
