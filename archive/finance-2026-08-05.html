@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>财经简报 · 2026年8月5日</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+    background: #1a0a0a;
+    color: #f0e0e0;
+    line-height: 1.7;
+    padding-bottom: 40px;
+  }
+  .header {
+    background: linear-gradient(135deg, #8B0000 0%, #B22222 40%, #DC143C 100%);
+    padding: 40px 20px 30px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .header::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='60' viewBox='0 0 60 60'%3E%3Cg fill='none' stroke='%23ffffff' stroke-opacity='0.05' stroke-width='1'%3E%3Cpath d='M30 0L60 30L30 60L0 30z'/%3E%3C/g%3E%3C/svg%3E");
+  }
+  .header h1 {
+    font-size: 28px;
+    font-weight: 800;
+    color: #fff;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.4);
+    position: relative;
+  }
+  .header .date {
+    font-size: 14px;
+    color: rgba(255,255,255,0.85);
+    margin-top: 8px;
+    position: relative;
+  }
+  .header .badge {
+    display: inline-block;
+    background: rgba(255,255,255,0.18);
+    border: 1px solid rgba(255,255,255,0.3);
+    border-radius: 20px;
+    padding: 4px 14px;
+    font-size: 12px;
+    color: #fff;
+    margin-top: 12px;
+    position: relative;
+  }
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 16px;
+  }
+  .market-bar {
+    background: #2a1010;
+    border: 1px solid #4a2020;
+    border-radius: 10px;
+    padding: 16px;
+    margin: 20px auto;
+    max-width: 868px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+  }
+  .market-item {
+    text-align: center;
+    padding: 6px 14px;
+    border-radius: 8px;
+    background: rgba(255,255,255,0.03);
+    min-width: 100px;
+  }
+  .market-item .name { font-size: 12px; color: #c0a0a0; }
+  .market-item .val { font-size: 16px; font-weight: 700; }
+  .market-item .chg { font-size: 12px; font-weight: 600; }
+  .up { color: #FF4444; }
+  .down { color: #00CC66; }
+  .section {
+    margin-top: 28px;
+  }
+  .section-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #FF6B6B;
+    border-left: 4px solid #DC143C;
+    padding-left: 12px;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .section-title .icon { font-size: 22px; }
+  .card {
+    background: #2a1010;
+    border: 1px solid #3a1818;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 16px;
+    transition: border-color 0.2s;
+  }
+  .card:hover { border-color: #DC143C; }
+  .card-tag {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+  }
+  .tag-macro { background: rgba(220,20,60,0.2); color: #FF6B6B; }
+  .tag-fintech { background: rgba(255,140,0,0.2); color: #FFA500; }
+  .tag-market { background: rgba(178,34,34,0.25); color: #FF7F7F; }
+  .tag-invest { background: rgba(218,165,32,0.2); color: #DAA520; }
+  .card h3 {
+    font-size: 16px;
+    color: #f0e0e0;
+    margin-bottom: 8px;
+    line-height: 1.5;
+  }
+  .card p {
+    font-size: 14px;
+    color: #c8b0b0;
+    line-height: 1.8;
+  }
+  .card .source {
+    font-size: 12px;
+    color: #806060;
+    margin-top: 10px;
+  }
+  .footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    font-size: 12px;
+    color: #6a4040;
+    border-top: 1px solid #3a1818;
+  }
+  .footer a { color: #FF6B6B; text-decoration: none; }
+  @media (max-width: 600px) {
+    .header h1 { font-size: 22px; }
+    .card { padding: 16px; }
+    .market-item { min-width: 80px; padding: 4px 8px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>📊 财经简报</h1>
+  <div class="date">2026年8月5日 · 星期三</div>
+  <div class="badge">宏观政策 · 金融科技 · 资本市场 · 投融资</div>
+</div>
+
+<div class="market-bar">
+  <div class="market-item">
+    <div class="name">上证指数</div>
+    <div class="val">3,822.28</div>
+    <div class="chg up">+0.33%</div>
+  </div>
+  <div class="market-item">
+    <div class="name">深证成指</div>
+    <div class="val up">13,885.71</div>
+    <div class="chg up">+3.25%</div>
+  </div>
+  <div class="market-item">
+    <div class="name">创业板指</div>
+    <div class="val up">3,488.97</div>
+    <div class="chg up">+5.64%</div>
+  </div>
+  <div class="market-item">
+    <div class="name">科创50</div>
+    <div class="val up">1,612.40</div>
+    <div class="chg up">+4.09%</div>
+  </div>
+  <div class="market-item">
+    <div class="name">恒生指数</div>
+    <div class="val">25,852.92</div>
+    <div class="chg down">-0.60%</div>
+  </div>
+  <div class="market-item">
+    <div class="name">道琼斯</div>
+    <div class="val up">54,085.88</div>
+    <div class="chg up">+1.71%</div>
+  </div>
+  <div class="market-item">
+    <div class="name">纳斯达克</div>
+    <div class="val up">26,584.99</div>
+    <div class="chg up">+2.59%</div>
+  </div>
+  <div class="market-item">
+    <div class="name">标普500</div>
+    <div class="val up">7,736.52</div>
+    <div class="chg up">+1.79%</div>
+  </div>
+</div>
+
+<div class="container">
+
+<!-- 宏观政策 -->
+<div class="section">
+  <div class="section-title"><span class="icon">🏛️</span> 宏观政策</div>
+
+  <div class="card">
+    <span class="card-tag tag-macro">货币政策</span>
+    <h3>央行8月5日开展5000亿元买断式逆回购，连续两月加量净投放2000亿</h3>
+    <p>8月4日央行公告，8月5日将以固定数量、利率招标、多重价位中标方式开展5000亿元3个月期买断式逆回购操作，期限92天、到期日2026年11月5日。由于本月有3000亿元3个月期买断式逆回购到期，本次加量续做将实现净投放2000亿元，为连续第二个月加量续做、规模与7月持平。8月中长期到期流动性约1.9万亿元（含6000亿MLF、1万亿6个月期买断式逆回购及3000亿3个月期），叠加政府债净融资预计2.77万亿元。央行呵护流动性态度明确，预计后续MLF、6个月期买断式逆回购及买卖国债等工具将综合运用，平抑税期高峰扰动。</p>
+    <div class="source">来源：证券日报 / 经济参考报 · 2026-08-04</div>
+  </div>
+
+  <div class="card">
+    <span class="card-tag tag-macro">产业政策</span>
+    <h3>《集成电路布图设计保护条例》25年来首次大修，集成光子/量子纳入保护</h3>
+    <p>8月3日，国务院总理李强签署国务院令公布修订后的《集成电路布图设计保护条例》，自2026年10月15日起施行，为该条例2001年公布以来首次修订。条例共6章54条，最引人关注的调整是保护范围扩展——明确将集成光子、量子等功能的集成电路布图设计纳入保护，在与"集成电路"定义相关表述上删除"半导体"字样；增设独创性声明制度，要求清楚显示具有独创性的部分；明确布图设计登记申请须以真实创作活动为基础，从源头规制虚假申请。中信证券指出，AI正成为本轮全球半导体产业周期核心驱动力，2028年中国半导体设备市场规模有望接近1000亿美元。</p>
+    <div class="source">来源：上海证券报 / 国务院 · 2026-08-04</div>
+  </div>
+
+  <div class="card">
+    <span class="card-tag tag-macro">扩大消费</span>
+    <h3>"十五五"消费专项规划集中发布，文旅/体育/健康四大规划推动业态融合</h3>
+    <p>近期《旅游强国建设"十五五"规划》《扩大消费"十五五"规划》《体育强国建设"十五五"规划》《国民健康"十五五"规划》等多个"十五五"专项规划集中发布，明确"推动人工智能与教育、医疗、文化、旅游、体育等领域融合应用"等举措。上半年社会消费品零售总额16大类商品中10类实现增长、其中7类增速在5%以上；服务进出口总额37797.5亿元同比+8.3%，出口增17.6%，个人文化和娱乐服务、知识产权使用费出口增速分别达57.2%和44.3%。消费作为经济发展第一拉动力的作用将持续巩固。</p>
+    <div class="source">来源：人民日报 / 中国政府网 · 2026-08-05</div>
+  </div>
+</div>
+
+<!-- 金融科技动态 -->
+<div class="section">
+  <div class="section-title"><span class="icon">💻</span> 金融科技动态</div>
+
+  <div class="card">
+    <span class="card-tag tag-fintech">AI算力</span>
+    <h3>Anthropic与Volta签100亿美元算力采购协议，锁定6年133兆瓦水力数据中心</h3>
+    <p>人工智能公司Anthropic与云计算初创企业Volta Infra Holdings签署价值100亿美元的算力采购协议，锁定未来6年计算资源。算力来自挪威Tydal一座由比特币矿企Bitdeer运营的水力发电数据中心，部署英伟达最新Vera Rubin AI芯片，133兆瓦容量分两阶段交付、最迟2027年3月完成。Volta同期完成3亿美元融资（a16z与Altimeter领投，英伟达、戴尔创始人迈克尔·戴尔参投），估值24亿美元，并设立50亿美元融资计划帮助客户承担AI芯片采购成本。受此影响Bitdeer股价上涨14%。Anthropic此前已与谷歌、博通、亚马逊、SpaceX、AMD达成合作。</p>
+    <div class="source">来源：彭博社 / IT之家 · 2026-08-05</div>
+  </div>
+
+  <div class="card">
+    <span class="card-tag tag-fintech">大模型</span>
+    <h3>阿里Qwen3.8-Max发布满一周：2.4万亿参数旗舰模型权重开源，企业级Agent公测</h3>
+    <p>8月3日阿里巴巴发布新一代旗舰大模型Qwen3.8-Max，总参数2.4万亿、稀疏MoE架构、激活95B参数，支持1M Tokens上下文与视觉理解。Arena榜单仅次于Anthropic Claude系列，视觉赛道全球第二、编程赛道全球第四，可自主完成十余天真实项目交付。同步推出企业级Agent"千问办公"开启公测，模型权重计划本周开源。资本市场反应强烈，阿里港股发布日涨7.01%、美股涨超4%。本周阿里港股延续涨势，周二美股+1%，南向资金净买入阿里逾15亿港元。</p>
+    <div class="source">来源：中国经营报 / CNBC · 2026-08-05</div>
+  </div>
+
+  <div class="card">
+    <span class="card-tag tag-fintech">太空AI</span>
+    <h3>SpaceX上市后首份财报：Q2营收78亿同比+92%，AI业务暴涨247%</h3>
+    <p>8月4日盘后SpaceX发布上市后首份财报，Q2营收78.14亿美元（同比+92%）、远超市场预期69.3亿美元；调整后EBITDA 35.38亿美元（同比+191%）；净亏损从10亿收窄至5.41亿美元。Starlink收入42.91亿美元（同比+66%）订阅用户达1200万、ARPU降22%；AI业务收入25.61亿美元（同比+247%）首次实现调整后EBITDA盈利。马斯克在电话会上将"1万亿美元营收"目标提前至2030年，并表示SpaceX AI服务将"独家"基于英伟达系统（包括Rubin NVL72机架级），预计今年底算力超2GW、明年底5—10GW。但Q2资本支出飙升至183.7亿美元（同比+550%，其中AI领域158.3亿），盘后股价一度跌近9%。同时SpaceX宣布与英伟达合作开发Starmind AI1卫星计算载荷，将数据中心级AI算力部署至卫星平台。</p>
+    <div class="source">来源：证券时报 / 华尔街见闻 · 2026-08-05</div>
+  </div>
+</div>
+
+<!-- 资本市场表现 -->
+<div class="section">
+  <div class="section-title"><span class="icon">📈</span> 资本市场表现</div>
+
+  <div class="card">
+    <span class="card-tag tag-market">A股</span>
+    <h3>A股双创指数放量大涨：CPO/算力/CRO全线爆发，沪指连阳逼近20日均线</h3>
+    <p>8月4日A股三大指数齐涨：沪指+0.33%报3822.28点，深成指+3.25%报13885.71点，创业板指+5.64%报3488.97点，科创50+4.09%报1612.40点；万得全A涨2.02%，沪深京三市日成交额2.23万亿元、较上一日放量2174亿。盘面上CPO概念大爆发（中际旭创+13.24%、新易盛+13.68%、天孚通信+17%），算力租赁强势（美利云3连板），CRO概念全天活跃（药明康德涨停、东山精密涨停），PCB概念走高。下跌端银行/保险/电信运营商/高速公路/汽车整车跌幅居前，"工农中建"四大行均跌超3%。7月新开户265.54万户（同比+35.23%），两融余额回落至2.59万亿。半导体板块昨日净流入219.35亿居首。</p>
+    <div class="source">来源：21世纪经济报道 / 证券日报 · 2026-08-04</div>
+  </div>
+
+  <div class="card">
+    <span class="card-tag tag-market">美股</span>
+    <h3>美股三大指数齐创历史新高：道指两连阳，存储芯片股全线爆发</h3>
+    <p>8月4日（美东）美股三大指数齐创收盘新高：道指+1.71%报54085.88点，标普500+1.79%报7736.52点（突破6月2日历史高位），纳指+2.59%报26584.99点。存储芯片股全线爆发：SK海力士+8%、美光科技+7.6%、闪迪+10.8%；英伟达+超2%、SpaceX收涨9.43%。欧洲STOXX 600涨0.73%、德国DAX30涨0.77%。AMD盘后一度跌近9%，Q2营收115.4亿（同比+50%）超预期、Q3指引127—133亿未满足最乐观预期。国际油价重挫：WTI 9月原油-5.69%报75.77美元、布伦特9月原油-5.26%报79.36美元，因美伊谈判进展提振供应预期。10年期美债收益率跌5.08BP报4.6248%。</p>
+    <div class="source">来源：华尔街见闻 / 金十数据 · 2026-08-05</div>
+  </div>
+</div>
+
+<!-- 投融资事件 -->
+<div class="section">
+  <div class="section-title"><span class="icon">💰</span> 投融资事件</div>
+
+  <div class="card">
+    <span class="card-tag tag-invest">一级市场</span>
+    <h3>DeepSeek重启二轮融资：拟募资500亿元，投前估值5000亿、8月下旬签约</h3>
+    <p>据《财经》独家，多名交易人士透露大模型公司DeepSeek重启第二轮融资，本轮计划募资500亿元、投前估值约5000亿元、8月下旬完成签约。较首轮（4月开启、6月交割500亿元、估值3500亿）提升约43%，若两轮顺利合计募资将超1000亿元。本轮至少7月中旬已开启、7月底一度暂停（创始人梁文锋对"投资者会议实录"泄露不满），目前希望低调推进。首轮投资方包括国家人工智能产业投资基金、腾讯、宁德时代、溥泉资本、网易、京东、砺思资本、IDG资本、正心谷、拾象；首轮意向资金超1000亿最终融500亿，二轮次争夺激烈。受消息刺激8月5日早盘创业板软件ETF华夏（159256）涨2.46%、成分股诚迈科技+9.45%、宏景科技+9.27%。</p>
+    <div class="source">来源：财经 / 界面新闻 · 2026-08-05</div>
+  </div>
+
+  <div class="card">
+    <span class="card-tag tag-invest">独角兽</span>
+    <h3>月之暗面估值狂飙：8个月从43亿到500亿美元，F轮350亿已完成</h3>
+    <p>据上海证券报，月之暗面已完成F轮融资、金额超35亿美元、投后估值涨至350亿美元（因超目标金额数倍提前关闭）。原定8月启动的G轮（Pre-IPO轮）已提前启动，投前估值升至500亿美元，预计近期结束。8个月估值从43亿到500亿美元，国产开源路线正在改写全球AI规则。核心驱动来自7月17日发布的Kimi K3旗舰开源大模型——总参数2.8万亿、全球首个3万亿级开源模型、MoE架构（896路由专家激活16、激活参数1040亿）、100万Tokens上下文、原生视觉。7月27日K3完整权重开源后30分钟内登上Hugging Face趋势榜第一、获超4000个点赞，创平台最快发布增长纪录。"现在想投月之暗面的机构实在太多了，根本投不进去。"</p>
+    <div class="source">来源：上海证券报 / 新浪财经 · 2026-08-05</div>
+  </div>
+
+  <div class="card">
+    <span class="card-tag tag-invest">早期融资</span>
+    <h3>西湖心辰完成数亿元B+轮融资，广发信德领投深耕扩散语言模型</h3>
+    <p>大模型公司西湖心辰宣布完成B+轮融资，金额达数亿元人民币，由广发信德领投，西湖创新投、武汉江豚基金、容亿投资、南通投管等跟投，58产业基金参与，老股东蚂蚁集团、汤姆猫提供全面支持。资金将用于新一代扩散语言模型持续研发、原生多模态实时互动产品迭代及海外市场拓展。公司由西湖大学博士生导师蓝振忠于2021年7月创立，聚焦扩散范式原生多模态大模型（与主流自回归方法相比具备并行生成、原生可编辑、跨模态统一、可控性等优势），"西湖大模型"采用扩散语言模型路线。落地场景聚焦情感陪伴、心理健康、互动式内容。汤姆猫自2023年起多轮投资并合资成立杭州汤姆猫人工智能科技，构建"资本+技术+场景"深度融合模式。</p>
+    <div class="source">来源：多知网 / 财联社 · 2026-08-05</div>
+  </div>
+</div>
+
+</div>
+
+<div class="footer">
+  <p>📊 财经简报 · 每日10:00自动生成</p>
+  <p>数据截至 2026-08-05 10:18 | <a href="https://xxy20010606.github.io/daily/">xxy20010606.github.io/daily</a></p>
+  <p style="margin-top:8px;">仅供信息参考，不构成投资建议</p>
+</div>
+
+</body>
+</html>

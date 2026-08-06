@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI产业简报 | 2026年8月5日</title>
+<style>
+  :root {
+    --purple-900: #1a0a2e;
+    --purple-800: #2d1b4e;
+    --purple-700: #4a2d7a;
+    --purple-600: #6b3fa0;
+    --purple-500: #8b5cf6;
+    --purple-400: #a78bfa;
+    --purple-300: #c4b5fd;
+    --purple-200: #ddd6fe;
+    --purple-100: #ede9fe;
+    --text-primary: #f8f7ff;
+    --text-secondary: #c4b5fd;
+    --text-muted: #8e8ca0;
+    --card-bg: rgba(45,27,78,0.6);
+    --border: rgba(139,92,246,0.2);
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    background: linear-gradient(135deg, var(--purple-900) 0%, #0f0525 50%, var(--purple-800) 100%);
+    color: var(--text-primary);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+  .container { max-width: 900px; margin:0 auto; padding: 40px 24px 60px; }
+  
+  /* Header */
+  .header {
+    text-align: center;
+    padding: 48px 0 40px;
+    position: relative;
+  }
+  .header-glow {
+    position: absolute;
+    top: -40px; left: 50%; transform: translateX(-50%);
+    width: 300px; height: 300px;
+    background: radial-gradient(circle, rgba(139,92,246,0.15) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .header-icon { font-size: 48px; margin-bottom: 12px; }
+  .header h1 {
+    font-size: 32px; font-weight: 800;
+    background: linear-gradient(135deg, #c4b5fd, #a78bfa, #8b5cf6);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 8px;
+  }
+  .header .date {
+    color: var(--text-secondary); font-size: 14px;
+    letter-spacing: 2px; text-transform: uppercase;
+  }
+  .header .subtitle {
+    color: var(--text-muted); font-size: 13px; margin-top: 4px;
+  }
+
+  /* Stats bar */
+  .stats {
+    display: flex; justify-content: center; gap: 32px;
+    margin-bottom: 40px; flex-wrap: wrap;
+  }
+  .stat-item {
+    text-align: center;
+    padding: 12px 20px;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    backdrop-filter: blur(10px);
+  }
+  .stat-num { font-size: 24px; font-weight: 700; color: var(--purple-400); }
+  .stat-label { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+
+  /* Category */
+  .category { margin-bottom: 36px; }
+  .category-title {
+    display: flex; align-items: center; gap: 10px;
+    font-size: 18px; font-weight: 700;
+    color: var(--purple-300);
+    margin-bottom: 16px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--border);
+  }
+  .category-icon { font-size: 22px; }
+
+  /* Card */
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 18px 22px;
+    margin-bottom: 12px;
+    backdrop-filter: blur(10px);
+    transition: all 0.25s ease;
+    position: relative;
+    overflow: hidden;
+  }
+  .card::before {
+    content: '';
+    position: absolute; left: 0; top: 0;
+    width: 3px; height: 100%;
+    background: linear-gradient(180deg, var(--purple-500), var(--purple-700));
+    border-radius: 0 3px 3px 0;
+  }
+  .card:hover {
+    border-color: var(--purple-500);
+    box-shadow: 0 4px 24px rgba(139,92,246,0.15);
+    transform: translateY(-1px);
+  }
+  .card-title {
+    font-size: 16px; font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 6px;
+    line-height: 1.4;
+  }
+  .card-summary {
+    font-size: 13px; color: var(--text-secondary);
+    margin-bottom: 10px;
+    line-height: 1.5;
+  }
+  .card-source {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 12px;
+    color: var(--purple-400);
+    text-decoration: none;
+    padding: 4px 12px;
+    border-radius: 20px;
+    background: rgba(139,92,246,0.1);
+    transition: all 0.2s;
+  }
+  .card-source:hover {
+    background: rgba(139,92,246,0.25);
+    color: var(--purple-300);
+  }
+  .card-tag {
+    display: inline-block;
+    font-size: 11px; padding: 2px 8px;
+    border-radius: 10px;
+    background: rgba(139,92,246,0.2);
+    color: var(--purple-400);
+    margin-left: 8px;
+  }
+
+  /* Footer */
+  .footer {
+    text-align: center; padding-top: 40px;
+    color: var(--text-muted); font-size: 12px;
+    border-top: 1px solid var(--border);
+    margin-top: 20px;
+  }
+  .footer a { color: var(--purple-400); text-decoration: none; }
+  .footer a:hover { color: var(--purple-300); }
+
+  @media (max-width: 600px) {
+    .container { padding: 20px 14px; }
+    .header h1 { font-size: 24px; }
+    .stats { gap: 12px; }
+    .stat-item { padding: 8px 14px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="header">
+    <div class="header-glow"></div>
+    <div class="header-icon">🤖</div>
+    <h1>AI 产业简报</h1>
+    <div class="date">2026年8月5日 · 星期三</div>
+    <div class="subtitle">覆盖AI政策、大模型、应用商业化与投融资</div>
+  </div>
+
+  <div class="stats">
+    <div class="stat-item"><div class="stat-num">8</div><div class="stat-label">精选资讯</div></div>
+    <div class="stat-item"><div class="stat-num">4</div><div class="stat-label">分类维度</div></div>
+    <div class="stat-item"><div class="stat-num">7.1万亿</div><div class="stat-label">DeepSeek周Token</div></div>
+    <div class="stat-item"><div class="stat-num">-80%</div><div class="stat-label">OpenAI降价幅度</div></div>
+  </div>
+
+  <!-- 分类1: AI产业政策与监管 -->
+  <div class="category">
+    <div class="category-title">
+      <span class="category-icon">🏛️</span>AI产业政策与监管
+    </div>
+
+    <div class="card">
+      <div class="card-title">上海印发意见，加快建设全球人工智能创新高地</div>
+      <div class="card-summary">上海市委全会8月4日审议通过相关意见，提出依托WAIC平台强化原始创新与全球治理参与，加快建设具有全球影响力的AI创新高地。</div>
+      <a class="card-source" href="https://view.inews.qq.com/a/20260805A02SIT00" target="_blank" rel="noopener">📰 上观新闻</a>
+    </div>
+
+    <div class="card">
+      <div class="card-title">白宫召集Meta/Anthropic/Google/OpenAI审查前沿模型</div>
+      <div class="card-summary">白宫8月3日邀四大AI巨头讨论政府安全测试框架，拟在模型发布前给予政府最长30天访问权限，或成事实上的"邀请制"准入。</div>
+      <a class="card-source" href="https://view.inews.qq.com/a/20260804A0EH3X00" target="_blank" rel="noopener">📰 观察者网</a>
+    </div>
+  </div>
+
+  <!-- 分类2: 大模型最新进展 -->
+  <div class="category">
+    <div class="category-title">
+      <span class="category-icon">🧠</span>大模型最新进展
+    </div>
+
+    <div class="card">
+      <div class="card-title">DeepSeek-V4-Flash登顶全球调用量榜首，国产模型包揽前五</div>
+      <div class="card-summary">OpenRouter周报显示DeepSeek-V4-Flash单周调用量达7.1万亿Token登顶，小米MiMo-V2.5、腾讯Hy3、DeepSeek-V4-Pro、智谱GLM-5.2紧随，国产连续14周超美国。</div>
+      <a class="card-source" href="https://view.inews.qq.com/a/20260804A04KXV00" target="_blank" rel="noopener">📰 TechWeb</a>
+    </div>
+
+    <div class="card">
+      <div class="card-title">海外AI巨头全面降价：OpenAI Luna降80%，Anthropic Opus降50%</div>
+      <div class="card-summary">受Kimi K3及DeepSeek高性价比冲击，OpenAI将GPT-5.6 Luna降价80%、Terra降20%，Anthropic紧急推Opus 5降价50%，行业定价体系被国产模型击穿。</div>
+      <a class="card-source" href="https://view.inews.qq.com/a/20260804A0ECSA00" target="_blank" rel="noopener">📰 时代财经</a>
+    </div>
+  </div>
+
+  <!-- 分类3: AI应用与商业化 -->
+  <div class="category">
+    <div class="category-title">
+      <span class="category-icon">🚀</span>AI应用与商业化
+    </div>
+
+    <div class="card">
+      <div class="card-title">特斯拉中国车机接入豆包大模型，千问深度测试中，端侧AI元年加速</div>
+      <div class="card-summary">特斯拉中国7月31日起推送车机更新接入火山引擎豆包大模型，阿里千问同步深度测试；2026年中国AI手机出货量预计达1.47亿台，同比增长31.6%。</div>
+      <a class="card-source" href="https://view.inews.qq.com/a/20260804A04J0B00" target="_blank" rel="noopener">📰 央广网</a>
+    </div>
+
+    <div class="card">
+      <div class="card-title">Palantir Q2营收飙升93%至19.4亿美元，美军AI商业化持续爆发</div>
+      <div class="card-summary">Palantir连续第九季超预期，美国政府收入增90%，Maven系统锁定百亿框架合同；CEO称强劲增长"至少持续18个月"，AI军事应用进入规模化落地阶段。</div>
+      <a class="card-source" href="https://view.inews.qq.com/a/20260804A0BJNP00" target="_blank" rel="noopener">📰 观察者网</a>
+    </div>
+  </div>
+
+  <!-- 分类4: 投融资与资本动态 -->
+  <div class="category">
+    <div class="category-title">
+      <span class="category-icon">💰</span>投融资与资本动态
+    </div>
+
+    <div class="card">
+      <div class="card-title">DeepSeek重启500亿二轮融资，投前估值约5000亿元</div>
+      <div class="card-summary">多名交易人士透露DeepSeek重启第二轮500亿融资，投前估值约5000亿元，计划8月下旬完成签约；此前首轮500亿融资已于6月交割，为中国AI最大单笔融资。</div>
+      <a class="card-source" href="https://www.163.com/dy/article/L3IF9PEB0534A4SC.html" target="_blank" rel="noopener">📰 界面新闻</a>
+    </div>
+
+    <div class="card">
+      <div class="card-title">云巨头积压订单暴增150%达1.7万亿美元，算力需求持续井喷</div>
+      <div class="card-summary">摩根大通数据显示超大规模云厂商云业务积压订单同比增超150%至约1.7万亿美元，增速远超约80%的资本开支增幅，AI算力需求远未见顶。</div>
+      <a class="card-source" href="https://view.inews.qq.com/a/20260805A003VU00" target="_blank" rel="noopener">📰 华尔街见闻</a>
+    </div>
+  </div>
+
+  <div class="footer">
+    <p>数据来源：36氪 · 机器之心 · 量子位 · 财联社 · 腾讯科技 · 科创板日报 等</p>
+    <p style="margin-top:6px;">由 WorkBuddy 自动化生成 · 每日 10:00 更新 · <a href="https://xxy20010606.github.io/briefs/ai.html">https://xxy20010606.github.io/briefs/ai.html</a></p>
+  </div>
+
+</div>
+</body>
+</html>
