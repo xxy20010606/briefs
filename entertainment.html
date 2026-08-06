@@ -2,237 +2,73 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>娱乐简报 | 2026-08-06</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>🎬 娱乐简报 · 2026年08月06日</title>
 <style>
-  :root {
-    --pink-50: #fff1f2;
-    --pink-100: #ffe4e6;
-    --pink-200: #fecdd3;
-    --pink-300: #fda4af;
-    --pink-400: #fb7185;
-    --pink-500: #f43f5e;
-    --pink-600: #e11d48;
-    --pink-700: #be123c;
-    --pink-800: #9f1239;
-    --pink-900: #881337;
-  }
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: -apple-system, "Microsoft YaHei", "PingFang SC", sans-serif;
-    background: linear-gradient(135deg, var(--pink-50), var(--pink-100));
-    min-height: 100vh;
-    color: #333;
-  }
-  .container {
-    max-width: 780px;
-    margin: 0 auto;
-    padding: 24px 20px 40px;
-  }
-  header {
-    text-align: center;
-    padding: 32px 20px;
-    background: linear-gradient(135deg, var(--pink-500), var(--pink-600));
-    border-radius: 20px;
-    color: #fff;
-    margin-bottom: 28px;
-    box-shadow: 0 8px 32px rgba(244,63,94,0.3);
-  }
-  header h1 {
-    font-size: 32px;
-    font-weight: 800;
-    letter-spacing: 2px;
-    margin-bottom: 6px;
-  }
-  header .date {
-    font-size: 14px;
-    opacity: 0.9;
-  }
-  header .emoji-row {
-    font-size: 28px;
-    margin-top: 12px;
-  }
-  .category {
-    margin-bottom: 24px;
-  }
-  .category-title {
-    font-size: 18px;
-    font-weight: 700;
-    color: var(--pink-700);
-    border-left: 4px solid var(--pink-500);
-    padding-left: 12px;
-    margin-bottom: 12px;
-  }
-  .item {
-    background: #fff;
-    border-radius: 14px;
-    padding: 18px 20px;
-    margin-bottom: 10px;
-    box-shadow: 0 2px 12px rgba(244,63,94,0.08);
-    border-left: 3px solid var(--pink-300);
-    transition: transform 0.2s, box-shadow 0.2s;
-  }
-  .item:hover {
-    transform: translateX(4px);
-    box-shadow: 0 4px 20px rgba(244,63,94,0.15);
-  }
-  .item-title {
-    font-size: 16px;
-    font-weight: 700;
-    color: #1a1a1a;
-    margin-bottom: 6px;
-    line-height: 1.5;
-  }
-  .item-summary {
-    font-size: 13px;
-    color: #666;
-    margin-bottom: 6px;
-    line-height: 1.6;
-  }
-  .item-source {
-    font-size: 12px;
-  }
-  .item-source a {
-    color: var(--pink-500);
-    text-decoration: none;
-    font-weight: 500;
-  }
-  .item-source a:hover {
-    text-decoration: underline;
-  }
-  .tag {
-    display: inline-block;
-    font-size: 11px;
-    padding: 2px 10px;
-    border-radius: 20px;
-    margin-right: 6px;
-    font-weight: 600;
-  }
-  .tag-hot { background: var(--pink-100); color: var(--pink-700); }
-  .tag-new { background: #fef3c7; color: #b45309; }
-  .tag-box { background: #e0e7ff; color: #4338ca; }
-  footer {
-    text-align: center;
-    padding: 24px;
-    color: #999;
-    font-size: 12px;
-  }
-  footer a {
-    color: var(--pink-400);
-    text-decoration: none;
-  }
-  @media (max-width: 640px) {
-    .container { padding: 12px; }
-    header h1 { font-size: 24px; }
-  }
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
+.container{max-width:420px;margin:0 auto}
+.header{background:linear-gradient(135deg,#e91e63, #c2185b);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#e91e63;flex-shrink:0}
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
+.news-item:last-child{border-bottom:none}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#e91e63;color:#fff}
+.news-body{padding-left:30px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
+.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.news-source{font-size:11px;color:#e91e63;background:rgba(233,30,99,233,30,99,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#e91e63}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
+.footer span{color:#e91e63;font-weight:600}
 </style>
 </head>
 <body>
 <div class="container">
-
-<header>
-  <h1>&#127909; 娱乐简报</h1>
-  <div class="date">2026年8月6日 &#183; 周四</div>
-  <div class="emoji-row">&#127916; &#127925; &#127775; &#127918;</div>
-</header>
-
-<!-- ====== 影视动态 ====== -->
-<div class="category">
-  <div class="category-title">&#127916; 影视动态</div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-hot">热映</span>
-      暑期档票房破75亿，《功夫女足》近22亿断层领跑
-    </div>
-    <div class="item-summary">截至8月3日暑期档票房突破75亿元，连续24天单日过亿。《功夫女足》21.79亿居首，《八仙！》12亿紧随。</div>
-    <div class="item-source">来源：<a href="https://www.36kr.com/newsflashes/3923659219955336" target="_blank">36氪 &#8599;</a></div>
-  </div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-new">新片</span>
-      《年会不能停!2》上映首周口碑爆棚，猫眼开分9.6
-    </div>
-    <div class="item-summary">张若昀白客高叶全新阵容直面35岁困境和AI职场话题，首日票房破5000万，被称"打工人最强续命神器"。</div>
-    <div class="item-source">来源：<a href="https://www.toutiao.com/a7669670483608797731" target="_blank">今日头条 &#8599;</a></div>
-  </div>
+<div class="header">
+<div class="header-date">2026年08月06日</div>
+<div class="header-title">🎬 娱乐简报</div>
+<div class="header-sub">影视综艺 · 音乐明星 · 游戏电竞 · 热点</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
+</div>
+<div class="summary-card">
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">影视动态</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">音乐与综艺</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">明星与热点</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">游戏与电竞</div></div></div>
 </div>
 
-<!-- ====== 音乐与综艺 ====== -->
-<div class="category">
-  <div class="category-title">&#127925; 音乐与综艺</div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-hot">歌王之夜</span>
-      《歌手2026》歌王之战帮唱全阵容官宣，明日直播
-    </div>
-    <div class="item-summary">毛阿敏帮唱齐豫、韩磊帮唱胡彦斌等7组帮唱阵容出炉，8月7日两轮角逐（帮唱+独唱）综合决出本季歌王。</div>
-    <div class="item-source">来源：<a href="https://finance.sina.cn/2026-08-06/detail-inimivfi3126918.d.html" target="_blank">新浪娱乐 &#8599;</a></div>
-  </div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-new">晚会</span>
-      央视《月满九州音乐会》定档8月7日，提前奏响中秋序曲
-    </div>
-    <div class="item-summary">央视为中秋提前60天预热，王祖蓝、杨迪、白举纲等参演，叶世荣推介，8月7日20:00直播。</div>
-    <div class="item-source">来源：<a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_4756a73db2401952" target="_blank">腾讯新闻 &#8599;</a></div>
-  </div>
-</div>
-
-<!-- ====== 明星与热点 ====== -->
-<div class="category">
-  <div class="category-title">&#127775; 明星与热点</div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-hot">团结</span>
-      iG全队力挺Meiko，TheShy发声呼吁停止换人争议
-    </div>
-    <div class="item-summary">iG选手集体发文声援辅助Meiko，TheShy直言"珍惜的队友"，展现队内团结，呼吁粉丝理性。</div>
-    <div class="item-source">来源：<a href="https://view.inews.qq.com/a/20260805A0EXIL00" target="_blank">腾讯新闻 &#8599;</a></div>
-  </div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-hot">热剧</span>
-      《九门》高开高走登顶暑期长剧，50小时热度破万
-    </div>
-    <div class="item-summary">《老九门》正统续作优酷独播，开播50小时站内热度破万创2026年纪录，陈伟霆军装回归多榜登顶。</div>
-    <div class="item-source">来源：<a href="https://view.inews.qq.com/a/20260803A08KH800" target="_blank">腾讯新闻 &#8599;</a></div>
-  </div>
-</div>
-
-<!-- ====== 游戏与电竞 ====== -->
-<div class="category">
-  <div class="category-title">&#127918; 游戏与电竞</div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-box">LPL</span>
-      LPL第三赛段北京站开打，iG对阵NIP冲击三连胜
-    </div>
-    <div class="item-summary">TheShy重返赛场两场均留名场面，今日迎战NIP成回归后首个硬仗，上单对位Hoya成最大看点。</div>
-    <div class="item-source">来源：<a href="https://lol.qq.com/news/space-detail.shtml?docid=6529390686050315841" target="_blank">英雄联盟官网 &#8599;</a></div>
-  </div>
-
-  <div class="item">
-    <div class="item-title">
-      <span class="tag tag-box">DOTA2</span>
-      TI2026二轮售票明日14:00开启，上海东方体育中心决战在即
-    </div>
-    <div class="item-summary">TI2026二轮售票8月7日开启，16支战队8月13日起上海激战，主赛事8月20日东方体育中心开打。</div>
-    <div class="item-source">来源：<a href="https://m.weibo.cn/status/5328870527215206" target="_blank">微博 &#8599;</a></div>
-  </div>
-</div>
-
-<footer>
-  &#127909; 每日娱乐简报 &#183; 自动生成于 2026-08-06 10:00 &#183;
-  <a href="https://xxy20010606.github.io/briefs/entertainment.html" target="_blank">在线版</a>
-</footer>
-
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月06日 05:13 更新</div>
 </div>
 </body>
 </html>

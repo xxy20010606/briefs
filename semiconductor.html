@@ -2,334 +2,73 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>半导体行业简报 | 2026-08-06</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>💻 半导体简报 · 2026年08月06日</title>
 <style>
-  :root {
-    --bg: #f0f4fa;
-    --card-bg: #ffffff;
-    --primary: #1a56db;
-    --primary-light: #e8f0fe;
-    --text: #1e293b;
-    --text-secondary: #64748b;
-    --border: #dbeafe;
-    --tag-policy: #1a56db;
-    --tag-tech: #2563eb;
-    --tag-corp: #3b82f6;
-    --tag-invest: #60a5fa;
-  }
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    line-height: 1.6;
-    min-height: 100vh;
-  }
-  .header {
-    background: linear-gradient(135deg, #0f2b6b 0%, #1a56db 40%, #2563eb 100%);
-    color: #fff;
-    padding: 48px 24px 40px;
-    text-align: center;
-    position: relative;
-    overflow: hidden;
-  }
-  .header::before {
-    content: '';
-    position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-    background: radial-gradient(circle at 30% 50%, rgba(255,255,255,0.06) 0%, transparent 60%),
-                radial-gradient(circle at 70% 80%, rgba(96,165,250,0.15) 0%, transparent 50%);
-    animation: float 20s ease-in-out infinite;
-  }
-  @keyframes float {
-    0%, 100% { transform: translate(0, 0); }
-    50% { transform: translate(-10px, 10px); }
-  }
-  .header h1 {
-    position: relative;
-    font-size: 2rem;
-    font-weight: 800;
-    letter-spacing: 2px;
-    margin-bottom: 8px;
-    text-shadow: 0 2px 12px rgba(0,0,0,0.2);
-  }
-  .header .subtitle {
-    position: relative;
-    font-size: 0.95rem;
-    opacity: 0.85;
-    font-weight: 300;
-  }
-  .header .date {
-    position: relative;
-    display: inline-block;
-    margin-top: 12px;
-    background: rgba(255,255,255,0.12);
-    backdrop-filter: blur(8px);
-    padding: 6px 20px;
-    border-radius: 20px;
-    font-size: 0.85rem;
-    font-weight: 500;
-    letter-spacing: 1px;
-  }
-  .container {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 32px 20px 60px;
-  }
-  .summary-bar {
-    background: var(--card-bg);
-    border-radius: 16px;
-    padding: 20px 28px;
-    margin-bottom: 32px;
-    box-shadow: 0 1px 3px rgba(26,86,219,0.06), 0 4px 16px rgba(26,86,219,0.04);
-    display: flex;
-    flex-wrap: wrap;
-    gap: 16px;
-    align-items: center;
-    border: 1px solid var(--border);
-  }
-  .summary-bar .stat {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    font-size: 0.9rem;
-    color: var(--text-secondary);
-  }
-  .summary-bar .stat strong {
-    color: var(--primary);
-    font-size: 1.2rem;
-  }
-  .category-section {
-    margin-bottom: 36px;
-  }
-  .category-title {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    font-size: 1.15rem;
-    font-weight: 700;
-    margin-bottom: 16px;
-    padding-bottom: 10px;
-    border-bottom: 2px solid var(--border);
-    color: var(--primary);
-  }
-  .category-title .icon {
-    width: 32px;
-    height: 32px;
-    border-radius: 8px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1rem;
-  }
-  .news-card {
-    background: var(--card-bg);
-    border-radius: 12px;
-    padding: 20px 24px;
-    margin-bottom: 12px;
-    box-shadow: 0 1px 2px rgba(26,86,219,0.04);
-    border: 1px solid var(--border);
-    transition: transform 0.2s, box-shadow 0.2s;
-    position: relative;
-    overflow: hidden;
-  }
-  .news-card::before {
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    width: 4px;
-    background: var(--primary);
-    border-radius: 0 2px 2px 0;
-  }
-  .news-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 20px rgba(26,86,219,0.1);
-  }
-  .news-card .tag {
-    display: inline-block;
-    font-size: 0.72rem;
-    font-weight: 600;
-    padding: 3px 10px;
-    border-radius: 4px;
-    margin-bottom: 8px;
-    letter-spacing: 0.5px;
-  }
-  .tag-policy { background: #dbeafe; color: #1e40af; }
-  .tag-tech { background: #dbeafe; color: #1d4ed8; }
-  .tag-corp { background: #eff6ff; color: #2563eb; }
-  .tag-invest { background: #eff6ff; color: #3b82f6; }
-  .news-card h3 {
-    font-size: 1.05rem;
-    font-weight: 700;
-    margin-bottom: 6px;
-    color: var(--text);
-    line-height: 1.5;
-  }
-  .news-card h3 a {
-    color: inherit;
-    text-decoration: none;
-  }
-  .news-card h3 a:hover {
-    color: var(--primary);
-    text-decoration: underline;
-  }
-  .news-card .summary {
-    font-size: 0.9rem;
-    color: var(--text-secondary);
-    line-height: 1.6;
-  }
-  .news-card .source {
-    margin-top: 10px;
-    font-size: 0.78rem;
-    color: #94a3b8;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .news-card .source a {
-    color: var(--primary);
-    text-decoration: none;
-    font-weight: 500;
-  }
-  .news-card .source a:hover {
-    text-decoration: underline;
-  }
-  .footer {
-    text-align: center;
-    padding: 32px 20px;
-    color: var(--text-secondary);
-    font-size: 0.82rem;
-    border-top: 1px solid var(--border);
-    margin-top: 40px;
-  }
-  .footer a {
-    color: var(--primary);
-    text-decoration: none;
-  }
-  @media (max-width: 640px) {
-    .header h1 { font-size: 1.4rem; }
-    .container { padding: 20px 12px 40px; }
-    .news-card { padding: 16px; }
-  }
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
+.container{max-width:420px;margin:0 auto}
+.header{background:linear-gradient(135deg,#2196f3, #1565c0);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#2196f3;flex-shrink:0}
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
+.news-item:last-child{border-bottom:none}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#2196f3;color:#fff}
+.news-body{padding-left:30px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
+.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.news-source{font-size:11px;color:#2196f3;background:rgba(33,150,243,33,150,243,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#2196f3}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
+.footer span{color:#2196f3;font-weight:600}
 </style>
 </head>
 <body>
-
-<div class="header">
-  <h1>💻 半导体行业简报</h1>
-  <div class="subtitle">芯片产业动态 · 国产替代进展 · 全球市场风向</div>
-  <div class="date">📅 2026年8月6日 星期四</div>
-</div>
-
 <div class="container">
-
-  <div class="summary-bar">
-    <div class="stat">📋 今日简报 <strong>8条</strong></div>
-    <div class="stat">📂 分类 <strong>4个</strong></div>
-    <div class="stat">📰 来源覆盖 财联社 · IT之家 · 36氪 · 华尔街见闻 · 新浪财经</div>
-  </div>
-
-  <!-- 政策与产业 -->
-  <div class="category-section">
-    <div class="category-title">
-      <span class="icon" style="background:#dbeafe;">🏛️</span>
-      政策与产业
-    </div>
-
-    <div class="news-card">
-      <span class="tag tag-policy">政策</span>
-      <h3><a href="https://weibo.com/7780840328/5328111558462974" target="_blank">国务院修订《集成电路布图设计保护条例》，10月15日施行</a></h3>
-      <div class="summary">芯片"版权法"时隔25年首次大修，光子/量子芯片纳入保护，新增惩罚性赔偿，利好EDA、半导体IP及芯片设计板块。</div>
-      <div class="source">来源：新华社 · 国务院令 · <a href="https://weibo.com/7780840328/5328111558462974" target="_blank">原文链接</a></div>
-    </div>
-
-    <div class="news-card">
-      <span class="tag tag-policy">产业</span>
-      <h3><a href="https://www.toutiao.com/w/1872734210389059" target="_blank">三星、SK海力士测试中微半导体刻蚀设备，国产设备走向国际</a></h3>
-      <div class="summary">路透社独家：韩国两大存储巨头两年前已开始评估中微刻蚀机，用于中国工厂的维护替代，中微单日暴涨12%。</div>
-      <div class="source">来源：路透社 · 财联社 · <a href="https://www.toutiao.com/w/1872734210389059" target="_blank">原文链接</a></div>
-    </div>
-  </div>
-
-  <!-- 技术与产品 -->
-  <div class="category-section">
-    <div class="category-title">
-      <span class="icon" style="background:#dbeafe;">🔬</span>
-      技术与产品
-    </div>
-
-    <div class="news-card">
-      <span class="tag tag-tech">技术突破</span>
-      <h3><a href="https://finance.sina.com.cn/zl/stock/2026-08-04/zl-inimchzv2226459.shtml" target="_blank">国产浸没式DUV光刻机启动小批量产，核心部件国产化率超85%</a></h3>
-      <div class="summary">上海爱晟纳牵头生产，2026年计划交付中芯国际、华虹等5台验证，2027年扩至20台，成本较ASML低40%。</div>
-      <div class="source">来源：The Information · 新浪财经 · <a href="https://finance.sina.com.cn/zl/stock/2026-08-04/zl-inimchzv2226459.shtml" target="_blank">原文链接</a></div>
-    </div>
-
-    <div class="news-card">
-      <span class="tag tag-tech">AI芯片</span>
-      <h3><a href="https://www.cls.cn/subject/1279" target="_blank">Anthropic首次公开确认组建芯片团队，为Claude自研AI芯片</a></h3>
-      <div class="summary">大模型厂商掀起造芯潮：继OpenAI后，Anthropic招聘芯片工程师，已与三星探讨2nm制程合作，多芯片策略并行。</div>
-      <div class="source">来源：财联社 · 科创板日报 · <a href="https://www.cls.cn/subject/1279" target="_blank">原文链接</a></div>
-    </div>
-
-    <div class="news-card">
-      <span class="tag tag-tech">存储芯片</span>
-      <h3><a href="https://dy.163.com/article/L3GAD5UA0511B8LM.html" target="_blank">三大存储原厂2027年DRAM产能提前售罄，内存短缺或持续至2027年</a></h3>
-      <div class="summary">三星、SK海力士、美光已完成2027年产能分配，仅能满足客户60%-70%需求，HBM供应紧张驱动存储超级周期。</div>
-      <div class="source">来源：IT之家 · 电子时报 · 36氪 · <a href="https://dy.163.com/article/L3GAD5UA0511B8LM.html" target="_blank">原文链接</a></div>
-    </div>
-  </div>
-
-  <!-- 企业动态 -->
-  <div class="category-section">
-    <div class="category-title">
-      <span class="icon" style="background:#dbeafe;">🏢</span>
-      企业动态
-    </div>
-
-    <div class="news-card">
-      <span class="tag tag-corp">国产替代</span>
-      <h3><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_1046a73c20372152" target="_blank">长鑫存储拒绝苹果压价，国产DRAM议价权持续提升</a></h3>
-      <div class="summary">长鑫坚持报价不低于三星和SK海力士，华为、小米已通过长协锁定产能，"压中国制造牌"的谈判杠杆正在失效。</div>
-      <div class="source">来源：中新经纬 · 韩国媒体 · <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_1046a73c20372152" target="_blank">原文链接</a></div>
-    </div>
-
-    <div class="news-card">
-      <span class="tag tag-corp">并购重组</span>
-      <h3><a href="https://cls.cn/subject/1279" target="_blank">锴威特16.5亿元收购晶艺半导体，拓展功率半导体版图</a></h3>
-      <div class="summary">锴威特发布交易草案，收购专精特新"小巨人"晶艺半导体100%股权，交易完成后总资产与营收规模均提升。</div>
-      <div class="source">来源：科创板日报 · 财联社 · <a href="https://cls.cn/subject/1279" target="_blank">原文链接</a></div>
-    </div>
-  </div>
-
-  <!-- 投融资与IPO -->
-  <div class="category-section">
-    <div class="category-title">
-      <span class="icon" style="background:#dbeafe;">💰</span>
-      投融资与IPO
-    </div>
-
-    <div class="news-card">
-      <span class="tag tag-invest">融资</span>
-      <h3><a href="https://www.163.com/dy/article/L3I5G9AC05198NMR.html" target="_blank">Anthropic拟通过黑石牵头360亿美元债务融资，或成史上最大私人信贷</a></h3>
-      <div class="summary">黑石牵头安排超360亿美元融资，专项支付向谷歌租用AI芯片费用，延伸谷歌与Anthropic之间的"资金闭环"。</div>
-      <div class="source">来源：华尔街见闻 · <a href="https://www.163.com/dy/article/L3I5G9AC05198NMR.html" target="_blank">原文链接</a></div>
-    </div>
-  </div>
-
+<div class="header">
+<div class="header-date">2026年08月06日</div>
+<div class="header-title">💻 半导体简报</div>
+<div class="header-sub">芯片技术 · 晶圆代工 · EDA · 国产替代</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
+</div>
+<div class="summary-card">
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">政策与产业</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">技术与产品</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">企业动态</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">投融资与IPO</div></div></div>
 </div>
 
-<div class="footer">
-  <p>📡 半导体行业简报 · 每日自动更新 | 数据来源：财联社、IT之家、36氪、华尔街见闻等</p>
-  <p style="margin-top:8px">免责声明：简报内容仅供参考，不构成投资建议。</p>
-  <p style="margin-top:4px;font-size:0.75rem;color:#94a3b8;">Generated on 2026-08-06 · <a href="https://github.com/xxy20010606/briefs" target="_blank">GitHub</a></p>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月06日 05:13 更新</div>
 </div>
-
 </body>
 </html>
