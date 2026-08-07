@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI应用简报 - 2026年8月7日</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    background: #eef7ee;
+    color: #2d3436;
+    line-height: 1.7;
+    padding: 20px;
+  }
+  .container { max-width: 860px; margin: 0 auto; }
+  header {
+    text-align: center;
+    padding: 36px 20px 28px;
+    background: linear-gradient(135deg, #1b5e20 0%, #2e7d32 50%, #388e3c 100%);
+    color: #fff;
+    border-radius: 10px;
+    margin-bottom: 24px;
+  }
+  header h1 { font-size: 26px; font-weight: 700; letter-spacing: 1px; }
+  header .date { font-size: 13px; opacity: .85; margin-top: 6px; }
+  header .count { font-size: 12px; opacity: .7; margin-top: 4px; }
+  .section { margin-bottom: 28px; }
+  .section-title {
+    font-size: 15px;
+    font-weight: 700;
+    color: #1b5e20;
+    padding: 8px 0;
+    border-bottom: 2px solid #4caf50;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .section-title .icon { font-size: 18px; }
+  .card {
+    background: #fff;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-bottom: 10px;
+    border-left: 4px solid #4caf50;
+    transition: box-shadow .15s;
+  }
+  .card:hover { box-shadow: 0 2px 12px rgba(27,94,32,.12); }
+  .card .title {
+    font-size: 15px;
+    font-weight: 600;
+    color: #1b5e20;
+    margin-bottom: 5px;
+    line-height: 1.4;
+  }
+  .card .summary { font-size: 13px; color: #555; margin-bottom: 8px; }
+  .card .meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    color: #888;
+  }
+  .card .source {
+    color: #2e7d32;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  .card .source:hover { text-decoration: underline; }
+  .tag {
+    display: inline-block;
+    padding: 1px 8px;
+    border-radius: 3px;
+    font-size: 11px;
+    background: #e8f5e9;
+    color: #2e7d32;
+  }
+  footer {
+    text-align: center;
+    padding: 24px;
+    font-size: 12px;
+    color: #999;
+    border-top: 1px solid #c8e6c9;
+    margin-top: 12px;
+  }
+  footer a { color: #2e7d32; text-decoration: none; }
+  @media (max-width: 600px) {
+    body { padding: 10px; }
+    header { padding: 24px 14px 18px; }
+    header h1 { font-size: 21px; }
+    .card { padding: 12px 14px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <h1>AI应用简报</h1>
+  <div class="date">2026年8月7日 星期五</div>
+  <div class="count">精选 8 条 · 覆盖 AI工具/行业落地/智能体/商业模式</div>
+</header>
+
+<!-- AI工具与产品发布 -->
+<div class="section">
+  <div class="section-title"><span class="icon">🛠️</span> AI工具与产品发布</div>
+
+  <div class="card">
+    <div class="title">Sand.ai 开源全球首个千亿级 MoE 视频模型 MAGI-2 Preview</div>
+    <div class="summary">总参数114B、仅激活6B，1080P视频生成成本约0.5元/10秒，权重与代码完整开源，视频生成进入MoE时代。</div>
+    <div class="meta"><span class="tag">AI视频</span><a class="source" href="https://36kr.com/p/3927644682123393" target="_blank">36氪 →</a></div>
+  </div>
+
+  <div class="card">
+    <div class="title">MiniMax 发布全模态生成模型 H3，视频编辑能力全球第一</div>
+    <div class="summary">支持文本/图像/视频/音频统一理解与生成，原生双声道2K输出，价格仅为同类旗舰模型的三分之一。</div>
+    <div class="meta"><span class="tag">AI视频</span><a class="source" href="https://new.qq.com/rain/a/20260803A047DC00" target="_blank">腾讯新闻 →</a></div>
+  </div>
+
+  <div class="card">
+    <div class="title">字节跳动发布音视频全双工大模型 SeedRealtime</div>
+    <div class="summary">原生融合音频、视频与文本，支持「边看边听边说」实时交互，已在豆包App全量上线。</div>
+    <div class="meta"><span class="tag">大模型</span><a class="source" href="https://so.html5.qq.com/page/real/search_news?docid=70000021_5326a73c21757752" target="_blank">每日经济新闻 →</a></div>
+  </div>
+</div>
+
+<!-- AI+行业落地案例 -->
+<div class="section">
+  <div class="section-title"><span class="icon">🏭</span> AI+行业落地案例</div>
+
+  <div class="card">
+    <div class="title">阿里公测千问办公：大厂AI办公竞赛从赛马转向集中作战</div>
+    <div class="summary">阿里整合三款Agent推千问办公，字节飞书并入豆包，腾讯QClaw并入WorkBuddy，办公Agent进入合兵时代。</div>
+    <div class="meta"><span class="tag">AI办公</span><a class="source" href="https://www.36kr.com/p/3926719442565256" target="_blank">36氪 →</a></div>
+  </div>
+
+  <div class="card">
+    <div class="title">可灵AI融资近30亿美元，AI视频商业化提速</div>
+    <div class="summary">创全球视频大模型最大融资纪录，投后估值180亿美元；Q1营收超6.5亿元，ARR近5亿美元，同比增长4倍。</div>
+    <div class="meta"><span class="tag">AI视频</span><a class="source" href="https://www.news.cn/fortune/20260807/72b9328c9d4745c4afe1234192330ead/c.html" target="_blank">新华社 →</a></div>
+  </div>
+
+  <div class="card">
+    <div class="title">端侧AI元年：手机汽车抢占智能体入口</div>
+    <div class="summary">2026年中国AI手机出货将达1.47亿台，特斯拉车机接入豆包大模型，千问进入特斯拉车机深度测试。</div>
+    <div class="meta"><span class="tag">端侧AI</span><a class="source" href="https://dy.163.com/article/L3I6S6NB0550B1DU.html" target="_blank">科创板日报 →</a></div>
+  </div>
+</div>
+
+<!-- AI Agent与智能体 -->
+<div class="section">
+  <div class="section-title"><span class="icon">🤖</span> AI Agent与智能体</div>
+
+  <div class="card">
+    <div class="title">AI驶入「L3智能体」深水区，中美模型差距实质性收窄</div>
+    <div class="summary">2025年中国AI融资1504亿元，全球企业AI投资4.2万亿元；智能体日活预计2026年达7940万个，商业化进入加速期。</div>
+    <div class="meta"><span class="tag">智能体</span><a class="source" href="https://new.qq.com/rain/a/20260807A00MP600" target="_blank">每日经济新闻 →</a></div>
+  </div>
+</div>
+
+<!-- AI创业与商业模式 -->
+<div class="section">
+  <div class="section-title"><span class="icon">💡</span> AI创业与商业模式</div>
+
+  <div class="card">
+    <div class="title">WAIC 2026观察：AI竞赛进入下半场，落地应用成核心焦点</div>
+    <div class="summary">竞争重心从模型层转向应用层，智能体是落地核心载体；MiniMax以「自研技术+轻量产品+生态合作」提供创业范本。</div>
+    <div class="meta"><span class="tag">商业模式</span><a class="source" href="https://www.huxiu.com/article/4876445.html" target="_blank">虎嗅 →</a></div>
+  </div>
+</div>
+
+<footer>
+  <p>AI应用简报 · 每日更新 · <a href="https://xxy20010606.github.io/briefs/ai-apps.html" target="_blank">xxy20010606.github.io/briefs/ai-apps.html</a></p>
+  <p style="margin-top:4px;">数据来源：36氪 · 虎嗅 · 新华社 · 每日经济新闻 · 科创板日报 · 腾讯新闻</p>
+</footer>
+
+</div>
+</body>
+</html>
