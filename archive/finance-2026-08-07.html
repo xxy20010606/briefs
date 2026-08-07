@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>财经简报 · 2026-08-07</title>
+  <style>
+    :root {
+      --bg: #0f0505;
+      --surface: #1a0a0a;
+      --card: #241010;
+      --text: #f5e6e6;
+      --muted: #bfa3a3;
+      --accent: #ff4d4d;
+      --accent-2: #ff8080;
+      --up: #ff3333;
+      --down: #33cc33;
+      --border: #3d1f1f;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Microsoft YaHei", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      padding-bottom: 40px;
+    }
+    header {
+      background: linear-gradient(135deg, #5c0e0e 0%, #8a1c1c 50%, #b32424 100%);
+      padding: 32px 20px 24px;
+      text-align: center;
+      border-bottom: 1px solid var(--border);
+    }
+    header h1 { font-size: 1.9rem; font-weight: 700; letter-spacing: 1px; }
+    header .meta { margin-top: 8px; color: rgba(255,255,255,0.85); font-size: 0.9rem; }
+    .ticker {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 12px;
+      padding: 14px 16px;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      font-size: 0.82rem;
+    }
+    .ticker span { white-space: nowrap; }
+    .ticker .up { color: var(--up); font-weight: 600; }
+    .ticker .down { color: var(--down); font-weight: 600; }
+    .container { max-width: 720px; margin: 0 auto; padding: 20px 16px; }
+    .section { margin-bottom: 28px; }
+    .section-title {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--accent-2);
+      margin-bottom: 14px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid var(--accent);
+    }
+    .section-title::before {
+      content: "";
+      display: inline-block;
+      width: 6px;
+      height: 20px;
+      background: var(--accent);
+      border-radius: 3px;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px;
+      margin-bottom: 12px;
+      transition: transform 0.15s ease, border-color 0.15s ease;
+    }
+    .card:hover { border-color: #5c2323; transform: translateY(-1px); }
+    .card h3 { font-size: 1rem; font-weight: 600; color: #fff; margin-bottom: 8px; line-height: 1.45; }
+    .card p { font-size: 0.88rem; color: var(--muted); line-height: 1.65; }
+    .card .tag {
+      display: inline-block;
+      font-size: 0.7rem;
+      color: var(--accent-2);
+      background: rgba(255, 77, 77, 0.12);
+      padding: 2px 8px;
+      border-radius: 4px;
+      margin-bottom: 8px;
+      border: 1px solid rgba(255, 77, 77, 0.25);
+    }
+    footer {
+      text-align: center;
+      padding: 24px 16px;
+      color: var(--muted);
+      font-size: 0.8rem;
+      border-top: 1px solid var(--border);
+      margin-top: 10px;
+    }
+    footer a { color: var(--accent-2); text-decoration: none; }
+    @media (max-width: 480px) {
+      header h1 { font-size: 1.55rem; }
+      .ticker { font-size: 0.75rem; gap: 8px; }
+      .card { padding: 14px; }
+      .card h3 { font-size: 0.95rem; }
+      .card p { font-size: 0.85rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>📊 财经简报</h1>
+    <div class="meta">2026年8月7日 · 过去24小时核心资讯</div>
+  </header>
+
+  <div class="ticker">
+    <span>沪指 <span class="up">+0.57%</span></span>
+    <span>深成 <span class="down">-0.24%</span></span>
+    <span>创业板 <span class="down">-0.55%</span></span>
+    <span>恒生 <span class="down">-1.49%</span></span>
+    <span>道指 <span class="down">-0.85%</span></span>
+    <span>纳指 <span class="down">-0.06%</span></span>
+    <span>黄金 <span class="up">$4240</span></span>
+    <span>美油 <span class="up">$77.29</span></span>
+  </div>
+
+  <main class="container">
+    <section class="section">
+      <div class="section-title">宏观政策</div>
+      <article class="card">
+        <div class="tag">资本市场 · 稳市机制</div>
+        <h3>政治局会议定调深化资本市场投融资综合改革，建设常态化稳市机制</h3>
+        <p>近日中央政治局会议提出，深化资本市场投融资综合改革，提升资本市场韧性和信心。会议指出要推动中长期资金稳步入市，强化逆周期调节，筑牢市场平稳运行根基。过去两年社保、保险、年金等中长期资金持有A股流通市值增长85%，净买入约1.3万亿元。</p>
+      </article>
+      <article class="card">
+        <div class="tag">科技金融 · 数据要素</div>
+        <h3>九部门科技金融数据开发利用通知落地，支持市场化征信机构建科技型企业数据库</h3>
+        <p>中国人民银行等九部门近日联合印发《关于加强科技金融领域数据开发利用的通知》，聚焦融资对接、智能风控、产品创新等环节，引导金融机构构建科技型企业数字信用画像。通知发布相关目录，涵盖企业名单与科创属性等8大类、26个数据指标。</p>
+      </article>
+    </section>
+
+    <section class="section">
+      <div class="section-title">金融科技动态</div>
+      <article class="card">
+        <div class="tag">资管监管 · 理财净值</div>
+        <h3>监管重申禁止理财子公司通过外部合作机构不当估值、调节收益率</h3>
+        <p>近期监管对多家理财子公司重申，不得通过信托公司等外部合作机构不当估值、调节资管产品收益率，以截留收益、平滑净值。此举旨在引导理财行业回归“真净值”，从拼短期规模转向长期主义，破除理财估值“魔法”。</p>
+      </article>
+      <article class="card">
+        <div class="tag">债券市场 · 科创债</div>
+        <h3>全国首单Token算力工厂科创债落地，年内科创债发行超1.14万亿元</h3>
+        <p>无锡高新区科创产业发展集团近日发行全国首单专项用于词元（Token）算力工厂建设的科技创新公司债券，打通资本市场与AI底层算力基础设施的直接融资通道。截至8月6日，今年以来科创债累计发行1175只，发行规模达11475.73亿元。</p>
+      </article>
+    </section>
+
+    <section class="section">
+      <div class="section-title">资本市场表现</div>
+      <article class="card">
+        <div class="tag">A股 · 8月6日收盘</div>
+        <h3>沪指涨0.57%站上3900点，煤炭、数字货币、CPO概念走强</h3>
+        <p>周四A股三大指数震荡分化，沪指涨0.57%报3900.35点，深证成指跌0.24%，创业板指跌0.55%。沪深两市成交额2.53万亿元，较上个交易日缩量1309亿元，全市场超2700只个股上涨。盘面上煤炭板块掀涨停潮，数字货币、氟化工、CPO概念涨幅居前。</p>
+      </article>
+      <article class="card">
+        <div class="tag">全球 · 8月6日收盘</div>
+        <h3>美股三大指数集体收跌，存储芯片大跌；港股恒指跌1.49%</h3>
+        <p>美股周四道指跌0.85%，标普500跌0.18%，纳指跌0.06%；存储芯片股重挫，西部数据跌超13%，闪迪跌6.8%，SK海力士跌约5%。港股恒生指数跌1.49%，恒生科技指数跌2.28%。国际金价高位震荡于4240美元/盎司附近，美油涨约4%报77美元上方。</p>
+      </article>
+    </section>
+
+    <section class="section">
+      <div class="section-title">投融资事件</div>
+      <article class="card">
+        <div class="tag">IPO · 机器人</div>
+        <h3>宇树科技科创板IPO定价150.8元/股，预计募资约61亿元</h3>
+        <p>宇树科技公告科创板IPO发行价确定为150.80元/股，网上申购日为8月10日，预计募集资金总额约60.99亿元。战略配售名单显示，DeepSeek拟认购金额上限1.55亿元，腾讯旗下启善投资拟认购1.5亿元，社保基金、中信证券投资等亦参与配售。</p>
+      </article>
+      <article class="card">
+        <div class="tag">大模型 · 融资</div>
+        <h3>DeepSeek宣布大幅上调API定价，ARR达4-5亿美元，筹备500亿元融资</h3>
+        <p>DeepSeek官网弹窗显示计划近期整体上调API服务定价，且“幅度较大”。公司V4 Flash单日Token消耗高达8万亿，年化经常性收入（ARR）已达4亿至5亿美元。此举标志着国产大模型从“烧钱换用户”迈向盈利验证期，公司正筹备500亿元融资。</p>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>每日自动更新 · 来源：公开财经媒体报道</p>
+    <p><a href="https://xxy20010606.github.io/daily/">https://xxy20010606.github.io/daily/</a></p>
+  </footer>
+</body>
+</html>
