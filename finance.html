@@ -25,33 +25,31 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 .summary-item.blue .summary-num{color:#2980b9}
 .summary-item.green .summary-num{color:#27ae60}
 .summary-item.orange .summary-num{color:#e67e22}
-.market-ribbon{background:linear-gradient(135deg,#1a1a2e,#2c3e50);border-radius:12px;padding:14px 16px;margin-bottom:16px;color:#fff;font-size:12px;display:flex;align-items:center;gap:10px;overflow-x:auto;white-space:nowrap}
-.market-item{display:flex;align-items:center;gap:4px;flex-shrink:0}
-.market-up{color:#e74c3c;font-weight:700}
-.market-down{color:#27ae60;font-weight:700}
-.market-divider{color:rgba(255,255,255,0.3);flex-shrink:0}
 .section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
 .section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
 .section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
 .section-icon.policy{background:#fff3e0}
 .section-icon.market{background:#e3f2fd}
-.section-icon.fintech{background:#e8f5e9}
-.section-icon.invest{background:#fce4ec}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
 .section-name{font-size:15px;font-weight:700;color:#1a1a2e}
 .section-count{margin-left:auto;font-size:12px;color:#aaa}
 .news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
 .news-item:last-child{border-bottom:none}
-.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;font-size:11px;font-weight:700;color:#fff;display:flex;align-items:center;justify-content:center}
-.news-index.policy{background:#e67e22}
-.news-index.fintech{background:#27ae60}
-.news-index.market{background:#2980b9}
-.news-index.invest{background:#c0392b}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#e74c3c;color:#fff}
 .news-body{padding-left:30px}
 .news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
 .news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
 .news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.news-source{font-size:11px;color:#e74c3c;background:rgba(231,76,60,0.08);border-radius:4px;padding:2px 7px}
-.news-link{font-size:11px;color:#aaa;text-decoration:none}
+.news-source{font-size:11px;color:#e74c3c;background:rgba(231,76,60,231,76,60,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
 .news-link:hover{color:#e74c3c}
 .footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
 .footer span{color:#e74c3c;font-weight:600}
@@ -60,133 +58,17 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 <body>
 <div class="container">
 <div class="header">
-<div class="header-date">2026年08月09日 · 周日</div>
+<div class="header-date">2026年08月09日</div>
 <div class="header-title">📊 财经简报</div>
-<div class="header-sub">宏观政策 · 金融科技 · 资本市场 · 投融资</div>
-<div class="header-tag">由 WorkBuddy AI 自动整理 · 每周更新</div>
+<div class="header-sub">科技金融 · A股港股 · 美联储 · 一级市场</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
 </div>
-
 <div class="summary-card">
-<div class="summary-title"><span class="dot"></span> 本周概览</div>
-<div class="summary-grid">
-<div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">宏观政策</div></div>
-<div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">金融科技动态</div></div>
-<div class="summary-item green"><div class="summary-num">2</div><div class="summary-label">资本市场表现</div></div>
-<div class="summary-item orange"><div class="summary-num">2</div><div class="summary-label">投融资事件</div></div>
-</div>
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">宏观政策</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">金融科技动态</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">资本市场表现</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">投融资事件</div></div></div>
 </div>
 
-<div class="market-ribbon">
-<span style="font-weight:700;font-size:13px">📈 全球市场 · 8.7收报</span>
-<div class="market-divider">|</div>
-<div class="market-item">上证<span class="market-up">3940 +1.02%</span></div>
-<div class="market-divider">|</div>
-<div class="market-item">科创综指<span class="market-up">+10.96%</span></div>
-<div class="market-divider">|</div>
-<div class="market-item">纳指<span class="market-up">26691 +1.30%</span></div>
-<div class="market-divider">|</div>
-<div class="market-item">标普<span class="market-up">7758 新高</span></div>
-<div class="market-divider">|</div>
-<div class="market-item">黄金<span class="market-up">$4401 +7%</span></div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon policy">🏛️</div>
-<div class="section-name">宏观政策</div>
-<div class="section-count">2条</div>
-</div>
-<div class="news-item">
-<div class="news-index policy">1</div>
-<div class="news-body">
-<div class="news-title">央行下半年工作会议：综合运用并适时调整货币政策工具，降准降息进入待命状态</div>
-<div class="news-summary">央行8月1日召开下半年工作会议，强调继续实施适度宽松的货币政策。会议提出"综合运用并适时调整货币政策工具"，被市场解读为降准降息等总量工具已进入准备状态。上半年债券市场"科技板"累计发行科技创新债券超2.8万亿元，科技/绿色/普惠等五领域贷款余额同比增长11%。</div>
-<div class="news-meta"><span class="news-source">央行/21世纪经济报道</span></div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index policy">2</div>
-<div class="news-body">
-<div class="news-title">财政金融协同扩内需打出"组合拳"：千亿专项+6项政策上半年带动新发放贷款超17万亿</div>
-<div class="news-summary">中央财政安排1000亿元专项资金推出财政金融协同促内需一揽子政策，涵盖中小微企业贴息、设备更新贴息、个人消费贷贴息等6项。上半年政策带动新发放相关贷款合计超17万亿元。财政货币政策同向发力，下半年协同力度有望进一步加码。</div>
-<div class="news-meta"><span class="news-source">央视新闻/中国经济网</span></div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon fintech">💻</div>
-<div class="section-name">金融科技动态</div>
-<div class="section-count">2条</div>
-</div>
-<div class="news-item">
-<div class="news-index fintech">1</div>
-<div class="news-body">
-<div class="news-title">九部门联合印发科技金融数据开发利用通知：目录1.0涵盖8大类26指标</div>
-<div class="news-summary">央行等九部门联合印发《关于加强科技金融领域数据开发利用的通知》，发布目录1.0涵盖知识产权、研发投入、市场规模等8大类26个数据指标，引导金融机构构建科技企业数字信用画像，补齐行业长期缺少统一指标体系的短板，从源头破解科技企业"看不懂、不敢贷"困境。</div>
-<div class="news-meta"><span class="news-source">中国经营报</span></div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index fintech">2</div>
-<div class="news-body">
-<div class="news-title">基金公司扎堆申报：十家瞄准创业板算力ETF + 六家布局金融科技ETF</div>
-<div class="news-summary">易方达、华夏、南方等十家基金公司申报创业板算力基础设施ETF，覆盖光模块、存储、算力租赁等50只核心标的、总市值超3.5万亿元。景顺长城、华泰柏瑞等六家瞄准创业板金融科技ETF。私募AI布局也从算力上游转向应用层，宁泉、睿郡等头部私募加码"AI+"上市公司。</div>
-<div class="news-meta"><span class="news-source">每日经济新闻/上海证券报</span></div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon market">📊</div>
-<div class="section-name">资本市场表现</div>
-<div class="section-count">2条</div>
-</div>
-<div class="news-item">
-<div class="news-index market">1</div>
-<div class="news-body">
-<div class="news-title">A股连续三周上涨：沪指收复3940点，科创综指全周飙升10.96%</div>
-<div class="news-summary">8月7日A股三大指数集体收涨，上证+1.02%收3940.04点、深证+1.42%、创业板+1.35%、科创50+2.51%，成交额2.68万亿元。本周上证累涨2.81%三连阳，科创综指领涨全周+10.96%，信息技术板块净流入超600亿元，创新药与PCB概念掀涨停潮。个股超4200只周涨为正。</div>
-<div class="news-meta"><span class="news-source">证券时报/陆家嘴财经早餐</span></div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index market">2</div>
-<div class="news-body">
-<div class="news-title">美股标普再创新高：纳指周涨5.19%，非农意外减少2.3万压低加息预期</div>
-<div class="news-summary">美东8月7日三大指数集体收涨，标普+0.62%报7757.64再创历史新高，纳指+1.30%报26690.62，道指+0.28%。本周三大指数创4月中旬以来最大单周涨幅。美国7月非农意外减少2.3万（预期+8.3万），9月加息概率降至44%。黄金大涨：COMEX期货+2.37%报4401美元/盎司，本周累涨超7%；央行连续21个月增持，7月增持64万盎司为本轮最多。</div>
-<div class="news-meta"><span class="news-source">21世纪经济报道/新浪财经</span></div>
-</div>
-</div>
-</div>
-
-<div class="section">
-<div class="section-header">
-<div class="section-icon invest">💰</div>
-<div class="section-name">投融资事件</div>
-<div class="section-count">2条</div>
-</div>
-<div class="news-item">
-<div class="news-index invest">1</div>
-<div class="news-body">
-<div class="news-title">一级市场本周150起融资：帕西尼感知科技10亿元领衔，具身智能/脑机接口火热</div>
-<div class="news-summary">据财联社创投通，本周(8.1-8.7)国内发生150起投融资事件环比+2.04%，已披露融资总额约84.59亿元。先进制造/医疗健康/集成电路/人工智能活跃；具身智能与脑机接口为最热细分赛道。帕西尼感知科技完成10亿元战略融资为本周最大单笔。上半年国内具身智能融资总额460亿元、涉及288起事件。</div>
-<div class="news-meta"><span class="news-source">科创板日报/财联社</span></div>
-</div>
-</div>
-<div class="news-item">
-<div class="news-index invest">2</div>
-<div class="news-body">
-<div class="news-title">宇树科技8.10科创板申购 + 韶光芯材C+轮近4亿元，半导体上游国产替代加速</div>
-<div class="news-summary">宇树科技科创板IPO定价150.8元/股、对应市值约610亿元，8月10日启动申购，DeepSeek与腾讯参与战略配售；上半年净利2.58-3.06亿，人形机器人出货超5500台。半导体上游，长沙韶光芯材完成C+轮近4亿元融资，4年累计融资超12亿元，30余家机构争相入场，推动光掩模基板国产替代。</div>
-<div class="news-meta"><span class="news-source">财联社/湖南日报</span></div>
-</div>
-</div>
-</div>
-
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月09日 10:15 更新</div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月09日 03:23 更新</div>
 </div>
 </body>
 </html>
