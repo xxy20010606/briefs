@@ -15,15 +15,15 @@ Usage:
     python3 push_brief.py                 # pushes semiconductor.html + today's archive
     python3 push_brief.py <file> [<f>..]  # pushes the given files (relative to this dir)
 """
+import argparse
 import base64
 import datetime
 import json
 import os
-import sys
 import urllib.request
 import urllib.error
 
-REPO = "xxy20010606/briefs"
+DEFAULT_REPO = "xxy20010606/briefs"
 REPO_DIR = os.path.dirname(os.path.abspath(__file__))
 BASE = f"https://api.github.com/repos/{REPO}"
 HEADERS = {
@@ -61,9 +61,20 @@ def api(method, path, data=None):
 
 
 def main():
+    parser = argparse.ArgumentParser(description="Push brief files via GitHub REST API")
+    parser.add_argument("--repo", default=DEFAULT_REPO,
+                        help="target repo owner/name (default: xxy20010606/briefs)")
+    parser.add_argument("files", nargs="*",
+                        help="files to push (relative to REPO_DIR); "
+                             "default: semiconductor.html + today's archive")
+    args = parser.parse_args()
+    global REPO, BASE
+    REPO = args.repo
+    BASE = f"https://api.github.com/repos/{REPO}"
+
     today = datetime.date.today().strftime("%Y-%m-%d")
-    if len(sys.argv) > 1:
-        rel_paths = sys.argv[1:]
+    if args.files:
+        rel_paths = args.files
     else:
         rel_paths = [
             "semiconductor.html",
