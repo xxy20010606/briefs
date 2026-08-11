@@ -14,6 +14,7 @@ committed to the repo (GitHub secret scanning would block it).
 Usage:
     python3 push_brief.py                 # pushes semiconductor.html + today's archive
     python3 push_brief.py <file> [<f>..]  # pushes the given files (relative to this dir)
+    python3 push_brief.py --repo owner/name <file> [<f>..]  # target a different repo
 """
 import argparse
 import base64
@@ -25,7 +26,6 @@ import urllib.error
 
 DEFAULT_REPO = "xxy20010606/briefs"
 REPO_DIR = os.path.dirname(os.path.abspath(__file__))
-BASE = f"https://api.github.com/repos/{REPO}"
 HEADERS = {
     "Accept": "application/vnd.github+json",
     "Content-Type": "application/json",
