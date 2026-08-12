@@ -2,265 +2,73 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta name="Pragma" content="no-cache">
-<title>半导体行业简报 — 2026-08-12</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>💻 半导体简报 · 2026年08月12日</title>
 <style>
-  :root {
-    --bg: #f0f4fa;
-    --card-bg: #ffffff;
-    --primary: #1a56db;
-    --primary-light: #e8effc;
-    --text: #1e293b;
-    --text-secondary: #64748b;
-    --border: #dbeafe;
-    --tag-bg-policy: #dbeafe;
-    --tag-text-policy: #1e40af;
-    --tag-bg-tech: #dcfce7;
-    --tag-text-tech: #166534;
-    --tag-bg-company: #fef3c7;
-    --tag-text-company: #92400e;
-    --tag-bg-finance: #fce7f3;
-    --tag-text-finance: #9d174d;
-  }
-  * { margin:0; padding:0; box-sizing:border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    line-height: 1.6;
-    min-height: 100vh;
-  }
-  .header {
-    background: linear-gradient(135deg, #1e3a8a 0%, #1a56db 50%, #2563eb 100%);
-    color: #fff;
-    padding: 32px 20px 28px;
-    text-align: center;
-    position: relative;
-    overflow: hidden;
-  }
-  .header::after {
-    content: '';
-    position: absolute;
-    bottom: 0; left: 0; right: 0;
-    height: 6px;
-    background: linear-gradient(90deg, #60a5fa, #3b82f6, #1d4ed8, #1e40af);
-  }
-  .header h1 {
-    font-size: 26px;
-    font-weight: 700;
-    letter-spacing: 1px;
-    margin-bottom: 6px;
-  }
-  .header .date {
-    font-size: 14px;
-    opacity: 0.85;
-    font-weight: 400;
-  }
-  .header .subtitle {
-    font-size: 12px;
-    opacity: 0.65;
-    margin-top: 4px;
-  }
-  .container {
-    max-width: 720px;
-    margin: 0 auto;
-    padding: 20px 16px 40px;
-  }
-  .section {
-    margin-bottom: 24px;
-  }
-  .section-title {
-    font-size: 15px;
-    font-weight: 700;
-    color: var(--primary);
-    padding: 8px 0;
-    margin-bottom: 12px;
-    border-bottom: 2px solid var(--primary-light);
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .section-title .dot {
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: var(--primary);
-    flex-shrink: 0;
-  }
-  .card {
-    background: var(--card-bg);
-    border-radius: 10px;
-    padding: 14px 16px;
-    margin-bottom: 10px;
-    box-shadow: 0 1px 4px rgba(30,58,138,0.06);
-    border-left: 3px solid var(--primary);
-    transition: box-shadow 0.2s;
-  }
-  .card:hover {
-    box-shadow: 0 2px 12px rgba(30,58,138,0.1);
-  }
-  .card-header {
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    gap: 8px;
-    margin-bottom: 6px;
-  }
-  .card-title {
-    font-size: 15px;
-    font-weight: 600;
-    color: var(--text);
-    flex: 1;
-  }
-  .tag {
-    font-size: 11px;
-    padding: 2px 8px;
-    border-radius: 4px;
-    white-space: nowrap;
-    font-weight: 500;
-    flex-shrink: 0;
-  }
-  .tag-policy { background: var(--tag-bg-policy); color: var(--tag-text-policy); }
-  .tag-tech { background: var(--tag-bg-tech); color: var(--tag-text-tech); }
-  .tag-company { background: var(--tag-bg-company); color: var(--tag-text-company); }
-  .tag-finance { background: var(--tag-bg-finance); color: var(--tag-text-finance); }
-  .card-summary {
-    font-size: 13px;
-    color: var(--text-secondary);
-    margin-bottom: 6px;
-    line-height: 1.5;
-  }
-  .card-source {
-    font-size: 12px;
-  }
-  .card-source a {
-    color: var(--primary);
-    text-decoration: none;
-    font-weight: 500;
-  }
-  .card-source a:hover {
-    text-decoration: underline;
-  }
-  .footer {
-    text-align: center;
-    font-size: 11px;
-    color: #94a3b8;
-    padding: 20px 0 10px;
-  }
-  .footer a {
-    color: #93c5fd;
-    text-decoration: none;
-  }
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
+.container{max-width:420px;margin:0 auto}
+.header{background:linear-gradient(135deg,#2196f3, #1565c0);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#2196f3;flex-shrink:0}
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
+.news-item:last-child{border-bottom:none}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#2196f3;color:#fff}
+.news-body{padding-left:30px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
+.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.news-source{font-size:11px;color:#2196f3;background:rgba(33,150,243,33,150,243,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#2196f3}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
+.footer span{color:#2196f3;font-weight:600}
 </style>
 </head>
 <body>
-
+<div class="container">
 <div class="header">
-  <h1>💻 半导体行业简报</h1>
-  <div class="date">2026年8月12日 · 周三</div>
-  <div class="subtitle">来源：财联社 · 36氪 · 华尔街见闻 · IT之家 · 上海证券报 · 证券时报</div>
+<div class="header-date">2026年08月12日</div>
+<div class="header-title">💻 半导体简报</div>
+<div class="header-sub">芯片技术 · 晶圆代工 · EDA · 国产替代</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
+</div>
+<div class="summary-card">
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">政策与产业</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">技术与产品</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">企业动态</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">投融资与IPO</div></div></div>
 </div>
 
-<div class="container">
-
-  <!-- 政策与产业 -->
-  <div class="section">
-    <div class="section-title"><span class="dot"></span>政策与产业</div>
-
-    <div class="card" style="border-left-color:#1e40af;">
-      <div class="card-header">
-        <span class="card-title">上海"十五五"软件规划发布：产业规模力争4万亿</span>
-        <span class="tag tag-policy">政策</span>
-      </div>
-      <div class="card-summary">围绕GPU/NPU、量子芯片、HBM等核心环节，推动自主芯片与主流大模型深度融合，松江/临港布局十万卡集群。</div>
-      <div class="card-source">来源：<a href="https://www.cls.cn/detail/2451757" target="_blank">财联社</a> · <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_6836a7bb81407252" target="_blank">每日经济新闻</a></div>
-    </div>
-
-    <div class="card" style="border-left-color:#1e40af;">
-      <div class="card-header">
-        <span class="card-title">SK海力士重启大连NAND工厂，扩产50%；韩券商下调存储双雄目标价</span>
-        <span class="tag tag-policy">产业</span>
-      </div>
-      <div class="card-summary">大连2号工厂4年停滞后重启，月产能+5万片；Kiwoom等券商下调三星/SK海力士目标价约30%，存储见顶担忧升温。</div>
-      <div class="card-source">来源：<a href="https://finance.sina.com.cn/jjxw/2026-08-12/doc-inimzcpt7046165.shtml" target="_blank">华尔街见闻/新浪财经</a></div>
-    </div>
-  </div>
-
-  <!-- 技术与产品 -->
-  <div class="section">
-    <div class="section-title"><span class="dot"></span>技术与产品</div>
-
-    <div class="card" style="border-left-color:#166534;">
-      <div class="card-header">
-        <span class="card-title">国产350nm光刻机AST6200通过工艺验证获批量订单</span>
-        <span class="tag tag-tech">国产替代</span>
-      </div>
-      <div class="card-summary">上海芯上微装自研步进投影光刻机通过化合物半导体头部客户全流程验证，软件100%自主可控，专攻碳化硅/砷化镓。</div>
-      <div class="card-source">来源：<a href="https://www.cnstock.com/commonDetail/758613" target="_blank">上海证券报</a> · <a href="https://www.163.com/dy/article/L44DMV8T0534A4SC.html" target="_blank">界面新闻</a></div>
-    </div>
-
-    <div class="card" style="border-left-color:#166534;">
-      <div class="card-header">
-        <span class="card-title">三星HBM4良率接近80%提前达标；英特尔披露256核至强</span>
-        <span class="tag tag-tech">存储/CPU</span>
-      </div>
-      <div class="card-summary">三星HBM4良率从量产初期不到60%攀升至约80%，加速产能爬坡；英特尔预告Diamond Rapids至强，核心数量提升50%。</div>
-      <div class="card-source">来源：<a href="https://new.qq.com/rain/a/20260811A02CN900" target="_blank">腾讯科技</a> · <a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_6836a7bb81407252" target="_blank">IT之家</a></div>
-    </div>
-  </div>
-
-  <!-- 企业动态 -->
-  <div class="section">
-    <div class="section-title"><span class="dot"></span>企业动态</div>
-
-    <div class="card" style="border-left-color:#92400e;">
-      <div class="card-header">
-        <span class="card-title">工业富联H1净利润237亿增96%，AI服务器驱动高增</span>
-        <span class="tag tag-company">业绩</span>
-      </div>
-      <div class="card-summary">上半年营收5578.61亿增54.63%，净利润近乎翻倍；ROE升至13.36%，暂不分红留存利润支持AI及云计算扩张。</div>
-      <div class="card-source">来源：<a href="https://new.qq.com/rain/a/20260812A037DE00?refer=cp_1009" target="_blank">华尔街见闻</a></div>
-    </div>
-
-    <div class="card" style="border-left-color:#92400e;">
-      <div class="card-header">
-        <span class="card-title">台积电7月营收增45%，拟收购友达面板厂扩封装</span>
-        <span class="tag tag-company">扩产</span>
-      </div>
-      <div class="card-summary">7月营收4676亿新台币同比增44.7%；拟收购友达中科两座厂房，交易或破300亿新台币，联手布局FOPLP与CoPoS先进封装。</div>
-      <div class="card-source">来源：<a href="https://new.qq.com/rain/a/20260811A02CN900" target="_blank">腾讯科技</a></div>
-    </div>
-  </div>
-
-  <!-- 投融资与IPO -->
-  <div class="section">
-    <div class="section-title"><span class="dot"></span>投融资与IPO</div>
-
-    <div class="card" style="border-left-color:#9d174d;">
-      <div class="card-header">
-        <span class="card-title">英特尔200亿美元增发完成，55年最大股权融资梭哈AI</span>
-        <span class="tag tag-finance">融资</span>
-      </div>
-      <div class="card-summary">发行价95美元/股，超额认购超6倍，融资从150亿上调至200亿美元；全部投向AI芯片研发与全球晶圆代工厂扩建。</div>
-      <div class="card-source">来源：<a href="https://www.toutiao.com/article/7672954471256818220/" target="_blank">财联社/今日头条</a></div>
-    </div>
-
-    <div class="card" style="border-left-color:#9d174d;">
-      <div class="card-header">
-        <span class="card-title">超纯应材上市首日涨662%，年内9家半导体企业登陆A股</span>
-        <span class="tag tag-finance">IPO</span>
-      </div>
-      <div class="card-summary">国内极少数5nm及以下刻蚀设备核心零部件供应商，年内已有9家半导体企业IPO合计募资809亿元，产业链加速资本化。</div>
-      <div class="card-source">来源：<a href="https://stcn.com/article/detail/4068470.html" target="_blank">证券时报</a></div>
-    </div>
-  </div>
-
-  <div class="footer">
-    每日更新 · <a href="https://github.com/xxy20010606/briefs" target="_blank">GitHub</a> · Powered by WorkBuddy
-  </div>
-
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月12日 03:53 更新</div>
 </div>
 </body>
 </html>
