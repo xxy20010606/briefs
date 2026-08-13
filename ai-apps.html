@@ -2,181 +2,73 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta name="Pragma" content="no-cache">
-<title>AI应用简报 - 2026年8月13日</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>🚀 AI 应用简报 · 2026年08月13日</title>
 <style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-    background: #eef7ee;
-    color: #2d3436;
-    line-height: 1.7;
-    padding: 20px;
-  }
-  .container { max-width: 860px; margin: 0 auto; }
-  header {
-    text-align: center;
-    padding: 36px 20px 28px;
-    background: linear-gradient(135deg, #1b5e20 0%, #2e7d32 50%, #388e3c 100%);
-    color: #fff;
-    border-radius: 10px;
-    margin-bottom: 24px;
-  }
-  header h1 { font-size: 26px; font-weight: 700; letter-spacing: 1px; }
-  header .date { font-size: 13px; opacity: .85; margin-top: 6px; }
-  header .count { font-size: 12px; opacity: .7; margin-top: 4px; }
-  .section { margin-bottom: 28px; }
-  .section-title {
-    font-size: 15px;
-    font-weight: 700;
-    color: #1b5e20;
-    padding: 8px 0;
-    border-bottom: 2px solid #4caf50;
-    margin-bottom: 14px;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .section-title .icon { font-size: 18px; }
-  .card {
-    background: #fff;
-    border-radius: 8px;
-    padding: 16px 20px;
-    margin-bottom: 10px;
-    border-left: 4px solid #4caf50;
-    transition: box-shadow .15s;
-  }
-  .card:hover { box-shadow: 0 2px 12px rgba(27,94,32,.12); }
-  .card .title {
-    font-size: 15px;
-    font-weight: 600;
-    color: #1b5e20;
-    margin-bottom: 5px;
-    line-height: 1.4;
-  }
-  .card .summary { font-size: 13px; color: #555; margin-bottom: 8px; }
-  .card .meta {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-size: 12px;
-    color: #888;
-  }
-  .card .source {
-    color: #2e7d32;
-    text-decoration: none;
-    font-weight: 500;
-  }
-  .card .source:hover { text-decoration: underline; }
-  .tag {
-    display: inline-block;
-    padding: 1px 8px;
-    border-radius: 3px;
-    font-size: 11px;
-    background: #e8f5e9;
-    color: #2e7d32;
-  }
-  footer {
-    text-align: center;
-    padding: 24px;
-    font-size: 12px;
-    color: #999;
-    border-top: 1px solid #c8e6c9;
-    margin-top: 12px;
-  }
-  footer a { color: #2e7d32; text-decoration: none; }
-  @media (max-width: 600px) {
-    body { padding: 10px; }
-    header { padding: 24px 14px 18px; }
-    header h1 { font-size: 21px; }
-    .card { padding: 12px 14px; }
-  }
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
+.container{max-width:420px;margin:0 auto}
+.header{background:linear-gradient(135deg,#27ae60, #1e8449);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#27ae60;flex-shrink:0}
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
+.news-item:last-child{border-bottom:none}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#27ae60;color:#fff}
+.news-body{padding-left:30px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
+.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.news-source{font-size:11px;color:#27ae60;background:rgba(39,174,96,39,174,96,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#27ae60}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
+.footer span{color:#27ae60;font-weight:600}
 </style>
 </head>
 <body>
 <div class="container">
-
-<header>
-  <h1>AI应用简报</h1>
-  <div class="date">2026年8月13日 星期四</div>
-  <div class="count">精选 8 条 · 覆盖 AI工具/行业落地/智能体/商业模式</div>
-</header>
-
-<!-- AI工具与产品发布 -->
-<div class="section">
-  <div class="section-title"><span class="icon">🛠️</span> AI工具与产品发布</div>
-
-  <div class="card">
-    <div class="title">LTX-2.5开源视频模型发布：6.8秒生成10秒720P视频</div>
-    <div class="summary">开放世界模型公司LTX发布LTX-2.5，原生集成ComfyUI，双GB200上6.8秒生成10秒720P视频，成本约为同类八分之一，ARR低于千万美元免费使用。</div>
-    <div class="meta"><span class="tag">AI视频</span><a class="source" href="https://tech.sina.cn/2026-08-12/detail-inimzumm6903827.d.html" target="_blank">新浪科技/IT之家 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="title">英伟达发布Nemotron 3.5 Lightning开源模型，Agent效率提升30%</div>
-    <div class="summary">英伟达发布300亿参数MoE开源模型Nemotron 3.5 Lightning，面向多智能体细分任务，文本输出提速4倍，整体Agent任务执行效率提升30%。</div>
-    <div class="meta"><span class="tag">开源模型</span><a class="source" href="https://view.inews.qq.com/a/20260812A052AJ00" target="_blank">太平洋科技 →</a></div>
-  </div>
+<div class="header">
+<div class="header-date">2026年08月13日</div>
+<div class="header-title">🚀 AI 应用简报</div>
+<div class="header-sub">AI 工具 · 行业落地 · Agent · 商业模式</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
+</div>
+<div class="summary-card">
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">AI 工具与产品发布</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">AI + 行业落地案例</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">AI Agent 与智能体</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">AI 创业与商业模式</div></div></div>
 </div>
 
-<!-- AI+行业落地案例 -->
-<div class="section">
-  <div class="section-title"><span class="icon">🏭</span> AI+行业落地案例</div>
-
-  <div class="card">
-    <div class="title">千问开放平台正式上线，AI「入口战」全面打响</div>
-    <div class="summary">阿里千问开放平台上线，面向手机/PC/AI眼镜三端开放Agent接入，顺丰、自如、哈啰、飞常准等十余领域伙伴入驻，一句话完成寄件等服务闭环。</div>
-    <div class="meta"><span class="tag">智能体生态</span><a class="source" href="https://www.163.com/dy/article/L449LLBI0534AAOK.html" target="_blank">新快报/36氪 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="title">Google I/O Connect China：国内企业智能体落地案例集中亮相</div>
-    <div class="summary">上海大会展示一批国内头部企业基于谷歌AI技术栈的生产级落地：剪映对话式剪辑、百度Medo零代码应用、涂鸦具身智能、海管家海关多智能体。</div>
-    <div class="meta"><span class="tag">行业落地</span><a class="source" href="https://new.qq.com/rain/a/20260812A09NMY00" target="_blank">腾讯网 →</a></div>
-  </div>
-</div>
-
-<!-- AI Agent与智能体 -->
-<div class="section">
-  <div class="section-title"><span class="icon">🤖</span> AI Agent与智能体</div>
-
-  <div class="card">
-    <div class="title">DeepSeek Harness代码智能体即将发布，对标Claude Code</div>
-    <div class="summary">DeepSeek已注册「Harness团队」公众号，认证主体为北京深度求索，标志其智能体执行框架Harness即将发布，崔添翼牵头，8月初已开启开发者内测。</div>
-    <div class="meta"><span class="tag">代码Agent</span><a class="source" href="https://view.inews.qq.com/a/20260812A063C300" target="_blank">界面新闻 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="title">AWS开源Dogwood：补齐智能体工具调用序列治理</div>
-    <div class="summary">AWS发布开源策略语言Dogwood，在Cedar基础上增加时序条件能力，可对智能体多步工具调用序列整体治理，防止并发请求绕过限额，已集成至Bedrock。</div>
-    <div class="meta"><span class="tag">Agent治理</span><a class="source" href="https://view.inews.qq.com/a/20260812A065X200" target="_blank">至顶科技 →</a></div>
-  </div>
-</div>
-
-<!-- AI创业与商业模式 -->
-<div class="section">
-  <div class="section-title"><span class="icon">💡</span> AI创业与商业模式</div>
-
-  <div class="card">
-    <div class="title">魔形智能「Token工厂」三个月连融两轮，日均数万亿Token</div>
-    <div class="summary">成立两年的魔形智能完成A轮融资，日均Token调用量数万亿级、营收数亿元，开源模型越繁荣，把推理封装成Token产品的工厂越受资本追捧。</div>
-    <div class="meta"><span class="tag">Token工厂</span><a class="source" href="https://www.dazhongdb.cn/1786499640/168464.html" target="_blank">投资界/大众资本 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="title">AI旅行平台玩点旅行近亿元Pre-A+轮，发布Wanpix.AI</div>
-    <div class="summary">玩点旅行完成近亿元Pre-A+轮融资，由复星锐正领投，同步发布企业级AI Agent平台Wanpix.AI，构建「AI+营销/电商/服务/数据」旅行全链路闭环。</div>
-    <div class="meta"><span class="tag">AI+旅行</span><a class="source" href="https://www.100ec.cn/detail--6662768.html" target="_blank">网经社 →</a></div>
-  </div>
-</div>
-
-<footer>
-  <p>AI应用简报 · 每日更新 · <a href="https://xxy20010606.github.io/briefs/ai-apps.html" target="_blank">xxy20010606.github.io/briefs/ai-apps.html</a></p>
-  <p style="margin-top:4px;">数据来源：新浪科技 · 太平洋科技 · 新快报 · 腾讯网 · 界面新闻 · 至顶科技 · 投资界 · 网经社</p>
-</footer>
-
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月13日 03:58 更新</div>
 </div>
 </body>
 </html>

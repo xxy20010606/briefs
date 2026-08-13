@@ -3,12 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta name="Pragma" content="no-cache">
 <title>🎬 娱乐简报 · 2026年08月13日</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#fdf2f6;color:#1a1a2e;line-height:1.7;padding:16px}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
 .container{max-width:420px;margin:0 auto}
 .header{background:linear-gradient(135deg,#e91e63, #c2185b);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
 .header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
@@ -16,35 +14,41 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 .header-title{font-size:22px;font-weight:700;letter-spacing:1px}
 .header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
 .header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
-.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(233,30,99,0.06)}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
 .summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
 .summary-title .dot{width:6px;height:6px;border-radius:50%;background:#e91e63;flex-shrink:0}
 .summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.summary-item{background:#fdf2f6;border-radius:10px;padding:12px;text-align:center}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
 .summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
 .summary-label{font-size:11px;color:#888;margin-top:2px}
 .summary-item.red .summary-num{color:#e74c3c}
 .summary-item.blue .summary-num{color:#2980b9}
 .summary-item.green .summary-num{color:#27ae60}
 .summary-item.orange .summary-num{color:#e67e22}
-.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(233,30,99,0.05)}
-.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #fce4ec}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
 .section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
-.section-icon.movie{background:#fce4ec}
-.section-icon.music{background:#f3e5f5}
-.section-icon.star{background:#fce4ec}
-.section-icon.game{background:#fce4ec}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
 .section-name{font-size:15px;font-weight:700;color:#1a1a2e}
 .section-count{margin-left:auto;font-size:12px;color:#aaa}
-.news-item{padding:14px 18px;border-bottom:1px solid #fdf2f6;position:relative}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
 .news-item:last-child{border-bottom:none}
-.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#fce4ec;font-size:11px;font-weight:700;color:#c2185b;display:flex;align-items:center;justify-content:center}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
 .news-index.active{background:#e91e63;color:#fff}
 .news-body{padding-left:30px}
 .news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
 .news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
 .news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.news-source{font-size:11px;color:#e91e63;background:rgba(233,30,99,0.08);border-radius:4px;padding:2px 7px}
+.news-source{font-size:11px;color:#e91e63;background:rgba(233,30,99,233,30,99,0.1);border-radius:4px;padding:2px 7px}
 .news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
 .news-link:hover{color:#e91e63}
 .footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
@@ -57,43 +61,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 <div class="header-date">2026年08月13日</div>
 <div class="header-title">🎬 娱乐简报</div>
 <div class="header-sub">影视综艺 · 音乐明星 · 游戏电竞 · 热点</div>
-<div class="header-tag">由 WorkBuddy AI 自动整理</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
 </div>
 <div class="summary-card">
 <div class="summary-title"><span class="dot"></span> 今日概览</div>
-<div class="summary-grid">
-<div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">影视动态</div></div>
-<div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">音乐与综艺</div></div>
-<div class="summary-item green"><div class="summary-num">2</div><div class="summary-label">明星与热点</div></div>
-<div class="summary-item orange"><div class="summary-num">2</div><div class="summary-label">游戏与电竞</div></div>
-</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">影视动态</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">音乐与综艺</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">明星与热点</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">游戏与电竞</div></div></div>
 </div>
 
-<div class="section">
-<div class="section-header"><div class="section-icon movie">🎥</div><div class="section-name">影视动态</div><div class="section-count">2条</div></div>
-<div class="news-item"><div class="news-index active">1</div><div class="news-body"><div class="news-title">诺兰新片《奥德赛》8月14日国内上映，暑期档最受期待引进大片</div><div class="news-summary">改编荷马史诗，全IMAX拍摄。作为暑期档重磅引进片，影片预售热度持续攀升，被业内视为下半年口碑与票房双预期之作。</div><div class="news-meta"><span class="news-source">腾讯娱乐</span><a class="news-link" href="https://new.qq.com/rain/a/20260811A01MJG00" target="_blank">原文</a></div></div></div>
-<div class="news-item"><div class="news-index">2</div><div class="news-body"><div class="news-title">沈腾《欢迎来龙餐馆》上映口碑票房双爆，点映预售破1.1亿</div><div class="news-summary">文牧野执导，沈腾突破喜剧路线。猫眼9.7、淘票票9.8，8月11日公映后票房口碑齐飞，成暑期档头部黑马。</div><div class="news-meta"><span class="news-source">腾讯娱乐</span><a class="news-link" href="https://view.inews.qq.com/a/20260810A04VVF00" target="_blank">原文</a></div></div></div>
-</div>
-
-<div class="section">
-<div class="section-header"><div class="section-icon music">🎵</div><div class="section-name">音乐与综艺</div><div class="section-count">2条</div></div>
-<div class="news-item"><div class="news-index active">3</div><div class="news-body"><div class="news-title">胡彦斌夺得《歌手2026》年度歌王，全网传播量破512亿</div><div class="news-summary">8月8日总决赛收官，胡彦斌夺冠，齐豫第二、万妮达第三。四网收视同时段第一，话题阅读量超20亿。</div><div class="news-meta"><span class="news-source">新浪娱乐</span><a class="news-link" href="https://www.toutiao.com/a7671983545153258026" target="_blank">原文</a></div></div></div>
-<div class="news-item"><div class="news-index">4</div><div class="news-body"><div class="news-title">《披荆斩棘2026》8月13日全开麦直播开播，邵兵因伤退赛</div><div class="news-summary">本季全程全开麦、连续四天直播。开播前邵兵遵医嘱退赛，节目组回应"期待来年再续热血篇章"，话题登热搜。</div><div class="news-meta"><span class="news-source">网易娱乐</span><a class="news-link" href="https://www.163.com/dy/article/L46S949C05566S1A.html" target="_blank">原文</a></div></div></div>
-</div>
-
-<div class="section">
-<div class="section-header"><div class="section-icon star">⭐</div><div class="section-name">明星与热点</div><div class="section-count">2条</div></div>
-<div class="news-item"><div class="news-index active">5</div><div class="news-body"><div class="news-title">黄晓明百花奖与苏有朋合唱，叶珂托出恋情真相引热议</div><div class="news-summary">黄晓明苏有朋合唱带动全场；前女友叶珂托出与黄晓明生娃分手原因，恋情与情绪状态成舆论焦点。</div><div class="news-meta"><span class="news-source">腾讯娱乐</span><a class="news-link" href="https://new.qq.com/rain/a/20260813A03V3O00" target="_blank">原文</a></div></div></div>
-<div class="news-item"><div class="news-index">6</div><div class="news-body"><div class="news-title">刘晓庆75岁亮相百花奖状态出圈，旧纠纷再被翻出</div><div class="news-summary">与袁泉杨紫等四代女演员同台，气质状态获赞"世界名画"；旧人古柯重提504万纠纷反被网友扒出争议。</div><div class="news-meta"><span class="news-source">网易娱乐</span><a class="news-link" href="https://www.163.com/dy/article/L46QNB7U05566SE0.html" target="_blank">原文</a></div></div></div>
-</div>
-
-<div class="section">
-<div class="section-header"><div class="section-icon game">🎮</div><div class="section-name">游戏与电竞</div><div class="section-count">2条</div></div>
-<div class="news-item"><div class="news-index active">7</div><div class="news-body"><div class="news-title">《影之刃零》全平台预售，索尼首次为国游单办State of Play</div><div class="news-summary">国产3A开启全平台预售，索尼8月18日为其举办专属发布会，10月29日登陆PS5，宣发资源与认可度空前。</div><div class="news-meta"><span class="news-source">每日经济新闻</span><a class="news-link" href="https://www.nbd.com.cn/articles/2026-08-12/4540045.html" target="_blank">原文</a></div></div></div>
-<div class="news-item"><div class="news-index">8</div><div class="news-body"><div class="news-title">KSG 4:3 夺得2026王者荣耀世俱杯冠军，KPL再揽桂冠</div><div class="news-summary">苏州KSG七局巅峰对决力克AG.AL夺冠，KSG.JUHAO当选FMVP，KPL赛区再度包揽王者荣耀世界冠军。</div><div class="news-meta"><span class="news-source">腾讯电竞</span><a class="news-link" href="https://new.qq.com/rain/a/20260810A0CHTC00" target="_blank">原文</a></div></div></div>
-</div>
-
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月13日 10:35 更新</div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月13日 03:58 更新</div>
 </div>
 </body>
 </html>
