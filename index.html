@@ -130,7 +130,17 @@ body {
 (function() {
   var now = new Date();
   document.getElementById('today-date').textContent = now.toLocaleDateString('zh-CN', {year:'numeric',month:'long',day:'numeric',weekday:'long'});
-  document.getElementById('update-time').textContent = '最后更新：2026年08月08日 11:21
+  document.getElementById('update-time').textContent = '最后更新：2026年08月08日 11:21';
+})();
+(function(){
+  var d = new Date();
+  var p = function(n){ return (n < 10 ? '0' : '') + n; };
+  var v = '' + d.getFullYear() + p(d.getMonth()+1) + p(d.getDate());
+  var u = new URL(location.href);
+  if (u.searchParams.get('v') !== v) {
+    u.searchParams.set('v', v);
+    location.replace(u.toString());
+  }
 })();
 </script>
 </body>
