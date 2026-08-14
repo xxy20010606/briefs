@@ -178,5 +178,18 @@
 </footer>
 
 </div>
+
+<script>
+(function(){
+  var d = new Date();
+  var p = function(n){ return (n < 10 ? '0' : '') + n; };
+  var v = '' + d.getFullYear() + p(d.getMonth()+1) + p(d.getDate());
+  var u = new URL(location.href);
+  if (u.searchParams.get('v') !== v) {
+    u.searchParams.set('v', v);
+    location.replace(u.toString());
+  }
+})();
+</script>
 </body>
 </html>
