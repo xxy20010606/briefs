@@ -2,73 +2,194 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>🚀 AI 应用简报 · 2026年08月14日</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta name="Pragma" content="no-cache">
+<title>AI应用简报 - 2026年8月14日</title>
 <style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
-.container{max-width:420px;margin:0 auto}
-.header{background:linear-gradient(135deg,#27ae60, #1e8449);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
-.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
-.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
-.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
-.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
-.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
-.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
-.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
-.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#27ae60;flex-shrink:0}
-.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
-.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
-.summary-label{font-size:11px;color:#888;margin-top:2px}
-.summary-item.red .summary-num{color:#e74c3c}
-.summary-item.blue .summary-num{color:#2980b9}
-.summary-item.green .summary-num{color:#27ae60}
-.summary-item.orange .summary-num{color:#e67e22}
-.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
-.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
-.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
-.section-icon.policy{background:#fff3e0}
-.section-icon.market{background:#e3f2fd}
-.section-icon.pe{background:#fce4ec}
-.section-icon.model{background:#ede7f6}
-.section-icon.app{background:#e8f5e9}
-.section-icon.capital{background:#fce4ec}
-.section-icon.tool{background:#e8f5e9}
-.section-icon.case{background:#e3f2fd}
-.section-icon.agent{background:#ede7f6}
-.section-icon.biz{background:#fff3e0}
-.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
-.section-count{margin-left:auto;font-size:12px;color:#aaa}
-.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
-.news-item:last-child{border-bottom:none}
-.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
-.news-index.active{background:#27ae60;color:#fff}
-.news-body{padding-left:30px}
-.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
-.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
-.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.news-source{font-size:11px;color:#27ae60;background:rgba(39,174,96,39,174,96,0.1);border-radius:4px;padding:2px 7px}
-.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
-.news-link:hover{color:#27ae60}
-.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
-.footer span{color:#27ae60;font-weight:600}
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    background: #eef7ee;
+    color: #2d3436;
+    line-height: 1.7;
+    padding: 20px;
+  }
+  .container { max-width: 860px; margin: 0 auto; }
+  header {
+    text-align: center;
+    padding: 36px 20px 28px;
+    background: linear-gradient(135deg, #1b5e20 0%, #2e7d32 50%, #388e3c 100%);
+    color: #fff;
+    border-radius: 10px;
+    margin-bottom: 24px;
+  }
+  header h1 { font-size: 26px; font-weight: 700; letter-spacing: 1px; }
+  header .date { font-size: 13px; opacity: .85; margin-top: 6px; }
+  header .count { font-size: 12px; opacity: .7; margin-top: 4px; }
+  .section { margin-bottom: 28px; }
+  .section-title {
+    font-size: 15px;
+    font-weight: 700;
+    color: #1b5e20;
+    padding: 8px 0;
+    border-bottom: 2px solid #4caf50;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .section-title .icon { font-size: 18px; }
+  .card {
+    background: #fff;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin-bottom: 10px;
+    border-left: 4px solid #4caf50;
+    transition: box-shadow .15s;
+  }
+  .card:hover { box-shadow: 0 2px 12px rgba(27,94,32,.12); }
+  .card .title {
+    font-size: 15px;
+    font-weight: 600;
+    color: #1b5e20;
+    margin-bottom: 5px;
+    line-height: 1.4;
+  }
+  .card .summary { font-size: 13px; color: #555; margin-bottom: 8px; }
+  .card .meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    color: #888;
+  }
+  .card .source {
+    color: #2e7d32;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  .card .source:hover { text-decoration: underline; }
+  .tag {
+    display: inline-block;
+    padding: 1px 8px;
+    border-radius: 3px;
+    font-size: 11px;
+    background: #e8f5e9;
+    color: #2e7d32;
+  }
+  footer {
+    text-align: center;
+    padding: 24px;
+    font-size: 12px;
+    color: #999;
+    border-top: 1px solid #c8e6c9;
+    margin-top: 12px;
+  }
+  footer a { color: #2e7d32; text-decoration: none; }
+  @media (max-width: 600px) {
+    body { padding: 10px; }
+    header { padding: 24px 14px 18px; }
+    header h1 { font-size: 21px; }
+    .card { padding: 12px 14px; }
+  }
 </style>
 </head>
 <body>
 <div class="container">
-<div class="header">
-<div class="header-date">2026年08月14日</div>
-<div class="header-title">🚀 AI 应用简报</div>
-<div class="header-sub">AI 工具 · 行业落地 · Agent · 商业模式</div>
-<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
-</div>
-<div class="summary-card">
-<div class="summary-title"><span class="dot"></span> 今日概览</div>
-<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">AI 工具与产品发布</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">AI + 行业落地案例</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">AI Agent 与智能体</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">AI 创业与商业模式</div></div></div>
+
+<header>
+  <h1>AI应用简报</h1>
+  <div class="date">2026年8月14日 星期五</div>
+  <div class="count">精选 8 条 · 覆盖 AI工具/行业落地/智能体/商业模式</div>
+</header>
+
+<!-- AI工具与产品发布 -->
+<div class="section">
+  <div class="section-title"><span class="icon">🛠️</span> AI工具与产品发布</div>
+
+  <div class="card">
+    <div class="title">英伟达开源 Nemotron 3.5 Lightning 智能体模型</div>
+    <div class="summary">300亿参数MoE开源模型，专为长期运行智能体设计，任务完成速度提升约30%，成本降至前沿模型近三分之一。</div>
+    <div class="meta"><span class="tag">开源模型</span><a class="source" href="https://view.inews.qq.com/a/20260812A040SJ00" target="_blank">腾讯科技 →</a></div>
+  </div>
+
+  <div class="card">
+    <div class="title">阿里云上线「千问 AI Arena」Agent 评测平台</div>
+    <div class="summary">Agent挑战与评测平台首发任务聚焦跨境电商商品上架，机器评测结合专家评审，推动Agent从跑通走向稳定交付。</div>
+    <div class="meta"><span class="tag">Agent评测</span><a class="source" href="https://view.inews.qq.com/a/20260813A09YGM00" target="_blank">亿邦动力 →</a></div>
+  </div>
 </div>
 
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月14日 03:53 更新</div>
+<!-- AI+行业落地案例 -->
+<div class="section">
+  <div class="section-title"><span class="icon">🏭</span> AI+行业落地案例</div>
+
+  <div class="card">
+    <div class="title">华为云×滴普科技联合发布数据智能方案</div>
+    <div class="summary">围绕「数据—治理—模型—智能体」全链路，聚焦智能制造与零售，打通数据孤岛让AI真正深入生产业务流程。</div>
+    <div class="meta"><span class="tag">行业落地</span><a class="source" href="https://www.163.com/dy/article/L47AN4KP0514R9OJ.html" target="_blank">环球网 →</a></div>
+  </div>
+
+  <div class="card">
+    <div class="title">东软 AI Agent 医疗智能体落地超百家医院</div>
+    <div class="summary">基于添翼医疗大模型开发120余个医疗智能体，在全国百余家医疗机构规模化应用，Agent方案落地占比超80%。</div>
+    <div class="meta"><span class="tag">AI+医疗</span><a class="source" href="https://view.inews.qq.com/a/20260813A09IGM00" target="_blank">格隆汇 →</a></div>
+  </div>
 </div>
+
+<!-- AI Agent与智能体 -->
+<div class="section">
+  <div class="section-title"><span class="icon">🤖</span> AI Agent与智能体</div>
+
+  <div class="card">
+    <div class="title">腾讯云 Cube 重构 Agent 沙箱底座</div>
+    <div class="summary">从Serverless演进为面向Agent的执行环境，冷启动低于60毫秒，支持快照、克隆、回滚与K8s部署，Agent基础设施成新焦点。</div>
+    <div class="meta"><span class="tag">Agent基础设施</span><a class="source" href="https://view.inews.qq.com/a/20260812A086OY00" target="_blank">InfoQ →</a></div>
+  </div>
+
+  <div class="card">
+    <div class="title">120家组织提议建立 AI 智能体事故追踪机制 SAFE</div>
+    <div class="summary">英伟达、思科、CrowdStrike等发起，要求披露智能体故障并保留轨迹证据，应对近期多起智能体失控事件。</div>
+    <div class="meta"><span class="tag">Agent治理</span><a class="source" href="https://new.qq.com/rain/a/20260812A09AV500" target="_blank">凤凰网 →</a></div>
+  </div>
+</div>
+
+<!-- AI创业与商业模式 -->
+<div class="section">
+  <div class="section-title"><span class="icon">💡</span> AI创业与商业模式</div>
+
+  <div class="card">
+    <div class="title">前千问负责人林俊旸创办 Pragmatik Labs，估值20亿美元</div>
+    <div class="summary">原通义千问技术负责人官宣创立语用科技，聚焦数字与物理世界下一代Agent，高榕创投、红杉中国领投，腾讯跟投。</div>
+    <div class="meta"><span class="tag">Agent创业</span><a class="source" href="https://view.inews.qq.com/a/20260812A04V1Z00" target="_blank">智东西 →</a></div>
+  </div>
+
+  <div class="card">
+    <div class="title">AI动画平台「来画」完成6800万D轮融资，押注中东漫剧</div>
+    <div class="summary">投后估值约37亿元，VinaShort布局中东AI漫剧，人均消费达国内2-3倍，海外成公司重要增长来源。</div>
+    <div class="meta"><span class="tag">AI+出海</span><a class="source" href="https://www.163.com/dy/article/L49J1IMO05118DFD.html" target="_blank">36氪 →</a></div>
+  </div>
+</div>
+
+<footer>
+  <p>AI应用简报 · 每日更新 · <a href="https://xxy20010606.github.io/briefs/ai-apps.html" target="_blank">xxy20010606.github.io/briefs/ai-apps.html</a></p>
+  <p style="margin-top:4px;">数据来源：腾讯科技 · 亿邦动力 · 环球网 · 格隆汇 · InfoQ · 凤凰网 · 智东西 · 36氪</p>
+</footer>
+
+</div>
+
+<script>
+(function(){
+  var d = new Date();
+  var p = function(n){ return (n < 10 ? '0' : '') + n; };
+  var v = '' + d.getFullYear() + p(d.getMonth()+1) + p(d.getDate());
+  var u = new URL(location.href);
+  if (u.searchParams.get('v') !== v) {
+    u.searchParams.set('v', v);
+    location.replace(u.toString());
+  }
+})();
+</script>
 </body>
 </html>
