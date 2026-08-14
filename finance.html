@@ -1,202 +1,74 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-  <meta name="Pragma" content="no-cache">
-  <title>财经简报 · 2026-08-14</title>
-  <style>
-    :root {
-      --bg: #120303;
-      --surface: #1f0808;
-      --surface-2: #2a0c0c;
-      --accent: #e02020;
-      --accent-2: #ff4d4f;
-      --text: #f8eaea;
-      --muted: #c49b9b;
-      --up: #ff4d4f;
-      --down: #73d13d;
-      --radius: 14px;
-    }
-    * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.6;
-    }
-    header {
-      background: linear-gradient(135deg, #4a0505 0%, #9a0e0e 60%, #e02020 100%);
-      padding: 28px 20px 22px;
-      text-align: center;
-      box-shadow: 0 4px 20px rgba(224,32,32,0.25);
-    }
-    header h1 { margin: 0; font-size: 1.9rem; letter-spacing: 1px; }
-    header .date { margin-top: 6px; font-size: 0.95rem; opacity: 0.9; }
-    .strip {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px 24px;
-      padding: 12px 16px;
-      background: var(--surface);
-      border-bottom: 1px solid #3d1010;
-      font-size: 0.88rem;
-    }
-    .strip .item { display: flex; align-items: center; gap: 6px; }
-    .strip .label { color: var(--muted); }
-    .up { color: var(--up); font-weight: 700; }
-    .down { color: var(--down); font-weight: 700; }
-    main { max-width: 880px; margin: 0 auto; padding: 20px 16px 40px; }
-    .section { margin-bottom: 28px; }
-    .section-title {
-      font-size: 1.1rem;
-      font-weight: 700;
-      color: #ff7875;
-      border-left: 4px solid var(--accent);
-      padding-left: 10px;
-      margin-bottom: 12px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-    .cards { display: grid; gap: 14px; }
-    .card {
-      background: var(--surface);
-      border: 1px solid #3d1010;
-      border-radius: var(--radius);
-      padding: 16px 18px;
-      transition: transform 0.15s ease, box-shadow 0.15s ease;
-    }
-    .card:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(224,32,32,0.15); }
-    .tag {
-      display: inline-block;
-      font-size: 0.72rem;
-      font-weight: 700;
-      padding: 3px 8px;
-      border-radius: 999px;
-      background: rgba(224,32,32,0.18);
-      color: #ff9c9c;
-      margin-bottom: 8px;
-      text-transform: uppercase;
-    }
-    .card h3 { margin: 0 0 8px; font-size: 1.05rem; color: #fff; }
-    .card p { margin: 0 0 8px; color: var(--muted); font-size: 0.92rem; }
-    .card ul { margin: 6px 0 0; padding-left: 18px; color: #e8c8c8; font-size: 0.9rem; }
-    .card li { margin-bottom: 5px; }
-    .card a { color: #ff9c9c; font-size: 0.82rem; text-decoration: none; word-break: break-all; }
-    .card a:hover { text-decoration: underline; }
-    footer { text-align: center; color: #8b5a5a; font-size: 0.8rem; padding: 20px; }
-    @media (max-width: 520px) {
-      header h1 { font-size: 1.55rem; }
-      .strip { gap: 8px 14px; font-size: 0.82rem; }
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>📊 财经简报 · 2026年08月14日</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
+.container{max-width:420px;margin:0 auto}
+.header{background:linear-gradient(135deg,#1a1a2e, #16213e);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#e74c3c;flex-shrink:0}
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
+.news-item:last-child{border-bottom:none}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#e74c3c;color:#fff}
+.news-body{padding-left:30px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
+.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.news-source{font-size:11px;color:#e74c3c;background:rgba(231,76,60,231,76,60,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#e74c3c}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
+.footer span{color:#e74c3c;font-weight:600}
+</style>
 </head>
 <body>
-  <header>
-    <h1>📊 财经简报</h1>
-    <div class="date">2026年8月14日 · 过去24小时要闻精选</div>
-  </header>
+<div class="container">
+<div class="header">
+<div class="header-date">2026年08月14日</div>
+<div class="header-title">📊 财经简报</div>
+<div class="header-sub">科技金融 · A股港股 · 美联储 · 一级市场</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
+</div>
+<div class="summary-card">
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">宏观政策</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">金融科技动态</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">资本市场表现</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">投融资事件</div></div></div>
+</div>
 
-  <div class="strip">
-    <div class="item"><span class="label">沪指</span><span class="down">3926.96 -0.50%</span></div>
-    <div class="item"><span class="label">深成指</span><span class="down">14289.44 -0.87%</span></div>
-    <div class="item"><span class="label">创业板指</span><span class="down">3586.04 -0.45%</span></div>
-    <div class="item"><span class="label">标普500</span><span class="up">7798.99 +0.65%</span></div>
-    <div class="item"><span class="label">纳指</span><span class="up">26803.03 +0.81%</span></div>
-    <div class="item"><span class="label">道指</span><span class="up">53839.99 +0.13%</span></div>
-  </div>
-
-  <main>
-    <section class="section">
-      <div class="section-title">🏛️ 宏观政策</div>
-      <div class="cards">
-        <div class="card">
-          <span class="tag">货币政策</span>
-          <h3>央行8月14日将开展1万亿元6个月期买断式逆回购</h3>
-          <p>为维护银行体系流动性充裕，央行公告8月14日将以固定数量、利率招标、多重价位中标方式开展10000亿元买断式逆回购操作，期限6个月。因8月有同等规模到期，本月6个月品种为等量续做；同时8月14日、17–19日将开展隔夜逆回购，每日上限6000亿元。</p>
-          <a href="http://www.zqrb.cn/finance/hongguanjingji/2026-08-14/A1786627783487.html" target="_blank">查看来源 ›</a>
-        </div>
-        <div class="card">
-          <span class="tag">贸易政策</span>
-          <h3>商务部：对印度进口单模光纤继续征收反倾销税5年</h3>
-          <p>8月13日商务部公布期终复审裁定，自8月14日起对原产于印度的进口单模光纤继续征收反倾销税，实施期限5年。同日国新办发布会披露，全国碳排放权交易市场累计成交量已突破9.3亿吨，并将扩大到石化、化工等高排放行业。</p>
-          <a href="https://www.cnfin.com/hb-lb/detail/20260814/4455084_1.html" target="_blank">查看来源 ›</a>
-        </div>
-      </div>
-    </section>
-
-    <section class="section">
-      <div class="section-title">🏦 金融科技动态</div>
-      <div class="cards">
-        <div class="card">
-          <span class="tag">数字人民币</span>
-          <h3>数字人民币借“桥”出海提速，货币桥交易额近5000亿元</h3>
-          <p>兴业、平安、邮储等股份制银行相继落地货币桥澳门支付、代理模式跨境汇款及大额并购资金划转。央行数字货币研究所所长穆长春透露，货币桥项目已有49家商业银行参与，累计交易额折合人民币近5000亿元；数字人民币国际运营中心“数币达”也已与26家境内外机构签约。</p>
-          <a href="https://field.10jqka.com.cn/20260814/c678942027.shtml" target="_blank">查看来源 ›</a>
-        </div>
-        <div class="card">
-          <span class="tag">金融基础设施</span>
-          <h3>财政数字化监管提速，分布式数据库从金融核心外溢</h3>
-          <p>多地财政厅发文开展政府采购文件AI辅助合规性审查并发布公务租车新规；OceanBase服务超400家金融机构、近七成万亿级银行核心系统，正将金融级分布式数据库能力向央国企、数字政府及八大核心行业外溢。</p>
-          <a href="https://new.qq.com/rain/a/20260814A02T6X00" target="_blank">查看来源 ›</a>
-        </div>
-      </div>
-    </section>
-
-    <section class="section">
-      <div class="section-title">📈 资本市场表现</div>
-      <div class="cards">
-        <div class="card">
-          <span class="tag">A股</span>
-          <h3>A股放量收跌，超4300只个股下跌</h3>
-          <p>8月13日三大指数集体收绿：沪指跌0.50%报3926.96点，深成指跌0.87%，创业板指跌0.45%。沪深两市成交额约2.55万亿元，较前一交易日放量近4000亿元；全市场超4300只个股下跌。盘面上医药、算力租赁概念活跃，贵金属、光通信等高位赛道回调。</p>
-          <a href="https://www.toutiao.com/article/7673678522409353766/" target="_blank">查看来源 ›</a>
-        </div>
-        <div class="card">
-          <span class="tag">美股</span>
-          <h3>美股三大指数收涨，标普500再创历史新高</h3>
-          <p>道指涨0.13%，标普500涨0.65%报7798.99点再创收盘新高，纳指涨0.81%报26803.03点。存储板块大涨，闪迪涨超13%，西部数据、海力士涨超7%；光通信板块走低，Coherent跌约8%。国际油价下跌，WTI原油跌2.47%报81.21美元/桶。</p>
-          <a href="https://www.nbd.com.cn/articles/2026-08-14/4541582.html" target="_blank">查看来源 ›</a>
-        </div>
-      </div>
-    </section>
-
-    <section class="section">
-      <div class="section-title">💰 投融资事件</div>
-      <div class="cards">
-        <div class="card">
-          <span class="tag">大额融资</span>
-          <h3>张雪机车获红杉中国1.5亿元独家投资，估值60亿元</h3>
-          <p>8月13日，国产高性能摩托车品牌张雪机车宣布获得红杉中国独家投资，金额约1.5亿元，投后估值达60亿元。该公司半年内估值从A轮10.9亿元暴涨近5倍，2026年营收有望达20–25亿元，此前在WSBK世界超级摩托车锦标赛实现中国品牌“零的突破”。</p>
-          <a href="https://cj.sina.cn/article/norm_detail?url=https%3A%2F%2Ffinance.sina.com.cn%2Fstock%2Fhkstock%2Fhkzmt%2F2026-08-14%2Fdoc-ininfvzx9476341.shtml" target="_blank">查看来源 ›</a>
-        </div>
-        <div class="card">
-          <span class="tag">机器人赛道</span>
-          <h3>顺为资本密集押注机器人及智能出行</h3>
-          <p>8月13日，深圳诺仕机器人宣布完成近亿元A+轮融资，由雷军旗下顺为资本领投，用于微型行星滚柱丝杠产能扩张；前大疆产品经理创立的迅路创新完成超亿元融资，顺为资本持续跟投。同日小米汽车被曝推出澎程增程车，入局增程市场。</p>
-          <a href="https://new.qq.com/rain/a/20260814A04MRL00" target="_blank">查看来源 ›</a>
-        </div>
-      </div>
-    </section>
-  </main>
-
-  <footer>数据截至 2026-08-13 收盘 · 来源公开财经媒体报道</footer>
-
-<script>
-(function(){
-  var d = new Date();
-  var p = function(n){ return (n < 10 ? '0' : '') + n; };
-  var v = '' + d.getFullYear() + p(d.getMonth()+1) + p(d.getDate());
-  var u = new URL(location.href);
-  if (u.searchParams.get('v') !== v) {
-    u.searchParams.set('v', v);
-    location.replace(u.toString());
-  }
-})();
-</script>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月14日 03:53 更新</div>
+</div>
 </body>
 </html>
