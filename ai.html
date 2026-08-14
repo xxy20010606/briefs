@@ -17,7 +17,6 @@
   }
   .container { max-width: 720px; margin: 0 auto; padding: 24px 16px 48px; }
 
-  /* Header */
   .header {
     text-align: center;
     padding: 32px 0 20px;
@@ -33,100 +32,47 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
   }
-  .header .date {
-    font-size: 14px;
-    color: #a78bfa;
-    margin-top: 6px;
-  }
-  .header .count {
-    font-size: 12px;
-    color: #7c6ba0;
-    margin-top: 4px;
-  }
+  .header .date { font-size: 14px; color: #a78bfa; margin-top: 6px; }
+  .header .count { font-size: 12px; color: #7c6ba0; margin-top: 4px; }
 
-  /* Category */
   .category { margin-bottom: 24px; }
   .cat-head {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    margin-bottom: 12px;
-    font-size: 15px;
-    font-weight: 700;
-    color: #c084fc;
-    letter-spacing: 0.5px;
+    display: flex; align-items: center; gap: 8px;
+    margin-bottom: 12px; font-size: 15px; font-weight: 700;
+    color: #c084fc; letter-spacing: 0.5px;
   }
   .cat-head .dot {
-    width: 8px; height: 8px;
-    border-radius: 50%;
-    background: #a78bfa;
-    box-shadow: 0 0 8px rgba(167,139,250,0.5);
+    width: 8px; height: 8px; border-radius: 50%;
+    background: #a78bfa; box-shadow: 0 0 8px rgba(167,139,250,0.5);
   }
 
-  /* Card */
   .card {
     background: rgba(255,255,255,0.04);
     border: 1px solid rgba(180,130,240,0.12);
-    border-radius: 10px;
-    padding: 16px 18px;
-    margin-bottom: 10px;
+    border-radius: 10px; padding: 16px 18px; margin-bottom: 10px;
     transition: border-color 0.2s, background 0.2s;
   }
-  .card:hover {
-    border-color: rgba(167,139,250,0.3);
-    background: rgba(255,255,255,0.07);
-  }
-  .card .title {
-    font-size: 15px;
-    font-weight: 600;
-    color: #e9d5ff;
-    margin-bottom: 6px;
-    line-height: 1.5;
-  }
-  .card .summary {
-    font-size: 13px;
-    color: #9b8ab8;
-    margin-bottom: 8px;
-    line-height: 1.5;
-  }
-  .card .meta {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 6px;
-  }
+  .card:hover { border-color: rgba(167,139,250,0.3); background: rgba(255,255,255,0.07); }
+  .card .title { font-size: 15px; font-weight: 600; color: #e9d5ff; margin-bottom: 6px; line-height: 1.5; }
+  .card .summary { font-size: 13px; color: #9b8ab8; margin-bottom: 8px; line-height: 1.5; }
+  .card .meta { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 6px; }
   .card .source {
-    font-size: 11px;
-    color: #7c6ba0;
-    background: rgba(167,139,250,0.1);
-    padding: 2px 8px;
-    border-radius: 4px;
+    font-size: 11px; color: #7c6ba0;
+    background: rgba(167,139,250,0.1); padding: 2px 8px; border-radius: 4px;
   }
   .card .link {
-    font-size: 11px;
-    color: #a78bfa;
-    text-decoration: none;
-    border-bottom: 1px dotted rgba(167,139,250,0.3);
-    transition: color 0.2s;
+    font-size: 11px; color: #a78bfa; text-decoration: none;
+    border-bottom: 1px dotted rgba(167,139,250,0.3); transition: color 0.2s;
   }
   .card .link:hover { color: #c084fc; }
 
-  /* Footer */
   .footer {
-    text-align: center;
-    padding: 24px 0 0;
-    border-top: 1px solid rgba(180,130,240,0.15);
-    margin-top: 8px;
-    font-size: 12px;
-    color: #5c4d80;
+    text-align: center; padding: 24px 0 0;
+    border-top: 1px solid rgba(180,130,240,0.15); margin-top: 8px;
+    font-size: 12px; color: #5c4d80;
   }
   .footer a { color: #7c6ba0; text-decoration: none; }
   .footer a:hover { color: #a78bfa; }
-
-  /* Loading shimmer */
-  @keyframes shimmer { 0%{opacity:0.3} 50%{opacity:0.6} 100%{opacity:0.3} }
-  .pulse { animation: shimmer 2s ease-in-out infinite; }
 </style>
 </head>
 <body>
@@ -136,98 +82,91 @@
     <div class="icon">🤖</div>
     <h1>AI 每日简报</h1>
     <div class="date">2026 年 8 月 14 日 · 星期五</div>
-    <div class="count">精选 8 条 · 覆盖产业政策、大模型、应用商业化、投融资</div>
+    <div class="count">精选 12 条 · 覆盖 头条 / 模型产品 / 国内政策 / 投融资 / 开发者工具</div>
   </div>
 
-  <!-- 分类一：AI产业政策与监管 -->
+  <!-- 今日头条 -->
   <div class="category">
-    <div class="cat-head"><span class="dot"></span>AI 产业政策与监管</div>
-
+    <div class="cat-head"><span class="dot"></span>今日头条</div>
     <div class="card">
-      <div class="title">欧盟扩大《人工智能法》适用范围：聊天机器人须明示 AI 身份</div>
-      <div class="summary">自 8 月 2 日起欧盟进一步扩围 AI 法，聊天机器人须明示非人类互动、深度伪造内容须标识，违规最高罚 1500 万欧元或全球年营业额 3%。</div>
-      <div class="meta">
-        <span class="source">经济日报</span>
-        <a class="link" href="https://view.inews.qq.com/a/20260814A03GES00" target="_blank">查看原文 →</a>
-      </div>
+      <div class="title">Gemini 3.7 Flash 突袭发布，谷歌换帅后首个大动作</div>
+      <div class="summary">Google DeepMind 8/13 发 Gemini 3.7 Flash，距上代仅三周，强化编程与智能体，API 价格砍半。</div>
+      <div class="meta"><span class="source">InfoQ</span><a class="link" href="https://view.inews.qq.com/a/20260814A0569I00" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
     </div>
-  </div>
-
-  <!-- 分类二：大模型最新进展 -->
-  <div class="category">
-    <div class="cat-head"><span class="dot"></span>大模型最新进展</div>
-
     <div class="card">
-      <div class="title">谷歌发布 Gemini 3.7 Flash：主打编程与智能体，价格大幅下调</div>
-      <div class="summary">美东 8 月 13 日谷歌推出 Gemini 3.7 Flash，号称"最智能的工作型模型"，代码调试与生产级代码生成能力显著提升，定价大幅下调。</div>
-      <div class="meta">
-        <span class="source">华尔街见闻</span>
-        <a class="link" href="https://view.inews.qq.com/a/20260814A01RSO00" target="_blank">查看原文 →</a>
-      </div>
-    </div>
-
-    <div class="card">
-      <div class="title">DeepSeek-V4-Pro 正式版上线：智能体能力升级，定价上调约 40%</div>
-      <div class="summary">8 月 14 日凌晨 V4-Pro 正式版在 App、网页与 API 同步更新，多轮理解与自主执行能力增强，计费调至每小时 15 美元，较上代涨幅近一倍。</div>
-      <div class="meta">
-        <span class="source">超能网 / 赛迪网</span>
-        <a class="link" href="https://view.inews.qq.com/a/20260814A02CYV00" target="_blank">查看原文 →</a>
-      </div>
-    </div>
-
-    <div class="card">
-      <div class="title">OpenAI 联合 Cerebras 预览 GPT-5.6 Sol 超高速模式，提速 14 倍</div>
-      <div class="summary">Ultrafast 模式输出最高 750 tokens/s，较标准模式约 53 tokens/s 提升 14 倍且不降质，将率先在 OpenAI API 推出有限预览。</div>
-      <div class="meta">
-        <span class="source">凤凰网科技</span>
-        <a class="link" href="https://tech.ifeng.com/c/8vZiYFl3ZBw" target="_blank">查看原文 →</a>
-      </div>
+      <div class="title">DeepSeek-V4-Pro 正式版波折上线，开源 Harness v0.1</div>
+      <div class="summary">DeepSeek-V4-Pro 8/14 官宣上线，同步以 MIT 协议开源"一切皆插件"的 Harness 开发者框架。</div>
+      <div class="meta"><span class="source">21世纪经济报道</span><a class="link" href="https://view.inews.qq.com/a/20260814A053AI00" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
     </div>
   </div>
 
-  <!-- 分类三：AI应用与商业化 -->
+  <!-- 模型/产品发布 -->
   <div class="category">
-    <div class="cat-head"><span class="dot"></span>AI 应用与商业化</div>
-
+    <div class="cat-head"><span class="dot"></span>模型 / 产品发布</div>
     <div class="card">
-      <div class="title">OpenAI 年内二度更换首席营收官，加速商业化落地</div>
-      <div class="summary">任命前 Wiz 高管 Dali Rajic 为新 CRO，技术负责人 Lightcap 等多名高管接连离任；7 月企业客户收入环比涨 32%，周活用户破 10 亿。</div>
-      <div class="meta">
-        <span class="source">彭博社 / 赛迪网</span>
-        <a class="link" href="https://www.ccidnet.com/AIqqy/1122976.jhtml" target="_blank">查看原文 →</a>
-      </div>
+      <div class="title">OpenAI 预览 GPT-5.6 Ultrafast，发布构建者指南</div>
+      <div class="summary">OpenAI 预览 GPT-5.6 Ultrafast（Cerebras 14 倍速 / 750 token 每秒），并发布《GPT-5.6 构建者指南》。</div>
+      <div class="meta"><span class="source">新智元</span><a class="link" href="https://view.inews.qq.com/a/20260814A042PY00" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
     </div>
-
     <div class="card">
-      <div class="title">AI 合成图冒充剧照带货：手链售出超万件，侵权乱象待规范</div>
-      <div class="summary">AI 短剧"段宴同款"手链靠一张网友 AI 合成图售出超 1 万件、销售额破百万，剧方与商家均未授权，律师指商家或涉不正当竞争。</div>
-      <div class="meta">
-        <span class="source">北京日报客户端</span>
-        <a class="link" href="https://view.inews.qq.com/a/20260814A00O7H00" target="_blank">查看原文 →</a>
-      </div>
+      <div class="title">MiniMax 开源 Music 3.0 与 H3 视频模型</div>
+      <div class="summary">MiniMax 开源 Music 3.0（单次生成 5 分钟音乐）与 H3 视频模型（登顶 Video Edit Arena）。</div>
+      <div class="meta"><span class="source">MiniMax / 经济日报</span><a class="link" href="https://www.communeify.com/en/blog/ai-daily-2026-08-14" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
+    </div>
+    <div class="card">
+      <div class="title">Ilya 的 SSI 首个模型曝光，OpenAI 推 Computer History</div>
+      <div class="summary">SSI 结束"只融资不发产品"；OpenAI 推 Computer History，把 macOS 操作史变为模型长期记忆。</div>
+      <div class="meta"><span class="source">商派 ShopeX</span><a class="link" href="https://www.shopex.cn/news/35118" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
     </div>
   </div>
 
-  <!-- 分类四：投融资与资本动态 -->
+  <!-- 国内产业与政策 -->
   <div class="category">
-    <div class="cat-head"><span class="dot"></span>投融资与资本动态</div>
-
+    <div class="cat-head"><span class="dot"></span>国内产业与政策</div>
     <div class="card">
-      <div class="title">AI 数据平台 Databricks 完成 50 亿美元融资，估值升至 1900 亿</div>
-      <div class="summary">由 Coatue、黑石、MGX 领投，投后估值较半年前 1340 亿大幅提升，年化营收超 70 亿美元、二季度同比增超 80%。</div>
-      <div class="meta">
-        <span class="source">财联社</span>
-        <a class="link" href="https://view.inews.qq.com/a/20260814A00SUA00" target="_blank">查看原文 →</a>
-      </div>
+      <div class="title">"清朗·整治 AI 应用乱象"第二阶段开启</div>
+      <div class="summary">网信办从"管平台"延伸到"管内容"，备案成市场准入门槛（988 款生成式 AI 已备案）。</div>
+      <div class="meta"><span class="source">腾讯新闻</span><a class="link" href="https://new.qq.com/rain/a/20260813A0B2M400" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
     </div>
-
     <div class="card">
-      <div class="title">前 OpenAI 专家姜旭创立的亮源新创完成数亿元 Pre-A 轮融资</div>
-      <div class="summary">国科投资领投，招商局创投、襄禾资本参投，资金投向超大规模具身智能模型训练与软硬件全栈平台，探索物理 AGI。</div>
-      <div class="meta">
-        <span class="source">新京报</span>
-        <a class="link" href="https://www.bjnews.com.cn/detail/1786671346129834.html" target="_blank">查看原文 →</a>
-      </div>
+      <div class="title">五部门《人工智能拟人化互动服务管理暂行办法》施行</div>
+      <div class="summary">办法自 7/15 施行，禁止向未成年人提供虚拟亲密关系，对老年人服务须显著提示风险。</div>
+      <div class="meta"><span class="source">国家网信办</span><a class="link" href="https://lnast.net/info/20260413/1228269732805738496.html" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
+    </div>
+    <div class="card">
+      <div class="title">国家网信办等印发《智能体规范应用与创新发展实施意见》</div>
+      <div class="summary">从顶层设计明确智能体发展原则、重点任务与安全底线，推动规模化落地与规范化并行。</div>
+      <div class="meta"><span class="source">大众网</span><a class="link" href="http://gzylhyzx.com/detail.html?newsId=40768931&qid=W7" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
+    </div>
+  </div>
+
+  <!-- 投融资与资本 -->
+  <div class="category">
+    <div class="cat-head"><span class="dot"></span>投融资与资本</div>
+    <div class="card">
+      <div class="title">Databricks 完成 50 亿美元融资，估值 1900 亿</div>
+      <div class="summary">Coatue 领投、黑石 / MGX 参投，年化营收破 70 亿美元、同比增超 80%，加码 Agent 基础设施。</div>
+      <div class="meta"><span class="source">财联社</span><a class="link" href="https://www.theblockbeats.info/flash/361485" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
+    </div>
+    <div class="card">
+      <div class="title">英伟达搭 5000 亿 AI 融资平台，亮源新创获数亿元 Pre-A</div>
+      <div class="summary">英伟达联合贝莱德等撬动算力资金；前 OpenAI 专家姜旭创企亮源新创获国科投资领投。</div>
+      <div class="meta"><span class="source">TechSugar / 贝果财经</span><a class="link" href="https://view.inews.qq.com/a/20260813A03ULL00" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
+    </div>
+  </div>
+
+  <!-- 开发者工具/技巧 -->
+  <div class="category">
+    <div class="cat-head"><span class="dot"></span>开发者工具 / 技巧</div>
+    <div class="card">
+      <div class="title">Claude Code v2.1.232：fork 子代理默认开、GitLab 全面支持</div>
+      <div class="summary">本周最大发布：子代理 fork 默认继承上下文、跨会话 @ 提及、GitLab 全面支持，约 12 项新增。</div>
+      <div class="meta"><span class="source">Claude Code 日报</span><a class="link" href="https://claude-news.today/en/briefings/briefing-2026-08-14" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
+    </div>
+    <div class="card">
+      <div class="title">Claude Code auto 模式成新会话默认</div>
+      <div class="summary">8/14 起 Pro/Max/Team 新会话默认 auto，分类器审查动作，push/PR 默认放行但可设 ask/deny。</div>
+      <div class="meta"><span class="source">dev.to</span><a class="link" href="https://dev.to/rulestack/auto-mode-is-now-claude-codes-default-what-the-classifier-approves-and-how-to-switch-back-4j2j" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
     </div>
   </div>
 
@@ -237,18 +176,5 @@
   </div>
 
 </div>
-
-<script>
-(function(){
-  var d = new Date();
-  var p = function(n){ return (n < 10 ? '0' : '') + n; };
-  var v = '' + d.getFullYear() + p(d.getMonth()+1) + p(d.getDate());
-  var u = new URL(location.href);
-  if (u.searchParams.get('v') !== v) {
-    u.searchParams.set('v', v);
-    location.replace(u.toString());
-  }
-})();
-</script>
 </body>
 </html>
