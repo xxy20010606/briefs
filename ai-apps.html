@@ -3,38 +3,55 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="0">
 <title>🚀 AI 应用简报 · 2026年08月15日</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f0f4f8;color:#1a202c;line-height:1.7;padding:16px}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
 .container{max-width:420px;margin:0 auto}
-.header{background:linear-gradient(135deg,#27ae60,#1565c0);border-radius:16px;padding:24px 20px;color:#fff;margin-bottom:16px}
-.header-date{font-size:12px;color:rgba(255,255,255,0.7);letter-spacing:1px;margin-bottom:6px}
-.header-title{font-size:22px;font-weight:700}
-.header-sub{font-size:13px;color:rgba(255,255,255,0.75);margin-top:6px}
-.summary-card{background:#ffffff;border-radius:14px;padding:16px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
-.summary-title{font-size:14px;font-weight:600;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.header{background:linear-gradient(135deg,#27ae60, #1e8449);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#27ae60;flex-shrink:0}
 .summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.summary-item{background:#f8fafc;border-radius:10px;padding:12px;text-align:center}
-.summary-num{font-size:20px;font-weight:700;color:#27ae60}
-.summary-label{font-size:11px;color:#666;margin-top:2px}
-.section{background:#ffffff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
-.section-header{padding:14px 18px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
-.section-name{font-size:15px;font-weight:700}
-.section-count{margin-left:auto;font-size:12px;color:#999}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
 .news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
 .news-item:last-child{border-bottom:none}
-.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#e2e8f0;font-size:11px;font-weight:700;color:#555;display:flex;align-items:center;justify-content:center}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#27ae60;color:#fff}
 .news-body{padding-left:30px}
-.news-title{font-size:14px;font-weight:600;line-height:1.5;margin-bottom:6px}
-.news-summary{font-size:12.5px;color:#555;line-height:1.6;margin-bottom:8px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
 .news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.news-source{font-size:11px;color:#27ae60;background:rgba(39,174,96,0.1);border-radius:4px;padding:2px 7px}
-.news-link{font-size:11px;color:#999;text-decoration:none}
-.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#999}
+.news-source{font-size:11px;color:#27ae60;background:rgba(39,174,96,39,174,96,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#27ae60}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
 .footer span{color:#27ae60;font-weight:600}
 </style>
 </head>
@@ -44,139 +61,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 <div class="header-date">2026年08月15日</div>
 <div class="header-title">🚀 AI 应用简报</div>
 <div class="header-sub">AI 工具 · 行业落地 · Agent · 商业模式</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
 </div>
 <div class="summary-card">
-<div class="summary-title"><span style="width:6px;height:6px;border-radius:50%;background:#27ae60;display:inline-block"></span> 今日概览</div>
-<div class="summary-grid"><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">AI 工具与产品发布</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">AI + 行业落地案例</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">AI Agent 与智能体</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">AI 创业与商业模式</div></div></div>
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">AI 工具与产品发布</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">AI + 行业落地案例</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">AI Agent 与智能体</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">AI 创业与商业模式</div></div></div>
 </div>
 
-  <div class="section">
-    <div class="section-header">
-      <div class="section-name">AI 工具与产品发布</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">1</div>
-      <div class="news-body">
-        <div class="news-title">DeepSeek发布Harness v0.1并MIT开源</div>
-        <div class="news-summary">DeepSeek发布首个Agent产品Harness，以Cordis插件系统实现模型、工具、Agent Loop全插件化，发布12小时GitHub破5万星。</div>
-        <div class="news-meta">
-          <span class="news-source">极客公园</span>
-          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">2</div>
-      <div class="news-body">
-        <div class="news-title">ChatGPT Ultrafast模式提速14倍，每秒750 token</div>
-        <div class="news-summary">OpenAI Ultrafast模式让GPT-5.6 Sol推理速度达每秒750 token，同时上线计算机操作记忆功能，长任务效率大幅跃升。</div>
-        <div class="news-meta">
-          <span class="news-source">量子位</span>
-          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section">
-    <div class="section-header">
-      <div class="section-name">AI + 行业落地案例</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">3</div>
-      <div class="news-body">
-        <div class="news-title">华强北AI眼镜销量激增100%，前7月全品类销售增55%</div>
-        <div class="news-summary">央视财经报道今年前7个月华强北AI产品全品类销售额同比增长55%以上，AI眼镜销量激增100%，无人机、机器人增60%-70%。</div>
-        <div class="news-meta">
-          <span class="news-source">央视财经</span>
-          <a class="news-link" href="https://www.163.com/dy/article/L4C47JGB0534A4SC.html" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">4</div>
-      <div class="news-body">
-        <div class="news-title">百度凭借AI办公赛道提前布局率先突围</div>
-        <div class="news-summary">百度凭借对AI办公赛道的提前布局，在BAT同赛道竞争中率先突围，文心生态与办公场景深度绑定。</div>
-        <div class="news-meta">
-          <span class="news-source">36氪</span>
-          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section">
-    <div class="section-header">
-      <div class="section-name">AI Agent 与智能体</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">5</div>
-      <div class="news-body">
-        <div class="news-title">Anthropic实验让Claude自动维护App，累计提交388个PR</div>
-        <div class="news-summary">Claude之父披露实验：过去几周让Claude每日自动巡检、提PR，累计388个PR中180个已合并，工程师只剩签字环节。</div>
-        <div class="news-meta">
-          <span class="news-source">新智元</span>
-          <a class="news-link" href="https://new.qq.com/rain/a/20260815A03S9Z00" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">6</div>
-      <div class="news-body">
-        <div class="news-title">Qwen3.8-27B原生支持Agent与262K上下文</div>
-        <div class="news-summary">Qwen3.8-27B Dense多模态模型开源，原生支持Agent与262K上下文（可扩1M），DeepSWE从13.3升至42.2。</div>
-        <div class="news-meta">
-          <span class="news-source">AI修猫Prompt</span>
-          <a class="news-link" href="https://new.qq.com/rain/a/20260815A03S9Z00" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section">
-    <div class="section-header">
-      <div class="section-name">AI 创业与商业模式</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">7</div>
-      <div class="news-body">
-        <div class="news-title">Cognition洽谈400亿美元估值融资，Lovable确认133亿美元估值</div>
-        <div class="news-summary">AI编程公司Cognition据报正以400亿美元估值融资；无代码平台Lovable确认133亿美元估值并再融4亿美元。</div>
-        <div class="news-meta">
-          <span class="news-source">TechCrunch</span>
-          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">8</div>
-      <div class="news-body">
-        <div class="news-title">智谱ARR突破10亿美元，为国内首家</div>
-        <div class="news-summary">智谱年度经常性收入ARR突破10亿美元，成为国内首家；ZCode用户破百万，GLM-5.3拿下多个开源SOTA。</div>
-        <div class="news-meta">
-          <span class="news-source">36氪</span>
-          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月15日 10:34 更新</div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月15日 02:42 更新</div>
 </div>
-
-<script>
-(function(){
-  var d = new Date();
-  var p = function(n){ return (n < 10 ? '0' : '') + n; };
-  var v = '' + d.getFullYear() + p(d.getMonth()+1) + p(d.getDate());
-  var u = new URL(location.href);
-  if (u.searchParams.get('v') !== v) {
-    u.searchParams.set('v', v);
-    location.replace(u.toString());
-  }
-})();
-</script>
-
 </body>
 </html>

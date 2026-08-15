@@ -3,38 +3,55 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="0">
 <title>⚡ 新能源简报 · 2026年08月15日</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f0f4f8;color:#1a202c;line-height:1.7;padding:16px}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
 .container{max-width:420px;margin:0 auto}
-.header{background:linear-gradient(135deg,#e67e22,#1565c0);border-radius:16px;padding:24px 20px;color:#fff;margin-bottom:16px}
-.header-date{font-size:12px;color:rgba(255,255,255,0.7);letter-spacing:1px;margin-bottom:6px}
-.header-title{font-size:22px;font-weight:700}
-.header-sub{font-size:13px;color:rgba(255,255,255,0.75);margin-top:6px}
-.summary-card{background:#ffffff;border-radius:14px;padding:16px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
-.summary-title{font-size:14px;font-weight:600;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.header{background:linear-gradient(135deg,#e67e22, #d35400);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#e67e22;flex-shrink:0}
 .summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.summary-item{background:#f8fafc;border-radius:10px;padding:12px;text-align:center}
-.summary-num{font-size:20px;font-weight:700;color:#e67e22}
-.summary-label{font-size:11px;color:#666;margin-top:2px}
-.section{background:#ffffff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
-.section-header{padding:14px 18px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
-.section-name{font-size:15px;font-weight:700}
-.section-count{margin-left:auto;font-size:12px;color:#999}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
 .news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
 .news-item:last-child{border-bottom:none}
-.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#e2e8f0;font-size:11px;font-weight:700;color:#555;display:flex;align-items:center;justify-content:center}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#e67e22;color:#fff}
 .news-body{padding-left:30px}
-.news-title{font-size:14px;font-weight:600;line-height:1.5;margin-bottom:6px}
-.news-summary{font-size:12.5px;color:#555;line-height:1.6;margin-bottom:8px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
 .news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.news-source{font-size:11px;color:#e67e22;background:rgba(230,126,34,0.1);border-radius:4px;padding:2px 7px}
-.news-link{font-size:11px;color:#999;text-decoration:none}
-.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#999}
+.news-source{font-size:11px;color:#e67e22;background:rgba(230,126,34,230,126,34,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#e67e22}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
 .footer span{color:#e67e22;font-weight:600}
 </style>
 </head>
@@ -44,139 +61,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 <div class="header-date">2026年08月15日</div>
 <div class="header-title">⚡ 新能源简报</div>
 <div class="header-sub">光伏风电 · 储能电池 · 电动车 · 碳中和</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
 </div>
 <div class="summary-card">
-<div class="summary-title"><span style="width:6px;height:6px;border-radius:50%;background:#e67e22;display:inline-block"></span> 今日概览</div>
-<div class="summary-grid"><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">政策与市场</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">产业链动态</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">企业动态</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">投融资与出海</div></div></div>
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">0</div><div class="summary-label">政策与市场</div></div><div class="summary-item blue"><div class="summary-num">0</div><div class="summary-label">产业链动态</div></div><div class="summary-item green"><div class="summary-num">0</div><div class="summary-label">企业动态</div></div><div class="summary-item orange"><div class="summary-num">0</div><div class="summary-label">投融资与出海</div></div></div>
 </div>
 
-  <div class="section">
-    <div class="section-header">
-      <div class="section-name">政策与市场</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">1</div>
-      <div class="news-body">
-        <div class="news-title">我国新能源产业支撑全球最大规模新能源汽车推广</div>
-        <div class="news-summary">我国构建全球最大最完整新能源产业链，生产全球80%以上光伏组件和70%风电装备，上半年锂电池出口总额同比增长43%。</div>
-        <div class="news-meta">
-          <span class="news-source">人民网</span>
-          <a class="news-link" href="https://politics.people.com.cn/n1/2026/0815/c461001-40779966.html" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">2</div>
-      <div class="news-body">
-        <div class="news-title">2026能源经济论坛举办，储能确立为新型电力系统核心支撑</div>
-        <div class="news-summary">2026能源经济与碳达峰碳中和高质量发展论坛在陕西榆林举办，储能被确立为新型电力系统核心支撑与调节电源。</div>
-        <div class="news-meta">
-          <span class="news-source">巨丰投顾</span>
-          <a class="news-link" href="https://m.10jqka.com.cn/20260815/c678981879.shtml" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section">
-    <div class="section-header">
-      <div class="section-name">产业链动态</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">3</div>
-      <div class="news-body">
-        <div class="news-title">8月储能电芯排产预计达125GWh，海外大型储能成核心动力</div>
-        <div class="news-summary">产业调研显示2026年8月国内储能电芯排产规模预计达125GWh，占整体排产41%，环比新增约10GWh，海外大型储能市场拉动明显。</div>
-        <div class="news-meta">
-          <span class="news-source">巨丰投顾</span>
-          <a class="news-link" href="https://m.10jqka.com.cn/20260815/c678981879.shtml" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">4</div>
-      <div class="news-body">
-        <div class="news-title">光伏行业落后产能加速出清，市场情绪回暖</div>
-        <div class="news-summary">光伏行业反内卷工作持续推进，低效落后产能加速退出，头部企业市占率存在进一步提升空间，多家光伏企业股票涨停。</div>
-        <div class="news-meta">
-          <span class="news-source">巨丰投顾</span>
-          <a class="news-link" href="https://m.10jqka.com.cn/20260815/c678981879.shtml" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section">
-    <div class="section-header">
-      <div class="section-name">企业动态</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">5</div>
-      <div class="news-body">
-        <div class="news-title">新能源车国内渗透率历史性突破50%</div>
-        <div class="news-summary">2026年中国新能源汽车国内渗透率历史性突破50%，新三样（电动汽车、锂电池、光伏产品）成为出口新名片。</div>
-        <div class="news-meta">
-          <span class="news-source">凤凰WEEKLY</span>
-          <a class="news-link" href="https://www.toutiao.com/article/7673815753115664902" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">6</div>
-      <div class="news-body">
-        <div class="news-title">上半年新能源重卡累计销量同比增长78.6%</div>
-        <div class="news-summary">今年上半年全国新能源重卡累计销量同比增长78.6%，高速服务区配建光伏、储能、充电桩设备护航规模化应用。</div>
-        <div class="news-meta">
-          <span class="news-source">人民网</span>
-          <a class="news-link" href="https://politics.people.com.cn/n1/2026/0815/c461001-40779966.html" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section">
-    <div class="section-header">
-      <div class="section-name">投融资与出海</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">7</div>
-      <div class="news-body">
-        <div class="news-title">中国何以扛过航运危机？新能源转型布局全球</div>
-        <div class="news-summary">霍尔木兹海峡断航危机中，中国展现非一般风险承受力，围绕石油安全推进多元化，壮大光伏、电池、电动车、风电和储能产业。</div>
-        <div class="news-meta">
-          <span class="news-source">凤凰WEEKLY</span>
-          <a class="news-link" href="https://www.toutiao.com/article/7673815753115664902" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">8</div>
-      <div class="news-body">
-        <div class="news-title">锂电池行业多重利好催化，排产维持高位</div>
-        <div class="news-summary">近期锂电池行业市场表现亮眼，核心驱动包括储能政策密集落地、光伏供给端出清、锂电池产业链整体排产维持高位运行。</div>
-        <div class="news-meta">
-          <span class="news-source">巨丰投顾</span>
-          <a class="news-link" href="https://m.10jqka.com.cn/20260815/c678981879.shtml" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月15日 10:34 更新</div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月15日 02:42 更新</div>
 </div>
-
-<script>
-(function(){
-  var d = new Date();
-  var p = function(n){ return (n < 10 ? '0' : '') + n; };
-  var v = '' + d.getFullYear() + p(d.getMonth()+1) + p(d.getDate());
-  var u = new URL(location.href);
-  if (u.searchParams.get('v') !== v) {
-    u.searchParams.set('v', v);
-    location.replace(u.toString());
-  }
-})();
-</script>
-
 </body>
 </html>
