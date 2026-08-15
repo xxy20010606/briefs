@@ -4,37 +4,57 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta http-equiv="Pragma" content="no-cache">
+<meta name="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 <title>🤖 AI 产业简报 · 2026年08月15日</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f0f4f8;color:#1a202c;line-height:1.7;padding:16px}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
 .container{max-width:420px;margin:0 auto}
-.header{background:linear-gradient(135deg,#6c5ce7,#1565c0);border-radius:16px;padding:24px 20px;color:#fff;margin-bottom:16px}
-.header-date{font-size:12px;color:rgba(255,255,255,0.7);letter-spacing:1px;margin-bottom:6px}
-.header-title{font-size:22px;font-weight:700}
-.header-sub{font-size:13px;color:rgba(255,255,255,0.75);margin-top:6px}
-.summary-card{background:#ffffff;border-radius:14px;padding:16px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
-.summary-title{font-size:14px;font-weight:600;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.header{background:linear-gradient(135deg,#6c5ce7, #4a3cd4);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#6c5ce7;flex-shrink:0}
 .summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.summary-item{background:#f8fafc;border-radius:10px;padding:12px;text-align:center}
-.summary-num{font-size:20px;font-weight:700;color:#6c5ce7}
-.summary-label{font-size:11px;color:#666;margin-top:2px}
-.section{background:#ffffff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
-.section-header{padding:14px 18px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
-.section-name{font-size:15px;font-weight:700}
-.section-count{margin-left:auto;font-size:12px;color:#999}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
 .news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
 .news-item:last-child{border-bottom:none}
-.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#e2e8f0;font-size:11px;font-weight:700;color:#555;display:flex;align-items:center;justify-content:center}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#6c5ce7;color:#fff}
 .news-body{padding-left:30px}
-.news-title{font-size:14px;font-weight:600;line-height:1.5;margin-bottom:6px}
-.news-summary{font-size:12.5px;color:#555;line-height:1.6;margin-bottom:8px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
 .news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.news-source{font-size:11px;color:#6c5ce7;background:rgba(108,92,231,0.1);border-radius:4px;padding:2px 7px}
-.news-link{font-size:11px;color:#999;text-decoration:none}
-.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#999}
+.news-source{font-size:11px;color:#6c5ce7;background:rgba(108,92,231,108,92,231,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#6c5ce7}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
 .footer span{color:#6c5ce7;font-weight:600}
 </style>
 </head>
@@ -44,125 +64,119 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 <div class="header-date">2026年08月15日</div>
 <div class="header-title">🤖 AI 产业简报</div>
 <div class="header-sub">大模型 · 智能体 · 具身智能 · 投融资</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
 </div>
 <div class="summary-card">
-<div class="summary-title"><span style="width:6px;height:6px;border-radius:50%;background:#6c5ce7;display:inline-block"></span> 今日概览</div>
-<div class="summary-grid"><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">大模型最新进展</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">AI 应用与商业化</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">AI 产业政策与监管</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">投融资与资本动态</div></div></div>
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">AI 产业政策与监管</div></div><div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">大模型最新进展</div></div><div class="summary-item green"><div class="summary-num">1</div><div class="summary-label">AI 应用与商业化</div></div><div class="summary-item orange"><div class="summary-num">2</div><div class="summary-label">投融资与资本动态</div></div></div>
 </div>
 
   <div class="section">
     <div class="section-header">
-      <div class="section-name">大模型最新进展</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">1</div>
-      <div class="news-body">
-        <div class="news-title">阿里开源Qwen3.8系列模型，27B可家用显卡运行</div>
-        <div class="news-summary">阿里千问开源Qwen3.8系列，其中Qwen3.8-27B原生多模态稠密模型超越Qwen3.7-Plus，采用Apache2.0协议，量化后消费级显卡可运行。</div>
-        <div class="news-meta">
-          <span class="news-source">腾讯网</span>
-          <a class="news-link" href="https://view.inews.qq.com/a/20260815A00U2S00" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">2</div>
-      <div class="news-body">
-        <div class="news-title">智谱发布GLM-5.3模型，编程能力提升50%</div>
-        <div class="news-summary">智谱发布GLM-5.3模型，总参数7430亿，代码能力较上代提升50%，在Terminal Bench 3.0等基准拿下开源SOTA，完整权重两周后开源。</div>
-        <div class="news-meta">
-          <span class="news-source">智东西</span>
-          <a class="news-link" href="https://new.qq.com/rain/a/20260815A02RPO00" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section">
-    <div class="section-header">
-      <div class="section-name">AI 应用与商业化</div>
-      <div class="section-count">2 条</div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">3</div>
-      <div class="news-body">
-        <div class="news-title">谷歌Gemini应用月活用户突破10亿</div>
-        <div class="news-summary">Google官方确认Gemini应用月活用户突破10亿，成为增长最快的AI消费应用之一；同时Gemini 3.7 Flash定价直接腰斩。</div>
-        <div class="news-meta">
-          <span class="news-source">TechCrunch</span>
-          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">4</div>
-      <div class="news-body">
-        <div class="news-title">OpenAI关停Atlas浏览器，上线仅297天</div>
-        <div class="news-summary">OpenAI宣布关闭AI浏览器产品Atlas，从上线到回收仅297天，AI浏览器超级入口革命暂时受挫。</div>
-        <div class="news-meta">
-          <span class="news-source">36氪</span>
-          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="section">
-    <div class="section-header">
+      <div class="section-icon policy">📜</div>
       <div class="section-name">AI 产业政策与监管</div>
       <div class="section-count">2 条</div>
     </div>
     <div class="news-item">
-      <div class="news-index">5</div>
+      <div class="news-index active">1</div>
       <div class="news-body">
-        <div class="news-title">中国大模型API调用量连续15周超越美国</div>
-        <div class="news-summary">最新数据显示中国大模型API调用量已连续15周超越美国，DeepSeek V4 Flash后行业开始卷智效比。</div>
+        <div class="news-title">A股牛市吹哨人财经有料哥：今天股市震荡调整，大盘指数高开低走全线翻绿，国家队资金加速撤离股市。</div>
+        <div class="news-summary">A股牛市吹哨人财经有料哥：今天股市震荡调整，大盘指数高开低走全线翻绿，国家队资金加速撤离股市。&amp;nb...</div>
         <div class="news-meta">
-          <span class="news-source">中新经纬</span>
-          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
+          <span class="news-source">雪球</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmOFNvZE42SHRVcmNWRzYyRWY5Wk5BQkMxTjExaU1ZZGRuQ2Q1VS11bXZQYi1YMWlpcTlkMnJ2UTlhdXB4M1V2VHd6T19lQU56?oc=5">查看原文</a>
         </div>
       </div>
     </div>
     <div class="news-item">
-      <div class="news-index">6</div>
+      <div class="news-index active">2</div>
       <div class="news-body">
-        <div class="news-title">中消协点名AI客服转人工难、答非所问</div>
-        <div class="news-summary">中国消费者协会点名批评AI客服转人工难、答非所问、推诿责任等问题，企业客服AI化面临合规与体验双重要求。</div>
+        <div class="news-title">特朗普政府陷入诡异困境：若美联储越鸽派，10年期美债收益率反而涨得越凶？ 港美股资讯</div>
+        <div class="news-summary">特朗普政府陷入诡异困境：若美联储越鸽派，10年期美债收益率反而涨得越凶？ 港美股资讯&amp;nbsp;&amp;n...</div>
         <div class="news-meta">
-          <span class="news-source">三易生活</span>
-          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
+          <span class="news-source">hstong.com</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YZHVYNGxVTUtxcVkydXhFVHlzb1hSbld0bzdpSEM1blllUTRXaGZxSEZjUGJqbjktbjlNMkVuRnJpdTJkZk1zaE1MRWg0RHpyX2NiNVpObDUtSzItNHd6cEJ3?oc=5">查看原文</a>
         </div>
       </div>
     </div>
   </div>
   <div class="section">
     <div class="section-header">
-      <div class="section-name">投融资与资本动态</div>
+      <div class="section-icon model">🧠</div>
+      <div class="section-name">大模型最新进展</div>
       <div class="section-count">2 条</div>
     </div>
     <div class="news-item">
-      <div class="news-index">7</div>
+      <div class="news-index ">3</div>
       <div class="news-body">
-        <div class="news-title">Anthropic Q2营收飙至115亿美元，同比涨超14倍</div>
-        <div class="news-summary">Anthropic二季度营收超115亿美元，同比暴增超14倍，商业化兑现速度惊人；市场热议其2万亿美元IPO估值。</div>
+        <div class="news-title">【NIFD季报】2026年上半年股票市场</div>
+        <div class="news-summary">【NIFD季报】2026年上半年股票市场&amp;nbsp;&amp;nbsp;21财经</div>
         <div class="news-meta">
-          <span class="news-source">华尔街见闻</span>
-          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
+          <span class="news-source">21财经</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXVibU9lbl9RT19jSWpFSWNrTnJXMDV2OUltaEtiYjBkcDFLVTQ4SkVqTFh2ejNPeTZxNmo5WEt2c2dWTm9xWUJXT24zM295d01PdzJQcGwzbG9yRlFkeE9CTnVLV0FTWVJ5UGRERi1RMkUzQ2tpb1NLWHZpNGtDLWFDVTNqbGJwOHFGbw?oc=5">查看原文</a>
         </div>
       </div>
     </div>
     <div class="news-item">
-      <div class="news-index">8</div>
+      <div class="news-index ">4</div>
       <div class="news-body">
-        <div class="news-title">AMD创纪录发债47.5亿美元加码AI投入</div>
-        <div class="news-summary">AMD发行创纪录47.5亿美元债券为AI投入融资，2026年以来大型科技公司纷纷举债加码AI，芯片厂商资金结构正在改变。</div>
+        <div class="news-title">人设打造 伪造战绩 跨平台导流，起底伪财经“大V”收割流水线</div>
+        <div class="news-summary">人设打造 伪造战绩 跨平台导流，起底伪财经“大V”收割流水线&amp;nbsp;&amp;nbsp;新华网客户端</div>
         <div class="news-meta">
-          <span class="news-source">36氪</span>
-          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
+          <span class="news-source">新华网客户端</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMimgFBVV95cUxOQjNjWnF4MnhOU2dtdmFhQ2V0bk0yTXFvdi11RXdHdmRkajdSUzZFMWJLcExCYnBURm1zeVNGZ0pIVTdLdDUyWnZjWmdMVzRtdkl3Znl3OE1XZ3BadWhVREtFR0JJdDlTeXZMOWlIVV82OGk2M1Z0WlAtTmJjLXZwMDUyU0I5MnJBbkJKNVN5a043MWQ4bjlsTWN3?oc=5">查看原文</a>
         </div>
       </div>
     </div>
   </div>
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月15日 10:34 更新</div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon app">🔧</div>
+      <div class="section-name">AI 应用与商业化</div>
+      <div class="section-count">1 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">5</div>
+      <div class="news-body">
+        <div class="news-title">沪指时隔7年再上4000点大关</div>
+        <div class="news-summary">沪指时隔7年再上4000点大关&amp;nbsp;&amp;nbsp;人民网</div>
+        <div class="news-meta">
+          <span class="news-source">人民网</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMib0FVX3lxTE9xcS1mY1kwR19PM1p0WWdTVF9Ka3d4bnF4WWh5QlhHaVA4WDBtVlZSZlBOUFRpaFJRN2lTckFBM2xFMUVBdk5HX0Z5N3lDUGhOd2lqeTRrVElpbndBMjVhUlRDVlhyUmp3Wk9zQUN5Yw?oc=5">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon capital">💰</div>
+      <div class="section-name">投融资与资本动态</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">6</div>
+      <div class="news-body">
+        <div class="news-title">财经夜行线0624丨韩国股市震荡“牵连”全球科技股 AI投资前景如何预期？</div>
+        <div class="news-summary">财经夜行线0624丨韩国股市震荡“牵连”全球科技股 AI投资前景如何预期？&amp;nbsp;&amp;nbsp;第...</div>
+        <div class="news-meta">
+          <span class="news-source">第一财经</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WNDZfd1E3XzhPc1UyaEozaWU5Z3VaWE5TUFRhcmJFd3RFbF9lRzk4SzhSTnFsVUo0V2ZpR3pXSnNSMVNQdzF5SWhqWnZGdUxWYUJrcw?oc=5">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index ">7</div>
+      <div class="news-body">
+        <div class="news-title">投资者猛烈抛售 亚洲三股市遭重创</div>
+        <div class="news-summary">投资者猛烈抛售 亚洲三股市遭重创&amp;nbsp;&amp;nbsp;orientaldaily.com.my</div>
+        <div class="news-meta">
+          <span class="news-source">orientaldaily.com.my</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMickFVX3lxTE5RdDViZ2hDYXl0UnU4Z1lwTHFUZTFqaWp0Qy16bDFkZ3JIX1ZvaGtCQnZEVUZJbjAyVTZEOEtyNFhXcWNlandoZ01ZYlp4NjZ3cmZYN05hZFFsNGpzeUJaRlFzNjB6bzhIRjNxWVlpR3EzUQ?oc=5">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月15日 02:52 更新</div>
 </div>
 
 <script>
@@ -171,10 +185,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
   var p = function(n){ return (n < 10 ? '0' : '') + n; };
   var v = '' + d.getFullYear() + p(d.getMonth()+1) + p(d.getDate());
   var u = new URL(location.href);
-  if (u.searchParams.get('v') !== v) {
-    u.searchParams.set('v', v);
-    location.replace(u.toString());
-  }
+  if (u.searchParams.get('v') !== v) { u.searchParams.set('v', v); location.replace(u.toString()); }
 })();
 </script>
 
