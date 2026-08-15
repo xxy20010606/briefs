@@ -1,1 +1,4 @@
 .ghtoken
+scripts/.news_cache.json
+__pycache__/
+*.pyc

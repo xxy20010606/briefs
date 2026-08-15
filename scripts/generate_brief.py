@@ -2,9 +2,23 @@
 """Daily Brief Generator - 日报生成器
 Usage: python generate_brief.py --type [finance|ai|ai_apps|newenergy|entertainment|semiconductor]
 """
-import argparse, json, os, re, time
+import argparse, json, os, re, time, io
+import urllib.parse
 from datetime import datetime, timedelta
 from html import escape
+
+# 防缓存自动重定向脚本（普通字符串，避免 f-string 误解析 JS 中的 {}）
+REDIRECT_SCRIPT = """
+<script>
+(function(){
+  var d = new Date();
+  var p = function(n){ return (n < 10 ? '0' : '') + n; };
+  var v = '' + d.getFullYear() + p(d.getMonth()+1) + p(d.getDate());
+  var u = new URL(location.href);
+  if (u.searchParams.get('v') !== v) { u.searchParams.set('v', v); location.replace(u.toString()); }
+})();
+</script>
+"""
 
 try:
     import feedparser
@@ -16,6 +30,17 @@ except ImportError:
     import requests
 
 # ── Configuration ──────────────────────────────────────
+
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+# 主数据源：Google News 中文 RSS（云端/美国环境稳定可达，本地被墙属正常）
+GOOGLE_QUERIES = {
+    "finance": ["财经 A股 股市", "美联储 降息", "港股 美股 行情"],
+    "ai": ["人工智能 大模型", "AI 智能体 agent", "ChatGPT 发布 融资"],
+    "ai_apps": ["AI 应用 工具", "AI Agent 创业", "AI 产品 发布"],
+    "newenergy": ["新能源 光伏 储能", "电动车 电池 比亚迪", "碳中和 风电"],
+    "entertainment": ["电影 票房 上映", "综艺 热播", "游戏 电竞", "明星 官宣"],
+    "semiconductor": ["半导体 芯片", "晶圆 光刻机", "GPU 英伟达 存储", "中芯国际 代工"],
+}
 
 CACHE_FILE = "scripts/.news_cache.json"
 CACHE_HOURS = 6
@@ -132,45 +157,82 @@ def save_cache(items):
     with open(CACHE_FILE, "w") as f:
         json.dump({"ts": time.time(), "items": items}, f)
 
+def fetch_google_news(query, max_items=15):
+    """从 Google News 中文 RSS 抓取（云端环境稳定可达）。"""
+    url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(query) \
+          + "&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    try:
+        r = requests.get(url, headers=UA, timeout=20)
+        fp = feedparser.parse(io.BytesIO(r.content))
+        out = []
+        for e in fp.entries[:max_items]:
+            title = e.get("title", "").strip()
+            src = ""
+            if " - " in title:
+                title, src = title.rsplit(" - ", 1)
+            summary = re.sub(r"<[^>]+>", "", e.get("summary", ""))
+            summary = re.sub(r"\s+", " ", summary).strip()
+            if len(summary) > 200:
+                summary = summary[:200] + "..."
+            out.append({
+                "title": title,
+                "summary": summary,
+                "link": e.get("link", ""),
+                "source": src or "Google News",
+                "date": e.get("published", ""),
+            })
+        return out
+    except Exception as ex:
+        print(f"  ⚠ Google News [{query}]: {ex}")
+        return []
+
+
 def fetch_news(brief_type):
-    """Fetch and deduplicate news from RSS feeds."""
+    """抓取新闻：主源 Google News（云端稳定），补充直连 RSS（失败即跳过）。"""
     cached = load_cache()
     if cached:
         return cached
 
-    all_items = []
-    seen_titles = set()
+    items = []
+    seen = set()
 
+    # 主源：Google News 多关键词查询
+    for q in GOOGLE_QUERIES.get(brief_type, []):
+        for it in fetch_google_news(q):
+            if it["title"] and it["title"] not in seen:
+                seen.add(it["title"])
+                items.append(it)
+
+    # 补充：直连 RSS（rsshub 等可能超时，短超时跳过不影响主源）
     for url, source_name in FEEDS.get(brief_type, []):
         try:
-            feed = feedparser.parse(url)
-            for entry in feed.entries[:15]:
+            r = requests.get(url, headers=UA, timeout=8)
+            fp = feedparser.parse(io.BytesIO(r.content))
+            for entry in fp.entries[:15]:
                 title = entry.get("title", "").strip()
-                if len(title) < 4 or title in seen_titles:
+                if len(title) < 4 or title in seen:
                     continue
-                seen_titles.add(title)
-
-                summary = entry.get("summary", "") or entry.get("description", "")
-                summary = re.sub(r"<[^>]+>", "", summary)
+                seen.add(title)
+                summary = re.sub(r"<[^>]+>", "", entry.get("summary", "") or entry.get("description", ""))
                 summary = re.sub(r"\s+", " ", summary).strip()
                 if len(summary) > 200:
                     summary = summary[:200] + "..."
-
-                link = entry.get("link", "")
-                published = entry.get("published", "") or entry.get("updated", "")
-
-                all_items.append({
+                items.append({
                     "title": title,
                     "summary": summary,
-                    "link": link,
+                    "link": entry.get("link", ""),
                     "source": source_name,
-                    "date": published,
+                    "date": entry.get("published", "") or entry.get("updated", ""),
                 })
         except Exception as e:
             print(f"  ⚠ {url}: {e}")
 
-    save_cache(all_items)
-    return all_items
+    if not items:
+        print("  ⚠ 全部源抓取为空，本次不写入（保留上次内容）")
+        return []
+
+    save_cache(items)
+    return items
 
 
 def categorize(items, brief_type):
@@ -319,6 +381,9 @@ def build_html(brief_type, categorized, gemini_summaries=None):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta name="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <title>{config['title']} · {today}</title>
 <style>
 *{{box-sizing:border-box;margin:0;padding:0}}
@@ -386,6 +451,7 @@ body{{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue
 {sections}
 <div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>{now_str} 更新</div>
 </div>
+""" + REDIRECT_SCRIPT + """
 </body>
 </html>"""
 
@@ -406,6 +472,9 @@ def main():
 
     # Fetch
     items = fetch_news(bt)
+    if not items:
+        print(f"  ⚠ {config['title']} 抓取为空，跳过写入（保留上次内容），不推送")
+        return
     print(f"  ✅ 获取 {len(items)} 条新闻")
 
     # Categorize
