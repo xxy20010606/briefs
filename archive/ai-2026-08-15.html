@@ -2,169 +2,181 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta name="Pragma" content="no-cache">
-<title>AI 每日简报 · 2026-08-15</title>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>🤖 AI 产业简报 · 2026年08月15日</title>
 <style>
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-    background: linear-gradient(135deg, #1a0a2e 0%, #2d1b4e 40%, #1a0a2e 100%);
-    min-height: 100vh;
-    color: #e8d5f5;
-    line-height: 1.6;
-  }
-  .container { max-width: 720px; margin: 0 auto; padding: 24px 16px 48px; }
-
-  .header {
-    text-align: center;
-    padding: 32px 0 20px;
-    border-bottom: 1px solid rgba(180,130,240,0.2);
-    margin-bottom: 28px;
-  }
-  .header .icon { font-size: 42px; margin-bottom: 8px; }
-  .header h1 {
-    font-size: 26px;
-    font-weight: 700;
-    background: linear-gradient(135deg, #c084fc, #a78bfa, #818cf8);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-  .header .date { font-size: 14px; color: #a78bfa; margin-top: 6px; }
-  .header .count { font-size: 12px; color: #7c6ba0; margin-top: 4px; }
-
-  .category { margin-bottom: 24px; }
-  .cat-head {
-    display: flex; align-items: center; gap: 8px;
-    margin-bottom: 12px; font-size: 15px; font-weight: 700;
-    color: #c084fc; letter-spacing: 0.5px;
-  }
-  .cat-head .dot {
-    width: 8px; height: 8px; border-radius: 50%;
-    background: #a78bfa; box-shadow: 0 0 8px rgba(167,139,250,0.5);
-  }
-
-  .card {
-    background: rgba(255,255,255,0.04);
-    border: 1px solid rgba(180,130,240,0.12);
-    border-radius: 10px; padding: 16px 18px; margin-bottom: 10px;
-    transition: border-color 0.2s, background 0.2s;
-  }
-  .card:hover { border-color: rgba(167,139,250,0.3); background: rgba(255,255,255,0.07); }
-  .card .title { font-size: 15px; font-weight: 600; color: #e9d5ff; margin-bottom: 6px; line-height: 1.5; }
-  .card .summary { font-size: 13px; color: #9b8ab8; margin-bottom: 8px; line-height: 1.5; }
-  .card .meta { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 6px; }
-  .card .source {
-    font-size: 11px; color: #7c6ba0;
-    background: rgba(167,139,250,0.1); padding: 2px 8px; border-radius: 4px;
-  }
-  .card .link {
-    font-size: 11px; color: #a78bfa; text-decoration: none;
-    border-bottom: 1px dotted rgba(167,139,250,0.3); transition: color 0.2s;
-  }
-  .card .link:hover { color: #c084fc; }
-
-  .footer {
-    text-align: center; padding: 24px 0 0;
-    border-top: 1px solid rgba(180,130,240,0.15); margin-top: 8px;
-    font-size: 12px; color: #5c4d80;
-  }
-  .footer a { color: #7c6ba0; text-decoration: none; }
-  .footer a:hover { color: #a78bfa; }
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f0f4f8;color:#1a202c;line-height:1.7;padding:16px}
+.container{max-width:420px;margin:0 auto}
+.header{background:linear-gradient(135deg,#6c5ce7,#1565c0);border-radius:16px;padding:24px 20px;color:#fff;margin-bottom:16px}
+.header-date{font-size:12px;color:rgba(255,255,255,0.7);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.75);margin-top:6px}
+.summary-card{background:#ffffff;border-radius:14px;padding:16px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.summary-item{background:#f8fafc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:20px;font-weight:700;color:#6c5ce7}
+.summary-label{font-size:11px;color:#666;margin-top:2px}
+.section{background:#ffffff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-name{font-size:15px;font-weight:700}
+.section-count{margin-left:auto;font-size:12px;color:#999}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
+.news-item:last-child{border-bottom:none}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#e2e8f0;font-size:11px;font-weight:700;color:#555;display:flex;align-items:center;justify-content:center}
+.news-body{padding-left:30px}
+.news-title{font-size:14px;font-weight:600;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#555;line-height:1.6;margin-bottom:8px}
+.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.news-source{font-size:11px;color:#6c5ce7;background:rgba(108,92,231,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#999;text-decoration:none}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#999}
+.footer span{color:#6c5ce7;font-weight:600}
 </style>
 </head>
 <body>
 <div class="container">
-
-  <div class="header">
-    <div class="icon">🤖</div>
-    <h1>AI 每日简报</h1>
-    <div class="date">2026 年 8 月 15 日 · 星期六</div>
-    <div class="count">精选 10 条 · 覆盖 头条 / 模型产品 / 国内政策 / 投融资 / 开发者工具</div>
-  </div>
-
-  <!-- 今日头条 -->
-  <div class="category">
-    <div class="cat-head"><span class="dot"></span>今日头条</div>
-    <div class="card">
-      <div class="title">SpaceX 完成 600 亿美元全股票收购 Cursor</div>
-      <div class="summary">8/14 生效，Cursor 成 SpaceX 全资子公司，团队并入 SpaceXAI 助力 Grok 编码，史上最大 AI 初创并购之一。</div>
-      <div class="meta"><span class="source">cursor.com 官方博客</span><a class="link" href="https://cursor.com/blog/joining-spacex" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
-    </div>
-    <div class="card">
-      <div class="title">OpenAI 年化营收破 400 亿美元，企业收入首超消费者</div>
-      <div class="summary">CFO 披露企业营收已超 ChatGPT 消费端，7 月环比增 20%、企业客户增 32%，广告逼近 10 亿美元。</div>
-      <div class="meta"><span class="source">界面新闻</span><a class="link" href="https://www.jiemian.com/article/14925232.html" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
-    </div>
-  </div>
-
-  <!-- 模型/产品发布 -->
-  <div class="category">
-    <div class="cat-head"><span class="dot"></span>模型 / 产品发布</div>
-    <div class="card">
-      <div class="title">阿里开源 Qwen3.8-27B，家用显卡可跑的多模态模型</div>
-      <div class="summary">270 亿参数稠密模型，Apache 2.0，262K 上下文可扩 1M，部分基准超 Claude Opus 4.6 Max。</div>
-      <div class="meta"><span class="source">智东西 / 凤凰网科技</span><a class="link" href="https://www.toutiao.com/article/7673932678009340458/" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
-    </div>
-    <div class="card">
-      <div class="title">智谱发布 GLM-5.3，编程与安全能力开源登顶</div>
-      <div class="summary">7430 亿参数，后训练 Scaling 使编程较 GLM-5.2 提升 50%，CyberGym 84.5% 超 Mythos 5，两周内开源权重。</div>
-      <div class="meta"><span class="source">央广网 / 证券时报</span><a class="link" href="https://www.cnr.cn/jingji/ycbd/20260814/t20260814_527762577.shtml" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
-    </div>
-  </div>
-
-  <!-- 国内产业与政策 -->
-  <div class="category">
-    <div class="cat-head"><span class="dot"></span>国内产业与政策</div>
-    <div class="card">
-      <div class="title">华强北 AI 眼镜销量同比暴涨 100%</div>
-      <div class="summary">央视财经：前 7 个月 AI 产品全品类销售额增 55%+，AI 眼镜销量翻倍，无人机、机器人增 60%-70%。</div>
-      <div class="meta"><span class="source">界面新闻 / 央视财经</span><a class="link" href="https://www.163.com/dy/article/L4C47JGB0534A4SC.html" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
-    </div>
-    <div class="card">
-      <div class="title">世界机器人大会前瞻：具身智能从实验室走向量产</div>
-      <div class="summary">智身量产破 1.5 万台、优必选 U1 订单超 1.3 万台；上半年全球人形机器人出货 1.91 万台，中国占 97%。</div>
-      <div class="meta"><span class="source">新浪财经</span><a class="link" href="https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininiqkz2580267.shtml" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
-    </div>
-  </div>
-
-  <!-- 投融资与资本 -->
-  <div class="category">
-    <div class="cat-head"><span class="dot"></span>投融资与资本</div>
-    <div class="card">
-      <div class="title">英伟达 30 亿美元独家投资数据中心电力商 Lancium</div>
-      <div class="summary">继 CoreWeave 后，英伟达从算力延伸至电力，独家战略投资 30 亿美元，消纳可再生能源过剩发电。</div>
-      <div class="meta"><span class="source">IT桔子 创投周报</span><a class="link" href="https://www.163.com/dy/article/L4C3S98Q05118RLD.html" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
-    </div>
-    <div class="card">
-      <div class="title">xAI 联创创立的 River AI 完成 11 亿美元 A 轮</div>
-      <div class="summary">Igor Babuschkin 创办两月即获巨额融资，主打开放权重 AI，英伟达与 AMD 罕见同时参投。</div>
-      <div class="meta"><span class="source">IT桔子 创投周报</span><a class="link" href="https://new.qq.com/rain/a/20260815A04BAB00" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
-    </div>
-  </div>
-
-  <!-- 开发者工具/技巧 -->
-  <div class="category">
-    <div class="cat-head"><span class="dot"></span>开发者工具 / 技巧</div>
-    <div class="card">
-      <div class="title">Claude Code v2.1.233：GitLab worktree、Bash 内存上限</div>
-      <div class="summary">新增 GitLab MR --worktree、Bash 工具内存上限、WebFetch 缓存 TTL；task 追踪工具默认禁用。</div>
-      <div class="meta"><span class="source">Claude Code Daily</span><a class="link" href="https://claude-news.today/en/briefings/briefing-2026-08-15" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
-    </div>
-    <div class="card">
-      <div class="title">Anthropic 实验：Claude 接管 App 日常维护，388 PR 合并 180</div>
-      <div class="summary">Claude 之父 Boris Cherny 让 Claude 每日跑维护例程，数周开 388 个 PR、合并 180 个，审查成新瓶颈。</div>
-      <div class="meta"><span class="source">新智元</span><a class="link" href="https://view.inews.qq.com/a/20260815A03NEE00" target="_blank" rel="noopener noreferrer">查看原文 →</a></div>
-    </div>
-  </div>
-
-  <div class="footer">
-    <p>🤖 AI 每日简报 · 由 WorkBuddy 自动化生成</p>
-    <p><a href="https://xxy20010606.github.io/briefs/ai.html">xxy20010606.github.io/briefs/ai.html</a></p>
-  </div>
-
+<div class="header">
+<div class="header-date">2026年08月15日</div>
+<div class="header-title">🤖 AI 产业简报</div>
+<div class="header-sub">大模型 · 智能体 · 具身智能 · 投融资</div>
 </div>
+<div class="summary-card">
+<div class="summary-title"><span style="width:6px;height:6px;border-radius:50%;background:#6c5ce7;display:inline-block"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">大模型最新进展</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">AI 应用与商业化</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">AI 产业政策与监管</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">投融资与资本动态</div></div></div>
+</div>
+
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">大模型最新进展</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">1</div>
+      <div class="news-body">
+        <div class="news-title">阿里开源Qwen3.8系列模型，27B可家用显卡运行</div>
+        <div class="news-summary">阿里千问开源Qwen3.8系列，其中Qwen3.8-27B原生多模态稠密模型超越Qwen3.7-Plus，采用Apache2.0协议，量化后消费级显卡可运行。</div>
+        <div class="news-meta">
+          <span class="news-source">腾讯网</span>
+          <a class="news-link" href="https://view.inews.qq.com/a/20260815A00U2S00" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">2</div>
+      <div class="news-body">
+        <div class="news-title">智谱发布GLM-5.3模型，编程能力提升50%</div>
+        <div class="news-summary">智谱发布GLM-5.3模型，总参数7430亿，代码能力较上代提升50%，在Terminal Bench 3.0等基准拿下开源SOTA，完整权重两周后开源。</div>
+        <div class="news-meta">
+          <span class="news-source">智东西</span>
+          <a class="news-link" href="https://new.qq.com/rain/a/20260815A02RPO00" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">AI 应用与商业化</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">3</div>
+      <div class="news-body">
+        <div class="news-title">谷歌Gemini应用月活用户突破10亿</div>
+        <div class="news-summary">Google官方确认Gemini应用月活用户突破10亿，成为增长最快的AI消费应用之一；同时Gemini 3.7 Flash定价直接腰斩。</div>
+        <div class="news-meta">
+          <span class="news-source">TechCrunch</span>
+          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">4</div>
+      <div class="news-body">
+        <div class="news-title">OpenAI关停Atlas浏览器，上线仅297天</div>
+        <div class="news-summary">OpenAI宣布关闭AI浏览器产品Atlas，从上线到回收仅297天，AI浏览器超级入口革命暂时受挫。</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">AI 产业政策与监管</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">5</div>
+      <div class="news-body">
+        <div class="news-title">中国大模型API调用量连续15周超越美国</div>
+        <div class="news-summary">最新数据显示中国大模型API调用量已连续15周超越美国，DeepSeek V4 Flash后行业开始卷智效比。</div>
+        <div class="news-meta">
+          <span class="news-source">中新经纬</span>
+          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">6</div>
+      <div class="news-body">
+        <div class="news-title">中消协点名AI客服转人工难、答非所问</div>
+        <div class="news-summary">中国消费者协会点名批评AI客服转人工难、答非所问、推诿责任等问题，企业客服AI化面临合规与体验双重要求。</div>
+        <div class="news-meta">
+          <span class="news-source">三易生活</span>
+          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">投融资与资本动态</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">7</div>
+      <div class="news-body">
+        <div class="news-title">Anthropic Q2营收飙至115亿美元，同比涨超14倍</div>
+        <div class="news-summary">Anthropic二季度营收超115亿美元，同比暴增超14倍，商业化兑现速度惊人；市场热议其2万亿美元IPO估值。</div>
+        <div class="news-meta">
+          <span class="news-source">华尔街见闻</span>
+          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">8</div>
+      <div class="news-body">
+        <div class="news-title">AMD创纪录发债47.5亿美元加码AI投入</div>
+        <div class="news-summary">AMD发行创纪录47.5亿美元债券为AI投入融资，2026年以来大型科技公司纷纷举债加码AI，芯片厂商资金结构正在改变。</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月15日 10:34 更新</div>
+</div>
+
+<script>
+(function(){
+  var d = new Date();
+  var p = function(n){ return (n < 10 ? '0' : '') + n; };
+  var v = '' + d.getFullYear() + p(d.getMonth()+1) + p(d.getDate());
+  var u = new URL(location.href);
+  if (u.searchParams.get('v') !== v) {
+    u.searchParams.set('v', v);
+    location.replace(u.toString());
+  }
+})();
+</script>
+
 </body>
 </html>

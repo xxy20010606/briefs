@@ -2,284 +2,169 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta name="Pragma" content="no-cache">
-<title>半导体行业简报 — 2026-08-15</title>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>💻 半导体简报 · 2026年08月15日</title>
 <style>
-  :root {
-    --bg: #f0f4fa;
-    --card-bg: #ffffff;
-    --primary: #1a56db;
-    --primary-light: #e8effc;
-    --text: #1e293b;
-    --text-secondary: #64748b;
-    --border: #dbeafe;
-    --tag-bg-policy: #dbeafe;
-    --tag-text-policy: #1e40af;
-    --tag-bg-tech: #dcfce7;
-    --tag-text-tech: #166534;
-    --tag-bg-company: #fef3c7;
-    --tag-text-company: #92400e;
-    --tag-bg-finance: #fce7f3;
-    --tag-text-finance: #9d174d;
-  }
-  * { margin:0; padding:0; box-sizing:border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    line-height: 1.6;
-    min-height: 100vh;
-  }
-  .header {
-    background: linear-gradient(135deg, #1e3a8a 0%, #1a56db 50%, #2563eb 100%);
-    color: #fff;
-    padding: 32px 20px 28px;
-    text-align: center;
-    position: relative;
-    overflow: hidden;
-  }
-  .header::after {
-    content: '';
-    position: absolute;
-    bottom: 0; left: 0; right: 0;
-    height: 6px;
-    background: linear-gradient(90deg, #60a5fa, #3b82f6, #1d4ed8, #1e40af);
-  }
-  .header h1 {
-    font-size: 26px;
-    font-weight: 700;
-    letter-spacing: 1px;
-    margin-bottom: 6px;
-  }
-  .header .date {
-    font-size: 14px;
-    opacity: 0.85;
-    font-weight: 400;
-  }
-  .header .subtitle {
-    font-size: 12px;
-    opacity: 0.65;
-    margin-top: 4px;
-  }
-  .header .count-badge {
-    display: inline-block;
-    margin-top: 12px;
-    background: rgba(255,255,255,0.18);
-    border: 1px solid rgba(255,255,255,0.3);
-    border-radius: 20px;
-    padding: 4px 14px;
-    font-size: 12px;
-    font-weight: 600;
-    letter-spacing: 1px;
-  }
-  .container {
-    max-width: 720px;
-    margin: 0 auto;
-    padding: 20px 16px 40px;
-  }
-  .section {
-    margin-bottom: 24px;
-  }
-  .section-title {
-    font-size: 15px;
-    font-weight: 700;
-    color: var(--primary);
-    padding: 8px 0;
-    margin-bottom: 12px;
-    border-bottom: 2px solid var(--primary-light);
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .section-title .dot {
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: var(--primary);
-    flex-shrink: 0;
-  }
-  .section-title .cnt {
-    margin-left: auto;
-    font-size: 12px;
-    color: #94a3b8;
-    font-weight: 500;
-  }
-  .card {
-    background: var(--card-bg);
-    border-radius: 10px;
-    padding: 14px 16px;
-    margin-bottom: 10px;
-    box-shadow: 0 1px 4px rgba(30,58,138,0.06);
-    border-left: 3px solid var(--primary);
-    transition: box-shadow 0.2s;
-  }
-  .card:hover {
-    box-shadow: 0 2px 12px rgba(30,58,138,0.1);
-  }
-  .card-header {
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    gap: 8px;
-    margin-bottom: 6px;
-  }
-  .card-title {
-    font-size: 15px;
-    font-weight: 600;
-    color: var(--text);
-    flex: 1;
-  }
-  .tag {
-    font-size: 11px;
-    padding: 2px 8px;
-    border-radius: 4px;
-    white-space: nowrap;
-    font-weight: 500;
-    flex-shrink: 0;
-  }
-  .tag-policy { background: var(--tag-bg-policy); color: var(--tag-text-policy); }
-  .tag-tech { background: var(--tag-bg-tech); color: var(--tag-text-tech); }
-  .tag-company { background: var(--tag-bg-company); color: var(--tag-text-company); }
-  .tag-finance { background: var(--tag-bg-finance); color: var(--tag-text-finance); }
-  .card-summary {
-    font-size: 13px;
-    color: var(--text-secondary);
-    margin-bottom: 6px;
-    line-height: 1.5;
-  }
-  .card-source {
-    font-size: 12px;
-  }
-  .card-source a {
-    color: var(--primary);
-    text-decoration: none;
-    font-weight: 500;
-  }
-  .card-source a:hover {
-    text-decoration: underline;
-  }
-  .footer {
-    text-align: center;
-    font-size: 11px;
-    color: #94a3b8;
-    padding: 20px 0 10px;
-  }
-  .footer a {
-    color: #93c5fd;
-    text-decoration: none;
-  }
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f0f4f8;color:#1a202c;line-height:1.7;padding:16px}
+.container{max-width:420px;margin:0 auto}
+.header{background:linear-gradient(135deg,#2196f3,#1565c0);border-radius:16px;padding:24px 20px;color:#fff;margin-bottom:16px}
+.header-date{font-size:12px;color:rgba(255,255,255,0.7);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.75);margin-top:6px}
+.summary-card{background:#ffffff;border-radius:14px;padding:16px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.summary-item{background:#f8fafc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:20px;font-weight:700;color:#2196f3}
+.summary-label{font-size:11px;color:#666;margin-top:2px}
+.section{background:#ffffff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-name{font-size:15px;font-weight:700}
+.section-count{margin-left:auto;font-size:12px;color:#999}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
+.news-item:last-child{border-bottom:none}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#e2e8f0;font-size:11px;font-weight:700;color:#555;display:flex;align-items:center;justify-content:center}
+.news-body{padding-left:30px}
+.news-title{font-size:14px;font-weight:600;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#555;line-height:1.6;margin-bottom:8px}
+.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.news-source{font-size:11px;color:#2196f3;background:rgba(33,150,243,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#999;text-decoration:none}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#999}
+.footer span{color:#2196f3;font-weight:600}
 </style>
 </head>
 <body>
-
-<div class="header">
-  <h1>💻 半导体行业简报</h1>
-  <div class="date">2026年8月15日 · 周六</div>
-  <div class="subtitle">来源：证券时报 · 华尔街见闻 · EEWorld · 科创板日报 · 和讯网 · 新浪财经</div>
-  <div class="count-badge">今日共 8 条</div>
-</div>
-
 <div class="container">
-
-  <!-- 政策与产业 -->
-  <div class="section">
-    <div class="section-title"><span class="dot"></span>政策与产业<span class="cnt">2 条</span></div>
-
-    <div class="card" style="border-left-color:#1e40af;">
-      <div class="card-header">
-        <span class="card-title">四部门出台集成电路企业资产交换所得税新政，所得可5年内分期纳税</span>
-        <span class="tag tag-policy">税收政策</span>
-      </div>
-      <div class="card-summary">财政部等四部委公告，2026–2028年集成电路企业非货币性资产交换所得可不超过5年分期计入应纳税所得额，降低重组整合税负，利好行业并购与产能优化。</div>
-      <div class="card-source">来源：<a href="http://view.inews.qq.com/a/20260814A098FA00" target="_blank" rel="noopener noreferrer">证券时报·e公司</a></div>
-    </div>
-
-    <div class="card" style="border-left-color:#1e40af;">
-      <div class="card-header">
-        <span class="card-title">SIA：全球半导体月度销售额续创新高，中国仍为最大市场</span>
-        <span class="tag tag-policy">产业景气</span>
-      </div>
-      <div class="card-summary">北美半导体产业协会（SIA）数据显示全球半导体月度销售续创历史新高、同比增约三成，中国为最大单一市场；WSTS预估全年产值增幅居首的为存储（具体口径待核实）。</div>
-      <div class="card-source">来源：<a href="https://www.kotoo.com/k76255" target="_blank" rel="noopener noreferrer">工商时报（转载）</a></div>
-    </div>
-  </div>
-
-  <!-- 技术与产品 -->
-  <div class="section">
-    <div class="section-title"><span class="dot"></span>技术与产品<span class="cnt">2 条</span></div>
-
-    <div class="card" style="border-left-color:#166534;">
-      <div class="card-header">
-        <span class="card-title">英伟达Spectrum-X以太网硅光交换机全面量产，Feynman架构锁定台积电A16</span>
-        <span class="tag tag-tech">CPO/代工</span>
-      </div>
-      <div class="card-summary">全球首款200G/lane共封装光学（CPO）以太网交换机落地，激光器减至1/4、功耗降至1/5；下一代Feynman架构提前启动，导入3D Chiplet与SoIC，CPO迎来落地转折点。</div>
-      <div class="card-source">来源：<a href="https://www.toutiao.com/article/7674034983635288617/" target="_blank" rel="noopener noreferrer">华尔街见闻</a></div>
-    </div>
-
-    <div class="card" style="border-left-color:#166534;">
-      <div class="card-header">
-        <span class="card-title">EDA三巨头押注Agentic AI，国产厂商迎来差异化窗口</span>
-        <span class="tag tag-tech">EDA</span>
-      </div>
-      <div class="card-summary">Synopsys、Cadence、Siemens EDA在DAC 2026同台发布Agentic AI布局；Kimi已用K3模型自主设计芯片。芯和、芯华章、合见工软等国产EDA加速跟进，"AI设计芯片"改写行业竞争。</div>
-      <div class="card-source">来源：<a href="https://dy.163.com/article/L49DPT4H05567OC1.html" target="_blank" rel="noopener noreferrer">EEWorld电子工程世界</a></div>
-    </div>
-  </div>
-
-  <!-- 企业动态 -->
-  <div class="section">
-    <div class="section-title"><span class="dot"></span>企业动态<span class="cnt">2 条</span></div>
-
-    <div class="card" style="border-left-color:#92400e;">
-      <div class="card-header">
-        <span class="card-title">SK海力士崔泰源：2027年或现最严重存储短缺，正赴美选址前端晶圆厂</span>
-        <span class="tag tag-company">存储</span>
-      </div>
-      <div class="card-summary">SK海力士董事长崔泰源称存储需求"爆发式"增长、供应跟不上，直言"价格涨太快"，预计2027年为缺口最大之年；公司已赴美实地考察前端内存晶圆厂选址，推进供应链本地化。</div>
-      <div class="card-source">来源：<a href="https://stock.hexun.com/2026-08-15/224828927.html" target="_blank" rel="noopener noreferrer">证券时报网</a> · <a href="https://www.toutiao.com/article/7674034983635288617/" target="_blank" rel="noopener noreferrer">华尔街见闻</a></div>
-    </div>
-
-    <div class="card" style="border-left-color:#92400e;">
-      <div class="card-header">
-        <span class="card-title">LG与英伟达签署战略合作，2027年Q1推人形机器人</span>
-        <span class="tag tag-company">生态合作</span>
-      </div>
-      <div class="card-summary">双方围绕机器人、AI工厂、移动出行三大领域合作，计划2027年一季度推出搭载英伟达芯片的双足人形机器人，加速英伟达芯片在物理AI与机器人生态的落地。</div>
-      <div class="card-source">来源：<a href="https://www.toutiao.com/article/7674034983635288617/" target="_blank" rel="noopener noreferrer">华尔街见闻</a></div>
-    </div>
-  </div>
-
-  <!-- 投融资与IPO -->
-  <div class="section">
-    <div class="section-title"><span class="dot"></span>投融资与IPO<span class="cnt">2 条</span></div>
-
-    <div class="card" style="border-left-color:#9d174d;">
-      <div class="card-header">
-        <span class="card-title">车规毫米波雷达芯片独角兽加特兰科创板IPO获受理，拟募资34.89亿元</span>
-        <span class="tag tag-finance">IPO</span>
-      </div>
-      <div class="card-summary">加特兰微电子科创板上市申请获上交所受理，2025年国内车载毫米波雷达芯片市占率31.1%、居第二，累计出货超3000万颗；国产车规芯片资本化持续提速。</div>
-      <div class="card-source">来源：<a href="https://www.163.com/dy/article/L49T7EKG0550B1DU.html" target="_blank" rel="noopener noreferrer">科创板日报</a></div>
-    </div>
-
-    <div class="card" style="border-left-color:#9d174d;">
-      <div class="card-header">
-        <span class="card-title">网易孵化3D存算一体芯片企业谦合益邦完成超20亿元B轮融资</span>
-        <span class="tag tag-finance">融资</span>
-      </div>
-      <div class="card-summary">谦合益邦获国调基金、中国移动链长基金等投资，专注3D存算一体与三维集成原生芯片架构，押注突破"内存墙"瓶颈的新路线，本轮融资加码研发。</div>
-      <div class="card-source">来源：<a href="https://view.inews.qq.com/a/20260814A09D9000" target="_blank" rel="noopener noreferrer">和讯网</a></div>
-    </div>
-  </div>
-
-  <div class="footer">
-    每日更新 · <a href="https://github.com/xxy20010606/briefs" target="_blank" rel="noopener noreferrer">GitHub</a> · Powered by WorkBuddy
-  </div>
-
+<div class="header">
+<div class="header-date">2026年08月15日</div>
+<div class="header-title">💻 半导体简报</div>
+<div class="header-sub">芯片技术 · 晶圆代工 · EDA · 国产替代</div>
 </div>
+<div class="summary-card">
+<div class="summary-title"><span style="width:6px;height:6px;border-radius:50%;background:#2196f3;display:inline-block"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">政策与产业</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">技术与产品</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">企业动态</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">投融资与IPO</div></div></div>
+</div>
+
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">政策与产业</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">1</div>
+      <div class="news-body">
+        <div class="news-title">SIA：8月全球半导体销售471.8亿美元续创新高</div>
+        <div class="news-summary">北美半导体产业协会公布，8月全球半导体销售金额达471.8亿美元，月增3.3%、年增29.7%，所有区域市场和主要产品均较去年同期成长。</div>
+        <div class="news-meta">
+          <span class="news-source">MoneyDJ</span>
+          <a class="news-link" href="https://www.kotoo.com/k76255" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">2</div>
+      <div class="news-body">
+        <div class="news-title">中芯国际Q2营收首破30亿美元，AI芯片需求增40%</div>
+        <div class="news-summary">中芯国际二季度营收达30.06亿美元，同比增36.1%、环比增20%；归母净利润4.79亿美元同比暴增261.7%，AI相关芯片需求增长40%。</div>
+        <div class="news-meta">
+          <span class="news-source">首尔经济日报</span>
+          <a class="news-link" href="https://en.sedaily.com/international/2026/08/15/chinas-smic-eyes-surprise-capacity-boost-on-ai-chip-demand" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">技术与产品</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">3</div>
+      <div class="news-body">
+        <div class="news-title">英伟达Spectrum-X硅光交换机全面量产</div>
+        <div class="news-summary">英伟达宣布Spectrum-X以太网硅光交换机全面量产，为全球首款200G/lane CPO以太网交换机系统，激光器数量减至1/4、功耗降至1/5。</div>
+        <div class="news-meta">
+          <span class="news-source">AI芯+</span>
+          <a class="news-link" href="https://mp.weixin.qq.com/s" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">4</div>
+      <div class="news-body">
+        <div class="news-title">英伟达下一代Feynman架构提前启动，锁定台积电A16</div>
+        <div class="news-summary">英伟达Feynman架构提前启动，锁定台积电A16制程，全面导入3D Chiplet、SoIC系统整合芯片与CPO共封装光学。</div>
+        <div class="news-meta">
+          <span class="news-source">AI芯+</span>
+          <a class="news-link" href="https://mp.weixin.qq.com/s" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">企业动态</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">5</div>
+      <div class="news-body">
+        <div class="news-title">长江存储Q2 NAND出货份额14%跃居全球第三</div>
+        <div class="news-summary">Counterpoint数据显示，长江存储二季度NAND出货份额达14%，首次超越铠侠，仅次于三星与SK海力士，位列全球第三。</div>
+        <div class="news-meta">
+          <span class="news-source">AI芯+</span>
+          <a class="news-link" href="https://mp.weixin.qq.com/s" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">6</div>
+      <div class="news-body">
+        <div class="news-title">长鑫存储科创板上市首日暴涨466%</div>
+        <div class="news-summary">长鑫存储科创板上市首日暴涨466%，市值一度达3.65万亿元、超越工商银行成为A股第一；产能被华为、小米、腾讯等本土客户锁定。</div>
+        <div class="news-meta">
+          <span class="news-source">七思创想</span>
+          <a class="news-link" href="https://mp.weixin.qq.com/s" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">投融资与IPO</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">7</div>
+      <div class="news-body">
+        <div class="news-title">网易孵化3D存算一体芯片企业谦合益邦完成超20亿元B轮融资</div>
+        <div class="news-summary">谦合益邦完成超20亿元B轮融资，由国调基金、中国移动链长基金等投资，专注3D存算一体及三维集成原生芯片架构。</div>
+        <div class="news-meta">
+          <span class="news-source">AI芯+</span>
+          <a class="news-link" href="https://mp.weixin.qq.com/s" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">8</div>
+      <div class="news-body">
+        <div class="news-title">中科大硅臻芯片完成超亿元B轮融资</div>
+        <div class="news-summary">硅臻芯片完成超亿元B轮融资，研发万比特专用光计算集群与通用量子计算芯片组，其光量子计算整机为国内唯一可运行通用量子算法。</div>
+        <div class="news-meta">
+          <span class="news-source">AI芯+</span>
+          <a class="news-link" href="https://mp.weixin.qq.com/s" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月15日 10:34 更新</div>
+</div>
+
 <script>
 (function(){
   var d = new Date();
@@ -292,5 +177,6 @@
   }
 })();
 </script>
+
 </body>
 </html>

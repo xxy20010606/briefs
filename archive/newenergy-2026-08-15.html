@@ -1,294 +1,169 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-    <meta name="Pragma" content="no-cache">
-    <title>新能源简报 · 2026-08-15</title>
-    <style>
-        :root {
-            --orange-50: #fff7ed;
-            --orange-100: #ffedd5;
-            --orange-200: #fed7aa;
-            --orange-300: #fdba74;
-            --orange-400: #fb923c;
-            --orange-500: #f97316;
-            --orange-600: #ea580c;
-            --orange-700: #c2410c;
-            --orange-800: #9a3412;
-            --orange-900: #7c2d12;
-            --gray-50: #fafafa;
-            --gray-100: #f4f4f5;
-            --gray-200: #e4e4e7;
-            --gray-300: #d4d4d8;
-            --gray-600: #52525b;
-            --gray-700: #3f3f46;
-            --gray-800: #27272a;
-            --gray-900: #18181b;
-        }
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-            background: linear-gradient(180deg, var(--orange-50) 0%, #fff 100%);
-            color: var(--gray-800);
-            min-height: 100vh;
-            line-height: 1.6;
-        }
-        .container { max-width: 720px; margin: 0 auto; padding: 20px 16px 40px; }
-
-        /* Header */
-        .header {
-            text-align: center;
-            padding: 28px 0 20px;
-            border-bottom: 2px solid var(--orange-200);
-            margin-bottom: 24px;
-        }
-        .header .icon { font-size: 36px; margin-bottom: 6px; }
-        .header h1 {
-            font-size: 22px;
-            font-weight: 700;
-            color: var(--orange-700);
-            letter-spacing: 0.5px;
-        }
-        .header .date {
-            font-size: 13px;
-            color: var(--gray-600);
-            margin-top: 4px;
-        }
-        .header .subtitle {
-            font-size: 12px;
-            color: var(--orange-500);
-            margin-top: 2px;
-        }
-
-        /* Stat bar */
-        .stats {
-            display: flex;
-            justify-content: center;
-            gap: 24px;
-            margin-bottom: 24px;
-            flex-wrap: wrap;
-        }
-        .stat-item {
-            text-align: center;
-            background: #fff;
-            border: 1px solid var(--orange-200);
-            border-radius: 10px;
-            padding: 10px 18px;
-            min-width: 72px;
-        }
-        .stat-item .num {
-            font-size: 22px;
-            font-weight: 700;
-            color: var(--orange-600);
-        }
-        .stat-item .label {
-            font-size: 11px;
-            color: var(--gray-600);
-            margin-top: 2px;
-        }
-
-        /* Section */
-        .section { margin-bottom: 28px; }
-        .section-title {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            font-size: 16px;
-            font-weight: 700;
-            color: var(--orange-700);
-            margin-bottom: 12px;
-            padding-bottom: 6px;
-            border-bottom: 1px dashed var(--orange-200);
-        }
-        .section-title .dot {
-            width: 8px; height: 8px;
-            background: var(--orange-500);
-            border-radius: 50%;
-            display: inline-block;
-        }
-
-        /* Card */
-        .card {
-            background: #fff;
-            border-radius: 12px;
-            padding: 14px 16px;
-            margin-bottom: 10px;
-            box-shadow: 0 1px 3px rgba(249,115,22,0.08);
-            border-left: 3px solid var(--orange-400);
-            transition: transform .15s;
-        }
-        .card:hover { transform: translateX(2px); }
-        .card .card-title {
-            font-size: 15px;
-            font-weight: 600;
-            color: var(--gray-900);
-            margin-bottom: 4px;
-            line-height: 1.4;
-        }
-        .card .card-desc {
-            font-size: 13px;
-            color: var(--gray-600);
-            margin-bottom: 8px;
-            line-height: 1.5;
-        }
-        .card .card-meta {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-size: 11px;
-            color: var(--gray-600);
-        }
-        .card .card-source {
-            color: var(--orange-600);
-            font-weight: 500;
-        }
-        .card .card-link {
-            color: var(--orange-500);
-            text-decoration: none;
-            font-weight: 500;
-        }
-        .card .card-link:hover { text-decoration: underline; }
-
-        /* Footer */
-        .footer {
-            text-align: center;
-            padding: 20px 0 8px;
-            border-top: 1px solid var(--orange-100);
-            margin-top: 12px;
-        }
-        .footer .update {
-            font-size: 11px;
-            color: var(--gray-600);
-        }
-        .footer .brand {
-            font-size: 10px;
-            color: var(--orange-400);
-            margin-top: 4px;
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>⚡ 新能源简报 · 2026年08月15日</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f0f4f8;color:#1a202c;line-height:1.7;padding:16px}
+.container{max-width:420px;margin:0 auto}
+.header{background:linear-gradient(135deg,#e67e22,#1565c0);border-radius:16px;padding:24px 20px;color:#fff;margin-bottom:16px}
+.header-date{font-size:12px;color:rgba(255,255,255,0.7);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.75);margin-top:6px}
+.summary-card{background:#ffffff;border-radius:14px;padding:16px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.summary-item{background:#f8fafc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:20px;font-weight:700;color:#e67e22}
+.summary-label{font-size:11px;color:#666;margin-top:2px}
+.section{background:#ffffff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-name{font-size:15px;font-weight:700}
+.section-count{margin-left:auto;font-size:12px;color:#999}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
+.news-item:last-child{border-bottom:none}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#e2e8f0;font-size:11px;font-weight:700;color:#555;display:flex;align-items:center;justify-content:center}
+.news-body{padding-left:30px}
+.news-title{font-size:14px;font-weight:600;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#555;line-height:1.6;margin-bottom:8px}
+.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.news-source{font-size:11px;color:#e67e22;background:rgba(230,126,34,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#999;text-decoration:none}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#999}
+.footer span{color:#e67e22;font-weight:600}
+</style>
 </head>
 <body>
-    <div class="container">
-        <!-- Header -->
-        <div class="header">
-            <div class="icon">⚡</div>
-            <h1>新能源行业简报</h1>
-            <div class="date">2026 年 8 月 15 日 · 星期六</div>
-            <div class="subtitle">政策 · 产业 · 企业 · 出海</div>
-        </div>
+<div class="container">
+<div class="header">
+<div class="header-date">2026年08月15日</div>
+<div class="header-title">⚡ 新能源简报</div>
+<div class="header-sub">光伏风电 · 储能电池 · 电动车 · 碳中和</div>
+</div>
+<div class="summary-card">
+<div class="summary-title"><span style="width:6px;height:6px;border-radius:50%;background:#e67e22;display:inline-block"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">政策与市场</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">产业链动态</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">企业动态</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">投融资与出海</div></div></div>
+</div>
 
-        <!-- Stats -->
-        <div class="stats">
-            <div class="stat-item">
-                <div class="num">8</div>
-                <div class="label">今日精选</div>
-            </div>
-            <div class="stat-item">
-                <div class="num">4</div>
-                <div class="label">分类板块</div>
-            </div>
-        </div>
-
-        <!-- 政策与市场 -->
-        <div class="section">
-            <div class="section-title"><span class="dot"></span>政策与市场</div>
-
-            <div class="card">
-                <div class="card-title">7月绿证价格指数环比上涨23.1%，绿电环境价值持续抬升</div>
-                <div class="card-desc">国家能源局数据显示7月中国绿证价格指数收于222.8点，环比涨23.1%、同比涨11.2%，反映高耗能、算力等绿电采购需求升温，绿证价格成为绿电交易风向标。</div>
-                <div class="card-meta">
-                    <span class="card-source">国家能源局（央广网）</span>
-                    <a class="card-link" href="https://www.cnr.cn/jingji/gundong/20260813/t20260813_527760725.shtml" target="_blank" rel="noopener noreferrer">阅读原文 →</a>
-                </div>
-            </div>
-
-            <div class="card">
-                <div class="card-title">四川算力新政：绿电直连余电上网放宽至20%，配套2倍新能源指标</div>
-                <div class="card-desc">四川五部门印发算力网建设试行政策，突破性放开多用户绿电直连、余电上网比例放宽至20%，并按直供规模2倍给予新能源配置指标，布局三大零碳算力园区。</div>
-                <div class="card-meta">
-                    <span class="card-source">四川省发改委</span>
-                    <a class="card-link" href="https://fgw.sc.gov.cn/sfgw/qtwj/2026/8/13/7000fc4eb01c44dda321bdcb1e18c7a2.shtml" target="_blank" rel="noopener noreferrer">阅读原文 →</a>
-                </div>
-            </div>
-        </div>
-
-        <!-- 产业链动态 -->
-        <div class="section">
-            <div class="section-title"><span class="dot"></span>产业链动态</div>
-
-            <div class="card">
-                <div class="card-title">国家能源局：上半年光伏新增7176.8万千瓦，累计装机达12.72亿千瓦</div>
-                <div class="card-desc">上半年全国新增光伏并网7176.8万千瓦，分布式占58.8%；累计装机127199.4万千瓦。江苏、河南、四川新增领跑，户用河南居首，光伏全域开发格局成型。</div>
-                <div class="card-meta">
-                    <span class="card-source">国家能源局</span>
-                    <a class="card-link" href="https://finance.sina.com.cn/money/future/indu/2026-08-14/doc-ininhnxk4159537.shtml" target="_blank" rel="noopener noreferrer">阅读原文 →</a>
-                </div>
-            </div>
-
-            <div class="card">
-                <div class="card-title">华润5.4GW组件集采开标：协鑫、晶澳等四家入围，最低0.663元/W</div>
-                <div class="card-desc">华润电力2026年度5.4GW组件集采公示，协鑫、晶澳、横店东磁、华耀光电入围，报价0.663–0.712元/W，创央企集采新低，头部低价投标加速行业产能出清。</div>
-                <div class="card-meta">
-                    <span class="card-source">华润守正平台（北极星）</span>
-                    <a class="card-link" href="https://guangfu.bjx.com.cn/news/20260814/1508486.shtml" target="_blank" rel="noopener noreferrer">阅读原文 →</a>
-                </div>
-            </div>
-        </div>
-
-        <!-- 企业动态 -->
-        <div class="section">
-            <div class="section-title"><span class="dot"></span>企业动态</div>
-
-            <div class="card">
-                <div class="card-title">宁德时代拟41亿元增资中恒电气控股股东，布局算力+新型电力系统</div>
-                <div class="card-desc">中恒电气公告，宁德时代拟以40.99亿元认购控股股东中恒科技投资新增注册资本，完成后持股49%；双方将围绕算力基础设施、新能源及新型电力系统开展战略合作。</div>
-                <div class="card-meta">
-                    <span class="card-source">中恒电气公告（上证报）</span>
-                    <a class="card-link" href="https://www.cnstock.com/commonDetail/760108" target="_blank" rel="noopener noreferrer">阅读原文 →</a>
-                </div>
-            </div>
-
-            <div class="card">
-                <div class="card-title">爱旭股份累计担保253亿元达净资产492%，多家子公司资不抵债</div>
-                <div class="card-desc">爱旭股份担保总额253.02亿元、占净资产492.42%，远超50%警戒线；荷兰、新加坡海外子公司净资产为负，浙江爱旭等核心基地高负债持续亏损，偿债风险受关注。</div>
-                <div class="card-meta">
-                    <span class="card-source">爱旭股份公告（上证报）</span>
-                    <a class="card-link" href="https://paper.cnstock.com/html/2026-08/13/content_2254682.htm" target="_blank" rel="noopener noreferrer">阅读原文 →</a>
-                </div>
-            </div>
-        </div>
-
-        <!-- 投融资与出海 -->
-        <div class="section">
-            <div class="section-title"><span class="dot"></span>投融资与出海</div>
-
-            <div class="card">
-                <div class="card-title">欣界能源完成超1亿美元B轮融资，加码锂金属固态电池量产</div>
-                <div class="card-desc">固态电池企业欣界能源完成超1亿美元B轮融资，普华资本领投，资金用于锂金属固态电池量产交付与新增3GWh量产线，产线预计2026年底至2027年初投产。</div>
-                <div class="card-meta">
-                    <span class="card-source">证券时报（人民财讯）</span>
-                    <a class="card-link" href="https://stcn.com/article/detail/4075665.html" target="_blank" rel="noopener noreferrer">阅读原文 →</a>
-                </div>
-            </div>
-
-            <div class="card">
-                <div class="card-title">东方氢能拟最高11.7亿元B轮融资，东方电气同步加码氢能</div>
-                <div class="card-desc">东方电气董事会通过议案，旗下东方氢能启动不超11.7亿元B轮融资，与东方锅炉同步增资、维持52.95%控股；同时向东方风电增资33亿元，加码风光氢赛道。</div>
-                <div class="card-meta">
-                    <span class="card-source">东方电气公告（上证报）</span>
-                    <a class="card-link" href="https://paper.cnstock.com/html/2026-08/12/content_2254262.htm" target="_blank" rel="noopener noreferrer">阅读原文 →</a>
-                </div>
-            </div>
-        </div>
-
-        <!-- Footer -->
-        <div class="footer">
-            <div class="update">数据更新于 2026-08-15 10:30 · 来源：公开资讯整理</div>
-            <div class="brand">⚡ 新能源简报 · 每日更新</div>
-        </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">政策与市场</div>
+      <div class="section-count">2 条</div>
     </div>
+    <div class="news-item">
+      <div class="news-index">1</div>
+      <div class="news-body">
+        <div class="news-title">我国新能源产业支撑全球最大规模新能源汽车推广</div>
+        <div class="news-summary">我国构建全球最大最完整新能源产业链，生产全球80%以上光伏组件和70%风电装备，上半年锂电池出口总额同比增长43%。</div>
+        <div class="news-meta">
+          <span class="news-source">人民网</span>
+          <a class="news-link" href="https://politics.people.com.cn/n1/2026/0815/c461001-40779966.html" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">2</div>
+      <div class="news-body">
+        <div class="news-title">2026能源经济论坛举办，储能确立为新型电力系统核心支撑</div>
+        <div class="news-summary">2026能源经济与碳达峰碳中和高质量发展论坛在陕西榆林举办，储能被确立为新型电力系统核心支撑与调节电源。</div>
+        <div class="news-meta">
+          <span class="news-source">巨丰投顾</span>
+          <a class="news-link" href="https://m.10jqka.com.cn/20260815/c678981879.shtml" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">产业链动态</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">3</div>
+      <div class="news-body">
+        <div class="news-title">8月储能电芯排产预计达125GWh，海外大型储能成核心动力</div>
+        <div class="news-summary">产业调研显示2026年8月国内储能电芯排产规模预计达125GWh，占整体排产41%，环比新增约10GWh，海外大型储能市场拉动明显。</div>
+        <div class="news-meta">
+          <span class="news-source">巨丰投顾</span>
+          <a class="news-link" href="https://m.10jqka.com.cn/20260815/c678981879.shtml" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">4</div>
+      <div class="news-body">
+        <div class="news-title">光伏行业落后产能加速出清，市场情绪回暖</div>
+        <div class="news-summary">光伏行业反内卷工作持续推进，低效落后产能加速退出，头部企业市占率存在进一步提升空间，多家光伏企业股票涨停。</div>
+        <div class="news-meta">
+          <span class="news-source">巨丰投顾</span>
+          <a class="news-link" href="https://m.10jqka.com.cn/20260815/c678981879.shtml" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">企业动态</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">5</div>
+      <div class="news-body">
+        <div class="news-title">新能源车国内渗透率历史性突破50%</div>
+        <div class="news-summary">2026年中国新能源汽车国内渗透率历史性突破50%，新三样（电动汽车、锂电池、光伏产品）成为出口新名片。</div>
+        <div class="news-meta">
+          <span class="news-source">凤凰WEEKLY</span>
+          <a class="news-link" href="https://www.toutiao.com/article/7673815753115664902" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">6</div>
+      <div class="news-body">
+        <div class="news-title">上半年新能源重卡累计销量同比增长78.6%</div>
+        <div class="news-summary">今年上半年全国新能源重卡累计销量同比增长78.6%，高速服务区配建光伏、储能、充电桩设备护航规模化应用。</div>
+        <div class="news-meta">
+          <span class="news-source">人民网</span>
+          <a class="news-link" href="https://politics.people.com.cn/n1/2026/0815/c461001-40779966.html" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">投融资与出海</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">7</div>
+      <div class="news-body">
+        <div class="news-title">中国何以扛过航运危机？新能源转型布局全球</div>
+        <div class="news-summary">霍尔木兹海峡断航危机中，中国展现非一般风险承受力，围绕石油安全推进多元化，壮大光伏、电池、电动车、风电和储能产业。</div>
+        <div class="news-meta">
+          <span class="news-source">凤凰WEEKLY</span>
+          <a class="news-link" href="https://www.toutiao.com/article/7673815753115664902" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">8</div>
+      <div class="news-body">
+        <div class="news-title">锂电池行业多重利好催化，排产维持高位</div>
+        <div class="news-summary">近期锂电池行业市场表现亮眼，核心驱动包括储能政策密集落地、光伏供给端出清、锂电池产业链整体排产维持高位运行。</div>
+        <div class="news-meta">
+          <span class="news-source">巨丰投顾</span>
+          <a class="news-link" href="https://m.10jqka.com.cn/20260815/c678981879.shtml" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月15日 10:34 更新</div>
+</div>
 
 <script>
 (function(){
@@ -302,5 +177,6 @@
   }
 })();
 </script>
+
 </body>
 </html>

@@ -2,181 +2,167 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta name="Pragma" content="no-cache">
-<title>AI应用简报 - 2026年8月15日</title>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>🚀 AI 应用简报 · 2026年08月15日</title>
 <style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
-    background: #eef7ee;
-    color: #2d3436;
-    line-height: 1.7;
-    padding: 20px;
-  }
-  .container { max-width: 860px; margin: 0 auto; }
-  header {
-    text-align: center;
-    padding: 36px 20px 28px;
-    background: linear-gradient(135deg, #1b5e20 0%, #2e7d32 50%, #388e3c 100%);
-    color: #fff;
-    border-radius: 10px;
-    margin-bottom: 24px;
-  }
-  header h1 { font-size: 26px; font-weight: 700; letter-spacing: 1px; }
-  header .date { font-size: 13px; opacity: .85; margin-top: 6px; }
-  header .count { font-size: 12px; opacity: .7; margin-top: 4px; }
-  .section { margin-bottom: 28px; }
-  .section-title {
-    font-size: 15px;
-    font-weight: 700;
-    color: #1b5e20;
-    padding: 8px 0;
-    border-bottom: 2px solid #4caf50;
-    margin-bottom: 14px;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .section-title .icon { font-size: 18px; }
-  .card {
-    background: #fff;
-    border-radius: 8px;
-    padding: 16px 20px;
-    margin-bottom: 10px;
-    border-left: 4px solid #4caf50;
-    transition: box-shadow .15s;
-  }
-  .card:hover { box-shadow: 0 2px 12px rgba(27,94,32,.12); }
-  .card .title {
-    font-size: 15px;
-    font-weight: 600;
-    color: #1b5e20;
-    margin-bottom: 5px;
-    line-height: 1.4;
-  }
-  .card .summary { font-size: 13px; color: #555; margin-bottom: 8px; }
-  .card .meta {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-size: 12px;
-    color: #888;
-  }
-  .card .source {
-    color: #2e7d32;
-    text-decoration: none;
-    font-weight: 500;
-  }
-  .card .source:hover { text-decoration: underline; }
-  .tag {
-    display: inline-block;
-    padding: 1px 8px;
-    border-radius: 3px;
-    font-size: 11px;
-    background: #e8f5e9;
-    color: #2e7d32;
-  }
-  footer {
-    text-align: center;
-    padding: 24px;
-    font-size: 12px;
-    color: #999;
-    border-top: 1px solid #c8e6c9;
-    margin-top: 12px;
-  }
-  footer a { color: #2e7d32; text-decoration: none; }
-  @media (max-width: 600px) {
-    body { padding: 10px; }
-    header { padding: 24px 14px 18px; }
-    header h1 { font-size: 21px; }
-    .card { padding: 12px 14px; }
-  }
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f0f4f8;color:#1a202c;line-height:1.7;padding:16px}
+.container{max-width:420px;margin:0 auto}
+.header{background:linear-gradient(135deg,#27ae60,#1565c0);border-radius:16px;padding:24px 20px;color:#fff;margin-bottom:16px}
+.header-date{font-size:12px;color:rgba(255,255,255,0.7);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.75);margin-top:6px}
+.summary-card{background:#ffffff;border-radius:14px;padding:16px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.summary-item{background:#f8fafc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:20px;font-weight:700;color:#27ae60}
+.summary-label{font-size:11px;color:#666;margin-top:2px}
+.section{background:#ffffff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-name{font-size:15px;font-weight:700}
+.section-count{margin-left:auto;font-size:12px;color:#999}
+.news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
+.news-item:last-child{border-bottom:none}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#e2e8f0;font-size:11px;font-weight:700;color:#555;display:flex;align-items:center;justify-content:center}
+.news-body{padding-left:30px}
+.news-title{font-size:14px;font-weight:600;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#555;line-height:1.6;margin-bottom:8px}
+.news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.news-source{font-size:11px;color:#27ae60;background:rgba(39,174,96,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#999;text-decoration:none}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#999}
+.footer span{color:#27ae60;font-weight:600}
 </style>
 </head>
 <body>
 <div class="container">
-
-<header>
-  <h1>AI应用简报</h1>
-  <div class="date">2026年8月15日 星期六</div>
-  <div class="count">精选 8 条 · 覆盖 AI工具 / 行业落地 / 智能体 / 创业模式（与「AI简报」分工：本刊聚焦落地·工具·案例·创业）</div>
-</header>
-
-<!-- AI工具与产品发布 -->
-<div class="section">
-  <div class="section-title"><span class="icon">🛠️</span> AI工具与产品发布</div>
-
-  <div class="card">
-    <div class="title">百度文库网盘上线「库库AI」独立端，办公智能体首攻金融场景</div>
-    <div class="summary">百度办公智能体 GenFlow 定名「库库AI」并推 PC/网页/小程序/企业版独立端，AI办公 MAU 超 2500 万居行业第一，首期面向金融场景专项优化。</div>
-    <div class="meta"><span class="tag">AI办公</span><a class="source" href="https://www.xinhuanet.com/tech/20260814/b957763bbe184d11a3dbc9261e599f86/c.html" target="_blank" rel="noopener noreferrer">新华社 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="title">Seedance 2.5 上线摄图AI，支持30秒长视频直出与局部编辑</div>
-    <div class="summary">字节 Seedance 2.5 接入摄图AI，新增视频编辑、延长能力，支持图文音多素材参考，把 AI 视频从「生成」推进到「可改到满意」。</div>
-    <div class="meta"><span class="tag">AI视频</span><a class="source" href="https://www.toutiao.com/article/7673809787624178214/" target="_blank" rel="noopener noreferrer">摄图AI →</a></div>
-  </div>
+<div class="header">
+<div class="header-date">2026年08月15日</div>
+<div class="header-title">🚀 AI 应用简报</div>
+<div class="header-sub">AI 工具 · 行业落地 · Agent · 商业模式</div>
+</div>
+<div class="summary-card">
+<div class="summary-title"><span style="width:6px;height:6px;border-radius:50%;background:#27ae60;display:inline-block"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">AI 工具与产品发布</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">AI + 行业落地案例</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">AI Agent 与智能体</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">AI 创业与商业模式</div></div></div>
 </div>
 
-<!-- AI+行业落地案例 -->
-<div class="section">
-  <div class="section-title"><span class="icon">🏭</span> AI+行业落地案例</div>
-
-  <div class="card">
-    <div class="title">协和医生金山木借 GPT-5.6 破解 22 年 Crouzeix 数学猜想</div>
-    <div class="summary">协和神经外科医生金山木用 GPT-5.6-Sol 约 16 小时自主证明 2004 年提出的 Crouzeix 猜想，多位数学家与提出者本人确认正确（预印本待同行评审）。</div>
-    <div class="meta"><span class="tag">AI for Science</span><a class="source" href="https://new.qq.com/rain/a/20260815A01AI200" target="_blank" rel="noopener noreferrer">IT时代网 →</a></div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">AI 工具与产品发布</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">1</div>
+      <div class="news-body">
+        <div class="news-title">DeepSeek发布Harness v0.1并MIT开源</div>
+        <div class="news-summary">DeepSeek发布首个Agent产品Harness，以Cordis插件系统实现模型、工具、Agent Loop全插件化，发布12小时GitHub破5万星。</div>
+        <div class="news-meta">
+          <span class="news-source">极客公园</span>
+          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">2</div>
+      <div class="news-body">
+        <div class="news-title">ChatGPT Ultrafast模式提速14倍，每秒750 token</div>
+        <div class="news-summary">OpenAI Ultrafast模式让GPT-5.6 Sol推理速度达每秒750 token，同时上线计算机操作记忆功能，长任务效率大幅跃升。</div>
+        <div class="news-meta">
+          <span class="news-source">量子位</span>
+          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
   </div>
-
-  <div class="card">
-    <div class="title">京东健康/工业落地 AI：诊疗工具 + 超70款工业智能体</div>
-    <div class="summary">京东健康上线「知医/卓医」AI 诊疗工具，京东工业半年部署超 70 款智能体，AI 增量 GMV 占重点客户 6.5%、核心岗位人效提升 16.6%。</div>
-    <div class="meta"><span class="tag">产业落地</span><a class="source" href="https://new.qq.com/rain/a/20260814A0729F00" target="_blank" rel="noopener noreferrer">腾讯新闻 →</a></div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">AI + 行业落地案例</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">3</div>
+      <div class="news-body">
+        <div class="news-title">华强北AI眼镜销量激增100%，前7月全品类销售增55%</div>
+        <div class="news-summary">央视财经报道今年前7个月华强北AI产品全品类销售额同比增长55%以上，AI眼镜销量激增100%，无人机、机器人增60%-70%。</div>
+        <div class="news-meta">
+          <span class="news-source">央视财经</span>
+          <a class="news-link" href="https://www.163.com/dy/article/L4C47JGB0534A4SC.html" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">4</div>
+      <div class="news-body">
+        <div class="news-title">百度凭借AI办公赛道提前布局率先突围</div>
+        <div class="news-summary">百度凭借对AI办公赛道的提前布局，在BAT同赛道竞争中率先突围，文心生态与办公场景深度绑定。</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
   </div>
-</div>
-
-<!-- AI Agent与智能体 -->
-<div class="section">
-  <div class="section-title"><span class="icon">🤖</span> AI Agent与智能体</div>
-
-  <div class="card">
-    <div class="title">DeepSeek 开源智能体框架 Harness，「一切皆插件」抢 Agent 运行底座</div>
-    <div class="summary">DeepSeek 以 MIT 协议开源 Agent 框架 Harness v0.1，模型/工具/沙箱/UI 全插件化可替换，对标 Claude Code 与 Codex，GitHub 星标迅速破数万。</div>
-    <div class="meta"><span class="tag">开源Agent框架</span><a class="source" href="https://t.cj.sina.cn/articles/view/1887344341/707e96d504001u0za" target="_blank" rel="noopener noreferrer">观察者网 →</a></div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">AI Agent 与智能体</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">5</div>
+      <div class="news-body">
+        <div class="news-title">Anthropic实验让Claude自动维护App，累计提交388个PR</div>
+        <div class="news-summary">Claude之父披露实验：过去几周让Claude每日自动巡检、提PR，累计388个PR中180个已合并，工程师只剩签字环节。</div>
+        <div class="news-meta">
+          <span class="news-source">新智元</span>
+          <a class="news-link" href="https://new.qq.com/rain/a/20260815A03S9Z00" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">6</div>
+      <div class="news-body">
+        <div class="news-title">Qwen3.8-27B原生支持Agent与262K上下文</div>
+        <div class="news-summary">Qwen3.8-27B Dense多模态模型开源，原生支持Agent与262K上下文（可扩1M），DeepSWE从13.3升至42.2。</div>
+        <div class="news-meta">
+          <span class="news-source">AI修猫Prompt</span>
+          <a class="news-link" href="https://new.qq.com/rain/a/20260815A03S9Z00" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
   </div>
-
-  <div class="card">
-    <div class="title">微信「小微」智能体灰测扩容，自研 WeLM 模型首次亮相</div>
-    <div class="summary">腾讯首次在微信内嵌 AI 助手「小微」并有序放量，背后自研 WeLM-80B（总参800亿/激活30亿）亮相，617B 版本在研，主打消费级 Agent。</div>
-    <div class="meta"><span class="tag">消费级Agent</span><a class="source" href="https://new.qq.com/rain/a/20260813A00JNS00" target="_blank" rel="noopener noreferrer">腾讯新闻 →</a></div>
+  <div class="section">
+    <div class="section-header">
+      <div class="section-name">AI 创业与商业模式</div>
+      <div class="section-count">2 条</div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">7</div>
+      <div class="news-body">
+        <div class="news-title">Cognition洽谈400亿美元估值融资，Lovable确认133亿美元估值</div>
+        <div class="news-summary">AI编程公司Cognition据报正以400亿美元估值融资；无代码平台Lovable确认133亿美元估值并再融4亿美元。</div>
+        <div class="news-meta">
+          <span class="news-source">TechCrunch</span>
+          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
+    <div class="news-item">
+      <div class="news-index">8</div>
+      <div class="news-body">
+        <div class="news-title">智谱ARR突破10亿美元，为国内首家</div>
+        <div class="news-summary">智谱年度经常性收入ARR突破10亿美元，成为国内首家；ZCode用户破百万，GLM-5.3拿下多个开源SOTA。</div>
+        <div class="news-meta">
+          <span class="news-source">36氪</span>
+          <a class="news-link" href="http://www.luojinping.com/" target="_blank">查看原文</a>
+        </div>
+      </div>
+    </div>
   </div>
-</div>
-
-<!-- AI创业与商业模式 -->
-<div class="section">
-  <div class="section-title"><span class="icon">💡</span> AI创业与商业模式</div>
-
-  <div class="card">
-    <div class="title">SpaceX 完成 600 亿美元收购 Cursor，AI 编程工具并入 SpaceXAI</div>
-    <div class="summary">马斯克旗下 SpaceX 于 8 月 14 日完成对 AI 编程公司 Cursor 的收购，估值 600 亿美元，Cursor 团队接入全球最大 GPU 集群，AI 业务更名 SpaceXAI。</div>
-    <div class="meta"><span class="tag">AI编程收购</span><a class="source" href="https://www.163.com/dy/article/L4BK6OOS05198CJN.html" target="_blank" rel="noopener noreferrer">财联社 →</a></div>
-  </div>
-
-  <div class="card">
-    <div class="title">具身大脑公司原力无限获近 10 亿元融资，落地 100+ 场景</div>
-    <div class="summary">原力无限（INFIFORCE）完成 A 轮及 A+ 轮近 10 亿元融资，敦鸿资产领投，用于 AtomBrain 因果世界模型，已在 30 余城 100+ 场景落地。</div>
-    <div class="meta"><span class="tag">具身智能</span><a class="source" href="https://finance.sina.com.cn/roll/2026-08-14/doc-ininfvzs4257517.shtml" target="_blank" rel="noopener noreferrer">新浪科技 →</a></div>
-  </div>
-</div>
-
-<footer>
-  <p>AI应用简报 · 每日更新 · <a href="https://xxy20010606.github.io/briefs/ai-apps.html" target="_blank" rel="noopener noreferrer">xxy20010606.github.io/briefs/ai-apps.html</a></p>
-  <p style="margin-top:4px;">数据来源：新华社 · 摄图AI · IT时代网 · 腾讯新闻 · 观察者网 · 财联社 · 新浪科技</p>
-</footer>
-
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月15日 10:34 更新</div>
 </div>
 
 <script>
@@ -191,5 +177,6 @@
   }
 })();
 </script>
+
 </body>
 </html>
