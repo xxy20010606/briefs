@@ -4,37 +4,57 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta http-equiv="Pragma" content="no-cache">
+<meta name="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 <title>💻 半导体简报 · 2026年08月16日</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
 .container{max-width:420px;margin:0 auto}
-.header{background:linear-gradient(135deg,#2196f3,#1565c0);border-radius:16px;padding:24px 20px;color:#fff;margin-bottom:16px}
-.header-date{font-size:12px;color:rgba(255,255,255,0.7);letter-spacing:1px;margin-bottom:6px}
-.header-title{font-size:22px;font-weight:700}
-.header-sub{font-size:13px;color:rgba(255,255,255,0.75);margin-top:6px}
-.summary-card{background:#fff;border-radius:14px;padding:16px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
-.summary-title{font-size:14px;font-weight:600;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.header{background:linear-gradient(135deg,#2196f3, #1565c0);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#2196f3;flex-shrink:0}
 .summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
-.summary-num{font-size:20px;font-weight:700;color:#2196f3}
-.summary-label{font-size:11px;color:#666;margin-top:2px}
-.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
-.section-header{padding:14px 18px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
-.section-name{font-size:15px;font-weight:700}
-.section-count{margin-left:auto;font-size:12px;color:#999}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
 .news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
 .news-item:last-child{border-bottom:none}
-.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#e2e8f0;font-size:11px;font-weight:700;color:#555;display:flex;align-items:center;justify-content:center}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#2196f3;color:#fff}
 .news-body{padding-left:30px}
-.news-title{font-size:14px;font-weight:600;line-height:1.5;margin-bottom:6px}
-.news-summary{font-size:12.5px;color:#555;line-height:1.6;margin-bottom:8px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
 .news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.news-source{font-size:11px;color:#2196f3;background:rgba(33,150,243,0.1);border-radius:4px;padding:2px 7px}
-.news-link{font-size:11px;color:#999;text-decoration:none}
-.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#999}
+.news-source{font-size:11px;color:#2196f3;background:rgba(33,150,243,33,150,243,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#2196f3}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
 .footer span{color:#2196f3;font-weight:600}
 </style>
 </head>
@@ -43,129 +63,120 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 <div class="header">
 <div class="header-date">2026年08月16日</div>
 <div class="header-title">💻 半导体简报</div>
-<div class="header-sub">芯片技术 · 晶圆代工 · 存储 · 国产替代</div>
+<div class="header-sub">芯片技术 · 晶圆代工 · EDA · 国产替代</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
 </div>
 <div class="summary-card">
-<div class="summary-title"><span style="width:6px;height:6px;border-radius:50%;background:#2196f3;display:inline-block"></span> 今日概览</div>
-<div class="summary-grid"><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">政策与产业</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">技术与产品</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">企业动态</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">投融资与IPO</div></div></div>
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">政策与产业</div></div><div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">技术与产品</div></div><div class="summary-item green"><div class="summary-num">1</div><div class="summary-label">企业动态</div></div><div class="summary-item orange"><div class="summary-num">2</div><div class="summary-label">投融资与IPO</div></div></div>
 </div>
 
   <div class="section">
     <div class="section-header">
+      <div class="section-icon policy">📋</div>
       <div class="section-name">政策与产业</div>
       <div class="section-count">2 条</div>
     </div>
     <div class="news-item">
-      <div class="news-index">1</div>
+      <div class="news-index active">1</div>
       <div class="news-body">
-        <div class="news-title">福建"十五五"规划落地：培育集成电路、化合物半导体等四大赛道</div>
-        <div class="news-summary">福建省"十五五"新兴产业规划印发，面向AI需求培育集成电路、化合物半导体、新型显示、光电元器件四大赛道，提升芯片设计、特色工艺制造、封测与零部件配套水平。</div>
+        <div class="news-title">财经视野｜美芯片股与日韩股市再遭血洗 以三层逻辑解构</div>
+        <div class="news-summary">财经视野｜美芯片股与日韩股市再遭血洗 以三层逻辑解构&amp;nbsp;&amp;nbsp;global.hk01....</div>
         <div class="news-meta">
-          <span class="news-source">财联社</span>
-          <a class="news-link" href="https://new.qq.com/rain/a/20260816A03FZN00" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <span class="news-source">global.hk01.com</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMinANBVV95cUxPOHhxWFNzanFYdmY3WHNGMjJMamhOY05Zd1RianZxQ1lrSVN5M0NDVjB0T0lXd3FfWDFCelpqVC1jOXNQenV2YWhYRTF1VVFpd0kyZFpkc1h0dWo0UWpWVGlsRHZicmdMM3hVY2dOMldUYWhvYk00a1h2bks3QUdOYVp1bFFIeVNOWGxTVFd6bFpQUy1kN1ZkckFlUnhNZkhjMENkWnFObGttTnZqVmdLaFBGUGY1bzNJNXFlUDVzTGhBdHpyM0J4VGxtZU16cklOOGxBNVR3QUVNT0d3c05lSzRKLTVrU0pDakN2TTlKQ3R6dndLMllKMnlMdTBmenZGSEhvV0I1enppS3FVZV9Sd3pCVDFIOEdYY0JEcHgzbDVBQWd5MFIxS1c4ekR5QTZzT1NIYTdUQklyUVNOTGtmbHdwR085N1JHN05BOGd2TXRwT0dKbkdBV1poU21TWWowcE55SkNwMGRUaHNqbkNxdC13SWNLSVdwTTNqdnpsVnZPTTRyMVNDRzdmLURSeHZPMVlDZFk5cGxKcjNE?oc=5">查看原文</a>
         </div>
       </div>
     </div>
     <div class="news-item">
-      <div class="news-index">2</div>
+      <div class="news-index active">2</div>
       <div class="news-body">
-        <div class="news-title">AI算力虹吸先进产能，存储超级周期转向结构性行情</div>
-        <div class="news-summary">铠侠Q1归母净利同比暴增约4506%、三星Q2营业利润同比增约1813.8%，涨价由HBM与企业级SSD结构性拉动而非全品类共振，细分赛道或现分化行情。</div>
+        <div class="news-title">沪指时隔7年再上4000点大关</div>
+        <div class="news-summary">沪指时隔7年再上4000点大关&amp;nbsp;&amp;nbsp;人民网</div>
         <div class="news-meta">
-          <span class="news-source">上海证券报/东方财富</span>
-          <a class="news-link" href="https://caifuhao.eastmoney.com/news/20260816091912738797970" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <span class="news-source">人民网</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMib0FVX3lxTE9xcS1mY1kwR19PM1p0WWdTVF9Ka3d4bnF4WWh5QlhHaVA4WDBtVlZSZlBOUFRpaFJRN2lTckFBM2xFMUVBdk5HX0Z5N3lDUGhOd2lqeTRrVElpbndBMjVhUlRDVlhyUmp3Wk9zQUN5Yw?oc=5">查看原文</a>
         </div>
       </div>
     </div>
   </div>
-
   <div class="section">
     <div class="section-header">
+      <div class="section-icon model">🔬</div>
       <div class="section-name">技术与产品</div>
       <div class="section-count">2 条</div>
     </div>
     <div class="news-item">
-      <div class="news-index">3</div>
+      <div class="news-index ">3</div>
       <div class="news-body">
-        <div class="news-title">时擎科技RISC-V网卡芯片量产后三个月出货破百万颗</div>
-        <div class="news-summary">国产USB千兆网卡芯片PT153S从设计、流片到封装全流程国内完成，引脚兼容主流竞品可直替，凸显国产芯片在细分刚需场景的替代爆发力。</div>
+        <div class="news-title">【环球财经】伦敦股市14日下跌</div>
+        <div class="news-summary">【环球财经】伦敦股市14日下跌&amp;nbsp;&amp;nbsp;中国金融信息网</div>
         <div class="news-meta">
-          <span class="news-source">IT时代网</span>
-          <a class="news-link" href="http://view.inews.qq.com/a/20260815A0CT7E00" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <span class="news-source">中国金融信息网</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMiakFVX3lxTE5wZ0FzQjRJUTB1THBacUVMbHJock9QVkQ4VHdwblVReUxfRUpnelVnaUdOVXpNd1p3ZGdrNUlfdGJQQkpLQmRRbzVRYTFVbElSZ3dYRzAtTF9xSG5vMTgyeWVCMmZrbDZ2WlE?oc=5">查看原文</a>
         </div>
       </div>
     </div>
     <div class="news-item">
-      <div class="news-index">4</div>
+      <div class="news-index ">4</div>
       <div class="news-body">
-        <div class="news-title">封装厂成AI命脉，内存现货价回到2007年水平</div>
-        <div class="news-summary">CoWoS先进封装产能爬坡决定AI芯片交付节奏；DDR5每GB回到11-13美元区间，约20年降价趋势数月内逆转，韩系合计包揽HBM4约八成份额。</div>
+        <div class="news-title">人设打造 伪造战绩 跨平台导流，起底伪财经“大V”收割流水线</div>
+        <div class="news-summary">人设打造 伪造战绩 跨平台导流，起底伪财经“大V”收割流水线&amp;nbsp;&amp;nbsp;新华网客户端</div>
         <div class="news-meta">
-          <span class="news-source">智芯周报/同花顺</span>
-          <a class="news-link" href="https://m.10jqka.com.cn/20260816/c678985236.shtml" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <span class="news-source">新华网客户端</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMimgFBVV95cUxOQjNjWnF4MnhOU2dtdmFhQ2V0bk0yTXFvdi11RXdHdmRkajdSUzZFMWJLcExCYnBURm1zeVNGZ0pIVTdLdDUyWnZjWmdMVzRtdkl3Znl3OE1XZ3BadWhVREtFR0JJdDlTeXZMOWlIVV82OGk2M1Z0WlAtTmJjLXZwMDUyU0I5MnJBbkJKNVN5a043MWQ4bjlsTWN3?oc=5">查看原文</a>
         </div>
       </div>
     </div>
   </div>
-
   <div class="section">
     <div class="section-header">
+      <div class="section-icon case">🏢</div>
       <div class="section-name">企业动态</div>
-      <div class="section-count">2 条</div>
+      <div class="section-count">1 条</div>
     </div>
     <div class="news-item">
-      <div class="news-index">5</div>
+      <div class="news-index ">5</div>
       <div class="news-body">
-        <div class="news-title">黄仁勋宣布H20获准对华销售，同步发布RTX Pro GPU</div>
-        <div class="news-summary">美国批准H20芯片出口许可，英伟达将开始向中国市场销售；同时发布面向计算机图形、数字孪生与AI的RTX Pro显卡，结束H20长达一年多的禁售状态。</div>
+        <div class="news-title">【NIFD季报】2026年上半年股票市场</div>
+        <div class="news-summary">【NIFD季报】2026年上半年股票市场&amp;nbsp;&amp;nbsp;21财经</div>
         <div class="news-meta">
-          <span class="news-source">央视新闻/大众网</span>
-          <a class="news-link" href="http://gzylhyzx.com/detail.html?cpid=T17&newsId=20925" target="_blank" rel="noopener noreferrer">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">6</div>
-      <div class="news-body">
-        <div class="news-title">SK海力士重启大连NAND二号厂，对华成熟产能拟扩50%</div>
-        <div class="news-summary">大连基地聚焦238层及以下成熟NAND，新增5万片/月、总产能提升50%，2026年底设备进场、2027上半年量产，高端先进堆叠与HBM仍全部留在韩国本土。</div>
-        <div class="news-meta">
-          <span class="news-source">东方财富</span>
-          <a class="news-link" href="https://caifuhao.eastmoney.com/news/20260816063814827746470" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <span class="news-source">21财经</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXVibU9lbl9RT19jSWpFSWNrTnJXMDV2OUltaEtiYjBkcDFLVTQ4SkVqTFh2ejNPeTZxNmo5WEt2c2dWTm9xWUJXT24zM295d01PdzJQcGwzbG9yRlFkeE9CTnVLV0FTWVJ5UGRERi1RMkUzQ2tpb1NLWHZpNGtDLWFDVTNqbGJwOHFGbw?oc=5">查看原文</a>
         </div>
       </div>
     </div>
   </div>
-
   <div class="section">
     <div class="section-header">
+      <div class="section-icon capital">💰</div>
       <div class="section-name">投融资与IPO</div>
       <div class="section-count">2 条</div>
     </div>
     <div class="news-item">
-      <div class="news-index">7</div>
+      <div class="news-index ">6</div>
       <div class="news-body">
-        <div class="news-title">锴威特16.5亿元收购晶艺半导体100%股权，补足功率IC版图</div>
-        <div class="news-summary">功率半导体并购：晶艺半导体专注电机驱动与电源管理功率IC，两年对赌净利不低于2.55亿元，评估增值率约304%，交易后形成功率器件+功率IC协同。</div>
+        <div class="news-title">财经夜行线0624丨韩国股市震荡“牵连”全球科技股 AI投资前景如何预期？</div>
+        <div class="news-summary">财经夜行线0624丨韩国股市震荡“牵连”全球科技股 AI投资前景如何预期？&amp;nbsp;&amp;nbsp;y...</div>
         <div class="news-meta">
-          <span class="news-source">快科技/新浪财经</span>
-          <a class="news-link" href="https://finance.sina.cn/tech/2026-08-15/detail-ininmhuh1663956.d.html" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <span class="news-source">yicai.com</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WNDZfd1E3XzhPc1UyaEozaWU5Z3VaWE5TUFRhcmJFd3RFbF9lRzk4SzhSTnFsVUo0V2ZpR3pXSnNSMVNQdzF5SWhqWnZGdUxWYUJrcw?oc=5">查看原文</a>
         </div>
       </div>
     </div>
     <div class="news-item">
-      <div class="news-index">8</div>
+      <div class="news-index ">7</div>
       <div class="news-body">
-        <div class="news-title">金字火腿3亿元增资中晟微电子，押注高速光通信电芯片</div>
-        <div class="news-summary">累计3亿布局400G/800G光模块配套电芯片，投后持股不超20%，设三年业绩承诺与IPO回购兜底条款，跨界押注AI算力上游核心元器件。</div>
+        <div class="news-title">【环球财经】新加坡股市迎重大改革：搭建新交所纳斯达克两地上市桥梁再注资28.5亿新元提振股市</div>
+        <div class="news-summary">【环球财经】新加坡股市迎重大改革：搭建新交所纳斯达克两地上市桥梁再注资28.5亿新元提振股市&amp;nbs...</div>
         <div class="news-meta">
-          <span class="news-source">侃见财经/今日头条</span>
-          <a class="news-link" href="https://www.toutiao.com/article/7674423343701000739/" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <span class="news-source">新浪财经</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMieEFVX3lxTFB5Qlp1dEtkZUZBd3NfNmRIZ1h0UjFGcllYekViS0hPZllDUVVJVzZUcFBLSUVJLTg4M0pmRzh1ejVYbjRSV2FHallRUnVjVERYc0tmU1c4bUhWM00takhDYW1ud3lBd0tNczF5VEdTM2MzQTFSbWhGRA?oc=5">查看原文</a>
         </div>
       </div>
     </div>
   </div>
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月16日 更新</div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月16日 03:01 更新</div>
 </div>
 
 <script>
@@ -174,10 +185,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
   var p = function(n){ return (n < 10 ? '0' : '') + n; };
   var v = '' + d.getFullYear() + p(d.getMonth()+1) + p(d.getDate());
   var u = new URL(location.href);
-  if (u.searchParams.get('v') !== v) {
-    u.searchParams.set('v', v);
-    location.replace(u.toString());
-  }
+  if (u.searchParams.get('v') !== v) { u.searchParams.set('v', v); location.replace(u.toString()); }
 })();
 </script>
 

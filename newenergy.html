@@ -4,37 +4,57 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta http-equiv="Pragma" content="no-cache">
+<meta name="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 <title>⚡ 新能源简报 · 2026年08月16日</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#fdf1e7;color:#1a202c;line-height:1.7;padding:16px}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#f5f6fa;color:#1a1a2e;line-height:1.7;padding:16px}
 .container{max-width:420px;margin:0 auto}
-.header{background:linear-gradient(135deg,#e67e22,#f39c12);border-radius:16px;padding:24px 20px;color:#fff;margin-bottom:16px}
-.header-date{font-size:12px;color:rgba(255,255,255,0.85);letter-spacing:1px;margin-bottom:6px}
-.header-title{font-size:22px;font-weight:700}
-.header-sub{font-size:13px;color:rgba(255,255,255,0.9);margin-top:6px}
-.summary-card{background:#ffffff;border-radius:14px;padding:16px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
-.summary-title{font-size:14px;font-weight:600;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.header{background:linear-gradient(135deg,#e67e22, #d35400);border-radius:16px;padding:24px 20px 20px;color:#fff;margin-bottom:16px;position:relative;overflow:hidden}
+.header::after{content:"";position:absolute;top:-30px;right:-30px;width:120px;height:120px;background:rgba(255,255,255,0.05);border-radius:50%}
+.header-date{font-size:12px;color:rgba(255,255,255,0.6);letter-spacing:1px;margin-bottom:6px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:13px;color:rgba(255,255,255,0.55);margin-top:6px}
+.header-tag{display:inline-block;background:rgba(255,255,255,0.15);border-radius:20px;padding:3px 10px;font-size:11px;color:rgba(255,255,255,0.8);margin-top:10px}
+.summary-card{background:#fff;border-radius:14px;padding:16px 18px;margin-bottom:16px;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.summary-title{font-size:14px;font-weight:600;color:#1a1a2e;margin-bottom:12px;display:flex;align-items:center;gap:6px}
+.summary-title .dot{width:6px;height:6px;border-radius:50%;background:#e67e22;flex-shrink:0}
 .summary-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.summary-item{background:#fdf6ef;border-radius:10px;padding:12px;text-align:center}
-.summary-num{font-size:20px;font-weight:700;color:#e67e22}
-.summary-label{font-size:11px;color:#666;margin-top:2px}
-.section{background:#ffffff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.05)}
-.section-header{padding:14px 18px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
-.section-name{font-size:15px;font-weight:700}
-.section-count{margin-left:auto;font-size:12px;color:#999}
+.summary-item{background:#f8f9fc;border-radius:10px;padding:12px;text-align:center}
+.summary-num{font-size:22px;font-weight:700;color:#1a1a2e}
+.summary-label{font-size:11px;color:#888;margin-top:2px}
+.summary-item.red .summary-num{color:#e74c3c}
+.summary-item.blue .summary-num{color:#2980b9}
+.summary-item.green .summary-num{color:#27ae60}
+.summary-item.orange .summary-num{color:#e67e22}
+.section{background:#fff;border-radius:14px;margin-bottom:14px;overflow:hidden;box-shadow:0 2px 12px rgba(0,0,0,0.05)}
+.section-header{padding:14px 18px 10px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #f0f0f5}
+.section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
+.section-icon.policy{background:#fff3e0}
+.section-icon.market{background:#e3f2fd}
+.section-icon.pe{background:#fce4ec}
+.section-icon.model{background:#ede7f6}
+.section-icon.app{background:#e8f5e9}
+.section-icon.capital{background:#fce4ec}
+.section-icon.tool{background:#e8f5e9}
+.section-icon.case{background:#e3f2fd}
+.section-icon.agent{background:#ede7f6}
+.section-icon.biz{background:#fff3e0}
+.section-name{font-size:15px;font-weight:700;color:#1a1a2e}
+.section-count{margin-left:auto;font-size:12px;color:#aaa}
 .news-item{padding:14px 18px;border-bottom:1px solid #f5f5fa;position:relative}
 .news-item:last-child{border-bottom:none}
-.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#fde7d3;font-size:11px;font-weight:700;color:#b45309;display:flex;align-items:center;justify-content:center}
+.news-index{position:absolute;left:18px;top:14px;width:20px;height:20px;border-radius:6px;background:#f0f0f5;font-size:11px;font-weight:700;color:#888;display:flex;align-items:center;justify-content:center}
+.news-index.active{background:#e67e22;color:#fff}
 .news-body{padding-left:30px}
-.news-title{font-size:14px;font-weight:600;line-height:1.5;margin-bottom:6px}
-.news-summary{font-size:12.5px;color:#555;line-height:1.6;margin-bottom:8px}
+.news-title{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}
+.news-summary{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}
 .news-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.news-source{font-size:11px;color:#e67e22;background:rgba(230,126,34,0.1);border-radius:4px;padding:2px 7px}
-.news-link{font-size:11px;color:#999;text-decoration:none}
-.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#999}
+.news-source{font-size:11px;color:#e67e22;background:rgba(230,126,34,230,126,34,0.1);border-radius:4px;padding:2px 7px}
+.news-link{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}
+.news-link:hover{color:#e67e22}
+.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}
 .footer span{color:#e67e22;font-weight:600}
 </style>
 </head>
@@ -44,125 +64,119 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
 <div class="header-date">2026年08月16日</div>
 <div class="header-title">⚡ 新能源简报</div>
 <div class="header-sub">光伏风电 · 储能电池 · 电动车 · 碳中和</div>
+<div class="header-tag">由 WorkBuddy AI · GitHub Actions 自动整理</div>
 </div>
 <div class="summary-card">
-<div class="summary-title"><span style="width:6px;height:6px;border-radius:50%;background:#e67e22;display:inline-block"></span> 今日概览 · 共 8 条</div>
-<div class="summary-grid"><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">政策与市场</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">产业链动态</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">企业动态</div></div><div class="summary-item"><div class="summary-num">2</div><div class="summary-label">投融资与出海</div></div></div>
+<div class="summary-title"><span class="dot"></span> 今日概览</div>
+<div class="summary-grid"><div class="summary-item red"><div class="summary-num">2</div><div class="summary-label">政策与市场</div></div><div class="summary-item blue"><div class="summary-num">2</div><div class="summary-label">产业链动态</div></div><div class="summary-item green"><div class="summary-num">1</div><div class="summary-label">企业动态</div></div><div class="summary-item orange"><div class="summary-num">2</div><div class="summary-label">投融资与出海</div></div></div>
 </div>
 
   <div class="section">
     <div class="section-header">
+      <div class="section-icon policy">📋</div>
       <div class="section-name">政策与市场</div>
       <div class="section-count">2 条</div>
     </div>
     <div class="news-item">
-      <div class="news-index">1</div>
+      <div class="news-index active">1</div>
       <div class="news-body">
-        <div class="news-title">国家发改委：抓紧制定风电光伏设备回收利用管理办法</div>
-        <div class="news-summary">全国生态日上发改委明确，2030年前建立健全"新三样"固废回收全链条闭环，严格实施新能源车"带电池报废"。</div>
+        <div class="news-title">【环球财经】伦敦股市14日下跌</div>
+        <div class="news-summary">【环球财经】伦敦股市14日下跌&amp;nbsp;&amp;nbsp;中国金融信息网</div>
         <div class="news-meta">
-          <span class="news-source">证券时报</span>
-          <a class="news-link" href="https://www.stcn.com/article/detail/4078742.html" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <span class="news-source">中国金融信息网</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMiakFVX3lxTE5wZ0FzQjRJUTB1THBacUVMbHJock9QVkQ4VHdwblVReUxfRUpnelVnaUdOVXpNd1p3ZGdrNUlfdGJQQkpLQmRRbzVRYTFVbElSZ3dYRzAtTF9xSG5vMTgyeWVCMmZrbDZ2WlE?oc=5">查看原文</a>
         </div>
       </div>
     </div>
     <div class="news-item">
-      <div class="news-index">2</div>
+      <div class="news-index active">2</div>
       <div class="news-body">
-        <div class="news-title">福建"十五五"规划：深耕新型储能、新能源汽车、海上风电、先进核能四大赛道</div>
-        <div class="news-summary">福建省政府印发新兴产业规划，构建"源网荷储"协同生态，建设世界级新能源产业集群。</div>
+        <div class="news-title">人设打造 伪造战绩 跨平台导流，起底伪财经“大V”收割流水线</div>
+        <div class="news-summary">人设打造 伪造战绩 跨平台导流，起底伪财经“大V”收割流水线&amp;nbsp;&amp;nbsp;新华网客户端</div>
         <div class="news-meta">
-          <span class="news-source">21世纪经济报道</span>
-          <a class="news-link" href="https://m.21jingji.com/timeline/67b9a90e010c7a5cd60ca864b51cd834.html" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <span class="news-source">新华网客户端</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMimgFBVV95cUxOQjNjWnF4MnhOU2dtdmFhQ2V0bk0yTXFvdi11RXdHdmRkajdSUzZFMWJLcExCYnBURm1zeVNGZ0pIVTdLdDUyWnZjWmdMVzRtdkl3Znl3OE1XZ3BadWhVREtFR0JJdDlTeXZMOWlIVV82OGk2M1Z0WlAtTmJjLXZwMDUyU0I5MnJBbkJKNVN5a043MWQ4bjlsTWN3?oc=5">查看原文</a>
         </div>
       </div>
     </div>
   </div>
   <div class="section">
     <div class="section-header">
+      <div class="section-icon market">🔗</div>
       <div class="section-name">产业链动态</div>
       <div class="section-count">2 条</div>
     </div>
     <div class="news-item">
-      <div class="news-index">3</div>
+      <div class="news-index ">3</div>
       <div class="news-body">
-        <div class="news-title">光伏硅片、电池片、组件价格集体上涨，组件龙头跟进涨价</div>
-        <div class="news-summary">硅片全尺寸上调0.22元/片、N型电池片涨超7%，通威、晶科、晶澳等组件龙头相继涨价，TOPCon组件重回0.78元/W。</div>
+        <div class="news-title">【NIFD季报】2026年上半年股票市场</div>
+        <div class="news-summary">【NIFD季报】2026年上半年股票市场&amp;nbsp;&amp;nbsp;21财经</div>
         <div class="news-meta">
-          <span class="news-source">腾讯自选股</span>
-          <a class="news-link" href="https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260814175048a7045480" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <span class="news-source">21财经</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXVibU9lbl9RT19jSWpFSWNrTnJXMDV2OUltaEtiYjBkcDFLVTQ4SkVqTFh2ejNPeTZxNmo5WEt2c2dWTm9xWUJXT24zM295d01PdzJQcGwzbG9yRlFkeE9CTnVLV0FTWVJ5UGRERi1RMkUzQ2tpb1NLWHZpNGtDLWFDVTNqbGJwOHFGbw?oc=5">查看原文</a>
         </div>
       </div>
     </div>
     <div class="news-item">
-      <div class="news-index">4</div>
+      <div class="news-index ">4</div>
       <div class="news-body">
-        <div class="news-title">宁德时代与Solarpro签2GWh钠电储能协议，进军中东欧</div>
-        <div class="news-summary">双方年内共建中东欧首个大型钠电储能项目，天恒钠电系统循环寿命15000次，-20℃容量保持率92%。</div>
+        <div class="news-title">6.23股市早8点丨大金融搭台·大科技唱戏·A股最好的状态</div>
+        <div class="news-summary">6.23股市早8点丨大金融搭台·大科技唱戏·A股最好的状态&amp;nbsp;&amp;nbsp;财经号</div>
         <div class="news-meta">
-          <span class="news-source">腾讯自选股</span>
-          <a class="news-link" href="https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260810101548973548d5" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <span class="news-source">财经号</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tOElIQjlPdW5wNmtwVzZUTDhPdWtOd2l3Y1Izb0dIS1BvbWpuU1hrSWc3VnFRcnFLUk50d3E3NHdwTG4zc003ZEg5dmhFMFJrTmFqS3RmSXpVZFR3RW5PdlhRNTc?oc=5">查看原文</a>
         </div>
       </div>
     </div>
   </div>
   <div class="section">
     <div class="section-header">
+      <div class="section-icon case">🏢</div>
       <div class="section-name">企业动态</div>
-      <div class="section-count">2 条</div>
+      <div class="section-count">1 条</div>
     </div>
     <div class="news-item">
-      <div class="news-index">5</div>
+      <div class="news-index ">5</div>
       <div class="news-body">
-        <div class="news-title">宁德时代"宁家服务"投入10亿元补贴，"以修代换"进军电池后市场</div>
-        <div class="news-summary">年度品牌日发布"以修代换"体系并投10亿元用户补贴，依托1376家服务站覆盖76.8%主流车型。</div>
+        <div class="news-title">沪指时隔7年再上4000点大关</div>
+        <div class="news-summary">沪指时隔7年再上4000点大关&amp;nbsp;&amp;nbsp;人民网</div>
         <div class="news-meta">
-          <span class="news-source">优视汽车</span>
-          <a class="news-link" href="https://view.inews.qq.com/a/20260815A0651A00" target="_blank" rel="noopener noreferrer">查看原文</a>
-        </div>
-      </div>
-    </div>
-    <div class="news-item">
-      <div class="news-index">6</div>
-      <div class="news-body">
-        <div class="news-title">北汽新能源1-7月交付12.67万辆，同比增82.55%</div>
-        <div class="news-summary">7月单月交付2.51万辆增121.27%，综合毛利率连续三季为正，享界G9、极狐T7等新车支撑规模向上。</div>
-        <div class="news-meta">
-          <span class="news-source">人汽</span>
-          <a class="news-link" href="https://view.inews.qq.com/a/20260815A085O400" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <span class="news-source">人民网</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMib0FVX3lxTE9xcS1mY1kwR19PM1p0WWdTVF9Ka3d4bnF4WWh5QlhHaVA4WDBtVlZSZlBOUFRpaFJRN2lTckFBM2xFMUVBdk5HX0Z5N3lDUGhOd2lqeTRrVElpbndBMjVhUlRDVlhyUmp3Wk9zQUN5Yw?oc=5">查看原文</a>
         </div>
       </div>
     </div>
   </div>
   <div class="section">
     <div class="section-header">
+      <div class="section-icon pe">🌍</div>
       <div class="section-name">投融资与出海</div>
       <div class="section-count">2 条</div>
     </div>
     <div class="news-item">
-      <div class="news-index">7</div>
+      <div class="news-index ">6</div>
       <div class="news-body">
-        <div class="news-title">固态电池企业卫蓝新能源启动Pre-IPO融资20亿元，冲刺"固态电池第一股"</div>
-        <div class="news-summary">中科院背景的卫蓝新能源投前估值约200亿元，目标2027年登陆创业板，股东含蔚来资本、小米、华为哈勃。</div>
+        <div class="news-title">财经夜行线0624丨韩国股市震荡“牵连”全球科技股 AI投资前景如何预期？</div>
+        <div class="news-summary">财经夜行线0624丨韩国股市震荡“牵连”全球科技股 AI投资前景如何预期？&amp;nbsp;&amp;nbsp;y...</div>
         <div class="news-meta">
-          <span class="news-source">华夏能源网</span>
-          <a class="news-link" href="https://www.toutiao.com/article/7674214584261050934/" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <span class="news-source">yicai.com</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WNDZfd1E3XzhPc1UyaEozaWU5Z3VaWE5TUFRhcmJFd3RFbF9lRzk4SzhSTnFsVUo0V2ZpR3pXSnNSMVNQdzF5SWhqWnZGdUxWYUJrcw?oc=5">查看原文</a>
         </div>
       </div>
     </div>
     <div class="news-item">
-      <div class="news-index">8</div>
+      <div class="news-index ">7</div>
       <div class="news-body">
-        <div class="news-title">美国固态电池新创Factorial获奔驰、Stellantis合计2亿美元D轮</div>
-        <div class="news-summary">奔驰与Stellantis领投2亿美元，加速固态电池商业化，公司将建先导产线供货客户测试。</div>
+        <div class="news-title">【环球财经】新加坡股市迎重大改革：搭建新交所纳斯达克两地上市桥梁再注资28.5亿新元提振股市</div>
+        <div class="news-summary">【环球财经】新加坡股市迎重大改革：搭建新交所纳斯达克两地上市桥梁再注资28.5亿新元提振股市&amp;nbs...</div>
         <div class="news-meta">
-          <span class="news-source">kotoo</span>
-          <a class="news-link" href="https://www.kotoo.com/k79417" target="_blank" rel="noopener noreferrer">查看原文</a>
+          <span class="news-source">新浪财经</span>
+          <a class="news-link" href="https://news.google.com/rss/articles/CBMieEFVX3lxTFB5Qlp1dEtkZUZBd3NfNmRIZ1h0UjFGcllYekViS0hPZllDUVVJVzZUcFBLSUVJLTg4M0pmRzh1ejVYbjRSV2FHallRUnVjVERYc0tmU1c4bUhWM00takhDYW1ud3lBd0tNczF5VEdTM2MzQTFSbWhGRA?oc=5">查看原文</a>
         </div>
       </div>
     </div>
   </div>
-<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月16日 10:10 更新</div>
+<div class="footer">由 <span>WorkBuddy AI</span> 自动整理 · 仅供参考<br>2026年08月16日 03:01 更新</div>
 </div>
 
 <script>
@@ -171,10 +185,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue"
   var p = function(n){ return (n < 10 ? '0' : '') + n; };
   var v = '' + d.getFullYear() + p(d.getMonth()+1) + p(d.getDate());
   var u = new URL(location.href);
-  if (u.searchParams.get('v') !== v) {
-    u.searchParams.set('v', v);
-    location.replace(u.toString());
-  }
+  if (u.searchParams.get('v') !== v) { u.searchParams.set('v', v); location.replace(u.toString()); }
 })();
 </script>
 
