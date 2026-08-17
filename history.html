@@ -2,78 +2,91 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
-<meta http-equiv="Cache-Control" content="no-cache,must-revalidate">
-<title>历史简报</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>历史简报 - 每日简报中心</title>
 <style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue",Arial,sans-serif;background:#0f0f1a;color:#e8e8f0;line-height:1.7;padding:16px;min-height:100vh}
-.container{max-width:420px;margin:0 auto}
-.header{background:linear-gradient(135deg,#6c5ce7,#4a3cd4);border-radius:16px;padding:24px 20px;color:#fff;margin-bottom:20px}
-.header-date{font-size:12px;color:rgba(255,255,255,0.6);margin-bottom:4px}
-.header-title{font-size:22px;font-weight:700}
-.back{display:inline-block;color:#aaa;font-size:12px;text-decoration:none;margin-bottom:16px}
-.back:hover{color:#fff}
-.date-group{background:#1a1a2e;border-radius:14px;padding:16px 18px;margin-bottom:12px;border:1px solid rgba(255,255,255,0.05)}
-.date-label{font-size:15px;font-weight:700;margin-bottom:10px;color:#fff}
-.links{display:flex;flex-wrap:wrap;gap:6px}
-.tag{display:inline-block;padding:4px 10px;border-radius:14px;font-size:11px;text-decoration:none;font-weight:500}
-.tag.finance{background:rgba(231,76,60,0.2);color:#e74c3c}
-.tag.ai{background:rgba(108,92,231,0.2);color:#a29bfe}
-.tag.apps{background:rgba(39,174,96,0.2);color:#2ecc71}
-.tag.newenergy{background:rgba(230,126,34,0.2);color:#e67e22}
-.tag.entertainment{background:rgba(233,30,99,0.2);color:#fd79a8}
-.tag.semiconductor{background:rgba(33,150,243,0.2);color:#74b9ff}
-.footer{text-align:center;padding:20px 0 30px;font-size:11px;color:#555}
-.footer span{color:#6c5ce7}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#1a1a2e;color:#eee;min-height:100vh}
+.header{background:linear-gradient(135deg,#667eea 0%,#764ba2 50%,#f093fb 100%);padding:24px 20px 20px;text-align:center}
+.header-row{display:flex;align-items:center;justify-content:center;gap:10px}
+.header-icon{font-size:22px}
+.header-title{font-size:22px;font-weight:700;letter-spacing:1px}
+.header-sub{font-size:12px;color:rgba(255,255,255,.7);margin-top:6px}
+.back-link{display:inline-block;margin-top:10px;color:rgba(255,255,255,.8);font-size:13px;text-decoration:none;border-bottom:1px dotted rgba(255,255,255,.5)}
+.back-link:active{opacity:.7}
+.section{max-width:480px;margin:0 auto;padding:16px}
+.day-card{background:#16213e;border-radius:14px;padding:16px;margin-bottom:12px;border:1px solid rgba(255,255,255,.06)}
+.day-date{font-size:16px;font-weight:700;margin-bottom:12px;display:flex;align-items:center;gap:8px}
+.day-week{font-size:11px;color:#888;font-weight:400;background:rgba(255,255,255,.08);padding:2px 8px;border-radius:8px}
+.day-tags{display:flex;flex-wrap:wrap;gap:8px}
+.tag{display:inline-flex;align-items:center;gap:5px;padding:6px 14px;border-radius:20px;font-size:13px;font-weight:500;text-decoration:none;color:#fff;transition:opacity .15s}
+.tag:active{opacity:.7}
+.tag-emoji{font-size:14px}
+.t-fin{background:linear-gradient(135deg,#ef4444,#dc2626)}
+.t-ai{background:linear-gradient(135deg,#8b5cf6,#7c3aed)}
+.t-apps{background:linear-gradient(135deg,#22c55e,#16a34a)}
+.t-energy{background:linear-gradient(135deg,#f97316,#ea580c)}
+.t-fun{background:linear-gradient(135deg,#ec4899,#db2777)}
+.t-chip{background:linear-gradient(135deg,#3b82f6,#2563eb)}
+.empty{text-align:center;color:#555;font-size:14px;padding:40px 20px}
+.footer{text-align:center;padding:16px;font-size:11px;color:#555}
 </style>
 </head>
 <body>
-<div class="container">
 <div class="header">
-<div class="header-date">自 2026年6月22日 起</div>
-<div class="header-title">📂 历史简报</div>
+<div class="header-row">
+<span class="header-icon">📂</span>
+<span class="header-title">历史简报</span>
+</div>
+<div class="header-sub">保留最近 7 天 · 点击分类查看当日归档</div>
+<a class="back-link" href="index.html">← 返回首页</a>
 </div>
 
-<a class="back" href="index.html">← 返回简报中心</a>
+<div class="section" id="list"></div>
+<div class="footer">Powered by WorkBuddy AI · xxy20010606</div>
 
-<div class="date-group">
-<div class="date-label">📅 2026年6月22日（周一）</div>
-<div class="links">
-<a class="tag finance" href="archive/finance-2026-06-22.html">📊 财经</a>
-<a class="tag ai" href="archive/ai-2026-06-22.html">🤖 AI产业</a>
-<a class="tag apps" href="archive/ai-apps-2026-06-22.html">🚀 AI应用</a>
-<a class="tag newenergy" href="archive/newenergy-2026-06-22.html">⚡ 新能源</a>
-<a class="tag entertainment" href="archive/entertainment-2026-06-22.html">🎬 娱乐</a>
-<a class="tag semiconductor" href="archive/semiconductor-2026-06-22.html">💻 半导体</a>
-</div>
-</div>
-
-<div class="date-group">
-<div class="date-label">📅 2026年6月27日（周六）</div>
-<div class="links">
-<a class="tag finance" href="archive/finance-2026-06-27.html">📊 财经</a>
-<a class="tag ai" href="archive/ai-2026-06-27.html">🤖 AI产业</a>
-<a class="tag apps" href="archive/ai-apps-2026-06-27.html">🚀 AI应用</a>
-<a class="tag newenergy" href="archive/newenergy-2026-06-27.html">⚡ 新能源</a>
-<a class="tag entertainment" href="archive/entertainment-2026-06-27.html">🎬 娱乐</a>
-<a class="tag semiconductor" href="archive/semiconductor-2026-06-27.html">💻 半导体</a>
-</div>
-</div>
-
-<div class="date-group">
-<div class="date-label">📅 2026年6月29日（周一）</div>
-<div class="links">
-<a class="tag finance" href="archive/finance-2026-06-29.html">📊 财经</a>
-<a class="tag ai" href="archive/ai-2026-06-29.html">🤖 AI产业</a>
-<a class="tag apps" href="archive/ai-apps-2026-06-29.html">🚀 AI应用</a>
-<a class="tag newenergy" href="archive/newenergy-2026-06-29.html">⚡ 新能源</a>
-<a class="tag entertainment" href="archive/entertainment-2026-06-29.html">🎬 娱乐</a>
-<a class="tag semiconductor" href="archive/semiconductor-2026-06-29.html">💻 半导体</a>
-</div>
-</div>
-
-<div class="footer">由 <span>WorkBuddy AI</span> 驱动 · 每日自动存档</div>
-</div>
+<script>
+(function(){
+var p=function(n){return(n<10?'0':'')+n};
+var weeks=['日','一','二','三','四','五','六'];
+var cats=[
+{key:'finance',name:'财经',emoji:'📊',cls:'t-fin',abs:false},
+{key:'ai',name:'AI产业',emoji:'🤖',cls:'t-ai',abs:false},
+{key:'ai-apps',name:'AI应用',emoji:'🚀',cls:'t-apps',abs:false},
+{key:'newenergy',name:'新能源',emoji:'⚡',cls:'t-energy',abs:false},
+{key:'entertainment',name:'娱乐',emoji:'🎬',cls:'t-fun',abs:false},
+{key:'semiconductor',name:'半导体',emoji:'💾',cls:'t-chip',abs:false}
+];
+var today=new Date();
+var el=document.getElementById('list');
+var html='';
+for(var i=1;i<=7;i++){
+  var d=new Date(today);
+  d.setDate(today.getDate()-i);
+  var y=d.getFullYear();
+  var m=p(d.getMonth()+1);
+  var day=p(d.getDate());
+  var ds=y+'-'+m+'-'+day;
+  var label=y+'年'+(d.getMonth()+1)+'月'+d.getDate()+'日';
+  var wk='周'+weeks[d.getDay()];
+  html+='<div class="day-card">';
+  html+='<div class="day-date">'+label+' <span class="day-week">'+wk+'</span></div>';
+  html+='<div class="day-tags">';
+  for(var j=0;j<cats.length;j++){
+    var c=cats[j];
+    var base=c.abs?'https://xxy20010606.github.io/daily/archive/':'archive/';
+    html+='<a class="tag '+c.cls+'" href="'+base+c.key+'-'+ds+'.html?v='+Date.now()+'">';
+    html+='<span class="tag-emoji">'+c.emoji+'</span>'+c.name;
+    html+='</a>';
+  }
+  html+='</div></div>';
+}
+if(!html){html='<div class="empty">暂无历史简报</div>'}
+el.innerHTML=html;
+})();
+</script>
 </body>
 </html>

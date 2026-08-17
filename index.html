@@ -2,145 +2,68 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="0">
 <title>每日简报中心</title>
 <style>
-* { box-sizing: border-box; margin: 0; padding: 0; }
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", Arial, sans-serif;
-  background: #0f0f1a; color: #e8e8f0; line-height: 1.7; padding: 16px; min-height: 100vh;
-}
-.container { max-width: 420px; margin: 0 auto; }
-.header {
-  background: linear-gradient(135deg, #6c5ce7 0%, #e74c3c 50%, #27ae60 100%);
-  border-radius: 16px; padding: 28px 20px; color: #fff; margin-bottom: 24px;
-}
-.header-date { font-size: 12px; color: rgba(255,255,255,0.7); margin-bottom: 4px; }
-.header-title { font-size: 26px; font-weight: 800; letter-spacing: 2px; }
-.header-sub { font-size: 13px; color: rgba(255,255,255,0.6); margin-top: 6px; }
-
-.card {
-  background: #1a1a2e; border-radius: 16px; padding: 20px;
-  margin-bottom: 14px; text-decoration: none; display: block;
-  transition: transform 0.2s, box-shadow 0.2s;
-  border: 1px solid rgba(255,255,255,0.05);
-}
-.card:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(0,0,0,0.4); }
-.card-top { display: flex; align-items: center; gap: 12px; margin-bottom: 8px; }
-.card-icon {
-  width: 44px; height: 44px; border-radius: 14px; display: flex;
-  align-items: center; justify-content: center; font-size: 22px; flex-shrink: 0;
-}
-.card-icon.finance { background: linear-gradient(135deg, #e74c3c, #c0392b); }
-.card-icon.ai { background: linear-gradient(135deg, #6c5ce7, #4834d4); }
-.card-icon.apps { background: linear-gradient(135deg, #27ae60, #1e8449); }
-.card-icon.newenergy { background: linear-gradient(135deg, #e67e22, #d35400); }
-.card-icon.entertainment { background: linear-gradient(135deg, #e91e63, #c2185b); }
-.card-icon.semiconductor { background: linear-gradient(135deg, #2196f3, #1565c0); }
-.card-label { font-size: 15px; font-weight: 700; color: #fff; }
-.card-desc { font-size: 12px; color: #888; margin-left: 56px; }
-.card-meta { font-size: 11px; color: #555; margin-left: 56px; margin-top: 4px; }
-
-.status { display: flex; align-items: center; gap: 8px; margin-bottom: 20px; }
-.status-dot { width: 8px; height: 8px; border-radius: 50%; background: #27ae60; animation: pulse 2s infinite; }
-.status-text { font-size: 12px; color: #888; }
-@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
-
-.footer { text-align: center; padding: 30px 0; font-size: 11px; color: #555; }
-.footer span { color: #6c5ce7; }
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#1a1a2e;color:#eee;min-height:100vh}
+.header{background:linear-gradient(135deg,#667eea 0%,#764ba2 50%,#f093fb 100%);padding:28px 20px 24px;text-align:center}
+.header-date{font-size:13px;opacity:.85;margin-bottom:6px}
+.header-title{font-size:26px;font-weight:700;letter-spacing:2px}
+.header-subs{font-size:13px;opacity:.8;margin-top:8px}
+.badge{display:inline-block;background:rgba(255,255,255,.18);border-radius:20px;padding:4px 14px;font-size:12px;margin-top:12px}
+.grid{max-width:480px;margin:0 auto;padding:16px;display:flex;flex-direction:column;gap:14px}
+.card{background:#16213e;border-radius:16px;padding:18px 20px;display:flex;align-items:center;gap:16px;text-decoration:none;color:#eee;transition:transform .15s,border .15s;border:1px solid rgba(255,255,255,.06)}
+.card:active{transform:scale(.97)}
+.card-icon{width:52px;height:52px;border-radius:14px;display:flex;align-items:center;justify-content:center;font-size:24px;flex-shrink:0}
+.card-body{flex:1;min-width:0}
+.card-name{font-size:17px;font-weight:600}
+.card-desc{font-size:12px;color:#9aa5b8;margin-top:3px;line-height:1.5}
+.card-status{font-size:11px;color:#4ade80;white-space:nowrap;margin-top:4px}
+.c-fin{background:linear-gradient(135deg,#ef4444,#dc2626)}
+.c-ai{background:linear-gradient(135deg,#8b5cf6,#7c3aed)}
+.c-apps{background:linear-gradient(135deg,#22c55e,#16a34a)}
+.c-energy{background:linear-gradient(135deg,#f97316,#ea580c)}
+.c-fun{background:linear-gradient(135deg,#ec4899,#db2777)}
+.c-chip{background:linear-gradient(135deg,#3b82f6,#2563eb)}
+.c-his{background:linear-gradient(135deg,#6366f1,#8b5cf6)}
+.footer{text-align:center;padding:20px;font-size:11px;color:#555}
 </style>
 </head>
 <body>
-<div class="container">
-  <div class="header">
-    <div class="header-date" id="today-date">2026年08月16日</div>
-    <div class="header-title">📰 每日简报中心</div>
-    <div class="header-sub">财经 · AI产业 · AI应用 · 新能源 · 娱乐 · 半导体</div>
-  </div>
-
-  <div class="status">
-    <div class="status-dot"></div>
-    <div class="status-text">每天 10:00 自动更新 · WorkBuddy AI 驱动</div>
-  </div>
-
-  <a class="card" href="finance.html?v=20260816">
-    <div class="card-top">
-      <div class="card-icon finance">📊</div>
-      <div class="card-label">财经简报</div>
-    </div>
-    <div class="card-desc">科技金融 · A股港股 · 美联储 · 一级市场投融资</div>
-    <div class="card-meta">今日已更新</div>
-  </a>
-
-  <a class="card" href="ai.html?v=20260816">
-    <div class="card-top">
-      <div class="card-icon ai">🤖</div>
-      <div class="card-label">AI 产业简报</div>
-    </div>
-    <div class="card-desc">大模型 · 智能体 · 具身智能 · AI 政策与投融资</div>
-    <div class="card-meta">今日已更新</div>
-  </a>
-
-  <a class="card" href="ai-apps.html?v=20260816">
-    <div class="card-top">
-      <div class="card-icon apps">🚀</div>
-      <div class="card-label">AI 应用简报</div>
-    </div>
-    <div class="card-desc">AI 工具产品 · 行业落地 · Agent · 创业商业模式</div>
-    <div class="card-meta">今日已更新</div>
-  </a>
-
-  <a class="card" href="newenergy.html?v=20260816">
-    <div class="card-top">
-      <div class="card-icon newenergy">⚡</div>
-      <div class="card-label">新能源简报</div>
-    </div>
-    <div class="card-desc">光伏风电 · 储能电池 · 电动车 · 碳中和</div>
-    <div class="card-meta">今日已更新</div>
-  </a>
-
-  <a class="card" href="entertainment.html?v=20260816">
-    <div class="card-top">
-      <div class="card-icon entertainment">🎬</div>
-      <div class="card-label">娱乐简报</div>
-    </div>
-    <div class="card-desc">影视综艺 · 音乐明星 · 游戏电竞 · 热点</div>
-    <div class="card-meta">今日已更新</div>
-  </a>
-
-  <a class="card" href="semiconductor.html?v=20260816">
-    <div class="card-top">
-      <div class="card-icon semiconductor">💻</div>
-      <div class="card-label">半导体简报</div>
-    </div>
-    <div class="card-desc">芯片技术 · 晶圆代工 · EDA · 国产替代</div>
-    <div class="card-meta">今日已更新</div>
-  </a>
-
-  <div class="footer">
-    由 <span>WorkBuddy AI</span> 驱动 · 每日自动整理<br>
-    <a href="history.html" style="color:#888;text-decoration:none;font-size:11px">📂 查看历史简报</a><br>
-    <span id="update-time"></span>
-  </div>
+<div class="header">
+<div class="header-date" id="dateStr"></div>
+<div class="header-title">每日简报中心</div>
+<div class="header-subs">财经 · AI产业 · AI应用 · 新能源 · 娱乐 · 半导体</div>
+<div class="badge">每天 10:00 自动更新 · WorkBuddy AI 驱动</div>
 </div>
+<div class="grid">
+<a class="card" href="https://xxy20010606.github.io/daily/finance.html"><div class="card-icon c-fin">📊</div><div class="card-body"><div class="card-name">财经简报</div><div class="card-desc">科技金融 · A股港股 · 美联储 · 一级市场投融资</div><div class="card-status">点击查看 →</div></div></a>
+<a class="card" href="ai.html"><div class="card-icon c-ai">🤖</div><div class="card-body"><div class="card-name">AI 产业简报</div><div class="card-desc">大模型 · 智能体 · 具身智能 · AI政策与投融资</div><div class="card-status">点击查看 →</div></div></a>
+<a class="card" href="ai-apps.html"><div class="card-icon c-apps">🚀</div><div class="card-body"><div class="card-name">AI 应用简报</div><div class="card-desc">AI工具与产品 · AI+行业落地 · Agent与智能体 · 创业模式</div><div class="card-status">点击查看 →</div></div></a>
+<a class="card" href="newenergy.html"><div class="card-icon c-energy">⚡</div><div class="card-body"><div class="card-name">新能源简报</div><div class="card-desc">光伏风电 · 储能锂电 · 电动车 · 碳中和</div><div class="card-status">点击查看 →</div></div></a>
+<a class="card" href="entertainment.html"><div class="card-icon c-fun">🎬</div><div class="card-body"><div class="card-name">娱乐简报</div><div class="card-desc">影视动态 · 音乐综艺 · 明星热点 · 游戏电竞</div><div class="card-status">点击查看 →</div></div></a>
+<a class="card" href="semiconductor.html"><div class="card-icon c-chip">💾</div><div class="card-body"><div class="card-name">半导体简报</div><div class="card-desc">芯片晶圆 · 光刻EDA · 存储GPU · 国产替代</div><div class="card-status">点击查看 →</div></div></a>
+<a class="card" href="history.html"><div class="card-icon c-his">📂</div><div class="card-body"><div class="card-name">历史简报</div><div class="card-desc">浏览过去 7 天的归档简报</div><div class="card-status">保留最近 7 天 →</div></div></a>
+</div>
+<div class="footer">Powered by WorkBuddy AI · xxy20010606</div>
 <script>
-(function() {
-  var now = new Date();
-  document.getElementById('today-date').textContent = now.toLocaleDateString('zh-CN', {year:'numeric',month:'long',day:'numeric',weekday:'long'});
-  document.getElementById('update-time').textContent = '最后更新：2026年08月16日 03:01
-})();
 (function(){
-  var d = new Date();
-  var p = function(n){ return (n < 10 ? '0' : '') + n; };
-  var v = '' + d.getFullYear() + p(d.getMonth()+1) + p(d.getDate());
-  var u = new URL(location.href);
-  if (u.searchParams.get('v') !== v) {
-    u.searchParams.set('v', v);
-    location.replace(u.toString());
-  }
+var d=new Date(),p=function(n){return(n<10?'0':'')+n};
+var v=d.getFullYear()+p(d.getMonth()+1)+p(d.getDate());
+document.getElementById('dateStr').textContent=d.getFullYear()+'年'+(d.getMonth()+1)+'月'+d.getDate()+'日';
+var links=document.querySelectorAll('.card');
+for(var i=0;i<links.length;i++){
+  var a=links[i].getAttribute('href');
+  if(!a) continue;
+  try{
+    var u=new URL(a, location.href);
+    if(u.searchParams.get('v')!==v){ u.searchParams.set('v',v); links[i].setAttribute('href', u.pathname+u.search+u.hash); }
+  }catch(e){}
+}
 })();
 </script>
 </body>
