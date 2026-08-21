@@ -157,34 +157,38 @@ def save_cache(items):
     with open(CACHE_FILE, "w") as f:
         json.dump({"ts": time.time(), "items": items}, f)
 
-def fetch_google_news(query, max_items=15):
-    """从 Google News 中文 RSS 抓取（云端环境稳定可达）。"""
+def fetch_google_news(query, max_items=15, retries=3):
+    """从 Google News 中文 RSS 抓取（云端环境稳定可达），带重试。"""
     url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(query) \
           + "&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
-    try:
-        r = requests.get(url, headers=UA, timeout=20)
-        fp = feedparser.parse(io.BytesIO(r.content))
-        out = []
-        for e in fp.entries[:max_items]:
-            title = e.get("title", "").strip()
-            src = ""
-            if " - " in title:
-                title, src = title.rsplit(" - ", 1)
-            summary = re.sub(r"<[^>]+>", "", e.get("summary", ""))
-            summary = re.sub(r"\s+", " ", summary).strip()
-            if len(summary) > 200:
-                summary = summary[:200] + "..."
-            out.append({
-                "title": title,
-                "summary": summary,
-                "link": e.get("link", ""),
-                "source": src or "Google News",
-                "date": e.get("published", ""),
-            })
-        return out
-    except Exception as ex:
-        print(f"  ⚠ Google News [{query}]: {ex}")
-        return []
+    for attempt in range(retries):
+        try:
+            r = requests.get(url, headers=UA, timeout=20)
+            fp = feedparser.parse(io.BytesIO(r.content))
+            out = []
+            for e in fp.entries[:max_items]:
+                title = e.get("title", "").strip()
+                src = ""
+                if " - " in title:
+                    title, src = title.rsplit(" - ", 1)
+                summary = re.sub(r"<[^>]+>", "", e.get("summary", ""))
+                summary = re.sub(r"\s+", " ", summary).strip()
+                if len(summary) > 200:
+                    summary = summary[:200] + "..."
+                out.append({
+                    "title": title,
+                    "summary": summary,
+                    "link": e.get("link", ""),
+                    "source": src or "Google News",
+                    "date": e.get("published", ""),
+                })
+            if out:
+                return out
+            print(f"  ⚠ Google News [{query}] 第{attempt+1}次返回空，重试")
+        except Exception as ex:
+            print(f"  ⚠ Google News [{query}] 第{attempt+1}次失败: {ex}")
+        time.sleep(3)
+    return []
 
 
 def fetch_news(brief_type):
@@ -227,8 +231,24 @@ def fetch_news(brief_type):
         except Exception as e:
             print(f"  ⚠ {url}: {e}")
 
+    # 兜底：主源全空时用更宽泛的查询再试一次
     if not items:
-        print("  ⚠ 全部源抓取为空，本次不写入（保留上次内容）")
+        fallback_q = {
+            "finance": "财经 今日 要闻",
+            "ai": "人工智能 今日 要闻",
+            "ai_apps": "AI 应用 今日 要闻",
+            "newenergy": "新能源 今日 要闻",
+            "entertainment": "娱乐 今日 要闻",
+            "semiconductor": "半导体 今日 要闻",
+        }.get(brief_type, "今日 新闻 热点")
+        print(f"  ↳ 主源空，兜底查询：{fallback_q}")
+        for it in fetch_google_news(fallback_q, retries=2):
+            if it["title"] and it["title"] not in seen:
+                seen.add(it["title"])
+                items.append(it)
+
+    if not items:
+        print("  ⚠ 全部源抓取为空，将由 main 写入占位页避免 404")
         return []
 
     save_cache(items)
@@ -473,7 +493,12 @@ def main():
     # Fetch
     items = fetch_news(bt)
     if not items:
-        print(f"  ⚠ {config['title']} 抓取为空，跳过写入（保留上次内容），不推送")
+        print(f"  ⚠ {config['title']} 抓取为空，写入占位页避免 404")
+        categorized = {c: [] for c in CATEGORIES.get(bt, {})}
+        html = build_html(bt, categorized, None)
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.write(html)
+        print(f"  ✅ 已生成占位页 {output_file}")
         return
     print(f"  ✅ 获取 {len(items)} 条新闻")
 

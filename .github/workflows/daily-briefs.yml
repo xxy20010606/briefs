@@ -57,16 +57,13 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
-      - name: Update index timestamp
-        run: |
-          sed -i "s|最后更新：.*|最后更新：$(TZ='Asia/Shanghai' date '+%Y年%m月%d日 %H:%M')|g" index.html
-          sed -i "s|id=\"today-date\">.*<|id=\"today-date\">$(TZ='Asia/Shanghai' date '+%Y年%m月%d日')<|g" index.html
-
+      # 注：index.html 由 scripts 统一生成并手动推送一次，
+      # 其日期由前端 JS 动态填充，CI 不再用 sed 修改，避免破坏脚本。
       - name: Commit and push
         run: |
           git config user.name "WorkBuddy Bot"
           git config user.email "bot@workbuddy.ai"
           git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
-          git add finance.html ai.html ai-apps.html newenergy.html entertainment.html semiconductor.html index.html
+          git add finance.html ai.html ai-apps.html newenergy.html entertainment.html semiconductor.html
           git diff --staged --quiet || git commit -m "📰 每日简报更新 - $(TZ='Asia/Shanghai' date '+%Y-%m-%d')"
           git push origin main
