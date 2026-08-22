@@ -365,14 +365,14 @@ def build_html(brief_type, categorized, gemini_summaries=None):
             summary = item.get("summary", "")
             if len(summary) > 50:
                 summary = summary[:50] + "..."
-                     # 链接处理：有原链接用原链接；无链接生成百度搜索（国内可访问）
-         link = item.get("link", "")
-         if not link:
-             link = f"https://www.baidu.com/s?wd={urllib.parse.quote(item['title'])}"
-             link_source = "搜索"
-         else:
-             link_source = "原文"
-         link_html = f'<a class="news-link" href="{escape(link)}">{link_source}</a>'
+             # 链接处理：有原链接用原链接；无链接生成百度搜索（国内可访问）
+            link = item.get("link", "")
+            if not link:
+                link = f"https://www.baidu.com/s?wd={urllib.parse.quote(item['title'])}"
+                link_source = "搜索"
+            else:
+                link_source = "原文"
+            link_html = f'<a class="news-link" href="{escape(link)}">{link_source}</a>'
             section_items += f"""
     <div class="news-item">
       <div class="news-index {idx_cls}">{idx}</div>
