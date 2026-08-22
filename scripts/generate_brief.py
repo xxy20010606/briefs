@@ -192,7 +192,7 @@ def fetch_google_news(query, max_items=15, retries=3):
 
 
 def fetch_news(brief_type):
-    """抓取新闻：主源 Google News（云端稳定），补充直连 RSS（失败即跳过）。"""
+    """抓取新闻：主源国内RSS（36氪/财联社/微博等，链接国内可访问），Google News仅作内容兜底不保留其链接。"""
     cached = load_cache()
     if cached:
         return cached
@@ -200,17 +200,10 @@ def fetch_news(brief_type):
     items = []
     seen = set()
 
-    # 主源：Google News 多关键词查询
-    for q in GOOGLE_QUERIES.get(brief_type, []):
-        for it in fetch_google_news(q):
-            if it["title"] and it["title"] not in seen:
-                seen.add(it["title"])
-                items.append(it)
-
-    # 补充：直连 RSS（rsshub 等可能超时，短超时跳过不影响主源）
+    # ── 主源：国内 RSS（链接可直接访问）──
     for url, source_name in FEEDS.get(brief_type, []):
         try:
-            r = requests.get(url, headers=UA, timeout=8)
+            r = requests.get(url, headers=UA, timeout=10)
             fp = feedparser.parse(io.BytesIO(r.content))
             for entry in fp.entries[:15]:
                 title = entry.get("title", "").strip()
@@ -221,31 +214,29 @@ def fetch_news(brief_type):
                 summary = re.sub(r"\s+", " ", summary).strip()
                 if len(summary) > 200:
                     summary = summary[:200] + "..."
+                link = entry.get("link", "")
+                # 清理 rsshub 可能附加的追踪参数
+                link = re.sub(r'[?&]utm_[^&]*', '', link)
                 items.append({
                     "title": title,
                     "summary": summary,
-                    "link": entry.get("link", ""),
+                    "link": link,
                     "source": source_name,
                     "date": entry.get("published", "") or entry.get("updated", ""),
                 })
         except Exception as e:
-            print(f"  ⚠ {url}: {e}")
+            print(f"  ⚠ {source_name}({url}): {e}")
 
-    # 兜底：主源全空时用更宽泛的查询再试一次
-    if not items:
-        fallback_q = {
-            "finance": "财经 今日 要闻",
-            "ai": "人工智能 今日 要闻",
-            "ai_apps": "AI 应用 今日 要闻",
-            "newenergy": "新能源 今日 要闻",
-            "entertainment": "娱乐 今日 要闻",
-            "semiconductor": "半导体 今日 要闻",
-        }.get(brief_type, "今日 新闻 热点")
-        print(f"  ↳ 主源空，兜底查询：{fallback_q}")
-        for it in fetch_google_news(fallback_q, retries=2):
-            if it["title"] and it["title"] not in seen:
-                seen.add(it["title"])
-                items.append(it)
+    # ── 兜底：Google News 仅补充内容，不保留其链接（news.google.com 国内被墙）──
+    if len(items) < 5:  # 只有国内源不足时才用 Google News 补充
+        print(f"  ↳ 国内源仅 {len(items)} 条，用 Google News 补充内容（不含原文链接）")
+        for q in GOOGLE_QUERIES.get(brief_type, []):
+            for it in fetch_google_news(q):
+                if it["title"] and it["title"] not in seen:
+                    seen.add(it["title"])
+                    it["link"] = ""  # 清空 Google News 链接，避免用户点开被墙
+                    it["source"] = it.get("source", "资讯")
+                    items.append(it)
 
     if not items:
         print("  ⚠ 全部源抓取为空，将由 main 写入占位页避免 404")
@@ -374,6 +365,7 @@ def build_html(brief_type, categorized, gemini_summaries=None):
             summary = item.get("summary", "")
             if len(summary) > 50:
                 summary = summary[:50] + "..."
+            link_html = f'<a class="news-link" href="{escape(item["link"])}">查看原文</a>' if item.get("link") else ""
             section_items += f"""
     <div class="news-item">
       <div class="news-index {idx_cls}">{idx}</div>
@@ -382,7 +374,7 @@ def build_html(brief_type, categorized, gemini_summaries=None):
         <div class="news-summary">{escape(summary)}</div>
         <div class="news-meta">
           <span class="news-source">{escape(item['source'])}</span>
-          <a class="news-link" href="{escape(item['link'])}">查看原文</a>
+          {link_html}
         </div>
       </div>
     </div>"""
