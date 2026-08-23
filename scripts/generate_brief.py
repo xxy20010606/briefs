@@ -214,8 +214,7 @@ def fetch_news(brief_type):
                 summary = re.sub(r"\s+", " ", summary).strip()
                 if len(summary) > 200:
                     summary = summary[:200] + "..."
-                  link = entry.get("link", "") or (next((l.href for l in getattr(entry,'links',[]) if hasattr(l,'href') and l.href), ""))
-                              break
+                link = entry.get("link", "") or (next((l.href for l in getattr(entry,'links',[]) if hasattr(l,'href') and l.href), ""))
                 # 清理 rsshub 可能附加的追踪参数
                 link = re.sub(r'[?&]utm_[^&]*', '', link)
                 items.append({
