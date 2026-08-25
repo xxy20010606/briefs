@@ -48,46 +48,41 @@ CACHE_HOURS = 6
 # RSS feeds by category
 FEEDS = {
     "finance": [
-        # 财经
-        ("https://rsshub.app/cls/telegraph", "财联社电报"),
-        ("http://feedmaker.kindle4rss.com/feeds/cls-finance.xml", "财联社"),
-        ("https://rsshub.app/36kr/motif/7", "36氪-金融"),
-        ("https://rsshub.app/eastmoney/search/web+金融科技", "东方财富"),
-        ("https://rsshub.app/sina/finance", "新浪财经"),
+        # 直连 RSS（确认含 <link> 原文链接）
+        ("https://36kr.com/feed", "36氪"),
+        ("https://sspai.com/feed", "少数派"),
+        ("https://www.ithome.com/rss/", "IT之家"),
+        ("https://www.zhihu.com/rss", "知乎日报"),
     ],
     "ai": [
         ("https://36kr.com/feed", "36氪"),
-        ("https://rsshub.app/36kr/motif/8", "36氪-AI"),
-        ("https://rsshub.app/jike/topic/人工智能", "即刻-AI"),
-        ("https://rsshub.app/ithome/it", "IT之家"),
-        ("https://rsshub.app/zhihu/daily", "知乎日报"),
+        ("https://sspai.com/feed", "少数派"),
+        ("https://www.ithome.com/rss/", "IT之家"),
+        ("https://www.zhihu.com/rss", "知乎日报"),
     ],
     "ai_apps": [
         ("https://36kr.com/feed", "36氪"),
-        ("https://rsshub.app/sspai", "少数派"),
-        ("https://rsshub.app/geekpark/breakingnews", "极客公园"),
-        ("https://rsshub.app/ithome/it", "IT之家"),
-        ("https://rsshub.app/jike/topic/AI工具", "即刻-AI工具"),
+        ("https://sspai.com/feed", "少数派"),
+        ("https://www.ithome.com/rss/", "IT之家"),
+        ("https://www.zhihu.com/rss", "知乎日报"),
     ],
     "newenergy": [
-        ("https://rsshub.app/36kr/motif/新能源", "36氪-新能源"),
         ("https://36kr.com/feed", "36氪"),
-        ("https://rsshub.app/ithome/it", "IT之家"),
-        ("https://rsshub.app/cls/telegraph", "财联社"),
-        ("https://rsshub.app/eastmoney/search/web+新能源", "东方财富"),
+        ("https://www.ithome.com/rss/", "IT之家"),
+        ("https://sspai.com/feed", "少数派"),
+        ("https://www.zhihu.com/rss", "知乎日报"),
     ],
     "entertainment": [
-        ("https://rsshub.app/36kr/motif/文娱", "36氪-文娱"),
         ("https://36kr.com/feed", "36氪"),
-        ("https://rsshub.app/weibo/hot/1", "微博热搜"),
-        ("https://rsshub.app/douban/movie/playing", "豆瓣-热映"),
+        ("https://www.ithome.com/rss/", "IT之家"),
+        ("https://www.zhihu.com/rss", "知乎日报"),
+        ("https://sspai.com/feed", "少数派"),
     ],
     "semiconductor": [
-        ("https://rsshub.app/36kr/motif/半导体", "36氪-半导体"),
         ("https://36kr.com/feed", "36氪"),
-        ("https://rsshub.app/ithome/it", "IT之家"),
-        ("https://rsshub.app/cls/telegraph", "财联社"),
-        ("https://rsshub.app/eastmoney/search/web+芯片", "东方财富"),
+        ("https://www.ithome.com/rss/", "IT之家"),
+        ("https://sspai.com/feed", "少数派"),
+        ("https://www.zhihu.com/rss", "知乎日报"),
     ],
 }
 
