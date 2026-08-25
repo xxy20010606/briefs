@@ -191,8 +191,12 @@ def fetch_google_news(query, max_items=15, retries=3):
     return []
 
 
+# 全局 DEBUG 收集（每个 RSS 源首条 entry 的字段信息）
+_debug_entries = []
+
 def fetch_news(brief_type):
     """抓取新闻：主源国内RSS（36氪/财联社/微博等，链接国内可访问），Google News仅作内容兜底不保留其链接。"""
+    global _debug_entries
     cached = load_cache()
     if cached:
         return cached
@@ -205,14 +209,10 @@ def fetch_news(brief_type):
         try:
             r = requests.get(url, headers=UA, timeout=10)
             fp = feedparser.parse(io.BytesIO(r.content))
-            # DEBUG: 打印第一个 entry 的所有字段（仅首条）+ 写入文件
-            if len([i for i in items if i.get("source") == source_name]) == 0 and fp.entries:
+            # DEBUG: 收集首条 entry 信息（稍后注入 HTML）
+            if fp.entries:
                 de = fp.entries[0]
-                debug_info = {k: str(de[k])[:200] for k in list(de.keys())[:15]}
-                print(f"  🔍 [{source_name}] keys={list(de.keys())[:10]} | link={repr(de.get('link',''))[:80]}")
-                # 写入调试文件（覆盖，只保留最后一条）
-                with open("scripts/debug_rss.json", "w") as df:
-                    json.dump({"source": source_name, "url": url, "entry_keys": list(de.keys()), "entry_data": debug_info}, df, ensure_ascii=False, indent=2)
+                _debug_entries.append(f"[{source_name}] keys={list(de.keys())[:10]} link={repr(de.get('link',''))[:80]} id={repr(str(de.get('id',''))[:60])}")
             for entry in fp.entries[:15]:
                 title = entry.get("title", "").strip()
                 if len(title) < 4 or title in seen:
@@ -535,6 +535,10 @@ def main():
 
     # Build HTML
     html = build_html(bt, categorized, gemini)
+    # 注入 RSS DEBUG 信息到 HTML（仅在财经方向注入一次）
+    if bt == "finance" and _debug_entries:
+        debug_html = "<!--\n" + "\n".join(_debug_entries) + "\n-->"
+        html = html.replace("<!DOCTYPE", debug_html + "\n<!DOCTYPE")
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(html)
     print(f"  ✅ 已生成 {output_file}")
