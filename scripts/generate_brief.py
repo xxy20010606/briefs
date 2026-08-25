@@ -205,10 +205,14 @@ def fetch_news(brief_type):
         try:
             r = requests.get(url, headers=UA, timeout=10)
             fp = feedparser.parse(io.BytesIO(r.content))
-            # DEBUG: 打印第一个 entry 的所有字段（仅首条）
+            # DEBUG: 打印第一个 entry 的所有字段（仅首条）+ 写入文件
             if len([i for i in items if i.get("source") == source_name]) == 0 and fp.entries:
                 de = fp.entries[0]
-                print(f"  🔍 [{source_name}] 首条字段: {list(de.keys())[:8]} | link={repr(de.get('link',''))} | id={repr(str(de.get('id',''))[:60])}")
+                debug_info = {k: str(de[k])[:200] for k in list(de.keys())[:15]}
+                print(f"  🔍 [{source_name}] keys={list(de.keys())[:10]} | link={repr(de.get('link',''))[:80]}")
+                # 写入调试文件（覆盖，只保留最后一条）
+                with open("scripts/debug_rss.json", "w") as df:
+                    json.dump({"source": source_name, "url": url, "entry_keys": list(de.keys()), "entry_data": debug_info}, df, ensure_ascii=False, indent=2)
             for entry in fp.entries[:15]:
                 title = entry.get("title", "").strip()
                 if len(title) < 4 or title in seen:
