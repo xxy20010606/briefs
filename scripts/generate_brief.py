@@ -212,7 +212,7 @@ def fetch_news(brief_type):
             # DEBUG: 收集首条 entry 信息（稍后注入 HTML）
             if fp.entries:
                 de = fp.entries[0]
-                _debug_entries.append(f"[{source_name}] keys={list(de.keys())[:10]} link={repr(de.get('link',''))[:80]} id={repr(str(de.get('id',''))[:60])}")
+                _debug_entries.append(f"[{source_name}] keys={list(de.keys())[:10]} link={repr(de.get('link',''))[:80]} has_a={'<a' in (de.get('summary','') or de.get('description','') or '')}")
             for entry in fp.entries[:15]:
                 title = entry.get("title", "").strip()
                 if len(title) < 4 or title in seen:
@@ -222,23 +222,29 @@ def fetch_news(brief_type):
                 summary = re.sub(r"\s+", " ", summary).strip()
                 if len(summary) > 200:
                     summary = summary[:200] + "..."
-                # 链接提取：多级兜底 + 全属性扫描
+                # 链接提取：多级兜底 + 全属性扫描 + description内<a>提取
                 link = (entry.get("link", "")
                     or (next((l.href for l in getattr(entry,'links',[]) if hasattr(l,'href') and l.href), ""))
                     or entry.get("id", ""))
                 # 清理 rsshub 可能附加的追踪参数
                 link = re.sub(r'[?&]utm_[^&]*', '', link)
-                # 最终兜底：扫描所有字符串属性找 http(s) URL
+                # 兜底1：扫描所有字符串属性找 http(s) URL
                 if not link or not link.startswith("http"):
                     for k, v in entry.items():
                         if isinstance(v, str) and v.startswith(("http://", "https://")) and len(v) > 15:
                             link = re.sub(r'[?&]utm_[^&]*', '', v)
                             break
-                    # 再试 guid 的 value 子属性
+                    # 兜底2：guid 的 value 子属性
                     if not link or not link.startswith("http"):
                         g = entry.get('guid')
                         if hasattr(g, 'value') and g.value.startswith(('http://', 'https://')):
                             link = g.value
+                    # 兜底3：从 description/summary HTML 中提取第一个 <a href>
+                    if not link or not link.startswith("http"):
+                        desc_html = (entry.get("summary", "") or entry.get("description", ""))
+                        a_match = re.search(r'<a[^>]+href=["\']([^"\']+)["\']', desc_html)
+                        if a_match:
+                            link = a_match.group(1)
                 items.append({
                     "title": title,
                     "summary": summary,
