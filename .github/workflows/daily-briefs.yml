@@ -70,6 +70,6 @@ jobs:
           git config user.name "WorkBuddy Bot"
           git config user.email "bot@workbuddy.ai"
           git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
-          git add finance.html ai.html ai-apps.html newenergy.html entertainment.html semiconductor.html
+          git add finance.html ai.html ai-apps.html newenergy.html entertainment.html semiconductor.html debug-*.json 2>/dev/null || true
           git diff --staged --quiet || git commit -m "📰 每日简报更新 - $(TZ='Asia/Shanghai' date '+%Y-%m-%d')"
           git push origin main

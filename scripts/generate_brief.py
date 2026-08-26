@@ -621,7 +621,35 @@ def main():
     ok, vmsg = verify_items(bt, items)
     print(vmsg)
     if not ok:
-        print("  ⛔ 构建被自检拦截，未写入/发布坏页面。请排查 Google News 解码或源可达性后再推。")
+        print("  ⛔ 构建被自检拦截")
+        # 写诊断文件（含原始链接样本），CI 会提交到仓库供排查
+        diag_file = f"debug-{bt}.json"
+        samples = []
+        for it in items[:10]:  # 最多取 10 条样本
+            l = it.get("link", "")
+            is_bad = (not l) or ("news.google.com" in l)
+            # 对 Google News 链接尝试解码并记录中间结果
+            decode_detail = ""
+            if "news.google.com" in l and "/articles/" in l:
+                import base64 as _b64, re as _re
+                _m = _re.search(r'/articles/([A-Za-z0-9_-]+)', l)
+                if _m:
+                    _b = _m.group(1); _b += "=" * (-len(_b) % 4)
+                    try:
+                        _raw = _b64.urlsafe_b64decode(_b)
+                        _dec = _raw.decode("utf-8", "ignore")
+                        decode_detail = f"| b64_len={len(_raw)} | decoded_head={_dec[:120]}"
+                    except Exception as _ex:
+                        decode_detail = f"| b64_decode_err={_ex}"
+            samples.append({
+                "title": it.get("title", "")[:60],
+                "raw_link": l[:150],
+                "is_bad": is_bad,
+                "decode_detail": decode_detail,
+            })
+        with open(diag_file, "w", encoding="utf-8") as _df:
+            json.dump({"type": bt, "total": len(items), "msg": vmsg, "samples": samples}, _df, ensure_ascii=False, indent=2)
+        print(f"  📋 诊断数据已写入 {diag_file}（将随 CI 提交）")
         sys.exit(1)
 
     print(f"  ✅ 获取 {len(items)} 条新闻")
