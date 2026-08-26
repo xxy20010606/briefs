@@ -29,31 +29,37 @@ jobs:
 
       - name: Generate Finance Brief
         run: python scripts/generate_brief.py --type finance
+        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Generate AI Industry Brief
         run: python scripts/generate_brief.py --type ai
+        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Generate AI Apps Brief
         run: python scripts/generate_brief.py --type ai_apps
+        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Generate New Energy Brief
         run: python scripts/generate_brief.py --type newenergy
+        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Generate Entertainment Brief
         run: python scripts/generate_brief.py --type entertainment
+        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Generate Semiconductor Brief
         run: python scripts/generate_brief.py --type semiconductor
+        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 

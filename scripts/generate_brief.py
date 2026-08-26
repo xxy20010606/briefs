@@ -2,7 +2,7 @@
 """Daily Brief Generator - 日报生成器
 Usage: python generate_brief.py --type [finance|ai|ai_apps|newenergy|entertainment|semiconductor]
 """
-import argparse, json, os, re, time, io, base64, concurrent.futures as cf
+import argparse, json, os, re, sys, time, io, base64, concurrent.futures as cf
 import urllib.parse
 from datetime import datetime, timedelta
 from html import escape
@@ -295,6 +295,27 @@ def fetch_news(brief_type):
     return items
 
 
+def verify_items(brief_type, items):
+    """自检闸门：构建前校验，避免发布坏页面（根断"反复坏"循环）。
+    拦截两类顽疾：
+      1) 链接大量解析失败 → 页面清一色跳百度搜索（用户反复投诉的核心痛点）
+      2) 抓取为空（源全挂 / 方向错配导致无内容）
+    返回 (ok: bool, msg: str)。CI 中 ok=False 时 main() 会 sys.exit(1)，
+    使整个 workflow 在 Commit&Push 前中断，坏页面绝不上线。"""
+    if not items:
+        return False, f"❌ 自检失败：{brief_type} 抓取为空（源全部不可达或方向无内容），拒绝发布空页"
+    bad = 0
+    for it in items:
+        l = it.get("link", "")
+        if not l or "news.google.com" in l:
+            bad += 1
+    ratio = bad / len(items)
+    if ratio > 0.4:
+        return False, f"❌ 自检失败：{brief_type} 有 {bad}/{len(items)} 条链接仍是搜索/Google重定向（base64解码异常），拒绝发布"
+    ok_n = len(items) - bad
+    return True, f"✅ 自检通过：{brief_type} 链接解析率 {100*ok_n/len(items):.0f}%"
+
+
 def categorize(items, brief_type):
     """Sort items into categories based on keyword matching."""
     cat_config = CATEGORIES.get(brief_type, {})
@@ -550,6 +571,14 @@ def main():
             f.write(html)
         print(f"  ✅ 已生成占位页 {output_file}")
         return
+
+    # ── 自检闸门：坏数据绝不发布（根断"反复坏"循环）──
+    ok, vmsg = verify_items(bt, items)
+    print(vmsg)
+    if not ok:
+        print("  ⛔ 构建被自检拦截，未写入/发布坏页面。请排查 Google News 解码或源可达性后再推。")
+        sys.exit(1)
+
     print(f"  ✅ 获取 {len(items)} 条新闻")
 
     # Categorize
