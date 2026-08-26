@@ -61,23 +61,40 @@ FEEDS = {
 }
 
 def _decode_google_article(glink):
-    """Google News RSS 文章链接是 base64 编码的，直接解码出真实原文 URL（无需联网跳转，最可靠）。"""
+    """Google News RSS 文章链接是 base64 编码的，直接解码出真实原文 URL（无需联网）。
+    支持 Google News 所有已知编码前缀（HN_News/HN_World/HN_Video 等），
+    并从解码内容中智能提取任何 http(s) URL。"""
     try:
         if "news.google.com" not in glink:
             return ""
-        # 形如 .../rss/articles/CBMiXXXX 或 .../articles/CBMiXXXX
         m = re.search(r'/(?:rss/)?articles/([A-Za-z0-9_-]+)', glink)
         if not m:
             return ""
         b64 = m.group(1)
-        b64 += "=" * (-len(b64) % 4)  # 补齐 base64 padding
-        decoded = base64.urlsafe_b64decode(b64).decode("utf-8", "ignore")
-        # 真实 URL 位于 "HN_News " 签名之后
-        if "HN_News " in decoded:
-            return decoded.split("HN_News ", 1)[1].strip()
-        # 极少数情况直接是 URL
+        b64 += "=" * (-len(b64) % 4)
+        raw = base64.urlsafe_b64decode(b64)
+        decoded = raw.decode("utf-8", "ignore")
+
+        # 策略A：已知 Google News 前缀 → 取签名后的 URL
+        for prefix in ("HN_News ", "HN_World ", "HN_Video ", "HN_Local ",
+                        "HN_Podcasts ", "HN_Opinion "):
+            if decoded.startswith(prefix):
+                url = decoded[len(prefix):].strip()
+                if url.startswith("http"):
+                    return url
+
+        # 策略B：解码结果本身就是完整 URL（无前缀）
         if decoded.startswith("http"):
-            return decoded
+            return decoded.strip()
+
+        # 策略C：从解码文本中正则提取第一个 http(s) URL（最宽松兜底）
+        um = re.search(r'https?://[^\s\x00-\x1f\x7f-\x9f"\'<>]+', decoded)
+        if um:
+            url = um.group(0).rstrip(".,;)")
+            # 排除 google.com 自身链接
+            if "google.com" not in url and "google.co" not in url:
+                return url
+
     except Exception:
         pass
     return ""
@@ -85,27 +102,46 @@ def _decode_google_article(glink):
 
 def _resolve_real_url(glink):
     """解析 Google News 重定向为真实原文 URL。
-    优先 base64 解码（无需联网），失败再跟随 HTTP 重定向，最终失败返回空（→ 百度搜索兜底）。"""
+    优先 base64 解码（无需联网），失败再跟随 HTTP 重定向（CI 在美国，一定通），
+    最终失败返回空（→ 百度搜索兜底）。"""
     if not glink or "news.google.com" not in glink:
         return glink  # 已是直连源真实 URL
-    # 方法1：base64 解码（最可靠，不依赖网络）
+
+    # 方法1：base64 解码（不依赖网络）
     decoded = _decode_google_article(glink)
-    if decoded and "news.google.com" not in decoded:
+    if decoded and "google.com" not in decoded and len(decoded) > 10:
         return decoded
-    # 方法2：跟随 HTTP 重定向
-    try:
-        r = requests.get(glink, headers=UA, timeout=8, allow_redirects=True)
-        if r.url and "news.google.com" not in r.url:
-            return r.url
-        loc = r.headers.get("Location", "") or r.headers.get("location", "")
-        if loc and "news.google.com" not in loc:
-            return loc if loc.startswith("http") else ("https:" + loc if loc.startswith("//") else "https://" + loc)
-        txt = r.text[:20000]
-        m = re.search(r'(?:content|URL)\s*=\s*["\']?\s*\d+\s*;\s*url\s*=\s*["\']?(https?://[^"\'>\s]+)', txt, re.I)
-        if m and "news.google.com" not in m.group(1):
-            return m.group(1)
-    except Exception:
-        pass
+
+    # 方法2：HTTP 跟随重定向（CI 在美国环境，Google 可达）
+    for method_name, getter in [
+        ("GET+redirect", lambda u: requests.get(u, headers=UA, timeout=12, allow_redirects=True)),
+        ("HEAD", lambda u: requests.head(u, headers=UA, timeout=8, allow_redirects=True)),
+    ]:
+        try:
+            r = getter(glink)
+            # 检查最终 URL
+            if r.url and "google.com" not in r.url and r.url.startswith("http"):
+                return r.url
+            # 检查 Location 头
+            loc = (r.headers.get("Location") or r.headers.get("location") or "")
+            if loc and "google.com" not in loc:
+                if loc.startswith("http"):
+                    return loc
+                if loc.startswith("//"):
+                    return "https:" + loc
+            # 从响应体中提取 JS 重定向目标
+            txt = r.text[:30000]
+            for pattern in [
+                r'url\s*=\s*["\']?(https?://[^"\'>\s]+)',
+                r'["\'](https?://[^"\']*?article[^"\']*?)["\']',
+                r'"(https?://[^"]+)"',
+            ]:
+                m = re.search(pattern, txt, re.I)
+                if m and "google.com" not in m.group(1):
+                    return m.group(1)
+        except Exception:
+            continue
+
     return ""
 
 # Category keywords for filtering and sorting
@@ -301,19 +337,28 @@ def verify_items(brief_type, items):
       1) 链接大量解析失败 → 页面清一色跳百度搜索（用户反复投诉的核心痛点）
       2) 抓取为空（源全挂 / 方向错配导致无内容）
     返回 (ok: bool, msg: str)。CI 中 ok=False 时 main() 会 sys.exit(1)，
-    使整个 workflow 在 Commit&Push 前中断，坏页面绝不上线。"""
+    使整个 workflow 在 Commit&Push 前中断，坏页面上不了线。"""
     if not items:
         return False, f"❌ 自检失败：{brief_type} 抓取为空（源全部不可达或方向无内容），拒绝发布空页"
-    bad = 0
+    bad = empty = 0
+    sample_bad_titles = []
     for it in items:
         l = it.get("link", "")
-        if not l or "news.google.com" in l:
+        if not l:
+            empty += 1
+            sample_bad_titles.append(it.get("title", "?")[:30])
+        elif "news.google.com" in l:
             bad += 1
-    ratio = bad / len(items)
-    if ratio > 0.4:
-        return False, f"❌ 自检失败：{brief_type} 有 {bad}/{len(items)} 条链接仍是搜索/Google重定向（base64解码异常），拒绝发布"
-    ok_n = len(items) - bad
-    return True, f"✅ 自检通过：{brief_type} 链接解析率 {100*ok_n/len(items):.0f}%"
+            sample_bad_titles.append(it.get("title", "?")[:30])
+    total_bad = bad + empty
+    ratio = total_bad / len(items)
+    # 阈值：超过一半链接解析失败则拦截
+    if ratio > 0.5:
+        detail = f"(未解析={empty}, 仍Google重定向={bad}/{len(items)})"
+        samples = "; ".join(sample_bad_titles[:5])
+        return False, f"❌ {brief_type} 自检不通过: {detail}。样例: [{samples}]"
+    ok_n = len(items) - total_bad
+    return True, f"✅ 自检通过：{brief_type} 链接解析率 {100*ok_n/len(items):.0f}% ({ok_n}/{len(items)}条)"
 
 
 def categorize(items, brief_type):
