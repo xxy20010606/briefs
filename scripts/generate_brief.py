@@ -187,11 +187,11 @@ def fetch_news(brief_type):
             r = requests.get(url, headers=UA, timeout=10)
             fp = feedparser.parse(io.BytesIO(r.content))
             for entry in fp.entries[:15]:
-            title = entry.get("title", "").strip()
-            if " - " in title:
-                title = title.rsplit(" - ", 1)[0].strip()
-            if len(title) < 4 or title in seen:
-                continue
+                title = entry.get("title", "").strip()
+                if " - " in title:
+                    title = title.rsplit(" - ", 1)[0].strip()
+                if len(title) < 4 or title in seen:
+                    continue
                 seen.add(title)
                 summary = re.sub(r"<[^>]+>", "", entry.get("summary", "") or entry.get("description", ""))
                 summary = re.sub(r"\s+", " ", summary).strip()
