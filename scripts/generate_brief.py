@@ -647,6 +647,33 @@ def main():
                 "is_bad": is_bad,
                 "decode_detail": decode_detail,
             })
+        # 额外：抓取第一条 Google News 原始 entry 全量字段（只做一次，全局文件）
+        if not os.path.exists("debug-raw-entry.json"):
+            try:
+                _test_url = list(FEEDS.get(bt, []))[0][0] if FEEDS.get(bt) else ""
+                if _test_url:
+                    _tr = requests.get(_test_url, headers=UA, timeout=15)
+                    _tfp = feedparser.parse(io.BytesIO(_tr.content))
+                    if _tfp.entries:
+                        _e0 = _tfp.entries[0]
+                        _raw_entry = {}
+                        for _k in dir(_e0):
+                            if not _k.startswith("_"):
+                                _v = getattr(_e0, _k, None)
+                                if _v is not None and not callable(_v):
+                                    try:
+                                        _raw_entry[_k] = str(_v)[:500]
+                                    except: pass
+                        if hasattr(_e0, 'links'):
+                            _raw_entry["_links_array"] = [
+                                {"href": getattr(l,'href',''), "rel": getattr(l,'rel',''), "type": getattr(l,'type','')}
+                                for l in (_e0.links or [])
+                            ]
+                        with open("debug-raw-entry.json", "w", encoding="utf-8") as _rf:
+                            json.dump({"feed_url": _test_url, "entry_fields": _raw_entry}, _rf, ensure_ascii=False, indent=2)
+            except Exception as _diag_ex:
+                with open("debug-raw-entry.json", "w") as _rf:
+                    json.dump({"error": str(_diag_ex)}, _rf)
         with open(diag_file, "w", encoding="utf-8") as _df:
             json.dump({"type": bt, "total": len(items), "msg": vmsg, "samples": samples}, _df, ensure_ascii=False, indent=2)
         print(f"  📋 诊断数据已写入 {diag_file}（将随 CI 提交）")
