@@ -2,7 +2,7 @@
 """Daily Brief Generator - 日报生成器
 Usage: python generate_brief.py --type [finance|ai|ai_apps|newenergy|entertainment|semiconductor]
 """
-import argparse, json, os, re, time, io
+import argparse, json, os, re, time, io, concurrent.futures as cf
 import urllib.parse
 from datetime import datetime, timedelta
 from html import escape
@@ -46,45 +46,31 @@ CACHE_FILE = "scripts/.news_cache.json"
 CACHE_HOURS = 6
 
 # RSS feeds by category
+# RSS feeds by category —— 每个方向用不同的 Google News 方向关键词搜索（精准、不重复）
+# 条目 link 为 Google News 重定向地址，运行期通过 _resolve_real_url 解析为真实原文 URL
+def _gnq(q):
+    return ("https://news.google.com/rss/search?q=" + urllib.parse.quote(q) + "&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "Google·" + q)
+
 FEEDS = {
-    "finance": [
-        # 直连 RSS（确认含 <link> 原文链接）
-        ("https://36kr.com/feed", "36氪"),
-        ("https://sspai.com/feed", "少数派"),
-        ("https://www.ithome.com/rss/", "IT之家"),
-        ("https://www.zhihu.com/rss", "知乎日报"),
-    ],
-    "ai": [
-        ("https://36kr.com/feed", "36氪"),
-        ("https://sspai.com/feed", "少数派"),
-        ("https://www.ithome.com/rss/", "IT之家"),
-        ("https://www.zhihu.com/rss", "知乎日报"),
-    ],
-    "ai_apps": [
-        ("https://36kr.com/feed", "36氪"),
-        ("https://sspai.com/feed", "少数派"),
-        ("https://www.ithome.com/rss/", "IT之家"),
-        ("https://www.zhihu.com/rss", "知乎日报"),
-    ],
-    "newenergy": [
-        ("https://36kr.com/feed", "36氪"),
-        ("https://www.ithome.com/rss/", "IT之家"),
-        ("https://sspai.com/feed", "少数派"),
-        ("https://www.zhihu.com/rss", "知乎日报"),
-    ],
-    "entertainment": [
-        ("https://36kr.com/feed", "36氪"),
-        ("https://www.ithome.com/rss/", "IT之家"),
-        ("https://www.zhihu.com/rss", "知乎日报"),
-        ("https://sspai.com/feed", "少数派"),
-    ],
-    "semiconductor": [
-        ("https://36kr.com/feed", "36氪"),
-        ("https://www.ithome.com/rss/", "IT之家"),
-        ("https://sspai.com/feed", "少数派"),
-        ("https://www.zhihu.com/rss", "知乎日报"),
-    ],
+    "finance": [_gnq("财经 A股 股市"), _gnq("美联储 降息"), _gnq("港股 美股 行情")],
+    "ai": [_gnq("人工智能 大模型"), _gnq("AI 智能体 agent"), _gnq("ChatGPT GPT 发布 融资")],
+    "ai_apps": [_gnq("AI 应用 工具"), _gnq("AI Agent 创业 产品"), _gnq("AI 编程 办公 发布")],
+    "newenergy": [_gnq("新能源 光伏 储能"), _gnq("电动车 电池 比亚迪"), _gnq("碳中和 风电 氢能源")],
+    "entertainment": [_gnq("电影 票房 上映"), _gnq("综艺 热播 明星 官宣"), _gnq("游戏 电竞 赛事")],
+    "semiconductor": [_gnq("半导体 芯片"), _gnq("晶圆 光刻机"), _gnq("GPU 英伟达 存储 中芯国际")],
 }
+
+def _resolve_real_url(glink):
+    """跟随 Google News 重定向，返回真实原文 URL；失败返回空字符串（→ 百度搜索兜底）。"""
+    if not glink or "news.google.com" not in glink:
+        return glink  # 已是直连源真实 URL
+    try:
+        r = requests.get(glink, headers=UA, timeout=6, allow_redirects=True)
+        if r.url and "news.google.com" not in r.url:
+            return r.url
+    except Exception:
+        pass
+    return ""
 
 # Category keywords for filtering and sorting
 CATEGORIES = {
@@ -186,12 +172,8 @@ def fetch_google_news(query, max_items=15, retries=3):
     return []
 
 
-# 全局 DEBUG 收集（每个 RSS 源首条 entry 的字段信息）
-_debug_entries = []
-
 def fetch_news(brief_type):
-    """抓取新闻：主源国内RSS（36氪/财联社/微博等，链接国内可访问），Google News仅作内容兜底不保留其链接。"""
-    global _debug_entries
+    """抓取新闻：每个方向用 Google News 方向关键词搜索，跟随重定向解析真实原文链接。"""
     cached = load_cache()
     if cached:
         return cached
@@ -204,14 +186,12 @@ def fetch_news(brief_type):
         try:
             r = requests.get(url, headers=UA, timeout=10)
             fp = feedparser.parse(io.BytesIO(r.content))
-            # DEBUG: 收集首条 entry 信息（稍后注入 HTML）
-            if fp.entries:
-                de = fp.entries[0]
-                _debug_entries.append(f"[{source_name}] keys={list(de.keys())[:10]} link={repr(de.get('link',''))[:80]} has_a={'<a' in (de.get('summary','') or de.get('description','') or '')}")
             for entry in fp.entries[:15]:
-                title = entry.get("title", "").strip()
-                if len(title) < 4 or title in seen:
-                    continue
+            title = entry.get("title", "").strip()
+            if " - " in title:
+                title = title.rsplit(" - ", 1)[0].strip()
+            if len(title) < 4 or title in seen:
+                continue
                 seen.add(title)
                 summary = re.sub(r"<[^>]+>", "", entry.get("summary", "") or entry.get("description", ""))
                 summary = re.sub(r"\s+", " ", summary).strip()
@@ -240,26 +220,26 @@ def fetch_news(brief_type):
                         a_match = re.search(r'<a[^>]+href=["\']([^"\']+)["\']', desc_html)
                         if a_match:
                             link = a_match.group(1)
+                esrc = entry.get("source")
+                real_source = esrc.get("title", "") if isinstance(esrc, dict) else ""
                 items.append({
                     "title": title,
                     "summary": summary,
                     "link": link,
-                    "source": source_name,
+                    "source": real_source or source_name,
                     "date": entry.get("published", "") or entry.get("updated", ""),
                 })
         except Exception as e:
             print(f"  ⚠ {source_name}({url}): {e}")
 
-    # ── 兜底：Google News 仅补充内容，不保留其链接（news.google.com 国内被墙）──
-    if len(items) < 5:  # 只有国内源不足时才用 Google News 补充
-        print(f"  ↳ 国内源仅 {len(items)} 条，用 Google News 补充内容（不含原文链接）")
-        for q in GOOGLE_QUERIES.get(brief_type, []):
-            for it in fetch_google_news(q):
-                if it["title"] and it["title"] not in seen:
-                    seen.add(it["title"])
-                    it["link"] = ""  # 清空 Google News 链接，避免用户点开被墙
-                    it["source"] = it.get("source", "资讯")
-                    items.append(it)
+    # ── 解析 Google News 重定向，拿到真实原文 URL（国内可访问）──
+    google_links = [it for it in items if "news.google.com" in it.get("link", "")]
+    if google_links:
+        print(f"  ↳ 解析 {len(google_links)} 条 Google News 重定向为真实原文链接...")
+        with cf.ThreadPoolExecutor(max_workers=6) as ex:
+            resolved = list(ex.map(_resolve_real_url, [it["link"] for it in google_links]))
+        for it, real in zip(google_links, resolved):
+            it["link"] = real  # 解析失败则置空 → 后续百度搜索兜底
 
     if not items:
         print("  ⚠ 全部源抓取为空，将由 main 写入占位页避免 404")
@@ -336,6 +316,8 @@ def build_html(brief_type, categorized, gemini_summaries=None):
     """Generate the full HTML page."""
     config = BRIEF_CONFIG.get(brief_type, {})
     cat_config = CATEGORIES.get(brief_type, {})
+    # 解析 accent 颜色为 "r,g,b" 供 rgba() 使用
+    accent_rgb = ",".join(str(int(config["accent"][i:i+2], 16)) for i in (1, 3, 5))
     today = datetime.now().strftime("%Y年%m月%d日")
     now_str = datetime.now().strftime("%Y年%m月%d日 %H:%M")
 
@@ -471,7 +453,7 @@ body{{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue
 .news-title{{font-size:14px;font-weight:600;color:#1a1a2e;line-height:1.5;margin-bottom:6px}}
 .news-summary{{font-size:12.5px;color:#666;line-height:1.6;margin-bottom:8px}}
 .news-meta{{display:flex;align-items:center;gap:8px;flex-wrap:wrap}}
-.news-source{{font-size:11px;color:{config['accent']};background:rgba({','.join(str(int(c)) for c in [i for i in bytes.fromhex(config['accent'].lstrip('#') + config['accent'].lstrip('#'))])},0.1);border-radius:4px;padding:2px 7px}}
+.news-source{{font-size:11px;color:{config['accent']};background:rgba({accent_rgb},0.1);border-radius:4px;padding:2px 7px}}
 .news-link{{font-size:11px;color:#aaa;text-decoration:none;word-break:break-all}}
 .news-link:hover{{color:{config['accent']}}}
 .footer{{text-align:center;padding:20px 0 30px;font-size:11px;color:#bbb}}
@@ -536,10 +518,6 @@ def main():
 
     # Build HTML
     html = build_html(bt, categorized, gemini)
-    # 注入 RSS DEBUG 信息到 HTML（仅在财经方向注入一次）
-    if bt == "finance" and _debug_entries:
-        debug_html = "<!--\n" + "\n".join(_debug_entries) + "\n-->"
-        html = html.replace("<!DOCTYPE", debug_html + "\n<!DOCTYPE")
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(html)
     print(f"  ✅ 已生成 {output_file}")
