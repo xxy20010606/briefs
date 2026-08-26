@@ -1,0 +1,67 @@
+{
+  "type": "newenergy",
+  "total": 45,
+  "msg": "❌ newenergy 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [【环球财经】巴西加快扩大太阳能发电和储能应用 中巴新能源合作; 城市新能源机会清单系列专题之乐山，诚邀您出席中国国际光伏与储; 展会动态:国际采购商缘何齐聚深圳？2026国际数字能源展链接; 深耕新能源新赛道！DESBOER 德世博尔 × 威高传动赋能; 截至2026年7月塔塔电力在印度比哈尔邦推光伏储能至50万户]",
+  "samples": [
+    {
+      "title": "【环球财经】巴西加快扩大太阳能发电和储能应用 中巴新能源合作领域有望进一步拓展",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "城市新能源机会清单系列专题之乐山，诚邀您出席中国国际光伏与储能产业大会",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "展会动态:国际采购商缘何齐聚深圳？2026国际数字能源展链接全球能源商机",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "深耕新能源新赛道！DESBOER 德世博尔 × 威高传动赋能光伏锂电自动化产业升级",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "截至2026年7月塔塔电力在印度比哈尔邦推光伏储能至50万户",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "出口退税政策调整背景下光伏储能设备在国际买卖合同中的风险分配与责任承担",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "从戈壁荒滩到生态绿洲塔——拉滩探索“光伏+生态+农牧业”融合发展新路径",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "罗马尼亚光伏储能项目打通绿电投资新通道",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "2026年靠谱的光伏服务商品牌质量参考评选",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "项目快报丨马尔康大藏光伏末批光伏及储能单元顺利通过验收",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "type": "semiconductor",
+  "total": 43,
+  "msg": "❌ semiconductor 自检不通过: (未解析=43, 仍Google重定向=0/43)。样例: [中国半导体，越来越绕不开西安？; 美半导体、芯片存储股重挫; 高盛第四期全球半导体研报：中国芯片自给率升至70%; 芯片自主化迎来拐点！高盛：中国先进制程缺口将从92%锐减至3; 国产端侧AI芯片赛道再添独角兽 智辰半导体完成超10亿元天使]",
+  "samples": [
+    {
+      "title": "中国半导体，越来越绕不开西安？",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "美半导体、芯片存储股重挫",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "高盛第四期全球半导体研报：中国芯片自给率升至70%",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "芯片自主化迎来拐点！高盛：中国先进制程缺口将从92%锐减至34%",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "国产端侧AI芯片赛道再添独角兽 智辰半导体完成超10亿元天使轮融资",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "国产自研芯片密集发布，半导体设备ETF易方达（159558）半日获超1亿份净申购",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "GANSPIN611 与GANSPIN612：意法半导体首款GaN电机驱动芯片，卓越能效驱动电机系统革新",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "订单积压量预计比去年年底翻了一番 半导体设备商迎投资机遇期",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "半导体板块中报亮眼，科创芯片ETF嘉实(588200)跟踪标的指数年内累计上涨47%，机构：半导体行业仍处于上行周期",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "半导体业务持续突破鼎龙股份上半年营收净利双增- 湖北日报新闻客户端",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    }
+  ]
+}

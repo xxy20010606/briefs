@@ -1,0 +1,67 @@
+{
+  "type": "ai",
+  "total": 44,
+  "msg": "❌ ai 自检不通过: (未解析=44, 仍Google重定向=0/44)。样例: [汤道生回应腾讯AI“步调偏慢”质疑：大模型竞赛刚跑“头一公里; 腾讯“赛马”走到大模型十字路口：微信14亿月活背后的AI阳谋; FlowEvo：让AI智能体像老师傅一样，把成功经验存进工具; 我国人工智能开源大模型全球累计下载量突破100亿次; 多家美企旗下AI大模型近期密集降价 价格竞争白热化]",
+  "samples": [
+    {
+      "title": "汤道生回应腾讯AI“步调偏慢”质疑：大模型竞赛刚跑“头一公里” 场景是最厚底牌",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "腾讯“赛马”走到大模型十字路口：微信14亿月活背后的AI阳谋，小微想当超级入口？",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "FlowEvo：让AI智能体像老师傅一样，把成功经验存进工具箱",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "我国人工智能开源大模型全球累计下载量突破100亿次",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "多家美企旗下AI大模型近期密集降价 价格竞争白热化",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "低价突围：中国AI大模型如何在非洲市场撬动美国主导地位",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "硅谷打响大模型价格战",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "贵州首个“一人公司”AI大模型市集将亮相2026数博会",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "人工智能开源大模型累计下载破百亿次，工信部详解三大着力点",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "兰德智库最新《中美人工智能发展报告》：真正的分水岭，不是大模型，而是现实世界",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    }
+  ]
+}

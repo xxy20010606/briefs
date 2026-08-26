@@ -1,0 +1,67 @@
+{
+  "type": "finance",
+  "total": 44,
+  "msg": "❌ finance 自检不通过: (未解析=44, 仍Google重定向=0/44)。样例: [【环球财经】伦敦股市18日上涨; 【环球财经】伦敦股市19日上涨; 【NIFD季报】2026年上半年股票市场; 人设打造 伪造战绩 跨平台导流，起底伪财经“大V”收割流水线; 沪指时隔7年再上4000点大关]",
+  "samples": [
+    {
+      "title": "【环球财经】伦敦股市18日上涨",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "【环球财经】伦敦股市19日上涨",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "【NIFD季报】2026年上半年股票市场",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "人设打造 伪造战绩 跨平台导流，起底伪财经“大V”收割流水线",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "沪指时隔7年再上4000点大关",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "A股：盘面非常明显了，大家要有准备，下周股市或将这样变化！",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "财经对话：当全球股市陆续“熊去” ，本周A股能否“牛来”？（左剑明）",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "在韩国股市“捡钱”的中国人",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "特朗普最新提议！美股三大股指收跌，金融股大跌",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "股市行情抬腕即看，鸿蒙版新浪财经独家支持手机手表自选股互通",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    }
+  ]
+}
