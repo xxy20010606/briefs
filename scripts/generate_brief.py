@@ -2,7 +2,7 @@
 """Daily Brief Generator - 日报生成器
 Usage: python generate_brief.py --type [finance|ai|ai_apps|newenergy|entertainment|semiconductor]
 """
-import argparse, json, os, re, time, io, concurrent.futures as cf
+import argparse, json, os, re, time, io, base64, concurrent.futures as cf
 import urllib.parse
 from datetime import datetime, timedelta
 from html import escape
@@ -60,14 +60,50 @@ FEEDS = {
     "semiconductor": [_gnq("半导体 芯片"), _gnq("晶圆 光刻机"), _gnq("GPU 英伟达 存储 中芯国际")],
 }
 
+def _decode_google_article(glink):
+    """Google News RSS 文章链接是 base64 编码的，直接解码出真实原文 URL（无需联网跳转，最可靠）。"""
+    try:
+        if "news.google.com" not in glink:
+            return ""
+        # 形如 .../rss/articles/CBMiXXXX 或 .../articles/CBMiXXXX
+        m = re.search(r'/(?:rss/)?articles/([A-Za-z0-9_-]+)', glink)
+        if not m:
+            return ""
+        b64 = m.group(1)
+        b64 += "=" * (-len(b64) % 4)  # 补齐 base64 padding
+        decoded = base64.urlsafe_b64decode(b64).decode("utf-8", "ignore")
+        # 真实 URL 位于 "HN_News " 签名之后
+        if "HN_News " in decoded:
+            return decoded.split("HN_News ", 1)[1].strip()
+        # 极少数情况直接是 URL
+        if decoded.startswith("http"):
+            return decoded
+    except Exception:
+        pass
+    return ""
+
+
 def _resolve_real_url(glink):
-    """跟随 Google News 重定向，返回真实原文 URL；失败返回空字符串（→ 百度搜索兜底）。"""
+    """解析 Google News 重定向为真实原文 URL。
+    优先 base64 解码（无需联网），失败再跟随 HTTP 重定向，最终失败返回空（→ 百度搜索兜底）。"""
     if not glink or "news.google.com" not in glink:
         return glink  # 已是直连源真实 URL
+    # 方法1：base64 解码（最可靠，不依赖网络）
+    decoded = _decode_google_article(glink)
+    if decoded and "news.google.com" not in decoded:
+        return decoded
+    # 方法2：跟随 HTTP 重定向
     try:
-        r = requests.get(glink, headers=UA, timeout=6, allow_redirects=True)
+        r = requests.get(glink, headers=UA, timeout=8, allow_redirects=True)
         if r.url and "news.google.com" not in r.url:
             return r.url
+        loc = r.headers.get("Location", "") or r.headers.get("location", "")
+        if loc and "news.google.com" not in loc:
+            return loc if loc.startswith("http") else ("https:" + loc if loc.startswith("//") else "https://" + loc)
+        txt = r.text[:20000]
+        m = re.search(r'(?:content|URL)\s*=\s*["\']?\s*\d+\s*;\s*url\s*=\s*["\']?(https?://[^"\'>\s]+)', txt, re.I)
+        if m and "news.google.com" not in m.group(1):
+            return m.group(1)
     except Exception:
         pass
     return ""
@@ -124,19 +160,29 @@ BRIEF_CONFIG = {
 
 # ── Helper Functions ───────────────────────────────────
 
-def load_cache():
+def load_cache(brief_type):
+    """按方向读取缓存，避免跨方向串数据（曾导致所有方向显示同一方向内容）。"""
     if os.path.exists(CACHE_FILE):
         try:
             with open(CACHE_FILE) as f:
                 data = json.load(f)
             if time.time() - data.get("ts", 0) < CACHE_HOURS * 3600:
-                return data.get("items", [])
+                items = data.get("items", {})
+                if isinstance(items, dict):
+                    return items.get(brief_type, [])
         except: pass
     return []
 
-def save_cache(items):
+def save_cache(items, brief_type):
+    cache = {}
+    if os.path.exists(CACHE_FILE):
+        try:
+            with open(CACHE_FILE) as f:
+                cache = json.load(f).get("items", {})
+        except: cache = {}
+    cache[brief_type] = items
     with open(CACHE_FILE, "w") as f:
-        json.dump({"ts": time.time(), "items": items}, f)
+        json.dump({"ts": time.time(), "items": cache}, f)
 
 def fetch_google_news(query, max_items=15, retries=3):
     """从 Google News 中文 RSS 抓取（云端环境稳定可达），带重试。"""
@@ -174,7 +220,7 @@ def fetch_google_news(query, max_items=15, retries=3):
 
 def fetch_news(brief_type):
     """抓取新闻：每个方向用 Google News 方向关键词搜索，跟随重定向解析真实原文链接。"""
-    cached = load_cache()
+    cached = load_cache(brief_type)
     if cached:
         return cached
 
@@ -245,7 +291,7 @@ def fetch_news(brief_type):
         print("  ⚠ 全部源抓取为空，将由 main 写入占位页避免 404")
         return []
 
-    save_cache(items)
+    save_cache(items, brief_type)
     return items
 
 
