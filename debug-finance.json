@@ -1,16 +1,16 @@
 {
   "type": "finance",
   "total": 44,
-  "msg": "❌ finance 自检不通过: (未解析=44, 仍Google重定向=0/44)。样例: [【环球财经】伦敦股市18日上涨; 【环球财经】伦敦股市19日上涨; 【NIFD季报】2026年上半年股票市场; 人设打造 伪造战绩 跨平台导流，起底伪财经“大V”收割流水线; 沪指时隔7年再上4000点大关]",
+  "msg": "❌ finance 自检不通过: (未解析=44, 仍Google重定向=0/44)。样例: [【环球财经】伦敦股市26日下跌; 【环球财经】伦敦股市18日上涨; 【NIFD季报】2026年上半年股票市场; 人设打造 伪造战绩 跨平台导流，起底伪财经“大V”收割流水线; 【环球财经】伦敦股市24日上涨]",
   "samples": [
     {
-      "title": "【环球财经】伦敦股市18日上涨",
+      "title": "【环球财经】伦敦股市26日下跌",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "【环球财经】伦敦股市19日上涨",
+      "title": "【环球财经】伦敦股市18日上涨",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -28,13 +28,7 @@
       "decode_detail": ""
     },
     {
-      "title": "沪指时隔7年再上4000点大关",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "A股：盘面非常明显了，大家要有准备，下周股市或将这样变化！",
+      "title": "【环球财经】伦敦股市24日上涨",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -46,7 +40,7 @@
       "decode_detail": ""
     },
     {
-      "title": "在韩国股市“捡钱”的中国人",
+      "title": "3.23A股暴跌名场面！今日股市段子合集",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -59,6 +53,12 @@
     },
     {
       "title": "股市行情抬腕即看，鸿蒙版新浪财经独家支持手机手表自选股互通",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "【环球财经】韩国股市暴跌触发熔断机制",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
