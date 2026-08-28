@@ -1,16 +1,16 @@
 {
   "type": "ai_apps",
-  "total": 42,
-  "msg": "❌ ai_apps 自检不通过: (未解析=42, 仍Google重定向=0/42)。样例: [行云科技：跨境数字贸易有部分AI应用工具 算力配套服务对业绩; 行云科技：公司跨境数字贸易业务有部分AI应用工具; 低代码工具的使用是否会降低AI应用开发的门槛？; 每日互动发布Vibe coding工具“仝人编程” 让业务专; 社交应用Pie推出社区主页功能，从活动工具转型社交网络-AI]",
+  "total": 40,
+  "msg": "❌ ai_apps 自检不通过: (未解析=40, 仍Google重定向=0/40)。样例: [行云科技：公司跨境数字贸易业务有部分AI应用工具; 行云科技：跨境数字贸易有部分AI应用工具 算力配套服务对业绩; 低代码工具的使用是否会降低AI应用开发的门槛？; 字节跳动将AI工具并入豆包超级应用 对抗腾讯等竞争对手; 每日互动发布Vibe coding工具“仝人编程” 让业务专]",
   "samples": [
     {
-      "title": "行云科技：跨境数字贸易有部分AI应用工具 算力配套服务对业绩影响小",
+      "title": "行云科技：公司跨境数字贸易业务有部分AI应用工具",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "行云科技：公司跨境数字贸易业务有部分AI应用工具",
+      "title": "行云科技：跨境数字贸易有部分AI应用工具 算力配套服务对业绩影响小",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -22,13 +22,13 @@
       "decode_detail": ""
     },
     {
-      "title": "每日互动发布Vibe coding工具“仝人编程” 让业务专家轻松创造AI应用",
+      "title": "字节跳动将AI工具并入豆包超级应用 对抗腾讯等竞争对手",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "社交应用Pie推出社区主页功能，从活动工具转型社交网络-AI应用",
+      "title": "每日互动发布Vibe coding工具“仝人编程” 让业务专家轻松创造AI应用",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -40,7 +40,7 @@
       "decode_detail": ""
     },
     {
-      "title": "QuestMobile 2026全景生态流量半年报告：AI成为电商平台重要的营销与交易赋能工具，AI应用成为购物“新入口",
+      "title": "AI检测工具正在制造新的信任危机-AI应用",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -52,13 +52,13 @@
       "decode_detail": ""
     },
     {
-      "title": "全国首例！AI代写“种草笔记”案宣判",
+      "title": "QuestMobile 2026全景生态流量半年报告：AI成为电商平台重要的营销与交易赋能工具，AI应用成为购物“新入口",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "AI 在财务报告中的应用定义",
+      "title": "全国首例！AI代写“种草笔记”案宣判",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""

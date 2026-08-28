@@ -1,8 +1,26 @@
 {
   "type": "newenergy",
   "total": 45,
-  "msg": "❌ newenergy 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [城市新能源机会清单系列专题之乐山，诚邀您出席中国国际光伏与储; 借“光”生金储“能”蓄势亳州市谯城区新能源产业跑出绿色发展“; 【环球财经】巴西加快扩大太阳能发电和储能应用 中巴新能源合作; 火蝠电商：打通线上经营全链路，阳光新能源2026年电商GMV; 印度Roofsol签署5MWp光伏及4MWh储能PPA]",
+  "msg": "❌ newenergy 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [直击巴西展丨昱能APstorage全场景储能方案实力亮相; 共享接入点获批，巴西新能源跳出独立储能路径; 携功率半导体创新解决方案 森未科技亮相深圳PCIM Asia; 城市新能源机会清单系列专题之乐山，诚邀您出席中国国际光伏与储; 【环球财经】巴西加快扩大太阳能发电和储能应用 中巴新能源合作]",
   "samples": [
+    {
+      "title": "直击巴西展丨昱能APstorage全场景储能方案实力亮相",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "共享接入点获批，巴西新能源跳出独立储能路径",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "携功率半导体创新解决方案 森未科技亮相深圳PCIM Asia 2026",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
     {
       "title": "城市新能源机会清单系列专题之乐山，诚邀您出席中国国际光伏与储能产业大会",
       "raw_link": "",
@@ -10,25 +28,7 @@
       "decode_detail": ""
     },
     {
-      "title": "借“光”生金储“能”蓄势亳州市谯城区新能源产业跑出绿色发展“加速度”",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
       "title": "【环球财经】巴西加快扩大太阳能发电和储能应用 中巴新能源合作领域有望进一步拓展",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "火蝠电商：打通线上经营全链路，阳光新能源2026年电商GMV突破1000万",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "印度Roofsol签署5MWp光伏及4MWh储能PPA",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -46,19 +46,19 @@
       "decode_detail": ""
     },
     {
-      "title": "倒计时开启！第18届世界太阳能光伏暨储能产业博览会重磅将至",
+      "title": "尚方能源成功签约上海奉贤60MW/240MWh独立储能电站EPC项目",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "欧盟碳关税新规来袭，光伏储能出口成本生变",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
       "title": "专访丨中国光伏和储能发展对全球能源转型意义重大——访欧洲太阳能展主办方负责人埃尔泽塞尔",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "罗马尼亚光伏储能项目打通绿电投资新通道",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
