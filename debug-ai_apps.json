@@ -1,14 +1,8 @@
 {
   "type": "ai_apps",
-  "total": 40,
-  "msg": "❌ ai_apps 自检不通过: (未解析=40, 仍Google重定向=0/40)。样例: [行云科技：公司跨境数字贸易业务有部分AI应用工具; 行云科技：跨境数字贸易有部分AI应用工具 算力配套服务对业绩; 低代码工具的使用是否会降低AI应用开发的门槛？; 字节跳动将AI工具并入豆包超级应用 对抗腾讯等竞争对手; 每日互动发布Vibe coding工具“仝人编程” 让业务专]",
+  "total": 41,
+  "msg": "❌ ai_apps 自检不通过: (未解析=41, 仍Google重定向=0/41)。样例: [行云科技：跨境数字贸易有部分AI应用工具 算力配套服务对业绩; 行云科技：公司跨境数字贸易业务有部分AI应用工具; Meta推出AI测试工具XR Operator助力VR应用开; 10 款最佳商务 AI 工具（2026年8月）; 每日互动发布Vibe coding工具“仝人编程” 让业务专]",
   "samples": [
-    {
-      "title": "行云科技：公司跨境数字贸易业务有部分AI应用工具",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
     {
       "title": "行云科技：跨境数字贸易有部分AI应用工具 算力配套服务对业绩影响小",
       "raw_link": "",
@@ -16,19 +10,31 @@
       "decode_detail": ""
     },
     {
-      "title": "低代码工具的使用是否会降低AI应用开发的门槛？",
+      "title": "行云科技：公司跨境数字贸易业务有部分AI应用工具",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "字节跳动将AI工具并入豆包超级应用 对抗腾讯等竞争对手",
+      "title": "Meta推出AI测试工具XR Operator助力VR应用开发",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "10 款最佳商务 AI 工具（2026年8月）",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
       "title": "每日互动发布Vibe coding工具“仝人编程” 让业务专家轻松创造AI应用",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "字节跳动将AI工具并入豆包超级应用 对抗腾讯等竞争对手",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -47,12 +53,6 @@
     },
     {
       "title": "中国气象局发布“妈祖”风云卫星AI工具箱",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "QuestMobile 2026全景生态流量半年报告：AI成为电商平台重要的营销与交易赋能工具，AI应用成为购物“新入口",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""

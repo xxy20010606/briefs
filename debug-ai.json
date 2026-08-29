@@ -1,64 +1,64 @@
 {
   "type": "ai",
   "total": 45,
-  "msg": "❌ ai 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [三项工业人工智能领域国家标准正式发布实施，中控技术深度参与; 词元何以成为智能经济发展的重要引擎; 全力推动“人工智能赋能千行百业” 广州民企书写“AI+”新故; 全球媒体聚焦| 中国推动AI技术大规模应用- 中国日报网; 四川宜宾：人工智能产业利好持续升级]",
+  "msg": "❌ ai 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [行业首个量子增强型大模型玄幂Xenomi发布：深度融合AI与; 小米AI大模型创新突破：8篇论文入选国际顶会EMNLP 20; 中行行长张辉：BOC AI大模型用户突破3.2万人; 聚焦2026数博会｜“大模型与数据智能创新国际合作“交流活动; 强化学习之父Rich Sutton最新判断：大模型被困在“局]",
   "samples": [
     {
-      "title": "三项工业人工智能领域国家标准正式发布实施，中控技术深度参与",
+      "title": "行业首个量子增强型大模型玄幂Xenomi发布：深度融合AI与量子计算|开源模型|决策|家族|科研|国光_手机新浪网",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "词元何以成为智能经济发展的重要引擎",
+      "title": "小米AI大模型创新突破：8篇论文入选国际顶会EMNLP 2026",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "全力推动“人工智能赋能千行百业” 广州民企书写“AI+”新故事",
+      "title": "中行行长张辉：BOC AI大模型用户突破3.2万人",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "全球媒体聚焦| 中国推动AI技术大规模应用- 中国日报网",
+      "title": "聚焦2026数博会｜“大模型与数据智能创新国际合作“交流活动举行",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "四川宜宾：人工智能产业利好持续升级",
+      "title": "强化学习之父Rich Sutton最新判断：大模型被困在“局部最优”，AI必须学会持续学习",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "厦门词元出海首单落地",
+      "title": "越年长越看好AI？机构称AI并未淘汰老员工，经验丰富能更好驾驭大模型- AI 人工智能",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "国光量超推出行业首个量子增强型大模型玄幂",
+      "title": "银协：AI大模型加速融入行业服务",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "硬件挣钱软件承压 AI板块中报业绩分化",
+      "title": "大模型“吃”了全网的语料 “合理使用”与侵权的边界如何划清？",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "国企进化论｜给AI装上“山东耳朵”_山东新闻",
+      "title": "申宇婧等：前沿大模型差距仅2.7%！中美AI竞争已并跑",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "数智共昇 湘聚有为：AI赋能新质生产力的湖南实践",
+      "title": "《时代》全球AI百大人物出炉：约七成来自美国，中国九人上榜",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""

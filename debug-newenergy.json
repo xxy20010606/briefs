@@ -1,8 +1,26 @@
 {
   "type": "newenergy",
   "total": 45,
-  "msg": "❌ newenergy 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [直击巴西展丨昱能APstorage全场景储能方案实力亮相; 共享接入点获批，巴西新能源跳出独立储能路径; 携功率半导体创新解决方案 森未科技亮相深圳PCIM Asia; 城市新能源机会清单系列专题之乐山，诚邀您出席中国国际光伏与储; 【环球财经】巴西加快扩大太阳能发电和储能应用 中巴新能源合作]",
+  "msg": "❌ newenergy 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [阳光电源上半年营收同比降29%，净利润下降32%，光伏业务拖; 卫蓝新能源匈牙利 Elektro Energy 两个光伏共址; 城市新能源机会清单系列专题之乐山，诚邀您出席中国国际光伏与储; 直击巴西展丨昱能APstorage全场景储能方案实力亮相; 共享接入点获批，巴西新能源跳出独立储能路径]",
   "samples": [
+    {
+      "title": "阳光电源上半年营收同比降29%，净利润下降32%，光伏业务拖累明显｜财报见闻",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "卫蓝新能源匈牙利 Elektro Energy 两个光伏共址储能项目并网成功",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "城市新能源机会清单系列专题之乐山，诚邀您出席中国国际光伏与储能产业大会",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
     {
       "title": "直击巴西展丨昱能APstorage全场景储能方案实力亮相",
       "raw_link": "",
@@ -11,18 +29,6 @@
     },
     {
       "title": "共享接入点获批，巴西新能源跳出独立储能路径",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "携功率半导体创新解决方案 森未科技亮相深圳PCIM Asia 2026",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "城市新能源机会清单系列专题之乐山，诚邀您出席中国国际光伏与储能产业大会",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -46,19 +52,13 @@
       "decode_detail": ""
     },
     {
-      "title": "尚方能源成功签约上海奉贤60MW/240MWh独立储能电站EPC项目",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "欧盟碳关税新规来袭，光伏储能出口成本生变",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
       "title": "专访丨中国光伏和储能发展对全球能源转型意义重大——访欧洲太阳能展主办方负责人埃尔泽塞尔",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "十年答卷：绿能高地崛起时",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
