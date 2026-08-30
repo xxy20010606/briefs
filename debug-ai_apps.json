@@ -1,7 +1,7 @@
 {
   "type": "ai_apps",
-  "total": 41,
-  "msg": "❌ ai_apps 自检不通过: (未解析=41, 仍Google重定向=0/41)。样例: [行云科技：跨境数字贸易有部分AI应用工具 算力配套服务对业绩; 行云科技：公司跨境数字贸易业务有部分AI应用工具; Meta推出AI测试工具XR Operator助力VR应用开; 10 款最佳商务 AI 工具（2026年8月）; 每日互动发布Vibe coding工具“仝人编程” 让业务专]",
+  "total": 42,
+  "msg": "❌ ai_apps 自检不通过: (未解析=42, 仍Google重定向=0/42)。样例: [行云科技：跨境数字贸易有部分AI应用工具 算力配套服务对业绩; 行云科技：公司跨境数字贸易业务有部分AI应用工具; 10 款最佳商务 AI 工具（2026年8月）; 每日互动发布Vibe coding工具“仝人编程” 让业务专; 不卖API，卖“办成的事”：南威软件AI万能工具移动端全球上]",
   "samples": [
     {
       "title": "行云科技：跨境数字贸易有部分AI应用工具 算力配套服务对业绩影响小",
@@ -11,12 +11,6 @@
     },
     {
       "title": "行云科技：公司跨境数字贸易业务有部分AI应用工具",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "Meta推出AI测试工具XR Operator助力VR应用开发",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -34,19 +28,7 @@
       "decode_detail": ""
     },
     {
-      "title": "字节跳动将AI工具并入豆包超级应用 对抗腾讯等竞争对手",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
       "title": "不卖API，卖“办成的事”：南威软件AI万能工具移动端全球上线- 中国日报网",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "AI检测工具正在制造新的信任危机-AI应用",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -58,7 +40,25 @@
       "decode_detail": ""
     },
     {
+      "title": "AI检测工具正在制造新的信任危机-AI应用",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
       "title": "全国首例！AI代写“种草笔记”案宣判",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "AI 在财务报告中的应用定义",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "模力工场 038 周 AI 应用周榜：工具在消失，工作流在出现",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
