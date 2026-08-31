@@ -4,6 +4,7 @@ Usage: python generate_brief.py --type [finance|ai|ai_apps|newenergy|entertainme
 """
 import argparse, json, os, re, sys, time, io, base64, concurrent.futures as cf
 import urllib.parse
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 from html import escape
 
@@ -220,38 +221,98 @@ def save_cache(items, brief_type):
     with open(CACHE_FILE, "w") as f:
         json.dump({"ts": time.time(), "items": cache}, f)
 
-def fetch_google_news(query, max_items=15, retries=3):
-    """从 Google News 中文 RSS 抓取（云端环境稳定可达），带重试。"""
-    url = "https://news.google.com/rss/search?q=" + urllib.parse.quote(query) \
-          + "&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
-    for attempt in range(retries):
-        try:
-            r = requests.get(url, headers=UA, timeout=20)
+def _extract_items_from_xml(content):
+    """从 RSS/Atom 原始 XML 直接提取条目，绕过 feedparser 可能丢弃 <link> 的顽疾。
+    兼容 RSS(<item><link>文本</link>) 与 Atom(<entry><link href=.../>)，并剥离命名空间前缀。"""
+    items = []
+    try:
+        # 剥离命名空间声明与前缀（<atom:entry> → <entry>），使 findall 不受命名空间干扰
+        txt = content.decode("utf-8", "ignore")
+        txt = re.sub(r'\sxmlns(:[A-Za-z0-9_]+)?="[^"]+"', "", txt)
+        txt = re.sub(r"<(/?)[A-Za-z0-9_]+:", r"<\1", txt)
+        root = ET.fromstring(txt.encode("utf-8"))
+    except ET.ParseError:
+        return items
+    except Exception:
+        return items
+
+    nodes = root.findall(".//item") or root.findall(".//entry")
+    for node in nodes:
+        title = (node.findtext("title") or "").strip()
+        # link：优先 <link> 文本；其次 Atom <link href>
+        link = (node.findtext("link") or "").strip()
+        if not link or not link.startswith("http"):
+            for ln in node.findall("link"):
+                href = (ln.get("href") or "").strip()
+                if href:
+                    link = href
+                    break
+        desc = (node.findtext("description") or node.findtext("summary") or "").strip()
+        date = (node.findtext("pubDate") or node.findtext("updated")
+                or node.findtext("published") or "").strip()
+        # source：RSS <source>文本 / Atom <source><title>
+        src_el = node.find("source")
+        source = ""
+        if src_el is not None:
+            source = (src_el.text or src_el.findtext("title") or "").strip()
+        items.append({
+            "title": title,
+            "link": link,
+            "description": desc,
+            "date": date,
+            "source": source,
+        })
+    return items
+
+
+def _fetch_one_feed(url, source_name, seen):
+    """抓取单个 RSS 源，返回条目列表（已去重、已清洗标题/摘要）。"""
+    out = []
+    try:
+        r = requests.get(url, headers=UA, timeout=15)
+        raw_items = _extract_items_from_xml(r.content)
+        # 兜底：ElementTree 一条都没解析出来时，用 feedparser 再试一次
+        if not raw_items:
             fp = feedparser.parse(io.BytesIO(r.content))
-            out = []
-            for e in fp.entries[:max_items]:
-                title = e.get("title", "").strip()
-                src = ""
-                if " - " in title:
-                    title, src = title.rsplit(" - ", 1)
-                summary = re.sub(r"<[^>]+>", "", e.get("summary", ""))
-                summary = re.sub(r"\s+", " ", summary).strip()
-                if len(summary) > 200:
-                    summary = summary[:200] + "..."
+            for e in fp.entries:
                 out.append({
-                    "title": title,
-                    "summary": summary,
-                    "link": e.get("link", ""),
-                    "source": src or "Google News",
-                    "date": e.get("published", ""),
+                    "title": e.get("title", "").strip(),
+                    "link": (e.get("link", "") or
+                             next((l.href for l in getattr(e, "links", []) if getattr(l, "href", "")), "")),
+                    "description": e.get("summary", "") or e.get("description", ""),
+                    "date": e.get("published", "") or e.get("updated", ""),
+                    "source": (e.get("source", {}).get("title", "") if isinstance(e.get("source"), dict) else ""),
                 })
-            if out:
-                return out
-            print(f"  ⚠ Google News [{query}] 第{attempt+1}次返回空，重试")
-        except Exception as ex:
-            print(f"  ⚠ Google News [{query}] 第{attempt+1}次失败: {ex}")
-        time.sleep(3)
-    return []
+            return out
+        for ri in raw_items[:15]:
+            title = ri["title"]
+            src = ""
+            if " - " in title:
+                title, src = title.rsplit(" - ", 1)
+                title, src = title.strip(), src.strip()
+            if len(title) < 4 or title in seen:
+                continue
+            seen.add(title)
+            summary = re.sub(r"<[^>]+>", "", ri["description"] or "")
+            summary = re.sub(r"\s+", " ", summary).strip()
+            if len(summary) > 200:
+                summary = summary[:200] + "..."
+            link = re.sub(r'[?&]utm_[^&]*', '', (ri["link"] or "").strip())
+            # 兜底：从 description HTML 内 <a href> 提取
+            if not link.startswith("http"):
+                a = re.search(r'<a[^>]+href=["\']([^"\']+)["\']', ri["description"] or "")
+                if a:
+                    link = a.group(1)
+            out.append({
+                "title": title,
+                "summary": summary,
+                "link": link,
+                "source": src or ri["source"] or source_name,
+                "date": ri["date"],
+            })
+    except Exception as e:
+        print(f"  ⚠ {source_name}({url}): {e}")
+    return out
 
 
 def fetch_news(brief_type):
@@ -262,57 +323,8 @@ def fetch_news(brief_type):
 
     items = []
     seen = set()
-
-    # ── 主源：国内 RSS（链接可直接访问）──
     for url, source_name in FEEDS.get(brief_type, []):
-        try:
-            r = requests.get(url, headers=UA, timeout=10)
-            fp = feedparser.parse(io.BytesIO(r.content))
-            for entry in fp.entries[:15]:
-                title = entry.get("title", "").strip()
-                if " - " in title:
-                    title = title.rsplit(" - ", 1)[0].strip()
-                if len(title) < 4 or title in seen:
-                    continue
-                seen.add(title)
-                summary = re.sub(r"<[^>]+>", "", entry.get("summary", "") or entry.get("description", ""))
-                summary = re.sub(r"\s+", " ", summary).strip()
-                if len(summary) > 200:
-                    summary = summary[:200] + "..."
-                # 链接提取：多级兜底 + 全属性扫描 + description内<a>提取
-                link = (entry.get("link", "")
-                    or (next((l.href for l in getattr(entry,'links',[]) if hasattr(l,'href') and l.href), ""))
-                    or entry.get("id", ""))
-                # 清理 rsshub 可能附加的追踪参数
-                link = re.sub(r'[?&]utm_[^&]*', '', link)
-                # 兜底1：扫描所有字符串属性找 http(s) URL
-                if not link or not link.startswith("http"):
-                    for k, v in entry.items():
-                        if isinstance(v, str) and v.startswith(("http://", "https://")) and len(v) > 15:
-                            link = re.sub(r'[?&]utm_[^&]*', '', v)
-                            break
-                    # 兜底2：guid 的 value 子属性
-                    if not link or not link.startswith("http"):
-                        g = entry.get('guid')
-                        if hasattr(g, 'value') and g.value.startswith(('http://', 'https://')):
-                            link = g.value
-                    # 兜底3：从 description/summary HTML 中提取第一个 <a href>
-                    if not link or not link.startswith("http"):
-                        desc_html = (entry.get("summary", "") or entry.get("description", ""))
-                        a_match = re.search(r'<a[^>]+href=["\']([^"\']+)["\']', desc_html)
-                        if a_match:
-                            link = a_match.group(1)
-                esrc = entry.get("source")
-                real_source = esrc.get("title", "") if isinstance(esrc, dict) else ""
-                items.append({
-                    "title": title,
-                    "summary": summary,
-                    "link": link,
-                    "source": real_source or source_name,
-                    "date": entry.get("published", "") or entry.get("updated", ""),
-                })
-        except Exception as e:
-            print(f"  ⚠ {source_name}({url}): {e}")
+        items.extend(_fetch_one_feed(url, source_name, seen))
 
     # ── 解析 Google News 重定向，拿到真实原文 URL（国内可访问）──
     google_links = [it for it in items if "news.google.com" in it.get("link", "")]
@@ -647,33 +659,23 @@ def main():
                 "is_bad": is_bad,
                 "decode_detail": decode_detail,
             })
-        # 额外：抓取第一条 Google News 原始 entry 全量字段（只做一次，全局文件）
-        if not os.path.exists("debug-raw-entry.json"):
+        # 额外：把第一条条目【原始 XML】dump 出来（终极诊断，看清 Google News 真实结构）
+        if not os.path.exists("debug-raw-entry.xml"):
             try:
                 _test_url = list(FEEDS.get(bt, []))[0][0] if FEEDS.get(bt) else ""
                 if _test_url:
                     _tr = requests.get(_test_url, headers=UA, timeout=15)
-                    _tfp = feedparser.parse(io.BytesIO(_tr.content))
-                    if _tfp.entries:
-                        _e0 = _tfp.entries[0]
-                        _raw_entry = {}
-                        for _k in dir(_e0):
-                            if not _k.startswith("_"):
-                                _v = getattr(_e0, _k, None)
-                                if _v is not None and not callable(_v):
-                                    try:
-                                        _raw_entry[_k] = str(_v)[:500]
-                                    except: pass
-                        if hasattr(_e0, 'links'):
-                            _raw_entry["_links_array"] = [
-                                {"href": getattr(l,'href',''), "rel": getattr(l,'rel',''), "type": getattr(l,'type','')}
-                                for l in (_e0.links or [])
-                            ]
-                        with open("debug-raw-entry.json", "w", encoding="utf-8") as _rf:
-                            json.dump({"feed_url": _test_url, "entry_fields": _raw_entry}, _rf, ensure_ascii=False, indent=2)
+                    _root = ET.fromstring(_tr.content)
+                    _nodes = _root.findall(".//item") or _root.findall(".//entry")
+                    if _nodes:
+                        _raw_xml = ET.tostring(_nodes[0], encoding="unicode")[:2000]
+                    else:
+                        _raw_xml = "(无 item/entry 节点) 原始前500字符:\n" + _tr.text[:500] if _tr.text else "(空响应)"
+                    with open("debug-raw-entry.xml", "w", encoding="utf-8") as _rf:
+                        _rf.write(_raw_xml)
             except Exception as _diag_ex:
-                with open("debug-raw-entry.json", "w") as _rf:
-                    json.dump({"error": str(_diag_ex)}, _rf)
+                with open("debug-raw-entry.xml", "w", encoding="utf-8") as _rf:
+                    _rf.write("诊断失败: " + str(_diag_ex))
         with open(diag_file, "w", encoding="utf-8") as _df:
             json.dump({"type": bt, "total": len(items), "msg": vmsg, "samples": samples}, _df, ensure_ascii=False, indent=2)
         print(f"  📋 诊断数据已写入 {diag_file}（将随 CI 提交）")
