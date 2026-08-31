@@ -1,10 +1,10 @@
 {
   "type": "finance",
   "total": 45,
-  "msg": "❌ finance 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [操盘必读：影响股市利好或利空消息_2026年8月25日_财经; 人设打造 伪造战绩 跨平台导流，起底伪财经“大V”收割流水线; 【NIFD季报】2026年上半年股票市场; 【环球财经】韩国股市暴跌触发熔断机制; 【环球财经】伦敦股市26日下跌]",
+  "msg": "❌ finance 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [【环球财经】伦敦股市27日下跌; 人设打造 伪造战绩 跨平台导流，起底伪财经“大V”收割流水线; 【环球财经】韩国股市暴跌触发熔断机制; 【环球财经】英伟达财报提振科技股 纽约股市三大股指27日均上; 韩股急跌，香港股市走强]",
   "samples": [
     {
-      "title": "操盘必读：影响股市利好或利空消息_2026年8月25日_财经新闻",
+      "title": "【环球财经】伦敦股市27日下跌",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -16,37 +16,7 @@
       "decode_detail": ""
     },
     {
-      "title": "【NIFD季报】2026年上半年股票市场",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
       "title": "【环球财经】韩国股市暴跌触发熔断机制",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "【环球财经】伦敦股市26日下跌",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "6.23股市早8点丨大金融搭台·大科技唱戏·A股最好的状态",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "拆解股市“财经大V”骗局：三层套路构建“收割闭环”",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "陶冬：全球股市陷入连环劫",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -59,6 +29,36 @@
     },
     {
       "title": "韩股急跌，香港股市走强",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "理财一定要谨慎啊，韩国财经股市万万想不到_财经头条",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "拆解股市“财经大V”骗局：三层套路构建“收割闭环”",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "6.23股市早8点丨大金融搭台·大科技唱戏·A股最好的状态",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "【环球财经】伦敦股市26日下跌",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "陶冬：全球股市陷入连环劫",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
