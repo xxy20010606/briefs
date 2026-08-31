@@ -1,14 +1,8 @@
 {
   "type": "ai",
   "total": 45,
-  "msg": "❌ ai 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [智能时代，如何与算法共处（微观）; 许四清：从大模型到物理世界，AI的下一个十年在哪里？; 三项工业人工智能领域国家标准正式发布实施， 中控技术深度参与; AI大模型持续升级 网络安全需求随之井喷; “数字员工”助力，“一人公司”到底怎么干- 湖北日报新闻客户]",
+  "msg": "❌ ai 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [许四清：从大模型到物理世界，AI的下一个十年在哪里？; 智能时代，如何与算法共处（微观）; 100秒讲透关键词：“词元”激活智能经济新动能; 全国首个化工领域AI创新平台“智能化工大模型3.0 Pro”; 重磅！大模型AI芯片高峰论坛嘉宾全公布]",
   "samples": [
-    {
-      "title": "智能时代，如何与算法共处（微观）",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
     {
       "title": "许四清：从大模型到物理世界，AI的下一个十年在哪里？",
       "raw_link": "",
@@ -16,7 +10,37 @@
       "decode_detail": ""
     },
     {
-      "title": "三项工业人工智能领域国家标准正式发布实施， 中控技术深度参与",
+      "title": "智能时代，如何与算法共处（微观）",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "100秒讲透关键词：“词元”激活智能经济新动能",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "全国首个化工领域AI创新平台“智能化工大模型3.0 Pro”在连发布",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "重磅！大模型AI芯片高峰论坛嘉宾全公布",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "我国化工行业首个大模型迭代，向“能规划、会执行”迈进",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -34,31 +58,7 @@
       "decode_detail": ""
     },
     {
-      "title": "26项数智成果同台竞逐克拉玛依市第二届人工智能应用大赛决赛落幕- 中国日报网",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "盛大创始人再出手，上海本土AI公司StartLux打赢万亿大模型",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "中国AI大模型调用量连续十八周领跑：智谱“牛来”大模型冲上榜首，DeepSeek-V4-Pro跌出榜单",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "瑞智病理大模型RuiPath 2.0发布，诊断任务增至205项",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "国光量超发布玄幂大模型，将量子算法融入模型决策任务之中",
+      "title": "数巅智能：以数据智能体重塑企业AI生产力",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""

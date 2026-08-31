@@ -1,8 +1,14 @@
 {
   "type": "semiconductor",
   "total": 45,
-  "msg": "❌ semiconductor 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [广发金工 | AI识图关注半导体、芯片：A股量化择时研究报告; 英联股份成立先进材料公司 含集成电路芯片业务; 科创50指数调整样本股，多只半导体芯片股被调入; 半导体硅片3年来首次全尺寸涨价; 股票ETF净流出超50亿元]",
+  "msg": "❌ semiconductor 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [半导体产业链走势分化，关注科创芯片设计ETF易方达（5890; 广发金工 | AI识图关注半导体、芯片：A股量化择时研究报告; 英联股份成立先进材料公司 含集成电路芯片业务; 求是缘半导体周要闻－莫大康(2026.8.31); 韩日芯片合作升温，SK海力士研究在日本合资建存储芯片厂]",
   "samples": [
+    {
+      "title": "半导体产业链走势分化，关注科创芯片设计ETF易方达（589030）、半导体设备ETF易方达（159558）等产品投资机会",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
     {
       "title": "广发金工 | AI识图关注半导体、芯片：A股量化择时研究报告",
       "raw_link": "",
@@ -16,13 +22,25 @@
       "decode_detail": ""
     },
     {
-      "title": "科创50指数调整样本股，多只半导体芯片股被调入",
+      "title": "求是缘半导体周要闻－莫大康(2026.8.31)",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "韩日芯片合作升温，SK海力士研究在日本合资建存储芯片厂",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
       "title": "半导体硅片3年来首次全尺寸涨价",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "上海精测半导体量产基地主体封顶，达产后产能预计扩容3至5倍",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -40,25 +58,7 @@
       "decode_detail": ""
     },
     {
-      "title": "【求是芯星】杭州国磊半导体设备有限公司创始人张九六",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "一文贯通半导体芯片全产业链（上）",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "美国拟加码关税，台芯片业恐遭重创",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "长光华芯上半年归母净利同比增238.04% 光通信产品订单批量交付",
+      "title": "科创50指数调整样本股，多只半导体芯片股被调入",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
