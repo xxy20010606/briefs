@@ -62,9 +62,10 @@ FEEDS = {
 }
 
 def _decode_google_article(glink):
-    """Google News RSS 文章链接是 base64 编码的，直接解码出真实原文 URL（无需联网）。
-    支持 Google News 所有已知编码前缀（HN_News/HN_World/HN_Video 等），
-    并从解码内容中智能提取任何 http(s) URL。"""
+    """Google News RSS 文章链接是 base64 编码的。
+    历史格式：文本 'HN_News <URL>' 可直接解码（2026年前）。
+    当前格式：protobuf 二进制编码（2026年起），文本解码无效，必须走 HTTP 重定向。
+    返回真实 URL 或空字符串（调用方应继续尝试 HTTP）。"""
     try:
         if "news.google.com" not in glink:
             return ""
@@ -74,9 +75,15 @@ def _decode_google_article(glink):
         b64 = m.group(1)
         b64 += "=" * (-len(b64) % 4)
         raw = base64.urlsafe_b64decode(b64)
+
+        # 快速检测：如果非可打印字符超过 20%，判定为 protobuf 二进制，直接放弃文本解码
+        non_print = sum(1 for b in raw if b < 0x20 or b > 0x7e)
+        if len(raw) > 0 and non_print / len(raw) > 0.2:
+            return ""  # protobuf 二进制 → 文本策略全部无效，交由 HTTP 重定向处理
+
         decoded = raw.decode("utf-8", "ignore")
 
-        # 策略A：已知 Google News 前缀 → 取签名后的 URL
+        # 策略A：已知 Google News 文本前缀 → 取签名后的 URL
         for prefix in ("HN_News ", "HN_World ", "HN_Video ", "HN_Local ",
                         "HN_Podcasts ", "HN_Opinion "):
             if decoded.startswith(prefix):
@@ -103,33 +110,40 @@ def _decode_google_article(glink):
 
 def _resolve_real_url(glink):
     """解析 Google News 重定向为真实原文 URL。
-    优先 base64 解码（无需联网），失败再跟随 HTTP 重定向（CI 在美国，一定通），
+    Google News 2026年起改用 protobuf 二进制编码，文本 base64 解码仅对旧格式有效。
+    当前主力路径：HTTP 跟随重定向（CI 在美国环境，Google 可达）。
     最终失败返回空（→ 百度搜索兜底）。"""
     if not glink or "news.google.com" not in glink:
         return glink  # 已是直连源真实 URL
 
-    # 方法1：base64 解码（不依赖网络）
+    # 方法1：base64 快速解码（不依赖网络，仅对旧格式 HN_News <URL> 有效）
     decoded = _decode_google_article(glink)
     if decoded and "google.com" not in decoded and len(decoded) > 10:
         return decoded
 
-    # 方法2：HTTP 跟随重定向（CI 在美国环境，Google 可达）
+    # 方法2：HTTP 跟随重定向（当前 Google News protobuf 编码的主力路径）
+    print(f"    [HTTP] 开始跟随重定向: {glink[:100]}...")
     for method_name, getter in [
-        ("GET+redirect", lambda u: requests.get(u, headers=UA, timeout=12, allow_redirects=True)),
-        ("HEAD", lambda u: requests.head(u, headers=UA, timeout=8, allow_redirects=True)),
+        ("GET+redirect", lambda u: requests.get(u, headers=UA, timeout=20, allow_redirects=True)),
+        ("HEAD", lambda u: requests.head(u, headers=UA, timeout=12, allow_redirects=True)),
     ]:
         try:
             r = getter(glink)
+            print(f"    [HTTP {method_name}] status={r.status_code} final_url={r.url[:150]}")
             # 检查最终 URL
             if r.url and "google.com" not in r.url and r.url.startswith("http"):
+                print(f"    [HTTP] ✅ 从最终URL获取: {r.url[:120]}")
                 return r.url
             # 检查 Location 头
             loc = (r.headers.get("Location") or r.headers.get("location") or "")
             if loc and "google.com" not in loc:
                 if loc.startswith("http"):
+                    print(f"    [HTTP] ✅ 从Location头获取: {loc[:120]}")
                     return loc
                 if loc.startswith("//"):
-                    return "https:" + loc
+                    result = "https:" + loc
+                    print(f"    [HTTP] ✅ 从Location头(//)获取: {result[:120]}")
+                    return result
             # 从响应体中提取 JS 重定向目标
             txt = r.text[:30000]
             for pattern in [
@@ -139,10 +153,13 @@ def _resolve_real_url(glink):
             ]:
                 m = re.search(pattern, txt, re.I)
                 if m and "google.com" not in m.group(1):
+                    print(f"    [HTTP] ✅ 从响应体提取: {m.group(1)[:120]}")
                     return m.group(1)
-        except Exception:
+        except Exception as ex:
+            print(f"    [HTTP {method_name}] ❌ 异常: {ex}")
             continue
 
+    print(f"    [HTTP] ❌ 所有方法均失败")
     return ""
 
 # Category keywords for filtering and sorting
