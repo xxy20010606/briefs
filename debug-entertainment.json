@@ -1,7 +1,7 @@
 {
   "type": "entertainment",
-  "total": 44,
-  "msg": "❌ entertainment 自检不通过: (未解析=44, 仍Google重定向=0/44)。样例: [电影《牛来》将延长上映至10月4日，目前累计票房近6000万; 电影《彩神xs》国内上映11天 总票房破1亿元; 2026年度电影总票房突破260亿 “龙餐馆”口碑票房双走高; 电影《牛来》因粗劣动画爆红网络，意外成中国票房黑马; 2026年度电影总票房突破275亿！《欢迎来龙餐馆》公布全球]",
+  "total": 45,
+  "msg": "❌ entertainment 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [电影《牛来》将延长上映至10月4日，目前累计票房近6000万; 暑期档，怎么成了“撤退档”; 朱一龙新片《空枪》九月上映，愿票房继续走高; 电影《彩神xs》国内上映11天 总票房破1亿元; 牛来延长上映至10月4日 逆袭之路未完待续]",
   "samples": [
     {
       "title": "电影《牛来》将延长上映至10月4日，目前累计票房近6000万元",
@@ -10,7 +10,25 @@
       "decode_detail": ""
     },
     {
+      "title": "暑期档，怎么成了“撤退档”",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "朱一龙新片《空枪》九月上映，愿票房继续走高",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
       "title": "电影《彩神xs》国内上映11天 总票房破1亿元",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "牛来延长上映至10月4日 逆袭之路未完待续",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -28,37 +46,19 @@
       "decode_detail": ""
     },
     {
-      "title": "2026年度电影总票房突破275亿！《欢迎来龙餐馆》公布全球上映计划",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
       "title": "朱一龙主演电影《空枪》上映第9天累计票房破3亿",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
+      "title": "《牛来》宣布延长上映！AI预测票房可近7000万",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
       "title": "电影《和记娱博》国内上映11天 总票房破1亿元",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "《牛来》为何爆红？观众、导演与电影从业者解读“粗糙”动画的意外狂欢",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "国产动画电影《易盈娱乐网站》上映9天票房7169元 观众看完想哭",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "国产动画电影《千赢娱乐手机》上映9天票房7169元 观众看完想哭",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""

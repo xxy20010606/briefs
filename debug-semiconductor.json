@@ -1,16 +1,34 @@
 {
   "type": "semiconductor",
-  "total": 45,
-  "msg": "❌ semiconductor 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [广发金工 | AI识图关注半导体、芯片：A股量化择时研究报告; 英联股份成立先进材料公司 含集成电路芯片业务; 科创50指数调整样本股，多只半导体芯片股被调入; 求是缘半导体周要闻－莫大康(2026.8.31); 韩日芯片合作升温，SK海力士研究在日本合资建存储芯片厂]",
+  "total": 44,
+  "msg": "❌ semiconductor 自检不通过: (未解析=44, 仍Google重定向=0/44)。样例: [总投资20亿元！高端半导体测试总部项目落地苏州; 科创芯片设计指数大幅领涨主要芯片指数！科创芯片设计ETF天弘; Agent介入芯片研发流程，半导体产业开始重构生产工具|AI; 半导体设备、材料中报大盘点！谁是盈利王？; AI芯片需求持续爆发，韩国8月出口同比激增近七成]",
   "samples": [
     {
-      "title": "广发金工 | AI识图关注半导体、芯片：A股量化择时研究报告",
+      "title": "总投资20亿元！高端半导体测试总部项目落地苏州",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "英联股份成立先进材料公司 含集成电路芯片业务",
+      "title": "科创芯片设计指数大幅领涨主要芯片指数！科创芯片设计ETF天弘(589070)昨日净流入超2500万元",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "Agent介入芯片研发流程，半导体产业开始重构生产工具|AI芯片|香格里拉酒店|上海市|GPU|德勤_手机新浪网",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "半导体设备、材料中报大盘点！谁是盈利王？",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
+    {
+      "title": "AI芯片需求持续爆发，韩国8月出口同比激增近七成",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
@@ -22,43 +40,25 @@
       "decode_detail": ""
     },
     {
-      "title": "求是缘半导体周要闻－莫大康(2026.8.31)",
+      "title": "中国芯片设备，静待一个大消息",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "韩日芯片合作升温，SK海力士研究在日本合资建存储芯片厂",
+      "title": "国产芯片换道超车！3D先进封装试产，补齐华为韬定律核心短板",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "半导体硅片3年来首次全尺寸涨价",
+      "title": "龙头集聚生态成型！燕罗抢占AI时代泛半导体发展风口",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "上海精测半导体量产基地主体封顶，达产后产能预计扩容3至5倍",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "股票ETF净流出超50亿元",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "97亩总部基地开建！半导体测试赛道头部企业扩容",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "美国拟加码关税，台芯片业恐遭重创",
+      "title": "2026集成电路（无锡）创新发展大会开幕",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""

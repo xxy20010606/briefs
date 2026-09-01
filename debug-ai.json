@@ -1,8 +1,14 @@
 {
   "type": "ai",
-  "total": 45,
-  "msg": "❌ ai 自检不通过: (未解析=45, 仍Google重定向=0/45)。样例: [许四清：从大模型到物理世界，AI的下一个十年在哪里？; 智能时代，如何与算法共处（微观）; 100秒讲透关键词：“词元”激活智能经济新动能; 全国首个化工领域AI创新平台“智能化工大模型3.0 Pro”; 重磅！大模型AI芯片高峰论坛嘉宾全公布]",
+  "total": 44,
+  "msg": "❌ ai 自检不通过: (未解析=44, 仍Google重定向=0/44)。样例: [以真实业务牵引技术迭代 AI打开广电视听全链路创新空间; 许四清：从大模型到物理世界，AI的下一个十年在哪里？; AI竞争焦点下移，工信部划定3000家服务商池; 中通云仓科技发布“云知AI大模型平台” 开启物流AI应用新篇; 全球AI商业落地价值洞察研究报告（2026）]",
   "samples": [
+    {
+      "title": "以真实业务牵引技术迭代 AI打开广电视听全链路创新空间",
+      "raw_link": "",
+      "is_bad": true,
+      "decode_detail": ""
+    },
     {
       "title": "许四清：从大模型到物理世界，AI的下一个十年在哪里？",
       "raw_link": "",
@@ -10,55 +16,49 @@
       "decode_detail": ""
     },
     {
-      "title": "智能时代，如何与算法共处（微观）",
+      "title": "AI竞争焦点下移，工信部划定3000家服务商池",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "100秒讲透关键词：“词元”激活智能经济新动能",
+      "title": "中通云仓科技发布“云知AI大模型平台” 开启物流AI应用新篇章- 跨境电商",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "全国首个化工领域AI创新平台“智能化工大模型3.0 Pro”在连发布",
+      "title": "全球AI商业落地价值洞察研究报告（2026）",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "重磅！大模型AI芯片高峰论坛嘉宾全公布",
+      "title": "AI应用服务商培育专项行动落地！行业加速迈向商业化兑现拐点(附股)",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0",
+      "title": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "我国化工行业首个大模型迭代，向“能规划、会执行”迈进",
+      "title": "视频｜美知名媒体人：十年深耕 中国AI大模型超预期发展",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "AI大模型持续升级 网络安全需求随之井喷",
+      "title": "卢新宁：把中国五花八门的人工智能消费品以最优价格带给东盟朋友",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
     },
     {
-      "title": "物理AI与通用大模型的“分岔路”：为什么工业场景不能只用GPT？",
-      "raw_link": "",
-      "is_bad": true,
-      "decode_detail": ""
-    },
-    {
-      "title": "“数字员工”助力，“一人公司”到底怎么干- 湖北日报新闻客户端",
+      "title": "大模型会设计芯片了，EDA厂商慌了吗？",
       "raw_link": "",
       "is_bad": true,
       "decode_detail": ""
