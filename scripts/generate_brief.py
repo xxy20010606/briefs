@@ -122,42 +122,42 @@ def _resolve_real_url(glink):
         return decoded
 
     # 方法2：HTTP 跟随重定向（当前 Google News protobuf 编码的主力路径）
-    print(f"    [HTTP] 开始跟随重定向: {glink[:100]}...")
-    for method_name, getter in [
-        ("GET+redirect", lambda u: requests.get(u, headers=UA, timeout=20, allow_redirects=True)),
-        ("HEAD", lambda u: requests.head(u, headers=UA, timeout=12, allow_redirects=True)),
-    ]:
-        try:
-            r = getter(glink)
-            print(f"    [HTTP {method_name}] status={r.status_code} final_url={r.url[:150]}")
-            # 检查最终 URL
-            if r.url and "google.com" not in r.url and r.url.startswith("http"):
-                print(f"    [HTTP] ✅ 从最终URL获取: {r.url[:120]}")
-                return r.url
-            # 检查 Location 头
-            loc = (r.headers.get("Location") or r.headers.get("location") or "")
-            if loc and "google.com" not in loc:
-                if loc.startswith("http"):
-                    print(f"    [HTTP] ✅ 从Location头获取: {loc[:120]}")
-                    return loc
-                if loc.startswith("//"):
-                    result = "https:" + loc
-                    print(f"    [HTTP] ✅ 从Location头(//)获取: {result[:120]}")
-                    return result
-            # 从响应体中提取 JS 重定向目标
-            txt = r.text[:30000]
-            for pattern in [
-                r'url\s*=\s*["\']?(https?://[^"\'>\s]+)',
-                r'["\'](https?://[^"\']*?article[^"\']*?)["\']',
-                r'"(https?://[^"]+)"',
-            ]:
-                m = re.search(pattern, txt, re.I)
-                if m and "google.com" not in m.group(1):
-                    print(f"    [HTTP] ✅ 从响应体提取: {m.group(1)[:120]}")
-                    return m.group(1)
-        except Exception as ex:
-            print(f"    [HTTP {method_name}] ❌ 异常: {ex}")
-            continue
+    # 注意：Google News 文章URL经重定向后可能落在 Google 文章页（非出版方），
+    # 故需从最终 HTML 中再解析真实出版方 URL。
+    try:
+        r = requests.get(glink, headers=UA, timeout=18, allow_redirects=True)
+        print(f"    [HTTP] GET status={r.status_code} final_url={r.url[:120]}")
+
+        # 2a. 最终URL已是出版方
+        if r.url and "google.com" not in r.url and r.url.startswith("http"):
+            print(f"    [HTTP] ✅ 最终URL即出版方: {r.url[:120]}")
+            return r.url
+
+        # 2b. 从最终 HTML 解析真实 URL（多种常见模式）
+        txt = r.text or ""
+        candidates = []
+        # og:url / canonical
+        for pat in [
+            r'<meta[^>]+property=["\']og:url["\'][^>]+content=["\']([^"\']+)["\']',
+            r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']',
+            r'<a[^>]+class=["\'][^"\']*article-link[^"\']*["\'][^>]+href=["\']([^"\']+)["\']',
+            r'<a[^>]+href=["\']([^"\']+)["\'][^>]*>\s*<span[^>]*>\s*Read\b',
+        ]:
+            m = re.search(pat, txt, re.I)
+            if m:
+                candidates.append(m.group(1))
+        # 任意非 google 的 https 链接（兜底，取第一个）
+        for m in re.finditer(r'https?://[^\s"\'<>]+', txt):
+            u = m.group(0).rstrip('.,;)')
+            if "google.com" not in u and "google.co" not in u and len(u) > 20:
+                candidates.append(u)
+                break
+        for c in candidates:
+            if c.startswith("http") and "google.com" not in c and "google.co" not in c:
+                print(f"    [HTTP] ✅ 从HTML解析出版方: {c[:120]}")
+                return c
+    except Exception as ex:
+        print(f"    [HTTP] ❌ 异常: {ex}")
 
     print(f"    [HTTP] ❌ 所有方法均失败")
     return ""
@@ -238,32 +238,51 @@ def save_cache(items, brief_type):
     with open(CACHE_FILE, "w") as f:
         json.dump({"ts": time.time(), "items": cache}, f)
 
+# 从原始 XML 文本中抠出 Google News 文章 URL（结构无关，兼容 <link>文本 / <link href> / 命名空间前缀）
+_GN_URL_RE = re.compile(r'https://news\.google\.com/rss/articles/[A-Za-z0-9_-]+(?:\?[^"<\s]*)?')
+
 def _extract_items_from_xml(content):
-    """从 RSS/Atom 原始 XML 直接提取条目，绕过 feedparser 可能丢弃 <link> 的顽疾。
-    兼容 RSS(<item><link>文本</link>) 与 Atom(<entry><link href=.../>)，并剥离命名空间前缀。"""
+    """从 RSS/Atom 原始 XML 直接提取条目，绕过 feedparser 丢 <link> 的顽疾。
+    链接提取采用「结构无关」策略：优先 ET 标准提取，失败则从节点原始 XML 文本里
+    正则抠出 Google News 文章 URL（它同时出现在 <link> 与 <description> 转义 <a href> 中）。"""
     items = []
+    root = None
+    # 方法1：直接解析（CI 中 Google News RSS 可正常解析）
     try:
-        # 剥离命名空间声明与前缀（<atom:entry> → <entry>），使 findall 不受命名空间干扰
-        txt = content.decode("utf-8", "ignore")
-        txt = re.sub(r'\sxmlns(:[A-Za-z0-9_]+)?="[^"]+"', "", txt)
-        txt = re.sub(r"<(/?)[A-Za-z0-9_]+:", r"<\1", txt)
-        root = ET.fromstring(txt.encode("utf-8"))
+        root = ET.fromstring(content)
     except ET.ParseError:
-        return items
-    except Exception:
+        root = None
+    # 方法2：剥离命名空间后重试
+    if root is None:
+        try:
+            txt = content.decode("utf-8", "ignore")
+            txt = re.sub(r'\sxmlns(:[A-Za-z0-9_]+)?="[^"]+"', "", txt)
+            txt = re.sub(r"<(/?)[A-Za-z0-9_]+:", r"<\1", txt)
+            root = ET.fromstring(txt.encode("utf-8"))
+        except Exception:
+            root = None
+    if root is None:
         return items
 
     nodes = root.findall(".//item") or root.findall(".//entry")
     for node in nodes:
         title = (node.findtext("title") or "").strip()
-        # link：优先 <link> 文本；其次 Atom <link href>
+        # link：优先 <link> 文本；其次 Atom <link href>；最后从原始节点 XML 正则抠
         link = (node.findtext("link") or "").strip()
-        if not link or not link.startswith("http"):
+        if not link or "news.google.com" not in link:
             for ln in node.findall("link"):
                 href = (ln.get("href") or "").strip()
                 if href:
                     link = href
                     break
+        if not link or "news.google.com" not in link:
+            try:
+                node_xml = ET.tostring(node, encoding="unicode")
+                m = _GN_URL_RE.search(node_xml)
+                if m:
+                    link = m.group(0)
+            except Exception:
+                pass
         desc = (node.findtext("description") or node.findtext("summary") or "").strip()
         date = (node.findtext("pubDate") or node.findtext("updated")
                 or node.findtext("published") or "").strip()
@@ -288,6 +307,8 @@ def _fetch_one_feed(url, source_name, seen):
     try:
         r = requests.get(url, headers=UA, timeout=15)
         raw_items = _extract_items_from_xml(r.content)
+        print(f"  ↳ {source_name}: 解析到 {len(raw_items)} 条，"
+              f"其中带 Google 链接 {sum(1 for x in raw_items if 'news.google.com' in (x.get('link') or ''))} 条")
         # 兜底：ElementTree 一条都没解析出来时，用 feedparser 再试一次
         if not raw_items:
             fp = feedparser.parse(io.BytesIO(r.content))
@@ -676,23 +697,22 @@ def main():
                 "is_bad": is_bad,
                 "decode_detail": decode_detail,
             })
-        # 额外：把第一条条目【原始 XML】dump 出来（终极诊断，看清 Google News 真实结构）
-        if not os.path.exists("debug-raw-entry.xml"):
-            try:
-                _test_url = list(FEEDS.get(bt, []))[0][0] if FEEDS.get(bt) else ""
-                if _test_url:
-                    _tr = requests.get(_test_url, headers=UA, timeout=15)
-                    _root = ET.fromstring(_tr.content)
-                    _nodes = _root.findall(".//item") or _root.findall(".//entry")
-                    if _nodes:
-                        _raw_xml = ET.tostring(_nodes[0], encoding="unicode")[:2000]
-                    else:
-                        _raw_xml = "(无 item/entry 节点) 原始前500字符:\n" + _tr.text[:500] if _tr.text else "(空响应)"
-                    with open("debug-raw-entry.xml", "w", encoding="utf-8") as _rf:
-                        _rf.write(_raw_xml)
-            except Exception as _diag_ex:
+        # 额外：把第一条条目【原始 XML】dump 出来（终极诊断，看清 Google News 真实结构，每次覆盖）
+        try:
+            _test_url = list(FEEDS.get(bt, []))[0][0] if FEEDS.get(bt) else ""
+            if _test_url:
+                _tr = requests.get(_test_url, headers=UA, timeout=15)
+                _root = ET.fromstring(_tr.content)
+                _nodes = _root.findall(".//item") or _root.findall(".//entry")
+                if _nodes:
+                    _raw_xml = ET.tostring(_nodes[0], encoding="unicode")[:2000]
+                else:
+                    _raw_xml = "(无 item/entry 节点) 原始前500字符:\n" + (_tr.text[:500] if _tr.text else "(空响应)")
                 with open("debug-raw-entry.xml", "w", encoding="utf-8") as _rf:
-                    _rf.write("诊断失败: " + str(_diag_ex))
+                    _rf.write(_raw_xml)
+        except Exception as _diag_ex:
+            with open("debug-raw-entry.xml", "w", encoding="utf-8") as _rf:
+                _rf.write("诊断失败: " + str(_diag_ex))
         with open(diag_file, "w", encoding="utf-8") as _df:
             json.dump({"type": bt, "total": len(items), "msg": vmsg, "samples": samples}, _df, ensure_ascii=False, indent=2)
         print(f"  📋 诊断数据已写入 {diag_file}（将随 CI 提交）")
