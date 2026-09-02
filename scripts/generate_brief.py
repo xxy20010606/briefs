@@ -76,7 +76,10 @@ def _is_google_url(url):
     return (host == "google.com" or host.endswith(".google.com")
             or "googleusercontent.com" in host
             or host.endswith(".gstatic.com") or host.endswith(".googleapis.com")
-            or host.endswith(".googlevideo.com"))
+            or host.endswith(".googlevideo.com")
+            or "google-analytics" in host
+            or "googlesyndication" in host or "doubleclick" in host
+            or "googleadservices" in host)
 
 
 def _decode_google_article(glink):
@@ -157,12 +160,9 @@ def _resolve_real_url(glink):
                 cand = m.groups()[-1]
                 if cand:
                     candidates.append(cand)
-        # 任意非 Google 系的 https 链接（兜底，取第一个）
-        for m in re.finditer(r'https?://[^\s"\'<>]+', txt):
-            u = m.group(0).rstrip('.,;)')
-            if not _is_google_url(u) and len(u) > 20:
-                candidates.append(u)
-                break
+        # 注意：不再用"任意非Google链接"做兜底（Google文章页含大量第三方
+        # 脚本/广告/追踪像素，随便抠第一个必是垃圾如analytics.js/doubleclick）。
+        # 只信上述结构化模式；若全失败则回退保留原始news.google.com链接。
         for c in candidates:
             if c.startswith("http") and not _is_google_url(c):
                 print(f"    [HTTP] ✅ 从HTML解析出版方: {c[:120]}")
