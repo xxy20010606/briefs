@@ -383,32 +383,31 @@ def fetch_news(brief_type):
 
 def verify_items(brief_type, items):
     """自检闸门：构建前校验，避免发布坏页面（根断"反复坏"循环）。
-    拦截两类顽疾：
-      1) 链接大量解析失败 → 页面清一色跳百度搜索（用户反复投诉的核心痛点）
+    仅拦截两类真正会导致坏页面的顽疾：
+      1) 链接大量为空 → 页面清一色跳百度搜索（用户反复投诉的核心痛点）
       2) 抓取为空（源全挂 / 方向错配导致无内容）
-    返回 (ok: bool, msg: str)。CI 中 ok=False 时 main() 会 sys.exit(1)，
-    使整个 workflow 在 Commit&Push 前中断，坏页面上不了线。"""
+    注意：news.google.com 文章链接本身可点击、浏览器中会重定向到真实原文，
+    不属于"坏页面"，故不再视为拦截项（仅作统计展示）。"""
     if not items:
         return False, f"❌ 自检失败：{brief_type} 抓取为空（源全部不可达或方向无内容），拒绝发布空页"
-    bad = empty = 0
+    empty = 0
     sample_bad_titles = []
+    google_n = 0
     for it in items:
         l = it.get("link", "")
         if not l:
             empty += 1
             sample_bad_titles.append(it.get("title", "?")[:30])
         elif "news.google.com" in l:
-            bad += 1
-            sample_bad_titles.append(it.get("title", "?")[:30])
-    total_bad = bad + empty
-    ratio = total_bad / len(items)
-    # 阈值：超过一半链接解析失败则拦截
+            google_n += 1
+    ratio = empty / len(items)
+    # 阈值：超过一半链接为空（→ 百度搜索兜底）才拦截
     if ratio > 0.5:
-        detail = f"(未解析={empty}, 仍Google重定向={bad}/{len(items)})"
+        detail = f"(空链接={empty}/{len(items)}, Google文章链接={google_n})"
         samples = "; ".join(sample_bad_titles[:5])
         return False, f"❌ {brief_type} 自检不通过: {detail}。样例: [{samples}]"
-    ok_n = len(items) - total_bad
-    return True, f"✅ 自检通过：{brief_type} 链接解析率 {100*ok_n/len(items):.0f}% ({ok_n}/{len(items)}条)"
+    ok_n = len(items) - empty
+    return True, f"✅ 自检通过：{brief_type} 有效链接率 {100*ok_n/len(items):.0f}% (空{empty}/Google{google_n}/{len(items)}条)"
 
 
 def categorize(items, brief_type):
