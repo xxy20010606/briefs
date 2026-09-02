@@ -253,64 +253,91 @@ def save_cache(items, brief_type):
 _GN_URL_RE = re.compile(r'https://news\.google\.com/rss/articles/[A-Za-z0-9_-]+(?:\?[^"<\s]*)?')
 
 def _extract_items_from_xml(content):
-    """从 RSS/Atom 原始 XML 直接提取条目，绕过 feedparser 丢 <link> 的顽疾。
-    链接提取采用「结构无关」策略：优先 ET 标准提取，失败则从节点原始 XML 文本里
-    正则抠出 Google News 文章 URL（它同时出现在 <link> 与 <description> 转义 <a href> 中）。"""
+    """从 Google News RSS 原始字节/文本提取条目。
+
+    【设计铁律】Google News 的 RSS 结构不稳定（<link> 可能带命名空间、自闭合、
+    甚至直接是站点图标 URL），ElementTree.findtext 在命名空间下会静默返回空。
+    故改用「纯正则」从原始文本切片提取，彻底绕开命名空间问题。
+
+    链接提取【只接受】news.google.com/rss/articles/ 文章 URL：
+      - 优先 <link> 文本 / <link href> 自闭合
+      - 其次 <description> 内转义的 <a href="news.google.com/rss/articles/...">
+      - 绝不接受 lh3.googleusercontent.com(图标)/google-analytics/gstatic 等资源 URL
+    若某条目无论如何都抠不到文章 URL，link 留空（→ 后续百度搜索兜底，也比图标好）。
+    """
+    if isinstance(content, bytes):
+        text = content.decode("utf-8", "ignore")
+    else:
+        text = content
+
+    blocks = re.findall(r'<item\b[^>]*>.*?</item>', text, re.S)
+    if not blocks:
+        blocks = re.findall(r'<entry\b[^>]*>.*?</entry>', text, re.S)
+
+    ARTICLE_RE = re.compile(r'https://news\.google\.com/rss/articles/[A-Za-z0-9_.\-]+(?:\?[^\s"\'<>&]*)?')
+    BAD_RE = re.compile(r'googleusercontent\.com|google-analytics\.com|gstatic\.com|googleapis\.com')
+
     items = []
-    root = None
-    # 方法1：直接解析（CI 中 Google News RSS 可正常解析）
-    try:
-        root = ET.fromstring(content)
-    except ET.ParseError:
-        root = None
-    # 方法2：剥离命名空间后重试
-    if root is None:
-        try:
-            txt = content.decode("utf-8", "ignore")
-            txt = re.sub(r'\sxmlns(:[A-Za-z0-9_]+)?="[^"]+"', "", txt)
-            txt = re.sub(r"<(/?)[A-Za-z0-9_]+:", r"<\1", txt)
-            root = ET.fromstring(txt.encode("utf-8"))
-        except Exception:
-            root = None
-    if root is None:
-        return items
+    for blk in blocks:
+        b = (blk.replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">")
+                 .replace("&quot;", '"').replace("&#39;", "'").replace("&apos;", "'"))
 
-    nodes = root.findall(".//item") or root.findall(".//entry")
-    for node in nodes:
-        title = (node.findtext("title") or "").strip()
-        # link：优先 <link> 文本；其次 Atom <link href>；最后从原始节点 XML 正则抠
-        link = (node.findtext("link") or "").strip()
-        if not link or "news.google.com" not in link:
-            for ln in node.findall("link"):
-                href = (ln.get("href") or "").strip()
-                if href:
-                    link = href
-                    break
-        if not link or "news.google.com" not in link:
-            try:
-                node_xml = ET.tostring(node, encoding="unicode")
-                m = _GN_URL_RE.search(node_xml)
-                if m:
-                    link = m.group(0)
-            except Exception:
-                pass
-        desc = (node.findtext("description") or node.findtext("summary") or "").strip()
-        date = (node.findtext("pubDate") or node.findtext("updated")
-                or node.findtext("published") or "").strip()
-        # source：RSS <source>文本 / Atom <source><title>
-        src_el = node.find("source")
-        source = ""
-        if src_el is not None:
-            source = (src_el.text or src_el.findtext("title") or "").strip()
-        items.append({
-            "title": title,
-            "link": link,
-            "description": desc,
-            "date": date,
-            "source": source,
-        })
+        tm = re.search(r'<title[^>]*>(.*?)</title>', b, re.S)
+        title = re.sub(r'<[^>]+>', '', tm.group(1)).strip() if tm else ""
+        title = re.sub(r'\s+', ' ', title)
+
+        link = ""
+        lm = re.search(r'<link[^>]*>(.*?)</link>', b, re.S)
+        if lm and ARTICLE_RE.search(lm.group(1)):
+            link = ARTICLE_RE.search(lm.group(1)).group(0)
+        if not link:
+            lm = re.search(r'<link[^>]*href=["\'](https://news\.google\.com/rss/articles/[^"\']+)["\']', b)
+            if lm:
+                link = lm.group(1)
+        if not link:
+            lm = re.search(r'<a[^>]*href=["\'](https://news\.google\.com/rss/articles/[^"\']+)["\']', b)
+            if lm:
+                link = lm.group(1)
+        if not link:
+            lm = ARTICLE_RE.search(b)
+            if lm:
+                link = lm.group(0)
+        if link and BAD_RE.search(link):
+            link = ""
+
+        dm = re.search(r'<description[^>]*>(.*?)</description>', b, re.S)
+        if not dm:
+            dm = re.search(r'<summary[^>]*>(.*?)</summary>', b, re.S)
+        desc = re.sub(r'<[^>]+>', '', dm.group(1)).strip() if dm else ""
+        desc = re.sub(r'\s+', ' ', desc)
+
+        pm = re.search(r'<pubDate[^>]*>(.*?)</pubDate>', b, re.S)
+        if not pm:
+            pm = re.search(r'<updated[^>]*>(.*?)</updated>', b, re.S)
+        date = pm.group(1).strip() if pm else ""
+
+        sm = re.search(r'<source[^>]*>([^<]+)</source>', b)
+        source = sm.group(1).strip() if sm else ""
+        if not source:
+            sm2 = re.search(r'<source[^>]*url=["\']([^"\']+)["\']', b)
+            if sm2:
+                source = sm2.group(1)
+
+        if " - " in title:
+            t2, src2 = title.rsplit(" - ", 1)
+            title, src2 = t2.strip(), src2.strip()
+            if src2 and not source:
+                source = src2
+
+        if title:
+            items.append({
+                "title": title,
+                "link": link,
+                "description": desc,
+                "date": date,
+                "source": source,
+            })
     return items
-
 
 def _fetch_one_feed(url, source_name, seen):
     """抓取单个 RSS 源，返回条目列表（已去重、已清洗标题/摘要）。"""
