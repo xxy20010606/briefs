@@ -61,11 +61,30 @@ FEEDS = {
     "semiconductor": [_gnq("半导体 芯片"), _gnq("晶圆 光刻机"), _gnq("GPU 英伟达 存储 中芯国际")],
 }
 
+def _is_google_url(url):
+    """判断 URL 是否属于 Google 系域名。
+    关键：Google News 文章页里大量资源（站点图标/JS/图片）挂在
+    lh3.googleusercontent.com、gstatic.com 等域名，它们【不含 'google.com' 子串】，
+    旧逻辑用 `if "google.com" not in u` 判断会漏网，把 Google 图标当成'真实出版方'。
+    这里用真实域名后缀严格判断。"""
+    try:
+        host = urllib.parse.urlparse(url).netloc.lower()
+    except Exception:
+        return True
+    if not host:
+        return True
+    return (host == "google.com" or host.endswith(".google.com")
+            or "googleusercontent.com" in host
+            or host.endswith(".gstatic.com") or host.endswith(".googleapis.com")
+            or host.endswith(".googlevideo.com"))
+
+
 def _decode_google_article(glink):
-    """Google News RSS 文章链接是 base64 编码的。
-    历史格式：文本 'HN_News <URL>' 可直接解码（2026年前）。
-    当前格式：protobuf 二进制编码（2026年起），文本解码无效，必须走 HTTP 重定向。
-    返回真实 URL 或空字符串（调用方应继续尝试 HTTP）。"""
+    """Google News RSS 文章链接是 base64 编码的 protobuf。
+    【关键原理】实际的出版方原文 URL 以明文 ASCII 形式嵌在 protobuf 字节流中，
+    直接用正则从解码字节抠出来即可——纯本地、无需网络、且能拿到新浪/cls 等
+    国内可达的出版方域名。这是比 HTTP 重定向更可靠的主力路径。
+    返回真实出版方 URL 或空字符串（调用方继续尝试 HTTP 或回退）。"""
     try:
         if "news.google.com" not in glink:
             return ""
@@ -76,67 +95,56 @@ def _decode_google_article(glink):
         b64 += "=" * (-len(b64) % 4)
         raw = base64.urlsafe_b64decode(b64)
 
-        # 快速检测：如果非可打印字符超过 20%，判定为 protobuf 二进制，直接放弃文本解码
-        non_print = sum(1 for b in raw if b < 0x20 or b > 0x7e)
-        if len(raw) > 0 and non_print / len(raw) > 0.2:
-            return ""  # protobuf 二进制 → 文本策略全部无效，交由 HTTP 重定向处理
+        # 从 protobuf 字节流里抠所有可见的 http(s) URL（出版方 URL 是明文 ASCII）
+        for fm in re.finditer(rb'https?://[^\x00-\x1f\x7f-\x9f"\'<>\s]+', raw):
+            u = fm.group(0).decode("utf-8", "ignore").rstrip('.,;)')
+            if u.startswith("http") and not _is_google_url(u):
+                print(f"    [PROTOBUF] ✅ 抠出出版方URL: {u[:120]}")
+                return u
 
-        decoded = raw.decode("utf-8", "ignore")
-
-        # 策略A：已知 Google News 文本前缀 → 取签名后的 URL
-        for prefix in ("HN_News ", "HN_World ", "HN_Video ", "HN_Local ",
-                        "HN_Podcasts ", "HN_Opinion "):
-            if decoded.startswith(prefix):
-                url = decoded[len(prefix):].strip()
-                if url.startswith("http"):
-                    return url
-
-        # 策略B：解码结果本身就是完整 URL（无前缀）
-        if decoded.startswith("http"):
-            return decoded.strip()
-
-        # 策略C：从解码文本中正则提取第一个 http(s) URL（最宽松兜底）
-        um = re.search(r'https?://[^\s\x00-\x1f\x7f-\x9f"\'<>]+', decoded)
-        if um:
-            url = um.group(0).rstrip(".,;)")
-            # 排除 google.com 自身链接
-            if "google.com" not in url and "google.co" not in url:
-                return url
-
-    except Exception:
-        pass
+        # 兼容旧格式：文本前缀 HN_News <URL> 等（2026年前）
+        try:
+            decoded = raw.decode("utf-8", "ignore")
+            for prefix in ("HN_News ", "HN_World ", "HN_Video ", "HN_Local ", "HN_Opinion "):
+                if decoded.startswith(prefix):
+                    url = decoded[len(prefix):].strip()
+                    if url.startswith("http") and not _is_google_url(url):
+                        return url
+        except Exception:
+            pass
+    except Exception as ex:
+        print(f"    [PROTOBUF] ❌ 异常: {ex}")
     return ""
 
 
 def _resolve_real_url(glink):
     """解析 Google News 重定向为真实原文 URL。
-    Google News 2026年起改用 protobuf 二进制编码，文本 base64 解码仅对旧格式有效。
-    当前主力路径：HTTP 跟随重定向（CI 在美国环境，Google 可达）。
-    最终失败返回空（→ 百度搜索兜底）。"""
+    主力路径（方法1）：从 protobuf 字节直接抠明文出版方 URL（本地、可靠、国内可达）。
+    兜底路径（方法2）：HTTP 跟随重定向，从最终 HTML 提取出版方 URL（严格过滤 Google 系域名）。
+    极端兜底：返回原始 glink（news.google.com 链接，浏览器可跳转），
+              绝不返回空（避免百度搜索兜底）、也绝不返回 Google 图片/资源 URL。
+    """
     if not glink or "news.google.com" not in glink:
         return glink  # 已是直连源真实 URL
 
-    # 方法1：base64 快速解码（不依赖网络，仅对旧格式 HN_News <URL> 有效）
+    # 方法1：从 protobuf 明文抠出版方 URL（当前最可靠，纯本地无需网络）
     decoded = _decode_google_article(glink)
-    if decoded and "google.com" not in decoded and len(decoded) > 10:
+    if decoded and not _is_google_url(decoded) and len(decoded) > 10:
         return decoded
 
-    # 方法2：HTTP 跟随重定向（当前 Google News protobuf 编码的主力路径）
-    # 注意：Google News 文章URL经重定向后可能落在 Google 文章页（非出版方），
-    # 故需从最终 HTML 中再解析真实出版方 URL。
+    # 方法2：HTTP 跟随重定向（CI 在美国环境，Google 可达）
     try:
         r = requests.get(glink, headers=UA, timeout=18, allow_redirects=True)
         print(f"    [HTTP] GET status={r.status_code} final_url={r.url[:120]}")
 
-        # 2a. 最终URL已是出版方
-        if r.url and "google.com" not in r.url and r.url.startswith("http"):
+        # 2a. 最终URL已是出版方（非 Google 系）
+        if r.url and not _is_google_url(r.url) and r.url.startswith("http"):
             print(f"    [HTTP] ✅ 最终URL即出版方: {r.url[:120]}")
             return r.url
 
-        # 2b. 从最终 HTML 解析真实 URL（多种常见模式）
+        # 2b. 从最终 HTML 解析真实 URL（多种常见模式，严格过滤 Google 系）
         txt = r.text or ""
         candidates = []
-        # og:url / canonical
         for pat in [
             r'<meta[^>]+property=["\']og:url["\'][^>]+content=["\']([^"\']+)["\']',
             r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']',
@@ -145,22 +153,25 @@ def _resolve_real_url(glink):
         ]:
             m = re.search(pat, txt, re.I)
             if m:
-                candidates.append(m.group(1))
-        # 任意非 google 的 https 链接（兜底，取第一个）
+                # article-link 模式 capture groups 可能有 class/href，取最后一个（href）
+                cand = m.groups()[-1]
+                if cand:
+                    candidates.append(cand)
+        # 任意非 Google 系的 https 链接（兜底，取第一个）
         for m in re.finditer(r'https?://[^\s"\'<>]+', txt):
             u = m.group(0).rstrip('.,;)')
-            if "google.com" not in u and "google.co" not in u and len(u) > 20:
+            if not _is_google_url(u) and len(u) > 20:
                 candidates.append(u)
                 break
         for c in candidates:
-            if c.startswith("http") and "google.com" not in c and "google.co" not in c:
+            if c.startswith("http") and not _is_google_url(c):
                 print(f"    [HTTP] ✅ 从HTML解析出版方: {c[:120]}")
                 return c
     except Exception as ex:
         print(f"    [HTTP] ❌ 异常: {ex}")
 
-    print(f"    [HTTP] ❌ 所有方法均失败")
-    return ""
+    print(f"    [HTTP] ⚠ 解析失败，回退保留 Google News 原始链接（浏览器可跳转）")
+    return glink  # 极端兜底：保留原始链接，不用空(→百度)、不用Google图片
 
 # Category keywords for filtering and sorting
 CATEGORIES = {
