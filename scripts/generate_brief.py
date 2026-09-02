@@ -32,7 +32,18 @@ except ImportError:
 
 # ── Configuration ──────────────────────────────────────
 
-UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+UA = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+    "Accept-Encoding": "gzip, deflate",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+}
 # 主数据源：Google News 中文 RSS（云端/美国环境稳定可达，本地被墙属正常）
 GOOGLE_QUERIES = {
     "finance": ["财经 A股 股市", "美联储 降息", "港股 美股 行情"],
@@ -137,7 +148,12 @@ def _resolve_real_url(glink):
 
     # 方法2：HTTP 跟随重定向（CI 在美国环境，Google 可达）
     try:
-        r = requests.get(glink, headers=UA, timeout=18, allow_redirects=True)
+        # 关键：去掉 /rss/ 前缀。RSS 路径会让 Google 直接返回 XML（不会重定向），
+        # 必须走 /articles/ 路径才会触发 Google 的标准 302 → 出版方跳转。
+        http_url = re.sub(r'(news\.google\.com)/rss/articles/', r'\1/articles/', glink)
+        if http_url != glink:
+            print(f"    [HTTP] 转换路径: {glink[:80]} → {http_url[:80]}")
+        r = requests.get(http_url, headers=UA, timeout=18, allow_redirects=True)
         print(f"    [HTTP] GET status={r.status_code} final_url={r.url[:120]}")
 
         # 2a. 最终URL已是出版方（非 Google 系）
@@ -145,14 +161,35 @@ def _resolve_real_url(glink):
             print(f"    [HTTP] ✅ 最终URL即出版方: {r.url[:120]}")
             return r.url
 
-        # 2b. 从最终 HTML 解析真实 URL（多种常见模式，严格过滤 Google 系）
+        # 2b. 从最终 HTML 解析真实 URL（多种模式，严格过滤 Google 系）
         txt = r.text or ""
         candidates = []
+        # 优先级 1: Google News 文章页官方标识 publisher URL 的 data-source-url 属性
+        # 这是最可靠的解析点（直接由 Google 提供）
+        for pat in [
+            r'data-source-url=["\']([^"\']+)["\']',
+            r'data-source-url=&quot;([^&]+)&quot;',  # HTML 实体编码版
+        ]:
+            for m in re.finditer(pat, txt, re.I):
+                u = m.group(1).replace("&amp;", "&")
+                if u.startswith("http") and not _is_google_url(u):
+                    candidates.append(u)
+
+        # 优先级 2: 结构化元数据 (og:url / canonical)
         for pat in [
             r'<meta[^>]+property=["\']og:url["\'][^>]+content=["\']([^"\']+)["\']',
             r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']',
+            r'<base[^>]+href=["\']([^"\']+)["\']',
+        ]:
+            m = re.search(pat, txt, re.I)
+            if m:
+                candidates.append(m.group(1))
+
+        # 优先级 3: 阅读/查看按钮 (article-link / Read / View original)
+        for pat in [
             r'<a[^>]+class=["\'][^"\']*article-link[^"\']*["\'][^>]+href=["\']([^"\']+)["\']',
-            r'<a[^>]+href=["\']([^"\']+)["\'][^>]*>\s*<span[^>]*>\s*Read\b',
+            r'<a[^>]+href=["\']([^"\']+)["\'][^>]*>\s*<span[^>]*>\s*(?:Read full article|View original|查看原文|阅读全文)',
+            r'<a[^>]+href=["\']([^"\']+)["\'][^>]*>\s*(?:Read full article|View original|查看原文|阅读全文)',
         ]:
             m = re.search(pat, txt, re.I)
             if m:
@@ -160,11 +197,28 @@ def _resolve_real_url(glink):
                 cand = m.groups()[-1]
                 if cand:
                     candidates.append(cand)
-        # 注意：不再用"任意非Google链接"做兜底（Google文章页含大量第三方
-        # 脚本/广告/追踪像素，随便抠第一个必是垃圾如analytics.js/doubleclick）。
-        # 只信上述结构化模式；若全失败则回退保留原始news.google.com链接。
+
+        # 优先级 4: 限定安全的兜底——从 HTML 中找一个**长度合理**且**非 Google 系**的 https URL
+        # 仅取第一段内容区域（避免抓到 footer/analytics 区域）
+        # 截取前 30KB（内容区域通常在前面）以减少误匹配
+        body = txt[:30000] if len(txt) > 30000 else txt
+        for m in re.finditer(r'https?://[^\s"\'<>]+', body):
+            u = m.group(0).rstrip('.,;)')
+            if (not _is_google_url(u)
+                    and len(u) > 25  # 真实出版方URL通常较长
+                    and '?' in u or '/' in u[8:]  # 有路径或参数
+                    and not u.endswith('.js')  # 排除 JS 文件
+                    and not u.endswith('.css')
+                    and not u.endswith('.png')
+                    and not u.endswith('.jpg')
+                    and not u.endswith('.ico')
+                    and not u.endswith('.json')
+                    and not u.endswith('.xml')):
+                candidates.append(u)
+                break  # 只取第一个合格的
+
         for c in candidates:
-            if c.startswith("http") and not _is_google_url(c):
+            if c.startswith("http") and not _is_google_url(c) and len(c) > 15:
                 print(f"    [HTTP] ✅ 从HTML解析出版方: {c[:120]}")
                 return c
     except Exception as ex:
