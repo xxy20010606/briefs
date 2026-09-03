@@ -27,43 +27,33 @@ jobs:
       - name: Install dependencies
         run: pip install requests feedparser
 
-      - name: Network diagnostics (Google News URL resolution)
-        run: python scripts/diag_net.py
-        continue-on-error: true
-
       - name: Generate Finance Brief
         run: python scripts/generate_brief.py --type finance
-        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Generate AI Industry Brief
         run: python scripts/generate_brief.py --type ai
-        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Generate AI Apps Brief
         run: python scripts/generate_brief.py --type ai_apps
-        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Generate New Energy Brief
         run: python scripts/generate_brief.py --type newenergy
-        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Generate Entertainment Brief
         run: python scripts/generate_brief.py --type entertainment
-        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Generate Semiconductor Brief
         run: python scripts/generate_brief.py --type semiconductor
-        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
@@ -74,6 +64,6 @@ jobs:
           git config user.name "WorkBuddy Bot"
           git config user.email "bot@workbuddy.ai"
           git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
-          git add finance.html ai.html ai-apps.html newenergy.html entertainment.html semiconductor.html debug-*.json debug-*.xml debug-http-fail.html debug-net-diag.txt 2>/dev/null || true
+          git add finance.html ai.html ai-apps.html newenergy.html entertainment.html semiconductor.html debug-fetch-*.json debug-*.json debug-raw-entry.xml
           git diff --staged --quiet || git commit -m "📰 每日简报更新 - $(TZ='Asia/Shanghai' date '+%Y-%m-%d')"
           git push origin main

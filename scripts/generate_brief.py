@@ -564,6 +564,21 @@ def fetch_news(brief_type):
     for url, source_name in FEEDS.get(brief_type, []):
         items.extend(_fetch_one_feed(url, source_name, seen))
 
+    # ── 诊断落盘（始终执行）：CI 后直接读 debug-fetch-{bt}.json 看清
+    #    每条 title/link/source_url 提取结果，定位"链接为空/回退百度"顽疾 ──
+    try:
+        _diag_samples = [{
+            "title": (it.get("title", "") or "")[:50],
+            "link": (it.get("link", "") or "")[:140],
+            "source_url": (it.get("source_url", "") or "")[:140],
+            "source": (it.get("source", "") or ""),
+        } for it in items[:6]]
+        with io.open(f"debug-fetch-{brief_type}.json", "w", encoding="utf-8") as _df:
+            json.dump({"type": brief_type, "total": len(items), "samples": _diag_samples},
+                      _df, ensure_ascii=False, indent=2)
+    except Exception:
+        pass
+
     # ── 解析 Google News 重定向，拿到真实原文 URL（国内可访问）──
     google_links = [it for it in items if "news.google.com" in it.get("link", "")]
     if google_links:
