@@ -203,39 +203,24 @@ def _resolve_via_batchexecute(glink):
 
 
 def _resolve_real_url(glink, source_url=None):
-    """解析 Google News 链接为真实原文 URL（国内可达）。
+    """解析 Google News 链接为真实**原文文章** URL（国内可达）。
+
+    核心诉求：用户点"原文"必须打开**那篇具体文章**，不是出版方首页。
+    source url 是出版方频道首页（如 finance.sina.com.cn），不符合需求，不作为链接。
 
     优先级（从高到低）：
-      0) source_url：来自 RSS 抓取阶段，无需二次网络，是真实出版方域名（国内可达）。
-         这是最可靠的路径——batchexecute/HTTP 在 CI 网络受限时均不稳定，而
-         source_url 直接从原始 RSS 拿，绕开所有二次请求。
-      1) batchexecute 官方 API 解码（若 CI 网络可达，可能更精确到具体文章页）
-      2) protobuf 字节抠明文出版方 URL（旧格式有效）
-      3) HTTP 跟随重定向 + HTML 结构化提取
-      极端兜底：返回原始 glink（news.google.com 链接）
+      1) HTTP 302 重定向：访问 /articles/<token>（非 /rss/articles/），
+         Google 标准 302 → 真实出版方**具体文章页**。CI 美国环境可达。
+      2) batchexecute 官方 API 解码
+      3) protobuf 字节抠明文
+      4) source_url（出版方首页，仅作极端兜底——比 news.google.com 死链好）
+      极端兜底：返回原始 glink
     """
     if not glink or "news.google.com" not in glink:
         return glink  # 已是直连源真实 URL
 
-    # 优先级0：source url（出版方真实域名，国内可达，无需二次网络）
-    if source_url and source_url.startswith("http") and not _is_google_url(source_url):
-        print(f"    [SOURCE] ✅ 使用出版方 source url: {source_url[:120]}")
-        return source_url
-
-    # 方法1：batchexecute 官方 API（最优路径）
-    real = _resolve_via_batchexecute(glink)
-    if real and not _is_google_url(real) and len(real) > 10:
-        return real
-
-    # 方法2：从 protobuf 明文抠出版方 URL
-    decoded = _decode_google_article(glink)
-    if decoded and not _is_google_url(decoded) and len(decoded) > 10:
-        return decoded
-
-    # 方法2：HTTP 跟随重定向（CI 在美国环境，Google 可达）
+    # 方法1：HTTP 302 重定向（主力路径 → 具体文章页 URL）
     try:
-        # 关键：去掉 /rss/ 前缀。RSS 路径会让 Google 直接返回 XML（不会重定向），
-        # 必须走 /articles/ 路径才会触发 Google 的标准 302 → 出版方跳转。
         http_url = re.sub(r'(news\.google\.com)/rss/articles/', r'\1/articles/', glink)
         if http_url != glink:
             print(f"    [HTTP] 转换路径: {glink[:80]} → {http_url[:80]}")
@@ -322,9 +307,24 @@ def _resolve_real_url(glink, source_url=None):
         print(f"    [HTTP] ❌ 异常: {ex}")
         _diag(f"EXCEPTION: {ex!r}")
 
-    print(f"    [HTTP] ⚠ 解析失败，回退保留 Google News 原始链接（浏览器可跳转）")
-    _diag(f"FAIL -> fallback to glink: {glink[:100]}")
-    return glink  # 极端兜底：保留原始链接，不用空(→百度)、不用Google图片
+    # 方法2：batchexecute 官方 API
+    real = _resolve_via_batchexecute(glink)
+    if real and not _is_google_url(real) and len(real) > 10:
+        return real
+
+    # 方法3：protobuf 明文提取
+    decoded = _decode_google_article(glink)
+    if decoded and not _is_google_url(decoded) and len(decoded) > 10:
+        return decoded
+
+    # 方法4：source url（出版方首页，仅作兜底——比 news.google.com 死链好，但不是具体文章）
+    if source_url and source_url.startswith("http") and not _is_google_url(source_url):
+        print(f"    [SOURCE-FALLBACK] ⚠ HTTP/batch/protobuf 全失败，回退出版方首页: {source_url[:120]}")
+        return source_url
+
+    print(f"    [ALL_FAILED] ❌ 所有解析路径失败，保留原始链接")
+    _diag(f"FAIL -> glink: {glink[:100]}")
+    return glink
 
 # Category keywords for filtering and sorting
 CATEGORIES = {
