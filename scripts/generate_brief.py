@@ -517,6 +517,8 @@ def _fetch_one_feed(url, source_name, seen):
                     "description": e.get("summary", "") or e.get("description", ""),
                     "date": e.get("published", "") or e.get("updated", ""),
                     "source": (e.get("source", {}).get("title", "") if isinstance(e.get("source"), dict) else ""),
+                    # feedparser 兜底分支也要带出版方真实域名，否则回退 news.google.com
+                    "source_url": (e.get("source", {}).get("href", "") if isinstance(e.get("source"), dict) else ""),
                 })
             return out
         for ri in raw_items[:15]:
