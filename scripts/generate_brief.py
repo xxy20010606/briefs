@@ -131,17 +131,93 @@ def _decode_google_article(glink):
     return ""
 
 
+def _resolve_via_batchexecute(glink):
+    """用 Google 官方 batchexecute API 解码 article token → 真实出版方 URL。
+
+    【为什么需要它】Google News 的 /articles/<token> 页面现在靠 JS 动态跳转，
+    纯 requests 拿不到最终 URL（只能拿到中间页/consent页）。而 Google 内部
+    DotsSplashUi batchexecute 接口能直接返回该 token 对应的真实原文地址，
+    纯 HTTP、无需浏览器、CI(美国)可达 —— 是目前最可靠的解析路径。
+
+    返回真实出版方 URL 或空字符串。
+    """
+    try:
+        m = re.search(r'/articles/([A-Za-z0-9_\-]+)', glink)
+        if not m:
+            return ""
+        token = m.group(1)
+
+        # Step 1: GET 文章页，提取签名(signature)与时间戳(timestamp)
+        r = requests.get(f"https://news.google.com/rss/articles/{token}",
+                         headers=UA, timeout=15)
+        html = r.text or ""
+        sg = re.search(r'data-n-a-sg=["\']([^"\']+)["\']', html)
+        ts = re.search(r'data-n-a-ts=["\']([^"\']+)["\']', html)
+        if not (sg and ts):
+            print(f"    [BATCH] ❌ 未取到签名 (status={r.status_code}, len={len(html)})")
+            return ""
+        signature, timestamp = sg.group(1), ts.group(1)
+
+        # Step 2: POST batchexecute 请求真实 URL
+        inner = ["garturlreq",
+                 [["X", "X", ["X", "X"], None, None, 1, 1, "US:en", None, 1,
+                   None, None, None, None, None, 0, 1],
+                  "X", "X", 1, [1, 1, 1], 1, 1, None, 0, 0, None, 0],
+                 token, timestamp, signature]
+        freq = json.dumps([[["Fbv4je", json.dumps(inner), None, "generic"]]])
+        body = "f.req=" + urllib.parse.quote(freq)
+
+        r2 = requests.post(
+            "https://news.google.com/_/DotsSplashUi/data/batchexecute",
+            headers={**UA,
+                     "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"},
+            data=body, timeout=15)
+
+        # Step 3: 从返回里解析 garturlres → 真实 URL
+        text = r2.text or ""
+        if "garturlres" not in text:
+            print(f"    [BATCH] ❌ 返回中无 garturlres (status={r2.status_code}, len={len(text)})")
+            return ""
+        for line in text.split("\n"):
+            if "garturlres" not in line:
+                continue
+            try:
+                arr = json.loads(line)
+                # arr 形如 [["wrb.fr","Fbv4je",'<json字符串>',...]]
+                for part in arr:
+                    if isinstance(part, list) and len(part) >= 3 and isinstance(part[2], str):
+                        payload = json.loads(part[2])
+                        # payload 形如 ["garturlres","<真实URL>"]
+                        if isinstance(payload, list) and len(payload) >= 2:
+                            url = payload[1]
+                            if isinstance(url, str) and url.startswith("http") \
+                                    and not _is_google_url(url):
+                                print(f"    [BATCH] ✅ 解码出版方URL: {url[:120]}")
+                                return url
+            except Exception:
+                continue
+        print(f"    [BATCH] ❌ 解析返回失败")
+    except Exception as ex:
+        print(f"    [BATCH] ❌ 异常: {ex}")
+    return ""
+
+
 def _resolve_real_url(glink):
-    """解析 Google News 重定向为真实原文 URL。
-    主力路径（方法1）：从 protobuf 字节直接抠明文出版方 URL（本地、可靠、国内可达）。
-    兜底路径（方法2）：HTTP 跟随重定向，从最终 HTML 提取出版方 URL（严格过滤 Google 系域名）。
-    极端兜底：返回原始 glink（news.google.com 链接，浏览器可跳转），
-              绝不返回空（避免百度搜索兜底）、也绝不返回 Google 图片/资源 URL。
+    """解析 Google News 链接为真实原文 URL（国内可达）。
+    方法1：batchexecute 官方 API 解码（当前最可靠，纯 HTTP）
+    方法2：protobuf 字节抠明文出版方 URL（旧格式有效）
+    方法3：HTTP 跟随重定向 + HTML 结构化提取
+    极端兜底：返回原始 glink（news.google.com 链接）
     """
     if not glink or "news.google.com" not in glink:
         return glink  # 已是直连源真实 URL
 
-    # 方法1：从 protobuf 明文抠出版方 URL（当前最可靠，纯本地无需网络）
+    # 方法1：batchexecute 官方 API（最优路径）
+    real = _resolve_via_batchexecute(glink)
+    if real and not _is_google_url(real) and len(real) > 10:
+        return real
+
+    # 方法2：从 protobuf 明文抠出版方 URL
     decoded = _decode_google_article(glink)
     if decoded and not _is_google_url(decoded) and len(decoded) > 10:
         return decoded
@@ -221,10 +297,23 @@ def _resolve_real_url(glink):
             if c.startswith("http") and not _is_google_url(c) and len(c) > 15:
                 print(f"    [HTTP] ✅ 从HTML解析出版方: {c[:120]}")
                 return c
+
+        # 诊断：把 HTTP 失败的样本落盘（含状态码/最终URL/HTML片段），便于定位
+        _diag(f"HTTP_FAIL status={r.status_code} final={r.url[:150]} "
+              f"len={len(txt)} candidates={len(candidates)}")
+        try:
+            with io.open("debug-http-fail.html", "w", encoding="utf-8") as fh:
+                fh.write(f"REQ_URL: {http_url}\nSTATUS: {r.status_code}\n"
+                         f"FINAL_URL: {r.url}\nHTML_LEN: {len(txt)}\n\n"
+                         f"---HTML(前4000字符)---\n{txt[:4000]}")
+        except Exception:
+            pass
     except Exception as ex:
         print(f"    [HTTP] ❌ 异常: {ex}")
+        _diag(f"EXCEPTION: {ex!r}")
 
     print(f"    [HTTP] ⚠ 解析失败，回退保留 Google News 原始链接（浏览器可跳转）")
+    _diag(f"FAIL -> fallback to glink: {glink[:100]}")
     return glink  # 极端兜底：保留原始链接，不用空(→百度)、不用Google图片
 
 # Category keywords for filtering and sorting
