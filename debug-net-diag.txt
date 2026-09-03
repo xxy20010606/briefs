@@ -1,0 +1,7 @@
+============================================================
+Google News URL 解析诊断
+============================================================
+[RSS] ❌ 异常: ProxyError(MaxRetryError("HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=AI%20%E4%BA%A7%E4%B8%9A&hl=zh-CN&gl=CN&ceid=CN:zh-Hans (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 502 Bad Gateway')))"))
+
+结论：RSS 都取不到，网络层面完全不可达 Google
+RSS片段: 

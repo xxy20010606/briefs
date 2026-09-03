@@ -202,15 +202,25 @@ def _resolve_via_batchexecute(glink):
     return ""
 
 
-def _resolve_real_url(glink):
+def _resolve_real_url(glink, source_url=None):
     """解析 Google News 链接为真实原文 URL（国内可达）。
-    方法1：batchexecute 官方 API 解码（当前最可靠，纯 HTTP）
-    方法2：protobuf 字节抠明文出版方 URL（旧格式有效）
-    方法3：HTTP 跟随重定向 + HTML 结构化提取
-    极端兜底：返回原始 glink（news.google.com 链接）
+
+    优先级（从高到低）：
+      0) source_url：来自 RSS 抓取阶段，无需二次网络，是真实出版方域名（国内可达）。
+         这是最可靠的路径——batchexecute/HTTP 在 CI 网络受限时均不稳定，而
+         source_url 直接从原始 RSS 拿，绕开所有二次请求。
+      1) batchexecute 官方 API 解码（若 CI 网络可达，可能更精确到具体文章页）
+      2) protobuf 字节抠明文出版方 URL（旧格式有效）
+      3) HTTP 跟随重定向 + HTML 结构化提取
+      极端兜底：返回原始 glink（news.google.com 链接）
     """
     if not glink or "news.google.com" not in glink:
         return glink  # 已是直连源真实 URL
+
+    # 优先级0：source url（出版方真实域名，国内可达，无需二次网络）
+    if source_url and source_url.startswith("http") and not _is_google_url(source_url):
+        print(f"    [SOURCE] ✅ 使用出版方 source url: {source_url[:120]}")
+        return source_url
 
     # 方法1：batchexecute 官方 API（最优路径）
     real = _resolve_via_batchexecute(glink)
@@ -461,10 +471,15 @@ def _extract_items_from_xml(content):
 
         sm = re.search(r'<source[^>]*>([^<]+)</source>', b)
         source = sm.group(1).strip() if sm else ""
-        if not source:
-            sm2 = re.search(r'<source[^>]*url=["\']([^"\']+)["\']', b)
-            if sm2:
-                source = sm2.group(1)
+        # 出版方真实域名 URL（来自 RSS 原始数据，无需二次网络请求，国内可达）
+        sm2 = re.search(r'<source[^>]*url=["\']([^"\']+)["\']', b)
+        source_url = sm2.group(1).strip() if sm2 else ""
+        if not source and source_url:
+            # 个别 feed 只有 url 没有文本，用 host 作为来源名
+            try:
+                source = urllib.parse.urlparse(source_url).netloc.lower()
+            except Exception:
+                pass
 
         if " - " in title:
             t2, src2 = title.rsplit(" - ", 1)
@@ -476,6 +491,7 @@ def _extract_items_from_xml(content):
             items.append({
                 "title": title,
                 "link": link,
+                "source_url": source_url,  # 出版方真实域名（国内可达，解析主力）
                 "description": desc,
                 "date": date,
                 "source": source,
@@ -549,8 +565,10 @@ def fetch_news(brief_type):
     google_links = [it for it in items if "news.google.com" in it.get("link", "")]
     if google_links:
         print(f"  ↳ 解析 {len(google_links)} 条 Google News 重定向为真实原文链接...")
+        def _resolve_one(it):
+            return _resolve_real_url(it["link"], it.get("source_url"))
         with cf.ThreadPoolExecutor(max_workers=6) as ex:
-            resolved = list(ex.map(_resolve_real_url, [it["link"] for it in google_links]))
+            resolved = list(ex.map(_resolve_one, google_links))
         for it, real in zip(google_links, resolved):
             it["link"] = real  # 解析失败则置空 → 后续百度搜索兜底
 
