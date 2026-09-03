@@ -542,6 +542,7 @@ def _fetch_one_feed(url, source_name, seen):
                 "title": title,
                 "summary": summary,
                 "link": link,
+                "source_url": ri.get("source_url", "") or "",  # 出版方真实域名(国内可达)，解析主力
                 "source": src or ri["source"] or source_name,
                 "date": ri["date"],
             })
