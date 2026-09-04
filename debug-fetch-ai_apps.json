@@ -1,18 +1,12 @@
 {
   "type": "ai_apps",
-  "total": 44,
+  "total": 45,
   "samples": [
     {
-      "title": "从“AI工具”到“内容生态” 美图公司业绩说明会揭示AI应用破局路径",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UTEVaN1pNZFJ0UXdJaEtBNnczQ0xERlUyeDY2TGlYTWhhUnZqa2tPcUlVbVNvTVVhc1pzczhfZEg5dkZmeGo1TEN",
-      "source_url": "https://wap.eastmoney.com",
-      "source": "东方财富"
-    },
-    {
-      "title": "Adobe工具正式接入Slack平台-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0OVhFLWdVNjN2cm05S1U1TjlMMUZTbWVsQ1YydncxeDFzU1pMRUQtR2xwYmJvZndVQ3ltS3ZNbGozQUN6Q3hlOHY",
+      "title": "毕马威AI智能体工具率先通过安全认证-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zaVFJR1l5YnFiRUl0UmVIVk9mY3JNRFZCNnZTaXlyaEF0SUkyTDNFbjNxSjlwMDZoWjVQcWJDMkc3Zk9aazlMQ1N",
       "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "source": "zhiding.cn"
     },
     {
       "title": "Google推出Pics应用：AI驱动的专业级图像编辑工具",
@@ -21,22 +15,28 @@
       "source": "新浪网"
     },
     {
-      "title": "行云科技：跨境数字贸易有部分AI应用工具 算力配套服务对业绩影响小",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44T0JKa0RkUjBOZF9BOGtwZzdNTnFfM1VMTUVLY25uT0llT3VJb3pvN0ZSV0xHUEl2S2dPRHRVZmRBZTZMZ3psTFg",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
+      "title": "Google：2026年AI代理趋势报告",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaXdLd0ltSXRUcm1zNlpBbU1JVmpmdEtuS21JeVhvaTU0WmJ0Wm4zLU9TODc1NUZTS1ZtZmQ3S2JBOWZBcHVqZ1U",
+      "source_url": "https://tech.sina.cn",
+      "source": "新浪网"
     },
     {
-      "title": "10 款最佳商务 AI 工具（2026年8月）",
+      "title": "10 款最佳商务 AI 工具（2026年9月）",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2S25XNWtpVEtrekNDT3hpWkZxWjRYeGFQOGd0UFo3bmhyVl9nN0FhVTZCMjRhbnQta2dGcDVGVV94RkxlVHVrc0d",
       "source_url": "https://www.unite.ai",
       "source": "Unite.AI"
     },
     {
-      "title": "Clipto：AI驱动的海量视频搜索工具，估值达2.5亿美元-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84U2gybkdYM1kxSnROYW5oWjhqdWFvc3FzSExXbXYtQjRCNm1lU2loWUdjaEhfdENuRTVkcHVpTXMtTFJZTF9EbzF",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "行云科技：跨境数字贸易有部分AI应用工具 算力配套服务对业绩影响小",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xcG9fMGhWdVhzdGZ6c1NBaTVZOWlBOHBLMGlNa0pKNjViWEJ5RWVOYnVMb1p0enFPWXJfWWRMdDZtT2JwYVBtYQ?",
+      "source_url": "https://i.ifeng.com",
+      "source": "凤凰网"
+    },
+    {
+      "title": "中国气象局发布“妈祖”风云卫星AI工具箱",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RZFNlNTc1RkV4clFIQ3JqeDNfSXA5VTU5NXNCR1liaDhqS3ljcGozRTc3YVU4ak9LQW1lQ1NERlN1ZjVQd0hCbFN",
+      "source_url": "http://paper.people.com.cn",
+      "source": "人民日报"
     }
   ]
 }
