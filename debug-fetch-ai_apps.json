@@ -1,24 +1,18 @@
 {
   "type": "ai_apps",
-  "total": 45,
+  "total": 43,
   "samples": [
     {
-      "title": "毕马威AI智能体工具率先通过安全认证-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zaVFJR1l5YnFiRUl0UmVIVk9mY3JNRFZCNnZTaXlyaEF0SUkyTDNFbjNxSjlwMDZoWjVQcWJDMkc3Zk9aazlMQ1N",
+      "title": "Instagram的AI检测系统再次陷入混乱-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmSjgtTXhxLVNhODU2WnV4cXRDek9rRVdqWFFWMkpvZzE3TmNPZnREaVNsall6SjR2MXhtSk83M1lGU3VjUHJMeDB",
       "source_url": "https://www.zhiding.cn",
-      "source": "zhiding.cn"
+      "source": "至顶网"
     },
     {
-      "title": "Google推出Pics应用：AI驱动的专业级图像编辑工具",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0xVZ016SXFyT3g3UzVrRVh3c1psbk8wd3pUckFCeE5sUGtOMFA0WDFub0dycGxmLXFGekx2Z1ZMV3dZRkNSMTd",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "Google：2026年AI代理趋势报告",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaXdLd0ltSXRUcm1zNlpBbU1JVmpmdEtuS21JeVhvaTU0WmJ0Wm4zLU9TODc1NUZTS1ZtZmQ3S2JBOWZBcHVqZ1U",
-      "source_url": "https://tech.sina.cn",
-      "source": "新浪网"
+      "title": "专业临床AI工具加速普及，下一道门槛是什么|言叶知新",
+      "link": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxONTd1NnpxVGhtcl9FRGRlY1J2UnlNeEF1S1dld0U2eDRzNGVLbVFXUV9jV2ZFbWxGb3Y1cWoxT1VVLW8yb0EtODB",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     },
     {
       "title": "10 款最佳商务 AI 工具（2026年9月）",
@@ -27,16 +21,22 @@
       "source": "Unite.AI"
     },
     {
-      "title": "行云科技：跨境数字贸易有部分AI应用工具 算力配套服务对业绩影响小",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xcG9fMGhWdVhzdGZ6c1NBaTVZOWlBOHBLMGlNa0pKNjViWEJ5RWVOYnVMb1p0enFPWXJfWWRMdDZtT2JwYVBtYQ?",
-      "source_url": "https://i.ifeng.com",
-      "source": "凤凰网"
-    },
-    {
       "title": "中国气象局发布“妈祖”风云卫星AI工具箱",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RZFNlNTc1RkV4clFIQ3JqeDNfSXA5VTU5NXNCR1liaDhqS3ljcGozRTc3YVU4ak9LQW1lQ1NERlN1ZjVQd0hCbFN",
       "source_url": "http://paper.people.com.cn",
       "source": "人民日报"
+    },
+    {
+      "title": "毕马威AI智能体工具率先通过安全认证-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zaVFJR1l5YnFiRUl0UmVIVk9mY3JNRFZCNnZTaXlyaEF0SUkyTDNFbjNxSjlwMDZoWjVQcWJDMkc3Zk9aazlMQ1N",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
+    },
+    {
+      "title": "字节跳动将AI工具并入豆包超级应用 对抗腾讯等竞争对手",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iWXVMeDR6VnpkSFlmOUxPUGRhckhmWDVod3BNU1FjREp6X2swbnV1cHlYZDg1cjlUR3l1RFFWZFR0Q2VEMkl4Y0V",
+      "source_url": "https://www.zaobao.com.sg",
+      "source": "联合早报"
     }
   ]
 }
