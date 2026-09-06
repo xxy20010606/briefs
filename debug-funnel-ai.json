@@ -1,0 +1,42 @@
+{
+  "type": "ai",
+  "stages": {
+    "raw_dedup_junk": 70,
+    "trusted": 18,
+    "fresh1_24h": 18,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
+  },
+  "final": [
+    {
+      "t": "科技线，周末利好扎堆！AI巨头接连大动作，主线震荡后能否收获“金秋”行情？",
+      "d": "i.ifeng.com"
+    },
+    {
+      "t": "专家：新型电力系统呼唤垂类大模型",
+      "d": "www.stdaily.com"
+    },
+    {
+      "t": "中国大模型简史02：一张突然值钱的船票",
+      "d": "m.sohu.com"
+    },
+    {
+      "t": "对话无界动力创始人张玉峰：人形或半人形机器人有望2到3年内尝试入户，行业下半场需",
+      "d": "www.nbd.com.cn"
+    },
+    {
+      "t": "传 iPhone 18 Pro 仅涨价100 美元；Kimi、MiniMax 将",
+      "d": "www.geekpark.net"
+    },
+    {
+      "t": "亚太媒体高端论坛｜当AI跑得比全球治理更快，人类如何驾驭技术？",
+      "d": "www.thepaper.cn"
+    },
+    {
+      "t": "液冷光模块，10家全产业链核心企业深度盘点",
+      "d": "xueqiu.com"
+    }
+  ]
+}

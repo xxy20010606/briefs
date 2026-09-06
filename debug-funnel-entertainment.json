@@ -1,0 +1,30 @@
+{
+  "type": "entertainment",
+  "stages": {
+    "raw_dedup_junk": 86,
+    "trusted": 6,
+    "fresh1_24h": 6,
+    "page_fresh": 2,
+    "relaxed_72h": 2,
+    "final": 4,
+    "cap": "不限同域"
+  },
+  "final": [
+    {
+      "t": "刚定档10天，一电影宣布撤出中秋国庆档",
+      "d": "m.21jingji.com"
+    },
+    {
+      "t": "又一电影，宣布撤档",
+      "d": "m.sohu.com"
+    },
+    {
+      "t": "ayx·爱游戏(中国)体育今日正式推出官方智能赛事分析功能，提升用户数据体验与服",
+      "d": "cn.chinadaily.com.cn"
+    },
+    {
+      "t": "于Netflix拿下全球第二 《早春晴朗》海外热播的背后",
+      "d": "m.sohu.com"
+    }
+  ]
+}

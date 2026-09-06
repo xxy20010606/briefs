@@ -1,7 +1,13 @@
 {
   "type": "ai",
-  "total": 74,
+  "total": 72,
   "samples": [
+    {
+      "title": "AI大模型驱动智能座舱测试，东方中科与瀚思通齐头并进",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VUXA2Yk1sTTRzYWdhZ3pBRGNOSzdIa3c4MWphZVp0TGFRNEpvN2JhTHBhbG5UZG5QWkhKRUVaMmhCV0hSd3FjR1d",
+      "source_url": "https://auto.news18a.com",
+      "source": "网通社"
+    },
     {
       "title": "大模型出海有新模式！沙特基于MiniMax底座，打造本土阿拉伯语大模型",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CWGlrVTBIWnVwUjkzYXhScl83Y2trNUtLS3hRMFpWdmNXOUFCbVZINVFlSEdsR29iOWo5UXFjSHFtQTBUQjY1Skt",
@@ -29,12 +35,6 @@
     {
       "title": "开眼界！AI+教育让孩子们收获满满",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zaHFKSi11MmRPc0VQYU91ZEVBWWxKS0xpcENkaV9fb19XSFB4Y1JRVHlfRS1sUXBtQklMa3pBZWpSNlpRMElrRUl",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "打造“一脑多形”具身智能平台",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZZTBCcldSWlFDbXIxeW5BRmZzTFhvZjNKOFh6Snp4clZIR01WNy1hNmVIZlJZaWp1Z0J6eDRkWWhZWUpZRnBOZlN",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
     }
