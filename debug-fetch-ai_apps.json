@@ -1,12 +1,18 @@
 {
   "type": "ai_apps",
-  "total": 64,
+  "total": 60,
   "samples": [
     {
-      "title": "B站首届AI创造公开赛收官，《猫娘计划》获得一等奖",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXBKa1cwQWVtcXhFZ0JRN0lrb202ak1EQ1QzN3ZEcmJhdUNNYk5iUk9TV1RqZFIwV01LQ0ZVQ2owUGI1LWFMbEF",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "B站首届AI创造公开赛收官，《猫娘计划》获得一等奖|vivo|哔哩哔哩|大赛|插件|英伟达_手机新浪",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOHhtRDRXQWNJVk52Q3lraWRGRTFXWEdNTmpQckRJOUNhMjg4NnVBVDVycWx4TGV0Mk9QUTNrdkJIZUlRZlBobVl",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "广州以“AI七进”赋能千行百业，打通AI落地“最后100米”",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcnNsZXpaLWE3U2hpdmNkV2UtcXpiTThhd0txMVpxUjVhTUZmSTFWMjlKMU94dUljQ1NLNEFxU3QtQ0xhY01KLTd",
+      "source_url": "https://m.21jingji.com",
+      "source": "21财经"
     },
     {
       "title": "柠檬派OPC青创中心启幕 以AI赋能打造宁波青年数智创业第一站",
@@ -21,20 +27,14 @@
       "source": "财联社"
     },
     {
-      "title": "央视新闻频道发布AI全媒体平台3.0 JDB官网娱乐引领智慧传播新格局",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsMlBVYTE0X1hoX1VrQTFLN0JoOE9CTTdiSlpkWGJRTFBhUTl0UjRDMFh1LWc5T1RCU0htV1JnRmFyVFNyUURTOVB",
-      "source_url": "https://www.ttplus.cn",
+      "title": "从工具到体育产业中枢：真人888BBIN客户端IOS如何用数据重构赛事生态-体坛网_体坛+",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52djdwRkVXZVZ3R3ZfZnFCQWo0M3MzRktIOWRManFTUF8ta2ZrajhRRE9YbEFtWlNJbUNqamRJV1hwR2RSVjBIeHA",
+      "source_url": "https://m.ttplus.cn",
       "source": "体坛"
     },
     {
-      "title": "从分散管理到智能协同，遗传厄运 企业移动解决方案重塑办公效率新范式",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrRDg4Mm9JRERDNDlNbG1PRzI4M2ZqbHh4WDVDOG1GaFZWUmxLcXFsSGl3LVJDM2oydjl4T3BCY2lXSmhLSHVSZk5",
-      "source_url": "https://www.ttplus.cn",
-      "source": "体坛"
-    },
-    {
-      "title": "五星彩票平台官网惊艳亮相GMIC2026：AI出海加速器重塑全球营销新范式",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tLXV1bXo0UUNkNGlIZndkeDdwUE56SUU3dUhMMDZybHFHOGZYY1lha25TWVRzblNydGdoWlA3MU5XNTBXcFhXN0h",
+      "title": "2026年全球开发者技术峰会：万乐彩集团注册带来的开发工具革新-体坛网_体坛+",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4alJXekdhOGJWWER1U1dObmd4b2xwang4UjRpSkNZSl9qcmlMQWt3eVlrdGxXdHVmZFI3bXZta0lSSEpmcUx0Q2l",
       "source_url": "https://www.ttplus.cn",
       "source": "体坛"
     }

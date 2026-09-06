@@ -1,7 +1,13 @@
 {
   "type": "entertainment",
-  "total": 48,
+  "total": 73,
   "samples": [
+    {
+      "title": "《Odyssey》上映33天观影人次破1000万，继《与王共度生活的男人》后今年第二部- 阿视亚经济",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QUEduenVheVlkQUVLMlJTOEROMktybGVGdmxIN0Qxc2VmeGUzc3MtWXM2VHNnQ0s2RlZpRHU0NUtzeml3cnp3VnZ",
+      "source_url": "https://www.asiae.co.kr",
+      "source": "아시아경제"
+    },
     {
       "title": "国产动画电影《八仙！》上映第43天，累计票房突破18.18亿",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mNGxyNldkQVZjQ0dmQmhvc09CcXdTdTJWeEwyYm1YNVlwSWFCVXdnMUNtdXRHVEZoR1o1RVlrbGFFWW5DY09NcjJ",
@@ -31,12 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GZy04YlZTd004V2h0eEF3UGJRNnFoSk5pT1BqUUt1ZWVIdGJlaFdUTlNmcEhINUxTOHo1V3hhUUVFa2ItOXlsZQ?",
       "source_url": "https://www.cls.cn",
       "source": "财联社"
-    },
-    {
-      "title": "内地电影《功夫乒乓》疑抄《少林足球》上映2日玩完单日票房食个两𩠌饭都唔够？",
-      "link": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPcHdCTFRtVjU2MFNHOE43TDl4VHRucWJlVjdhTEZ2VXpGaEU1TlY1TTg4R2xKRUVqamV5d0F4ZmVOS2hMUHJ4M3N",
-      "source_url": "https://www.mytvsuper.com",
-      "source": "东张+"
     }
   ]
 }
