@@ -1,7 +1,19 @@
 {
   "type": "finance",
-  "total": 38,
+  "total": 85,
   "samples": [
+    {
+      "title": "两大行拟千亿级募资，补充核心资本！财政部、中国烟草将出资",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbnVpVlY3UnN5eG9Nb0daSWNSRWJ0T1hSdXgxQ1BSLVRfSHZhREJsbFdQUzRUYy1hcVBpRVpzbDZoMkVLTWREck5",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "周末重磅！2600亿来了，工行、农行官宣",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqVktMOGtfVmladWpHTmhwRW55UVZVWW5zbVFnRGUtVFIxcld3cGxxR3ZwTC1PTjVsV2lVbTl2MHlYdDd5aFN2VkU",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经"
+    },
     {
       "title": "工行、农行拟分别募资不超过1000亿元、1600亿元用于补充资本",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WeFJJVjFGMGlRZVNUbkhEOTh0ZGxOY2kzT0x4a3FhdUx0Q2x3dktmSndNY1pMUmtMdlFZcWYzZzBNYUUyVDZPLXB",
@@ -9,8 +21,8 @@
       "source": "新浪财经"
     },
     {
-      "title": "工商银行、农业银行官宣：拟募资2600亿元",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wTGRTdTUzMzYtc0xaN0I0ZDI4N0R3Q3BuM0hCMXJnNE9CaHcxTkd3ZDJFQndSVktxTkNNUUQ3V2hscU5NbFBIYl9",
+      "title": "2026正规配资机构深度观察：实盘股票交易表现成关键指标",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYXM4bGJjWm9ia0pvdUVFdHBmSGdFNkNVUnZVcXpaZzlFb3pabmMxSjVrdEZiaExiOE84b1VERDRqaDVJSzl0MEU",
       "source_url": "https://cj.sina.cn",
       "source": "新浪财经"
     },
@@ -25,18 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9taDE2UDBmRU1tMUFYZVRZTGcyTHMyR21VdERoWllBb1JFMFZzVVpNUndnTlhrY25TWGxJNFdGdFQ3MFRBUkZmUER",
       "source_url": "https://www.sinchew.com.my",
       "source": "Sin Chew Daily"
-    },
-    {
-      "title": "9.6 突围失败再蓄力",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tbHJBZkhoTVZtNmRUT1J0dHdidlgyRjVkMTlEdnlxX0VyOXJBVDBGeFZaUGhMcGJrdzc3SFZwX3g1UGt6T1J5bW9",
-      "source_url": "http://mp.cnfol.com",
-      "source": "mp.cnfol.com"
-    },
-    {
-      "title": "或采用外挂式备胎设计！路虎“小卫士”谍照曝光！_新车上市",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50RE5VZTRzbXVqaWFmN3dZRlJYVC1lWG5Rcjg2Wkd6VVFqdXlJSklMNEd3aWZNbENyWXlob25TV19ybnF4dGtoOV9",
-      "source_url": "http://auto.cnfol.com",
-      "source": "中金在线"
     }
   ]
 }

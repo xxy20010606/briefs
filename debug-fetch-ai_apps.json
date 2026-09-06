@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 37,
+  "total": 64,
   "samples": [
     {
-      "title": "老老奇人APP：国产AI基础软件体系的系统性突围",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hQjdnLXppaGRUc0ExcVlRREJBUkJNZFJ2SUJ4YTI5WFVVN0pJUjlZS3d3ZTdZVTY0S2p1Y2pqWXh5WXhaUWY4Q2x",
+      "title": "B站首届AI创造公开赛收官，《猫娘计划》获得一等奖",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXBKa1cwQWVtcXhFZ0JRN0lrb202ak1EQ1QzN3ZEcmJhdUNNYk5iUk9TV1RqZFIwV01LQ0ZVQ2owUGI1LWFMbEF",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "柠檬派OPC青创中心启幕 以AI赋能打造宁波青年数智创业第一站",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzJta0JWdG1Jc3JGU0hicmI5VTlVbTZ4NmFHMnVVbGx6T1lHZVE4YXEzNXhEX3NFUURsdWhUcUV6eXVYbVBiSkh",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84dFE3Mmc3WS1jQVJmNUNBdkZ2UlhJUTAtaHdIZVB5NnNCQ1lmaGg5U0FGSXNGTUFnVG14eDFiYUh0d2ZoVUh4Yw?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "央视新闻频道发布AI全媒体平台3.0 JDB官网娱乐引领智慧传播新格局",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsMlBVYTE0X1hoX1VrQTFLN0JoOE9CTTdiSlpkWGJRTFBhUTl0UjRDMFh1LWc5T1RCU0htV1JnRmFyVFNyUURTOVB",
       "source_url": "https://www.ttplus.cn",
       "source": "体坛"
     },
     {
-      "title": "2026年移动终端技术大会观察：欧宝娱乐应用推荐相关5大前沿议题集中亮相-体坛网_体坛+",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5raS02QS1xR2FqTzBsMFFHZWZfUmY3M2VpMlM3MElBOGplb2pTNC1NQ19UQXJ3Z3VIZ0VhVllCblk3MWJPUjR0TG1",
-      "source_url": "https://m.ttplus.cn",
-      "source": "体坛"
-    },
-    {
-      "title": "赌城娱乐登录发布AI技术矩阵：从多模态模型到完整应用基建- 体坛网_体坛+",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54a3NJSzhtQV84bjViVjgyN2FGdjk4ZU5nUVlqWUNfSE5wUWtuekZLYXpiMkdNaURDWmgwdTN0Q0R6VEJQaTRDX0Y",
+      "title": "从分散管理到智能协同，遗传厄运 企业移动解决方案重塑办公效率新范式",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrRDg4Mm9JRERDNDlNbG1PRzI4M2ZqbHh4WDVDOG1GaFZWUmxLcXFsSGl3LVJDM2oydjl4T3BCY2lXSmhLSHVSZk5",
       "source_url": "https://www.ttplus.cn",
       "source": "体坛"
     },
     {
-      "title": "2026年爱赢体育APP升级：AI驱动与全兼容生态如何重塑手机刷机新体验-体坛网_体坛+",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94LUZTRUVnZHFCdHVlSklrTHRoX0xlNmZ5STgzMDFRbkwtaU9Ibm1vM0VzRjFUVkhkOWlDNy1FRWRDWDJucTR1UHF",
-      "source_url": "https://m.ttplus.cn",
-      "source": "体坛"
-    },
-    {
-      "title": "鼎博游戏应用发布“智趣引擎”平台，以AI智能体与数据闭环重塑企业用户增长效率",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xQklSTUJxRmF0VW1ZVUlBZEhfa2Q2VlphWUJUc1EyVnRlb0FDZS1zbl8wYVBNYVVEYVZCaW5WZFZiNHA1NERFRkN",
+      "title": "五星彩票平台官网惊艳亮相GMIC2026：AI出海加速器重塑全球营销新范式",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tLXV1bXo0UUNkNGlIZndkeDdwUE56SUU3dUhMMDZybHFHOGZYY1lha25TWVRzblNydGdoWlA3MU5XNTBXcFhXN0h",
       "source_url": "https://www.ttplus.cn",
       "source": "体坛"
-    },
-    {
-      "title": "知乎AI Works功能更新，支持应用一键部署|Skill|Agent|知乎直答|数据|开放平台_手",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTE4wREdGTTEyc1hXVDkxZWlqT2RFamFScl9ROHpzdk04SXRWQWhJTmxMTUhlSXVGMW1PNHppTW41a24xTkhXQVd",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
     }
   ]
 }

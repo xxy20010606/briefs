@@ -1,7 +1,13 @@
 {
   "type": "ai",
-  "total": 28,
+  "total": 73,
   "samples": [
+    {
+      "title": "大模型出海有新模式！沙特基于MiniMax底座，打造本土阿拉伯语大模型",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CWGlrVTBIWnVwUjkzYXhScl83Y2trNUtLS3hRMFpWdmNXOUFCbVZINVFlSEdsR29iOWo5UXFjSHFtQTBUQjY1Skt",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
     {
       "title": "科技线，周末利好扎堆！AI巨头接连大动作，主线震荡后能否收获“金秋”行情？",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Bcmk2SWMwMHRoZFZRVzY3anhtdHotbm5OcVI3S0luTUI0Y1M4ZnZVa29HX3Q3bnRCcklPS2FFUXMxenFBRGtqNw?",
@@ -21,22 +27,16 @@
       "source": "即时国际"
     },
     {
-      "title": "一个月两个亿元大单！捕鱼牛魔王星力7代杀入AI牌局-体坛网_体坛+",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xcWF0eVZMRE9qNmoyTTYtN3N0d3E2U1M2eVZmQ2FybS1JVXJSNkhSOWdpb2ZXSklPRHFsaFpFSW1TVDBWYzhDc3k",
-      "source_url": "https://m.ttplus.cn",
-      "source": "体坛"
-    },
-    {
       "title": "开眼界！AI+教育让孩子们收获满满",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zaHFKSi11MmRPc0VQYU91ZEVBWWxKS0xpcENkaV9fb19XSFB4Y1JRVHlfRS1sUXBtQklMa3pBZWpSNlpRMElrRUl",
       "source_url": "https://k.sina.com.cn",
-      "source": "k.sina.com.cn"
+      "source": "新浪网"
     },
     {
       "title": "打造“一脑多形”具身智能平台",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZZTBCcldSWlFDbXIxeW5BRmZzTFhvZjNKOFh6Snp4clZIR01WNy1hNmVIZlJZaWp1Z0J6eDRkWWhZWUpZRnBOZlN",
       "source_url": "https://k.sina.com.cn",
-      "source": "k.sina.com.cn"
+      "source": "新浪网"
     }
   ]
 }
