@@ -251,6 +251,53 @@ def _is_blocked_in_cn(url):
     return False
 
 
+# 用户偏好排除源（区别于上面的国内访问受限）：广告/杂讯过多等主观原因，用户明确不要。
+EXCLUDED_SOURCE_DOMAINS = {
+    "sina.com", "sina.cn", "sina.com.cn",  # 新浪系：广告过多，2026-09-06 用户明确排除
+}
+
+
+def _is_excluded_source(url):
+    """判断链接是否属于用户排除的来源（如新浪系）。"""
+    host = _domain_of(url)
+    if host == "?":
+        return False
+    return any(host == d or host.endswith("." + d) for d in EXCLUDED_SOURCE_DOMAINS)
+
+
+_URL_DATE_PATTERNS = [
+    re.compile(r'(20\d{2})[-_/](\d{1,2})[-_/](\d{1,2})'),   # 2026-09-04 / 2026/09/04 / 2026_08_28
+    re.compile(r'/(20\d{2})(\d{2})/(\d{1,2})/'),             # /202512/15/ (人民网:年月/日分段)
+    re.compile(r'(20\d{2})(\d{2})(\d{2})'),                  # 20260906 或 202608183844323382(取前8位)
+]
+
+
+def _url_date(url):
+    """从 URL 里抠发布日期（国内新闻 URL 惯例自带日期）。解析失败返回 None。
+    用于兜底识别"pubDate 新鲜但实际是旧文"的 Google 重收录老文。"""
+    if not url:
+        return None
+    for pat in _URL_DATE_PATTERNS:
+        m = pat.search(url)
+        if not m:
+            continue
+        try:
+            y, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
+            if 2015 <= y <= datetime.now().year + 1 and 1 <= mo <= 12 and 1 <= d <= 31:
+                return datetime(y, mo, d)
+        except ValueError:
+            continue
+    return None
+
+
+def _url_date_too_old(url, max_days=3):
+    """URL 内嵌日期早于 max_days 天 → 判定为旧文（Google 重收录老文兜底）。"""
+    d = _url_date(url)
+    if d is None:
+        return False  # URL 没带日期则不判定，交给 pubDate 过滤
+    return (datetime.now() - d).total_seconds() > max_days * 86400
+
+
 def _resolve_real_url(glink, source_url=None):
     """解析 Google News 链接为真实**原文文章** URL（国内可达）。
 
@@ -684,21 +731,27 @@ def fetch_news(brief_type):
         for it, real in zip(google_links, resolved):
             it["link"] = real  # 解析失败则置空 → 后续百度搜索兜底
 
-    # ── 剔除国内访问受限的境外源，改由候选池里的境内报道补位 ──
-    # 候选池每方向 40+ 条，只需 7 条，剔除几条后 categorize 会自动用境内源顶上。
+    # ── 剔除不合格条目，改由候选池里的合格报道补位 ──
+    # 三类剔除：①国内访问受限的境外源 ②用户排除源(新浪系,广告过多) ③URL日期超3天的旧文
+    # 候选池每方向 40+ 条，只需 7 条，剔除几条后 categorize 会自动用合格源顶上。
     kept, dropped = [], []
     for it in items:
-        if _is_blocked_in_cn(it.get("link", "")):
-            dropped.append(it.get("link", ""))
+        link = it.get("link", "")
+        if _is_blocked_in_cn(link):
+            dropped.append(("境外受限", link))
+        elif _is_excluded_source(link):
+            dropped.append(("用户排除", link))
+        elif _url_date_too_old(link):
+            dropped.append(("旧文", link))  # pubDate 骗不过 URL 内嵌日期
         else:
             kept.append(it)
-    # 保护：若剔除后所剩无几（<4 条），宁可保留境外链接也不发空页/少内容页
+    # 保护：若剔除后所剩无几（<4 条），宁可保留部分不合格链接也不发空页/少内容页
     if dropped and len(kept) >= 4:
-        print(f"  ↳ 剔除 {len(dropped)} 条境外受限源（境内报道补位）: "
-              + ", ".join(_domain_of(d) for d in dropped[:5]))
+        print(f"  ↳ 剔除 {len(dropped)} 条（境内合格报道补位）: "
+              + ", ".join(f"[{r}]{_domain_of(l)}" for r, l in dropped[:6]))
         items = kept
     elif dropped:
-        print(f"  ⚠ {len(dropped)} 条境外源，但剩余仅 {len(kept)} 条，保留不剔除")
+        print(f"  ⚠ {len(dropped)} 条不合格，但剩余仅 {len(kept)} 条，保留不剔除")
 
     if not items:
         print("  ⚠ 全部源抓取为空，将由 main 写入占位页避免 404")
