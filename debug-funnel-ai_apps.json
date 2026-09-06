@@ -1,42 +1,52 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 48,
+    "raw_dedup_junk": 55,
     "trusted": 9,
+    "non_trusted_top": {
+      "ttplus.cn": 36,
+      "sina.com.cn": 3,
+      "sina.cn": 2,
+      "fxbaogao.com": 1,
+      "ikanchai.com": 1,
+      "528btc.com": 1,
+      "cyzone.cn": 1,
+      "csdn.net": 1
+    },
     "fresh1_24h": 8,
     "page_fresh": 5,
     "relaxed_72h": 3,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
     {
       "t": "柠檬派OPC青创中心启幕 以AI赋能打造宁波青年数智创业第一站",
-      "d": "m.sohu.com"
+      "d": "sohu.com"
     },
     {
       "t": "涂鸦智能亮相IFA 2026，以Physical AI生态重塑AI生活体验_科技",
-      "d": "hy.stock.cnfol.com"
+      "d": "cnfol.com"
     },
     {
       "t": "本周AI项目推荐：ego lite，open design，Monid...当C",
-      "d": "m.sohu.com"
+      "d": "sohu.com"
     },
     {
       "t": "AI秒出的出境游攻略，你敢“抄作业”吗？",
-      "d": "m.thepaper.cn"
+      "d": "thepaper.cn"
     },
     {
       "t": "AI投资人盯上B站UP主 探索内容创业新风口",
-      "d": "eu.36kr.com"
+      "d": "36kr.com"
     },
     {
       "t": "广州以“AI七进”赋能千行百业，打通AI落地“最后100米”",
-      "d": "m.21jingji.com"
+      "d": "21jingji.com"
     },
     {
       "t": "3个90后创业4年，公司估值2000亿",
-      "d": "www.sohu.com"
+      "d": "sohu.com"
     }
   ]
 }

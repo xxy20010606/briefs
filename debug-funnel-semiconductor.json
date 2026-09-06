@@ -1,42 +1,46 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 44,
-    "trusted": 13,
-    "fresh1_24h": 13,
-    "page_fresh": 7,
+    "raw_dedup_junk": 45,
+    "trusted": 10,
+    "non_trusted_top": {
+      "ttplus.cn": 14,
+      "sina.cn": 6,
+      "sina.com.cn": 5,
+      "zol.com.cn": 2,
+      "mshale.com": 1,
+      "c114.net.cn": 1,
+      "creaders.net": 1,
+      "vanpeople.com": 1,
+      "eastmoney.com": 1,
+      "tikr.com": 1
+    },
+    "fresh1_24h": 10,
+    "page_fresh": 5,
     "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
       "t": "光安伦发布三款激光器新品，赋能AI智算下一代光互联",
-      "d": "www.iccsz.com"
+      "d": "iccsz.com"
     },
     {
       "t": "安世被冻21亿后，荷兰转移86吨黄金，西方小国终于看清一件事？",
-      "d": "m.sohu.com"
+      "d": "sohu.com"
     },
     {
       "t": "64个硬科技项目 六大未来赛道：浦发银行与华科大的“硬科技之约”",
-      "d": "www.cnr.cn"
+      "d": "cnr.cn"
     },
     {
       "t": "射频滤波器厂商宙讯微电子完成近亿元B+轮融资，加速压电MEMS芯片国产化进程",
-      "d": "www.eet-china.com"
-    },
-    {
-      "t": "九游电竞平台注册首度谋划在越南开展AI芯片先进封装业务",
-      "d": "www.gelonghui.com"
-    },
-    {
-      "t": "每周股票复盘：源杰科技（688498）2026年半年报毛利率提升",
-      "d": "caifuhao.eastmoney.com"
+      "d": "eet-china.com"
     },
     {
       "t": "星钥半导体完成超10亿元新一轮融资，宁德时代领投，成立不足两年累计融资超25亿元",
-      "d": "m.sohu.com"
+      "d": "sohu.com"
     }
   ]
 }

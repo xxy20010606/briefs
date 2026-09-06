@@ -1,30 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 86,
-    "trusted": 6,
-    "fresh1_24h": 6,
-    "page_fresh": 2,
-    "relaxed_72h": 2,
-    "final": 4,
-    "cap": "不限同域"
+    "raw_dedup_junk": 124,
+    "trusted": 19,
+    "non_trusted_top": {
+      "ttplus.cn": 39,
+      "sina.cn": 22,
+      "360.com": 5,
+      "china.com": 5,
+      "bjd.com.cn": 5,
+      "sina.com.cn": 4,
+      "yzwb.net": 3,
+      "mk.co.kr": 2,
+      "rediandf.com": 2,
+      "zsnews.cn": 2
+    },
+    "fresh1_24h": 15,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
       "t": "刚定档10天，一电影宣布撤出中秋国庆档",
-      "d": "m.21jingji.com"
+      "d": "21jingji.com"
     },
     {
       "t": "又一电影，宣布撤档",
-      "d": "m.sohu.com"
+      "d": "sohu.com"
     },
     {
-      "t": "ayx·爱游戏(中国)体育今日正式推出官方智能赛事分析功能，提升用户数据体验与服",
-      "d": "cn.chinadaily.com.cn"
+      "t": "中国交响乐团2026/27音乐季开幕音乐会在京上演",
+      "d": "news.cn"
     },
     {
-      "t": "于Netflix拿下全球第二 《早春晴朗》海外热播的背后",
-      "d": "m.sohu.com"
+      "t": "思想耀岭南丨对话蓝鸿春：讲好本土故事要有足够的自信",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "《初步举证》：台前是一人的战场，幕后是一群人的信仰｜艺术+",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "2026”超级乡声”周末我登台歌手大赛总决赛在宁乡璀璨落幕",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "AI虚拟人方桃子广告报价超20万元",
+      "d": "10jqka.com.cn"
     }
   ]
 }

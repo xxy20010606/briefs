@@ -1,6 +1,6 @@
 {
   "type": "semiconductor",
-  "total": 45,
+  "total": 46,
   "samples": [
     {
       "title": "美股存储芯片狂涨11%，科技巨头却大跌5%，秘密在这里。",
@@ -13,6 +13,12 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OeFNoZS1hUWhMa2plU2ItYTFtVlpOaUhxSURvenJsMW4ydm9ISWJyaGF5YWFQS2V5MDVpSmswMFlIWXUtT2tMWQ?",
       "source_url": "https://www.cls.cn",
       "source": "财联社"
+    },
+    {
+      "title": "半导体冲高后要变盘？英特尔、LITE、AAOI今日买点解析！ #美股#美股直播#英伟达#NVDA#英",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qckdGWnlOLXYxaFJPOXpWeXJzM1JUYnlHNFM1dzZHaURXWWVmanBtajZpMkRfdG1KdmFpRjNINktqOWRtSVI2Tkh",
+      "source_url": "https://mshale.com",
+      "source": "Mshale"
     },
     {
       "title": "光安伦发布三款激光器新品，赋能AI智算下一代光互联",
@@ -30,12 +36,6 @@
       "title": "半导体板块早盘冲高回落，半导体设备ETF易方达（159558）昨日获超1亿元净流入",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR213V2JZNWY1QUZhQkk5dC1kN2R5Ymowd2NiNzAxcUZVMGZ0TVpBYmRuUlZwdEwxNGs1cTNBVzlxYkJ6aWltMml",
       "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "自从炒了 A股，突然发现对钱越来越没有概念了… ​",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UMFhaSGItazIzNWE1N0dUNFU2QVFCUTFzcDlYMDdEQldUWWlHbS1oNkh5NDdPLTZKZWZGOTlKUjljWGlncEZ4TkF",
-      "source_url": "https://www.sina.cn",
       "source": "新浪网"
     }
   ]

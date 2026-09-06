@@ -1,11 +1,23 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 40,
+    "raw_dedup_junk": 64,
     "trusted": 9,
+    "non_trusted_top": {
+      "sina.com.cn": 24,
+      "autohome.com.cn": 14,
+      "sina.cn": 6,
+      "wedoany.com": 3,
+      "ttplus.cn": 2,
+      "whnews.cn": 1,
+      "voi.id": 1,
+      "stockstar.com": 1,
+      "fxbaogao.com": 1,
+      "chedongxi.com": 1
+    },
     "fresh1_24h": 9,
-    "page_fresh": 7,
-    "relaxed_72h": 0,
+    "page_fresh": 6,
+    "relaxed_72h": 2,
     "final": 7,
     "cap": "同域≤2条"
   },
@@ -16,27 +28,27 @@
     },
     {
       "t": "“光伏+储能+充电”一体化，一场新能源汽车充电革命正在发生",
-      "d": "mcn.solarbe.com"
-    },
-    {
-      "t": "重磅！高新西区首个园区级智能微电网示范工程正式投运！",
-      "d": "cn.solarbe.com"
+      "d": "solarbe.com"
     },
     {
       "t": "储能救不了光伏巨头 | 产业家深度",
-      "d": "m.sohu.com"
+      "d": "sohu.com"
     },
     {
       "t": "山东：从地下挖煤，到抬头看天",
-      "d": "sd.ifeng.com"
+      "d": "ifeng.com"
     },
     {
       "t": "汽车出行产业日报(09.05) : 汽车行业动态",
-      "d": "www.163.com"
+      "d": "163.com"
     },
     {
       "t": "从“一芯难求”到过剩预警 储能新建产能审批或将收紧",
-      "d": "www.163.com"
+      "d": "163.com"
+    },
+    {
+      "t": "齐鲁制造会客厅｜制造“家底”做“跳板”，山东向未来能源要“第二曲线”",
+      "d": "sohu.com"
     }
   ]
 }

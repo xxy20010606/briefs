@@ -1,7 +1,13 @@
 {
   "type": "ai_apps",
-  "total": 49,
+  "total": 57,
   "samples": [
+    {
+      "title": "国联民生证券:《传媒行业周报20260905：OpenAI发布GPT-6 Astra，传媒2026中",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XOW9PcnU0bEFOOEdmOEhzZ091aTE5LWk0U1VWVkUteVBQdXYwdS1oeS01Y21DMWpBd3paSDFOVTliNHhGRFFWSkl",
+      "source_url": "https://www.fxbaogao.com",
+      "source": "发现报告"
+    },
     {
       "title": "B站首届AI创造公开赛收官，《猫娘计划》获得一等奖|vivo|哔哩哔哩|大赛|插件|英伟达_手机新浪",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOHhtRDRXQWNJVk52Q3lraWRGRTFXWEdNTmpQckRJOUNhMjg4NnVBVDVycWx4TGV0Mk9QUTNrdkJIZUlRZlBobVl",
@@ -27,14 +33,8 @@
       "source": "财联社"
     },
     {
-      "title": "极速体育手机版应用发布2026夏季版：AI驱动技术革新用户体验再升级",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qTWZIV0pjTEtPdFdSNlRpNUMxOHRRLUQ3QjBSSWJTZUttSElkZHdabWw3VXEtX2lpWVVfMWtsdlRsT2lmVGNXbVV",
-      "source_url": "https://www.ttplus.cn",
-      "source": "体坛"
-    },
-    {
-      "title": "manbext发布亚上彩平台怎么了战略升级暨产业生态联盟，全面推动体育产业智能化发展",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XRUlJUHd4VGdoZVNicmt0blBERlhqZzVtNF8zT1ZVejV1MmJSUXRxTFFrTmhTOVZhT1RGbHJySEw5UjFNMDFkUUE",
+      "title": "从工具到体育产业中枢：真人888BBIN客户端IOS如何用数据重构赛事生态-体坛网_体坛+",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52djdwRkVXZVZ3R3ZfZnFCQWo0M3MzRktIOWRManFTUF8ta2ZrajhRRE9YbEFtWlNJbUNqamRJV1hwR2RSVjBIeHA",
       "source_url": "https://m.ttplus.cn",
       "source": "体坛"
     }
