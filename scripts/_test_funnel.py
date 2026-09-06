@@ -81,6 +81,30 @@ run("E", mockE, [
     lambda out, cnt: all("雷竞技" not in it["title"] for it in out),
 ])
 
+# G：主域名归组多样性（cnfol 子域各算各的漏洞）
+hosts_g = ["sc.stock.cnfol.com", "mp.cnfol.com", "news.cnfol.com",
+           "hkstock.cnfol.com", "cls.cn", "yicai.com", "eastmoney.com",
+           "m.10jqka.com.cn", "xueqiu.com"]
+mockG = [mk(h, 0, i) for i, h in enumerate(hosts_g)]
+run("G", mockG, [
+    lambda out, cnt: len(out) == 7,
+    # 主域名归组后 cnfol.com 全部子域合计 ≤2
+    lambda out, cnt: sum(v for k, v in cnt.items() if k.endswith("cnfol.com")) <= 2,
+    lambda out, cnt: gb._registrable("https://sc.stock.cnfol.com/a.html") == "cnfol.com",
+    lambda out, cnt: gb._registrable("https://cn.chinadaily.com.cn/a.htm") == "chinadaily.com.cn",
+    lambda out, cnt: gb._registrable("https://yystv.cn/a") == "yystv.cn",
+])
+
+# H：财富号子域排除 + ayx 垃圾词 + cn.chinadaily 封禁
+assert not gb._is_trusted("https://caifuhao.eastmoney.com/123.html")
+assert gb._is_trusted("https://www.eastmoney.com/123.html")
+assert gb._is_junk_title("ayx·爱游戏(中国)体育今日正式推出官方智能赛事分析功能")
+assert gb._is_junk_title("九游电竞平台注册首度谋划在越南开展AI芯片业务")
+assert not gb._is_junk_title("台风今天正式登陆福建沿海")
+assert not gb._is_trusted("https://cn.chinadaily.com.cn/2026/32653951.html")
+assert gb._is_trusted("https://www.chinadaily.com.cn/a/1.html")
+print("H PASS")
+
 # F：categorize 溢出补位（7 条集中在 2 类也显示满 7 条）
 itemsF = [{"title": f"电影票房测试{i}", "link": durl("m1905.com", 0, i),
            "source": "", "source_url": ""} for i in range(5)] + \

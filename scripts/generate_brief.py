@@ -76,7 +76,10 @@ FEEDS = {
     "ai_apps": [_gnq("AI 应用 工具"), _gnq("AI Agent 创业 产品"), _gnq("AI 编程 办公 发布")],
     "newenergy": [_gnq("新能源 光伏 储能"), _gnq("电动车 电池 比亚迪"), _gnq("碳中和 风电 氢能源"), _gnq("锂电池 储能 装机")],
     "entertainment": [_gnq("电影 票房 上映"), _gnq("综艺 热播 明星 官宣"), _gnq("游戏 电竞 赛事"),
-                      _gnq("电视剧 开播 剧集"), _gnq("电影 定档 首映"), _gnq("演唱会 巡演 开票")],
+                      _gnq("电视剧 开播 剧集"), _gnq("电影 定档 首映"), _gnq("演唱会 巡演 开票"),
+                      # 主题流：Google News 娱乐频道头条，覆盖主流媒体文娱报道
+                      # （搜索式候选被韩媒/新浪系垄断，白名单内只剩零星几条）
+                      ("https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "Google·娱乐主题流")],
     "semiconductor": [_gnq("半导体 芯片"), _gnq("晶圆 光刻机"), _gnq("GPU 英伟达 存储 中芯国际")],
 }
 
@@ -242,6 +245,26 @@ def _domain_of(url):
         return "?"
 
 
+# 两段式主域名后缀：判定主域名时往前多取一段
+_TWO_PART_TLDS = ("com.cn", "net.cn", "org.cn", "gov.cn", "edu.cn", "com.my",
+                  "com.hk", "com.tw", "co.jp", "co.kr", "co.uk", "com.au")
+
+
+def _registrable(url):
+    """取主域名（registrable domain）。
+    多样性判定必须按主域名归组：cnfol 的 sc.stock/mp/news/hkstock 子域
+    各算各的会让同域 cap 形同虚设（实测财经 7 条里 6 条 cnfol 子域）。"""
+    host = _domain_of(url)
+    if host == "?":
+        return "?"
+    parts = host.split(".")
+    if len(parts) >= 3 and ".".join(parts[-2:]) in _TWO_PART_TLDS:
+        return ".".join(parts[-3:])
+    if len(parts) >= 2:
+        return ".".join(parts[-2:])
+    return host
+
+
 def _is_blocked_in_cn(url):
     """判断链接所属域名是否国内访问受限。"""
     host = _domain_of(url)
@@ -341,17 +364,21 @@ def _is_trusted(url):
     host = _domain_of(url)
     if host == "?":
         return False
-    # 白名单域名的 UGC 子域排除（车家号=汽车之家博主平台，非编辑部内容）
-    if host.startswith("chejiahao."):
+    # 白名单域名的 UGC 子域排除（车家号=汽车之家博主平台、财富号=东方财富博主平台）
+    if host.startswith("chejiahao.") or host.startswith("caifuhao."):
+        return False
+    # cn.chinadaily.com.cn：两次博彩软文投放事故源（雷竞技/ayx·爱游戏），整段封禁
+    if host == "cn.chinadaily.com.cn":
         return False
     return any(host == d or host.endswith("." + d) for d in TRUSTED_DOMAINS)
 
 
-# 引流/博彩软文标题黑名单（实例：雷竞技博彩软文挂在白名单子域 cn.chinadaily.com.cn 的 H5 页）
+# 引流/博彩软文标题黑名单（实例：雷竞技/ayx·爱游戏博彩软文挂在白名单子域 cn.chinadaily.com.cn）
 # 只收高置信垃圾词，避免误杀正经新闻（如"开户"在财经是正经词，不收）。
 _JUNK_TITLE_RE = re.compile(
     r"(雷竞技|raybet|bet365|博彩|盘口|皇冠体育|必威|188bet|365体育|彩票|"
-    r"哪个app|比分直播|外围足彩)", re.I)
+    r"哪个app|比分直播|外围足彩|ayx|爱游戏|华体会|乐鱼体育|开云体育|"
+    r"新利体育|平台注册|注册送|开户送)", re.I)
 
 
 def _is_junk_title(title):
@@ -884,6 +911,12 @@ def fetch_news(brief_type):
     trusted = [it for it in items if _is_trusted(it.get("link", ""))]
     n_drop1 = len(items) - len(trusted)
     _stages["trusted"] = len(trusted)
+    # 白名单外条目的主域名分布 top10：指导下一轮精准扩白名单
+    from collections import Counter as _Counter
+    _stages["non_trusted_top"] = dict(_Counter(
+        _registrable(it.get("link", "")) for it in items
+        if not _is_trusted(it.get("link", ""))
+    ).most_common(10))
     if n_drop1:
         print(f"  ↳ 白名单过滤: 保留 {len(trusted)}/{len(items)} 条权威源")
 
@@ -914,11 +947,11 @@ def fetch_news(brief_type):
     # 顺序至关重要：cap=2 时若 24h 内条目不足，先回填白名单内 ≤72h 的**其他来源**
     # （宁稍旧不单一），仍不足才放宽 cap 到 3 → 不限。
     def _pick(cands, cap):
-        """按同域 cap 筛选，保持候选池原有优先级（24h 新鲜条目在前）。"""
+        """按同域 cap 筛选（主域名归组），保持候选池原有优先级（24h 新鲜条目在前）。"""
         cnt = {}
         out = []
         for it in cands:
-            d = _domain_of(it.get("link", ""))
+            d = _registrable(it.get("link", ""))
             if cap is not None and cnt.get(d, 0) >= cap:
                 continue
             cnt[d] = cnt.get(d, 0) + 1
@@ -958,7 +991,7 @@ def fetch_news(brief_type):
         with io.open(f"debug-funnel-{brief_type}.json", "w", encoding="utf-8") as _df:
             json.dump({"type": brief_type, "stages": _stages,
                        "final": [{"t": (it.get("title", "") or "")[:40],
-                                  "d": _domain_of(it.get("link", ""))}
+                                  "d": _registrable(it.get("link", ""))}
                                  for it in items]},
                       _df, ensure_ascii=False, indent=2)
     except Exception:
