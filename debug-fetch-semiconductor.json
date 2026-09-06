@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 45,
+  "total": 20,
   "samples": [
     {
-      "title": "AI芯片撑起半壁江山，韩国今年出口剑指万亿美元！",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oOVdHZzFRMGRPRXdjY3ZSLUhtS2tuSU1vQlYxaDNQVlpOdy1BMEFfV2xMYVYxdlh1QzlJRF9rcmxKNWRCQ2JERTJ",
-      "source_url": "https://wallstreetcn.com",
-      "source": "wallstreetcn.com"
+      "title": "光安伦发布三款激光器新品，赋能AI智算下一代光互联",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ha0JmSDl2c0hnV1NrUmRzb2JKc1Z6M2dQQkVBUlV3ZlJxUjJfbmRnSGxuT3ItUXp4M091ZHlteGZ2YUlWRW9JZWR",
+      "source_url": "http://www.iccsz.com",
+      "source": "iccsz.com"
     },
     {
-      "title": "存储芯片，CPO等领跌！ ​",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KMjJ0dERZcTR2UGJvdUtIZHUxTHFhRml6RkpjeVNQMEFqWVRmV1YzSkpKSnpCR3liVlNWdW5CeVRyNkpMSm5SMUF",
-      "source_url": "https://www.sina.cn",
-      "source": "新浪网"
+      "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUlBkNVdaVGxNUG1fbEJ0YjhMYjZHZ3hleHY2aXI3MkRsNTNqVlZyWFJ6ZUMxcTBUT3Qyb3JRblZqTEdudzlWbQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "芯片设备，同比增长 23%",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYlpVbjM5MmcxSC1PMWwxTHJfMnNfczdOd2xaLWFnR3ZldTg0WDBGMlVDSjl4cjV3ckd6YXVyZmQ5X0NwbVRlWS1",
+      "title": "半导体板块早盘冲高回落，半导体设备ETF易方达（159558）昨日获超1亿元净流入",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR213V2JZNWY1QUZhQkk5dC1kN2R5Ymowd2NiNzAxcUZVMGZ0TVpBYmRuUlZwdEwxNGs1cTNBVzlxYkJ6aWltMml",
+      "source_url": "https://k.sina.com.cn",
+      "source": "k.sina.com.cn"
+    },
+    {
+      "title": "摩根士丹利：资金正从芯片股轮动至AI云服务商 美股短期或难再创新高",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12ZmpfWGJZQ25kUXNudzE5akxfOXJrUHhqcDI3VTVZOW52a29ORmU5cy1sUlF6b0JtWWw5TXpOUklnOWduZmo3Vg?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "安世被冻21亿后，荷兰转移86吨黄金，西方小国终于看清一件事？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakpmeFhVZVlZTWQ4VUZYX0xiNFJCNFAxX1d2cUlqbmZRaVZyZnR2T0V1b3FmaU5kQU90YS1ILVczNVQtNFRJbS1",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "大国之芯系列｜8年过去了，国产半导体追上来了吗？",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XX0NlZjJZSkZsNEtWc0xSd0JSemlZSTgxdlVtdG1DbkFUdjAwclBGei1CQ3NrWGtXZHFmVHZIaGdHMzFaNDUtNVN",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
-    },
-    {
-      "title": "台积电芯片设备需求近乎翻倍，半导体材料设备指数午后调整蓄势",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YeVpYZS0xZlI0NjFhNmxrNVpzSVJNUnprYWR1dlptM0ZhRHh5VXpTU2ZTM2dLcHpRWU9OVHhvVWl4NEc3SlBhbnd",
-      "source_url": "https://cj.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "两大存储芯片巨头，涨近1%",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQWdwbjFUekQzcURveVJXVlE3dzV4c2l4UmR4Nk5rcVRQVnNsaWFGMlBuc1ktSVlaZWRhbHo3SUpJcUVGaFlGVlF",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "64个硬科技项目 六大未来赛道：浦发银行与华科大的“硬科技之约”",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIblctclFWOFEzekVIbjhCYTBSM1VJMjZhT3hNbF9vbkxnQkhLTThiR3dMalpFaFEtTl9FYWdydHh3UGx2c3BEdGQ",
+      "source_url": "https://www.cnr.cn",
+      "source": "央广网"
     }
   ]
 }

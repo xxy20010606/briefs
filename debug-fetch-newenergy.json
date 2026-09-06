@@ -1,7 +1,19 @@
 {
   "type": "newenergy",
-  "total": 44,
+  "total": 34,
   "samples": [
+    {
+      "title": "2026太原论坛 | 新能源全场景应用与金属赋能探讨活动开展 共话能源转型与绿色发展",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91aXpKVlFYdGtxMGxWYVBLUm5ycFZaN1RoOTVDeEFmMHYtZmhNNGI4ZzJKUzFyREZKQXByTkVZajVLbzFxb1dzdTl",
+      "source_url": "https://k.sina.com.cn",
+      "source": "k.sina.com.cn"
+    },
+    {
+      "title": "天合储能滁州基地迎乌兹别克斯坦Uzmetkombinat代表团，共话储能赋能工业绿色升级",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hS3RWdkhwajNOcnBVMjl1UmJma0JSZWt0Yi1YRDlPd0ZyMFZXTHdIVDhsQ003TnpjdVlFdFFwRFJLV3dYQVZObFd",
+      "source_url": "https://mcn.solarbe.com",
+      "source": "碳索储能网"
+    },
     {
       "title": "“光伏+储能+充电”一体化，一场新能源汽车充电革命正在发生",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jZ3FKS3dYeWZhNkVhRmc0V1VyckthUXB5TWhYUHVVSlFhVlg5d3NFbjVFU211SjhTTU52d3BzTXMtdTJrZGhfYk1",
@@ -9,34 +21,22 @@
       "source": "碳索储能网"
     },
     {
-      "title": "光伏最高可配50%、风电30%，山东为新能源场站配建储能立新规_山东新闻",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RTkVIVnRza2ZhU1FfZjk1OG00OFd3WDZoRmF1N21La0lDb3lZTXlMNWJQN1VOYm5PZWNnbFJLMHJ5Mk90R2lWNkZ",
-      "source_url": "https://sd.dzwww.com",
-      "source": "大众网"
+      "title": "重磅！高新西区首个园区级智能微电网示范工程正式投运！",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03MWZxbFhOQ3U0TDFpbXE1bzAzR2w5aFdHUTgtODBOWEYxaG1RWFZyazFRZ1hKM2p4R0t4SVR3RUNTVExmVlhLOHJ",
+      "source_url": "https://mcn.solarbe.com",
+      "source": "碳索储能网"
     },
     {
-      "title": "亏掉几百亿之后，新能源“旧王”都去哪了",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzb0ZOZmZCWlBnSjFSUFVDNC1QcXgyTThmalBHR0NkU1VrWVAtZ1RIakxEczYwSVZ3UVdncUxIMF93eHVIUWVOZk9",
-      "source_url": "https://news.pedaily.cn",
-      "source": "投资界"
+      "title": "储能救不了光伏巨头 | 产业家深度",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWJZSVpHMGs2bkR5a1RGSGxlTVVoRzUyVjYyN0p0SEloRDNEa2R6V3VrVVgtRFEtazU2ZXpXV2NFRjktaGI1ZHF",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "2026太原论坛 | 新能源全场景应用与金属赋能探讨活动开展 共话能源转型与绿色发展",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91aXpKVlFYdGtxMGxWYVBLUm5ycFZaN1RoOTVDeEFmMHYtZmhNNGI4ZzJKUzFyREZKQXByTkVZajVLbzFxb1dzdTl",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "埃及加快推动能源绿色转型（国际视点）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hbTdCa25qMXY2c09Wd256anh5RElwcnlUWDJYWG9DTnp2Uk9HQktoei1ONmNseVhFNzFQbVVWYTczOGh1dUZEZ3J",
-      "source_url": "http://paper.people.com.cn",
-      "source": "人民日报"
-    },
-    {
-      "title": "21评论丨光伏装机首超煤电，能源转型迎新起点",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0VhNlFhTG9IZTNIdE9QcnBheU9FQ0lLWGlzV2I1N3BKWDJqeVlvam5LbDlqYXR0aWczbldyNUF1UmRYb2VRbzM",
-      "source_url": "https://m.21jingji.com",
-      "source": "21财经"
+      "title": "美国清洁能源协会：2026年二季度新增清洁能源装机超17吉瓦",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FN25RbzlwM1dKQmVWRk9SZlZzWXdOTlYwUnFPMlEwN3h5UEN4RER5VGxjcDc4cDg2YjBfV3Y3YU9uSWt4RkRNelJ",
+      "source_url": "https://www.wedoany.com",
+      "source": "维度网"
     }
   ]
 }

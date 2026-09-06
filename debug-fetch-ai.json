@@ -1,24 +1,30 @@
 {
   "type": "ai",
-  "total": 45,
+  "total": 29,
   "samples": [
+    {
+      "title": "大模型出海有新模式！沙特基于MiniMax底座，打造本土阿拉伯语大模型",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CWGlrVTBIWnVwUjkzYXhScl83Y2trNUtLS3hRMFpWdmNXOUFCbVZINVFlSEdsR29iOWo5UXFjSHFtQTBUQjY1Skt",
+      "source_url": "https://k.sina.com.cn",
+      "source": "k.sina.com.cn"
+    },
+    {
+      "title": "科技线，周末利好扎堆！AI巨头接连大动作，主线震荡后能否收获“金秋”行情？",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Bcmk2SWMwMHRoZFZRVzY3anhtdHotbm5OcVI3S0luTUI0Y1M4ZnZVa29HX3Q3bnRCcklPS2FFUXMxenFBRGtqNw?",
+      "source_url": "https://i.ifeng.com",
+      "source": "凤凰网"
+    },
+    {
+      "title": "打造“一脑多形”具身智能平台",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZZTBCcldSWlFDbXIxeW5BRmZzTFhvZjNKOFh6Snp4clZIR01WNy1hNmVIZlJZaWp1Z0J6eDRkWWhZWUpZRnBOZlN",
+      "source_url": "https://k.sina.com.cn",
+      "source": "k.sina.com.cn"
+    },
     {
       "title": "专家：新型电力系统呼唤垂类大模型",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jWGUzaXRzdVc3NHlpQlk1WVpTUGJ4dWZpMFBRN0dqdnhpUlpjdHZsNnJ4djcxdENUSS1mMm9VUUV1WXpUejB2VEt",
       "source_url": "https://www.stdaily.com",
       "source": "中国科技网"
-    },
-    {
-      "title": "人工智能大模型发展迈入新阶段",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0dS12cW1SQm04dEgwTUVZZ1h1RHNodHZvNU5CYThEd2xXUjBXZXJucHRpZmxJelZqY0lSTUlfeW1jaXV1NmxLUW1",
-      "source_url": "https://tech.gmw.cn",
-      "source": "光明网"
-    },
-    {
-      "title": "亚太媒体高端论坛｜当AI跑得比全球治理更快，人类如何驾驭技术？",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iZDZkNzNaTVphdC1HSVk0SmVsOXFTWm5ZNXNqV0hNS093QnFKZ3RSZEpUQkg5dGZhMzhKdXBxVGNBSU8wdFZVTGU",
-      "source_url": "https://www.thepaper.cn",
-      "source": "thepaper.cn"
     },
     {
       "title": "全球首个通用决策大模型，AI推演现实世界的技术揭秘",
@@ -27,16 +33,10 @@
       "source": "blog.csdn.net"
     },
     {
-      "title": "最新特别报道｜“Kimi时刻”来临",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1WU1NQ2h6clRoMkZqSVRmdkpUY1RfNzd6aEx3bnNOWUs0NG1aTWJDdmkxZHRGUHpDNDBteFB0bFFUNEFjWk54VjJ",
-      "source_url": "https://weekly.caixin.com",
-      "source": "财新周刊"
-    },
-    {
-      "title": "不再只是卖API 沙特王储领衔的大模型底座竟是中国MiniMax",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uUG13S09WQVRHT0xRdFFKRldfXzlINlFuUmJBX2VJcURhUzBjWGVaWThLbmpTQlo3aVNSTkhNMWJ2VGdSblJ4SE5",
-      "source_url": "https://wap.eastmoney.com",
-      "source": "东方财富"
+      "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuQ1FlSGRZV1RDNkRFcGs1ZDlNQWJqcEVXaGZObEUyUVl1VGRfZm05RGtQQ0picm1VTlpTakVtYkZDRnVqUVFRWA?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }

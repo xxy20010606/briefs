@@ -1,42 +1,42 @@
 {
   "type": "entertainment",
-  "total": 45,
+  "total": 32,
   "samples": [
     {
-      "title": "电影《欢迎来龙餐馆》票房超20亿元 9月11日起全球多地上映",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82emNvcGtEcjl5SjdnVEFxSzhTVzJTcmFuT3VBZzhXWmFhY1drNHhneXdHQXJZcGlldGdJaGJjVXJBVk9LUlRvYXF",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
-    },
-    {
-      "title": "票房破20亿！《欢迎来龙餐馆》将全球上映",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0cHlxNDdtMXJxdmlFYkF4NThRTXctUFJjdWhZVC1mUWgzQ0pMV0w0d29IZ3NiajJld2ZQWFgzaUlWX1o3cmlIRll",
-      "source_url": "https://cbgc.scol.com.cn",
-      "source": "川观新闻"
-    },
-    {
-      "title": "票房与创作双第一，消费持续“破圈”！广东电影暑期档成绩亮眼",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZdFZWdDNJSkw4U0FMTk1TZS1MU3NFYnVkVmhvSzJYTk9CODZRclktd3ZNWVdlNEg4RkphWmFsRW05eHdyN3hGa0R",
-      "source_url": "https://www.zsnews.cn",
-      "source": "中山网"
-    },
-    {
-      "title": "电影《牛来》将延长上映至10月4日，目前累计票房近6000万元",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16a1R3Z05qVHpoN1ZqbFk2UXJQYTh0WG9fTmpOcTV2Tk9tSUNHNy05aGgxTFNETHJSUVlIUVpoZlFMVEFCRWdWTkU",
-      "source_url": "https://m.bjnews.com.cn",
-      "source": "新京报"
-    },
-    {
-      "title": "据猫眼专业版数据，电影《欢迎来龙餐馆》上映首日 ，总票房破2亿 。",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGVQanhTYksyb3RkTksyRERoZkc1Qk5tQ0pRRFlDemVDcFJRcGJtcXRSMU1IN250bkRsVFNMM2NGeF84eUNDZjJ",
+      "title": "国产动画电影《八仙！》上映第43天，累计票房突破18.18亿",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mNGxyNldkQVZjQ0dmQmhvc09CcXdTdTJWeEwyYm1YNVlwSWFCVXdnMUNtdXRHVEZoR1o1RVlrbGFFWW5DY09NcjJ",
       "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "source": "k.sina.com.cn"
     },
     {
-      "title": "视频丨票房破20亿！《欢迎来龙餐馆》将全球上映",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aSnB4VmYwOEs3UHZyUGNhOURIUHo2bzFxSDFpM19XcUVJRjBsVUdRcWs1V05iMGlGdTNMdmZvaFBjbUU0UmpJd1V",
-      "source_url": "http://news.anhuinews.com",
-      "source": "中安在线"
+      "title": "【票·数据】《奥德赛》韩国走势出色三连冠，《潜伏6》开画排第三",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nOXp5SGt4MWpfZG93ZTlLZEZBZ3VJdzItamE4ZUY1ekNWYmdTZHR0YnhpQ25aZWN1Z1ViZ09MXzgxcjVzQVU2YW4",
+      "source_url": "https://k.sina.com.cn",
+      "source": "k.sina.com.cn"
+    },
+    {
+      "title": "\"电影票有这么难买吗？\"",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01aWhjUU5HNjdfUXFJYmJoZ0IwbldpR3pqX0dGcjRhYUZkMjVVTklFamZ5b2VTYVR4M3dwX1pkOXVMV2xaWjhRbFl",
+      "source_url": "https://www.mk.co.kr",
+      "source": "매일경제"
+    },
+    {
+      "title": "“《奥德赛》”今天将突破千万观众......连续第32天排名第一·只差23万余人 [MK票房]",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4ZXl2d2k5S2dnaS1WbUlBNU1maGFPSEoySzlUY3gzSmpFWWhHYVY5MTdUQkdMVmpKMmoxaS1QN21icTBzRG1aNkZ",
+      "source_url": "https://www.mk.co.kr",
+      "source": "매일경제"
+    },
+    {
+      "title": "暑期档收官：总票房124.98亿实现“两连增” 冠军票房近五年首失30亿",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GZy04YlZTd004V2h0eEF3UGJRNnFoSk5pT1BqUUt1ZWVIdGJlaFdUTlNmcEhINUxTOHo1V3hhUUVFa2ItOXlsZQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "《腾博会优惠》国内上映5天 票房超8亿元",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5scEFTZHVHZjNNd25JbHA4UWNiWTlyU0sxdU0yLTktU0c0UEQxRFcwTHBhSy1ibWdPYjQzV1kzY0FIU1FXQS1GZ05",
+      "source_url": "https://www.ttplus.cn",
+      "source": "体坛"
     }
   ]
 }
