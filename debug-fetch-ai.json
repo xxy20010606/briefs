@@ -21,12 +21,6 @@
       "source": "thepaper.cn"
     },
     {
-      "title": "“以技制技”，AI能自己管自己吗？",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUhKaDljN1A0a29SWVAyUEczbzhHV041N1UyWUZDMkR5Ny1iOUpxZW9ibS05cHFWZjdQOUlhSVduc2ZuLXpXZjh",
-      "source_url": "https://www.cast.org.cn",
-      "source": "cast.org.cn"
-    },
-    {
       "title": "全球首个通用决策大模型，AI推演现实世界的技术揭秘",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15MTNFb1BBZFJrc0ZTY1RvNWptUm9Kb2ZkZncxYkNaT2wydmJaTlNlWGZONjRCTG8xbmx5aFlYWHBlLXp3bUhQRGp",
       "source_url": "https://blog.csdn.net",
@@ -37,6 +31,12 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1WU1NQ2h6clRoMkZqSVRmdkpUY1RfNzd6aEx3bnNOWUs0NG1aTWJDdmkxZHRGUHpDNDBteFB0bFFUNEFjWk54VjJ",
       "source_url": "https://weekly.caixin.com",
       "source": "财新周刊"
+    },
+    {
+      "title": "不再只是卖API 沙特王储领衔的大模型底座竟是中国MiniMax",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uUG13S09WQVRHT0xRdFFKRldfXzlINlFuUmJBX2VJcURhUzBjWGVaWThLbmpTQlo3aVNSTkhNMWJ2VGdSblJ4SE5",
+      "source_url": "https://wap.eastmoney.com",
+      "source": "东方财富"
     }
   ]
 }

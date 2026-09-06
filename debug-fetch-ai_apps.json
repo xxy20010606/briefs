@@ -1,12 +1,12 @@
 {
   "type": "ai_apps",
-  "total": 43,
+  "total": 44,
   "samples": [
     {
       "title": "神思电子：从“辅助工具”到“智能体协同”，AI应用纵深落地交付答卷",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43Q2ZLblJkc2RlMDhqTVVKQjJsZ1VFSXNKN2ZDU21nVE1DREZkdlVXaERUV2JRc3lVX3NtVUlJaC1aVjR2cEtZOHJ",
       "source_url": "https://finance.eastmoney.com",
-      "source": "东方财富"
+      "source": "finance.eastmoney.com"
     },
     {
       "title": "知乎AI Works重要更新：支持应用一键部署，释放创作价值",
@@ -21,6 +21,12 @@
       "source": "至顶网"
     },
     {
+      "title": "昨夜今晨：88娱乐竞彩综合APP工具升级AI预测模型刷新准确率-体坛网_体坛+",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TYnlOakZ4MlVRSlFhTnU4THpPdjhPaUQyMWdiMzZhQzRKQWFydmVkNG42NUhFRnhRQjVwU19sLVpZdGVNa2xNdEh",
+      "source_url": "https://www.ttplus.cn",
+      "source": "体坛"
+    },
+    {
       "title": "10 款最佳商务 AI 工具（2026年9月）",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2S25XNWtpVEtrekNDT3hpWkZxWjRYeGFQOGd0UFo3bmhyVl9nN0FhVTZCMjRhbnQta2dGcDVGVV94RkxlVHVrc0d",
       "source_url": "https://www.unite.ai",
@@ -31,12 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3AVBVV95cUxONTd1NnpxVGhtcl9FRGRlY1J2UnlNeEF1S1dld0U2eDRzNGVLbVFXUV9jV2ZFbWxGb3Y1cWoxT1VVLW8yb0EtODB",
       "source_url": "https://finance.sina.cn",
       "source": "新浪财经"
-    },
-    {
-      "title": "中国气象局发布“妈祖”风云卫星AI工具箱",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RZFNlNTc1RkV4clFIQ3JqeDNfSXA5VTU5NXNCR1liaDhqS3ljcGozRTc3YVU4ak9LQW1lQ1NERlN1ZjVQd0hCbFN",
-      "source_url": "http://paper.people.com.cn",
-      "source": "人民日报"
     }
   ]
 }
