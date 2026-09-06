@@ -1,6 +1,6 @@
 {
   "type": "semiconductor",
-  "total": 20,
+  "total": 21,
   "samples": [
     {
       "title": "光安伦发布三款激光器新品，赋能AI智算下一代光互联",
@@ -21,22 +21,22 @@
       "source": "k.sina.com.cn"
     },
     {
-      "title": "摩根士丹利：资金正从芯片股轮动至AI云服务商 美股短期或难再创新高",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12ZmpfWGJZQ25kUXNudzE5akxfOXJrUHhqcDI3VTVZOW52a29ORmU5cy1sUlF6b0JtWWw5TXpOUklnOWduZmo3Vg?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "安世被冻21亿后，荷兰转移86吨黄金，西方小国终于看清一件事？",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakpmeFhVZVlZTWQ4VUZYX0xiNFJCNFAxX1d2cUlqbmZRaVZyZnR2T0V1b3FmaU5kQU90YS1ILVczNVQtNFRJbS1",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
-    },
-    {
       "title": "64个硬科技项目 六大未来赛道：浦发银行与华科大的“硬科技之约”",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIblctclFWOFEzekVIbjhCYTBSM1VJMjZhT3hNbF9vbkxnQkhLTThiR3dMalpFaFEtTl9FYWdydHh3UGx2c3BEdGQ",
       "source_url": "https://www.cnr.cn",
       "source": "央广网"
+    },
+    {
+      "title": "【启动】上海半导体公司基地，正式启动！",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Mc2txd1oyMTNuRUVUbHpNSlZKaEJmb2kxaHFsZW5tZ3g3aVBvRUQ5cmFaMEltdjlrbldVQWVJanEyaTd5NzBkdDN",
+      "source_url": "https://www.c114.net.cn",
+      "source": "光通信Pro"
+    },
+    {
+      "title": "我国集成电路出口爆发式增长",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZEMyeUcwQ1RFU2dvVjZSNkJKVUNwTnE1VzllUVJzcDdGcENtZlQ5T1ozN0lMZnZzUUpQQUZzQWdxSkRkbTI2Qnd",
+      "source_url": "https://k.sina.com.cn",
+      "source": "k.sina.com.cn"
     }
   ]
 }

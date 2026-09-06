@@ -1,13 +1,7 @@
 {
   "type": "ai",
-  "total": 29,
+  "total": 28,
   "samples": [
-    {
-      "title": "大模型出海有新模式！沙特基于MiniMax底座，打造本土阿拉伯语大模型",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CWGlrVTBIWnVwUjkzYXhScl83Y2trNUtLS3hRMFpWdmNXOUFCbVZINVFlSEdsR29iOWo5UXFjSHFtQTBUQjY1Skt",
-      "source_url": "https://k.sina.com.cn",
-      "source": "k.sina.com.cn"
-    },
     {
       "title": "科技线，周末利好扎堆！AI巨头接连大动作，主线震荡后能否收获“金秋”行情？",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Bcmk2SWMwMHRoZFZRVzY3anhtdHotbm5OcVI3S0luTUI0Y1M4ZnZVa29HX3Q3bnRCcklPS2FFUXMxenFBRGtqNw?",
@@ -15,28 +9,34 @@
       "source": "凤凰网"
     },
     {
-      "title": "打造“一脑多形”具身智能平台",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZZTBCcldSWlFDbXIxeW5BRmZzTFhvZjNKOFh6Snp4clZIR01WNy1hNmVIZlJZaWp1Z0J6eDRkWWhZWUpZRnBOZlN",
+      "title": "AGI来没来不好说，但GPT-6真把Token省下来了",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUGQ2NWRIOEMwUE5kNHhzYWJVRHVCSk9PejROaVNTTXEzb3FjTWpubk14bkRMU0g5LXVfeDdUX1hseWx2WVEtQkx",
+      "source_url": "https://www.ichaoqi.com",
+      "source": "潮起网"
+    },
+    {
+      "title": "沙地王储旗下AI公司 推首个阿拉伯语大模型 底座来自中国MiniMax - 国际",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FQWp3cWdkNTU4bThJbEpiNmJGcVlCZm42Mm9BQ01vdzJhV1lCZTIxT2Z0RVdTNkZra1JQSnFCLW1vZFowWTlKd1c",
+      "source_url": "https://www.sinchew.com.my",
+      "source": "即时国际"
+    },
+    {
+      "title": "一个月两个亿元大单！捕鱼牛魔王星力7代杀入AI牌局-体坛网_体坛+",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xcWF0eVZMRE9qNmoyTTYtN3N0d3E2U1M2eVZmQ2FybS1JVXJSNkhSOWdpb2ZXSklPRHFsaFpFSW1TVDBWYzhDc3k",
+      "source_url": "https://m.ttplus.cn",
+      "source": "体坛"
+    },
+    {
+      "title": "开眼界！AI+教育让孩子们收获满满",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zaHFKSi11MmRPc0VQYU91ZEVBWWxKS0xpcENkaV9fb19XSFB4Y1JRVHlfRS1sUXBtQklMa3pBZWpSNlpRMElrRUl",
       "source_url": "https://k.sina.com.cn",
       "source": "k.sina.com.cn"
     },
     {
-      "title": "专家：新型电力系统呼唤垂类大模型",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jWGUzaXRzdVc3NHlpQlk1WVpTUGJ4dWZpMFBRN0dqdnhpUlpjdHZsNnJ4djcxdENUSS1mMm9VUUV1WXpUejB2VEt",
-      "source_url": "https://www.stdaily.com",
-      "source": "中国科技网"
-    },
-    {
-      "title": "全球首个通用决策大模型，AI推演现实世界的技术揭秘",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15MTNFb1BBZFJrc0ZTY1RvNWptUm9Kb2ZkZncxYkNaT2wydmJaTlNlWGZONjRCTG8xbmx5aFlYWHBlLXp3bUhQRGp",
-      "source_url": "https://blog.csdn.net",
-      "source": "blog.csdn.net"
-    },
-    {
-      "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuQ1FlSGRZV1RDNkRFcGs1ZDlNQWJqcEVXaGZObEUyUVl1VGRfZm05RGtQQ0picm1VTlpTakVtYkZDRnVqUVFRWA?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "打造“一脑多形”具身智能平台",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZZTBCcldSWlFDbXIxeW5BRmZzTFhvZjNKOFh6Snp4clZIR01WNy1hNmVIZlJZaWp1Z0J6eDRkWWhZWUpZRnBOZlN",
+      "source_url": "https://k.sina.com.cn",
+      "source": "k.sina.com.cn"
     }
   ]
 }

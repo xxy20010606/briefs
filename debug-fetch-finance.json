@@ -1,18 +1,24 @@
 {
   "type": "finance",
-  "total": 40,
+  "total": 38,
   "samples": [
     {
-      "title": "9.6 突围失败再蓄力",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tbHJBZkhoTVZtNmRUT1J0dHdidlgyRjVkMTlEdnlxX0VyOXJBVDBGeFZaUGhMcGJrdzc3SFZwX3g1UGt6T1J5bW9",
-      "source_url": "http://mp.cnfol.com",
-      "source": "财经号"
+      "title": "工行、农行拟分别募资不超过1000亿元、1600亿元用于补充资本",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WeFJJVjFGMGlRZVNUbkhEOTh0ZGxOY2kzT0x4a3FhdUx0Q2x3dktmSndNY1pMUmtMdlFZcWYzZzBNYUUyVDZPLXB",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "或采用外挂式备胎设计！路虎“小卫士”谍照曝光！_新车上市",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50RE5VZTRzbXVqaWFmN3dZRlJYVC1lWG5Rcjg2Wkd6VVFqdXlJSklMNEd3aWZNbENyWXlob25TV19ybnF4dGtoOV9",
-      "source_url": "http://auto.cnfol.com",
-      "source": "中金在线"
+      "title": "工商银行、农业银行官宣：拟募资2600亿元",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wTGRTdTUzMzYtc0xaN0I0ZDI4N0R3Q3BuM0hCMXJnNE9CaHcxTkd3ZDJFQndSVktxTkNNUUQ3V2hscU5NbFBIYl9",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "中国工商银行拟募资不超过1000亿元用于补充资本",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04U1B2bzdYUlliZ3BMSGd2WEFVVUtIclpqMFo3ZUExbHIyWTcwTGE2ZkhoWXYyN1l1a0VFNWIxQWxSQ2ZVaklWcG9",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经"
     },
     {
       "title": "股市 | 星洲网 Sin Chew Daily Malaysia Latest News and H",
@@ -21,21 +27,15 @@
       "source": "Sin Chew Daily"
     },
     {
-      "title": "美股点金丨非农重燃美联储加息恐慌，资金连续出逃市场平衡是否会打破",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tWUtmRXRNaTFDeGJPSWVPd0dmS19NbUZ4UGotNG5CTjE0aEIxaXM4cWdHU3JsbTE4N1ZJcFVoZXlKNkdrMHhxN0Y",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "9.6 突围失败再蓄力",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tbHJBZkhoTVZtNmRUT1J0dHdidlgyRjVkMTlEdnlxX0VyOXJBVDBGeFZaUGhMcGJrdzc3SFZwX3g1UGt6T1J5bW9",
+      "source_url": "http://mp.cnfol.com",
+      "source": "mp.cnfol.com"
     },
     {
-      "title": "大行评级丨大摩：微软为AI时代重塑业务架构重申“增持“评级_股市直播_市场",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13VTFSdUlXZjV5Z1lqMTZWWDBMTXR6UHhmdWhySUJac2FMTWNfX3JnZTI1aXBrdVRlVHQ5cldyekhMaEVwUWR3Z0p",
-      "source_url": "http://sc.stock.cnfol.com",
-      "source": "中金在线"
-    },
-    {
-      "title": "泽润新能业绩连降1年半去年上市募5.28亿申万宏源保荐_证券要闻",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xMjJRbnRqdV9TTm03RU1JNHN3Q2Y5U3hCRnh5d0M4cGc1Szg2NTBULVdkNlZ6QmtrOWQ3Q1ZieDVVd0Vvai1ZWmN",
-      "source_url": "http://news.cnfol.com",
+      "title": "或采用外挂式备胎设计！路虎“小卫士”谍照曝光！_新车上市",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50RE5VZTRzbXVqaWFmN3dZRlJYVC1lWG5Rcjg2Wkd6VVFqdXlJSklMNEd3aWZNbENyWXlob25TV19ybnF4dGtoOV9",
+      "source_url": "http://auto.cnfol.com",
       "source": "中金在线"
     }
   ]

@@ -1,18 +1,12 @@
 {
   "type": "newenergy",
-  "total": 34,
+  "total": 32,
   "samples": [
     {
       "title": "2026太原论坛 | 新能源全场景应用与金属赋能探讨活动开展 共话能源转型与绿色发展",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91aXpKVlFYdGtxMGxWYVBLUm5ycFZaN1RoOTVDeEFmMHYtZmhNNGI4ZzJKUzFyREZKQXByTkVZajVLbzFxb1dzdTl",
       "source_url": "https://k.sina.com.cn",
       "source": "k.sina.com.cn"
-    },
-    {
-      "title": "天合储能滁州基地迎乌兹别克斯坦Uzmetkombinat代表团，共话储能赋能工业绿色升级",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hS3RWdkhwajNOcnBVMjl1UmJma0JSZWt0Yi1YRDlPd0ZyMFZXTHdIVDhsQ003TnpjdVlFdFFwRFJLV3dYQVZObFd",
-      "source_url": "https://mcn.solarbe.com",
-      "source": "碳索储能网"
     },
     {
       "title": "“光伏+储能+充电”一体化，一场新能源汽车充电革命正在发生",
@@ -33,8 +27,14 @@
       "source": "Sohu"
     },
     {
-      "title": "美国清洁能源协会：2026年二季度新增清洁能源装机超17吉瓦",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FN25RbzlwM1dKQmVWRk9SZlZzWXdOTlYwUnFPMlEwN3h5UEN4RER5VGxjcDc4cDg2YjBfV3Y3YU9uSWt4RkRNelJ",
+      "title": "山东：从地下挖煤，到抬头看天",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Mdmd6Q3dCVTJOX2s4ZVhKc3R5UFFLLXYwUkQ3cWRpSzVqbnQzSTR4bEtJM055UVVuaE9yTHBrVTdWWGVRendVTjF",
+      "source_url": "https://sd.ifeng.com",
+      "source": "凤凰网山东"
+    },
+    {
+      "title": "英国Anesco旗下三光储项目获Lombard融资",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zVWxuUHJCclFPRC1iUUhuNVFWdk5KWENlOXZUTG12YzNwRXpVSTRqYkJJWUZIelI4VVJ4WHlIU1A4YWFzblBQdS0",
       "source_url": "https://www.wedoany.com",
       "source": "维度网"
     }
