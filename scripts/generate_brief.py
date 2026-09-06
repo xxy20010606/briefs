@@ -62,7 +62,7 @@ CACHE_HOURS = 6
 # 条目 link 为 Google News 重定向地址，运行期通过 _resolve_real_url 解析为真实原文 URL
 # 时效控制：Google News 搜索 RSS 默认按"相关度"排序（会返回 2015/2021 等跨年老文），
 # 必须在查询里加 when:Nd 时间算子限定最近 N 天，否则简报全是过时新闻。
-GN_WHEN = "when:3d"
+GN_WHEN = "when:1d"
 
 
 def _gnq(q):
@@ -561,12 +561,13 @@ def _parse_date(s):
         return None
 
 
-def _filter_fresh(raw_items, strict_days=3, relax_days=7, min_keep=5):
-    """按时效过滤条目，杜绝 2015/2021 等老文章混入当天简报。
+def _filter_fresh(raw_items, strict_days=1, relax_days=2, min_keep=5):
+    """按时效过滤条目，保证简报是【当天/最近24小时】的资讯。
 
     Google News 搜索 RSS 按相关度排序，会返回跨年老文，故必须本地硬过滤。
-    策略：先卡 strict_days；若新鲜条目不足 min_keep 条，放宽到 relax_days；
-    仍不足则原样返回（宁可偶尔旧一点，也绝不发空页）。
+    策略：先卡 strict_days(=1天，即当天新闻)；若不足 min_keep 条，放宽到
+    relax_days(=2天)；只要还有任何一条近期新闻，就绝不用跨年老文垫数；
+    仅当一条近期都没有时才保底返回（避免空页）。
     """
     now = datetime.now()
     def age_ok(it, days):
@@ -597,6 +598,8 @@ def _fetch_one_feed(url, source_name, seen):
         if raw_items:
             raw_items, _note = _filter_fresh(raw_items)
             print(f"    ⏱ 时效过滤: {_note}")
+            # 按发布时间倒序（Google 默认按相关度排，同一天内也会乱序），保证"最新"在前
+            raw_items.sort(key=lambda x: _parse_date(x.get("date", "")) or datetime.min, reverse=True)
         # 兜底：正则一条都没解析出来时，用 feedparser 再试一次
         if not raw_items:
             fp = feedparser.parse(io.BytesIO(r.content))
