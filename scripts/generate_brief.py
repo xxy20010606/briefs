@@ -49,8 +49,8 @@ GOOGLE_QUERIES = {
     "finance": ["财经 A股 股市", "美联储 降息", "港股 美股 行情"],
     "ai": ["人工智能 大模型", "AI 智能体 agent", "ChatGPT 发布 融资"],
     "ai_apps": ["AI 应用 工具", "AI Agent 创业", "AI 产品 发布"],
-    "newenergy": ["新能源 光伏 储能", "电动车 电池 比亚迪", "碳中和 风电"],
-    "entertainment": ["电影 票房 上映", "综艺 热播", "游戏 电竞", "明星 官宣"],
+    "newenergy": ["新能源 光伏 储能", "电动车 电池 比亚迪", "碳中和 风电", "锂电池 储能 装机"],
+    "entertainment": ["电影 票房 上映", "综艺 热播", "游戏 电竞", "明星 官宣", "电视剧 开播 剧集"],
     "semiconductor": ["半导体 芯片", "晶圆 光刻机", "GPU 英伟达 存储", "中芯国际 代工"],
 }
 
@@ -73,8 +73,8 @@ FEEDS = {
     "finance": [_gnq("财经 A股 股市"), _gnq("美联储 降息"), _gnq("港股 美股 行情")],
     "ai": [_gnq("人工智能 大模型"), _gnq("AI 智能体 agent"), _gnq("ChatGPT GPT 发布 融资")],
     "ai_apps": [_gnq("AI 应用 工具"), _gnq("AI Agent 创业 产品"), _gnq("AI 编程 办公 发布")],
-    "newenergy": [_gnq("新能源 光伏 储能"), _gnq("电动车 电池 比亚迪"), _gnq("碳中和 风电 氢能源")],
-    "entertainment": [_gnq("电影 票房 上映"), _gnq("综艺 热播 明星 官宣"), _gnq("游戏 电竞 赛事")],
+    "newenergy": [_gnq("新能源 光伏 储能"), _gnq("电动车 电池 比亚迪"), _gnq("碳中和 风电 氢能源"), _gnq("锂电池 储能 装机")],
+    "entertainment": [_gnq("电影 票房 上映"), _gnq("综艺 热播 明星 官宣"), _gnq("游戏 电竞 赛事"), _gnq("电视剧 开播 剧集")],
     "semiconductor": [_gnq("半导体 芯片"), _gnq("晶圆 光刻机"), _gnq("GPU 英伟达 存储 中芯国际")],
 }
 
@@ -311,7 +311,8 @@ TRUSTED_DOMAINS = {
     # 财经专业媒体
     "cls.cn", "yicai.com", "21jingji.com", "stcn.com", "eastmoney.com",
     "cnfol.com", "caixin.com", "jrj.com", "10jqka.com.cn", "wallstreetcn.com",
-    "gelonghui.com",
+    "gelonghui.com", "nbd.com.cn", "zhitongcaijing.com", "lanjinger.com",
+    "xueqiu.com", "time-weekly.com", "nandu.com",
     # 综合/门户新闻（有正规编辑部）
     "thepaper.cn", "guancha.cn", "jiemian.com", "bjnews.com.cn", "ifeng.com",
     "qq.com", "163.com", "sohu.com",
@@ -321,10 +322,12 @@ TRUSTED_DOMAINS = {
     "c114.com.cn", "techweb.com.cn", "geekpark.net",
     # 新能源/汽车/电力专业媒体
     "bjx.com.cn", "solarbe.com", "d1ev.com", "gasgoo.com", "autohome.com.cn",
-    "escn.com.cn", "cpnn.com.cn",
+    "escn.com.cn", "cpnn.com.cn", "mybattery.com.cn", "china-nengyuan.com",
     # 半导体/电子专业媒体
     "eet-china.com", "ednchina.com", "elecfans.com", "iccsz.com", "ijiwei.com",
     "laoyaoba.com",
+    # 影视娱乐专业媒体
+    "1905.com", "entgroup.cn",
 }
 
 
@@ -836,12 +839,22 @@ def fetch_news(brief_type):
         for it, real in zip(google_links, resolved):
             it["link"] = real  # 解析失败则置空 → 后续百度搜索兜底
 
-    # ── 质量漏斗（2026-09-06 用户要求：官方/真实/专业网站，24小时内，链接能打开）──
+    # ── URL 级去重：不同查询词的 RSS token 不同，但解析后可能是同一篇文章 ──
+    dedup, seen_links = [], set()
+    for it in items:
+        l = (it.get("link", "") or "").split("#")[0]
+        if l and l not in seen_links:
+            seen_links.add(l)
+            dedup.append(it)
+    items = dedup
+
+    # ── 质量漏斗（2026-09-06 用户最终要求：不要缺少条目 + 专业媒体发布 + 来源不单一）──
     # ① 白名单：只保留权威专业媒体（内容农场/聚合站/境外媒体/自媒体/新浪系全被挡）
-    # ② URL 内嵌日期 >24h → 剔除（天级粒度）
-    # ③ 页面级核验：URL 无日期的，抓文章页抠真实发布时间，>24h → 剔除
-    # 三级兜底，宁可条目少也不放旧文/杂源：
-    #   L1 白名单+24h核验（首选） → L2 白名单（放宽日期） → L3 原始池去掉已知名单
+    # ② 时效：URL 内嵌日期 >24h 剔除；URL 无日期的做页面级核验（>24h 剔除）
+    # ③ 保条目：24h 内不足 7 条 → 回填白名单内 ≤72h 条目（宁稍旧不缺条，仍保专业源）
+    # ④ 防单一：同域名最多 2 条起步，不足 7 条逐步放宽到 3 条 → 不限
+    TARGET = 7
+
     trusted = [it for it in items if _is_trusted(it.get("link", ""))]
     n_drop1 = len(items) - len(trusted)
     if n_drop1:
@@ -852,35 +865,68 @@ def fetch_news(brief_type):
     if n_drop2:
         print(f"  ↳ URL日期核验: 剔除 {n_drop2} 条超24h旧文")
 
-    # 页面级核验（只针对 URL 无日期的条目，有日期的已在上一步判定）
-    need = [it for it in fresh1 if _url_date(it.get("link", "")) is None
-            and (it.get("link", "") or "").startswith("http")][:40]
-    if need:
+    def _page_verify(cands, max_hours):
+        """页面级核验：只针对 URL 无日期的条目，返回 (剔除id集, 剔除数)。"""
+        need = [it for it in cands if _url_date(it.get("link", "")) is None
+                and (it.get("link", "") or "").startswith("http")]
+        if not need:
+            return set(), 0
         with cf.ThreadPoolExecutor(max_workers=8) as ex:
-            stale_flags = list(ex.map(_page_stale, need))
-        n_drop3 = sum(stale_flags)
-        drop_ids = {id(it) for it, f in zip(need, stale_flags) if f}
-        page_fresh = [it for it in fresh1 if id(it) not in drop_ids]
-        if n_drop3:
-            print(f"  ↳ 页面日期核验({len(need)}条已验): 剔除 {n_drop3} 条超24h旧文")
-    else:
-        page_fresh, n_drop3 = fresh1, 0
+            flags = list(ex.map(lambda it: _page_stale(it, max_hours=max_hours), need))
+        drop_ids = {id(it) for it, f in zip(need, flags) if f}
+        return drop_ids, sum(flags)
 
-    # 三级兜底：宁可条目少也绝不放杂源/旧文
-    if len(page_fresh) >= 4:
-        items = page_fresh            # L1 首选
-    elif len(fresh1) >= 4:
-        items = fresh1                # L2 页面核验失败过多时，退回白名单+URL日期结果
-        print(f"  ⚠ 页面核验可用条目不足，退回 L2（{len(fresh1)} 条）")
-    elif trusted:
-        items = trusted               # L3 白名单内放宽日期（宁稍旧不杂源）
-        print(f"  ⚠ 24h内白名单条目不足，退回 L3（白名单 {len(trusted)} 条，可能含稍旧）")
-    else:
-        # 极端：候选池里没有任何白名单源 → 原始池去掉已知黑/灰名单，避免空页
-        items = [it for it in items
+    drop_ids, n_drop3 = _page_verify(fresh1, 24)
+    if n_drop3:
+        print(f"  ↳ 页面日期核验: 剔除 {n_drop3} 条超24h旧文")
+    page_fresh = [it for it in fresh1 if id(it) not in drop_ids]
+
+    # ③④ 保条目 + 防单一：同域名最多 cap 条。
+    # 顺序至关重要：cap=2 时若 24h 内条目不足，先回填白名单内 ≤72h 的**其他来源**
+    # （宁稍旧不单一），仍不足才放宽 cap 到 3 → 不限。
+    def _pick(cands, cap):
+        """按同域 cap 筛选，保持候选池原有优先级（24h 新鲜条目在前）。"""
+        cnt = {}
+        out = []
+        for it in cands:
+            d = _domain_of(it.get("link", ""))
+            if cap is not None and cnt.get(d, 0) >= cap:
+                continue
+            cnt[d] = cnt.get(d, 0) + 1
+            out.append(it)
+        return out
+
+    fresh_ids = {id(it) for it in page_fresh}
+    relaxed = None  # 惰性构建：≤72h 回填池（白名单内、页面核验过）
+    raw_pool = items  # 原始池（极端兜底用）
+    items, used_cap = [], None
+    for cap in (2, 3, None):
+        sel = _pick(page_fresh, cap)
+        if len(sel) < TARGET:
+            if relaxed is None:
+                relaxed_raw = [it for it in trusted
+                               if id(it) not in fresh_ids
+                               and not _url_date_too_old(it.get("link", ""), 3)]
+                drop_r, n_drop_r = _page_verify(relaxed_raw, 72)
+                if n_drop_r:
+                    print(f"  ↳ 回填池页面核验(≤72h): 剔除 {n_drop_r} 条更旧文")
+                relaxed = [it for it in relaxed_raw if id(it) not in drop_r]
+                if relaxed:
+                    print(f"  ↳ 24h内不足{TARGET}条，启用白名单内≤72h回填池 {len(relaxed)} 条")
+            sel = _pick(page_fresh + relaxed, cap)
+        items, used_cap = sel[:TARGET], cap
+        if len(items) >= TARGET:
+            break
+
+    cap_txt = {2: "同域≤2条", 3: "同域≤3条", None: "不限同域"}.get(used_cap, f"同域≤{used_cap}条")
+    print(f"  ↳ 多样性筛选({cap_txt}): 最终保留 {len(items)} 条")
+
+    if not items:
+        # 极端：候选池里没有任何可用源 → 原始池去掉已知黑/灰名单，避免空页
+        items = [it for it in raw_pool
                  if not _is_blocked_in_cn(it.get("link", ""))
                  and not _is_excluded_source(it.get("link", ""))]
-        print(f"  ⚠⚠ 白名单全空，使用非黑名单原始池 {len(items)} 条（质量无保证）")
+        print(f"  ⚠⚠ 候选池为空，使用非黑名单原始池 {len(items)} 条（质量无保证）")
 
     if not items:
         print("  ⚠ 全部源抓取为空，将由 main 写入占位页避免 404")
