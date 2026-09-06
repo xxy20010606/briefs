@@ -202,6 +202,16 @@ def _resolve_via_batchexecute(glink):
     return ""
 
 
+def _diag(msg):
+    """诊断信息追加落盘到 debug-diag.txt（workflow 会提交该文件，CI 后可直接读）。
+    之前此函数被调用但从未定义 → NameError 导致 CI exit 1（15秒崩），此处补上。"""
+    try:
+        with io.open("debug-diag.txt", "a", encoding="utf-8") as _f:
+            _f.write(f"[{datetime.now().isoformat(timespec='seconds')}] {msg}\n")
+    except Exception:
+        pass
+
+
 def _resolve_real_url(glink, source_url=None):
     """解析 Google News 链接为真实**原文文章** URL（国内可达）。
 
