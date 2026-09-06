@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 44,
+  "total": 45,
   "samples": [
     {
-      "title": "武鄂同“芯”，共建3000亩泛半导体产业园",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zUUwxYlc4MENzRDk1dUR3VGViWkFzS1lPSGhQdGY5V0xXNENjSXVNcTFwOEpUOVg4bDc1MmQ4TWZlQi1xWHBiVHh",
-      "source_url": "https://www.wuhan.gov.cn",
-      "source": "wuhan.gov.cn"
-    },
-    {
-      "title": "HBM，生变！",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44YThDbEQxeXNnWlAwM2xPbGZNQ1ZISUNtT1VodXdOR1VPQjVmUXNNZjBlNjdobVZzM0NlbHNzakFvaS1CNnhPakp",
-      "source_url": "https://news.pedaily.cn",
-      "source": "投资界"
-    },
-    {
-      "title": "美商务部长证实准备对半导体加征新关税：所有相关企业都知道即将到来",
-      "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPQTN6eTAzMkE4SS03NVktLURxSF9iaUJOTC1uVEZ0WDdFaVd5TV9HT21iejdZZGVCYlhsc0R5YnRYYWUzRzhPSC1",
-      "source_url": "https://www.rfi.fr",
-      "source": "rfi.fr"
-    },
-    {
-      "title": "美股半导体、存储芯片股，盘前集体上涨",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT0F6aHBhbUxzOVF6WGc5RFBrLTR4REJfUV9HVG5KdFIxWTVqaFpOVjR0cXVmaEZMTlp5X3l5UFRUVWhnUVJtVlI",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "非农“吓退”美股大盘，AI硬件却逆势狂飙！半导体指数涨超3%，闪迪暴涨12%",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UN3pYZnFpeHpQR3E3bGZPSkRzNm1MNDh5WjVHTzNSemplQ0txNlUzRXpRb29oV1hGV25DV3BPaGswMkEybnpReF9",
+      "title": "AI芯片撑起半壁江山，韩国今年出口剑指万亿美元！",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oOVdHZzFRMGRPRXdjY3ZSLUhtS2tuSU1vQlYxaDNQVlpOdy1BMEFfV2xMYVYxdlh1QzlJRF9rcmxKNWRCQ2JERTJ",
       "source_url": "https://wallstreetcn.com",
       "source": "华尔街见闻"
     },
     {
-      "title": "台湾加码200亿美元在美投资半导体产业，美官员：共同打造安全供应链",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZmJ0d3ZWWHZ1SU9XVEVGM19ZREpBWXB4Z3RuSUlhLXhzZWt6WUYxa2ZPTC1WeVJXb04xcXo0WGhyODhTdmtIM0d",
-      "source_url": "https://www.voachinese.com",
-      "source": "美国之音"
+      "title": "存储芯片，CPO等领跌！ ​",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KMjJ0dERZcTR2UGJvdUtIZHUxTHFhRml6RkpjeVNQMEFqWVRmV1YzSkpKSnpCR3liVlNWdW5CeVRyNkpMSm5SMUF",
+      "source_url": "https://www.sina.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "芯片设备，同比增长 23%",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYlpVbjM5MmcxSC1PMWwxTHJfMnNfczdOd2xaLWFnR3ZldTg0WDBGMlVDSjl4cjV3ckd6YXVyZmQ5X0NwbVRlWS1",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "大国之芯系列｜8年过去了，国产半导体追上来了吗？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XX0NlZjJZSkZsNEtWc0xSd0JSemlZSTgxdlVtdG1DbkFUdjAwclBGei1CQ3NrWGtXZHFmVHZIaGdHMzFaNDUtNVN",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "台积电芯片设备需求近乎翻倍，半导体材料设备指数午后调整蓄势",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YeVpYZS0xZlI0NjFhNmxrNVpzSVJNUnprYWR1dlptM0ZhRHh5VXpTU2ZTM2dLcHpRWU9OVHhvVWl4NEc3SlBhbnd",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "两大存储芯片巨头，涨近1%",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQWdwbjFUekQzcURveVJXVlE3dzV4c2l4UmR4Nk5rcVRQVnNsaWFGMlBuc1ktSVlaZWRhbHo3SUpJcUVGaFlGVlF",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     }
   ]
 }
