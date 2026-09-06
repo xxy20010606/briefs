@@ -290,12 +290,117 @@ def _url_date(url):
     return None
 
 
-def _url_date_too_old(url, max_days=3):
-    """URL 内嵌日期早于 max_days 天 → 判定为旧文（Google 重收录老文兜底）。"""
+def _url_date_too_old(url, max_days=1):
+    """URL 内嵌日期早于 max_days 天 → 判定为旧文（Google 重收录老文兜底）。
+    max_days=1：用户要求严格 24 小时内的新闻。URL 日期是天级粒度，
+    今天的文章 age∈[0,24h) 保留，昨天的 age∈[24h,48h) 剔除。"""
     d = _url_date(url)
     if d is None:
-        return False  # URL 没带日期则不判定，交给 pubDate 过滤
+        return False  # URL 没带日期则不判定，交给页面级核验
     return (datetime.now() - d).total_seconds() > max_days * 86400
+
+
+# ── 权威专业媒体白名单（2026-09-06 用户要求：官方、真实、专业网站）──
+# 只有这些域名及其子域的文章才能进简报；其余（内容农场/聚合站/境外媒体/自媒体）一律不收。
+# 白名单是主动质量漏斗，取代被动的黑名单打地鼠。子域自动覆盖（suffix 匹配）。
+TRUSTED_DOMAINS = {
+    # 官方/央媒
+    "people.com.cn", "xinhuanet.com", "news.cn", "cnr.cn", "cri.cn", "cctv.com",
+    "china.com.cn", "chinanews.com.cn", "chinanews.com", "gmw.cn", "stdaily.com",
+    "ce.cn", "cyol.com", "chinadaily.com.cn", "cnstock.com", "cs.com.cn",
+    # 财经专业媒体
+    "cls.cn", "yicai.com", "21jingji.com", "stcn.com", "eastmoney.com",
+    "cnfol.com", "caixin.com", "jrj.com", "10jqka.com.cn", "wallstreetcn.com",
+    "gelonghui.com",
+    # 综合/门户新闻（有正规编辑部）
+    "thepaper.cn", "guancha.cn", "jiemian.com", "bjnews.com.cn", "ifeng.com",
+    "qq.com", "163.com", "sohu.com",
+    # 科技/AI 专业媒体
+    "36kr.com", "huxiu.com", "tmtpost.com", "ifanr.com", "leiphone.com",
+    "jiqizhixin.com", "qbitai.com", "infoq.cn", "ithome.com", "zhidx.com",
+    "c114.com.cn", "techweb.com.cn", "geekpark.net",
+    # 新能源/汽车/电力专业媒体
+    "bjx.com.cn", "solarbe.com", "d1ev.com", "gasgoo.com", "autohome.com.cn",
+    "escn.com.cn", "cpnn.com.cn",
+    # 半导体/电子专业媒体
+    "eet-china.com", "ednchina.com", "elecfans.com", "iccsz.com", "ijiwei.com",
+    "laoyaoba.com",
+}
+
+
+def _is_trusted(url):
+    """判断链接是否来自白名单内的权威专业媒体。"""
+    host = _domain_of(url)
+    if host == "?":
+        return False
+    return any(host == d or host.endswith("." + d) for d in TRUSTED_DOMAINS)
+
+
+# 页面级发布日期提取：meta/JSON-LD 结构化字段优先，epoch 时间戳次之，正文首处日期文本兜底
+_META_DATE_RES = [
+    re.compile(r'(?is)<meta[^>]+(?:property|name)=["\'](?:article:published_time|publish-date|pubdate|publication_date|datePublished|publish_time|pubtime|weibo:article:create_time)["\'][^>]*content=["\']([^"\']{4,40})["\']'),
+    re.compile(r'(?is)<meta[^>]+content=["\']([^"\']{4,40})["\'][^>]*(?:property|name)=["\'](?:article:published_time|publish-date|pubdate|publication_date|datePublished|publish_time|pubtime)["\']'),
+    re.compile(r'(?is)["\'](?:datePublished|publish_time|pubtime|pubTime|publishTime)["\']\s*:\s*["\']?([^"\',}\]]{4,40})'),
+    re.compile(r'(?i)["\']?(?:pub_?time|publish_?time|timestamp|ctime)["\']?\s*[:=]\s*"?(\d{10,13})\b'),
+]
+_TEXT_DATE_RE = re.compile(r'(20\d{2})[-/年.](\d{1,2})[-/月.](\d{1,2})')
+
+
+def _parse_loose_date(s):
+    """宽松解析日期字符串：'2026-07-02 14:00' / '2026/07/02' / '2026年7月2日' 等。"""
+    if not s:
+        return None
+    m = re.search(r'(20\d{2})[-/年.](\d{1,2})[-/月.](\d{1,2})', s)
+    if not m:
+        return None
+    try:
+        return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)))
+    except ValueError:
+        return None
+
+
+def _page_publish_date(url, timeout=8):
+    """抓文章页面，抠真实发布日期（兜底识别 pubDate 被 Google 刷新的旧文）。
+    提取顺序：meta/JSON-LD 结构化字段 → epoch 时间戳 → 正文首处日期文本。
+    抓取失败/解析失败返回 None（调用方对 None 不剔除，避免误杀）。"""
+    try:
+        r = requests.get(url, headers=UA, timeout=timeout)
+        t = r.text or ""
+    except Exception:
+        return None
+    if not t:
+        return None
+    for pat in _META_DATE_RES:
+        m = pat.search(t)
+        if not m:
+            continue
+        v = m.group(1).strip()
+        if v.isdigit() and len(v) >= 10:  # epoch 秒/毫秒
+            n = int(v)
+            if n > 10 ** 12:
+                n //= 1000
+            try:
+                return datetime.fromtimestamp(n)
+            except Exception:
+                pass
+        d = _parse_loose_date(v)
+        if d:
+            return d
+    m = _TEXT_DATE_RE.search(t)  # 正文首处日期（cls.cn 实测可命中文章时间）
+    if m:
+        try:
+            return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)))
+        except ValueError:
+            pass
+    return None
+
+
+def _page_stale(it, max_hours=24):
+    """页面级核验：真实发布时间超过 max_hours 小时 → 旧文。无法判定 → 不剔除。"""
+    d = _page_publish_date(it.get("link", ""))
+    if d is None:
+        return False
+    return (datetime.now() - d).total_seconds() > max_hours * 3600
 
 
 def _resolve_real_url(glink, source_url=None):
@@ -643,7 +748,7 @@ def _fetch_one_feed(url, source_name, seen):
               f"其中带 Google 链接 {sum(1 for x in raw_items if 'news.google.com' in (x.get('link') or ''))} 条")
         # 时效过滤：必须在下面 [:15] 截断之前做，否则新鲜条目会被老条目挤掉
         if raw_items:
-            raw_items, _note = _filter_fresh(raw_items)
+            raw_items, _note = _filter_fresh(raw_items, strict_days=1, relax_days=1)
             print(f"    ⏱ 时效过滤: {_note}")
             # 按发布时间倒序（Google 默认按相关度排，同一天内也会乱序），保证"最新"在前
             raw_items.sort(key=lambda x: _parse_date(x.get("date", "")) or datetime.min, reverse=True)
@@ -662,7 +767,7 @@ def _fetch_one_feed(url, source_name, seen):
                     "source_url": (e.get("source", {}).get("href", "") if isinstance(e.get("source"), dict) else ""),
                 })
             return out
-        for ri in raw_items[:15]:
+        for ri in raw_items[:40]:
             title = ri["title"]
             src = ""
             if " - " in title:
@@ -731,27 +836,51 @@ def fetch_news(brief_type):
         for it, real in zip(google_links, resolved):
             it["link"] = real  # 解析失败则置空 → 后续百度搜索兜底
 
-    # ── 剔除不合格条目，改由候选池里的合格报道补位 ──
-    # 三类剔除：①国内访问受限的境外源 ②用户排除源(新浪系,广告过多) ③URL日期超3天的旧文
-    # 候选池每方向 40+ 条，只需 7 条，剔除几条后 categorize 会自动用合格源顶上。
-    kept, dropped = [], []
-    for it in items:
-        link = it.get("link", "")
-        if _is_blocked_in_cn(link):
-            dropped.append(("境外受限", link))
-        elif _is_excluded_source(link):
-            dropped.append(("用户排除", link))
-        elif _url_date_too_old(link):
-            dropped.append(("旧文", link))  # pubDate 骗不过 URL 内嵌日期
-        else:
-            kept.append(it)
-    # 保护：若剔除后所剩无几（<4 条），宁可保留部分不合格链接也不发空页/少内容页
-    if dropped and len(kept) >= 4:
-        print(f"  ↳ 剔除 {len(dropped)} 条（境内合格报道补位）: "
-              + ", ".join(f"[{r}]{_domain_of(l)}" for r, l in dropped[:6]))
-        items = kept
-    elif dropped:
-        print(f"  ⚠ {len(dropped)} 条不合格，但剩余仅 {len(kept)} 条，保留不剔除")
+    # ── 质量漏斗（2026-09-06 用户要求：官方/真实/专业网站，24小时内，链接能打开）──
+    # ① 白名单：只保留权威专业媒体（内容农场/聚合站/境外媒体/自媒体/新浪系全被挡）
+    # ② URL 内嵌日期 >24h → 剔除（天级粒度）
+    # ③ 页面级核验：URL 无日期的，抓文章页抠真实发布时间，>24h → 剔除
+    # 三级兜底，宁可条目少也不放旧文/杂源：
+    #   L1 白名单+24h核验（首选） → L2 白名单（放宽日期） → L3 原始池去掉已知名单
+    trusted = [it for it in items if _is_trusted(it.get("link", ""))]
+    n_drop1 = len(items) - len(trusted)
+    if n_drop1:
+        print(f"  ↳ 白名单过滤: 保留 {len(trusted)}/{len(items)} 条权威源")
+
+    fresh1 = [it for it in trusted if not _url_date_too_old(it.get("link", ""))]
+    n_drop2 = len(trusted) - len(fresh1)
+    if n_drop2:
+        print(f"  ↳ URL日期核验: 剔除 {n_drop2} 条超24h旧文")
+
+    # 页面级核验（只针对 URL 无日期的条目，有日期的已在上一步判定）
+    need = [it for it in fresh1 if _url_date(it.get("link", "")) is None
+            and (it.get("link", "") or "").startswith("http")][:40]
+    if need:
+        with cf.ThreadPoolExecutor(max_workers=8) as ex:
+            stale_flags = list(ex.map(_page_stale, need))
+        n_drop3 = sum(stale_flags)
+        drop_ids = {id(it) for it, f in zip(need, stale_flags) if f}
+        page_fresh = [it for it in fresh1 if id(it) not in drop_ids]
+        if n_drop3:
+            print(f"  ↳ 页面日期核验({len(need)}条已验): 剔除 {n_drop3} 条超24h旧文")
+    else:
+        page_fresh, n_drop3 = fresh1, 0
+
+    # 三级兜底：宁可条目少也绝不放杂源/旧文
+    if len(page_fresh) >= 4:
+        items = page_fresh            # L1 首选
+    elif len(fresh1) >= 4:
+        items = fresh1                # L2 页面核验失败过多时，退回白名单+URL日期结果
+        print(f"  ⚠ 页面核验可用条目不足，退回 L2（{len(fresh1)} 条）")
+    elif trusted:
+        items = trusted               # L3 白名单内放宽日期（宁稍旧不杂源）
+        print(f"  ⚠ 24h内白名单条目不足，退回 L3（白名单 {len(trusted)} 条，可能含稍旧）")
+    else:
+        # 极端：候选池里没有任何白名单源 → 原始池去掉已知黑/灰名单，避免空页
+        items = [it for it in items
+                 if not _is_blocked_in_cn(it.get("link", ""))
+                 and not _is_excluded_source(it.get("link", ""))]
+        print(f"  ⚠⚠ 白名单全空，使用非黑名单原始池 {len(items)} 条（质量无保证）")
 
     if not items:
         print("  ⚠ 全部源抓取为空，将由 main 写入占位页避免 404")
