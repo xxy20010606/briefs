@@ -66,4 +66,29 @@ run("C", mockC, [
 mockD = [mk("example.com", 10, 1), mk("foo.bar", 10, 2)]
 run("D", mockD, [lambda out, cnt: isinstance(out, list)])
 
+# E：博彩软文标题过滤 + 车家号子域排除
+assert gb._is_junk_title("雷竞技(RAYBET)官方网站-顶级电竞体育：全面解析")
+assert gb._is_junk_title("劲爆体育哪个app有？2026秋季游戏季")
+assert not gb._is_junk_title("暑期档收官：总票房124.98亿实现两连增")
+assert not gb._is_junk_title("券商开户潮来袭")  # 财经正经词不误杀
+assert not gb._is_trusted("https://chejiahao.autohome.com.cn/123.html")
+assert gb._is_trusted("https://www.autohome.com.cn/123.html")
+mockE = [{"title": "雷竞技(RAYBET)官方网站", "link": durl("cn.chinadaily.com.cn", 0, 1),
+          "source": "", "source_url": ""}] + [
+    mk("cls.cn", 0, i) for i in range(6)]
+run("E", mockE, [
+    lambda out, cnt: len(out) == 6,
+    lambda out, cnt: all("雷竞技" not in it["title"] for it in out),
+])
+
+# F：categorize 溢出补位（7 条集中在 2 类也显示满 7 条）
+itemsF = [{"title": f"电影票房测试{i}", "link": durl("m1905.com", 0, i),
+           "source": "", "source_url": ""} for i in range(5)] + \
+         [{"title": f"游戏电竞测试{i}", "link": durl("gamersky.com", 0, i),
+           "source": "", "source_url": ""} for i in range(2)]
+categorized = gb.categorize(itemsF, "entertainment")
+total = sum(len(v) for v in categorized.values())
+print(f"[F] categorize 后共 {total} 条: { {k: len(v) for k, v in categorized.items()} }")
+assert total == 7, f"F 应7条, 实际{total}"
+print("F PASS")
 print("ALL_FUNNEL_TESTS_OK")

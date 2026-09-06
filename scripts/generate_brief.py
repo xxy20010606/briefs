@@ -50,7 +50,8 @@ GOOGLE_QUERIES = {
     "ai": ["人工智能 大模型", "AI 智能体 agent", "ChatGPT 发布 融资"],
     "ai_apps": ["AI 应用 工具", "AI Agent 创业", "AI 产品 发布"],
     "newenergy": ["新能源 光伏 储能", "电动车 电池 比亚迪", "碳中和 风电", "锂电池 储能 装机"],
-    "entertainment": ["电影 票房 上映", "综艺 热播", "游戏 电竞", "明星 官宣", "电视剧 开播 剧集"],
+    "entertainment": ["电影 票房 上映", "综艺 热播", "游戏 电竞", "明星 官宣",
+                      "电视剧 开播 剧集", "电影 定档 首映", "演唱会 巡演 开票"],
     "semiconductor": ["半导体 芯片", "晶圆 光刻机", "GPU 英伟达 存储", "中芯国际 代工"],
 }
 
@@ -74,7 +75,8 @@ FEEDS = {
     "ai": [_gnq("人工智能 大模型"), _gnq("AI 智能体 agent"), _gnq("ChatGPT GPT 发布 融资")],
     "ai_apps": [_gnq("AI 应用 工具"), _gnq("AI Agent 创业 产品"), _gnq("AI 编程 办公 发布")],
     "newenergy": [_gnq("新能源 光伏 储能"), _gnq("电动车 电池 比亚迪"), _gnq("碳中和 风电 氢能源"), _gnq("锂电池 储能 装机")],
-    "entertainment": [_gnq("电影 票房 上映"), _gnq("综艺 热播 明星 官宣"), _gnq("游戏 电竞 赛事"), _gnq("电视剧 开播 剧集")],
+    "entertainment": [_gnq("电影 票房 上映"), _gnq("综艺 热播 明星 官宣"), _gnq("游戏 电竞 赛事"),
+                      _gnq("电视剧 开播 剧集"), _gnq("电影 定档 首映"), _gnq("演唱会 巡演 开票")],
     "semiconductor": [_gnq("半导体 芯片"), _gnq("晶圆 光刻机"), _gnq("GPU 英伟达 存储 中芯国际")],
 }
 
@@ -327,7 +329,10 @@ TRUSTED_DOMAINS = {
     "eet-china.com", "ednchina.com", "elecfans.com", "iccsz.com", "ijiwei.com",
     "laoyaoba.com",
     # 影视娱乐专业媒体
-    "1905.com", "entgroup.cn",
+    "1905.com", "m1905.com", "entgroup.cn", "maoyan.com",
+    # 游戏专业媒体
+    "gamersky.com", "yystv.cn", "gcores.com", "gamelook.com.cn",
+    "youxituoluo.com",
 }
 
 
@@ -336,7 +341,22 @@ def _is_trusted(url):
     host = _domain_of(url)
     if host == "?":
         return False
+    # 白名单域名的 UGC 子域排除（车家号=汽车之家博主平台，非编辑部内容）
+    if host.startswith("chejiahao."):
+        return False
     return any(host == d or host.endswith("." + d) for d in TRUSTED_DOMAINS)
+
+
+# 引流/博彩软文标题黑名单（实例：雷竞技博彩软文挂在白名单子域 cn.chinadaily.com.cn 的 H5 页）
+# 只收高置信垃圾词，避免误杀正经新闻（如"开户"在财经是正经词，不收）。
+_JUNK_TITLE_RE = re.compile(
+    r"(雷竞技|raybet|bet365|博彩|盘口|皇冠体育|必威|188bet|365体育|彩票|"
+    r"哪个app|比分直播|外围足彩)", re.I)
+
+
+def _is_junk_title(title):
+    """判断标题是否为博彩/引流/SEO 软文。"""
+    return bool(_JUNK_TITLE_RE.search(title or ""))
 
 
 # 页面级发布日期提取：meta/JSON-LD 结构化字段优先，epoch 时间戳次之，正文首处日期文本兜底
@@ -848,15 +868,22 @@ def fetch_news(brief_type):
             dedup.append(it)
     items = dedup
 
-    # ── 质量漏斗（2026-09-06 用户最终要求：不要缺少条目 + 专业媒体发布 + 来源不单一）──
+    # ── 引流/博彩软文过滤（标题级，先于白名单统计）──
+    junk = [it for it in items if _is_junk_title(it.get("title", ""))]
+    if junk:
+        print(f"  ↳ 垃圾标题过滤: 剔除 {len(junk)} 条引流/软文")
+    items = [it for it in items if not _is_junk_title(it.get("title", ""))]
+
     # ① 白名单：只保留权威专业媒体（内容农场/聚合站/境外媒体/自媒体/新浪系全被挡）
     # ② 时效：URL 内嵌日期 >24h 剔除；URL 无日期的做页面级核验（>24h 剔除）
     # ③ 保条目：24h 内不足 7 条 → 回填白名单内 ≤72h 条目（宁稍旧不缺条，仍保专业源）
     # ④ 防单一：同域名最多 2 条起步，不足 7 条逐步放宽到 3 条 → 不限
     TARGET = 7
+    _stages = {"raw_dedup_junk": len(items)}
 
     trusted = [it for it in items if _is_trusted(it.get("link", ""))]
     n_drop1 = len(items) - len(trusted)
+    _stages["trusted"] = len(trusted)
     if n_drop1:
         print(f"  ↳ 白名单过滤: 保留 {len(trusted)}/{len(items)} 条权威源")
 
@@ -880,6 +907,8 @@ def fetch_news(brief_type):
     if n_drop3:
         print(f"  ↳ 页面日期核验: 剔除 {n_drop3} 条超24h旧文")
     page_fresh = [it for it in fresh1 if id(it) not in drop_ids]
+    _stages["fresh1_24h"] = len(fresh1)
+    _stages["page_fresh"] = len(page_fresh)
 
     # ③④ 保条目 + 防单一：同域名最多 cap 条。
     # 顺序至关重要：cap=2 时若 24h 内条目不足，先回填白名单内 ≤72h 的**其他来源**
@@ -920,6 +949,20 @@ def fetch_news(brief_type):
 
     cap_txt = {2: "同域≤2条", 3: "同域≤3条", None: "不限同域"}.get(used_cap, f"同域≤{used_cap}条")
     print(f"  ↳ 多样性筛选({cap_txt}): 最终保留 {len(items)} 条")
+    _stages["relaxed_72h"] = len(relaxed) if relaxed is not None else 0
+    _stages["final"] = len(items)
+    _stages["cap"] = cap_txt
+
+    # 分阶段计数落盘：CI 日志 403 拉不到，缺条目时读 debug-funnel-{type}.json 定位卡在哪层
+    try:
+        with io.open(f"debug-funnel-{brief_type}.json", "w", encoding="utf-8") as _df:
+            json.dump({"type": brief_type, "stages": _stages,
+                       "final": [{"t": (it.get("title", "") or "")[:40],
+                                  "d": _domain_of(it.get("link", ""))}
+                                 for it in items]},
+                      _df, ensure_ascii=False, indent=2)
+    except Exception:
+        pass
 
     if not items:
         # 极端：候选池里没有任何可用源 → 原始池去掉已知黑/灰名单，避免空页
@@ -982,13 +1025,15 @@ def categorize(items, brief_type):
         if not matched:
             uncategorized.append(item)
 
-    # Trim to 2 items per category, then fill with uncategorized
+    # Trim to 2 items per category;溢出条目不丢弃，与未分类一起补位到 7 条
+    overflow = []
     for cat in categorized:
+        overflow.extend(categorized[cat][2:])
         categorized[cat] = categorized[cat][:2]
 
     all_assigned = sum(len(v) for v in categorized.values())
     needed = 7 - all_assigned
-    for item in uncategorized:
+    for item in uncategorized + overflow:
         if needed <= 0:
             break
         # Find category with fewest items
