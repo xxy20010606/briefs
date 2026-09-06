@@ -60,8 +60,14 @@ CACHE_HOURS = 6
 # RSS feeds by category
 # RSS feeds by category —— 每个方向用不同的 Google News 方向关键词搜索（精准、不重复）
 # 条目 link 为 Google News 重定向地址，运行期通过 _resolve_real_url 解析为真实原文 URL
+# 时效控制：Google News 搜索 RSS 默认按"相关度"排序（会返回 2015/2021 等跨年老文），
+# 必须在查询里加 when:Nd 时间算子限定最近 N 天，否则简报全是过时新闻。
+GN_WHEN = "when:3d"
+
+
 def _gnq(q):
-    return ("https://news.google.com/rss/search?q=" + urllib.parse.quote(q) + "&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "Google·" + q)
+    return ("https://news.google.com/rss/search?q=" + urllib.parse.quote(q + " " + GN_WHEN)
+            + "&hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "Google·" + q)
 
 FEEDS = {
     "finance": [_gnq("财经 A股 股市"), _gnq("美联储 降息"), _gnq("港股 美股 行情")],
@@ -541,6 +547,44 @@ def _extract_items_from_xml(content):
             })
     return items
 
+def _parse_date(s):
+    """解析 RSS 的 RFC 822 日期（如 'Thu, 27 Aug 2026 22:16:00 GMT'），
+    失败返回 None。用 email.utils 兼容各种时区/格式写法。"""
+    if not s:
+        return None
+    try:
+        from email.utils import parsedate_to_datetime
+        dt = parsedate_to_datetime(s)
+        # 统一转成朴素时间（去掉 tzinfo）便于与 now 比较
+        return dt.replace(tzinfo=None) if dt.tzinfo else dt
+    except Exception:
+        return None
+
+
+def _filter_fresh(raw_items, strict_days=3, relax_days=7, min_keep=5):
+    """按时效过滤条目，杜绝 2015/2021 等老文章混入当天简报。
+
+    Google News 搜索 RSS 按相关度排序，会返回跨年老文，故必须本地硬过滤。
+    策略：先卡 strict_days；若新鲜条目不足 min_keep 条，放宽到 relax_days；
+    仍不足则原样返回（宁可偶尔旧一点，也绝不发空页）。
+    """
+    now = datetime.now()
+    def age_ok(it, days):
+        d = _parse_date(it.get("date", ""))
+        return d is not None and (now - d).total_seconds() <= days * 86400
+
+    strict = [x for x in raw_items if age_ok(x, strict_days)]
+    if len(strict) >= min_keep:
+        return strict, f"≤{strict_days}天 {len(strict)}/{len(raw_items)}条"
+    relax = [x for x in raw_items if age_ok(x, relax_days)]
+    # 关键：只要还有【任何】一条近期新闻，就绝不用跨年老文垫数。
+    # （旧逻辑写成 len(relax) >= min_keep 才用，导致新鲜条目一少就退回全部老文——
+    #   正是"2015/2021 年老文章混入当天简报"的直接原因。）
+    if relax:
+        return relax, f"放宽≤{relax_days}天 {len(relax)}/{len(raw_items)}条"
+    return raw_items, f"⚠ 无任何≤{relax_days}天内容，保底保留 {len(raw_items)}条(可能过时)"
+
+
 def _fetch_one_feed(url, source_name, seen):
     """抓取单个 RSS 源，返回条目列表（已去重、已清洗标题/摘要）。"""
     out = []
@@ -549,7 +593,11 @@ def _fetch_one_feed(url, source_name, seen):
         raw_items = _extract_items_from_xml(r.content)
         print(f"  ↳ {source_name}: 解析到 {len(raw_items)} 条，"
               f"其中带 Google 链接 {sum(1 for x in raw_items if 'news.google.com' in (x.get('link') or ''))} 条")
-        # 兜底：ElementTree 一条都没解析出来时，用 feedparser 再试一次
+        # 时效过滤：必须在下面 [:15] 截断之前做，否则新鲜条目会被老条目挤掉
+        if raw_items:
+            raw_items, _note = _filter_fresh(raw_items)
+            print(f"    ⏱ 时效过滤: {_note}")
+        # 兜底：正则一条都没解析出来时，用 feedparser 再试一次
         if not raw_items:
             fp = feedparser.parse(io.BytesIO(r.content))
             for e in fp.entries:
