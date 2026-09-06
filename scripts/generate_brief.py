@@ -212,6 +212,39 @@ def _diag(msg):
         pass
 
 
+# 国内访问受限的境外源黑名单（精确域名或子域匹配）。
+# 命中这些的条目会被剔除，改由候选池里的境内源报道补位（每方向候选 40+ 条，不会少内容）。
+# 只列明确需要梯子/已墙的站点；wallstreetcn.com(华尔街见闻)等境内站不受影响。
+CN_BLOCKED_DOMAINS = {
+    "voachinese.com", "rfa.org", "bbc.com", "bbc.co.uk", "rfi.fr", "dw.com",
+    "nytimes.com", "wsj.com", "ft.com", "ftchinese.com", "reuters.com",
+    "bloomberg.com", "cnn.com", "theguardian.com", "scmp.com", "nikkei.com",
+    "theinitium.com", "soundofhope.org", "ntdtv.com", "dwnews.com", "boxun.com",
+    "openai.com", "facebook.com", "twitter.com", "x.com", "youtube.com",
+    "instagram.com", "medium.com", "substack.com", "telegram.org",
+    "wikipedia.org", "blogspot.com", "archive.org", "dropbox.com",
+}
+
+
+def _domain_of(url):
+    """取 URL 的主机名（用于日志打印）。"""
+    try:
+        return urllib.parse.urlparse(url).netloc.lower().split(":")[0] or "?"
+    except Exception:
+        return "?"
+
+
+def _is_blocked_in_cn(url):
+    """判断链接所属域名是否国内访问受限。"""
+    host = _domain_of(url)
+    if host == "?":
+        return False
+    for d in CN_BLOCKED_DOMAINS:
+        if host == d or host.endswith("." + d):
+            return True
+    return False
+
+
 def _resolve_real_url(glink, source_url=None):
     """解析 Google News 链接为真实**原文文章** URL（国内可达）。
 
@@ -599,6 +632,22 @@ def fetch_news(brief_type):
             resolved = list(ex.map(_resolve_one, google_links))
         for it, real in zip(google_links, resolved):
             it["link"] = real  # 解析失败则置空 → 后续百度搜索兜底
+
+    # ── 剔除国内访问受限的境外源，改由候选池里的境内报道补位 ──
+    # 候选池每方向 40+ 条，只需 7 条，剔除几条后 categorize 会自动用境内源顶上。
+    kept, dropped = [], []
+    for it in items:
+        if _is_blocked_in_cn(it.get("link", "")):
+            dropped.append(it.get("link", ""))
+        else:
+            kept.append(it)
+    # 保护：若剔除后所剩无几（<4 条），宁可保留境外链接也不发空页/少内容页
+    if dropped and len(kept) >= 4:
+        print(f"  ↳ 剔除 {len(dropped)} 条境外受限源（境内报道补位）: "
+              + ", ".join(_domain_of(d) for d in dropped[:5]))
+        items = kept
+    elif dropped:
+        print(f"  ⚠ {len(dropped)} 条境外源，但剩余仅 {len(kept)} 条，保留不剔除")
 
     if not items:
         print("  ⚠ 全部源抓取为空，将由 main 写入占位页避免 404")
