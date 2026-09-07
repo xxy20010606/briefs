@@ -1,46 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 10,
+    "raw_dedup_junk": 50,
+    "trusted": 29,
     "non_trusted_top": {
-      "ttplus.cn": 14,
-      "sina.cn": 6,
-      "sina.com.cn": 5,
-      "zol.com.cn": 2,
-      "mshale.com": 1,
-      "c114.net.cn": 1,
-      "creaders.net": 1,
-      "vanpeople.com": 1,
-      "eastmoney.com": 1,
-      "tikr.com": 1
+      "indexbox.io": 4,
+      "sina.cn": 3,
+      "sina.com.cn": 2,
+      "pedaily.cn": 1,
+      "wedoany.com": 1,
+      "semi.org.cn": 1,
+      "kuai.media": 1,
+      "digitimes.com.tw": 1,
+      "taibo.cn": 1,
+      "uestc.edu.cn": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 5,
+    "fresh1_24h": 28,
+    "page_fresh": 25,
     "relaxed_72h": 0,
-    "final": 5,
-    "cap": "不限同域"
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "光安伦发布三款激光器新品，赋能AI智算下一代光互联",
-      "d": "iccsz.com"
+      "t": "重估先进封装-36氪",
+      "d": "36kr.com"
     },
     {
-      "t": "安世被冻21亿后，荷兰转移86吨黄金，西方小国终于看清一件事？",
+      "t": "标的指数大涨4%！半导体设备ETF国泰（159516）景气上行，国产替代进入“黄",
       "d": "sohu.com"
     },
     {
-      "t": "64个硬科技项目 六大未来赛道：浦发银行与华科大的“硬科技之约”",
-      "d": "cnr.cn"
+      "t": "秋水半导体发布量产型8英寸红光Micro LED芯片，面向AR眼镜等场景",
+      "d": "ifeng.com"
     },
     {
-      "t": "射频滤波器厂商宙讯微电子完成近亿元B+轮融资，加速压电MEMS芯片国产化进程",
+      "t": "半导体硅片三年来首现全尺寸涨价，行业景气度全面回升",
+      "d": "sohu.com"
+    },
+    {
+      "t": "秋水发布全球首个8英寸红光Micro-LED芯片：“无损”混合键合技术突破全彩M",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "半导体板块震荡上行，材料设备指数涨超3%，半导体设备ETF易方达（159558）",
+      "d": "cls.cn"
+    },
+    {
+      "t": "上市公司继续停牌推进收购，加码功率半导体材料布局",
       "d": "eet-china.com"
-    },
-    {
-      "t": "星钥半导体完成超10亿元新一轮融资，宁德时代领投，成立不足两年累计融资超25亿元",
-      "d": "sohu.com"
     }
   ]
 }

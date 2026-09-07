@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 84,
-    "trusted": 21,
+    "raw_dedup_junk": 90,
+    "trusted": 23,
     "non_trusted_top": {
-      "sina.com.cn": 19,
-      "sina.cn": 12,
-      "ttplus.cn": 8,
-      "moomoo.com": 5,
-      "creaders.net": 2,
-      "binance.com": 2,
-      "ntdtv.com": 2,
+      "sina.com.cn": 25,
+      "sina.cn": 18,
+      "moomoo.com": 4,
+      "futunn.com": 3,
+      "idnfinancials.com": 2,
+      "tradingkey.com": 2,
       "sinchew.com.my": 1,
-      "kuai.media": 1,
-      "jkn.co.kr": 1
+      "aboluowang.com": 1,
+      "coindesk.com": 1,
+      "fx678.com": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 14,
-    "relaxed_72h": 5,
+    "fresh1_24h": 23,
+    "page_fresh": 19,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "川恒股份(002895.SZ)完成工商变更登记_股市直播_市场",
+      "t": "泰山财经：高途上半年经营净现金流降7成 Q2单季回正_股市聚焦_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "优刻得主动优化资本运作:终止定增不改智算战略,授信提额至52亿护航乌兰察布建设_",
+      "t": "瑞博生物-B(06938)获纳入恒生综合指数成份股及获调入港股通股票名单_股市直",
       "d": "cnfol.com"
     },
     {
-      "t": "周天勇：重构中国式经济增长模型 量化体制要素与资产增长新逻辑",
+      "t": "芯片股大涨，日韩股市，盘中拉升",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "美国历次中期选举前美联储货币政策的特点",
+      "d": "sohu.com"
+    },
+    {
+      "t": "“强劲非农扫清加息障碍”！现货黄金失守4400美元，美8月PPI、CPI将接连登",
+      "d": "sohu.com"
+    },
+    {
+      "t": "9月加息押注升温！特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来！",
       "d": "10jqka.com.cn"
     },
     {
-      "t": "老特逼宫，马斯克喊“电荒”！下周A股怎么走",
-      "d": "163.com"
-    },
-    {
-      "t": "美联储9月会议悬念丛生！沃勒强力“放鸽” 白宫加码施压降息",
-      "d": "cls.cn"
-    },
-    {
-      "t": "闪评｜“不降息”就“断外贸”，将给美国带来什么？",
-      "d": "cri.cn"
-    },
-    {
-      "t": "就业数据强化加息预期，特朗普呼吁美联储降息",
-      "d": "sohu.com"
+      "t": "9月美联储加息概率升至58.4%，但美元却不灵了",
+      "d": "thepaper.cn"
     }
   ]
 }

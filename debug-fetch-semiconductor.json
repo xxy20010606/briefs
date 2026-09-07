@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 46,
+  "total": 50,
   "samples": [
     {
-      "title": "美股存储芯片狂涨11%，科技巨头却大跌5%，秘密在这里。",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxSGtZTTBubzVlQmFCX0JNdXhXZVFkRGo5VnhIT2JDa3NSMVN1MU1INXVqVXRRM01YbDNab29GMGlVWS0ybktlUTh",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "重估先进封装-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fYlF4dWI3V3E2VUlQQklOZjRQZjJhNmpOa2VWTVJsTzNtUE5RZUdMS1NmQzZiY2Z5VU9Hek5ObjJ5UkRpRWI2M2d",
+      "source_url": "https://www.36kr.com",
+      "source": "36 Kr"
     },
     {
-      "title": "科技股暴跌只是“健康回调”？美知名投行：AI主题拥有“绝对主导地位”！",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OeFNoZS1hUWhMa2plU2ItYTFtVlpOaUhxSURvenJsMW4ydm9ISWJyaGF5YWFQS2V5MDVpSmswMFlIWXUtT2tMWQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "芯升半导体完成数千万元天使+轮融资，车载光通信加速步入验证期",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtZTVUMXF1WmtWTVpMYUc0WjdqR21GSDZ4N1RWdEsyQ3RWN0RUQk1OblExM2lfMkhqa0JyRm10Vk5rS25HaUZ5UHZ",
+      "source_url": "https://news.pedaily.cn",
+      "source": "投资界"
     },
     {
-      "title": "半导体冲高后要变盘？英特尔、LITE、AAOI今日买点解析！ #美股#美股直播#英伟达#NVDA#英",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qckdGWnlOLXYxaFJPOXpWeXJzM1JUYnlHNFM1dzZHaURXWWVmanBtajZpMkRfdG1KdmFpRjNINktqOWRtSVI2Tkh",
-      "source_url": "https://mshale.com",
-      "source": "Mshale"
+      "title": "科创200ETF鹏华(588240)标的指数涨超3%，CPO、半导体、PCB、机器人全线上涨，板块迎",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4dVk2N0dpN2hVN1gtbHp1bElxaGU1d0I0Njd0czVmaGFpb2F6X1lVRzFKVjFGU1ZyZ1BObXlNMHVvbWlrOFcxOWZ",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "光安伦发布三款激光器新品，赋能AI智算下一代光互联",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ha0JmSDl2c0hnV1NrUmRzb2JKc1Z6M2dQQkVBUlV3ZlJxUjJfbmRnSGxuT3ItUXp4M091ZHlteGZ2YUlWRW9JZWR",
-      "source_url": "http://www.iccsz.com",
-      "source": "iccsz.com"
+      "title": "标的指数大涨4%！半导体设备ETF国泰（159516）景气上行，国产替代进入“黄金窗口期”",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3NJeFBVaXBvTlRtWFVrZ3dMZlFaeFJkVVhkNGYtZXU0QTczakNXRzR4eVAyR2Jsa0NBRVZubWphV1o5cF8wSnp",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUlBkNVdaVGxNUG1fbEJ0YjhMYjZHZ3hleHY2aXI3MkRsNTNqVlZyWFJ6ZUMxcTBUT3Qyb3JRblZqTEdudzlWbQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "秋水半导体发布量产型8英寸红光Micro LED芯片，面向AR眼镜等场景",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE55OTh6VkVGYU5vV2xncDEySFUyandNOTBaZzZ5ZTg4cnBvdkNobV9kZmpibXRSVEUwR3AwT3h5VUgwdlBMalA0NEZ",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
     },
     {
-      "title": "半导体板块早盘冲高回落，半导体设备ETF易方达（159558）昨日获超1亿元净流入",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR213V2JZNWY1QUZhQkk5dC1kN2R5Ymowd2NiNzAxcUZVMGZ0TVpBYmRuUlZwdEwxNGs1cTNBVzlxYkJ6aWltMml",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "半导体硅片三年来首现全尺寸涨价，行业景气度全面回升",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZERmOFFDbXdET0dMVDZFWEMzWWsxODFmSVlKN2dGTjBtWHdRbE9KcVkyZ2RRdE1uQmVpVHpsd3paVW9UTGpuX2h",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     }
   ]
 }

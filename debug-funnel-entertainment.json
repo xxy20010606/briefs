@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 124,
-    "trusted": 19,
+    "raw_dedup_junk": 128,
+    "trusted": 26,
     "non_trusted_top": {
-      "ttplus.cn": 39,
-      "sina.cn": 22,
-      "360.com": 5,
+      "ttplus.cn": 28,
+      "sina.cn": 17,
+      "sina.com.cn": 7,
       "china.com": 5,
-      "bjd.com.cn": 5,
-      "sina.com.cn": 4,
-      "yzwb.net": 3,
-      "mk.co.kr": 2,
-      "rediandf.com": 2,
-      "zsnews.cn": 2
+      "mk.co.kr": 3,
+      "tom.com": 3,
+      "asiae.co.kr": 2,
+      "chinadaily.com.cn": 2,
+      "yule.com.cn": 2,
+      "yzwb.net": 2
     },
-    "fresh1_24h": 15,
-    "page_fresh": 12,
+    "fresh1_24h": 24,
+    "page_fresh": 18,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "刚定档10天，一电影宣布撤出中秋国庆档",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "又一电影，宣布撤档",
+      "t": "电影暑期档落幕，秋季院线如何出圈",
       "d": "sohu.com"
     },
     {
-      "t": "中国交响乐团2026/27音乐季开幕音乐会在京上演",
-      "d": "news.cn"
+      "t": "8.31-9.6内地一周票房报收4.89亿 《欢迎来龙餐馆》1.49亿四连冠累计",
+      "d": "sohu.com"
     },
     {
-      "t": "思想耀岭南丨对话蓝鸿春：讲好本土故事要有足够的自信",
-      "d": "21jingji.com"
+      "t": "“去父留子”的女明星们，后来过得好吗？",
+      "d": "163.com"
     },
     {
-      "t": "《初步举证》：台前是一人的战场，幕后是一群人的信仰｜艺术+",
+      "t": "首部AI长剧登陆卫视，彻底爆了",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "从侨批到龙餐馆：侨胞故事里滚烫的人情味",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "全城有戏！2026当代国际戏剧节暨“剧荟北京”艺术季在京启幕",
       "d": "bjnews.com.cn"
     },
     {
-      "t": "2026”超级乡声”周末我登台歌手大赛总决赛在宁乡璀璨落幕",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "AI虚拟人方桃子广告报价超20万元",
-      "d": "10jqka.com.cn"
+      "t": "《一江春水向东流》舞台迎重生",
+      "d": "cri.cn"
     }
   ]
 }
