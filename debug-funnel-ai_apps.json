@@ -1,53 +1,53 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 58,
-    "trusted": 21,
+    "raw_dedup_junk": 63,
+    "trusted": 14,
     "non_trusted_top": {
+      "sina.com.cn": 12,
       "ttplus.cn": 9,
-      "sina.cn": 7,
-      "oschina.net": 2,
-      "pingwest.com": 2,
-      "fxbaogao.com": 2,
-      "china.com": 1,
-      "jxnews.com.cn": 1,
-      "rednet.cn": 1,
-      "zhiding.cn": 1,
-      "h2o-china.com": 1
+      "sina.cn": 5,
+      "china.com": 4,
+      "unite.ai": 2,
+      "icloudnews.net": 2,
+      "pedaily.cn": 2,
+      "lmtw.com": 1,
+      "digitaltoday.co.kr": 1,
+      "sinchew.com.my": 1
     },
-    "fresh1_24h": 19,
-    "page_fresh": 15,
-    "relaxed_72h": 0,
+    "fresh1_24h": 12,
+    "page_fresh": 8,
+    "relaxed_72h": 4,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "微软将人工智能治理从政策层面转向运行时执行",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "喝点VC｜红杉资本合伙人Sonya Huang：企业开始掌握自己命运，AI应用层",
+      "t": "从定制研究到订阅服务：甲子智库升级AI产业研究服务体系｜甲子光年智库",
       "d": "sohu.com"
     },
     {
-      "t": "第21届中博会记者观察：AI走进生产一线，中小企业有了“新帮手”",
+      "t": "正走在转折点上的AI短剧",
       "d": "sohu.com"
     },
     {
-      "t": "腾讯WorkBuddy上线开放平台，AI办公生态竞争升级",
-      "d": "huxiu.com"
+      "t": "AI长剧首播，影视赛道变局几何",
+      "d": "ce.cn"
     },
     {
-      "t": "大模型高歌猛进，但AI应用却活力不足了",
+      "t": "AI免费时代，终结在2026年夏天",
       "d": "36kr.com"
     },
     {
-      "t": "利润从哪里来？一招省了90%的钱",
+      "t": "2026 AI邮件语气不对怎么改？全产业链标杆盘点",
       "d": "36kr.com"
     },
     {
-      "t": "中国办公Agent用户报告：5%用户吃掉半数算力，编程占任务量近四成",
+      "t": "奇安信推出“浏览器+文件”数据防泄漏方案，双管齐下构筑安全闭环",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "兴业银行推出AI信用卡 打造数智时代金融服务新体验",
       "d": "ifeng.com"
     }
   ]

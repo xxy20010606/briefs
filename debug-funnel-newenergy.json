@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 78,
-    "trusted": 17,
+    "raw_dedup_junk": 73,
+    "trusted": 18,
     "non_trusted_top": {
-      "autohome.com.cn": 29,
-      "sina.com.cn": 10,
+      "autohome.com.cn": 18,
+      "sina.com.cn": 15,
       "sina.cn": 7,
-      "fxbaogao.com": 3,
-      "icloudnews.net": 1,
-      "caiwennews.com": 1,
-      "chinaventure.com.cn": 1,
+      "seetao.com": 2,
+      "wedoany.com": 2,
+      "guandian.cn": 2,
+      "or100.cc": 1,
+      "cnmn.com.cn": 1,
       "in-en.com": 1,
-      "changzhi.gov.cn": 1,
-      "52hrtt.com": 1
+      "17173.com": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 16,
+    "fresh1_24h": 13,
+    "page_fresh": 9,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "5年再增约10亿“风光”意味着什么（解码“十五五”专项规划）",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "光伏装机历史性超越煤电，能源结构转型提速，光伏ETF易方达（562970）景气度",
+      "t": "央视聚焦佛山环两江先行区，解码“百千万工程”佛山实践",
       "d": "sohu.com"
     },
     {
-      "t": "光储融合+金属赋能，山西能源革命有了“新打法”",
+      "t": "HiOne户储一体机再升级，V2X激活车载储能",
       "d": "sohu.com"
     },
     {
-      "t": "“即插即用”！欧美民间在阳台掀起“新能源革命”",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "80亿元！这一上市国企拟在湖北恩施州投建新能源项目",
+      "t": "【实践证言】veloxis，探索储能运营新范式",
       "d": "solarbe.com"
     },
     {
-      "t": "约0.94元/Wh！济南商河130.5MW/261MWh分布式储能项目EPC招标",
+      "t": "强强联合 共筑零碳未来｜赢科数能与英利能源签署战略合作协议",
       "d": "solarbe.com"
     },
     {
-      "t": "家庭储能狂卷IFA：告别大号充电宝定位 AI+模块化成行业新范式",
+      "t": "云南昭通：梭山光伏发电项目奏响清洁能源转型的新乐章- 中国日报网",
+      "d": "chinadaily.com.cn"
+    },
+    {
+      "t": "全球首款碳化硅超级结功率器件上海发布 突破海外技术主导现状",
       "d": "36kr.com"
+    },
+    {
+      "t": "紧急“踩刹车”？中国暂停审批电池储能制造项目",
+      "d": "eet-china.com"
     }
   ]
 }

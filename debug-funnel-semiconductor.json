@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 29,
+    "raw_dedup_junk": 51,
+    "trusted": 26,
     "non_trusted_top": {
-      "indexbox.io": 4,
-      "sina.cn": 3,
-      "sina.com.cn": 2,
-      "pedaily.cn": 1,
-      "wedoany.com": 1,
-      "semi.org.cn": 1,
-      "kuai.media": 1,
-      "digitimes.com.tw": 1,
-      "taibo.cn": 1,
-      "uestc.edu.cn": 1
+      "sina.com.cn": 8,
+      "sina.cn": 5,
+      "mydrivers.com": 2,
+      "chinadaily.com.cn": 1,
+      "mycaijing.com": 1,
+      "autohome.com.cn": 1,
+      "sz.gov.cn": 1,
+      "china.com": 1,
+      "nikkei.com": 1,
+      "wsj.com": 1
     },
-    "fresh1_24h": 28,
-    "page_fresh": 25,
+    "fresh1_24h": 25,
+    "page_fresh": 19,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "重估先进封装-36氪",
-      "d": "36kr.com"
-    },
-    {
-      "t": "标的指数大涨4%！半导体设备ETF国泰（159516）景气上行，国产替代进入“黄",
-      "d": "sohu.com"
-    },
-    {
-      "t": "秋水半导体发布量产型8英寸红光Micro LED芯片，面向AR眼镜等场景",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "半导体硅片三年来首现全尺寸涨价，行业景气度全面回升",
-      "d": "sohu.com"
-    },
-    {
-      "t": "秋水发布全球首个8英寸红光Micro-LED芯片：“无损”混合键合技术突破全彩M",
-      "d": "geekpark.net"
-    },
-    {
-      "t": "半导体板块震荡上行，材料设备指数涨超3%，半导体设备ETF易方达（159558）",
-      "d": "cls.cn"
-    },
-    {
-      "t": "上市公司继续停牌推进收购，加码功率半导体材料布局",
+      "t": "2026年Q2全球芯片TOP20榜单出炉！",
       "d": "eet-china.com"
+    },
+    {
+      "t": "商务部裁定：对日本一半导体材料临时反倾，最高99.2%！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "三星、SK海力士库存不足10天，明年将“无货可卖”？",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "海外巨头库存告急！存储芯片反复活跃 DRAM景气周期或延续？(附股)",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "华为手机上新！有哪些“芯”突破？",
+      "d": "sohu.com"
+    },
+    {
+      "t": "中国芯片巨头中微公司发布6款新设备以提升半导体产能",
+      "d": "sohu.com"
+    },
+    {
+      "t": "三星与SK海力士，库存不足10天",
+      "d": "thepaper.cn"
     }
   ]
 }

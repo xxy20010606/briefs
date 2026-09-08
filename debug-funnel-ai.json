@@ -1,21 +1,21 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 74,
-    "trusted": 16,
+    "raw_dedup_junk": 52,
+    "trusted": 20,
     "non_trusted_top": {
-      "sina.com.cn": 15,
-      "sina.cn": 10,
-      "tom.com": 2,
-      "wzs.org.cn": 2,
-      "china.com": 1,
-      "weibo.com": 1,
-      "jrj.com.cn": 1,
-      "jinantimes.com.cn": 1,
-      "guandian.cn": 1,
-      "wuhan.gov.cn": 1
+      "sina.cn": 11,
+      "sina.com.cn": 9,
+      "techwalker.com": 2,
+      "huanbohainews.com.cn": 1,
+      "hebccw.cn": 1,
+      "infoobs.com": 1,
+      "stockstar.com": 1,
+      "66wz.com": 1,
+      "ttplus.cn": 1,
+      "aibase.com": 1
     },
-    "fresh1_24h": 16,
+    "fresh1_24h": 19,
     "page_fresh": 13,
     "relaxed_72h": 0,
     "final": 7,
@@ -23,32 +23,32 @@
   },
   "final": [
     {
-      "t": "“匠心遇科技，老树发新芽” 工信部：让历史经典产业拥抱人工智能",
+      "t": "OpenAI发布地球最强大模型GPT-6 并宣告“欢迎来到AGI时代”",
       "d": "sohu.com"
     },
     {
-      "t": "摩尔线程回应股价波动：目前生产经营持续向好",
-      "d": "sohu.com"
-    },
-    {
-      "t": "“双96”LPCAMM2首发｜晶存科技96GB容量、9600Mbps速率，为AI",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "科技巨头争相入局AI气象预测，但极端天气下的信任红线仍未逾越",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "此芯科技携智能体计算全场景方案亮相 2026 电博会",
-      "d": "geekpark.net"
-    },
-    {
-      "t": "外贸GEO到底强在哪？为什么越来越多B2B企业开始关注AB客这套增长引擎",
+      "t": "2026年AI数字人公司深度盘点，数字人厂商排名推荐哪家更靠谱",
       "d": "163.com"
     },
     {
-      "t": "大模型会设计芯片了，EDA厂商慌了吗？",
-      "d": "eet-china.com"
+      "t": "中孚信息入选中关村自主大模型产业联盟首批核心成员，共筑自主AI安全底座",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "动的是筹码，稳的是需求：藏在两笔算力大账里的摩尔线程",
+      "d": "sohu.com"
+    },
+    {
+      "t": "从模型突破到应用繁荣：AI价值兑现与下一轮投资机会｜甲子引力X",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "KubeSphere v4.3.0 正式发布，青云智算上新多个主流大模型，携手客",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "推动AI嵌入生产全流程",
+      "d": "cnr.cn"
     }
   ]
 }

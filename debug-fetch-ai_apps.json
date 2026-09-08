@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 59,
+  "total": 63,
   "samples": [
     {
-      "title": "英伟达发布开源工具PAIR，可将家里闲置电脑变成私有AI 集群 - OSCHINA",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTBTVHhWRzduN09ObUJic3V0RnlUZUFRVy0tTkRoM3VoOVpQSGdrSFhLS2dyUnM3Y3RnanBOeVRNNGtCWTNkUnE",
-      "source_url": "https://www.oschina.net",
-      "source": "开源 × AI · 开发者生态社区"
+      "title": "从定制研究到订阅服务：甲子智库升级AI产业研究服务体系｜甲子光年智库",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaEUwdmFPa3Y3ZVlwd0hzN2w2aWFzX3VPaXE1Yk5FVExxV2x2NG16V2QyaDI4cHJfSEZHZjZZNExia1l2QVcyYkR",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "CAIE一级、二级考试大纲拟于2026年9月更新，AI认证能力体系进一步向工作流、Agent与企业级",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04ZTRTSkxKelkzOXJzLXhXM05TMldIVnhpZ3N5M0xyVXlnT21xTjJ1bUpoMFJ3LS03R0toeWFLdU9HcHdFc0Y2R0h",
+      "title": "元宇宙之问｜依托AI工具和算法，赢家将在田间、车间、诊室和训练场|智能眼镜|VR|AI眼镜|患者|受",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQkN1Nk80dGxpQnFHVDU2NkJId3ViR2V2dWc3QnJCX1h3M2w0SHhuZUtqR1pvOV9HUmxORmdPU2FPaTNpUFc5d29",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "2026年暑期APP市场变化洞察",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qZl9aWWJMQVg5RFRBdURyTU14aU5QT2tKRGtpaExPQmJsMXZEeXhuS3VNVnZsM1I2M1h3QVRVaTJtR3R2SHpvWVh",
+      "source_url": "https://lmtw.com",
+      "source": "流媒体网"
+    },
+    {
+      "title": "野村行业观察 | 段冰：AI办公智能体的角色正从“辅助工具”向“数字员工”转变",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GRUt4OURsUXdBNV9taEFibHNtMFNfUnJHdFctRV9Rc19OWjNWdWJGNVpObGVremlxRDdEdW5QUzAzZzZtSkhHajh",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "Firmus 将 OpenAI 定为马来西亚 AI 工厂的锚定客户",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFhTRW1tZUpnRGhfRWp4SEc0dEVBamMtX2dRZjB3SFg5eFJqa25fTVM5cUQwVVBHLW9UVEJwQUlhZE4xTjdzSzJ",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
+    },
+    {
+      "title": "聚焦天桥资本（SkyBridge Capital） “2026 AI FUTURE · NEXT H",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MQ3p1ZTdDNmVReVhfeFVOb0NiN0F1MHBfa3BUdXczVkFkb042WExVUHFmUm5IZDl6djZGZGdZcHlDZVk2QThkbVN",
       "source_url": "https://mtz.china.com",
       "source": "中华网"
-    },
-    {
-      "title": "微软将人工智能治理从政策层面转向运行时执行",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBORkR2S2txdWQ3MjlLU2hBU0tzNmNDMzVaaUtRZjlvWXNqNWdOZnRqZjlDQ21BU1pVcjJueU44SE5RaGNCRDRJeGs",
-      "source_url": "https://www.infoq.cn",
-      "source": "InfoQ-CN"
-    },
-    {
-      "title": "兴业银行推出AI信用卡打造数智时代金融服务新体验-金融频道",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yM0w1ejEzWnJBcVhUUkx4ekpiYVVOZ1pwT0E0T1FQSFhtUkp4aENrY1o5VDFBYmhTVlVaT3VQXzFIbWVaRGxJN2F",
-      "source_url": "https://finance.jxnews.com.cn",
-      "source": "大江网"
-    },
-    {
-      "title": "AI时代高校教师如何向新而行",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44bTJQOUQ1OWkxckUtTXJXSC1SSlg4U0pfTXczNUNfemhrYllKcmNmaGd2dGFQSGZpTmdkUUpYWGtFQ0NCcS1UX2F",
-      "source_url": "https://edu.rednet.cn",
-      "source": "湖南红网"
-    },
-    {
-      "title": "伊拉·库马尔：与社区共同创新-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sWWprYTRpV3Q4VmRYR1ppRlZDRmk2cDN4aFRibUFJNVVDV196eTJBMlBDdldfOWdPZHZuU0lnTlZmUHhBeHpkZXo",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
     }
   ]
 }

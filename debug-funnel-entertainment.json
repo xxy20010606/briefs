@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 128,
-    "trusted": 26,
+    "raw_dedup_junk": 89,
+    "trusted": 14,
     "non_trusted_top": {
-      "ttplus.cn": 28,
-      "sina.cn": 17,
+      "ttplus.cn": 18,
+      "sina.cn": 12,
       "sina.com.cn": 7,
       "china.com": 5,
-      "mk.co.kr": 3,
-      "tom.com": 3,
-      "asiae.co.kr": 2,
-      "chinadaily.com.cn": 2,
+      "bjd.com.cn": 5,
       "yule.com.cn": 2,
-      "yzwb.net": 2
+      "yzwb.net": 2,
+      "ajudaily.com": 1,
+      "epochtimes.com": 1,
+      "mk.co.kr": 1
     },
-    "fresh1_24h": 24,
-    "page_fresh": 18,
+    "fresh1_24h": 13,
+    "page_fresh": 13,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "电影暑期档落幕，秋季院线如何出圈",
+      "t": "国产新片集体扑街，《燃烧吧！爸爸》不到200万，市场危机来了",
       "d": "sohu.com"
     },
     {
-      "t": "8.31-9.6内地一周票房报收4.89亿 《欢迎来龙餐馆》1.49亿四连冠累计",
+      "t": "2026电竞显示器品牌排行榜：爱攻AGON登顶高端梯队",
       "d": "sohu.com"
     },
     {
-      "t": "“去父留子”的女明星们，后来过得好吗？",
-      "d": "163.com"
+      "t": "电影《欢迎来龙餐馆》将在港澳公映",
+      "d": "xinhuanet.com"
     },
     {
-      "t": "首部AI长剧登陆卫视，彻底爆了",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "从侨批到龙餐馆：侨胞故事里滚烫的人情味",
+      "t": "“《原野》回响——中法歌剧艺术分享会”在巴黎举办",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "全城有戏！2026当代国际戏剧节暨“剧荟北京”艺术季在京启幕",
-      "d": "bjnews.com.cn"
+      "t": "海南文旅携《心安东坡》走进厦门 票根解锁多重海岛福利",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "《一江春水向东流》舞台迎重生",
-      "d": "cri.cn"
+      "t": "广东文化“出海”定能走得更远，讲好更多中国故事｜思想耀岭南",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "邵峰《密档》诠释顾少棠获认可，受访畅谈“老上海”角色炼成记",
+      "d": "ifeng.com"
     }
   ]
 }

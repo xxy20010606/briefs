@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 90,
-    "trusted": 23,
+    "raw_dedup_junk": 86,
+    "trusted": 21,
     "non_trusted_top": {
-      "sina.com.cn": 25,
-      "sina.cn": 18,
-      "moomoo.com": 4,
+      "sina.cn": 26,
+      "sina.com.cn": 18,
       "futunn.com": 3,
-      "idnfinancials.com": 2,
-      "tradingkey.com": 2,
-      "sinchew.com.my": 1,
-      "aboluowang.com": 1,
-      "coindesk.com": 1,
-      "fx678.com": 1
+      "fx678.com": 2,
+      "fx168news.com": 2,
+      "tradingview.com": 1,
+      "com.sg": 1,
+      "cnfin.com": 1,
+      "creaders.net": 1,
+      "idnfinancials.com": 1
     },
-    "fresh1_24h": 23,
-    "page_fresh": 19,
-    "relaxed_72h": 0,
+    "fresh1_24h": 15,
+    "page_fresh": 8,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "泰山财经：高途上半年经营净现金流降7成 Q2单季回正_股市聚焦_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "瑞博生物-B(06938)获纳入恒生综合指数成份股及获调入港股通股票名单_股市直",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "芯片股大涨，日韩股市，盘中拉升",
+      "t": "华尔街警告：美债收益率上升，对亚洲股市构成巨大风险",
       "d": "ifeng.com"
     },
     {
-      "t": "美国历次中期选举前美联储货币政策的特点",
+      "t": "A股：大家要做好心理准备，若无意外，股市或将重演24年的行情？",
+      "d": "163.com"
+    },
+    {
+      "t": "博泰车联(02889)折让约14.39%配售488.9万股净筹约5.78亿港元_",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "黄金中期存在调整压力",
       "d": "sohu.com"
     },
     {
-      "t": "“强劲非农扫清加息障碍”！现货黄金失守4400美元，美8月PPI、CPI将接连登",
+      "t": "工银新得益混合：2026年上半年利润414.53万元 净值增长率7.2%",
       "d": "sohu.com"
     },
     {
-      "t": "9月加息押注升温！特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来！",
-      "d": "10jqka.com.cn"
+      "t": "太美医疗科技(02576)9月7日斥资317.97万港元回购60万股_股市直播_",
+      "d": "cnfol.com"
     },
     {
-      "t": "9月美联储加息概率升至58.4%，但美元却不灵了",
-      "d": "thepaper.cn"
+      "t": "晋拓股份向特定对象发行A股股票申请通过上交所审核",
+      "d": "eastmoney.com"
     }
   ]
 }

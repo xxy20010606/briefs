@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 50,
+  "total": 51,
   "samples": [
     {
-      "title": "重估先进封装-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fYlF4dWI3V3E2VUlQQklOZjRQZjJhNmpOa2VWTVJsTzNtUE5RZUdMS1NmQzZiY2Z5VU9Hek5ObjJ5UkRpRWI2M2d",
-      "source_url": "https://www.36kr.com",
-      "source": "36 Kr"
+      "title": "半导体行业呈现出分化态势：AI与存储领跑，传统业务承压",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MME1NZFJGdFNJb25ta0lOT1RwWVRHU1RlQzNGQi1MTXVIZS1BNVpIMFdNREZNd1JPX213VmVSaHRIcG4xYlg2Q0p",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "芯升半导体完成数千万元天使+轮融资，车载光通信加速步入验证期",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtZTVUMXF1WmtWTVpMYUc0WjdqR21GSDZ4N1RWdEsyQ3RWN0RUQk1OblExM2lfMkhqa0JyRm10Vk5rS25HaUZ5UHZ",
-      "source_url": "https://news.pedaily.cn",
-      "source": "投资界"
+      "title": "2026年Q2全球芯片TOP20榜单出炉！",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40VW52OEZhOXU1NUVEMXhHWVE5LXpvMHdmdjFsdzZ6bE91clBDYW5qR2QzQ0ItTVhXQmFmajU0UVRTb0F2MnBjcTN",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "科创200ETF鹏华(588240)标的指数涨超3%，CPO、半导体、PCB、机器人全线上涨，板块迎",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4dVk2N0dpN2hVN1gtbHp1bElxaGU1d0I0Njd0czVmaGFpb2F6X1lVRzFKVjFGU1ZyZ1BObXlNMHVvbWlrOFcxOWZ",
-      "source_url": "https://cj.sina.cn",
+      "title": "芯聚张江 致远未来 IDAS 2026设计自动化产业峰会圆满落幕",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40ZUlEQTd6RU5ZaDc4UmdtcXVJcWhjZ0FBWXhaWC15M29za0FGWEhxckpXbUw4NkVpUnlpOEk5V3c5dFM1dllDMm5",
+      "source_url": "https://cn.chinadaily.com.cn",
+      "source": "cn.chinadaily.com.cn"
+    },
+    {
+      "title": "海外巨头库存告急，长鑫科技释放景气信号，存储反复活跃！机构：逢低布局",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDg1NmRDM0VhdktJLUg1a29PMVlvQlB5dnFaSkFCb01lSVgydkl2Qmp3X0hHRjdQTXBJN05xRkxubjludDJyMUF",
+      "source_url": "https://finance.sina.cn",
       "source": "新浪财经"
     },
     {
-      "title": "标的指数大涨4%！半导体设备ETF国泰（159516）景气上行，国产替代进入“黄金窗口期”",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3NJeFBVaXBvTlRtWFVrZ3dMZlFaeFJkVVhkNGYtZXU0QTczakNXRzR4eVAyR2Jsa0NBRVZubWphV1o5cF8wSnp",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "商务部裁定：对日本一半导体材料临时反倾，最高99.2%！",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zVHRBWXd6bzRwV2puMGdMN05MYzBGLXN6TnJDZUFfV0p3QjJJWk50QmRHQnRjc05GZ3czcGdxUDRPdXRpeUc1N1E",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "秋水半导体发布量产型8英寸红光Micro LED芯片，面向AR眼镜等场景",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE55OTh6VkVGYU5vV2xncDEySFUyandNOTBaZzZ5ZTg4cnBvdkNobV9kZmpibXRSVEUwR3AwT3h5VUgwdlBMalA0NEZ",
-      "source_url": "https://tech.ifeng.com",
-      "source": "凤凰网科技"
-    },
-    {
-      "title": "半导体硅片三年来首现全尺寸涨价，行业景气度全面回升",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZERmOFFDbXdET0dMVDZFWEMzWWsxODFmSVlKN2dGTjBtWHdRbE9KcVkyZ2RRdE1uQmVpVHpsd3paVW9UTGpuX2h",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "三星、SK海力士库存不足10天，明年将“无货可卖”？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmdxTl9Qc2ZhbUpuRHBieWg5ZWU1NlFhdmZWWlBZVHBqX0dMWDJzNmFnbU1QX1RsN0JuOHZ1c3hWN09tQlZ5cDJ",
+      "source_url": "https://m.21jingji.com",
+      "source": "21财经"
     }
   ]
 }
