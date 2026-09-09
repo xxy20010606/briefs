@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 63,
-    "trusted": 14,
+    "raw_dedup_junk": 64,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.com.cn": 12,
-      "ttplus.cn": 9,
-      "sina.cn": 5,
-      "china.com": 4,
-      "unite.ai": 2,
-      "icloudnews.net": 2,
-      "pedaily.cn": 2,
-      "lmtw.com": 1,
-      "digitaltoday.co.kr": 1,
-      "sinchew.com.my": 1
+      "ttplus.cn": 14,
+      "sina.com.cn": 8,
+      "sina.cn": 8,
+      "unite.ai": 3,
+      "vietnam.vn": 3,
+      "csdn.net": 2,
+      "zhiding.cn": 2,
+      "china.com": 2,
+      "hk01.com": 1,
+      "oschina.net": 1
     },
     "fresh1_24h": 12,
-    "page_fresh": 8,
-    "relaxed_72h": 4,
+    "page_fresh": 7,
+    "relaxed_72h": 1,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "从定制研究到订阅服务：甲子智库升级AI产业研究服务体系｜甲子光年智库",
-      "d": "sohu.com"
-    },
-    {
-      "t": "正走在转折点上的AI短剧",
-      "d": "sohu.com"
-    },
-    {
-      "t": "AI长剧首播，影视赛道变局几何",
-      "d": "ce.cn"
-    },
-    {
-      "t": "AI免费时代，终结在2026年夏天",
+      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
       "d": "36kr.com"
     },
     {
-      "t": "2026 AI邮件语气不对怎么改？全产业链标杆盘点",
+      "t": "70% 的项目注定被砍：Anthropic 养了一支 20 人的“失败团队”，项",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "前智驾高管创业不到半年，获近亿美元种子轮融资",
+      "d": "sohu.com"
+    },
+    {
+      "t": "对话新片场：AI视频的胜负手，与价格无关",
       "d": "36kr.com"
     },
     {
-      "t": "奇安信推出“浏览器+文件”数据防泄漏方案，双管齐下构筑安全闭环",
-      "d": "10jqka.com.cn"
+      "t": "钉钉DingTalk A1双11天猫、抖音双榜第一，尊龙体育手机版入口助力国产A",
+      "d": "gelonghui.com"
     },
     {
-      "t": "兴业银行推出AI信用卡 打造数智时代金融服务新体验",
-      "d": "ifeng.com"
+      "t": "上线 30 天用户破 3000 万的的企业级 Agent：千问办公十大核心维度解",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "传百度文心快码并入百度搭子",
+      "d": "sohu.com"
     }
   ]
 }

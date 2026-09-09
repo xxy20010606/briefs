@@ -1,21 +1,21 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 51,
-    "trusted": 26,
+    "raw_dedup_junk": 55,
+    "trusted": 25,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "sina.cn": 5,
+      "sina.cn": 10,
+      "sina.com.cn": 4,
+      "guandian.cn": 3,
+      "caiwennews.com": 2,
       "mydrivers.com": 2,
-      "chinadaily.com.cn": 1,
-      "mycaijing.com": 1,
-      "autohome.com.cn": 1,
-      "sz.gov.cn": 1,
       "china.com": 1,
-      "nikkei.com": 1,
-      "wsj.com": 1
+      "qianjia.com": 1,
+      "asiae.co.kr": 1,
+      "klsescreener.com": 1,
+      "fx168news.com": 1
     },
-    "fresh1_24h": 25,
+    "fresh1_24h": 24,
     "page_fresh": 19,
     "relaxed_72h": 0,
     "final": 7,
@@ -23,32 +23,32 @@
   },
   "final": [
     {
-      "t": "2026年Q2全球芯片TOP20榜单出炉！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "商务部裁定：对日本一半导体材料临时反倾，最高99.2%！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "三星、SK海力士库存不足10天，明年将“无货可卖”？",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "海外巨头库存告急！存储芯片反复活跃 DRAM景气周期或延续？(附股)",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "华为手机上新！有哪些“芯”突破？",
+      "t": "OpenAI\"牵手\"三星：AI算力军备竞赛背后的存储芯片战略卡位",
       "d": "sohu.com"
     },
     {
-      "t": "中国芯片巨头中微公司发布6款新设备以提升半导体产能",
+      "t": "OpenAI与三星深化合作，联合研发下一代芯片",
       "d": "sohu.com"
     },
     {
-      "t": "三星与SK海力士，库存不足10天",
-      "d": "thepaper.cn"
+      "t": "初步日程发布！【第九届半导体大硅片论坛2026】将于10月20-21日在西安召开",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "三星、SK海力士，库存告急，韩国券商：明年存储芯片或现史上最严重供给紧缺",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "量化交易巨头：存储芯片，已稳坐“半导体王座”",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "中国8月出口总值同比增长25%，半导体电子链贡献提升！机构：半导体设备拥挤度处于",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "瑶芯微电子发布全球首款碳化硅超级结MOSFET 功率器件",
+      "d": "gasgoo.com"
     }
   ]
 }

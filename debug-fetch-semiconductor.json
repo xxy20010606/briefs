@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 51,
+  "total": 55,
   "samples": [
     {
-      "title": "半导体行业呈现出分化态势：AI与存储领跑，传统业务承压",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MME1NZFJGdFNJb25ta0lOT1RwWVRHU1RlQzNGQi1MTXVIZS1BNVpIMFdNREZNd1JPX213VmVSaHRIcG4xYlg2Q0p",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪网"
+      "title": "现有芯片，还有50%-80%的性能没榨出来",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBudWZYT1hTWnBXREItQXhJX2NoT3FIczZ4ek5MajdXUWhNemRhQjU2b0tURVQ2N1JMRUY1Mm1aMW9JdEdzNVFma2g",
+      "source_url": "https://wallstreetcn.com",
+      "source": "华尔街见闻"
     },
     {
-      "title": "2026年Q2全球芯片TOP20榜单出炉！",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40VW52OEZhOXU1NUVEMXhHWVE5LXpvMHdmdjFsdzZ6bE91clBDYW5qR2QzQ0ItTVhXQmFmajU0UVRTb0F2MnBjcTN",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "OpenAI\"牵手\"三星：AI算力军备竞赛背后的存储芯片战略卡位",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdldrdHJKTVdYQjFfLWNUSmhWQmRWYUVLNm1YZ3FZbDJrZzN0bWM3MkxwQmU0UFl5M3d6ZFFDVGJDcUNxLWQtTG1",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "芯聚张江 致远未来 IDAS 2026设计自动化产业峰会圆满落幕",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40ZUlEQTd6RU5ZaDc4UmdtcXVJcWhjZ0FBWXhaWC15M29za0FGWEhxckpXbUw4NkVpUnlpOEk5V3c5dFM1dllDMm5",
-      "source_url": "https://cn.chinadaily.com.cn",
-      "source": "cn.chinadaily.com.cn"
+      "title": "孛璞半导体-CIOE 2026发布全系列硅光OCS全光交换机",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BQ21qTUdacDd0WW1RZi0xc0ZKWTZnWklTa1pKNHZTODNpMFBNUFpqTzNGU193UHc4NXlVbDRQd3kzVExySEZhYnZ",
+      "source_url": "https://hea.china.com",
+      "source": "中华网"
     },
     {
-      "title": "海外巨头库存告急，长鑫科技释放景气信号，存储反复活跃！机构：逢低布局",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDg1NmRDM0VhdktJLUg1a29PMVlvQlB5dnFaSkFCb01lSVgydkl2Qmp3X0hHRjdQTXBJN05xRkxubjludDJyMUF",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "OpenAI与三星深化合作，联合研发下一代芯片",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONVRDbFVHUUJLRVB3UjE1RGVfbmNBUHhybVhzdGg5NS1panY1RkswUzFOYlpIN3BuRzVxb29Id09WV3kzVEpNTG5",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "商务部裁定：对日本一半导体材料临时反倾，最高99.2%！",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zVHRBWXd6bzRwV2puMGdMN05MYzBGLXN6TnJDZUFfV0p3QjJJWk50QmRHQnRjc05GZ3czcGdxUDRPdXRpeUc1N1E",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "派恩杰半导体竞得上海松江一宗工业用地 5亿元建碳化硅项目",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXYm1ETDUtSXZJVXQ4cWR6RHZYTFJGWUtkZkROOVJ5N0pURDd5VVBGd3cyNTEwa1BpTU9YV25GVmgzdVhlUmlHNEV",
+      "source_url": "https://www.guandian.cn",
+      "source": "观点网"
     },
     {
-      "title": "三星、SK海力士库存不足10天，明年将“无货可卖”？",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmdxTl9Qc2ZhbUpuRHBieWg5ZWU1NlFhdmZWWlBZVHBqX0dMWDJzNmFnbU1QX1RsN0JuOHZ1c3hWN09tQlZ5cDJ",
-      "source_url": "https://m.21jingji.com",
-      "source": "21财经"
+      "title": "OpenAI称正与三星合作开发下一代芯片，并深化合作",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wYzZZWTJEcFQ0UE15NEsxUjQ2V2VoYlctcDRjc2s5QnlGX0xXVmp6MmlENlBuZFRUcVZEeWdTaEluaG4wR1ozbzZ",
+      "source_url": "https://www.caiwennews.com",
+      "source": "caiwennews.com"
     }
   ]
 }

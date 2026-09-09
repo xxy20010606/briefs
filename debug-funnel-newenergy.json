@@ -1,53 +1,53 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 73,
-    "trusted": 18,
+    "raw_dedup_junk": 81,
+    "trusted": 19,
     "non_trusted_top": {
-      "autohome.com.cn": 18,
-      "sina.com.cn": 15,
-      "sina.cn": 7,
+      "sina.com.cn": 19,
+      "autohome.com.cn": 13,
+      "sina.cn": 12,
       "seetao.com": 2,
-      "wedoany.com": 2,
-      "guandian.cn": 2,
-      "or100.cc": 1,
-      "cnmn.com.cn": 1,
-      "in-en.com": 1,
-      "17173.com": 1
+      "vietnam.vn": 2,
+      "energytrend.cn": 1,
+      "jfdaily.com": 1,
+      "ichaoqi.com": 1,
+      "zaochenbao.com": 1,
+      "guandian.cn": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 9,
+    "fresh1_24h": 19,
+    "page_fresh": 14,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "央视聚焦佛山环两江先行区，解码“百千万工程”佛山实践",
+      "t": "谋发展 抓项目 开新局｜一个“风光发电—直流离网—电解制氢”的零碳能源闭环，即将",
       "d": "sohu.com"
     },
     {
-      "t": "HiOne户储一体机再升级，V2X激活车载储能",
+      "t": "联盛新能源荣获维科杯・OFweek 2026“光储系统集成与价值运营服务商”奖项",
       "d": "sohu.com"
     },
     {
-      "t": "【实践证言】veloxis，探索储能运营新范式",
+      "t": "下一代碳化硅技术，国内跑在了前面",
+      "d": "guancha.cn"
+    },
+    {
+      "t": "硬核出海！特变电工核心装备落地阿联酋7×24h光储项目",
       "d": "solarbe.com"
     },
     {
-      "t": "强强联合 共筑零碳未来｜赢科数能与英利能源签署战略合作协议",
+      "t": "一月落地两家主体 海博思创加快布局鲁北储能赛道",
       "d": "solarbe.com"
     },
     {
-      "t": "云南昭通：梭山光伏发电项目奏响清洁能源转型的新乐章- 中国日报网",
-      "d": "chinadaily.com.cn"
+      "t": "特朗普政府抨击福特与中国企业开展商业合作",
+      "d": "gasgoo.com"
     },
     {
-      "t": "全球首款碳化硅超级结功率器件上海发布 突破海外技术主导现状",
-      "d": "36kr.com"
-    },
-    {
-      "t": "紧急“踩刹车”？中国暂停审批电池储能制造项目",
+      "t": "24万的价格，240万的气场！比亚迪大汉，造成了我买不起的样子！",
       "d": "eet-china.com"
     }
   ]

@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 86,
-    "trusted": 21,
+    "raw_dedup_junk": 94,
+    "trusted": 23,
     "non_trusted_top": {
-      "sina.cn": 26,
-      "sina.com.cn": 18,
-      "futunn.com": 3,
-      "fx678.com": 2,
-      "fx168news.com": 2,
-      "tradingview.com": 1,
+      "sina.cn": 23,
+      "sina.com.cn": 23,
+      "ttplus.cn": 5,
+      "moomoo.com": 3,
+      "vietnam.vn": 2,
+      "futunn.com": 2,
       "com.sg": 1,
-      "cnfin.com": 1,
-      "creaders.net": 1,
-      "idnfinancials.com": 1
+      "mk.co.kr": 1,
+      "sinchew.com.my": 1,
+      "caizhongshe.cn": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 8,
-    "relaxed_72h": 8,
+    "fresh1_24h": 20,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "华尔街警告：美债收益率上升，对亚洲股市构成巨大风险",
-      "d": "ifeng.com"
+      "t": "港股午评|恒生指数早盘无涨跌光通信板块跟外盘普涨_股市直播_市场",
+      "d": "cnfol.com"
     },
     {
-      "t": "A股：大家要做好心理准备，若无意外，股市或将重演24年的行情？",
+      "t": "吉利汽车(00175)因认股权获行使而发行2.3万股_股市直播_市场",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "日韩股市拉升！库存告急，芯片股上涨",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "A股：刚知道3个消息来了，股市启动大涨还是继续下跌？",
       "d": "163.com"
     },
     {
-      "t": "博泰车联(02889)折让约14.39%配售488.9万股净筹约5.78亿港元_",
-      "d": "cnfol.com"
+      "t": "A股：大家要提前做好准备，A股或将迎来大级别的大涨？",
+      "d": "163.com"
     },
     {
-      "t": "黄金中期存在调整压力",
+      "t": "现货黄金再度站上4400美元，黄金股估值有望修复",
       "d": "sohu.com"
     },
     {
-      "t": "工银新得益混合：2026年上半年利润414.53万元 净值增长率7.2%",
-      "d": "sohu.com"
-    },
-    {
-      "t": "太美医疗科技(02576)9月7日斥资317.97万港元回购60万股_股市直播_",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "晋拓股份向特定对象发行A股股票申请通过上交所审核",
-      "d": "eastmoney.com"
+      "t": "【宏观早评】宏观压制仍在，股指维持震荡",
+      "d": "10jqka.com.cn"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 52,
+  "total": 82,
   "samples": [
     {
-      "title": "OpenAI发布地球最强大模型GPT-6 并宣告“欢迎来到AGI时代”",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlNCX01faHdwQmhabmozNm0xeWVCQ3FRSFF3d3RMbndBcnE0NUZoRzhHZ2lWbW1Ndkt2TU4yRjBqYzNHSUR0T3h",
+      "title": "游戏大厂前员工开发色情聊天AI获刑",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPakhqQnE3dW1qbWpWa0NqbjZGUmFUX1NUVF91TGJ5eHRkYWl4QmVDeTNsYlh3OFlza3pCWlVFOGpKVUwzZ1dGRmF",
+      "source_url": "https://t.cj.sina.cn",
+      "source": "t.cj.sina.cn"
+    },
+    {
+      "title": "京东，重磅宣布！杀入“物理AI”，剑指六个“全球最大”",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hYllYdW1iS3Q1UEJUMUoyOVFUVXAxVFlHQklGOEVjX3QyRFlZV0FYZHcxYm5VQ0JMV0JzSThfaXp5dDE2d1ZKZDV",
+      "source_url": "https://www.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "京东，大计划",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRU9NTnVzMDB1M2IzVHFOVjltOF9uRUlzbFItYWpjbjlRSnNSNGlSV0w1ZXprN2dIRzVIS1lrdG5LeU5KN29DQlh",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "山东推出“胶轮毓智”人工智能创新生态|AI大模型|山东移动|北京化工大学|山东省|青岛市_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tQzZLTFZjTXVNZ0c5T2NQaEQyN3pnOXpUWXJqdmtPTUJYWDFha0VqVUp0c1ZJb3ZuMEZlMXVUYlFYWVplNzFGMWJ",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "对话杉数科技：大模型跑完上半场，决策式AI接棒落地",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzFlMEZjcFFFb3VEeWNOWktKc3UxbGRUZ3pzV2Q2eDU3T25KUFlxYWdMUTdaYVVkX01lUTVlOVdna25nZldoc0R",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "2026年AI数字人公司深度盘点，数字人厂商排名推荐哪家更靠谱",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJMXp1dzVCREoyS1N1QWhzTDFqNGJsbjEzcmJocmo4NkgwRHphRlFvSDkwR1ZGY2RINHIwU0dpNHpFNTdzNHBWRHZ",
-      "source_url": "https://www.163.com",
-      "source": "163.com"
+      "title": "市场韧性凸显！人工智能ETF华富（515980）聚焦业绩占优环节，静待宏观不确定性落地",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HSmVsTTQ3a2c4bDZQaXRLanFfMjYzU18xU2lyTjhxZmdrUUZnbUdtb24wWGg4LXUxN0NReGM1NWgzelNhUVo0b3Z",
+      "source_url": "https://www.mrjjxw.com",
+      "source": "mrjjxw.com"
     },
     {
-      "title": "中孚信息入选中关村自主大模型产业联盟首批核心成员，共筑自主AI安全底座",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXcGxsUEE5cnI2UW01QlBaWTBrTDdmOUZ2N1o1b0xNRndsYUtjRlFqODdJZUowMWxrbVZvcnFiS25fSzlOQmNHRXZ",
-      "source_url": "http://stock.10jqka.com.cn",
-      "source": "同花顺财经"
-    },
-    {
-      "title": "第五届数贸会期间，杭州将同步举办世界人工智能开源大赛决赛",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdG5aejZSY3hoX3RDU0JCTkRvWkl5cHJWd2o3TkY5amRkc0pkVFRJVWdMVG5aWDJIeEJMRGcxdnpScFNFLWFYVDZ",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "《河北日报》报道信都：AI当“质检员”，带钢告别“摸黑生产”",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IMXQwMlFHZURQOGdrQ0h1cDNXa1RsQXB0U1FYLVUzV1VqM3NJanlPeXFoRXktbGwwOXN3QVplOEJseGpSU3JZLUF",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "2026 年 AI 智能体元年：Meta 推出 Muse 智能体，可全天候为你办事！",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwZ0dQb2FtdnpLNXZTeWtRdUNja2U1TTFVaXFFUTR1SndxOXRRcVp1YUlSZkJ6X0V1YnphNS10cFIyWUp1V1VnTDh",
+      "source_url": "https://blog.csdn.net",
+      "source": "blog.csdn.net"
     }
   ]
 }
