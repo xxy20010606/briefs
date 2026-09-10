@@ -1,53 +1,53 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 119,
-    "trusted": 15,
+    "raw_dedup_junk": 146,
+    "trusted": 21,
     "non_trusted_top": {
-      "sina.cn": 31,
-      "ttplus.cn": 29,
-      "sina.com.cn": 9,
-      "china.com": 4,
+      "ttplus.cn": 35,
+      "sina.com.cn": 32,
+      "sina.cn": 15,
+      "360.com": 4,
+      "yule.com.cn": 4,
+      "vietnam.vn": 3,
+      "china.com": 3,
       "bjd.com.cn": 3,
-      "vietnam.vn": 2,
-      "eeo.com.cn": 2,
-      "yule.com.cn": 2,
-      "westca.com": 2,
-      "17173.com": 2
+      "voc.com.cn": 2,
+      "fjsen.com": 2
     },
-    "fresh1_24h": 12,
-    "page_fresh": 11,
+    "fresh1_24h": 20,
+    "page_fresh": 14,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "闫妮叶童倪虹洁领衔，喜剧电影《活色生香》定档10月1日",
+      "t": "5天票房200万，泼它黑水的，竟是没看过它的人！",
       "d": "sohu.com"
     },
     {
-      "t": "硅谷AI“宫斗大戏”！瓜导新片《人工智能》首曝预告 安德鲁·加菲尔德饰“Chat",
+      "t": "佩奇携家带口开启中国游，《小猪佩奇·完美假期》定档国庆",
       "d": "sohu.com"
     },
     {
-      "t": "2026太湖文化艺术季暨第25届中国上海国际艺术节无锡分会场明日启幕",
-      "d": "news.cn"
+      "t": "小猪佩奇首部三维动画大电影定档国庆",
+      "d": "thepaper.cn"
     },
     {
-      "t": "《八仙！》总监制应旭珺：票房和口碑，是做好内容之后自然发生的结果",
-      "d": "nbd.com.cn"
+      "t": "《小猪佩奇·完美假期》定档10月1日！这个国庆假期全家一起看佩奇！",
+      "d": "ifeng.com"
     },
     {
-      "t": "《交锋》8集过后，祖峰成泰燊最出彩，软柿子冷不丁硬一下才有趣",
-      "d": "163.com"
+      "t": "2026杭州9-12月演唱会、话剧、脱口秀等演出选购指南｜附靠谱购票平台",
+      "d": "ifeng.com"
     },
     {
-      "t": "500块买断一张脸，AI短剧瞄准银发族，批量“卖脸”生意成香饽饽？",
-      "d": "36kr.com"
+      "t": "中国歌剧舞剧院《原野》2026欧洲巡演圆满收官",
+      "d": "china.com.cn"
     },
     {
-      "t": "这个夏天，电影镜头对准普通人——2026年暑期档国产电影观察",
+      "t": "《密档》：最大的英雄是“无名”",
       "d": "xinhuanet.com"
     }
   ]

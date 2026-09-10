@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 81,
-    "trusted": 19,
+    "raw_dedup_junk": 77,
+    "trusted": 8,
     "non_trusted_top": {
-      "sina.com.cn": 19,
-      "autohome.com.cn": 13,
-      "sina.cn": 12,
-      "seetao.com": 2,
-      "vietnam.vn": 2,
-      "energytrend.cn": 1,
-      "jfdaily.com": 1,
-      "ichaoqi.com": 1,
-      "zaochenbao.com": 1,
-      "guandian.cn": 1
+      "sina.com.cn": 22,
+      "autohome.com.cn": 16,
+      "sina.cn": 11,
+      "pedaily.cn": 2,
+      "jrj.com.cn": 2,
+      "guandian.cn": 1,
+      "ne21.com": 1,
+      "ofweek.com": 1,
+      "moomoo.com": 1,
+      "ideesz.com": 1
     },
-    "fresh1_24h": 19,
-    "page_fresh": 14,
-    "relaxed_72h": 0,
+    "fresh1_24h": 6,
+    "page_fresh": 2,
+    "relaxed_72h": 5,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "谋发展 抓项目 开新局｜一个“风光发电—直流离网—电解制氢”的零碳能源闭环，即将",
-      "d": "sohu.com"
+      "t": "都说增程是过渡技术，这两家一出手，战局扭转，友商：他们耍我啊",
+      "d": "ifeng.com"
     },
     {
-      "t": "联盛新能源荣获维科杯・OFweek 2026“光储系统集成与价值运营服务商”奖项",
-      "d": "sohu.com"
-    },
-    {
-      "t": "下一代碳化硅技术，国内跑在了前面",
-      "d": "guancha.cn"
-    },
-    {
-      "t": "硬核出海！特变电工核心装备落地阿联酋7×24h光储项目",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "一月落地两家主体 海博思创加快布局鲁北储能赛道",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "特朗普政府抨击福特与中国企业开展商业合作",
-      "d": "gasgoo.com"
-    },
-    {
-      "t": "24万的价格，240万的气场！比亚迪大汉，造成了我买不起的样子！",
+      "t": "涉及订单超10GWh！华为等签重磅合作",
       "d": "eet-china.com"
+    },
+    {
+      "t": "光伏装机首超煤电、储能景气延续，南方基金旗下新能源ETF南方(516160)跟踪",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "120亿新能源基金设立！投资运营期风、光、储资产",
+      "d": "sohu.com"
+    },
+    {
+      "t": "江苏金湖：绿电生金“风光”无限#",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "【碳酸锂】悲观情绪修正带动锂价回升",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "电驱万物启新程 融合共生向未来——从2026世界动力电池大会看产业发展新方向",
+      "d": "cri.cn"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 64,
-    "trusted": 12,
+    "raw_dedup_junk": 70,
+    "trusted": 18,
     "non_trusted_top": {
-      "ttplus.cn": 14,
-      "sina.com.cn": 8,
-      "sina.cn": 8,
-      "unite.ai": 3,
-      "vietnam.vn": 3,
-      "csdn.net": 2,
+      "ttplus.cn": 21,
+      "sina.com.cn": 5,
+      "sina.cn": 5,
+      "unite.ai": 2,
       "zhiding.cn": 2,
-      "china.com": 2,
-      "hk01.com": 1,
-      "oschina.net": 1
+      "ac.cn": 2,
+      "mydrivers.com": 1,
+      "jfdaily.com.cn": 1,
+      "qingdaonews.com": 1,
+      "jschina.com.cn": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 7,
-    "relaxed_72h": 1,
+    "fresh1_24h": 16,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "d": "36kr.com"
-    },
-    {
-      "t": "70% 的项目注定被砍：Anthropic 养了一支 20 人的“失败团队”，项",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "前智驾高管创业不到半年，获近亿美元种子轮融资",
-      "d": "sohu.com"
-    },
-    {
-      "t": "对话新片场：AI视频的胜负手，与价格无关",
-      "d": "36kr.com"
-    },
-    {
-      "t": "钉钉DingTalk A1双11天猫、抖音双榜第一，尊龙体育手机版入口助力国产A",
-      "d": "gelonghui.com"
-    },
-    {
-      "t": "上线 30 天用户破 3000 万的的企业级 Agent：千问办公十大核心维度解",
+      "t": "Arm 推出 Arm AI Portal，加速 Arm 平台 AI 应用优化与开",
       "d": "geekpark.net"
     },
     {
-      "t": "传百度文心快码并入百度搭子",
+      "t": "“答题机器”之后，AI投顾下一步往哪走？",
+      "d": "36kr.com"
+    },
+    {
+      "t": "成立不到一年，AI潮玩品牌「IPTAG」完成千万级战略融资",
+      "d": "36kr.com"
+    },
+    {
+      "t": "全球AI职位Offer超7成被男性拿下，“阴阳失调”的AI风口？",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "梅涛的视频AI创业，最新产品来了",
       "d": "sohu.com"
+    },
+    {
+      "t": "硅谷AI独角兽Perplexity转投阿里千问，基于Qwen3.8打造本地Age",
+      "d": "sohu.com"
+    },
+    {
+      "t": "从「听得清」到「用得顺」：猛玛打开 AI 语音办公新场景",
+      "d": "geekpark.net"
     }
   ]
 }

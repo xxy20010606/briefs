@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 55,
+  "total": 59,
   "samples": [
     {
-      "title": "现有芯片，还有50%-80%的性能没榨出来",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBudWZYT1hTWnBXREItQXhJX2NoT3FIczZ4ek5MajdXUWhNemRhQjU2b0tURVQ2N1JMRUY1Mm1aMW9JdEdzNVFma2g",
-      "source_url": "https://wallstreetcn.com",
-      "source": "华尔街见闻"
+      "title": "科创芯片设计ETF浦银标的指数近1年涨34.08%",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTXBEM1JiZG9GUVRwRGlxbkhSS2xNTEpHVmtSOG9WYVhDWVdxT000OHE5SHRsT1N6UHBhNnRYLVVWVzRMa2poOVY",
+      "source_url": "https://cj.sina.cn",
+      "source": "cj.sina.cn"
     },
     {
-      "title": "OpenAI\"牵手\"三星：AI算力军备竞赛背后的存储芯片战略卡位",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdldrdHJKTVdYQjFfLWNUSmhWQmRWYUVLNm1YZ3FZbDJrZzN0bWM3MkxwQmU0UFl5M3d6ZFFDVGJDcUNxLWQtTG1",
+      "title": "深科技，18.5亿元加码高端存储芯片封测",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3aXFzVk9FQ2gyYi1TQTJEYmVUUVpZVnVlUDF2aVdJcXNOOGQxSFNQMUQ5emcwc1lrQ2ZkVUdqY2pobVAxeVRaN3B",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "三星4nm制程满负荷运转 过半产能已分配给HBM4",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xUGdKcHdBTmJLbGxDWHd4eVR1Y21lTzBzMDBRZFYtZU1WRkZ0NTVWRVU4WW9qTFQ1dnBaQWlaVWRCRkcyM2FwZQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "10亿重仓玻璃基板！沃格光电NPO光通讯路线浮出水面：计划2027率先实现量产",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUENMTkdhamZvd2VfNWJmQlBnTEwzMGhpSDlvTEZqUjdQVlJRc2VzOFNudHlDajZpUGJ6NDdGblVSNVBRMVA0TnU",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "孛璞半导体-CIOE 2026发布全系列硅光OCS全光交换机",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BQ21qTUdacDd0WW1RZi0xc0ZKWTZnWklTa1pKNHZTODNpMFBNUFpqTzNGU193UHc4NXlVbDRQd3kzVExySEZhYnZ",
-      "source_url": "https://hea.china.com",
-      "source": "中华网"
-    },
-    {
-      "title": "OpenAI与三星深化合作，联合研发下一代芯片",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONVRDbFVHUUJLRVB3UjE1RGVfbmNBUHhybVhzdGg5NS1panY1RkswUzFOYlpIN3BuRzVxb29Id09WV3kzVEpNTG5",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
-    },
-    {
-      "title": "派恩杰半导体竞得上海松江一宗工业用地 5亿元建碳化硅项目",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXYm1ETDUtSXZJVXQ4cWR6RHZYTFJGWUtkZkROOVJ5N0pURDd5VVBGd3cyNTEwa1BpTU9YV25GVmgzdVhlUmlHNEV",
+      "title": "高盛：存储芯片行业下行周期最糟糕阶段或已结束",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1QnB5VGkxbkptRzRWLTNoLTVZTWtEdmRySm1aWEdNOVQxZHpqT3dsSW1NZTBEUmF0NlFiMS05N1FUUVpPbGJUWmN",
       "source_url": "https://www.guandian.cn",
       "source": "观点网"
     },
     {
-      "title": "OpenAI称正与三星合作开发下一代芯片，并深化合作",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wYzZZWTJEcFQ0UE15NEsxUjQ2V2VoYlctcDRjc2s5QnlGX0xXVmp6MmlENlBuZFRUcVZEeWdTaEluaG4wR1ozbzZ",
-      "source_url": "https://www.caiwennews.com",
-      "source": "caiwennews.com"
+      "title": "芯聚张江，致远未来 | IDAS 2026设计自动化产业峰会圆满落幕",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80bEFBbW03d3gxeV9DeEt3bTBqaW9ZMW1NTXNiMVJBTmZfczVzb0U2ZWlLV2E0QjlNTUZ1Zk1xU2xzS1pQb1VrUkJ",
+      "source_url": "https://www.eet-china.com",
+      "source": "eet-china.com"
     }
   ]
 }

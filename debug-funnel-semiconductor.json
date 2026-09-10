@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 55,
-    "trusted": 25,
+    "raw_dedup_junk": 59,
+    "trusted": 24,
     "non_trusted_top": {
-      "sina.cn": 10,
-      "sina.com.cn": 4,
-      "guandian.cn": 3,
-      "caiwennews.com": 2,
-      "mydrivers.com": 2,
-      "china.com": 1,
-      "qianjia.com": 1,
-      "asiae.co.kr": 1,
+      "sina.com.cn": 12,
+      "sina.cn": 5,
+      "guandian.cn": 2,
+      "stockstar.com": 2,
       "klsescreener.com": 1,
-      "fx168news.com": 1
+      "caiwennews.com": 1,
+      "jrj.com.cn": 1,
+      "me.news": 1,
+      "mk.co.kr": 1,
+      "ttplus.cn": 1
     },
-    "fresh1_24h": 24,
-    "page_fresh": 19,
+    "fresh1_24h": 21,
+    "page_fresh": 14,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "OpenAI\"牵手\"三星：AI算力军备竞赛背后的存储芯片战略卡位",
+      "t": "10亿重仓玻璃基板！沃格光电NPO光通讯路线浮出水面：计划2027率先实现量产",
       "d": "sohu.com"
     },
     {
-      "t": "OpenAI与三星深化合作，联合研发下一代芯片",
-      "d": "sohu.com"
-    },
-    {
-      "t": "初步日程发布！【第九届半导体大硅片论坛2026】将于10月20-21日在西安召开",
+      "t": "芯聚张江，致远未来 | IDAS 2026设计自动化产业峰会圆满落幕",
       "d": "eet-china.com"
     },
     {
-      "t": "三星、SK海力士，库存告急，韩国券商：明年存储芯片或现史上最严重供给紧缺",
-      "d": "ifeng.com"
+      "t": "OpenAI自研芯片进程加速，科创芯片ETF易方达（589130）年内净流入领跑",
+      "d": "sohu.com"
     },
     {
-      "t": "量化交易巨头：存储芯片，已稳坐“半导体王座”",
-      "d": "ifeng.com"
+      "t": "Amkor美国先进封测二期工程启动，投资增至120亿美元",
+      "d": "eet-china.com"
     },
     {
-      "t": "中国8月出口总值同比增长25%，半导体电子链贡献提升！机构：半导体设备拥挤度处于",
+      "t": "2026-2030年版半导体分立器件市场行情分析及相关技术深度调研预测--手机中",
       "d": "10jqka.com.cn"
     },
     {
-      "t": "瑶芯微电子发布全球首款碳化硅超级结MOSFET 功率器件",
-      "d": "gasgoo.com"
+      "t": "光互连加速迈向“芯片级”集成国产全栈方案亮相光博会——英伟芯科技五款自研硅光芯片",
+      "d": "iccsz.com"
+    },
+    {
+      "t": "功率半导体涨价潮延续 瑞萨电子新一轮调价明年起生效",
+      "d": "cls.cn"
     }
   ]
 }

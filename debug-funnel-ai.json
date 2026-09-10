@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 82,
-    "trusted": 27,
+    "raw_dedup_junk": 77,
+    "trusted": 16,
     "non_trusted_top": {
-      "sina.com.cn": 13,
-      "sina.cn": 10,
-      "blockchain.news": 3,
-      "smarthey.com": 3,
-      "csdn.net": 2,
-      "pedaily.cn": 2,
-      "china.com": 2,
-      "enanyang.my": 2,
-      "ttplus.cn": 2,
-      "mrjjxw.com": 1
+      "sina.com.cn": 16,
+      "sina.cn": 13,
+      "china.com": 3,
+      "bjd.com.cn": 3,
+      "ttplus.cn": 3,
+      "jfdaily.com": 2,
+      "zhiding.cn": 2,
+      "mydrivers.com": 2,
+      "icloudnews.net": 2,
+      "ac.cn": 2
     },
-    "fresh1_24h": 26,
-    "page_fresh": 19,
+    "fresh1_24h": 15,
+    "page_fresh": 11,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "京东，重磅宣布！杀入“物理AI”，剑指六个“全球最大”",
+      "t": "普林斯顿大学教授王梦迪：大模型在数学和编程上的成功目前还无法延伸至科学发现",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "联想王哲鹏：人工智能的下限非常重要",
       "d": "sohu.com"
     },
     {
-      "t": "京东，大计划",
+      "t": "大模型迭代持续推进，DeepSeek新模型性能全面提升，关注人工智能ETF易方达",
+      "d": "cls.cn"
+    },
+    {
+      "t": "《人工智能月刊》8月：网经社探营灵伴科技 太希智能等AI企业",
       "d": "sohu.com"
     },
     {
-      "t": "DeepSeek V4.1 Flash开启内测，国产模型凭高性价比占据流量前列丨",
-      "d": "21jingji.com"
+      "t": "规模冲刺3万亿元、渗透率将超58%！金融AI爆发前夜，这三类风险不容忽视",
+      "d": "nbd.com.cn"
     },
     {
-      "t": "上下文128k也有“公摊”？一文讲透大模型底层逻辑",
+      "t": "美国NSA、CISA、FBI联合指控DeepSeek等六家中国AI公司\"工业规模",
       "d": "eet-china.com"
     },
     {
-      "t": "ECCV 2026 专访：让大模型「忘掉XYZ」，RoboTracer 用 3D",
-      "d": "leiphone.com"
-    },
-    {
-      "t": "折叠屏iPhone 初期产量受限，每日仅数百部；环比增长379%，腾讯 HY4 ",
-      "d": "geekpark.net"
-    },
-    {
-      "t": "人工智能行业亟需深度转型",
-      "d": "ce.cn"
+      "t": "AI时代重新定义“信任”，瑞数信息发布全新AI安全产品体系",
+      "d": "eet-china.com"
     }
   ]
 }

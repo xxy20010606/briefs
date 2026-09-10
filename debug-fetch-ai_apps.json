@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 65,
+  "total": 72,
   "samples": [
     {
-      "title": "印度市场750万下载，霸榜摄影畅销榜14天，上海AI工具厂商跑出新爆款",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS1FEQnBGOHJjeW9VandpZFFlSm80aGlpLW03bW1ISENMM25ZNXBMR0hxYUpVSnBob2ZROXdEcW53MUotd1otczl",
+      "title": "京东工业JDD 发布技术普惠路线图：让每一家中小企业都用上专业级的工业采购AI",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QaXhkV0h4ZzFHTUhiRkJUYTBvaVVWUlhJYXhvZlByVENHMll3MVViQ0cwVE50aElNMkcwVXNWYkpJTDRVODltOU9",
+      "source_url": "https://news.mydrivers.com",
+      "source": "驱动之家"
+    },
+    {
+      "title": "近七成参赛者未满18岁，9岁孩子夺冠，全民Coding时代已来？",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YV1ptUnlxYlBJQnhHM0RoLWljRzRBQ3BZZkhWSHo5Y1pGM3R6UUdiNWZMUHJ6dFdFLWNnVUs5dUk1MXJTZmJicUR",
+      "source_url": "https://www.jfdaily.com.cn",
+      "source": "上观新闻"
+    },
+    {
+      "title": "蒲世林：AI应用在金融机构的落地实践",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sWWtzWUVaeU1kaEptNFEzbWROWTdfNXlzVW5GSEZUVW9Pd1AxWHN2cERBYm1fMWIwaXZ3UHRLQTRJZlNpbGh5ckt",
       "source_url": "https://k.sina.com.cn",
+      "source": "k.sina.com.cn"
+    },
+    {
+      "title": "百融智能CEO张韶峰：AI正从工具走向生产力主体，重构企业价值创造",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeEhfQUdiMzZzTnprV0xVa2prMnZHVkFJQy1LNUtrSXR4anhmOU1LOHdjUVZlRlppMFpCUWxqaTlvbmNCWEFac3J",
+      "source_url": "https://finance.sina.cn",
       "source": "新浪网"
     },
     {
-      "title": "三星领投！法国AI公司Mistral获30亿欧元D轮融资，估值超210亿欧元",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHUjFqVlMwNnJBQmRoNEQ0LTAxdXYtOTFyMHhGUDdDNGFUZW5iaVJvYzFRcTdfYWpCMjhfXzVMYldUeWhvT255Zmd",
-      "source_url": "https://blog.csdn.net",
-      "source": "blog.csdn.net"
+      "title": "兴业银行推出 AI信用卡 打造数智时代金融服务新体验",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBla3ZiazdwbmVFLTNCaEpISUNUd3JuUVdtQmVoYUw3Qk1nNDloNGt2N2Rqc0NXQXhLOHBDZGNFdjc1ZzdqZ3lkZG5",
+      "source_url": "https://finance.qingdaonews.com",
+      "source": "青岛新闻网"
     },
     {
-      "title": "手握“工具”和“地图”，AI投资选嘉实基金",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yak9QX2wzWnZrcmpHZTNOQzB3Ny1BdFEzQVZvTGxXOGtuOG11ZXZTRzNaV0ZxWlVacURvUnZEbkR1RFZDU1BqMER",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "恒生新生代CEO启蒙课程 访字节跳动港深办公室 实战AI生成短片",
-      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPdFhDV3hSaV8zUFBxNU85TzduSVFGdnVMTF80TDN2M0Z0cWVsWFZDLVVtWjAyQXF5YXlXVjU0Y3FIUUwwRTBhQVh",
-      "source_url": "https://global.hk01.com",
-      "source": "香港01"
-    },
-    {
-      "title": "Adobe试图让Premiere中的AI生成器更加傻瓜化-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GQ3J2M3BRRW5NdTRYMnpLdUdrVlVTMmNWY1M4aHN5SGxmUXBKT3lwemg3UUdaSFhxX3dCRW8tQm4zc2JndUFUVWV",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
-    },
-    {
-      "title": "Adobe与Slack打通，AI创作融入团队聊天-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9reXNqUWNNSks2Z3BSSDM1VzZRbzYtdG5lVnZrNEthYWRzYkNnbkVMRVRPeVhLa2JBY3NYWTY4WlhYUUNRUUZtTVo",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "拥抱AI新工具 南通厂南社区开展数字化能力提升主题讲座",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVRqckg2Nm5oLWhmWFptZ0tNUUlZT1hyd1Byd29UVE1RYk1BODJfUWRhZDJOSl84MnFEMC1FTWN0R0hvRm9ZaGx",
+      "source_url": "https://jsnews.jschina.com.cn",
+      "source": "中国江苏网"
     }
   ]
 }

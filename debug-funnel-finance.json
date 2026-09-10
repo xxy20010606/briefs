@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 94,
-    "trusted": 23,
+    "raw_dedup_junk": 113,
+    "trusted": 29,
     "non_trusted_top": {
-      "sina.cn": 23,
-      "sina.com.cn": 23,
-      "ttplus.cn": 5,
-      "moomoo.com": 3,
-      "vietnam.vn": 2,
-      "futunn.com": 2,
-      "com.sg": 1,
-      "mk.co.kr": 1,
+      "sina.com.cn": 28,
+      "sina.cn": 20,
+      "ttplus.cn": 12,
+      "moomoo.com": 6,
+      "vietnam.vn": 4,
+      "futunn.com": 3,
       "sinchew.com.my": 1,
-      "caizhongshe.cn": 1
+      "china.com": 1,
+      "fx678.com": 1,
+      "techflowpost.com": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 17,
+    "page_fresh": 9,
+    "relaxed_72h": 13,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "港股午评|恒生指数早盘无涨跌光通信板块跟外盘普涨_股市直播_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "吉利汽车(00175)因认股权获行使而发行2.3万股_股市直播_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "日韩股市拉升！库存告急，芯片股上涨",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "A股：刚知道3个消息来了，股市启动大涨还是继续下跌？",
+      "t": "A股：不必等周五开盘了，股市已经有变化，明天很可能这样走了！",
       "d": "163.com"
     },
     {
-      "t": "A股：大家要提前做好准备，A股或将迎来大级别的大涨？",
-      "d": "163.com"
+      "t": "万里印刷(08385)转仓市值总计94.48万港元占比9.33% 从圣衡金融控股",
+      "d": "cnfol.com"
     },
     {
-      "t": "现货黄金再度站上4400美元，黄金股估值有望修复",
+      "t": "摩根大通(JPM.US)迈向1万亿美元市值，竞争对手美银高呼：依然很便宜！_股市",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "沃什鹰派表态扰动预期，路透调查降息预期下滑，市场紧盯11日美国CPI数据",
       "d": "sohu.com"
     },
     {
-      "t": "【宏观早评】宏观压制仍在，股指维持震荡",
-      "d": "10jqka.com.cn"
+      "t": "三大利空全失效！美联储加息都压不住，金价8月暴涨9.6%，最大买盘终于浮出水面，",
+      "d": "sohu.com"
+    },
+    {
+      "t": "美高梅中国(02282)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
+    },
+    {
+      "t": "圆桌对话丨港股何时迎来大行情？上市公司高管、资管人士共论估值提升、南向资金与AI",
+      "d": "nbd.com.cn"
     }
   ]
 }
