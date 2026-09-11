@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 78,
+  "total": 64,
   "samples": [
     {
-      "title": "中科大陆朝阳：量子计算对于大模型训练没有加速作用",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sY1NuclduWUZDVC1kdmNSaW1HQzNpYWZ3NERqN0JqWDdyWW9FNHYtMmhrMjExU3hSWUduMkpCR1lpSVphLW1kN1F",
-      "source_url": "https://wap.cj.sina.cn",
-      "source": "cj.sina.cn"
-    },
-    {
-      "title": "普林斯顿大学教授王梦迪：大模型在数学和编程上的成功目前还无法延伸至科学发现",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NbV9Ia2xZcXhIQUduTGVnWk9TTVp4aWRHeldaaXpGTzVndld6blJHcUJKQ1I1bFlrMW04TW5kMzNrSG1hcjBpaWJ",
-      "source_url": "https://www.thepaper.cn",
-      "source": "thepaper.cn"
-    },
-    {
-      "title": "奇富科技杨叶辉：大模型技术给金融服务带来的新变革",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSDlvV0Jwd1p5WGFEc0lmak1TNkJTdjF6MXV2RmpjLTRWYUFsTk9EVzRkNVZMYVBkemJ3czZJSTRSWEJfMlZnck5",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "联想王哲鹏：人工智能的下限非常重要",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX1dYWlBFdGs3enlFcVBMbS1hWjhUdnJGV1pQZGNWT0ZOZVg3LWs0b2c3OTQ2SjR0NVJ3Z3l1TE5Ubl9TQW5KV19",
+      "title": "好评中国丨AI赋能场景焕新 “中国服务”向新而行",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWjBlUzJHbVh3OHZMell1cFUzOFAwemJLR0U0QVNDZVBwU210d2dhMnBOa0JILW5QSGNqcUYzeGp5TWxYT3RKWHl",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "网易首个AI原生语音Agent上线，永久免费看准AI语音入口",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pNF9GMmlBc2ZEQzRJMFNhZk5vM05QQmg1U1ZVOWw1dU5PUlZ6QzlrZklRbkFkQ0psMHdjTHM3Yi1nZXNOQW1Jajh",
-      "source_url": "http://www.cctime.com",
-      "source": "飞象网"
+      "title": "AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness 工程实践",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ITTBsdW45VDY2aEJabEdkeF9yVk00c1VwUFlYb0pvLTRzZjNETkczLXdoU1BfSzQ5XzdCQ3prUGh0bEwwUFdMa00",
+      "source_url": "https://www.infoq.cn",
+      "source": "infoq.cn"
     },
     {
-      "title": "大模型全是演技派！AI教学的正确方式：用真实数据训出60个数字学生",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53TzVIZGdVMG1lWEhneDZLWXc0M0oxaUZxaDVtZG91Wk1jN2NidEtheXllQTV2UWg4eWgxT2gwSlFNVV9wUGxRWlZ",
-      "source_url": "https://k.sina.com.cn",
-      "source": "k.sina.com.cn"
+      "title": "深圳再添两个“人才班”",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnRsSEtxSzVNZHFCUnZIaTFlV0dIS3lPY1B4U3Rnd0pkaHRkS3dkRVJTb0dtQVI3cW54c1dOaFJYR1VlQU1HV01",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.cn"
+    },
+    {
+      "title": "以青年力量拓疆探源 让科创走向更远的地方",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlgySmVqSDVZTmhlYXVtaHlmWmJ2c1JHSWV5clRHVUlFMTRoUV9Ed1M2RmItZEhmVEhQWmhPZFY3Zzd5QWtmRTZ",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "国产算力闪耀央视外滩大会之夜！壁仞科技“训”出音乐大模型，携手擎朗机器人演绎全自研开场秀",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnNLTTBVMy1zT3dHNEgtdGczbW1LT05MdkJnNExkTkp5U0FGdjZ1Ni0zVzBRejlwd050bTlPbHc5VFJZbS01QTQ",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.cn"
+    },
+    {
+      "title": "工信部发布AI+软件实施方案 智能体软件迎来规模化落地",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMk9OMWN3OS1zRm92SWNKRDhGNWRkWlVsRklwdGlCXzFnaXRMZlQtaFZnV3VlYVczRjdjOFFUUHNaV0FHUkdiUml",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.cn"
     }
   ]
 }

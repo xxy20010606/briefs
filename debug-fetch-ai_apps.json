@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 72,
+  "total": 79,
   "samples": [
     {
-      "title": "京东工业JDD 发布技术普惠路线图：让每一家中小企业都用上专业级的工业采购AI",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QaXhkV0h4ZzFHTUhiRkJUYTBvaVVWUlhJYXhvZlByVENHMll3MVViQ0cwVE50aElNMkcwVXNWYkpJTDRVODltOU9",
-      "source_url": "https://news.mydrivers.com",
-      "source": "驱动之家"
+      "title": "HiddenLayer融资1亿美元，押注AI代理运行时安全",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXhNRE9JVmFwRjE3M3hkazRIREdxV2ViZG5nOXUwWjJaRm9QcUdwemhNTVZwNVNpdnBKVE05Z0dubmVOZVVYdTV",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
     },
     {
-      "title": "近七成参赛者未满18岁，9岁孩子夺冠，全民Coding时代已来？",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YV1ptUnlxYlBJQnhHM0RoLWljRzRBQ3BZZkhWSHo5Y1pGM3R6UUdiNWZMUHJ6dFdFLWNnVUs5dUk1MXJTZmJicUR",
-      "source_url": "https://www.jfdaily.com.cn",
-      "source": "上观新闻"
-    },
-    {
-      "title": "蒲世林：AI应用在金融机构的落地实践",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sWWtzWUVaeU1kaEptNFEzbWROWTdfNXlzVW5GSEZUVW9Pd1AxWHN2cERBYm1fMWIwaXZ3UHRLQTRJZlNpbGh5ckt",
+      "title": "AI算力架构迈向端-边-云协同，联想携手IDC发布《AI主机》白皮书",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGZEJUcVdCaHhpSTZaSUp3ejVyaTBiVXphZDRURDRJYm9HcVBtVDQ1c1REbERhZmhfSlBqT1o2RW5GakhqNmE0ZDY",
       "source_url": "https://k.sina.com.cn",
-      "source": "k.sina.com.cn"
-    },
-    {
-      "title": "百融智能CEO张韶峰：AI正从工具走向生产力主体，重构企业价值创造",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeEhfQUdiMzZzTnprV0xVa2prMnZHVkFJQy1LNUtrSXR4anhmOU1LOHdjUVZlRlppMFpCUWxqaTlvbmNCWEFac3J",
-      "source_url": "https://finance.sina.cn",
       "source": "新浪网"
     },
     {
-      "title": "兴业银行推出 AI信用卡 打造数智时代金融服务新体验",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBla3ZiazdwbmVFLTNCaEpISUNUd3JuUVdtQmVoYUw3Qk1nNDloNGt2N2Rqc0NXQXhLOHBDZGNFdjc1ZzdqZ3lkZG5",
-      "source_url": "https://finance.qingdaonews.com",
-      "source": "青岛新闻网"
+      "title": "Emochi，对标 Character.AI 的动漫 AI 角色聊天应用",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcEs2dHd3N2Jrb09wMDl6b2JUVzZGemZiSloxUkdpbFZsRVBmeDRpbUVsVWVLYmdBc1NudlAxd01Gek9xc25VZXF",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     },
     {
-      "title": "拥抱AI新工具 南通厂南社区开展数字化能力提升主题讲座",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVRqckg2Nm5oLWhmWFptZ0tNUUlZT1hyd1Byd29UVE1RYk1BODJfUWRhZDJOSl84MnFEMC1FTWN0R0hvRm9ZaGx",
-      "source_url": "https://jsnews.jschina.com.cn",
-      "source": "中国江苏网"
+      "title": "这个事务所，税务师自己动手做AI工具",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGtBNDVHbXlVX2gtbzBraVppdFJIbERwX2Z3VzY2S0p0X1FUVlJGMDJqRmZsYkg1MDdqd3FFSWc3X18wMzNrMEp",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.cn"
+    },
+    {
+      "title": "Reggie Scales，Vonage 应用业务部门总裁兼负责人 – 访谈系列",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUnZsNEpjVW9aT20wdE5oT3hnT0l4OEFwVWpfblkzV2FNU0JyYnhtWHVOdHZVVFh6ZGpYVnZ4Rm9TcTR5bl8zXzV",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
+    },
+    {
+      "title": "Owkin 将 K Pro 与患者数据授权给 Servier 用于肿瘤学研究",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzB2U1drRS1iVkU2bFc1U2N2SW9OdzZIQVhleUZKVHFDbzRfXzNqcUdadjk2SkZjUU9ZS2g3dW9XaUx3VUpCbkZ",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     }
   ]
 }

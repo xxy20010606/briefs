@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 70,
+    "raw_dedup_junk": 77,
     "trusted": 18,
     "non_trusted_top": {
-      "ttplus.cn": 21,
-      "sina.com.cn": 5,
-      "sina.cn": 5,
-      "unite.ai": 2,
-      "zhiding.cn": 2,
-      "ac.cn": 2,
-      "mydrivers.com": 1,
-      "jfdaily.com.cn": 1,
-      "qingdaonews.com": 1,
-      "jschina.com.cn": 1
+      "ttplus.cn": 14,
+      "sina.cn": 9,
+      "sina.com.cn": 6,
+      "china.com": 4,
+      "unite.ai": 3,
+      "aibase.com": 2,
+      "yzwb.net": 2,
+      "cyzone.cn": 2,
+      "moomoo.com": 2,
+      "quasa.io": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 8,
+    "fresh1_24h": 18,
+    "page_fresh": 14,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "Arm 推出 Arm AI Portal，加速 Arm 平台 AI 应用优化与开",
-      "d": "geekpark.net"
-    },
-    {
-      "t": "“答题机器”之后，AI投顾下一步往哪走？",
+      "t": "AI移动应用2026年7月洞察：月活重回增长，陪伴类升温、教育类放量",
       "d": "36kr.com"
     },
     {
-      "t": "成立不到一年，AI潮玩品牌「IPTAG」完成千万级战略融资",
-      "d": "36kr.com"
+      "t": "估值回到历史低位！人工智能赛道能否迎来“性价比”时刻？科创创业人工智能ETF景顺",
+      "d": "cnfol.com"
     },
     {
-      "t": "全球AI职位Offer超7成被男性拿下，“阴阳失调”的AI风口？",
-      "d": "huxiu.com"
+      "t": "AI 赋能企业数字化升级，彩讯打造企业级智能体一体化代表性方案",
+      "d": "ifeng.com"
     },
     {
-      "t": "梅涛的视频AI创业，最新产品来了",
+      "t": "2026热门AI雅思口语APP横评：必备Top7，首推咕噜口语，纠音天花板，闭眼",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "OpenAI Agents API开放公测，为开发者提供云端智能体基础设施",
       "d": "sohu.com"
     },
     {
-      "t": "硅谷AI独角兽Perplexity转投阿里千问，基于Qwen3.8打造本地Age",
-      "d": "sohu.com"
+      "t": "高通钱堃：AI从回答问题的工具变成能够协同人们做事的智能伙伴",
+      "d": "bjnews.com.cn"
     },
     {
-      "t": "从「听得清」到「用得顺」：猛玛打开 AI 语音办公新场景",
-      "d": "geekpark.net"
+      "t": "早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再",
+      "d": "ifanr.com"
     }
   ]
 }

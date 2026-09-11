@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 59,
-    "trusted": 24,
+    "raw_dedup_junk": 48,
+    "trusted": 18,
     "non_trusted_top": {
-      "sina.com.cn": 12,
-      "sina.cn": 5,
-      "guandian.cn": 2,
-      "stockstar.com": 2,
-      "klsescreener.com": 1,
-      "caiwennews.com": 1,
-      "jrj.com.cn": 1,
-      "me.news": 1,
-      "mk.co.kr": 1,
-      "ttplus.cn": 1
+      "sina.com.cn": 8,
+      "sina.cn": 4,
+      "gsi24.com": 4,
+      "china.com": 3,
+      "vietnam.vn": 2,
+      "zol.com.cn": 1,
+      "ofweek.com": 1,
+      "eastmoney.com": 1,
+      "ttplus.cn": 1,
+      "indexbox.io": 1
     },
-    "fresh1_24h": 21,
-    "page_fresh": 14,
+    "fresh1_24h": 18,
+    "page_fresh": 15,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "10亿重仓玻璃基板！沃格光电NPO光通讯路线浮出水面：计划2027率先实现量产",
+      "t": "传台积电计划到2028年将CoWoS先进封装产能再翻倍",
       "d": "sohu.com"
     },
     {
-      "t": "芯聚张江，致远未来 | IDAS 2026设计自动化产业峰会圆满落幕",
-      "d": "eet-china.com"
+      "t": "60亿元投资平台落地，无锡加码半导体扩产",
+      "d": "cls.cn"
     },
     {
-      "t": "OpenAI自研芯片进程加速，科创芯片ETF易方达（589130）年内净流入领跑",
+      "t": "说长鑫存储“造4个芯片报废3个”，韩国媒体破防了？",
       "d": "sohu.com"
     },
     {
-      "t": "Amkor美国先进封测二期工程启动，投资增至120亿美元",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "2026-2030年版半导体分立器件市场行情分析及相关技术深度调研预测--手机中",
+      "t": "翱捷科技递表港交所 蜂窝连接芯片出货量排名全球第一",
       "d": "10jqka.com.cn"
     },
     {
-      "t": "光互连加速迈向“芯片级”集成国产全栈方案亮相光博会——英伟芯科技五款自研硅光芯片",
-      "d": "iccsz.com"
+      "t": "21:45:21【费城半导体指数涨幅扩大至2%】",
+      "d": "cls.cn"
     },
     {
-      "t": "功率半导体涨价潮延续 瑞萨电子新一轮调价明年起生效",
-      "d": "cls.cn"
+      "t": "人形机器人“关节”正在芯片化：极海半导体押注驱控一体化",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "极海荣获2026年度硬核芯两项大奖",
+      "d": "eet-china.com"
     }
   ]
 }

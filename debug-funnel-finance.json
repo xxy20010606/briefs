@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 113,
-    "trusted": 29,
+    "raw_dedup_junk": 89,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 28,
-      "sina.cn": 20,
-      "ttplus.cn": 12,
-      "moomoo.com": 6,
+      "sina.com.cn": 25,
+      "sina.cn": 21,
+      "ttplus.cn": 7,
+      "moomoo.com": 5,
       "vietnam.vn": 4,
-      "futunn.com": 3,
-      "sinchew.com.my": 1,
-      "china.com": 1,
-      "fx678.com": 1,
-      "techflowpost.com": 1
+      "ebc.com": 2,
+      "creaders.net": 2,
+      "futunn.com": 2,
+      "tradingkey.com": 1,
+      "newswav.com": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 9,
-    "relaxed_72h": 13,
+    "fresh1_24h": 13,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "A股：不必等周五开盘了，股市已经有变化，明天很可能这样走了！",
+      "t": "KEEP(03650)9月11日斥资14.39万港元回购10万股_股市直播_市场",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "9月11日券商今日金股：8份研报力推一股（名单）_股市要闻_市场",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "长城基金赵凤飞：市场或更趋均衡，重点关注三大方向",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "A股：不必等下周股市开盘，市场动向已明显，下周一将毫无意外",
       "d": "163.com"
     },
     {
-      "t": "万里印刷(08385)转仓市值总计94.48万港元占比9.33% 从圣衡金融控股",
-      "d": "cnfol.com"
+      "t": "A股：今天加速调整，行情没有意外了，下周很可能这样走",
+      "d": "163.com"
     },
     {
-      "t": "摩根大通(JPM.US)迈向1万亿美元市值，竞争对手美银高呼：依然很便宜！_股市",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "沃什鹰派表态扰动预期，路透调查降息预期下滑，市场紧盯11日美国CPI数据",
+      "t": "美联储9月加不加息，关键数据11日揭晓 特朗普时隔4月施压美联储：做一回爱国者",
       "d": "sohu.com"
     },
     {
-      "t": "三大利空全失效！美联储加息都压不住，金价8月暴涨9.6%，最大买盘终于浮出水面，",
-      "d": "sohu.com"
-    },
-    {
-      "t": "美高梅中国(02282)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "圆桌对话丨港股何时迎来大行情？上市公司高管、资管人士共论估值提升、南向资金与AI",
-      "d": "nbd.com.cn"
+      "t": "港股收评：恒指、恒科齐跌；CPO概念股走强，硬件设备上涨，有色金属、房地产、半导",
+      "d": "eastmoney.com"
     }
   ]
 }

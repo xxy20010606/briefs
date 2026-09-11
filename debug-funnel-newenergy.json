@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 77,
-    "trusted": 8,
+    "raw_dedup_junk": 89,
+    "trusted": 22,
     "non_trusted_top": {
-      "sina.com.cn": 22,
-      "autohome.com.cn": 16,
-      "sina.cn": 11,
-      "pedaily.cn": 2,
-      "jrj.com.cn": 2,
-      "guandian.cn": 1,
-      "ne21.com": 1,
-      "ofweek.com": 1,
-      "moomoo.com": 1,
-      "ideesz.com": 1
+      "autohome.com.cn": 15,
+      "sina.com.cn": 14,
+      "in-en.com": 7,
+      "sina.cn": 4,
+      "wedoany.com": 2,
+      "solarzoom.com": 2,
+      "seetao.com": 2,
+      "52hrtt.com": 2,
+      "bitauto.com": 2,
+      "stockstar.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 2,
-    "relaxed_72h": 5,
+    "fresh1_24h": 22,
+    "page_fresh": 21,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "都说增程是过渡技术，这两家一出手，战局扭转，友商：他们耍我啊",
-      "d": "ifeng.com"
+      "t": "厦门发布“十五五”战略性新兴产业规划，新能源目标2030年规模突破3000亿元",
+      "d": "huxiu.com"
     },
     {
-      "t": "涉及订单超10GWh！华为等签重磅合作",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "光伏装机首超煤电、储能景气延续，南方基金旗下新能源ETF南方(516160)跟踪",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "120亿新能源基金设立！投资运营期风、光、储资产",
+      "t": "总投资9亿！华电中选宁夏200MW绿电直连项目",
       "d": "sohu.com"
     },
     {
-      "t": "江苏金湖：绿电生金“风光”无限#",
-      "d": "ifeng.com"
+      "t": "20 MWh储能“藏”进光伏板下！思格为德国光储电站带来增效新解法",
+      "d": "solarbe.com"
     },
     {
-      "t": "【碳酸锂】悲观情绪修正带动锂价回升",
-      "d": "10jqka.com.cn"
+      "t": "思格2026欧洲日｜携手全球伙伴，共话工商业与大型储能新机遇",
+      "d": "sohu.com"
     },
     {
-      "t": "电驱万物启新程 融合共生向未来——从2026世界动力电池大会看产业发展新方向",
-      "d": "cri.cn"
+      "t": "储能13项入选！重大技术装备清单发布",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "市场普跌成长板块回调，南方基金旗下新能源ETF南方(516160)跟踪标的指数中",
+      "d": "cls.cn"
+    },
+    {
+      "t": "河北新型储能电站 赋能绿色低碳发展",
+      "d": "gmw.cn"
     }
   ]
 }

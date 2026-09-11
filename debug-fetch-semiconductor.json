@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 59,
+  "total": 48,
   "samples": [
     {
-      "title": "科创芯片设计ETF浦银标的指数近1年涨34.08%",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTXBEM1JiZG9GUVRwRGlxbkhSS2xNTEpHVmtSOG9WYVhDWVdxT000OHE5SHRsT1N6UHBhNnRYLVVWVzRMa2poOVY",
+      "title": "三大封测厂上半年利润增速与毛利率分化 先进封装卡位影响未来格局",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uVDRaYzBCc19sOVFYYUl0MmJYY0k3NGYyV1l2SExLaFVlZTVJMVV5NTFFQXBxRmpCa2VfYnNsMmxZTkkzN1BqSGF",
       "source_url": "https://cj.sina.cn",
       "source": "cj.sina.cn"
     },
     {
-      "title": "深科技，18.5亿元加码高端存储芯片封测",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3aXFzVk9FQ2gyYi1TQTJEYmVUUVpZVnVlUDF2aVdJcXNOOGQxSFNQMUQ5emcwc1lrQ2ZkVUdqY2pobVAxeVRaN3B",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "三星4nm制程满负荷运转 过半产能已分配给HBM4",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xUGdKcHdBTmJLbGxDWHd4eVR1Y21lTzBzMDBRZFYtZU1WRkZ0NTVWRVU4WW9qTFQ1dnBaQWlaVWRCRkcyM2FwZQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "10亿重仓玻璃基板！沃格光电NPO光通讯路线浮出水面：计划2027率先实现量产",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUENMTkdhamZvd2VfNWJmQlBnTEwzMGhpSDlvTEZqUjdQVlJRc2VzOFNudHlDajZpUGJ6NDdGblVSNVBRMVA0TnU",
+      "title": "传台积电计划到2028年将CoWoS先进封装产能再翻倍",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMkJuWmJDdEpvcVRhcUp6SUlFdU5zc25ya0dDX0VOdmQzNVFKc0Z2U0xKYWd4dEFBenY1ZzZUdVczLWxvQ241UlZ",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "高盛：存储芯片行业下行周期最糟糕阶段或已结束",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1QnB5VGkxbkptRzRWLTNoLTVZTWtEdmRySm1aWEdNOVQxZHpqT3dsSW1NZTBEUmF0NlFiMS05N1FUUVpPbGJUWmN",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
+      "title": "NASA首席科学家回国创业！“氮化镓女王”二次出手：杀入光芯片",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01cGg4SjZIREJGM0FNdmtSTmlxX1IwejAwMmZXSHhPTjVndkU3eDJsanF6WFJpM2xFdTBrMzAySUlqLXFWTmpKb2l",
+      "source_url": "http://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "芯聚张江，致远未来 | IDAS 2026设计自动化产业峰会圆满落幕",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80bEFBbW03d3gxeV9DeEt3bTBqaW9ZMW1NTXNiMVJBTmZfczVzb0U2ZWlLV2E0QjlNTUZ1Zk1xU2xzS1pQb1VrUkJ",
-      "source_url": "https://www.eet-china.com",
-      "source": "eet-china.com"
+      "title": "重大资产重组！605303，要买存储芯片公司",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42Sm8wMjM0VlRmLTE4N3JJQmVNVE11czM5RW93c056QXM2VXV3LTdOOVRiR2hCYzhwQVZiUFhoX2I1dzZfVnNWZDF",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "60亿元投资平台落地，无锡加码半导体扩产",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tNEI0TVhwUHJzWHloN25MWGxSS0F4R2hWNm1tcHdrR1U4ZDJnaFlSLXRubFdib05JczZKSEtQaFJIa1NnSVZtXw?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "韩国券商警告：三星电子和SK海力士内存库存降至不足10天供应量",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uZHFDNU9JVURVS1F4WmVFWTZndGRtbDNrcXdKYnhPQmVDYVY3RHotVjJ4RDBQWXpFNVZmT3EtLWVERWZZbWx1Xw?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }
