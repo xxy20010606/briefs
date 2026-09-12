@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 117,
-    "trusted": 23,
+    "raw_dedup_junk": 95,
+    "trusted": 20,
     "non_trusted_top": {
-      "ttplus.cn": 32,
-      "sina.cn": 20,
-      "sina.com.cn": 6,
-      "vietnam.vn": 5,
-      "weibo.com": 3,
-      "yzwb.net": 3,
-      "china.com": 3,
-      "voc.com.cn": 2,
-      "ajudaily.com": 1,
-      "360.com": 1
+      "ttplus.cn": 33,
+      "sina.cn": 9,
+      "sina.com.cn": 7,
+      "china.com": 4,
+      "bjd.com.cn": 3,
+      "workercn.cn": 2,
+      "westca.com": 1,
+      "shangbaoindonesia.com": 1,
+      "vietnam.vn": 1,
+      "ajudaily.com": 1
     },
-    "fresh1_24h": 23,
-    "page_fresh": 23,
+    "fresh1_24h": 17,
+    "page_fresh": 7,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "票房突破19亿！国产动画电影《八仙！》二次延期：国庆可看",
+      "t": "周星驰导演电影票房突破80亿元",
       "d": "sohu.com"
     },
     {
-      "t": "一天票房只有零元，全是一星差评，九月份最惨电影诞生了",
-      "d": "sohu.com"
+      "t": "90万一集的AI长剧，凭什么让芒果市值五天暴涨133亿",
+      "d": "ifeng.com"
     },
     {
-      "t": "大司马直播间办LOL比赛再现10万加人气后，LOL回手掏杯总冠军诞生",
-      "d": "163.com"
+      "t": "征片数量创历史新高第十三届丝绸之路国际电影节即将在西安启幕- 中国日报网",
+      "d": "chinadaily.com.cn"
     },
     {
-      "t": "小猪佩奇首部三维动画电影《小猪佩奇·完美假期》定档国庆上映",
+      "t": "2026深圳“一带一路”国际音乐季启幕",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "《欢迎来到龙餐馆》海外热映 高校教师“英文译制”中国故事",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "75岁周星驰御用配角在线求职，喊话景区：“叫我演什么我都可以”",
       "d": "ifeng.com"
     },
     {
       "t": "微短剧：生活加速与情感追求",
       "d": "gmw.cn"
-    },
-    {
-      "t": "张国荣纪念展香港开幕 珍贵照片重现流行文化经典",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "专访易中天：AI时代，创作者更需坚持创造力与审美品位",
-      "d": "chinanews.com.cn"
     }
   ]
 }

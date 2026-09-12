@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 89,
-    "trusted": 13,
+    "raw_dedup_junk": 90,
+    "trusted": 22,
     "non_trusted_top": {
-      "sina.com.cn": 25,
-      "sina.cn": 21,
-      "ttplus.cn": 7,
-      "moomoo.com": 5,
-      "vietnam.vn": 4,
-      "ebc.com": 2,
-      "creaders.net": 2,
-      "futunn.com": 2,
+      "sina.cn": 23,
+      "sina.com.cn": 15,
+      "ttplus.cn": 10,
+      "futunn.com": 5,
+      "moomoo.com": 2,
+      "atvnewsonline.com": 1,
+      "cnfin.com": 1,
       "tradingkey.com": 1,
-      "newswav.com": 1
+      "newswav.com": 1,
+      "mycaijing.com": 1
     },
     "fresh1_24h": 13,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
+    "page_fresh": 5,
+    "relaxed_72h": 14,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "KEEP(03650)9月11日斥资14.39万港元回购10万股_股市直播_市场",
+      "t": "标普500冲击8000点卡壳！美股多头苦寻“神秘催化剂”_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "9月11日券商今日金股：8份研报力推一股（名单）_股市要闻_市场",
+      "t": "马伟：沃什的美联储",
+      "d": "sohu.com"
+    },
+    {
+      "t": "现在美国是两头都为难。这边欧洲昨天已经加息了，马上日本也要加息",
+      "d": "sohu.com"
+    },
+    {
+      "t": "华尔街16家机构押注美联储9月加息",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "美股异动| 黄金股盘初走高哈莫尼黄金(HMY.US)涨超3%_股市直播_市场",
       "d": "cnfol.com"
+    },
+    {
+      "t": "【环球财经】东京股市下跌 日经225指数跌1.93%",
+      "d": "21jingji.com"
     },
     {
       "t": "长城基金赵凤飞：市场或更趋均衡，重点关注三大方向",
       "d": "10jqka.com.cn"
-    },
-    {
-      "t": "A股：不必等下周股市开盘，市场动向已明显，下周一将毫无意外",
-      "d": "163.com"
-    },
-    {
-      "t": "A股：今天加速调整，行情没有意外了，下周很可能这样走",
-      "d": "163.com"
-    },
-    {
-      "t": "美联储9月加不加息，关键数据11日揭晓 特朗普时隔4月施压美联储：做一回爱国者",
-      "d": "sohu.com"
-    },
-    {
-      "t": "港股收评：恒指、恒科齐跌；CPO概念股走强，硬件设备上涨，有色金属、房地产、半导",
-      "d": "eastmoney.com"
     }
   ]
 }

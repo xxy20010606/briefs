@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 63,
-    "trusted": 18,
+    "raw_dedup_junk": 72,
+    "trusted": 20,
     "non_trusted_top": {
-      "sina.com.cn": 12,
-      "sina.cn": 10,
-      "jimo.studio": 3,
-      "ac.cn": 2,
+      "sina.com.cn": 11,
+      "ttplus.cn": 8,
+      "sina.cn": 7,
+      "csdn.net": 3,
+      "mydrivers.com": 2,
+      "jingjiribao.cn": 2,
       "china.com": 2,
-      "gz-cmc.com": 1,
-      "cqnews.net": 1,
-      "dahecube.com": 1,
-      "ttplus.cn": 1,
-      "zjol.com.cn": 1
+      "shkjb.com": 1,
+      "mrjjxw.com": 1,
+      "ageclub.net": 1
     },
-    "fresh1_24h": 18,
-    "page_fresh": 17,
+    "fresh1_24h": 19,
+    "page_fresh": 13,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
+      "t": "绕过大模型安全限制，胡塞武装使用AI Claude制造弹道导弹",
+      "d": "sohu.com"
+    },
+    {
+      "t": "大模型2100年的终极形态",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "北京通管局召开人工智能企业座谈会 部署融合创新发展 北京通管局召开人工智能企业座",
+      "d": "sohu.com"
+    },
+    {
+      "t": "科大讯飞一项案例，入选国家关键领域语言科技赋能创新项目名单",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "陶哲轩、邓煜等菲尔兹奖得主“开炮”：AI正毁掉数学",
+      "d": "zhidx.com"
+    },
+    {
       "t": "好评中国丨AI赋能场景焕新 “中国服务”向新而行",
-      "d": "sohu.com"
+      "d": "cnr.cn"
     },
     {
-      "t": "AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness ",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "以青年力量拓疆探源 让科创走向更远的地方",
-      "d": "sohu.com"
-    },
-    {
-      "t": "美国指控中国AI企业工业规模蒸馏模型，商务部驳斥称于事无凭于法无据",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "让智能体拥有自己的语言，蚂蚁密算开源可信原生智能体HOP 3.0",
-      "d": "bjnews.com.cn"
-    },
-    {
-      "t": "奇富科技“一横N纵”AI矩阵 助推金融业从智力走向智能",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "20万、30万、50万……互联网大厂加码AI奖学金",
-      "d": "jiemian.com"
+      "t": "陶哲轩带头掀桌！25位菲尔兹奖得主联合发声怒批AI刷榜：扼杀数学以及全人类的智力",
+      "d": "qq.com"
     }
   ]
 }

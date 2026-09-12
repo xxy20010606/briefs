@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 64,
+  "total": 74,
   "samples": [
     {
-      "title": "好评中国丨AI赋能场景焕新 “中国服务”向新而行",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWjBlUzJHbVh3OHZMell1cFUzOFAwemJLR0U0QVNDZVBwU210d2dhMnBOa0JILW5QSGNqcUYzeGp5TWxYT3RKWHl",
+      "title": "关于AI，陶哲轩等25位菲尔兹奖得主发出警告",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUs1M1FiUWNCOWRpV2ZSUEwxQUtGLUx3Sm5qQ0Y2Tlc3RFRtMEpTT3h5MnNIZkt5dUozSWhreC1pSnFxMmlpdTR",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "绕过大模型安全限制，胡塞武装使用AI Claude制造弹道导弹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcEotc2FSSUVELXoxOVZxejlpTDN1RG9qQmlLSERpUFlBOFVNNXZZcnFhXzdLdHU1eXJmZUFfdU5vYlhvcFJmSzM",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness 工程实践",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ITTBsdW45VDY2aEJabEdkeF9yVk00c1VwUFlYb0pvLTRzZjNETkczLXdoU1BfSzQ5XzdCQ3prUGh0bEwwUFdMa00",
-      "source_url": "https://www.infoq.cn",
-      "source": "infoq.cn"
+      "title": "以青年力量拓疆探源 让科创走向更远地方",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yRHAtZmRYQWhwT0tjMGdITDRCdEcwTDNzRDZyNXpkdnBWTzJjRHAyNlNGNk5Lb3ZCNG93Yi1PT1RleXVNczFfalk",
+      "source_url": "https://www.shkjb.com",
+      "source": "shkjb.com"
     },
     {
-      "title": "深圳再添两个“人才班”",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnRsSEtxSzVNZHFCUnZIaTFlV0dIS3lPY1B4U3Rnd0pkaHRkS3dkRVJTb0dtQVI3cW54c1dOaFJYR1VlQU1HV01",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
+      "title": "大模型2100年的终极形态",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82SDFNdUtqWDhCQ2ZWMUpyZDUwbThGTWJLZ1hCeXdOaFhCTnBNVWVPSkpTUnZUM1ZZeTFJU3M3dm15VmVjSTZaOUF",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "以青年力量拓疆探源 让科创走向更远的地方",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlgySmVqSDVZTmhlYXVtaHlmWmJ2c1JHSWV5clRHVUlFMTRoUV9Ed1M2RmItZEhmVEhQWmhPZFY3Zzd5QWtmRTZ",
+      "title": "北京通管局召开人工智能企业座谈会 部署融合创新发展 北京通管局召开人工智能企业座谈会 部署融合创新发",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUDJTeU9Gbm9qazFYWi01RzhMT1V1VUtNMFJWTmc0RWowQmFOOHpIQWdkVGc0aHZjNjkxbmg2VlBfaFdQazhGbFp",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "国产算力闪耀央视外滩大会之夜！壁仞科技“训”出音乐大模型，携手擎朗机器人演绎全自研开场秀",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnNLTTBVMy1zT3dHNEgtdGczbW1LT05MdkJnNExkTkp5U0FGdjZ1Ni0zVzBRejlwd050bTlPbHc5VFJZbS01QTQ",
+      "title": "月之暗面：已报案",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjFKYkVVam1YeTdmSlIxODBaSG0tWDhYd1hHYmk1YzM2SzhldURnaE1RclNTUkJ1ZXh1ZHg5VTE1bWpRTTVTbkd",
       "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
-    },
-    {
-      "title": "工信部发布AI+软件实施方案 智能体软件迎来规模化落地",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMk9OMWN3OS1zRm92SWNKRDhGNWRkWlVsRklwdGlCXzFnaXRMZlQtaFZnV3VlYVczRjdjOFFUUHNaV0FHUkdiUml",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
+      "source": "新浪财经"
     }
   ]
 }

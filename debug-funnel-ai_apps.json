@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 77,
-    "trusted": 18,
+    "raw_dedup_junk": 64,
+    "trusted": 12,
     "non_trusted_top": {
-      "ttplus.cn": 14,
-      "sina.cn": 9,
-      "sina.com.cn": 6,
-      "china.com": 4,
-      "unite.ai": 3,
-      "aibase.com": 2,
-      "yzwb.net": 2,
-      "cyzone.cn": 2,
-      "moomoo.com": 2,
-      "quasa.io": 1
+      "ttplus.cn": 21,
+      "sina.com.cn": 5,
+      "sina.cn": 5,
+      "unite.ai": 4,
+      "china.com": 2,
+      "epochtimes.com": 1,
+      "quasa.io": 1,
+      "pasqualepillitteri.it": 1,
+      "yellow.com": 1,
+      "tikr.com": 1
     },
-    "fresh1_24h": 18,
-    "page_fresh": 14,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 6,
+    "relaxed_72h": 4,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
+    {
+      "t": "原力波官宣亮相威尼斯电影节 科技助力中国电影走向世界舞台",
+      "d": "sohu.com"
+    },
+    {
+      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+      "d": "36kr.com"
+    },
     {
       "t": "AI移动应用2026年7月洞察：月活重回增长，陪伴类升温、教育类放量",
       "d": "36kr.com"
     },
     {
-      "t": "估值回到历史低位！人工智能赛道能否迎来“性价比”时刻？科创创业人工智能ETF景顺",
-      "d": "cnfol.com"
+      "t": "抖音即将“上架”AI应用，大厂抢滩下一代分发入口",
+      "d": "36kr.com"
     },
     {
-      "t": "AI 赋能企业数字化升级，彩讯打造企业级智能体一体化代表性方案",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "2026热门AI雅思口语APP横评：必备Top7，首推咕噜口语，纠音天花板，闭眼",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "OpenAI Agents API开放公测，为开发者提供云端智能体基础设施",
+      "t": "从“造出来”到“卖出去”：海智智造带中国创客走进土耳其真实市场",
       "d": "sohu.com"
     },
     {
-      "t": "高通钱堃：AI从回答问题的工具变成能够协同人们做事的智能伙伴",
-      "d": "bjnews.com.cn"
+      "t": "讯飞AI眼镜接入蚂蚁灵影AOS ，从“AI工具”跃升为城市生活新入口",
+      "d": "sohu.com"
     },
     {
-      "t": "早报｜iPhone Duo提前开炒，最高有人挂到9.9万/人人影视回归约10天再",
-      "d": "ifanr.com"
+      "t": "让AI能“想”会“做”，深圳先进院打造 “双模型协作”材料创制智能体",
+      "d": "cnr.cn"
     }
   ]
 }

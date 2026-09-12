@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 89,
-    "trusted": 22,
+    "raw_dedup_junk": 77,
+    "trusted": 15,
     "non_trusted_top": {
-      "autohome.com.cn": 15,
-      "sina.com.cn": 14,
-      "in-en.com": 7,
-      "sina.cn": 4,
-      "wedoany.com": 2,
-      "solarzoom.com": 2,
-      "seetao.com": 2,
-      "52hrtt.com": 2,
+      "autohome.com.cn": 20,
+      "sina.com.cn": 16,
+      "sina.cn": 5,
+      "wedoany.com": 4,
+      "in-en.com": 3,
+      "stockstar.com": 2,
       "bitauto.com": 2,
-      "stockstar.com": 1
+      "pedaily.cn": 1,
+      "hebccw.cn": 1,
+      "hepingribao.id": 1
     },
-    "fresh1_24h": 22,
-    "page_fresh": 21,
+    "fresh1_24h": 13,
+    "page_fresh": 7,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "厦门发布“十五五”战略性新兴产业规划，新能源目标2030年规模突破3000亿元",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "总投资9亿！华电中选宁夏200MW绿电直连项目",
+      "t": "4年新增5.7GW！中东光伏大国装机提速",
       "d": "sohu.com"
     },
     {
-      "t": "20 MWh储能“藏”进光伏板下！思格为德国光储电站带来增效新解法",
+      "t": "能源转型加速，为何独立储能成为电网刚需？",
       "d": "solarbe.com"
     },
     {
-      "t": "思格2026欧洲日｜携手全球伙伴，共话工商业与大型储能新机遇",
+      "t": "固德威与快卜新能源达成战略合作，共塑源网荷储智新范式",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "上半年营收增速仅3%，公牛集团首次并购新能源企业寻找第二曲线，海外渠道成最大看点",
       "d": "sohu.com"
     },
     {
-      "t": "储能13项入选！重大技术装备清单发布",
+      "t": "辟谣背后：二代刀片电池产能爬坡，解读比亚迪闪充订单真相",
       "d": "eet-china.com"
     },
     {
-      "t": "市场普跌成长板块回调，南方基金旗下新能源ETF南方(516160)跟踪标的指数中",
-      "d": "cls.cn"
+      "t": "只算硬件成本走不通，钠电户储出海欧洲要跨过几道关",
+      "d": "eet-china.com"
     },
     {
-      "t": "河北新型储能电站 赋能绿色低碳发展",
-      "d": "gmw.cn"
+      "t": "双轮驱动，正力新能的产能红利刚刚开场",
+      "d": "cnfol.com"
     }
   ]
 }

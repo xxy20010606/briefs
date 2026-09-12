@@ -1,7 +1,31 @@
 {
   "type": "ai_apps",
-  "total": 79,
+  "total": 64,
   "samples": [
+    {
+      "title": "原力波官宣亮相威尼斯电影节 科技助力中国电影走向世界舞台",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPckhpRi1jS19RZ2hIb084b0FCVm5qVk5GeUtwUlNfZkVneV9zcXQ0QzkzeHJwVXl0ZzNIb09uTlY0MngwazlyeDJ",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "AI算力架构迈向端-边-云协同，联想携手IDC发布《AI主机》白皮书",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xQnQwam5YTlZ3Q1k1Y0dudmsxbG5oWEpTczdGR3V0aFR3VGRGWnB4QWRIby1kbWN2eThLZUVyZEhzQlVCQ1VYa0J",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "專家：通用AI工具讓買家盲目自信忽視風險",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lU3FiRzZidzhCT2ozdHJHMXNLRkZYRE15UkJXN21pTDlMcWlHZmhmbFl6cWZJSzV0cXlob3d0X1h4RHZiTlV2dE9",
+      "source_url": "https://www.epochtimes.com",
+      "source": "大纪元"
+    },
+    {
+      "title": "澳彩官方网站下载2024获行业权威认证：从工具到生态枢纽的范式跃迁",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GVHhRTklFVGJHb3ZwcHFuSjdDOG8wa0t3OVUwTmhkX0c2LXNaVWhCTFFhV29EOThaRTZlWkxkTE5lcUs1eWdybWt",
+      "source_url": "https://www.ttplus.cn",
+      "source": "体坛加"
+    },
     {
       "title": "HiddenLayer融资1亿美元，押注AI代理运行时安全",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXhNRE9JVmFwRjE3M3hkazRIREdxV2ViZG5nOXUwWjJaRm9QcUdwemhNTVZwNVNpdnBKVE05Z0dubmVOZVVYdTV",
@@ -9,34 +33,10 @@
       "source": "quasa.io"
     },
     {
-      "title": "AI算力架构迈向端-边-云协同，联想携手IDC发布《AI主机》白皮书",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGZEJUcVdCaHhpSTZaSUp3ejVyaTBiVXphZDRURDRJYm9HcVBtVDQ1c1REbERhZmhfSlBqT1o2RW5GakhqNmE0ZDY",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "Emochi，对标 Character.AI 的动漫 AI 角色聊天应用",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcEs2dHd3N2Jrb09wMDl6b2JUVzZGemZiSloxUkdpbFZsRVBmeDRpbUVsVWVLYmdBc1NudlAxd01Gek9xc25VZXF",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "这个事务所，税务师自己动手做AI工具",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGtBNDVHbXlVX2gtbzBraVppdFJIbERwX2Z3VzY2S0p0X1FUVlJGMDJqRmZsYkg1MDdqd3FFSWc3X18wMzNrMEp",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
-    },
-    {
-      "title": "Reggie Scales，Vonage 应用业务部门总裁兼负责人 – 访谈系列",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUnZsNEpjVW9aT20wdE5oT3hnT0l4OEFwVWpfblkzV2FNU0JyYnhtWHVOdHZVVFh6ZGpYVnZ4Rm9TcTR5bl8zXzV",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "Owkin 将 K Pro 与患者数据授权给 Servier 用于肿瘤学研究",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzB2U1drRS1iVkU2bFc1U2N2SW9OdzZIQVhleUZKVHFDbzRfXzNqcUdadjk2SkZjUU9ZS2g3dW9XaUx3VUpCbkZ",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "智驭交通·未来之路：金博体育app官方“AIR+交通”专场活动成功举办",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pX3ZMUDNUSjRCdG5uTHNmdUp3YUN4UC1raHE0alBCc2dMTHZkSzNxcmtlNWptYXo1cVgxUUtfNnVTR214aGNPWG9",
+      "source_url": "https://www.ttplus.cn",
+      "source": "体坛加"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 48,
-    "trusted": 18,
+    "raw_dedup_junk": 51,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "sina.cn": 4,
-      "gsi24.com": 4,
-      "china.com": 3,
-      "vietnam.vn": 2,
-      "zol.com.cn": 1,
-      "ofweek.com": 1,
-      "eastmoney.com": 1,
-      "ttplus.cn": 1,
-      "indexbox.io": 1
+      "sina.cn": 5,
+      "ttplus.cn": 5,
+      "sina.com.cn": 4,
+      "stockstar.com": 4,
+      "vietnam.vn": 3,
+      "asiae.co.kr": 2,
+      "fx168news.com": 2,
+      "indexbox.io": 2,
+      "tradingkey.com": 1,
+      "mrjjxw.com": 1
     },
-    "fresh1_24h": 18,
-    "page_fresh": 15,
+    "fresh1_24h": 16,
+    "page_fresh": 9,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
+      "t": "心所往·光所至丨长光华芯三款高速光通信激光芯片重磅发布，助力AI算力高速互连！",
+      "d": "iccsz.com"
+    },
+    {
+      "t": "CIOE2026 圆满收官｜鸿芯微组深耕微组装，现场交流火热，聚力国产光电装备创",
+      "d": "iccsz.com"
+    },
+    {
+      "t": "日本芯片公司，拟在月球建厂",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "2026年中国AI芯片发展趋势报告：国产 AI 芯片，从可用走向实战",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "无锡高新区：一条完整芯片链，撑起全国第二",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "园林股份加码半导体业务 拟并购一家存储芯片公司",
+      "d": "eastmoney.com"
+    },
+    {
       "t": "传台积电计划到2028年将CoWoS先进封装产能再翻倍",
       "d": "sohu.com"
-    },
-    {
-      "t": "60亿元投资平台落地，无锡加码半导体扩产",
-      "d": "cls.cn"
-    },
-    {
-      "t": "说长鑫存储“造4个芯片报废3个”，韩国媒体破防了？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "翱捷科技递表港交所 蜂窝连接芯片出货量排名全球第一",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "21:45:21【费城半导体指数涨幅扩大至2%】",
-      "d": "cls.cn"
-    },
-    {
-      "t": "人形机器人“关节”正在芯片化：极海半导体押注驱控一体化",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "极海荣获2026年度硬核芯两项大奖",
-      "d": "eet-china.com"
     }
   ]
 }
