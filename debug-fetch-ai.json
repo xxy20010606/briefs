@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 74,
+  "total": 79,
   "samples": [
     {
-      "title": "关于AI，陶哲轩等25位菲尔兹奖得主发出警告",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUs1M1FiUWNCOWRpV2ZSUEwxQUtGLUx3Sm5qQ0Y2Tlc3RFRtMEpTT3h5MnNIZkt5dUozSWhreC1pSnFxMmlpdTR",
+      "title": "AI开启服务贸易数智新范式",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04WHRKQUpla1hnWklpZG9sZTV2S1Q5VzE5QmRQNEdHaEtQZUt3YmUtR0Q1YXMwN1hfa2FXNnRwWmYxSkRJMVRFSWF",
       "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "source": "k.sina.com.cn"
     },
     {
-      "title": "绕过大模型安全限制，胡塞武装使用AI Claude制造弹道导弹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcEotc2FSSUVELXoxOVZxejlpTDN1RG9qQmlLSERpUFlBOFVNNXZZcnFhXzdLdHU1eXJmZUFfdU5vYlhvcFJmSzM",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
-    },
-    {
-      "title": "以青年力量拓疆探源 让科创走向更远地方",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yRHAtZmRYQWhwT0tjMGdITDRCdEcwTDNzRDZyNXpkdnBWTzJjRHAyNlNGNk5Lb3ZCNG93Yi1PT1RleXVNczFfalk",
-      "source_url": "https://www.shkjb.com",
-      "source": "shkjb.com"
-    },
-    {
-      "title": "大模型2100年的终极形态",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82SDFNdUtqWDhCQ2ZWMUpyZDUwbThGTWJLZ1hCeXdOaFhCTnBNVWVPSkpTUnZUM1ZZeTFJU3M3dm15VmVjSTZaOUF",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
-    },
-    {
-      "title": "北京通管局召开人工智能企业座谈会 部署融合创新发展 北京通管局召开人工智能企业座谈会 部署融合创新发",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUDJTeU9Gbm9qazFYWi01RzhMT1V1VUtNMFJWTmc0RWowQmFOOHpIQWdkVGc0aHZjNjkxbmg2VlBfaFdQazhGbFp",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
-    },
-    {
-      "title": "月之暗面：已报案",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjFKYkVVam1YeTdmSlIxODBaSG0tWDhYd1hHYmk1YzM2SzhldURnaE1RclNTUkJ1ZXh1ZHg5VTE1bWpRTTVTbkd",
+      "title": "“AI+建筑”驱动房地产谋新求变",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FdlppM0cteG5HRXprOUtYdUVVcUtQMWNxNHY0VldYaEc5ajZUbms1bkd1UnBxZGhOYUJkUVFrdExsbUN3bWExSVc",
       "source_url": "https://finance.sina.cn",
       "source": "新浪财经"
+    },
+    {
+      "title": "天津大学与凌波智芯共建先进算力互联技术联合实验室",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV1JQdGhiU1pJNnNhRlBidG5TR3l2R0FxRXN2Qld1WFR0SFl3Q1hHYVRWQUd5dUMxWTJxRjdEdzRlTXdzdUt5Rk8",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "AI“军备”竞赛升级 险企数智化走到哪一步了？",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16a1o1X0E1bk9XSUt6ZFgtRjZraDBhdWVEcU5WM1FtaWl3bDh5UHl5OWExN2ZWMEo3QlRoOHRGT2d0bzBYUFVOQkp",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "菲尔兹奖得主陶哲轩、邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkczVjdWY2ppTHBRVTJmdEdwYjk5V1ozamVoeE1jOHVoOTI4TTUzc3VXUVFyQkdVa29OUkZGcFl1Q2FhRzdkSVB",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "AI算力狂飙，光互连升级支撑万卡集群",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xRHRma3lFWmR1MTUyMHF5dU1nZWlkX2tyYVpUTk5Mb3c1QlhQTmlBRlB2RXllVl9IUm9ZUDRTSmIyQXk4Z3NsejB",
+      "source_url": "https://k.sina.com.cn",
+      "source": "k.sina.com.cn"
     }
   ]
 }

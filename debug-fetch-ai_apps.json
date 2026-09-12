@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 64,
+  "total": 60,
   "samples": [
     {
-      "title": "原力波官宣亮相威尼斯电影节 科技助力中国电影走向世界舞台",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPckhpRi1jS19RZ2hIb084b0FCVm5qVk5GeUtwUlNfZkVneV9zcXQ0QzkzeHJwVXl0ZzNIb09uTlY0MngwazlyeDJ",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "人工智能将ESG从成本负担转变为“赚钱”机器。",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQnlvS0lQUnhUdXZXU3lfVDdQOEE2dEhGUFJHMDdxRVFTVVROakJOQ21TeVlNWUxFN3FXUjZqSmtzOGVOaEpNend",
+      "source_url": "https://www.vietnam.vn",
+      "source": "Vietnam.vn"
     },
     {
-      "title": "AI算力架构迈向端-边-云协同，联想携手IDC发布《AI主机》白皮书",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xQnQwam5YTlZ3Q1k1Y0dudmsxbG5oWEpTczdGR3V0aFR3VGRGWnB4QWRIby1kbWN2eThLZUVyZEhzQlVCQ1VYa0J",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "从全民“养龙虾”热潮到大厂AI办公产品爆发 你的“上班搭子”换了吗？",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pTjZsMi1uSHFfUElrM0ppNHlyMEtLTFZ3UHhUYUpLa0NGTERZbTZLLUQxS0FpRE1YM0s4aHVKNnBDQkJ4Z2NxOEV",
+      "source_url": "https://wap.eastmoney.com",
+      "source": "东方财富"
     },
     {
-      "title": "專家：通用AI工具讓買家盲目自信忽視風險",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lU3FiRzZidzhCT2ozdHJHMXNLRkZYRE15UkJXN21pTDlMcWlHZmhmbFl6cWZJSzV0cXlob3d0X1h4RHZiTlV2dE9",
-      "source_url": "https://www.epochtimes.com",
-      "source": "大纪元"
+      "title": "借助人工智能办公应用 Super Office 12，智能便捷。",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLWNjdngzTFQwT0F2ZlYtaUZ0b21vSWgwMkxVMFhRUWRJUWR5cWxGejJYLUJYMnZBZlVya1haSG1pWDBwbklkQ2p",
+      "source_url": "https://www.vietnam.vn",
+      "source": "Vietnam.vn"
     },
     {
-      "title": "澳彩官方网站下载2024获行业权威认证：从工具到生态枢纽的范式跃迁",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GVHhRTklFVGJHb3ZwcHFuSjdDOG8wa0t3OVUwTmhkX0c2LXNaVWhCTFFhV29EOThaRTZlWkxkTE5lcUs1eWdybWt",
-      "source_url": "https://www.ttplus.cn",
-      "source": "体坛加"
+      "title": "AI 的新用法，被这群 Builder 带到了外滩大会开发者日",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uRV9JWWQ4aHM0bGF0MTg3WkhDVXJvNU5LQmVJaFNRNV82Vmc2dVFESEhsVkFJeE1wQzdCU0IwcE5fUWEwYjJFMFZ",
+      "source_url": "https://www.infoq.cn",
+      "source": "InfoQ-CN"
     },
     {
-      "title": "HiddenLayer融资1亿美元，押注AI代理运行时安全",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXhNRE9JVmFwRjE3M3hkazRIREdxV2ViZG5nOXUwWjJaRm9QcUdwemhNTVZwNVNpdnBKVE05Z0dubmVOZVVYdTV",
-      "source_url": "https://quasa.io",
-      "source": "quasa.io"
+      "title": "这位00后，用AI重塑硬件创业工作流丨对话创业投资新势力（06）",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VYndlRTJ5NzZ0SC1XbWFGYnp0bm1jQjJ0bG4wYzk2dGhMNG8yaUJpTTZBSjlkUHRoXzI5Q1cyTWd0LXRXTmlQSGd",
+      "source_url": "https://www.stcn.com",
+      "source": "证券时报"
     },
     {
-      "title": "智驭交通·未来之路：金博体育app官方“AIR+交通”专场活动成功举办",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pX3ZMUDNUSjRCdG5uTHNmdUp3YUN4UC1raHE0alBCc2dMTHZkSzNxcmtlNWptYXo1cVgxUUtfNnVTR214aGNPWG9",
-      "source_url": "https://www.ttplus.cn",
-      "source": "体坛加"
+      "title": "对话百度朱广翔：OPC生态平台仍在亏损，但明年有望转正",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YTGxRY1BpQ0dEMnZUT2ZPVVVUQndrbGdHbURSczlMZHdxVDdUenVrQURMdjdDZjZOLThsUVBXRFhmbUxuaW1Xb3V",
+      "source_url": "https://www.caiwennews.com",
+      "source": "caiwennews.com"
     }
   ]
 }

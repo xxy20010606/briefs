@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 72,
-    "trusted": 20,
+    "raw_dedup_junk": 79,
+    "trusted": 22,
     "non_trusted_top": {
-      "sina.com.cn": 11,
-      "ttplus.cn": 8,
-      "sina.cn": 7,
+      "sina.cn": 14,
+      "sina.com.cn": 13,
+      "jimo.studio": 4,
+      "cnnb.com.cn": 3,
       "csdn.net": 3,
-      "mydrivers.com": 2,
-      "jingjiribao.cn": 2,
-      "china.com": 2,
-      "shkjb.com": 1,
-      "mrjjxw.com": 1,
-      "ageclub.net": 1
+      "ac.cn": 2,
+      "newswav.com": 2,
+      "dw.com": 1,
+      "china.com": 1,
+      "autohome.com.cn": 1
     },
-    "fresh1_24h": 19,
-    "page_fresh": 13,
+    "fresh1_24h": 22,
+    "page_fresh": 21,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "绕过大模型安全限制，胡塞武装使用AI Claude制造弹道导弹",
+      "t": "菲尔兹奖得主陶哲轩、邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
       "d": "sohu.com"
     },
     {
-      "t": "大模型2100年的终极形态",
-      "d": "eet-china.com"
+      "t": "Anthropic指控中国大模型蒸馏：议程陷阱、技术伦理与地缘风险",
+      "d": "huxiu.com"
     },
     {
-      "t": "北京通管局召开人工智能企业座谈会 部署融合创新发展 北京通管局召开人工智能企业座",
+      "t": "人工智能赋能未来产业的十大关键趋势",
       "d": "sohu.com"
     },
     {
-      "t": "科大讯飞一项案例，入选国家关键领域语言科技赋能创新项目名单",
-      "d": "10jqka.com.cn"
+      "t": "专访｜科大讯飞雷琴辉：大模型上车 真正的产业拐点在于主控智能体",
+      "d": "eastmoney.com"
     },
     {
-      "t": "陶哲轩、邓煜等菲尔兹奖得主“开炮”：AI正毁掉数学",
-      "d": "zhidx.com"
+      "t": "日薪千元的AI实习生，在焦虑什么？",
+      "d": "36kr.com"
     },
     {
-      "t": "好评中国丨AI赋能场景焕新 “中国服务”向新而行",
-      "d": "cnr.cn"
+      "t": "从完成任务到自主发现，Agent后训练寻找下一个Scaling Law",
+      "d": "leiphone.com"
     },
     {
-      "t": "陶哲轩带头掀桌！25位菲尔兹奖得主联合发声怒批AI刷榜：扼杀数学以及全人类的智力",
-      "d": "qq.com"
+      "t": "DeepSeek冲刺上市，最全受益板块名单来了",
+      "d": "ifeng.com"
     }
   ]
 }

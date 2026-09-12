@@ -1,37 +1,41 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 77,
-    "trusted": 15,
+    "raw_dedup_junk": 62,
+    "trusted": 9,
     "non_trusted_top": {
-      "autohome.com.cn": 20,
       "sina.com.cn": 16,
-      "sina.cn": 5,
-      "wedoany.com": 4,
-      "in-en.com": 3,
-      "stockstar.com": 2,
-      "bitauto.com": 2,
-      "pedaily.cn": 1,
+      "autohome.com.cn": 14,
+      "sina.cn": 7,
+      "indexbox.io": 3,
+      "wedoany.com": 2,
+      "hepingribao.id": 1,
       "hebccw.cn": 1,
-      "hepingribao.id": 1
+      "stockstar.com": 1,
+      "epochtimes.com": 1,
+      "voi.id": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 7,
+    "fresh1_24h": 9,
+    "page_fresh": 8,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
+      "t": "又一储能电站发生火灾！",
+      "d": "163.com"
+    },
+    {
+      "t": "多维度探寻算电协同新路径",
+      "d": "ce.cn"
+    },
+    {
       "t": "4年新增5.7GW！中东光伏大国装机提速",
       "d": "sohu.com"
     },
     {
       "t": "能源转型加速，为何独立储能成为电网刚需？",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "固德威与快卜新能源达成战略合作，共塑源网荷储智新范式",
       "d": "solarbe.com"
     },
     {
@@ -45,10 +49,6 @@
     {
       "t": "只算硬件成本走不通，钠电户储出海欧洲要跨过几道关",
       "d": "eet-china.com"
-    },
-    {
-      "t": "双轮驱动，正力新能的产能红利刚刚开场",
-      "d": "cnfol.com"
     }
   ]
 }

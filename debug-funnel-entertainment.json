@@ -1,22 +1,22 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 95,
-    "trusted": 20,
+    "raw_dedup_junk": 124,
+    "trusted": 23,
     "non_trusted_top": {
-      "ttplus.cn": 33,
-      "sina.cn": 9,
-      "sina.com.cn": 7,
-      "china.com": 4,
+      "ttplus.cn": 42,
+      "sina.cn": 19,
+      "sina.com.cn": 14,
+      "360.com": 4,
       "bjd.com.cn": 3,
-      "workercn.cn": 2,
-      "westca.com": 1,
-      "shangbaoindonesia.com": 1,
+      "china.com": 2,
+      "66wz.com": 2,
+      "myzaker.com": 2,
       "vietnam.vn": 1,
-      "ajudaily.com": 1
+      "52hrtt.com": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 7,
+    "fresh1_24h": 23,
+    "page_fresh": 21,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
@@ -27,28 +27,28 @@
       "d": "sohu.com"
     },
     {
-      "t": "90万一集的AI长剧，凭什么让芒果市值五天暴涨133亿",
-      "d": "ifeng.com"
+      "t": "身在暗处，心向光明！《醒来》开播，梁洁沈克希解锁一人三面谍战张力",
+      "d": "sohu.com"
     },
     {
-      "t": "征片数量创历史新高第十三届丝绸之路国际电影节即将在西安启幕- 中国日报网",
-      "d": "chinadaily.com.cn"
+      "t": "半个娱乐圈齐捧场！谭松韵新剧开播，秦岚一句小狗子曝光闺蜜真情",
+      "d": "163.com"
     },
     {
-      "t": "2026深圳“一带一路”国际音乐季启幕",
-      "d": "people.com.cn"
+      "t": "时隔20年，《杀死比尔》 终于等到国内院线席位",
+      "d": "huxiu.com"
     },
     {
-      "t": "《欢迎来到龙餐馆》海外热映 高校教师“英文译制”中国故事",
-      "d": "chinanews.com.cn"
+      "t": "【文体市场面面观】一部剧带火一个产业",
+      "d": "ce.cn"
     },
     {
-      "t": "75岁周星驰御用配角在线求职，喊话景区：“叫我演什么我都可以”",
-      "d": "ifeng.com"
+      "t": "第83届威尼斯电影节闭幕 中国VR片获沉浸单元大奖",
+      "d": "news.cn"
     },
     {
-      "t": "微短剧：生活加速与情感追求",
-      "d": "gmw.cn"
+      "t": "第六届平潭IM两岸青年影展颁奖典礼举行",
+      "d": "xinhuanet.com"
     }
   ]
 }

@@ -1,37 +1,45 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 90,
-    "trusted": 22,
+    "raw_dedup_junk": 74,
+    "trusted": 16,
     "non_trusted_top": {
-      "sina.cn": 23,
-      "sina.com.cn": 15,
-      "ttplus.cn": 10,
-      "futunn.com": 5,
-      "moomoo.com": 2,
-      "atvnewsonline.com": 1,
-      "cnfin.com": 1,
-      "tradingkey.com": 1,
-      "newswav.com": 1,
-      "mycaijing.com": 1
+      "sina.com.cn": 20,
+      "sina.cn": 8,
+      "ttplus.cn": 6,
+      "moomoo.com": 5,
+      "enanyang.my": 3,
+      "sinchew.com.my": 2,
+      "vietnam.vn": 1,
+      "cfi.net.cn": 1,
+      "dahecube.com": 1,
+      "litefinance.org": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 5,
-    "relaxed_72h": 14,
+    "fresh1_24h": 16,
+    "page_fresh": 11,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "标普500冲击8000点卡壳！美股多头苦寻“神秘催化剂”_股市直播_市场",
+      "t": "A股：请提前做好准备，种种迹象表明，周一股市会这样走！",
+      "d": "163.com"
+    },
+    {
+      "t": "视频|飞机高铁秒变巨幕影院服贸会见证金融赋能科创力量_股市聚焦_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "马伟：沃什的美联储",
+      "t": "全球市场：美股三大指数集体收涨大型科技股普涨戴尔科技涨近12%_证券要闻",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "加息，第一枪",
       "d": "sohu.com"
     },
     {
-      "t": "现在美国是两头都为难。这边欧洲昨天已经加息了，马上日本也要加息",
+      "t": "马伟：沃什的美联储",
       "d": "sohu.com"
     },
     {
@@ -39,16 +47,8 @@
       "d": "10jqka.com.cn"
     },
     {
-      "t": "美股异动| 黄金股盘初走高哈莫尼黄金(HMY.US)涨超3%_股市直播_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "【环球财经】东京股市下跌 日经225指数跌1.93%",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "长城基金赵凤飞：市场或更趋均衡，重点关注三大方向",
-      "d": "10jqka.com.cn"
+      "t": "美国通胀再超预期！美联储9月加息概率升破85% 市场开始押注年内再加一次",
+      "d": "qq.com"
     }
   ]
 }

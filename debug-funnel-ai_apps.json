@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 64,
-    "trusted": 12,
+    "raw_dedup_junk": 58,
+    "trusted": 15,
     "non_trusted_top": {
-      "ttplus.cn": 21,
+      "ttplus.cn": 17,
       "sina.com.cn": 5,
-      "sina.cn": 5,
-      "unite.ai": 4,
-      "china.com": 2,
-      "epochtimes.com": 1,
-      "quasa.io": 1,
-      "pasqualepillitteri.it": 1,
-      "yellow.com": 1,
-      "tikr.com": 1
+      "vietnam.vn": 3,
+      "sina.cn": 3,
+      "caiwennews.com": 2,
+      "bjd.com.cn": 1,
+      "fx168news.com": 1,
+      "autohome.com.cn": 1,
+      "sciencenet.cn": 1,
+      "shobserver.cn": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 6,
-    "relaxed_72h": 4,
+    "fresh1_24h": 15,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
+    {
+      "t": "从全民“养龙虾”热潮到大厂AI办公产品爆发 你的“上班搭子”换了吗？",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "AI 的新用法，被这群 Builder 带到了外滩大会开发者日",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "这位00后，用AI重塑硬件创业工作流丨对话创业投资新势力（06）",
+      "d": "stcn.com"
+    },
+    {
+      "t": "AI存储成为智能体“第二大脑”：2026中国算力大会热议数据基础设施新范式",
+      "d": "c114.com.cn"
+    },
     {
       "t": "原力波官宣亮相威尼斯电影节 科技助力中国电影走向世界舞台",
       "d": "sohu.com"
     },
     {
-      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "d": "36kr.com"
+      "t": "科大讯飞一项案例，入选国家关键领域语言科技赋能创新项目名单",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "AI移动应用2026年7月洞察：月活重回增长，陪伴类升温、教育类放量",
-      "d": "36kr.com"
-    },
-    {
-      "t": "抖音即将“上架”AI应用，大厂抢滩下一代分发入口",
-      "d": "36kr.com"
-    },
-    {
-      "t": "从“造出来”到“卖出去”：海智智造带中国创客走进土耳其真实市场",
-      "d": "sohu.com"
-    },
-    {
-      "t": "讯飞AI眼镜接入蚂蚁灵影AOS ，从“AI工具”跃升为城市生活新入口",
-      "d": "sohu.com"
-    },
-    {
-      "t": "让AI能“想”会“做”，深圳先进院打造 “双模型协作”材料创制智能体",
-      "d": "cnr.cn"
+      "t": "AI平权的“最后一公里”：鸿沟不只在技术，更在于应用与责任",
+      "d": "thepaper.cn"
     }
   ]
 }
