@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 52,
+  "total": 53,
   "samples": [
     {
-      "title": "含630MW光伏！中能建签约一大型光储项目",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2hDUU5CMUNmOGJnallXdTNLb3J6elV1dWhQVVBGY184OENqV3lrQURiYXNQR05SYXlucVg5a0V4bmVDUjRHN2Z",
+      "title": "探访河北怀来绿色算力集群：算力如何支撑日常数字生活",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SaVJKbXBPS3dDdDNNZkdCVTJLVzA3TGNGejdGVGwxWXliRmg2d0RTY2tKcmc4WWx2RFhRbDJ2d2JhQ0k3ekZXMVh",
+      "source_url": "https://www.thepaper.cn",
+      "source": "thepaper.cn"
+    },
+    {
+      "title": "欧洲电价暴涨6倍，中国科技企业跨界盯上当地阳台",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mY3lTYXA1QUhLUVNIX2t5YUJCWXFNS3pIX2pza3dBMklSZVJPS2VSQjNpdXZQdEUzdzVwd182QkxxYTU1bEhGN2Z",
+      "source_url": "https://www.guancha.cn",
+      "source": "观察者网"
+    },
+    {
+      "title": "阳光电源、科士达等十余家光储企业涨价5%~20%",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ3h4MkdSR0o3VDZuT2ZQMHJUVzh6VmY0RE5zQmVnY2tnXzEyUmtlNkEzMmdBTkxaMUQ3V0JpX0N0WmpHRFVRM2h",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "重要突破！“超级充电宝”上线",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaUpoT1NaVEhZRFZaenhhMmtIRXBpMXlBMnBlWE94dVVka0ZLMFV2ZHUtSWtNMlZpdlk5dkFNejNXQzZjRlFjYmd",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "“富余”的绿电存哪儿？长时储能留住白天的太阳",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01UHZMMXRqcEN5X18wU2Y0NzBId3ZnbDVueVRRSUpkd01oS2pUNWRoaUo0dkdsTkdtNmR6eUVyR250dVpSVFd0UmE",
-      "source_url": "http://china.zjol.com.cn",
-      "source": "china.zjol.com.cn"
-    },
-    {
-      "title": "\"我国超级充电宝硬核突破\"！ 12日，世界最大盐穴压缩空气储能项目两台机组在江苏金坛完成整组启动，标",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcGQxRWJQX3ZGLXU4bllNUmF1d3Y0VGp1TnpnOV80RWdLbWZJTDlfNzBtZmRyXzlTM2t5aTVLcHVWLXhpX3AweUx",
+      "title": "630MW光伏！非洲单体最大光储项目签约",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2tCWEJ2ZDNjLVVBeWVJN0t4X1duS285YmpvSzhreElwWVR5ZVM3cWpYYk1xemVxTWRGZ1VfTDM5dDlhZzdnYjV",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "山东首个！临沂200MW/400MWh储能项目完成全项主动支撑测试",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00RUpyNnd2cFpoNGh3Qmo0cC1tZERoUmdmX2EzNlhIQS1zQkhhbEkzNjllNWtNMGNrWGVKLUpSc3hMSkRueFROdkM",
-      "source_url": "https://mcn.solarbe.com",
-      "source": "碳索储能网"
+      "title": "共铸高质量 智赢高价值｜2026华为智能光储运维大会成功举办",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqaEh0XzFsbTk4Z1RvcHhjQnBHemVGZk9FZjNGUm0tMnlzUERBWDdSaWxqMWtMQVNkRDliQ0t2WF9WSWQzVUFxQzl",
+      "source_url": "https://mtz.china.com",
+      "source": "中华网"
     },
     {
-      "title": "多维度探寻算电协同新路径——算力涨价潮影响与应对④",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Hb1UwNzR0aldhZ1NEOHlydnNRYk9WOW1abWE0cXhkRHJ3OHNIb1lNWVhjdlUwSGtWZFNKdm1qTXZrUnJ5TkdsNmd",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "安徽100MW漂浮式光伏项目并网！",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rbmRiT0ZJWEhtUGszRzNFYUhVTDRUQi1QN0wwaG8zeDBGdF9IdmpzMko1cGloX0dpZ3FZeEsxY0hfdm14VjZRWmk",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     }
   ]
 }

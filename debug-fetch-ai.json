@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 74,
+  "total": 76,
   "samples": [
     {
-      "title": "攻克大模型算力互联关键技术，国产 IBGDA 实现规模化落地",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlaUJSbFJoNFkzOG0zRGlCZzVuMkpVeHVQUURMU1Frd21GOEd3czRrZmVRdW5lb2NqSnpmT0JSajRtdFNoeTlHUGl",
-      "source_url": "http://m.cyol.com",
-      "source": "中青在线"
-    },
-    {
-      "title": "《了不起的概率思维》：豆瓣8.8，从贝叶斯到大语言模型——一本不堆公式的通识书，讲透AI的\"概率大脑",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcFpPbC15NldkWVFyeUdUajU3YTE5UXpUQlBGZ2sxQVZ6RnVWZ2JDLUZoN0JPdnpxd252d2VnU25UMm5rQ2ttTjZ",
+      "title": "当AI拥有“大脑”，谁来守护它？看山东企业布局智能安全",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU3VrZzh3eXBxY0VES3piaUpaNW9pcVRkbVFhcERuSWplc2NBV2wzZ0F6a2F6Wkg4RGRQRmtMTEdFZEhvMUl5Z2Z",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "炮打中国数据中心？A畜们正在深度绑架美国政治",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrVkJyQWNBdk9qNS1tXy1NNVl5VGI1WExZaUVTd0JvNGJLX3BEMXhGRnoyTFRIZXZnTGlFQ29hUE1WWVRMRFBzUXZ",
-      "source_url": "https://user.guancha.cn",
-      "source": "风闻"
+      "title": "用了AI，大厂牛马更累更卷了",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rbjJpVVpXQlNiZVpQcWFDZHB4c2I0Y2ZRMU9BdmhPTVpQaWxxRzlDaDAtbG1odDNmRjNDMFVxZlM2aXpCT21Wc3Z",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
     },
     {
-      "title": "银行Token用哪儿了？这场会成了大型“验牌”现场……",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ha2c3bGV0OHRIX01SRVJ6YjFFZEpWaDQ4TU1CcUtZNVlwN29YV2pzR1lXSUp5ZmRuUTFSdzJsYmo3ZUZENkRBWWx",
-      "source_url": "https://www.bjnews.com.cn",
-      "source": "新京报"
-    },
-    {
-      "title": "北京首个政务大模型应用服务平台发布，赋能首都数字治理升级",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jS0xvVHpZYmVGMW5DVVJmWVFJSHhqZGoxSDhCN1U2Z1NOWUFqd01FYXhhZjMwRUNHbWU5NEZMd21WNVAxQVZtWUR",
-      "source_url": "https://www.sohu.com",
-      "source": "Sohu"
-    },
-    {
-      "title": "50+企业、1500+岗位，外滩大会科技人才招聘会举办",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EX3NuNlE4VV9oYl92RnFVdHR6Q0NxR2RYcVNUV2NsaWFKaTZJUnVGNTJwQjlSLURyc1lONU1EeW11d3NYU2s4ZXV",
+      "title": "成都就发放“词元券”征求意见 年度总额不超过1亿元",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFowMjZpYVR6b0ZKWENMRkpxMzlpOUsybHpEVFFRd1I5T01oRS00c1AyWV90SGJlOXUzNDdnaWV0bXZMWnFGai0",
       "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "“词元贷”给人工智能企业“贷”来什么？（财经深一度·增强金融服务多样性普惠性可及性）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLTWc5eFdMZFZBaE01YlU3UWJacEVCU1hFQ2JjUzRLSVc2aFdIc0tYM3lfVzdCbGl5czFfOUtaYkN5UUZmcW10Smt",
+      "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
+    },
+    {
+      "title": "人工智能算力和数据布局进入太空，为AI智能体提供“地球真值”数据",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SYVpxQnptbzNmNm1rdl90R0xVZmxYWm9IYTdvaVQtOEZfclVjOWlxODI1V1dJb0c0eUJVdktROHhlMEp6a2FMQU9",
+      "source_url": "http://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XYnVMZDRzeUwzU3gyM3d5cUJIdmc0T3pIRDM4VUx2MGkyeU1MbDE1Q1BXUWZpRDlFSm5qSDN4QWxqZi1EQ1JKNA?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }

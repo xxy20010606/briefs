@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 63,
-    "trusted": 13,
+    "raw_dedup_junk": 75,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.com.cn": 18,
-      "ttplus.cn": 9,
-      "sina.cn": 6,
-      "litefinance.org": 3,
-      "vietnam.vn": 3,
-      "moomoo.com": 2,
-      "cacnews.ca": 2,
-      "sinchew.com.my": 2,
+      "sina.com.cn": 29,
+      "sina.cn": 19,
+      "ttplus.cn": 6,
+      "vietnam.vn": 2,
       "fx168news.com": 2,
-      "cfi.net.cn": 1
+      "ajudaily.com": 1,
+      "moomoo.com": 1,
+      "mezha.net": 1,
+      "coindesk.com": 1,
+      "atvnewsonline.com": 1
     },
-    "fresh1_24h": 12,
+    "fresh1_24h": 10,
     "page_fresh": 8,
-    "relaxed_72h": 2,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
+    {
+      "t": "韩国股市放大招，正式开启夜盘，交易延长至晚上8点",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "韩股，周一大变化",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "翰思艾泰－Ｂ(03378.HK)拟配售最多1340万份认股权证初步认购价每股36",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "博雷顿(01333.HK)拟折价16.69%配售不超1660万股最多筹约1.71",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "智谱(02513)拟配售最多2196.5万股新H股及发行本金总额为201.4亿元",
+      "d": "cnfol.com"
+    },
     {
       "t": "ST佳缘连亏1年半2022年上市超募4亿元中信证券保荐_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "大摩：给予Coinbase 250美元目标价_股市直播_市场",
+      "t": "伟时电子上半年转亏A股募10.6亿元IPO国联民生保荐_股市直播_市场",
       "d": "cnfol.com"
-    },
-    {
-      "t": "“炒股”回本，爆仓漫画家苦熬18年，他做对了什么？",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "A股：突发消息来了，若没有意外，明后两天行情或这样走！",
-      "d": "163.com"
-    },
-    {
-      "t": "A股：请提前准备好，行情非常明朗，下周，要迎来更大的上涨了？",
-      "d": "163.com"
-    },
-    {
-      "t": "波司登(03998)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "加息，第一枪",
-      "d": "sohu.com"
     }
   ]
 }

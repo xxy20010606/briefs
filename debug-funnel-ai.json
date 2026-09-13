@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 73,
-    "trusted": 23,
+    "raw_dedup_junk": 76,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.cn": 15,
-      "sina.com.cn": 15,
-      "ttplus.cn": 6,
-      "csdn.net": 2,
-      "zaochenbao.com": 2,
-      "newswav.com": 2,
-      "dahecube.com": 1,
-      "jingjiribao.cn": 1,
-      "icloudnews.net": 1,
-      "eastmoney.com": 1
+      "sina.com.cn": 31,
+      "sina.cn": 16,
+      "ttplus.cn": 4,
+      "doit.com.cn": 3,
+      "cnbeta.com.tw": 1,
+      "voc.com.cn": 1,
+      "guandian.cn": 1,
+      "leidacj.com": 1,
+      "hebtv.com": 1,
+      "mrjjxw.com": 1
     },
-    "fresh1_24h": 23,
-    "page_fresh": 11,
+    "fresh1_24h": 13,
+    "page_fresh": 10,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "攻克大模型算力互联关键技术，国产 IBGDA 实现规模化落地",
-      "d": "cyol.com"
-    },
-    {
-      "t": "《了不起的概率思维》：豆瓣8.8，从贝叶斯到大语言模型——一本不堆公式的通识书，",
+      "t": "当AI拥有“大脑”，谁来守护它？看山东企业布局智能安全",
       "d": "sohu.com"
     },
     {
-      "t": "银行Token用哪儿了？这场会成了大型“验牌”现场……",
-      "d": "bjnews.com.cn"
+      "t": "用了AI，大厂牛马更累更卷了",
+      "d": "ifeng.com"
     },
     {
-      "t": "北京首个政务大模型应用服务平台发布，赋能首都数字治理升级",
+      "t": "摩尔线程牵手京东云建十万卡集群，国产GPU的商业化拐点真的来了",
       "d": "sohu.com"
     },
     {
-      "t": "一句话调动一家银行：金融智能体加速落地，AI银行被重新定义",
-      "d": "yicai.com"
+      "t": "从“制造出海”到“服务扬帆”中国服务迈向全球价值链高端",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "“没想到，这届服贸会数智浓度这么高”",
+      "d": "ce.cn"
+    },
+    {
+      "t": "无安全不智能 无智能不安全——中国电信以全栈安全能力护航智能时代",
+      "d": "c114.com.cn"
     },
     {
       "t": "算力下沉家庭场景 绿联搭建本地AI生态样本",
       "d": "gmw.cn"
-    },
-    {
-      "t": "OpenAI突然收购，500万人Codex，永不下线",
-      "d": "36kr.com"
     }
   ]
 }

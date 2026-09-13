@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 50,
+  "total": 55,
   "samples": [
     {
-      "title": "泛林CFO：AI驱动半导体设备超级周期，洁净室成AI芯片扩产瓶颈",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE02SDk4Nml5eXhkcDNXUUhXYnl2dUlwVnIydlEzejgwMXRvZjdfekpocEFodWtUNVUzRW5uSWdCUlJIbTA?oc=5",
-      "source_url": "http://laoyaoba.com",
-      "source": "集微网"
-    },
-    {
-      "title": "万米深海“原声”、火场“逆行坐标”、芯片“芯中之心”……这场科普演出太硬核了！",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcFI4SEc0LUdFc1Vxd0ZPZ1pPM2RCckoxbkhQUHozWDdjb2VtSFFhMnZCbzVoTWJCZTB6LThLbHBZX1FoZWRRaFg",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "摩根士丹利：资金正从芯片股轮动至AI云服务商 美股短期或难再创新高",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12ZmpfWGJZQ25kUXNudzE5akxfOXJrUHhqcDI3VTVZOW52a29ORmU5cy1sUlF6b0JtWWw5TXpOUklnOWduZmo3Vg?",
-      "source_url": "https://www.cls.cn",
-      "source": "cls.cn"
-    },
-    {
-      "title": "10大核心功率半导体企业",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1walVwVjBrZ2djWWRUWnBENXlyMVFuRC1ZRWJWZlFCa1dfQmhRcnpCdUlTY09MaU9USV8xMHZaMU5iWGtEV3ltUUd",
-      "source_url": "https://caifuhao.eastmoney.com",
-      "source": "caifuhao.eastmoney.com"
-    },
-    {
-      "title": "2.同比狂飙263%！芯联集成首度半年盈利，净利2.78亿的驱动力拆解；",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBMNFc2QUZESWdfY0lZRzRZZjN2Rkxfa1R2ZktieC1ZemIxNDl2ZmVDTFJ2S0VDa3IxTkY5RllaRlAxMkk?oc=5",
-      "source_url": "http://laoyaoba.com",
-      "source": "集微网"
-    },
-    {
       "title": "国产AI芯片大卖，上半年谁真正赚到了钱？",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40aUd4SE5QYnZxMEdOOS1Hb05OWHdpcG9UdG81WVROT1gxbGhsVHFTMzRVZ2FES2wtdlR3VEN3THA1dkJIc3pCajd",
-      "source_url": "https://k.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hVzZUR05jdWtsVXc4VVlHV01HSUxvbnVDT2xfUTMtMFBoOU4yTzBzbVV5Vk8xSEZ4VXNiQlBDVHRzMEM3V0dEeU5",
+      "source_url": "https://m.thepaper.cn",
+      "source": "thepaper.cn"
+    },
+    {
+      "title": "欧冶半导体-工布565 | 申报2026第八届金辑奖最佳技术实践应用奖",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tbDFsS3FUaC1iOXVISlZpV1ctZU9UVzRWeHFoZFVCM2JNcWFLVjE1X3RQRVpnMkdlOHZXZ1JNaHBRUm1QRUg4a1V",
+      "source_url": "https://chejiahao.autohome.com.cn",
+      "source": "车家号"
+    },
+    {
+      "title": "SK海力士暴拉15%，美股芯片股深夜集体大涨，阿里巴巴低开高走，IBM重挫",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VNjc5VEMzZnk2TWl4TWRmalUtMmxCRzdkZFRBOUxOZ1Q3cUVRRW54Mmx4bWZtZXpoU0JNRVQtbnE3LWVfd09XT2R",
+      "source_url": "http://k.sina.com.cn",
       "source": "新浪网"
+    },
+    {
+      "title": "杨德龙：科技龙头股行情依然是未来的投资主线",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOeE9kek83VW51YjRVWWJFQjR5ZnI0cHJISHpYa05KV3dELWtlaDYyR04tVE5UQVB6Ty13YUlQcDFhdVQ4Y3dYVzN",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "AI需求跑赢芯片扩产 戴尔示警2027供应缺口再扩大",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeWVVWklRZEVIOVAzNF9BOWQ1TWgwX0tWMm45UVBNZWxSQmcxWDFPYzU3Z3dNOGZQZmJjdkdhRXdIR0w1MmZ1cnJ",
+      "source_url": "https://gb-www.digitimes.com.tw",
+      "source": "gb-www.digitimes.com.tw"
+    },
+    {
+      "title": "浦江创新论坛发布面向未来的硬核科技成果",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZWUxIUGRUTEhnWHlYU3ZtU3p2WS1aWG9TTXdYN3VaOG0zaFFnVnBTaU9DTmxsVlJUSmZxZ29vT0JyTlh3QkJ2Ym9",
+      "source_url": "https://www.stdaily.com",
+      "source": "中国科技网"
     }
   ]
 }

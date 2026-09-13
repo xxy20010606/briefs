@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 52,
-    "trusted": 12,
+    "raw_dedup_junk": 53,
+    "trusted": 14,
     "non_trusted_top": {
       "autohome.com.cn": 16,
-      "sina.com.cn": 13,
+      "sina.com.cn": 11,
       "sina.cn": 3,
-      "indexbox.io": 2,
+      "china.com": 1,
+      "leidacj.com": 1,
+      "dahecube.com": 1,
+      "52hrtt.com": 1,
       "zjol.com.cn": 1,
-      "wedoany.com": 1,
-      "epochtimes.com": 1,
-      "voi.id": 1,
-      "co.il": 1,
-      "hirohida.com": 1
+      "chnfund.com": 1,
+      "idnfinancials.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 8,
-    "relaxed_72h": 4,
+    "fresh1_24h": 14,
+    "page_fresh": 14,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "含630MW光伏！中能建签约一大型光储项目",
+      "t": "探访河北怀来绿色算力集群：算力如何支撑日常数字生活",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "欧洲电价暴涨6倍，中国科技企业跨界盯上当地阳台",
+      "d": "guancha.cn"
+    },
+    {
+      "t": "阳光电源、科士达等十余家光储企业涨价5%~20%",
       "d": "sohu.com"
     },
     {
-      "t": "\"我国超级充电宝硬核突破\"！ 12日，世界最大盐穴压缩空气储能项目两台机组在江苏",
+      "t": "630MW光伏！非洲单体最大光储项目签约",
       "d": "sohu.com"
+    },
+    {
+      "t": "探索光储直柔、虚拟电厂等模式！山东发布“十五五”公共机构节能降碳方案",
+      "d": "solarbe.com"
     },
     {
       "t": "山东首个！临沂200MW/400MWh储能项目完成全项主动支撑测试",
       "d": "solarbe.com"
     },
     {
-      "t": "阳光电源(300274)2026年中报点评：储能龙头盈利修复AIDC电源商业化落",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "零跑汽车(09863)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "楚能新能源疯狂扩产500GWh 储能新秀面临资金链风险",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "从机器人到光伏储能 中澳经贸合作向新向绿",
-      "d": "eastmoney.com"
+      "t": "比亚迪高管透露：首款固态电池车型明年推出",
+      "d": "eet-china.com"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 17,
+    "raw_dedup_junk": 55,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.com.cn": 9,
-      "tradingkey.com": 3,
-      "asiae.co.kr": 2,
-      "ua.news": 2,
-      "cfi.net.cn": 2,
-      "indexbox.io": 2,
-      "eastmoney.com": 1,
-      "digitaltoday.co.kr": 1,
-      "china.com": 1,
-      "tikr.com": 1
+      "sina.com.cn": 14,
+      "sina.cn": 6,
+      "indexbox.io": 5,
+      "digitimes.com.tw": 3,
+      "pjtime.com": 3,
+      "autohome.com.cn": 1,
+      "fxbaogao.com": 1,
+      "vietnam.vn": 1,
+      "tradingkey.com": 1,
+      "chosun.com": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 7,
-    "relaxed_72h": 2,
+    "fresh1_24h": 14,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "英诺赛科“氮化镓女王”二次出手：杀入光芯片",
-      "d": "sohu.com"
+      "t": "国产AI芯片大卖，上半年谁真正赚到了钱？",
+      "d": "thepaper.cn"
     },
     {
-      "t": "Besxar成功测试太空半导体制造原型，利用真空环境替代洁净室",
-      "d": "huxiu.com"
+      "t": "浦江创新论坛发布面向未来的硬核科技成果",
+      "d": "stdaily.com"
     },
     {
-      "t": "[深度解析] 高压SiC/GaN芯片嵌埋式PCB封装工艺制程全解：晶圆->镀铜-",
+      "t": "超越高通！AMD升至全球第三大无晶圆半导体公司",
+      "d": "gelonghui.com"
+    },
+    {
+      "t": "芯报丨张江高科：子公司拟不超1亿元投资培风图南半导体",
       "d": "eet-china.com"
     },
     {
-      "t": "北理工发表CMOS-MEMS单片集成多维感知芯片研究成果@IEDM 2026",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "#日本芯片巨头计划在月球表面建厂#",
+      "t": "不依赖EUV，不建新厂，一家隐形初创要用铁电材料改写存储技术",
       "d": "sohu.com"
     },
     {
-      "t": "大硅片：寡头垄断下，开启国产突围之战！",
-      "d": "cnfol.com"
+      "t": "华为麒麟芯片突围，首个“不受美国限制”芯片登场，真相是什么？",
+      "d": "eet-china.com"
     },
     {
-      "t": "燧原科技登陆科创板，上海AI芯片“四小龙”会师资本市场",
-      "d": "cls.cn"
+      "t": "AI服务器电源变天，ADI豪掷15亿美元押注",
+      "d": "36kr.com"
     }
   ]
 }

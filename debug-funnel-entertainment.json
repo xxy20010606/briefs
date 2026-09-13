@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 90,
-    "trusted": 10,
+    "raw_dedup_junk": 96,
+    "trusted": 16,
     "non_trusted_top": {
-      "ttplus.cn": 30,
+      "ttplus.cn": 21,
+      "sina.com.cn": 14,
       "sina.cn": 13,
-      "sina.com.cn": 5,
-      "china.com": 3,
+      "yzwb.net": 4,
+      "rediandf.com": 3,
       "360.com": 2,
-      "ajudaily.com": 1,
-      "asiae.co.kr": 1,
-      "molihua.org": 1,
-      "vietnam.vn": 1,
-      "52hrtt.com": 1
+      "xhby.net": 2,
+      "yule.com.cn": 2,
+      "shangbaoindonesia.com": 2,
+      "guandian.cn": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 7,
+    "fresh1_24h": 16,
+    "page_fresh": 15,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "香港西九文化区上演纪念张国荣无人机汇演",
-      "d": "chinanews.com.cn"
+      "t": "从31.03亿到1.9万，脱离了沈腾，开心麻花演员新片将惨败",
+      "d": "sohu.com"
     },
     {
-      "t": "《兰香如故》收视第一！冲着谭松韵去看的，却被1米58女配惊艳",
+      "t": "谁给阿嬷双姝选的丑衣服，反倒是制片人把2500的衣服穿出了高定感",
       "d": "163.com"
     },
     {
-      "t": "AI长剧首播，影视赛道变局几何",
+      "t": "外滩大会首次设立AI艺术节",
       "d": "cnr.cn"
     },
     {
-      "t": "说说对口相声中的捧哏",
-      "d": "sohu.com"
+      "t": "追《早春晴朗》热度不减！本周末哈尔滨拍摄地迎来热情“打卡团”，剧迷直奔“同款家宴",
+      "d": "thepaper.cn"
     },
     {
-      "t": "武汉网络作家作品 获第37届银河奖最佳科幻网络文学奖",
-      "d": "sohu.com"
+      "t": "第6届平潭IM两岸青年影展奖项揭晓 多部台湾青年作品获奖",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "中剧《早春晴朗》在巴西爆火 文化出海与商业价值的破局之路",
-      "d": "huxiu.com"
+      "t": "《2026粤港澳大湾区青年歌会》播出 金志文等众歌手唱响湾区",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "国内首场AI艺人线下音乐会开唱 AI虚拟偶像的线下生意经｜2026外滩大会侧记",
-      "d": "cls.cn"
+      "t": "无锡高新区免费野生演唱会，彻底火了",
+      "d": "163.com"
     }
   ]
 }
