@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 62,
-    "trusted": 9,
+    "raw_dedup_junk": 52,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.com.cn": 16,
-      "autohome.com.cn": 14,
-      "sina.cn": 7,
-      "indexbox.io": 3,
-      "wedoany.com": 2,
-      "hepingribao.id": 1,
-      "hebccw.cn": 1,
-      "stockstar.com": 1,
+      "autohome.com.cn": 16,
+      "sina.com.cn": 13,
+      "sina.cn": 3,
+      "indexbox.io": 2,
+      "zjol.com.cn": 1,
+      "wedoany.com": 1,
       "epochtimes.com": 1,
-      "voi.id": 1
+      "voi.id": 1,
+      "co.il": 1,
+      "hirohida.com": 1
     },
-    "fresh1_24h": 9,
+    "fresh1_24h": 10,
     "page_fresh": 8,
-    "relaxed_72h": 0,
+    "relaxed_72h": 4,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "又一储能电站发生火灾！",
-      "d": "163.com"
-    },
-    {
-      "t": "多维度探寻算电协同新路径",
-      "d": "ce.cn"
-    },
-    {
-      "t": "4年新增5.7GW！中东光伏大国装机提速",
+      "t": "含630MW光伏！中能建签约一大型光储项目",
       "d": "sohu.com"
     },
     {
-      "t": "能源转型加速，为何独立储能成为电网刚需？",
+      "t": "\"我国超级充电宝硬核突破\"！ 12日，世界最大盐穴压缩空气储能项目两台机组在江苏",
+      "d": "sohu.com"
+    },
+    {
+      "t": "山东首个！临沂200MW/400MWh储能项目完成全项主动支撑测试",
       "d": "solarbe.com"
     },
     {
-      "t": "上半年营收增速仅3%，公牛集团首次并购新能源企业寻找第二曲线，海外渠道成最大看点",
-      "d": "sohu.com"
+      "t": "阳光电源(300274)2026年中报点评：储能龙头盈利修复AIDC电源商业化落",
+      "d": "cnfol.com"
     },
     {
-      "t": "辟谣背后：二代刀片电池产能爬坡，解读比亚迪闪充订单真相",
-      "d": "eet-china.com"
+      "t": "零跑汽车(09863)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
     },
     {
-      "t": "只算硬件成本走不通，钠电户储出海欧洲要跨过几道关",
-      "d": "eet-china.com"
+      "t": "楚能新能源疯狂扩产500GWh 储能新秀面临资金链风险",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "从机器人到光伏储能 中澳经贸合作向新向绿",
+      "d": "eastmoney.com"
     }
   ]
 }

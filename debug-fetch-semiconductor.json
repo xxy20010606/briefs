@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 46,
+  "total": 50,
   "samples": [
     {
-      "title": "2026第二届北方芯谷生态伙伴大会在沈阳启幕",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc3JzRVdZTnpsQUZJUnJScjFESUdIU1kwLXJLRWJkN2NzM2QxMU4zVVVEYVJfN3VWNnZMUkdQYk5FbUdtdnV2T0d",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "泛林CFO：AI驱动半导体设备超级周期，洁净室成AI芯片扩产瓶颈",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE02SDk4Nml5eXhkcDNXUUhXYnl2dUlwVnIydlEzejgwMXRvZjdfekpocEFodWtUNVUzRW5uSWdCUlJIbTA?oc=5",
+      "source_url": "http://laoyaoba.com",
+      "source": "集微网"
     },
     {
-      "title": "兆易创新通过决议，向子公司增资5亿元支持DRAM项目实施",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhNXBJNUQ1LTMxcWlkdFUwSlJOa3A5TEI0SjRsQXF2Mk9Pd0p3X28zQ3BfcktvTzlLa1A1MVpmWXVoUzN0WGdRdHl",
-      "source_url": "http://k.sina.com.cn",
-      "source": "k.sina.com.cn"
-    },
-    {
-      "title": "解决英特尔、英伟达和AMD芯片中存在了100年的问题。",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVBoTGpBb2VVSU1TMzlXa0dKOUtFQjhzWkliYXJESEt2RDJwVG5BNVNJeUpEQm1zR1RWcE1La0hYN0Q3TWhYX3J",
-      "source_url": "https://www.vietnam.vn",
-      "source": "Vietnam.vn"
-    },
-    {
-      "title": "日本芯片巨头宣布：计划在月球表面建设半导体工厂！社长：不是开玩笑，月球有生产所需水资源，“马斯克应该",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbDFmYjd0NWN1ZVBrRXlNaE1MZWJvVHh3dmJqRG9SRHo5M2lIdVY3VFZTSF9kMU1WQjNJUVdqalNsZ3pjSG9KY3F",
-      "source_url": "https://news.sina.cn",
-      "source": "新浪新闻_手机新浪网"
-    },
-    {
-      "title": "光刻机外隐形战场，中国突然对日本芯片材料开刀，这步棋后劲十足",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxWkFEWUFER2NjOEQyRklDREduS2lOTEFFand1c2lQbUM1czkyU2prTjZWZUhvbTA4TzVlX2ZETXdsdUhHVG41RFl",
+      "title": "万米深海“原声”、火场“逆行坐标”、芯片“芯中之心”……这场科普演出太硬核了！",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcFI4SEc0LUdFc1Vxd0ZPZ1pPM2RCckoxbkhQUHozWDdjb2VtSFFhMnZCbzVoTWJCZTB6LThLbHBZX1FoZWRRaFg",
       "source_url": "https://finance.sina.com.cn",
-      "source": "finance.sina.com.cn"
+      "source": "新浪网"
     },
     {
-      "title": "黄仁勋执锹现身！英伟达投资的磷化铟工厂奠基了",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VYkhxSVo1czFHMFV0TWdHT3pnU01Hd09mNGNqR3hJcVNiRnV1LXhoNGhLRDg5R3NrczF3RkVsMnZhNFc0Vy0wcA?",
+      "title": "摩根士丹利：资金正从芯片股轮动至AI云服务商 美股短期或难再创新高",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12ZmpfWGJZQ25kUXNudzE5akxfOXJrUHhqcDI3VTVZOW52a29ORmU5cy1sUlF6b0JtWWw5TXpOUklnOWduZmo3Vg?",
       "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "source": "cls.cn"
+    },
+    {
+      "title": "10大核心功率半导体企业",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1walVwVjBrZ2djWWRUWnBENXlyMVFuRC1ZRWJWZlFCa1dfQmhRcnpCdUlTY09MaU9USV8xMHZaMU5iWGtEV3ltUUd",
+      "source_url": "https://caifuhao.eastmoney.com",
+      "source": "caifuhao.eastmoney.com"
+    },
+    {
+      "title": "2.同比狂飙263%！芯联集成首度半年盈利，净利2.78亿的驱动力拆解；",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBMNFc2QUZESWdfY0lZRzRZZjN2Rkxfa1R2ZktieC1ZemIxNDl2ZmVDTFJ2S0VDa3IxTkY5RllaRlAxMkk?oc=5",
+      "source_url": "http://laoyaoba.com",
+      "source": "集微网"
+    },
+    {
+      "title": "国产AI芯片大卖，上半年谁真正赚到了钱？",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40aUd4SE5QYnZxMEdOOS1Hb05OWHdpcG9UdG81WVROT1gxbGhsVHFTMzRVZ2FES2wtdlR3VEN3THA1dkJIc3pCajd",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     }
   ]
 }

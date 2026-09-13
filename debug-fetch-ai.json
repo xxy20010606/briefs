@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 79,
+  "total": 74,
   "samples": [
     {
-      "title": "AI开启服务贸易数智新范式",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04WHRKQUpla1hnWklpZG9sZTV2S1Q5VzE5QmRQNEdHaEtQZUt3YmUtR0Q1YXMwN1hfa2FXNnRwWmYxSkRJMVRFSWF",
-      "source_url": "https://k.sina.com.cn",
-      "source": "k.sina.com.cn"
+      "title": "攻克大模型算力互联关键技术，国产 IBGDA 实现规模化落地",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlaUJSbFJoNFkzOG0zRGlCZzVuMkpVeHVQUURMU1Frd21GOEd3czRrZmVRdW5lb2NqSnpmT0JSajRtdFNoeTlHUGl",
+      "source_url": "http://m.cyol.com",
+      "source": "中青在线"
     },
     {
-      "title": "“AI+建筑”驱动房地产谋新求变",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FdlppM0cteG5HRXprOUtYdUVVcUtQMWNxNHY0VldYaEc5ajZUbms1bkd1UnBxZGhOYUJkUVFrdExsbUN3bWExSVc",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "天津大学与凌波智芯共建先进算力互联技术联合实验室",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV1JQdGhiU1pJNnNhRlBidG5TR3l2R0FxRXN2Qld1WFR0SFl3Q1hHYVRWQUd5dUMxWTJxRjdEdzRlTXdzdUt5Rk8",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "AI“军备”竞赛升级 险企数智化走到哪一步了？",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16a1o1X0E1bk9XSUt6ZFgtRjZraDBhdWVEcU5WM1FtaWl3bDh5UHl5OWExN2ZWMEo3QlRoOHRGT2d0bzBYUFVOQkp",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "菲尔兹奖得主陶哲轩、邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZkczVjdWY2ppTHBRVTJmdEdwYjk5V1ozamVoeE1jOHVoOTI4TTUzc3VXUVFyQkdVa29OUkZGcFl1Q2FhRzdkSVB",
+      "title": "《了不起的概率思维》：豆瓣8.8，从贝叶斯到大语言模型——一本不堆公式的通识书，讲透AI的\"概率大脑",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcFpPbC15NldkWVFyeUdUajU3YTE5UXpUQlBGZ2sxQVZ6RnVWZ2JDLUZoN0JPdnpxd252d2VnU25UMm5rQ2ttTjZ",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "AI算力狂飙，光互连升级支撑万卡集群",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xRHRma3lFWmR1MTUyMHF5dU1nZWlkX2tyYVpUTk5Mb3c1QlhQTmlBRlB2RXllVl9IUm9ZUDRTSmIyQXk4Z3NsejB",
-      "source_url": "https://k.sina.com.cn",
-      "source": "k.sina.com.cn"
+      "title": "炮打中国数据中心？A畜们正在深度绑架美国政治",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrVkJyQWNBdk9qNS1tXy1NNVl5VGI1WExZaUVTd0JvNGJLX3BEMXhGRnoyTFRIZXZnTGlFQ29hUE1WWVRMRFBzUXZ",
+      "source_url": "https://user.guancha.cn",
+      "source": "风闻"
+    },
+    {
+      "title": "银行Token用哪儿了？这场会成了大型“验牌”现场……",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ha2c3bGV0OHRIX01SRVJ6YjFFZEpWaDQ4TU1CcUtZNVlwN29YV2pzR1lXSUp5ZmRuUTFSdzJsYmo3ZUZENkRBWWx",
+      "source_url": "https://www.bjnews.com.cn",
+      "source": "新京报"
+    },
+    {
+      "title": "北京首个政务大模型应用服务平台发布，赋能首都数字治理升级",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jS0xvVHpZYmVGMW5DVVJmWVFJSHhqZGoxSDhCN1U2Z1NOWUFqd01FYXhhZjMwRUNHbWU5NEZMd21WNVAxQVZtWUR",
+      "source_url": "https://www.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "50+企业、1500+岗位，外滩大会科技人才招聘会举办",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EX3NuNlE4VV9oYl92RnFVdHR6Q0NxR2RYcVNUV2NsaWFKaTZJUnVGNTJwQjlSLURyc1lONU1EeW11d3NYU2s4ZXV",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪网"
     }
   ]
 }

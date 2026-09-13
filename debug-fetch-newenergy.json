@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 62,
+  "total": 52,
   "samples": [
     {
-      "title": "又一储能电站发生火灾！",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CTTJGS3JCNzFWTDlLdTY1RUFXVGZzbGY1amkwcWpGd0cwWVNnc0pWUGVDbmpJV3VtaFZheFE5cnVjZGF0VzdDUGl",
-      "source_url": "https://www.163.com",
-      "source": "手机网易网"
+      "title": "含630MW光伏！中能建签约一大型光储项目",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2hDUU5CMUNmOGJnallXdTNLb3J6elV1dWhQVVBGY184OENqV3lrQURiYXNQR05SYXlucVg5a0V4bmVDUjRHN2Z",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "多维度探寻算电协同新路径",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lOGdkR1FyTGsyekVmRF9Qb0lvODRIQUprTS1xMnlZMmdyUVIxTHdTeUpWNmJvRlJXSzdMVDRyQjZSMzhlVldNNUl",
-      "source_url": "http://paper.ce.cn",
-      "source": "中国经济网"
+      "title": "重要突破！“超级充电宝”上线",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaUpoT1NaVEhZRFZaenhhMmtIRXBpMXlBMnBlWE94dVVka0ZLMFV2ZHUtSWtNMlZpdlk5dkFNejNXQzZjRlFjYmd",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪网"
     },
     {
-      "title": "从机器人到光伏储能 中澳经贸合作向新向绿",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFNE82bVpFaVFFTGhqbHhoWUNRWlQ1OW5wQVMzTXc5eEVtMEhzSnFpc252Uk5NNTdoS3o4RndQbnhvclYtUWtnVGJ",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "finance.sina.com.cn"
+      "title": "“富余”的绿电存哪儿？长时储能留住白天的太阳",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01UHZMMXRqcEN5X18wU2Y0NzBId3ZnbDVueVRRSUpkd01oS2pUNWRoaUo0dkdsTkdtNmR6eUVyR250dVpSVFd0UmE",
+      "source_url": "http://china.zjol.com.cn",
+      "source": "china.zjol.com.cn"
     },
     {
-      "title": "SNEC SMART E ES+第二十届（2027）国际储能和电池（上海）大会暨展览会",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhT1R5NDJ4UTdmTXozZDY4Y2xELW52dU5sSzFObnBXazZxQnU3bGVCdWtOdDh6UGhBcE5wc0hrOFRnS1EzeHBnX29",
+      "title": "\"我国超级充电宝硬核突破\"！ 12日，世界最大盐穴压缩空气储能项目两台机组在江苏金坛完成整组启动，标",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcGQxRWJQX3ZGLXU4bllNUmF1d3Y0VGp1TnpnOV80RWdLbWZJTDlfNzBtZmRyXzlTM2t5aTVLcHVWLXhpX3AweUx",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "山东首个！临沂200MW/400MWh储能项目完成全项主动支撑测试",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00RUpyNnd2cFpoNGh3Qmo0cC1tZERoUmdmX2EzNlhIQS1zQkhhbEkzNjllNWtNMGNrWGVKLUpSc3hMSkRueFROdkM",
+      "source_url": "https://mcn.solarbe.com",
+      "source": "碳索储能网"
+    },
+    {
+      "title": "多维度探寻算电协同新路径——算力涨价潮影响与应对④",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Hb1UwNzR0aldhZ1NEOHlydnNRYk9WOW1abWE0cXhkRHJ3OHNIb1lNWVhjdlUwSGtWZFNKdm1qTXZrUnJ5TkdsNmd",
       "source_url": "https://k.sina.com.cn",
-      "source": "k.sina.com.cn"
-    },
-    {
-      "title": "阳光电源、德业、固德威、锦浪、艾罗能源、上能电气、正泰电源……上半年业绩分化",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fZU05ZmNmWDFBclZ6NEUtSkE2UGVfenlteGRaVnpuU2hvZE5SNEF1bndwU29QYzhqbDduWVFwaXhobmRVY1NCWVo",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "finance.sina.com.cn"
-    },
-    {
-      "title": "董事长突然辞职！又一光伏企业人事巨变",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyREluRVp4TnAwUFpHYVY0MzVKQ1FJcktnNHdRdGJHRVBlS1E3WmRvUVM5UnJvZGRuUTRpSnVOUmkwV2dlU3ZVTk5",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "finance.sina.com.cn"
+      "source": "新浪网"
     }
   ]
 }

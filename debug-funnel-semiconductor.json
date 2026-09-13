@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 46,
-    "trusted": 20,
+    "raw_dedup_junk": 50,
+    "trusted": 17,
     "non_trusted_top": {
-      "ttplus.cn": 5,
-      "sina.com.cn": 4,
-      "indexbox.io": 4,
-      "sina.cn": 3,
-      "vietnam.vn": 2,
-      "ab-sm.com": 1,
-      "sdnews.com.cn": 1,
-      "cfi.net.cn": 1,
-      "uschinews.com": 1,
-      "klsescreener.com": 1
+      "sina.com.cn": 9,
+      "tradingkey.com": 3,
+      "asiae.co.kr": 2,
+      "ua.news": 2,
+      "cfi.net.cn": 2,
+      "indexbox.io": 2,
+      "eastmoney.com": 1,
+      "digitaltoday.co.kr": 1,
+      "china.com": 1,
+      "tikr.com": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 15,
-    "relaxed_72h": 0,
+    "fresh1_24h": 17,
+    "page_fresh": 7,
+    "relaxed_72h": 2,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2026第二届北方芯谷生态伙伴大会在沈阳启幕",
+      "t": "英诺赛科“氮化镓女王”二次出手：杀入光芯片",
       "d": "sohu.com"
     },
     {
-      "t": "芯报丨有研硅：拟购买山东有研艾斯71.89%股权及山东有研半导体14.98%股权",
+      "t": "Besxar成功测试太空半导体制造原型，利用真空环境替代洁净室",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "[深度解析] 高压SiC/GaN芯片嵌埋式PCB封装工艺制程全解：晶圆->镀铜-",
       "d": "eet-china.com"
     },
     {
-      "t": "全球TOP 30企业集结深圳，2026湾芯展10月启幕——四大看点筑就中国集成电",
+      "t": "北理工发表CMOS-MEMS单片集成多维感知芯片研究成果@IEDM 2026",
       "d": "eet-china.com"
     },
     {
-      "t": "日企CEO发愿：2040年，到月球生产芯片",
+      "t": "#日本芯片巨头计划在月球表面建厂#",
       "d": "sohu.com"
     },
     {
-      "t": "半导体设计企业芯来科技启动IPO辅导，九成营收来自RISC-V IP授权",
-      "d": "ifeng.com"
+      "t": "大硅片：寡头垄断下，开启国产突围之战！",
+      "d": "cnfol.com"
     },
     {
-      "t": "海外大厂2027年才量产的芯片，中国公司提前发布了",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "3家A股公司，筹划重大资产重组，涉存储芯片、半导体材料等",
-      "d": "eastmoney.com"
+      "t": "燧原科技登陆科创板，上海AI芯片“四小龙”会师资本市场",
+      "d": "cls.cn"
     }
   ]
 }

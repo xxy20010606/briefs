@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 74,
-    "trusted": 16,
+    "raw_dedup_junk": 63,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 20,
-      "sina.cn": 8,
-      "ttplus.cn": 6,
-      "moomoo.com": 5,
-      "enanyang.my": 3,
+      "sina.com.cn": 18,
+      "ttplus.cn": 9,
+      "sina.cn": 6,
+      "litefinance.org": 3,
+      "vietnam.vn": 3,
+      "moomoo.com": 2,
+      "cacnews.ca": 2,
       "sinchew.com.my": 2,
-      "vietnam.vn": 1,
-      "cfi.net.cn": 1,
-      "dahecube.com": 1,
-      "litefinance.org": 1
+      "fx168news.com": 2,
+      "cfi.net.cn": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 11,
-    "relaxed_72h": 0,
+    "fresh1_24h": 12,
+    "page_fresh": 8,
+    "relaxed_72h": 2,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "A股：请提前做好准备，种种迹象表明，周一股市会这样走！",
+      "t": "ST佳缘连亏1年半2022年上市超募4亿元中信证券保荐_股市直播_市场",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "大摩：给予Coinbase 250美元目标价_股市直播_市场",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "“炒股”回本，爆仓漫画家苦熬18年，他做对了什么？",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "A股：突发消息来了，若没有意外，明后两天行情或这样走！",
       "d": "163.com"
     },
     {
-      "t": "视频|飞机高铁秒变巨幕影院服贸会见证金融赋能科创力量_股市聚焦_市场",
-      "d": "cnfol.com"
+      "t": "A股：请提前准备好，行情非常明朗，下周，要迎来更大的上涨了？",
+      "d": "163.com"
     },
     {
-      "t": "全球市场：美股三大指数集体收涨大型科技股普涨戴尔科技涨近12%_证券要闻",
-      "d": "cnfol.com"
+      "t": "波司登(03998)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
     },
     {
       "t": "加息，第一枪",
       "d": "sohu.com"
-    },
-    {
-      "t": "马伟：沃什的美联储",
-      "d": "sohu.com"
-    },
-    {
-      "t": "华尔街16家机构押注美联储9月加息",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "美国通胀再超预期！美联储9月加息概率升破85% 市场开始押注年内再加一次",
-      "d": "qq.com"
     }
   ]
 }

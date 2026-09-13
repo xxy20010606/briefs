@@ -2,26 +2,30 @@
   "type": "ai_apps",
   "stages": {
     "raw_dedup_junk": 58,
-    "trusted": 15,
+    "trusted": 16,
     "non_trusted_top": {
-      "ttplus.cn": 17,
-      "sina.com.cn": 5,
-      "vietnam.vn": 3,
-      "sina.cn": 3,
+      "ttplus.cn": 15,
+      "sina.com.cn": 6,
+      "icloudnews.net": 3,
+      "sina.cn": 2,
+      "hk01.com": 2,
+      "vietnam.vn": 2,
       "caiwennews.com": 2,
-      "bjd.com.cn": 1,
-      "fx168news.com": 1,
-      "autohome.com.cn": 1,
-      "sciencenet.cn": 1,
-      "shobserver.cn": 1
+      "autohome.com.cn": 2,
+      "dzwww.com": 1,
+      "fx168news.com": 1
     },
     "fresh1_24h": 15,
-    "page_fresh": 13,
+    "page_fresh": 9,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
+    {
+      "t": "郑永年：AI治理不能只由资本和技术精英闭门决定",
+      "d": "sohu.com"
+    },
     {
       "t": "从全民“养龙虾”热潮到大厂AI办公产品爆发 你的“上班搭子”换了吗？",
       "d": "eastmoney.com"
@@ -31,24 +35,20 @@
       "d": "infoq.cn"
     },
     {
-      "t": "这位00后，用AI重塑硬件创业工作流丨对话创业投资新势力（06）",
-      "d": "stcn.com"
+      "t": "“全华班”打造的AI程序员，估值480亿美元",
+      "d": "36kr.com"
     },
     {
       "t": "AI存储成为智能体“第二大脑”：2026中国算力大会热议数据基础设施新范式",
       "d": "c114.com.cn"
     },
     {
-      "t": "原力波官宣亮相威尼斯电影节 科技助力中国电影走向世界舞台",
+      "t": "三位华人，让AI自己写代码，估值3000亿",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "独家对话吴德周：从工具到Agent，AI眼镜的竞争逻辑变了",
       "d": "sohu.com"
-    },
-    {
-      "t": "科大讯飞一项案例，入选国家关键领域语言科技赋能创新项目名单",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "AI平权的“最后一公里”：鸿沟不只在技术，更在于应用与责任",
-      "d": "thepaper.cn"
     }
   ]
 }
