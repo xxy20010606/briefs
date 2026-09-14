@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 96,
-    "trusted": 16,
+    "raw_dedup_junk": 97,
+    "trusted": 14,
     "non_trusted_top": {
-      "ttplus.cn": 21,
-      "sina.com.cn": 14,
-      "sina.cn": 13,
+      "ttplus.cn": 19,
+      "sina.cn": 16,
+      "sina.com.cn": 8,
+      "vietnam.vn": 4,
       "yzwb.net": 4,
+      "china.com": 4,
       "rediandf.com": 3,
-      "360.com": 2,
-      "xhby.net": 2,
-      "yule.com.cn": 2,
-      "shangbaoindonesia.com": 2,
-      "guandian.cn": 1
+      "ajudaily.com": 2,
+      "sznews.com": 2,
+      "mk.co.kr": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 15,
+    "fresh1_24h": 13,
+    "page_fresh": 13,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "从31.03亿到1.9万，脱离了沈腾，开心麻花演员新片将惨败",
+      "t": "9.7-9.13内地一周票房报收3.27亿 《欢迎来龙餐馆》8742.93万五连",
       "d": "sohu.com"
     },
     {
-      "t": "谁给阿嬷双姝选的丑衣服，反倒是制片人把2500的衣服穿出了高定感",
-      "d": "163.com"
+      "t": "AL夺得LPL总冠军：赛场连商圈，电竞流量涌入上海街巷",
+      "d": "sohu.com"
     },
     {
-      "t": "外滩大会首次设立AI艺术节",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "追《早春晴朗》热度不减！本周末哈尔滨拍摄地迎来热情“打卡团”，剧迷直奔“同款家宴",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "第6届平潭IM两岸青年影展奖项揭晓 多部台湾青年作品获奖",
+      "t": "中国景区NPC成新景点 邀请游客沉浸式“入戏”",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "《2026粤港澳大湾区青年歌会》播出 金志文等众歌手唱响湾区",
+      "t": "《早春晴朗》海外破圈，藏着国产都市剧的出海密码丨新京报娱论",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "马来西亚琼籍歌手朱主爱海南开唱：开启文化寻根之旅",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "无锡高新区免费野生演唱会，彻底火了",
-      "d": "163.com"
+      "t": "票房｜暑期档后市场沉寂 好莱坞老电影重映数量超去年",
+      "d": "caixin.com"
+    },
+    {
+      "t": "第83届威尼斯电影节闭幕 奖项花落各家",
+      "d": "xinhuanet.com"
     }
   ]
 }

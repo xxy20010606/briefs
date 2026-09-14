@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 55,
+  "total": 50,
   "samples": [
     {
-      "title": "国产AI芯片大卖，上半年谁真正赚到了钱？",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hVzZUR05jdWtsVXc4VVlHV01HSUxvbnVDT2xfUTMtMFBoOU4yTzBzbVV5Vk8xSEZ4VXNiQlBDVHRzMEM3V0dEeU5",
-      "source_url": "https://m.thepaper.cn",
-      "source": "thepaper.cn"
+      "title": "聚灿光电首批CPO光芯片送样重要客户 进入客户验证阶段",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VLTV6bVFqY0pRazdGVTNUVVFhMUJtQTFmSGhuTnhMVExtS25TQkY4TEUzMlNjSTZ4ak9Hb3lvZkFHZDJ5VDBEcnZ",
+      "source_url": "https://www.guandian.cn",
+      "source": "guandian.cn"
     },
     {
-      "title": "欧冶半导体-工布565 | 申报2026第八届金辑奖最佳技术实践应用奖",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tbDFsS3FUaC1iOXVISlZpV1ctZU9UVzRWeHFoZFVCM2JNcWFLVjE1X3RQRVpnMkdlOHZXZ1JNaHBRUm1QRUg4a1V",
-      "source_url": "https://chejiahao.autohome.com.cn",
-      "source": "车家号"
-    },
-    {
-      "title": "SK海力士暴拉15%，美股芯片股深夜集体大涨，阿里巴巴低开高走，IBM重挫",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VNjc5VEMzZnk2TWl4TWRmalUtMmxCRzdkZFRBOUxOZ1Q3cUVRRW54Mmx4bWZtZXpoU0JNRVQtbnE3LWVfd09XT2R",
-      "source_url": "http://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "杨德龙：科技龙头股行情依然是未来的投资主线",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOeE9kek83VW51YjRVWWJFQjR5ZnI0cHJISHpYa05KV3dELWtlaDYyR04tVE5UQVB6Ty13YUlQcDFhdVQ4Y3dYVzN",
+      "title": "2026 IICIE先进封装与测试技术论坛在深圳成功举行，直击AI时代封装“胜负手”|深圳市|广东省",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQenBYRHJmU0hjZm0wOVJ5b3VSTGFzU0RGUHFHLThJNDFXNTEwOXRsdFMyY3ZtTXlIUmd4RXg2LXpZNjIwVHg5QWx",
       "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "source": "finance.sina.cn"
     },
     {
-      "title": "AI需求跑赢芯片扩产 戴尔示警2027供应缺口再扩大",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeWVVWklRZEVIOVAzNF9BOWQ1TWgwX0tWMm45UVBNZWxSQmcxWDFPYzU3Z3dNOGZQZmJjdkdhRXdIR0w1MmZ1cnJ",
-      "source_url": "https://gb-www.digitimes.com.tw",
-      "source": "gb-www.digitimes.com.tw"
+      "title": "2Q26全球前十大IC设计厂营收年增73%，AI需求持续强劲",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNWFBrMUxEYTgyM1pVeGRUWF9UUTdtY3dJNTRhcHNXcUw0SFBGWWg5TXNjcFU3STdXQW8tcVdleXBDM2Z0c3FPWVo",
+      "source_url": "https://www.esmchina.com",
+      "source": "国际电子商情"
     },
     {
-      "title": "浦江创新论坛发布面向未来的硬核科技成果",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZWUxIUGRUTEhnWHlYU3ZtU3p2WS1aWG9TTXdYN3VaOG0zaFFnVnBTaU9DTmxsVlJUSmZxZ29vT0JyTlh3QkJ2Ym9",
-      "source_url": "https://www.stdaily.com",
-      "source": "中国科技网"
+      "title": "倒计时30天：2026湾芯展10月14日启幕，1000 余家半导体企业集结鹏城",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zM0thWkZiNjQxRjRQMVBvcjR6U2pvcndtdUZNV1NaeGlNZUZaaWd2VF96MFpCMUpfZ1dmaUdRZHlJZUpVeEFpbWd",
+      "source_url": "https://www.prnasia.com",
+      "source": "美通社"
+    },
+    {
+      "title": "Fortaegis科技融资5000万美元开发安全芯片",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqVWhyU194aHVJNGdNZEpYemV2N2s2TjliLWFvTXh6dERndmtSNlFyV09ERXJYSk1ybWFkRWo2QU9VaENzMGhHc3R",
+      "source_url": "https://www.guandian.cn",
+      "source": "guandian.cn"
+    },
+    {
+      "title": "高盛研报：AI需求驱动中国半导体资本开支 预测2030年达820亿美元",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95ckdNNDBkRlh3NW1PSVpUcUVqVTF2cHNJYW1wZ2kxQS1BY1lfblhvNWYwN3llajhKbTBIT05hTnpITGhjeUpvZ3V",
+      "source_url": "https://www.guandian.cn",
+      "source": "guandian.cn"
     }
   ]
 }

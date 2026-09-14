@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 62,
+  "total": 59,
   "samples": [
     {
-      "title": "合肥北京深圳竞相布局，上海能否成为量子计算领域“硅谷”？",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOQkpFNmQ0dkFPOXgxUEtFWUJBX0djV0Y5eWlJZFZ6YkNTeDc0NG53MUp2aGpsQ2VoWjhhX2lsZ2ROQldVX1NtSEV",
-      "source_url": "https://www.jfdaily.com",
-      "source": "上观新闻"
+      "title": "见证吉尼斯世界纪录诞生：纳米Work携AI应用亮相外滩黑客松",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZlZJZWdYdXZHZ1dOd3UtSGp4QnBRNUhyTzVNZlJVMVVhbGYyZHFoRFFwZ1ZjRGF2c2lLand4ZHlBem45blBTWXp",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "AI對招聘過程影響力正在日益增加",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44aXVvQ1JsWExBd1l2ZTg1ZDRqOEVjM190S3FwRDh0bVlzZzVIV3BwVlNNTU1CakpTU01QWUV0c2RHWTB3UFVRWGd",
-      "source_url": "https://www.epochtimes.com",
-      "source": "大纪元"
-    },
-    {
-      "title": "把AI“装”进钢铁岗位：一场从“听懂”到“上手”的实战培训",
-      "link": "https://news.google.com/rss/articles/CBMi6gVBVV95cUxOOExTSnlwWEZud1kzZW50OW0xQmdwdlhPVVpzck9tVk5qQ2kySmRabkdUNHUxU0JuSkgyMmxfcHFDZ2NsbWJvR2V",
-      "source_url": "https://finance.sina.cn",
+      "title": "中金公司程龙：AI技术落地需要平衡创新速度与投资者保护",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hSWw1OFkybzZOVURHMGhVS1d2MHdjMm4zNUlXd3RNOEhNcjFINjZ0N1lzSDRkVXhJd1NIR21jZTFGMm9FUFQyVWI",
+      "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "破局混合办公效率瓶颈：皇冠app登录入口 企业终端方案如何驱动确定性增长",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxU2ppSUo1UUVuOGRYTlI4Tlp1YzkzUGM5Y2dCRWE1QnppdmZzWFJJWkk4cjVBbGxHd25vNWkzSEp1Z0Fzcml0Ym5",
-      "source_url": "https://www.ttplus.cn",
-      "source": "体坛加"
+      "title": "新「豆包手机」首发体验，智能手机正在变成「行动终端」",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9GN3RlbjRnQnNFMGstVDhnZ1R5OEh2TzliRmxYbVhsOC1Day04bVNER2FTVGJvSTRYaUkycUtMNzRpbUE?oc=5",
+      "source_url": "https://www.ifanr.com",
+      "source": "爱范儿"
     },
     {
-      "title": "全球机器学习作为服务市场的前20个公司",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQU5rS1RISG1HTTlBZXFmQ2c2NHdWR2xYVFpYTWVEZno5U2xULVgzSVNua2NCRU9McGN0bFhxbDdacXZTdzJJNGZ",
-      "source_url": "https://www.sphericalinsights.com",
-      "source": "Spherical Insights"
+      "title": "解决AI智能体狂欢下的失控危机：京信万维构建Agent安全治理能力",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92amJKSjdNVDVMTnZPZ1BXT0NDQnVBdmdBb1E5cDRjVVBpT3BsaE1EWVE0Yk9KSEtBZ0M0dS1aQnphN1hBeE4zX3k",
+      "source_url": "https://tech.china.com",
+      "source": "中华网"
     },
     {
-      "title": "昨夜今晨：雅博娱乐app开户交互工具上线 AI分析报告开源 体育数据平台更新",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DT1M2S1pCTVlaVFYxRktDV0JwcnVyNEpXVWx0b2dRR2ptaFRNVFJrSHNJOUd3WlRrTnVhcG1SdDVkZWQ5QWlyZVN",
-      "source_url": "https://www.ttplus.cn",
-      "source": "体坛加"
+      "title": "Jensen Huang：网络安全将成AI下一个大规模落地场景，Nvidia加码布局",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYmxjdDhxdjNUTVhYeERXS1ZSXy1EU0JPZ1RrdnlUZFhiT2FVbjV1RTJDUmlZTTk1WnFvQjZiZVNodUxOU0ItbnQ",
+      "source_url": "https://www.digitaltoday.co.kr",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "华语电影系列活动威尼斯圆满收官 中意影人共启文化交流新章",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5McS1MOU5yYlJraDZ3eHVEbnpqaEhOLXJUYTI5RlhQOVN5RW5WLXZRYnRqLXBRYWF0bjM2UHBINENZU0t6QVUtd0U",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     }
   ]
 }

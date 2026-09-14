@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 76,
-    "trusted": 13,
+    "raw_dedup_junk": 75,
+    "trusted": 21,
     "non_trusted_top": {
-      "sina.com.cn": 31,
-      "sina.cn": 16,
-      "ttplus.cn": 4,
-      "doit.com.cn": 3,
-      "cnbeta.com.tw": 1,
-      "voc.com.cn": 1,
-      "guandian.cn": 1,
-      "leidacj.com": 1,
-      "hebtv.com": 1,
-      "mrjjxw.com": 1
+      "sina.com.cn": 24,
+      "sina.cn": 11,
+      "china.com": 5,
+      "jrj.com.cn": 2,
+      "ac.cn": 1,
+      "qlwb.com.cn": 1,
+      "mrjjxw.com": 1,
+      "tidenews.com.cn": 1,
+      "fjsen.com": 1,
+      "aibase.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 10,
+    "fresh1_24h": 21,
+    "page_fresh": 20,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "当AI拥有“大脑”，谁来守护它？看山东企业布局智能安全",
-      "d": "sohu.com"
-    },
-    {
-      "t": "用了AI，大厂牛马更累更卷了",
+      "t": "亚洲首发 知了大模型亮相第十二届亚洲教育装备博览会",
       "d": "ifeng.com"
     },
     {
-      "t": "摩尔线程牵手京东云建十万卡集群，国产GPU的商业化拐点真的来了",
+      "t": "AI筑基・金融新生 | 2026金融AI场景创新大会成功举办",
       "d": "sohu.com"
     },
     {
-      "t": "从“制造出海”到“服务扬帆”中国服务迈向全球价值链高端",
+      "t": "巨头集体踩下AI“刹车键”，安全合规将成为企业新的胜负手？",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "Anthropic CEO喊话给AI踩刹车，马斯克、Altman同边响应",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "中国AI大模型调用量连续20周领跑全球",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "-16.72%→16.92%，半导体硅片龙头盘中巨震！词元需求量爆发式增长，这些",
       "d": "ifeng.com"
     },
     {
-      "t": "“没想到，这届服贸会数智浓度这么高”",
-      "d": "ce.cn"
-    },
-    {
-      "t": "无安全不智能 无智能不安全——中国电信以全栈安全能力护航智能时代",
-      "d": "c114.com.cn"
-    },
-    {
-      "t": "算力下沉家庭场景 绿联搭建本地AI生态样本",
-      "d": "gmw.cn"
+      "t": "港股大模型双雄大跌，新融资与海外巨头“减速”信号冲击",
+      "d": "yicai.com"
     }
   ]
 }

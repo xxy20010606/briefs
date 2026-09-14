@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 55,
-    "trusted": 15,
+    "raw_dedup_junk": 50,
+    "trusted": 22,
     "non_trusted_top": {
-      "sina.com.cn": 14,
-      "sina.cn": 6,
-      "indexbox.io": 5,
-      "digitimes.com.tw": 3,
-      "pjtime.com": 3,
-      "autohome.com.cn": 1,
-      "fxbaogao.com": 1,
+      "sina.com.cn": 10,
+      "guandian.cn": 3,
+      "sina.cn": 3,
+      "digitaltoday.co.kr": 2,
+      "indexbox.io": 2,
+      "esmchina.com": 1,
+      "prnasia.com": 1,
+      "chosun.com": 1,
       "vietnam.vn": 1,
-      "tradingkey.com": 1,
-      "chosun.com": 1
+      "ttplus.cn": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 12,
+    "fresh1_24h": 21,
+    "page_fresh": 16,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "国产AI芯片大卖，上半年谁真正赚到了钱？",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "浦江创新论坛发布面向未来的硬核科技成果",
-      "d": "stdaily.com"
-    },
-    {
-      "t": "超越高通！AMD升至全球第三大无晶圆半导体公司",
-      "d": "gelonghui.com"
-    },
-    {
-      "t": "芯报丨张江高科：子公司拟不超1亿元投资培风图南半导体",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "不依赖EUV，不建新厂，一家隐形初创要用铁电材料改写存储技术",
+      "t": "宁德时代、美团龙珠联手押注！星钥半导体超10亿融资落地",
       "d": "sohu.com"
     },
     {
-      "t": "华为麒麟芯片突围，首个“不受美国限制”芯片登场，真相是什么？",
+      "t": "日本Rapidus社长小池淳义构想2040年在月球建设半导体工厂",
       "d": "eet-china.com"
     },
     {
-      "t": "AI服务器电源变天，ADI豪掷15亿美元押注",
-      "d": "36kr.com"
+      "t": "赋能工业自动化 成都高新区芯片企业发布新品",
+      "d": "sohu.com"
+    },
+    {
+      "t": "化合物半导体产业链“工具+装备”集群式突破——IICIE 2026现场观察",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "AI大消息，存储芯片巨头大跌",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "11:06:15【AI算力链涨跌互现，国产芯片涨价与端侧AI落地并进】",
+      "d": "cls.cn"
+    },
+    {
+      "t": "更薄、更亮、更清晰，新一代光学方案亮相2026光博会",
+      "d": "cyol.com"
     }
   ]
 }

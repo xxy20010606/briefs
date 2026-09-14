@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 53,
+  "total": 65,
   "samples": [
     {
-      "title": "探访河北怀来绿色算力集群：算力如何支撑日常数字生活",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SaVJKbXBPS3dDdDNNZkdCVTJLVzA3TGNGejdGVGwxWXliRmg2d0RTY2tKcmc4WWx2RFhRbDJ2d2JhQ0k3ekZXMVh",
-      "source_url": "https://www.thepaper.cn",
-      "source": "thepaper.cn"
-    },
-    {
-      "title": "欧洲电价暴涨6倍，中国科技企业跨界盯上当地阳台",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mY3lTYXA1QUhLUVNIX2t5YUJCWXFNS3pIX2pza3dBMklSZVJPS2VSQjNpdXZQdEUzdzVwd182QkxxYTU1bEhGN2Z",
-      "source_url": "https://www.guancha.cn",
-      "source": "观察者网"
-    },
-    {
-      "title": "阳光电源、科士达等十余家光储企业涨价5%~20%",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ3h4MkdSR0o3VDZuT2ZQMHJUVzh6VmY0RE5zQmVnY2tnXzEyUmtlNkEzMmdBTkxaMUQ3V0JpX0N0WmpHRFVRM2h",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
-    },
-    {
-      "title": "630MW光伏！非洲单体最大光储项目签约",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2tCWEJ2ZDNjLVVBeWVJN0t4X1duS285YmpvSzhreElwWVR5ZVM3cWpYYk1xemVxTWRGZ1VfTDM5dDlhZzdnYjV",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
-    },
-    {
-      "title": "共铸高质量 智赢高价值｜2026华为智能光储运维大会成功举办",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqaEh0XzFsbTk4Z1RvcHhjQnBHemVGZk9FZjNGUm0tMnlzUERBWDdSaWxqMWtMQVNkRDliQ0t2WF9WSWQzVUFxQzl",
-      "source_url": "https://mtz.china.com",
-      "source": "中华网"
-    },
-    {
-      "title": "安徽100MW漂浮式光伏项目并网！",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rbmRiT0ZJWEhtUGszRzNFYUhVTDRUQi1QN0wwaG8zeDBGdF9IdmpzMko1cGloX0dpZ3FZeEsxY0hfdm14VjZRWmk",
+      "title": "【财经分析】储能拍卖启动在即 巴西市场释放中巴合作新空间",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41bGF4WUhGWHh5RF80SGlfYldJNnhUYVpDT1lQS0JGRFFteW9sOF9Fa05HZnJnMS1CZS1BUGw4eUM3cW9yVjNTdXN",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
+    },
+    {
+      "title": "新项目落地开工，规划6条SiC模块产线",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR3BnWFVDWEUxajIzRUswYlZLbEJvUW8tX0hxVk53cFh2MUU2dnJxODQ0cE9MN01vSlNsMElId2FYS1loUF91a29",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "摩洛哥米德尔特光储项目签约",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xSzEtajUwcnhRNExrRWVlMnFxb2x6WGtuMmdVaXp5QWxZc0lxc1IyZDlZSG9vQThKODg5ZXFTUHhnaXFWcHFTTlN",
+      "source_url": "https://www.seetao.com",
+      "source": "seetao.com"
+    },
+    {
+      "title": "储能AI创新论坛——释放储能价值:推动规模化应用与新型电力系统建设",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNWd2REFGT0d2Z1N1eTBfRnYzSWtCakZFYlRqUHVGQXhlYnlMeE5fa0MwSFhMSWo5VkhuS19HZWlsVElial9WRUU",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "总投资2500万元！内蒙古纳林陶亥镇新庙村加油加气加氢充电站项目获备案",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVZDZBcEhlTzRnZHR4cXBUNDY4WGQzMEtMNmhJWUZtZ0w5X3diTUJXSk8yVnpoRTFta2poUFFPVjJQelRJVVZhVF9",
+      "source_url": "https://h2.in-en.com",
+      "source": "国际氢能网"
+    },
+    {
+      "title": "2027年韩国高阳电池储能展KBS 2027",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVTFKdU1sazlkNzlScTVVTzhZZWVoQUxmd1o2eXZfeUJaUTRMeFJfUFRPSXhQUk1pSWtwNjM2SG9rSmcwNXM3UWx",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     }
   ]
 }

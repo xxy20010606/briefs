@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 76,
+  "total": 75,
   "samples": [
     {
-      "title": "当AI拥有“大脑”，谁来守护它？看山东企业布局智能安全",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU3VrZzh3eXBxY0VES3piaUpaNW9pcVRkbVFhcERuSWplc2NBV2wzZ0F6a2F6Wkg4RGRQRmtMTEdFZEhvMUl5Z2Z",
+      "title": "亚洲首发 知了大模型亮相第十二届亚洲教育装备博览会",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MbUFtd3VzaWp0aEY1enF6YUx2bTlUYW1VN2dHU1N2RG9leTd2UnVMTTdVdHFMWnY2Rm1pbE00aV82bDhuUWtSLVd",
+      "source_url": "https://hainan.ifeng.com",
+      "source": "凤凰网"
+    },
+    {
+      "title": "人工智能与数学读书会第二季启动｜AI在科学与数学领域的应用边界",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DVGpFYXFlTGVNTnFwZTEtbjk1THltV3Rod3lEdVNzS09Pc09ON1EtVWhmMElNc3d2Q0d2cVpIc2NLck1iMmVqZw?",
+      "source_url": "https://hub.baai.ac.cn",
+      "source": "智源社区"
+    },
+    {
+      "title": "AI筑基・金融新生 | 2026金融AI场景创新大会成功举办",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0NRS2xYaExFa2pxR29DTE1iVnJRc3lTempCOXctUlJ1Q2xjbllvSXRpdHhDNVl0WVFUNllPT243ZmpKWUNTRjl",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "用了AI，大厂牛马更累更卷了",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rbjJpVVpXQlNiZVpQcWFDZHB4c2I0Y2ZRMU9BdmhPTVpQaWxxRzlDaDAtbG1odDNmRjNDMFVxZlM2aXpCT21Wc3Z",
-      "source_url": "https://tech.ifeng.com",
-      "source": "凤凰网科技"
+      "title": "擎朗机器人央视“舞”出圈！机器人x算力x音乐大模型，三大国产硬科技外滩大会之夜同台登场",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2UnJKRkVfelNDZ1dvMFNnbUZVN3hjQlBvaWdTTXZrUDJHckxmbG1oNjgyWU05QUdqN0NqR1dRYVoxQkQzMjFTV0N",
+      "source_url": "https://t.cj.sina.cn",
+      "source": "t.cj.sina.cn"
     },
     {
-      "title": "成都就发放“词元券”征求意见 年度总额不超过1亿元",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFowMjZpYVR6b0ZKWENMRkpxMzlpOUsybHpEVFFRd1I5T01oRS00c1AyWV90SGJlOXUzNDdnaWV0bXZMWnFGai0",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "荆华密算林修醇：向“数据窃密”发起挑战！全链路加密使用云端大模型将是下一个时代的主流",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWYjNQOHN1TTliNEgxRmlreFZTLVZDZGk0YUc5ZU5KWHEtYXdpS3BKMFRUeUVXaWdnNVdrNjd6akZOdjBhQk9aeHJ",
+      "source_url": "https://mtz.china.com",
+      "source": "mtz.china.com"
     },
     {
-      "title": "“词元贷”给人工智能企业“贷”来什么？（财经深一度·增强金融服务多样性普惠性可及性）",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLTWc5eFdMZFZBaE01YlU3UWJacEVCU1hFQ2JjUzRLSVc2aFdIc0tYM3lfVzdCbGl5czFfOUtaYkN5UUZmcW10Smt",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "人工智能算力和数据布局进入太空，为AI智能体提供“地球真值”数据",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SYVpxQnptbzNmNm1rdl90R0xVZmxYWm9IYTdvaVQtOEZfclVjOWlxODI1V1dJb0c0eUJVdktROHhlMEp6a2FMQU9",
-      "source_url": "http://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XYnVMZDRzeUwzU3gyM3d5cUJIdmc0T3pIRDM4VUx2MGkyeU1MbDE1Q1BXUWZpRDlFSm5qSDN4QWxqZi1EQ1JKNA?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "第十届全球ICT产业峰会 | AI向实而生",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41MWNjOXJ6b2hLako1eGRydml1UWU2aTRvaVJsU2FDS09WMkVTZ2FFcHVJbEVyXzRQMEY0dmRiVE9uX2hQTjJmR1N",
+      "source_url": "https://hea.china.com",
+      "source": "中华网"
     }
   ]
 }
