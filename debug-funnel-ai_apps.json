@@ -4,51 +4,51 @@
     "raw_dedup_junk": 59,
     "trusted": 18,
     "non_trusted_top": {
-      "sina.com.cn": 14,
-      "sina.cn": 6,
-      "china.com": 4,
-      "ttplus.cn": 3,
-      "quasa.io": 2,
-      "digitaltoday.co.kr": 1,
+      "sina.com.cn": 8,
+      "ttplus.cn": 6,
+      "sina.cn": 5,
+      "zhiding.cn": 4,
+      "caiwennews.com": 2,
+      "china.com": 2,
+      "on.cc": 1,
       "guandian.cn": 1,
-      "investing.com": 1,
-      "shobserver.com": 1,
-      "blockchain.news": 1
+      "techwalker.com": 1,
+      "unite.ai": 1
     },
-    "fresh1_24h": 18,
-    "page_fresh": 13,
+    "fresh1_24h": 17,
+    "page_fresh": 16,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "见证吉尼斯世界纪录诞生：纳米Work携AI应用亮相外滩黑客松",
+      "t": "Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "平安产险亮相2026外滩大会 专题分享人工智能应用实践",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "开放公域流量池，抖音做AI应用有新思路",
       "d": "sohu.com"
     },
     {
-      "t": "新「豆包手机」首发体验，智能手机正在变成「行动终端」",
-      "d": "ifanr.com"
+      "t": "豆包手机选择了弹幕最多的打法",
+      "d": "36kr.com"
     },
     {
-      "t": "「周期生活法」：当 AI 不再教女性自律，而是教她顺应节律",
-      "d": "geekpark.net"
+      "t": "AI热潮下的三个追问：数据越多越好？估值越高越强？哪些能胜出？",
+      "d": "thepaper.cn"
     },
     {
-      "t": "从 Anthropic 报告看政企AI 落地的数据安全挑战，永信至诚以「原生安全",
-      "d": "geekpark.net"
+      "t": "行动教育发布“销冠AI系统”：把销冠能力建在组织上",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "沙利文联合健康160正式发布《2026年中国AI医院运营服务价值平台白皮书》丨A",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "原力波官宣亮相威尼斯电影节 科技助力中国电影走向世界舞台",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "达里奥、奥特曼发声，AI安全成焦点，网络安全概念飙升！深信服涨近6%，软件ETF",
-      "d": "eastmoney.com"
+      "t": "让组织AI落地——2026智能协同运营论坛暨致远互联第16届用户大会圆满召开",
+      "d": "sohu.com"
     }
   ]
 }

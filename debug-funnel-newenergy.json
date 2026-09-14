@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 65,
-    "trusted": 9,
+    "raw_dedup_junk": 90,
+    "trusted": 15,
     "non_trusted_top": {
-      "autohome.com.cn": 15,
-      "sina.com.cn": 9,
-      "in-en.com": 8,
-      "sina.cn": 6,
-      "seetao.com": 5,
-      "caiwennews.com": 3,
-      "wedoany.com": 1,
-      "rednet.cn": 1,
-      "china.com": 1,
-      "mydrivers.com": 1
+      "sina.com.cn": 21,
+      "sina.cn": 10,
+      "autohome.com.cn": 8,
+      "seetao.com": 6,
+      "in-en.com": 6,
+      "caiwennews.com": 4,
+      "ofweek.com": 2,
+      "mydrivers.com": 2,
+      "energytrend.cn": 1,
+      "chinaiol.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 7,
-    "relaxed_72h": 1,
+    "fresh1_24h": 15,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "新项目落地开工，规划6条SiC模块产线",
+      "t": "从光伏组件到算电协同：东方日升开辟第二增长曲线",
       "d": "sohu.com"
     },
     {
-      "t": "储能AI创新论坛——释放储能价值:推动规模化应用与新型电力系统建设",
-      "d": "sohu.com"
+      "t": "欧洲电价暴涨6倍，中国科技企业跨界盯上当地阳台",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "储能赛道遭产能摸排：扩产潮按下暂停键，行业从价格战转向价值战",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "新项目落地开工，规划6条SiC模块产线",
+      "d": "eet-china.com"
     },
     {
       "t": "林晓丹赴阿塞拜疆开展系列商务活动",
       "d": "solarbe.com"
     },
     {
-      "t": "重卡补能时代到来！储能，大功率充电桩的核心搭档",
+      "t": "能汇集团设计的集中式大型电化学储能标杆项目顺利投运",
       "d": "solarbe.com"
     },
     {
-      "t": "比亚迪高管透露：首款固态电池车型明年推出",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "全球最大绿甲醇项目投产，海德氢能破局大规模制氢波动难题",
+      "t": "比亚迪粉丝嘉年华官宣：闪充技术正式破解新能源汽车充电痛点",
       "d": "sohu.com"
-    },
-    {
-      "t": "公司百万次循环的高功率全碳型锂离子电容器荣获北京市新产品认证",
-      "d": "solarbe.com"
     }
   ]
 }

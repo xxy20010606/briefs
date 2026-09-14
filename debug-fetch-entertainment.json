@@ -1,10 +1,28 @@
 {
   "type": "entertainment",
-  "total": 98,
+  "total": 86,
   "samples": [
     {
-      "title": "《牛来》导演宣布《牛来2：起航》2027上映：从一个故事，到一段全新的冒险",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbTNNUkVrUi1FRUZ0TTdsbDM2eVFzZlViODRRblB2WG5LQm9pR2M4enlmY1Q3aldsbG94MTZIT0t2TmMtc1NoaGo",
+      "title": "9.7-9.13中国内地一周票房报收3.27亿 《欢迎来龙餐馆》8742.93万五连冠累计超21亿",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41V2VMMmJEQ0xkT0JaQ1oxQmxubEVRa0xrd0wtc1hmc0JrRmhYZEdCOTI2aDZjcWR2NDNLZjR0SHZ2NjhUcTlHWF9",
+      "source_url": "https://www.shangbaoindonesia.com",
+      "source": "Shangbao Indonesia"
+    },
+    {
+      "title": "《牛来》票房已超6000万，导演宣布：《牛来2：起航》2027年上映",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWnBHRGgwRFo3RDhqMGFSdXNTeGVmaDExVkE4MEtDaTZlbUhzTnNxX3hFRS1QbWdPSlp5d1FfR1FmMUhiX1pEaDJ",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.cn"
+    },
+    {
+      "title": "《奥德赛》连续40天领跑韩国票房 成诺兰在韩最卖座作品",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTFja1RBMDVTWGR4eElEY1YydVR6UDI0cWVlYVBQRXFYR00xcXNCbEU3NFk5ZjkxZS03NGVUcFd5ZFNwVTJIR00",
+      "source_url": "https://ent.sina.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "《牛来》导演宣布《牛来2：起航》2027上映，王晶谈《牛来》票房逆袭：平庸在今天的电影市场甚至比粗糙",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR0g3Q3l1ekdOZXB4OUFTODdRa294ZmxhNUFpMUgxMzlBcjlKYTBFSkpHdlB6anFDeTdtOHkxaXoyY280ZGR0cDR",
       "source_url": "https://finance.sina.cn",
       "source": "finance.sina.cn"
     },
@@ -15,28 +33,10 @@
       "source": "매일경제"
     },
     {
-      "title": "一部讲述四场葬礼的越南电影以 300 亿越南盾的票房遥遥领先。",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zaEMwN1NnV3hoemlacm4yR3JhcDJHRjh3VFFxcFJQSnItbkZnVHowSHkyYjluTjNBaDByRlA4dTd1QmFCd2ZzaUN",
-      "source_url": "https://www.vietnam.vn",
-      "source": "Vietnam.vn"
-    },
-    {
       "title": "由洪道和人民艺术家洪云主演的电影自上映以来票房已达300亿越南盾。",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM3lQYXFIZmN4MUlUZ3lsdTFfVGJPMjZ4T0NvbFBrZGk4akF6TkNyN2ZvaEljbk9vNmw1am9hNDZjVjhCYjlhX09",
       "source_url": "https://www.vietnam.vn",
       "source": "Vietnam.vn"
-    },
-    {
-      "title": "《奥德赛》连续40天领跑韩国票房 成诺兰在韩最卖座作品",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSSFhnck9nRUotTWNjQnJKQ3hFSVQ3cnM4eUFXY09tRW0wRDZPOUUyZkVYeGNZZlNlWFJIOXdZdUdDSUV2WnRuSnl",
-      "source_url": "https://www.ajudaily.com",
-      "source": "亚洲日报"
-    },
-    {
-      "title": "30岁，影史第一！“荷兰弟”成全球票房最高演员",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWtzdjJIazE3c215U3VFRkZFZmFtTU95ZmdJMEIzM1g2R0xNMTRWYzZMSDYzNjFwbEZTZmhBUHZSUElSSWtJcFN",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
     }
   ]
 }

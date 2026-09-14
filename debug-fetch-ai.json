@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 75,
+  "total": 69,
   "samples": [
     {
-      "title": "亚洲首发 知了大模型亮相第十二届亚洲教育装备博览会",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MbUFtd3VzaWp0aEY1enF6YUx2bTlUYW1VN2dHU1N2RG9leTd2UnVMTTdVdHFMWnY2Rm1pbE00aV82bDhuUWtSLVd",
-      "source_url": "https://hainan.ifeng.com",
-      "source": "凤凰网"
+      "title": "专访｜白磊：当所有成果都被装进AI大模型，真正的创新如何被看到",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPZ2tNNDhyR2VxX1dTdFcyOTdwNGt3QmJDQ3VfdzJsOFljcnNGRHJ1NERGQ0I2MTdkcXY2THZGU3ViUkQtcHlCeTg",
+      "source_url": "https://www.thepaper.cn",
+      "source": "thepaper.cn"
     },
     {
-      "title": "人工智能与数学读书会第二季启动｜AI在科学与数学领域的应用边界",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DVGpFYXFlTGVNTnFwZTEtbjk1THltV3Rod3lEdVNzS09Pc09ON1EtVWhmMElNc3d2Q0d2cVpIc2NLck1iMmVqZw?",
-      "source_url": "https://hub.baai.ac.cn",
-      "source": "智源社区"
-    },
-    {
-      "title": "AI筑基・金融新生 | 2026金融AI场景创新大会成功举办",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0NRS2xYaExFa2pxR29DTE1iVnJRc3lTempCOXctUlJ1Q2xjbllvSXRpdHhDNVl0WVFUNllPT243ZmpKWUNTRjl",
+      "title": "数据贴签、词元出海、模型上架：山东解锁AI安全应用新场景",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWERyMU1tVUh2NHNFLS1HRE1QQy1iZ3Z4TjNpMnpGOVpTeGZfc05Va0Z2STREQlYtbi1pcVZQa2tKSVFUZWhUTUR",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "擎朗机器人央视“舞”出圈！机器人x算力x音乐大模型，三大国产硬科技外滩大会之夜同台登场",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2UnJKRkVfelNDZ1dvMFNnbUZVN3hjQlBvaWdTTXZrUDJHckxmbG1oNjgyWU05QUdqN0NqR1dRYVoxQkQzMjFTV0N",
-      "source_url": "https://t.cj.sina.cn",
-      "source": "t.cj.sina.cn"
+      "title": "2026“算力中国·AI与算力产业展览会”亮点纷呈（附图片）",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjM3RqMmdRaERWLTRPYlQ2SHA2ekxJVDJIMFNmX1RLc2xlMUpOZG4zUTZQS0ExdlcyMGFwRTE2dWdxdmtkbXNwY3d",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "荆华密算林修醇：向“数据窃密”发起挑战！全链路加密使用云端大模型将是下一个时代的主流",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWYjNQOHN1TTliNEgxRmlreFZTLVZDZGk0YUc5ZU5KWHEtYXdpS3BKMFRUeUVXaWdnNVdrNjd6akZOdjBhQk9aeHJ",
-      "source_url": "https://mtz.china.com",
-      "source": "mtz.china.com"
+      "title": "中国国安部示警AI六大风险：政治安全 泄密 网攻在列",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90ZXNEeDR0aHAwX21Qd0FRVTlEYlZERFhIWXNxNTZqYjYxeG1sNzV2aWpxbmUxRGZkb3Y0bk1oWHVwTWxWMms4NFE",
+      "source_url": "https://www.wenxuecity.com",
+      "source": "文学城"
     },
     {
-      "title": "第十届全球ICT产业峰会 | AI向实而生",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41MWNjOXJ6b2hLako1eGRydml1UWU2aTRvaVJsU2FDS09WMkVTZ2FFcHVJbEVyXzRQMEY0dmRiVE9uX2hQTjJmR1N",
-      "source_url": "https://hea.china.com",
-      "source": "中华网"
+      "title": "关于AI，陶哲轩等25位菲尔兹奖得主发出警告|数学|邓煜|大模型|数学家|共同体_新浪新闻",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeVNybExKcEhYRVhvUnNUM19VVGFVc0tEV3gtTllUUFIwejZjeUw1VTAyTXdzMTA4Rm5mREkyZ0pxaldwZi1lUWJ",
+      "source_url": "https://cj.sina.com.cn",
+      "source": "cj.sina.com.cn"
+    },
+    {
+      "title": "观澜亭︱“含绿量”成“硬杠杠” AI产业发展有了“新标尺”",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DTzJvUmFYaVpreFp3VGRfV2ZXUHU5bnJheEhCYUZ3Ri1OS3ktLWZHRWdOQl94NU4xR0psU0lnMDE1RWNQalZEX3Z",
+      "source_url": "https://news.sina.com.cn",
+      "source": "新浪新闻_手机新浪网"
     }
   ]
 }

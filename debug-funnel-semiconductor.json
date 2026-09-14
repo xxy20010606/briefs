@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 22,
+    "raw_dedup_junk": 47,
+    "trusted": 24,
     "non_trusted_top": {
-      "sina.com.cn": 10,
-      "guandian.cn": 3,
-      "sina.cn": 3,
-      "digitaltoday.co.kr": 2,
-      "indexbox.io": 2,
-      "esmchina.com": 1,
-      "prnasia.com": 1,
-      "chosun.com": 1,
-      "vietnam.vn": 1,
-      "ttplus.cn": 1
+      "sina.cn": 6,
+      "sina.com.cn": 5,
+      "china.com": 2,
+      "ttplus.cn": 2,
+      "mrjjxw.com": 1,
+      "blockweeks.com": 1,
+      "eastmoney.com": 1,
+      "caiwennews.com": 1,
+      "gsi24.com": 1,
+      "tradingkey.com": 1
     },
-    "fresh1_24h": 21,
-    "page_fresh": 16,
+    "fresh1_24h": 24,
+    "page_fresh": 19,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "宁德时代、美团龙珠联手押注！星钥半导体超10亿融资落地",
+      "t": "美股收盘：三大指数集体收跌，半导体、存储芯片遭受重挫#美股走势 #9月15日美股",
       "d": "sohu.com"
     },
     {
-      "t": "日本Rapidus社长小池淳义构想2040年在月球建设半导体工厂",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "赋能工业自动化 成都高新区芯片企业发布新品",
+      "t": "从射频芯片、高端电容到硅光芯片，广东筑牢半导体产业硬核底座",
       "d": "sohu.com"
     },
     {
-      "t": "化合物半导体产业链“工具+装备”集群式突破——IICIE 2026现场观察",
+      "t": "《中国大陆半导体产业现状-2026版》",
       "d": "eet-china.com"
     },
     {
-      "t": "AI大消息，存储芯片巨头大跌",
+      "t": "深夜，美股半导体、光通信、存储芯片股集体重挫",
       "d": "eastmoney.com"
     },
     {
-      "t": "11:06:15【AI算力链涨跌互现，国产芯片涨价与端侧AI落地并进】",
-      "d": "cls.cn"
+      "t": "存储芯片涨价叠加AI算力扩容，芯片设计板块有望迎来哪些催化？科创芯片设计ETF浦",
+      "d": "ifeng.com"
     },
     {
-      "t": "更薄、更亮、更清晰，新一代光学方案亮相2026光博会",
-      "d": "cyol.com"
+      "t": "周刊丨半导体行业投融周动态（09.07—09.13）",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "AI推理大爆发，“悲催”闪迪真有凤凰涅槃？",
+      "d": "36kr.com"
     }
   ]
 }

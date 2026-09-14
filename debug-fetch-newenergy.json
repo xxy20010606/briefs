@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 65,
+  "total": 90,
   "samples": [
     {
-      "title": "【财经分析】储能拍卖启动在即 巴西市场释放中巴合作新空间",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41bGF4WUhGWHh5RF80SGlfYldJNnhUYVpDT1lQS0JGRFFteW9sOF9Fa05HZnJnMS1CZS1BUGw4eUM3cW9yVjNTdXN",
+      "title": "从光伏组件到算电协同：东方日升开辟第二增长曲线",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZDZYQWVORlVBakR5R0dZaGxXTHVQdm1id1VCSVFDRkctNnJJZmIzRVNra2xQTlIxWnp1UkNQZWpnOVZjLW1RLS1",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "欧洲电价暴涨6倍，中国科技企业跨界盯上当地阳台",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0a1FsZ0hoYTBLR04xelFraHd1dGFCSG9MSUs3czNOaTZnSjhCeWlPNkpuVzVjS1QyUGhYNjhSSnE3eGFVeURhOHZ",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "喜报！阿特斯入选“2026民营企业发明专利500家、研发投入500家”双榜单",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JeDlrUHZHRFFiR2xLaFpVTzNNdVE3UThzbFhjQ2t0MlpMY08wVURRazcwNDA3bkNpSnZqTnZBSGpTa1JKRTNjZzJ",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "新项目落地开工，规划6条SiC模块产线",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR3BnWFVDWEUxajIzRUswYlZLbEJvUW8tX0hxVk53cFh2MUU2dnJxODQ0cE9MN01vSlNsMElId2FYS1loUF91a29",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
-    },
-    {
-      "title": "摩洛哥米德尔特光储项目签约",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xSzEtajUwcnhRNExrRWVlMnFxb2x6WGtuMmdVaXp5QWxZc0lxc1IyZDlZSG9vQThKODg5ZXFTUHhnaXFWcHFTTlN",
-      "source_url": "https://www.seetao.com",
-      "source": "seetao.com"
-    },
-    {
-      "title": "储能AI创新论坛——释放储能价值:推动规模化应用与新型电力系统建设",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNWd2REFGT0d2Z1N1eTBfRnYzSWtCakZFYlRqUHVGQXhlYnlMeE5fa0MwSFhMSWo5VkhuS19HZWlsVElial9WRUU",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
-    },
-    {
-      "title": "总投资2500万元！内蒙古纳林陶亥镇新庙村加油加气加氢充电站项目获备案",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVZDZBcEhlTzRnZHR4cXBUNDY4WGQzMEtMNmhJWUZtZ0w5X3diTUJXSk8yVnpoRTFta2poUFFPVjJQelRJVVZhVF9",
-      "source_url": "https://h2.in-en.com",
-      "source": "国际氢能网"
-    },
-    {
-      "title": "2027年韩国高阳电池储能展KBS 2027",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVTFKdU1sazlkNzlScTVVTzhZZWVoQUxmd1o2eXZfeUJaUTRMeFJfUFRPSXhQUk1pSWtwNjM2SG9rSmcwNXM3UWx",
-      "source_url": "https://k.sina.com.cn",
+      "title": "海尔解居志",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTaUkwMVNSUHlNZXlqbzR0NkRBaXlLaUhLT1V5ZklwMDkzbC1HMU81QVJSdUZUYTc5MVExSEN6dnRyTUFDNmRHUkl",
+      "source_url": "https://www.sina.cn",
       "source": "新浪网"
+    },
+    {
+      "title": "ETF看电池 | 新能源行业的核心组件",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT1ZNUmRCSFdsaURTdUZxcVF2MG83VkotRHdLblhkVE9scGxJcXI0SHJzem9obHlFRml2amx3eERqLW42eWtFZFh",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "储能赛道遭产能摸排：扩产潮按下暂停键，行业从价格战转向价值战",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hNlZYM3FDaTd4dmlRb0M0YksyUllyLTJIUE84Y3BnRnBRQ1JBVFdmTEp3WjE3SkRUclVlZHVYRktvTDhOUWdpaUd",
+      "source_url": "https://www.huxiu.com",
+      "source": "虎嗅网"
     }
   ]
 }
