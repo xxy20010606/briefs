@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 59,
-    "trusted": 18,
+    "raw_dedup_junk": 61,
+    "trusted": 19,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "ttplus.cn": 6,
-      "sina.cn": 5,
-      "zhiding.cn": 4,
+      "sina.com.cn": 6,
+      "ttplus.cn": 5,
+      "sina.cn": 4,
+      "unite.ai": 3,
+      "vietnam.vn": 2,
+      "zhiding.cn": 2,
       "caiwennews.com": 2,
-      "china.com": 2,
-      "on.cc": 1,
-      "guandian.cn": 1,
-      "techwalker.com": 1,
-      "unite.ai": 1
+      "cnbeta.com.tw": 1,
+      "baijing.cn": 1,
+      "cbinews.com": 1
     },
     "fresh1_24h": 17,
-    "page_fresh": 16,
-    "relaxed_72h": 0,
+    "page_fresh": 11,
+    "relaxed_72h": 7,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”",
-      "d": "infoq.cn"
+      "t": "大厂AI导购混战：电商告别流量战，比拼AI帮人挑货能力",
+      "d": "bjnews.com.cn"
     },
     {
-      "t": "平安产险亮相2026外滩大会 专题分享人工智能应用实践",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "开放公域流量池，抖音做AI应用有新思路",
+      "t": "2026上海外滩大会：米羊科技发布关系型生产力Agent赛道首个落地产品 探索人",
       "d": "sohu.com"
+    },
+    {
+      "t": "李旻律师：AI仿冒裁判规则划定商业应用边界 差异化配置平台与AI工具提供方责任",
+      "d": "sohu.com"
+    },
+    {
+      "t": "跳出单点工具局限 多元时代科技发布“企业级虚实共生AI底座”战略构想",
+      "d": "36kr.com"
     },
     {
       "t": "豆包手机选择了弹幕最多的打法",
       "d": "36kr.com"
     },
     {
-      "t": "AI热潮下的三个追问：数据越多越好？估值越高越强？哪些能胜出？",
-      "d": "thepaper.cn"
+      "t": "Consumer AI：从模型能力到产品成立，下一代Killer App 还缺什",
+      "d": "huxiu.com"
     },
     {
-      "t": "行动教育发布“销冠AI系统”：把销冠能力建在组织上",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "让组织AI落地——2026智能协同运营论坛暨致远互联第16届用户大会圆满召开",
-      "d": "sohu.com"
+      "t": "Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”",
+      "d": "infoq.cn"
     }
   ]
 }

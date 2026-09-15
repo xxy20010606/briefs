@@ -1,21 +1,21 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 84,
-    "trusted": 18,
+    "raw_dedup_junk": 88,
+    "trusted": 22,
     "non_trusted_top": {
-      "sina.cn": 13,
-      "ttplus.cn": 10,
-      "sortiraparis.com": 5,
-      "titan24.com": 4,
-      "china.com": 4,
+      "sina.cn": 12,
+      "titan24.com": 8,
+      "ttplus.cn": 7,
+      "sortiraparis.com": 6,
+      "sdnews.com.cn": 4,
       "sina.com.cn": 3,
-      "vietnam.vn": 2,
+      "china.com": 3,
+      "yule.com.cn": 2,
       "hangzhou.com.cn": 2,
-      "yzwb.net": 2,
-      "jpchinapress.com": 2
+      "vanpeople.com": 1
     },
-    "fresh1_24h": 18,
+    "fresh1_24h": 21,
     "page_fresh": 18,
     "relaxed_72h": 0,
     "final": 7,
@@ -23,32 +23,32 @@
   },
   "final": [
     {
-      "t": "广州TTG斩获2026KPL王者荣耀职业联赛夏季赛冠军",
+      "t": "蚂蚁电竞 750Hz 助力 FISSURE 裂变天地 3 圆满收官，Legacy",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "九游官网娱乐登录入口网页：游戏界的宝藏，尽览最新动态与赛事信息",
+      "d": "laoyaoba.com"
+    },
+    {
+      "t": "发掘乐趣！pg娱乐电子游戏app麻将胡了的全新动态与赛事安排",
+      "d": "laoyaoba.com"
+    },
+    {
+      "t": "两部极限求生的好莱坞电影内地定档！",
       "d": "sohu.com"
     },
     {
-      "t": "AL夺得LPL总冠军：赛场连商圈，电竞流量涌入上海街巷",
+      "t": "电影撤档改期不如内容提质",
       "d": "sohu.com"
     },
     {
-      "t": "情侣在演唱会求婚引争议",
-      "d": "ifeng.com"
+      "t": "谭松韵新剧《兰香如故》故事一眼望穿，与杨紫的《家业》异曲同工",
+      "d": "163.com"
     },
     {
-      "t": "“还我季洁”的讨论说明了什么（锐见）",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "《第七个人：追踪〈夜宴图〉》：以《夜宴图》为线索叙悬疑故事",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "《兰香如故》：于烟火人间，写“活”的答卷",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "《红楼梦》纽约首演惊艳林肯中心东方美学跨越山海打动海外观众- 中国日报网",
-      "d": "chinadaily.com.cn"
+      "t": "深圳原创舞剧《敦煌归来》香港首演 观众直呼太震撼",
+      "d": "21jingji.com"
     }
   ]
 }

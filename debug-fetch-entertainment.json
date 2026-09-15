@@ -1,7 +1,19 @@
 {
   "type": "entertainment",
-  "total": 86,
+  "total": 90,
   "samples": [
+    {
+      "title": "《牛来》 票房破6，300万导演：续集明年上映",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44N2hGSnBsNWxFSzJvdnJlaEpWaTVaS3FCUF9UMW5RNTh2RlZiazQzdHRWVzRuX3RQOEJhdS04ZTJTZ1J1SG51aTA",
+      "source_url": "https://info.vanpeople.com",
+      "source": "VanPeople"
+    },
+    {
+      "title": "《牛来》｜票房破6,300万 导演：续集明年上映",
+      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQNG50Z1loX2c4MWZoOVQ0Vm5CeGVyOGcwaUZscGNGNV9ZSUt0M05lc1VLNDZ3UE1tbFU5SEwyRmNGdGdza19NZjM",
+      "source_url": "https://dushi.singtao.ca",
+      "source": "dushi.singtao.ca"
+    },
     {
       "title": "9.7-9.13中国内地一周票房报收3.27亿 《欢迎来龙餐馆》8742.93万五连冠累计超21亿",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41V2VMMmJEQ0xkT0JaQ1oxQmxubEVRa0xrd0wtc1hmc0JrRmhYZEdCOTI2aDZjcWR2NDNLZjR0SHZ2NjhUcTlHWF9",
@@ -12,7 +24,7 @@
       "title": "《牛来》票房已超6000万，导演宣布：《牛来2：起航》2027年上映",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWnBHRGgwRFo3RDhqMGFSdXNTeGVmaDExVkE4MEtDaTZlbUhzTnNxX3hFRS1QbWdPSlp5d1FfR1FmMUhiX1pEaDJ",
       "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
+      "source": "新浪网"
     },
     {
       "title": "《奥德赛》连续40天领跑韩国票房 成诺兰在韩最卖座作品",
@@ -24,19 +36,7 @@
       "title": "《牛来》导演宣布《牛来2：起航》2027上映，王晶谈《牛来》票房逆袭：平庸在今天的电影市场甚至比粗糙",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR0g3Q3l1ekdOZXB4OUFTODdRa294ZmxhNUFpMUgxMzlBcjlKYTBFSkpHdlB6anFDeTdtOHkxaXoyY280ZGR0cDR",
       "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
-    },
-    {
-      "title": "1082万《奥德赛》最终也超过《阿凡达2》......位列历代外国电影票房第6位",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEU2gyeDRVdG5fX3dJdmdEOXNuMUJvbWtTZW1fb0JrRU40NHZwQWpTWGZlUTd6WTRjREJDSnRNbTVWVzFYcDhFeEV",
-      "source_url": "https://www.mk.co.kr",
-      "source": "매일경제"
-    },
-    {
-      "title": "由洪道和人民艺术家洪云主演的电影自上映以来票房已达300亿越南盾。",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM3lQYXFIZmN4MUlUZ3lsdTFfVGJPMjZ4T0NvbFBrZGk4akF6TkNyN2ZvaEljbk9vNmw1am9hNDZjVjhCYjlhX09",
-      "source_url": "https://www.vietnam.vn",
-      "source": "Vietnam.vn"
+      "source": "新浪网"
     }
   ]
 }

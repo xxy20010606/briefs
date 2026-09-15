@@ -1,29 +1,41 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 90,
-    "trusted": 15,
+    "raw_dedup_junk": 80,
+    "trusted": 20,
     "non_trusted_top": {
-      "sina.com.cn": 21,
-      "sina.cn": 10,
-      "autohome.com.cn": 8,
-      "seetao.com": 6,
-      "in-en.com": 6,
-      "caiwennews.com": 4,
+      "sina.com.cn": 18,
+      "autohome.com.cn": 9,
+      "sina.cn": 8,
+      "wedoany.com": 2,
+      "gessey.com": 2,
+      "china.com": 2,
       "ofweek.com": 2,
-      "mydrivers.com": 2,
-      "energytrend.cn": 1,
-      "chinaiol.com": 1
+      "digitaltoday.co.kr": 2,
+      "yoojia.com": 1,
+      "seetao.com": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 12,
+    "fresh1_24h": 20,
+    "page_fresh": 10,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "从光伏组件到算电协同：东方日升开辟第二增长曲线",
+      "t": "陈巴尔虎旗122户牧民用上了“安心电”",
+      "d": "cpnn.com.cn"
+    },
+    {
+      "t": "十年向绿行，国网青海电力助力打造国家清洁能源产业高地",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "负价地板再下沉：山东储能的盈利重估",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "能源转型 四川贡献几何",
       "d": "sohu.com"
     },
     {
@@ -31,23 +43,11 @@
       "d": "eet-china.com"
     },
     {
-      "t": "储能赛道遭产能摸排：扩产潮按下暂停键，行业从价格战转向价值战",
-      "d": "huxiu.com"
+      "t": "【明日主题前瞻】全球首个人工智能+脑机接口标准在我国发布",
+      "d": "cls.cn"
     },
     {
-      "t": "新项目落地开工，规划6条SiC模块产线",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "林晓丹赴阿塞拜疆开展系列商务活动",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "能汇集团设计的集中式大型电化学储能标杆项目顺利投运",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "比亚迪粉丝嘉年华官宣：闪充技术正式破解新能源汽车充电痛点",
+      "t": "高管直言燃油车没未来！比亚迪2027年推出固态电池，买车再等等？",
       "d": "sohu.com"
     }
   ]

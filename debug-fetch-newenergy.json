@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 90,
+  "total": 80,
   "samples": [
     {
-      "title": "从光伏组件到算电协同：东方日升开辟第二增长曲线",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZDZYQWVORlVBakR5R0dZaGxXTHVQdm1id1VCSVFDRkctNnJJZmIzRVNra2xQTlIxWnp1UkNQZWpnOVZjLW1RLS1",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "印度ACME Solar 66.68兆瓦光伏项目投运 300兆瓦工程进入分期商运",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4RVdweW9vY3IzOGFWekZlTldENVU1bmUxcVlOaFpmUnBZQWFLc2JsWnpWMmFGMzR4bW1kS0c5T29WVEZnT0J4ZVd",
+      "source_url": "https://www.wedoany.com",
+      "source": "维度网"
     },
     {
-      "title": "欧洲电价暴涨6倍，中国科技企业跨界盯上当地阳台",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0a1FsZ0hoYTBLR04xelFraHd1dGFCSG9MSUs3czNOaTZnSjhCeWlPNkpuVzVjS1QyUGhYNjhSSnE3eGFVeURhOHZ",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "印度2026年上半年新增8.2GWh电池储能容量",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oOUZmZUx3NGpPWWdVYzB3b293T3lLckVTTGRCQ1lOeTVnek9TSXBEaG1fSzF3b0xpaUQ1ZDVPOWxKZkptbWFYVUh",
+      "source_url": "https://www.wedoany.com",
+      "source": "维度网"
     },
     {
-      "title": "喜报！阿特斯入选“2026民营企业发明专利500家、研发投入500家”双榜单",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JeDlrUHZHRFFiR2xLaFpVTzNNdVE3UThzbFhjQ2t0MlpMY08wVURRazcwNDA3bkNpSnZqTnZBSGpTa1JKRTNjZzJ",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "海尔解居志",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTaUkwMVNSUHlNZXlqbzR0NkRBaXlLaUhLT1V5ZklwMDkzbC1HMU81QVJSdUZUYTc5MVExSEN6dnRyTUFDNmRHUkl",
-      "source_url": "https://www.sina.cn",
+      "title": "巴彦淖尔，让绿电“发得出、用得好”",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zMnFzbUo3ZV9NaW9yaFBkZEtBWmE2dHYwWkhpMEJkMkVJallNd01DQ0wyREc0cDRWLWJmMkRuUWFpc0FUekNOQmQ",
+      "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
     },
     {
-      "title": "ETF看电池 | 新能源行业的核心组件",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT1ZNUmRCSFdsaURTdUZxcVF2MG83VkotRHdLblhkVE9scGxJcXI0SHJzem9obHlFRml2amx3eERqLW42eWtFZFh",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "印尼展第二天！山东重工成套方案解锁矿山降本增效新路径",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Iajl1RDdWUU96a3N5WHpxd1IzMndDc3FhWUkxcS1abUJCMGt1Tjl1Z0QxQ0d5VGxILVVfMHpnNGV3blpvVVh6bDZ",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "储能赛道遭产能摸排：扩产潮按下暂停键，行业从价格战转向价值战",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hNlZYM3FDaTd4dmlRb0M0YksyUllyLTJIUE84Y3BnRnBRQ1JBVFdmTEp3WjE3SkRUclVlZHVYRktvTDhOUWdpaUd",
-      "source_url": "https://www.huxiu.com",
-      "source": "虎嗅网"
+      "title": "甘肃古浪200万千瓦光伏项目启动50MW/100MWh构网型储能招标",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fZFFSWlN0ZVBzTFcyaTZUU3VqNE5jT21sbUNEYUdvSWw4M0c2OUJCakRjdmtNd0U4U25mWWNiYVhpS0NGRl9vN1l",
+      "source_url": "https://www.gessey.com",
+      "source": "gessey.com"
+    },
+    {
+      "title": "陈巴尔虎旗122户牧民用上了“安心电”",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxWjFscjYyUDdDZFB0X3FKQWctMTNCa0xJVmhzaFdkZUJ5TTRSZ3JNNVN2NS14eHNkd2pRams0Q3d2RGc3emxiWFF",
+      "source_url": "https://www.cpnn.com.cn",
+      "source": "中国能源新闻网"
     }
   ]
 }

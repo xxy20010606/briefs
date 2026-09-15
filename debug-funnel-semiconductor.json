@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 47,
+    "raw_dedup_junk": 48,
     "trusted": 24,
     "non_trusted_top": {
+      "sina.com.cn": 7,
       "sina.cn": 6,
-      "sina.com.cn": 5,
-      "china.com": 2,
-      "ttplus.cn": 2,
-      "mrjjxw.com": 1,
-      "blockweeks.com": 1,
-      "eastmoney.com": 1,
+      "guandian.cn": 4,
       "caiwennews.com": 1,
       "gsi24.com": 1,
+      "moomoo.com": 1,
+      "china.com": 1,
+      "mydrivers.com": 1,
+      "icloudnews.net": 1,
       "tradingkey.com": 1
     },
     "fresh1_24h": 24,
-    "page_fresh": 19,
+    "page_fresh": 20,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "美股收盘：三大指数集体收跌，半导体、存储芯片遭受重挫#美股走势 #9月15日美股",
+      "t": "国产半导体设备进入质变拐点，半导体设备ETF国泰（159516）标的指数涨超4%",
       "d": "sohu.com"
     },
     {
-      "t": "从射频芯片、高端电容到硅光芯片，广东筑牢半导体产业硬核底座",
+      "t": "ST & Infineon专区丨现货促销，即时库存，下单即发！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "半导体板块早盘活跃，半导体设备ETF易方达（159558）标的指数上涨2.7%",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "三星公开三大客户AI芯片案例 开发周期缩短至9个月",
       "d": "sohu.com"
     },
     {
-      "t": "《中国大陆半导体产业现状-2026版》",
+      "t": "一场展会，看见国产半导体的下一程",
       "d": "eet-china.com"
     },
     {
-      "t": "深夜，美股半导体、光通信、存储芯片股集体重挫",
-      "d": "eastmoney.com"
+      "t": "存储芯片股，直线飙升",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "存储芯片涨价叠加AI算力扩容，芯片设计板块有望迎来哪些催化？科创芯片设计ETF浦",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "周刊丨半导体行业投融周动态（09.07—09.13）",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "AI推理大爆发，“悲催”闪迪真有凤凰涅槃？",
-      "d": "36kr.com"
+      "t": "AI算力瓶颈倒逼半导体材料迭代：四大物理极限催生新材料需求",
+      "d": "huxiu.com"
     }
   ]
 }
