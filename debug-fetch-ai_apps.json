@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 61,
+  "total": 65,
   "samples": [
     {
-      "title": "大厂AI导购混战：电商告别流量战，比拼AI帮人挑货能力",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GOURyNGpvQlRRY2RnclJhejdNeVJ1M2VOSFBIOHRGTV9Kc1BwNVZBSmNzMm5wVHFUU19nMjBIbm9DcjZxdlRGOFJ",
-      "source_url": "https://www.bjnews.com.cn",
-      "source": "新京报"
+      "title": "苹果发布 macOS 27 Golden Gate,Siri AI 登陆 Mac(目前仅支持英文)",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbXZzdjdJVS00emZNb0NLVUxESjFqamVsMkFHMFl6bHR0ZTNPQTJBMTlIRGU2SmRBeHVzRzFSRGF4VnpKbldsMkI",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     },
     {
-      "title": "越南是世界上人工智能应用最广泛的国家之一。",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQem0xeUUwcGduZWlydE9ncHE5eTZtcll4NUl4TFlVam5lbzlSV0xET1ZramM5dm5ydW5fREtCdzNseFJrNXlDWFl",
-      "source_url": "https://www.vietnam.vn",
-      "source": "Vietnam.vn"
+      "title": "优傲机器人发布全新Gen 7平台 赋能工业自动化与物理AI规模化部署",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOThvMHVrbkw1Y3BFZ1MzZ1REUWMzd0NnVzFRcDQ2a1MyemNxbzBnX2M5VUxhV0FvNS1rT0U3b2R6YXozNWpGUnF",
+      "source_url": "https://www.tomorrow-city.com",
+      "source": "tomorrow-city.com"
     },
     {
-      "title": "盖茨基金会承诺投入10亿美元推动公平普惠的AI发展与应用 - 人物",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95TjFoYlVkYXFoRC1GaktfTU5HNFlNNFlsQTBidVFhVUJldVJhQmVVR21zUzBKbkhEaGxmTl9mTlNENXZSaWlrb2h",
-      "source_url": "https://www.cnbeta.com.tw",
-      "source": "Bill Gates"
+      "title": "Meta推出Meta One订阅服务，对其人工智能工具收取更高费用。",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcXBYMXJHNzJETjdzeldlVXo1OEJROGlfS2ZKdUliOXp3aU95YUFGVTYwZ1pOd004QUViMmtDNXNGdy1nMUhoQU1",
+      "source_url": "https://www.cryptopolitan.com",
+      "source": "Cryptopolitan"
     },
     {
-      "title": "“元宇宙第一股”押注“AI造游戏”，Roblox争夺创作者经济红利，股价大涨近13%",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QbTBod240dHZ6SUxDWnVNSTIyMVVSOXFnMVlNbzRNaFNLM0Q0b0lXcFJCMENnWDc3T2c0OHdYS0x5WEh4TUpvS2l",
-      "source_url": "https://www.baijing.cn",
-      "source": "白鲸出海"
+      "title": "思科将 Splunk AI 引入本地部署，推出全新 NVIDIA 加速 AI POD",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUYyNlMxZW85SVZzRl91Y2ZFc3NEMW1Wck9mbUFUT3A4cWZqdGZwNzJsVWowNFRsWENQOUMySWFwTEM5eWdpWFB",
+      "source_url": "https://www.unite.ai",
+      "source": "unite.ai"
     },
     {
-      "title": "2026上海外滩大会：米羊科技发布关系型生产力Agent赛道首个落地产品 探索人机协作新范式",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1FfbFZ3cGs5Zjk3Y01kemxnSGhPcGlzeGNlMG9fN0FRZmFNZEM0RFdxLVVnX1poSUdCM2x1cEVFRGZ4RDZvV1R",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "Meta 推出 Meta One 订阅，将 AI 使用整合至其所有应用",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVUk5ZWVMckQ3dE52N1ZvV0FEMG1sblNmLUgtMk5hUml0MDVTS19LbWE2N0NzMy05YUlQVXczSUZZX0p4dEVuVTd",
+      "source_url": "https://www.unite.ai",
+      "source": "unite.ai"
     },
     {
-      "title": "李旻律师：AI仿冒裁判规则划定商业应用边界 差异化配置平台与AI工具提供方责任",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcUtYVVE1YlJuNy16RVdYeEszOEIwanFTMXU1NS1GNzk1NlhlTEgyRVN2cEt5SjFPX1QzanZ3Nk5IbXl3bVQ3OE5",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "Profound 获得 $180M D 轮融资，估值达 $1.8B",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLWZZZ0o1NHFKMUFGaDAwams1MzJSaWtsVFJYaUFhNTc0TEJYRS1kckxYNDJKQXlzcDVCazJJQ1pOelJfQ0UxNm0",
+      "source_url": "https://www.unite.ai",
+      "source": "unite.ai"
     }
   ]
 }

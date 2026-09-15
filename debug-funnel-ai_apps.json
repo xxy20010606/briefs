@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 61,
-    "trusted": 19,
+    "raw_dedup_junk": 65,
+    "trusted": 16,
     "non_trusted_top": {
-      "sina.com.cn": 6,
-      "ttplus.cn": 5,
-      "sina.cn": 4,
-      "unite.ai": 3,
+      "sina.com.cn": 8,
+      "unite.ai": 7,
+      "cnbeta.com.tw": 3,
+      "icloudnews.net": 3,
+      "pasqualepillitteri.it": 2,
+      "titan24.com": 2,
       "vietnam.vn": 2,
-      "zhiding.cn": 2,
-      "caiwennews.com": 2,
-      "cnbeta.com.tw": 1,
-      "baijing.cn": 1,
-      "cbinews.com": 1
+      "ttplus.cn": 2,
+      "sina.cn": 2,
+      "tomorrow-city.com": 1
     },
-    "fresh1_24h": 17,
+    "fresh1_24h": 15,
     "page_fresh": 11,
-    "relaxed_72h": 7,
+    "relaxed_72h": 1,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "大厂AI导购混战：电商告别流量战，比拼AI帮人挑货能力",
-      "d": "bjnews.com.cn"
+      "t": "学生把作业外包给AI？避免过度依赖AI损害学习力",
+      "d": "sohu.com"
     },
     {
       "t": "2026上海外滩大会：米羊科技发布关系型生产力Agent赛道首个落地产品 探索人",
       "d": "sohu.com"
     },
     {
-      "t": "李旻律师：AI仿冒裁判规则划定商业应用边界 差异化配置平台与AI工具提供方责任",
-      "d": "sohu.com"
+      "t": "月之暗面：网传创始人及员工信息系恶意造谣；OpenAI 放弃今年上市；iPhon",
+      "d": "infoq.cn"
     },
     {
-      "t": "跳出单点工具局限 多元时代科技发布“企业级虚实共生AI底座”战略构想",
-      "d": "36kr.com"
-    },
-    {
-      "t": "豆包手机选择了弹幕最多的打法",
-      "d": "36kr.com"
+      "t": "原飞书产品副总裁施凯文加入阶跃星辰担任合伙人负责Agent OS",
+      "d": "huxiu.com"
     },
     {
       "t": "Consumer AI：从模型能力到产品成立，下一代Killer App 还缺什",
       "d": "huxiu.com"
     },
     {
-      "t": "Arm 推出 AI Portal：当 AI 应用从“模型可用”走向“平台可用”",
-      "d": "infoq.cn"
+      "t": "豆包跨越「临界点」后，字节AI下一步怎么走？",
+      "d": "36kr.com"
+    },
+    {
+      "t": "对话朱啸虎：基础大模型的故事，今年是最后一年",
+      "d": "qq.com"
     }
   ]
 }

@@ -2,53 +2,53 @@
   "type": "ai",
   "stages": {
     "raw_dedup_junk": 70,
-    "trusted": 16,
+    "trusted": 21,
     "non_trusted_top": {
-      "sina.com.cn": 18,
-      "sina.cn": 11,
-      "icloudnews.net": 2,
-      "guandian.cn": 2,
-      "ebrun.com": 2,
-      "autohome.com.cn": 2,
-      "mydrivers.com": 1,
-      "ac.cn": 1,
-      "ustc.edu.cn": 1,
-      "tvoao.com": 1
+      "sina.com.cn": 14,
+      "sina.cn": 9,
+      "autohome.com.cn": 5,
+      "jimo.studio": 4,
+      "bjd.com.cn": 2,
+      "xhby.net": 1,
+      "mrjjxw.com": 1,
+      "53ai.com": 1,
+      "worldjournal.com": 1,
+      "shanghai.gov.cn": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 13,
+    "fresh1_24h": 21,
+    "page_fresh": 16,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "OpenAI押注RSI，国产AI火速交卷！Flash叫板万亿大模型",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "国产大模型密集调价，竞争逻辑或转向“拼生态”，资金连续布局人工智能ETF易方达（",
+      "t": "Meta-World 评测排行榜更新，江苏科研团队自研具身智能大模型登顶",
       "d": "sohu.com"
     },
     {
-      "t": "计划有变，他准备当首富",
-      "d": "qq.com"
+      "t": "华为高层内部讲话万字纪要曝光，郭平回应大模型、昇腾及智能驾驶布局",
+      "d": "thepaper.cn"
     },
     {
-      "t": "上半年山东人工智能核心产业营收850亿元，预计全年突破1600亿元",
-      "d": "sohu.com"
+      "t": "从大模型到AI芯片 资本热潮下产业拐点何时兑现？",
+      "d": "yicai.com"
     },
     {
-      "t": "AI答案里没有你的品牌？GEO发稿平台或许是破局关键",
+      "t": "大模型与AI智能体时代，金融机构如何从风险防御到价值经营？2026年“陆家嘴金融",
+      "d": "yicai.com"
+    },
+    {
+      "t": "想要AI更安全，先让对手来\"挑刺\"：马斯克提议AI巨头在模型发布前相互测试",
+      "d": "cls.cn"
+    },
+    {
+      "t": "AI手机进入系统级Agent时代 苹果、荣耀、豆包探索不同路径",
       "d": "ifeng.com"
     },
     {
-      "t": "紫光云重磅发布紫鸾AI操作系统",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "领开半导体半年完成三轮融资，加速 HBF+ 芯片领跑 AI 推理存储新赛道",
-      "d": "eet-china.com"
+      "t": "AI算力迈入MW时代！液冷正在重算每个Token的成本",
+      "d": "sohu.com"
     }
   ]
 }

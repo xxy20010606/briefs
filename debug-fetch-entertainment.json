@@ -1,7 +1,31 @@
 {
   "type": "entertainment",
-  "total": 90,
+  "total": 97,
   "samples": [
+    {
+      "title": "最近上映电影哪个值得看？2026年9月片单+订票指南+FAQ",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV28xSm95eTh1ZzhWZThsU21leXpjX21iaDhpSDRaQ2lFZEJFS3NKV3VncVV2dVJYM25lNlR5MjNtVDlqWlZVdEQ",
+      "source_url": "https://ent.sina.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "《牛来》续集明年上映？网民提2疑点质疑假宣传",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbk5CcGMyQjJRb2FQUXhSWmhZdWlhMmxyamk3RktnbjRmdFVPdHNKeUVEWTBqbXYzZWdJenFsbVZGMi0tTEhtVU1",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "《牛來》票房破6300万 导演：续集明年上映",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxORXo4YmdwTGJQcFVsQ2xSZTJxUXlHVU5pblNDYmtGc3k0X0VpVzA2dWJBZmhIbkkzU0FUUnYwNlNfYUpRNmRDMDV",
+      "source_url": "https://atvnewsonline.com",
+      "source": "亚洲电视新闻"
+    },
+    {
+      "title": "上映后，《Len Huong》超越了《Ho Linh Trang Si》。",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdWFlbUxoNHVBS05SV0ZSbDNYVHE3S2ZFaEh4OFlWQ1pvWHRsUHdDWHFDWVBIOWxqV1RMb3FJNW1KTG9aZEwzcW8",
+      "source_url": "https://www.vietnam.vn",
+      "source": "Vietnam.vn"
+    },
     {
       "title": "《牛来》 票房破6，300万导演：续集明年上映",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44N2hGSnBsNWxFSzJvdnJlaEpWaTVaS3FCUF9UMW5RNTh2RlZiazQzdHRWVzRuX3RQOEJhdS04ZTJTZ1J1SG51aTA",
@@ -13,30 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQNG50Z1loX2c4MWZoOVQ0Vm5CeGVyOGcwaUZscGNGNV9ZSUt0M05lc1VLNDZ3UE1tbFU5SEwyRmNGdGdza19NZjM",
       "source_url": "https://dushi.singtao.ca",
       "source": "dushi.singtao.ca"
-    },
-    {
-      "title": "9.7-9.13中国内地一周票房报收3.27亿 《欢迎来龙餐馆》8742.93万五连冠累计超21亿",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41V2VMMmJEQ0xkT0JaQ1oxQmxubEVRa0xrd0wtc1hmc0JrRmhYZEdCOTI2aDZjcWR2NDNLZjR0SHZ2NjhUcTlHWF9",
-      "source_url": "https://www.shangbaoindonesia.com",
-      "source": "Shangbao Indonesia"
-    },
-    {
-      "title": "《牛来》票房已超6000万，导演宣布：《牛来2：起航》2027年上映",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWnBHRGgwRFo3RDhqMGFSdXNTeGVmaDExVkE4MEtDaTZlbUhzTnNxX3hFRS1QbWdPSlp5d1FfR1FmMUhiX1pEaDJ",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "《奥德赛》连续40天领跑韩国票房 成诺兰在韩最卖座作品",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTFja1RBMDVTWGR4eElEY1YydVR6UDI0cWVlYVBQRXFYR00xcXNCbEU3NFk5ZjkxZS03NGVUcFd5ZFNwVTJIR00",
-      "source_url": "https://ent.sina.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "《牛来》导演宣布《牛来2：起航》2027上映，王晶谈《牛来》票房逆袭：平庸在今天的电影市场甚至比粗糙",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR0g3Q3l1ekdOZXB4OUFTODdRa294ZmxhNUFpMUgxMzlBcjlKYTBFSkpHdlB6anFDeTdtOHkxaXoyY280ZGR0cDR",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪网"
     }
   ]
 }

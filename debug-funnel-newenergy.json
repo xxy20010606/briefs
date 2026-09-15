@@ -1,30 +1,42 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 80,
-    "trusted": 20,
+    "raw_dedup_junk": 76,
+    "trusted": 19,
     "non_trusted_top": {
-      "sina.com.cn": 18,
-      "autohome.com.cn": 9,
-      "sina.cn": 8,
-      "wedoany.com": 2,
-      "gessey.com": 2,
-      "china.com": 2,
-      "ofweek.com": 2,
-      "digitaltoday.co.kr": 2,
-      "yoojia.com": 1,
-      "seetao.com": 1
+      "sina.com.cn": 17,
+      "autohome.com.cn": 10,
+      "sina.cn": 6,
+      "gessey.com": 3,
+      "dzwww.com": 2,
+      "seetao.com": 2,
+      "ne21.com": 2,
+      "voi.id": 2,
+      "bitauto.com": 2,
+      "ttplus.cn": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 10,
+    "fresh1_24h": 18,
+    "page_fresh": 16,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "陈巴尔虎旗122户牧民用上了“安心电”",
-      "d": "cpnn.com.cn"
+      "t": "满都拉镇：光伏储能项目落地边境小镇",
+      "d": "sohu.com"
+    },
+    {
+      "t": "三友联众：新能源等新兴业务上半年营收同比增长超90%，高附加值产品占比提升",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "阳光新能源蝉联全球新能源企业500强",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "工商业光伏逻辑已变！百亿国企下场，长期主义成新赛点！",
+      "d": "sohu.com"
     },
     {
       "t": "十年向绿行，国网青海电力助力打造国家清洁能源产业高地",
@@ -35,20 +47,8 @@
       "d": "solarbe.com"
     },
     {
-      "t": "能源转型 四川贡献几何",
-      "d": "sohu.com"
-    },
-    {
-      "t": "欧洲电价暴涨6倍，中国科技企业跨界盯上当地阳台",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "【明日主题前瞻】全球首个人工智能+脑机接口标准在我国发布",
-      "d": "cls.cn"
-    },
-    {
-      "t": "高管直言燃油车没未来！比亚迪2027年推出固态电池，买车再等等？",
-      "d": "sohu.com"
+      "t": "车企争夺动力电池话语权，宁德时代怕了吗？",
+      "d": "36kr.com"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 62,
+    "raw_dedup_junk": 71,
     "trusted": 21,
     "non_trusted_top": {
-      "sina.com.cn": 15,
-      "sina.cn": 14,
-      "futunn.com": 4,
-      "vietnam.vn": 2,
-      "sinchew.com.my": 1,
-      "china.com": 1,
-      "wsj.com": 1,
-      "mk.co.kr": 1,
+      "sina.com.cn": 16,
+      "sina.cn": 15,
+      "futunn.com": 5,
+      "moomoo.com": 2,
+      "com.sg": 1,
+      "sfccn.com": 1,
       "newswav.com": 1,
-      "moomoo.com": 1
+      "fx168news.com": 1,
+      "cryptorank.io": 1,
+      "jin10.com": 1
     },
-    "fresh1_24h": 18,
-    "page_fresh": 13,
-    "relaxed_72h": 5,
+    "fresh1_24h": 21,
+    "page_fresh": 18,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "奥瑞德拟不超8.68亿定增曾财报造假原实控人收”红牌”_证券要闻",
+      "t": "辉煌明天(01351.HK)：建议进行股份合并_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "国际金融报：恺英网络拟参股娱美德\"传奇\"算盘与IP困局_股市聚焦_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "A股：大家做好预期，种种迹象表明，今明两天或将迎来大变化！",
+      "t": "A股：大家要做好心理预期，股市很可能再次经历24年历史！",
       "d": "163.com"
+    },
+    {
+      "t": "八马茶业(06980)9月15日斥资64.4万港元回购2万股_股市直播_市场",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "其实私募投资，不用那么紧盯着股票市场",
+      "d": "sohu.com"
+    },
+    {
+      "t": "美联储加息箭在弦上，IMF前首席经济学家莫里斯：现在加息会招致特朗普的愤怒，但不",
+      "d": "36kr.com"
     },
     {
       "t": "美联储 17 日议息：加息降息？关键不在 CPI，在这一点",
       "d": "sohu.com"
     },
     {
-      "t": "ETF收评：科创半导体设备ETF领涨3.81%，粮食ETF领跌4.05%",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "港股早报｜ 人工智能+脑机接口标准发布 iPhone 18 Pro“破发”",
+      "t": "调查：逾八成经济学家预计美联储本周加息 明年3月底前有望再出手！",
       "d": "cls.cn"
-    },
-    {
-      "t": "直击韩股首日“挑灯夜战”",
-      "d": "21jingji.com"
     }
   ]
 }
