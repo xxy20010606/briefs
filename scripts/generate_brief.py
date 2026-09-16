@@ -5,8 +5,20 @@ Usage: python generate_brief.py --type [finance|ai|ai_apps|newenergy|entertainme
 import argparse, json, os, re, sys, time, io, base64, concurrent.futures as cf
 import urllib.parse
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from html import escape
+
+
+# CI runner 是 UTC；统一改用北京时间。
+# 否则清晨那次运行（UTC 23:xx = 北京 07:xx）生成的页面会标成"昨天"，用户上午看到
+# 的是当天最新内容却挂着昨天的日期；同时所有时效判断也会差 8 小时。
+CN_TZ = timezone(timedelta(hours=8))
+
+
+def _now():
+    """当前北京时间（naive，便于与解析出的无时区日期直接比较）。"""
+    return datetime.now(CN_TZ).replace(tzinfo=None)
+
 
 # 防缓存自动重定向脚本（普通字符串，避免 f-string 误解析 JS 中的 {}）
 REDIRECT_SCRIPT = """
@@ -218,7 +230,7 @@ def _diag(msg):
     之前此函数被调用但从未定义 → NameError 导致 CI exit 1（15秒崩），此处补上。"""
     try:
         with io.open("debug-diag.txt", "a", encoding="utf-8") as _f:
-            _f.write(f"[{datetime.now().isoformat(timespec='seconds')}] {msg}\n")
+            _f.write(f"[{_now().isoformat(timespec='seconds')}] {msg}\n")
     except Exception:
         pass
 
@@ -308,7 +320,7 @@ def _url_date(url):
             continue
         try:
             y, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
-            if 2015 <= y <= datetime.now().year + 1 and 1 <= mo <= 12 and 1 <= d <= 31:
+            if 2015 <= y <= _now().year + 1 and 1 <= mo <= 12 and 1 <= d <= 31:
                 return datetime(y, mo, d)
         except ValueError:
             continue
@@ -322,7 +334,7 @@ def _url_date_too_old(url, max_days=1):
     d = _url_date(url)
     if d is None:
         return False  # URL 没带日期则不判定，交给页面级核验
-    return (datetime.now() - d).total_seconds() > max_days * 86400
+    return (_now() - d).total_seconds() > max_days * 86400
 
 
 # ── 权威专业媒体白名单（2026-09-06 用户要求：官方、真实、专业网站）──
@@ -450,7 +462,7 @@ def _page_stale(it, max_hours=24):
     d = _page_publish_date(it.get("link", ""))
     if d is None:
         return False
-    return (datetime.now() - d).total_seconds() > max_hours * 3600
+    return (_now() - d).total_seconds() > max_hours * 3600
 
 
 def _resolve_real_url(glink, source_url=None):
@@ -771,7 +783,7 @@ def _filter_fresh(raw_items, strict_days=1, relax_days=2, min_keep=5):
     relax_days(=2天)；只要还有任何一条近期新闻，就绝不用跨年老文垫数；
     仅当一条近期都没有时才保底返回（避免空页）。
     """
-    now = datetime.now()
+    now = _now()
     def age_ok(it, days):
         d = _parse_date(it.get("date", ""))
         return d is not None and (now - d).total_seconds() <= days * 86400
@@ -1112,8 +1124,8 @@ def build_html(brief_type, categorized, gemini_summaries=None):
     cat_config = CATEGORIES.get(brief_type, {})
     # 解析 accent 颜色为 "r,g,b" 供 rgba() 使用
     accent_rgb = ",".join(str(int(config["accent"][i:i+2], 16)) for i in (1, 3, 5))
-    today = datetime.now().strftime("%Y年%m月%d日")
-    now_str = datetime.now().strftime("%Y年%m月%d日 %H:%M")
+    today = _now().strftime("%Y年%m月%d日")
+    now_str = _now().strftime("%Y年%m月%d日 %H:%M")
 
     # Summary grid colors
     grid_colors = ["red", "blue", "green", "orange"]
