@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 70,
+  "total": 61,
   "samples": [
     {
-      "title": "Meta-World 评测排行榜更新，江苏科研团队自研具身智能大模型登顶",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd29ObGllUDIwZTdIVlVYWFdXUW1jVnhESWVfV2RTY2R4alNnLVVtMXRBMWQtQnRVQ2pWMS1xS3puYkVXb29vN2Z",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
-    },
-    {
-      "title": "作答丨“最懂香港的AI”：一个国产大模型“修炼”记",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55VnF2YkR5WkROX25mVGxXemNJVzRLRG5jek1HYjdZUEl1Vm44emE2cjJmbGhhUnctRFdvbmpodGc2YUcwNnJNNFR",
-      "source_url": "https://www.xhby.net",
-      "source": "新华报业网"
-    },
-    {
-      "title": "飞书发布8.0版与豆包工作原生融合；阶跃星辰发布语音大模型StepAudio 3系列｜未来商业早参",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DSG1pVVBqLTJoTUJ4RWZiOXB1d19wYXhLX2k3YUdYTGJUZU1WM0NUU1pjYVFhUU9vdU8ycVFEY0YwVkFkYnhxTzR",
-      "source_url": "https://www.mrjjxw.com",
-      "source": "mrjjxw.com"
-    },
-    {
-      "title": "轻量化双模型协作打造“材智云脑”",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeVVGbERDdHd5WWdwc2pDaUdrbGxRalZaRVdzMDJCQW9Ja1JCSnZoaExXR0lnSEJ3ZGlfcVRkTzVZZTgtX3dzM2s",
-      "source_url": "https://tech.sina.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "突发！Opus 5.2深夜上线，RSI真来了？",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tNUxiX0dsRHcwcWhEYmtmeGZlT2hGSERZUVJ2YldPelM2cjZBUWRLV3Zka2FZQW1yWGYzeGNUblhkNFU2QnN1a2Z",
-      "source_url": "https://www.53ai.com",
-      "source": "53AI"
-    },
-    {
-      "title": "点军区AI创新创业中心即将开园运营",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84LVN3Vkc2TDg5V3lOQXVBcmVvQ19vRlpIQVJFOTRXaWVJa3J4WjZBQ29CdmpReUVkc0VBVVdPUDZJcVd0b3FKdUt",
+      "title": "AI蒸馏之争与开源跃升：透视全球大模型竞争格局之变",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vSmlQT3JGNXE5LTVua0ZkMUhpQ0NKT0xpM0pJTXl5UDFvUThGTHhFVHN3RUQweVBUdmF5ZVFCMFJVZE53RU9xUzh",
       "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "source": "手机新浪网"
+    },
+    {
+      "title": "农田装上“AI大脑” 湖北移动“万象耕耘”护丰收-AI云资讯",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2Tzd4eV8waVhvNVdxLUxnbXMwSHphenBFVjlkQnRleVI4d25ydjFWWld1Q3JxQW5QZmdZSEVQN3pqYXNJQUJRTkV",
+      "source_url": "https://www.icloudnews.net",
+      "source": "icloudnews.net"
+    },
+    {
+      "title": "Researcher 闭门：为什么 OPD 正在成为大模型时代的基础设施？",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rbldlcS1JZlIzQlRtNnh4TnZEQ2V5c0wzSm9JUnVpTmdMeXdkZzlmRHV0YU91dHZHS2J0bDNHY1YxdlVqZU53ag?",
+      "source_url": "https://hub.baai.ac.cn",
+      "source": "智源社区"
+    },
+    {
+      "title": "主动式AI大模型“企袖KeyAction“完成2026服贸会首秀-AI云资讯",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HOTFNaTBNRG1rS2V0dmtrVXRCd09URVc0THZQaUhKVXQzUEJOQlllUXVGOENOSGszMDZYQzF4LUpkNWwyWUlIY3N",
+      "source_url": "https://www.icloudnews.net",
+      "source": "icloudnews.net"
+    },
+    {
+      "title": "我国现存工业大模型相关企业超6.2万家、年内新增约2.23万家",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPLXo3UEl6NVlicC00LURHdndWaU1MbHRtRGN4X1Q0eVdhbEJRVDBUT29pNEkxWjNCMXFLZFlWMnFvcldSb3ZsZmY",
+      "source_url": "https://www.guandian.cn",
+      "source": "观点网"
+    },
+    {
+      "title": "深圳大模型新赛道强在“硬”底色丨聚焦国家高新区新赛道",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOalNOS0dfMkZvdHNJT2dFRHROUm5jMTkzSXFUU1BLWi1Ub2xKTjZQWW1naUROb1RTVnZ1WWkyZTZSaFZzVEJtV0d",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
     }
   ]
 }

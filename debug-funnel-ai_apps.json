@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 65,
-    "trusted": 16,
+    "raw_dedup_junk": 38,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "unite.ai": 7,
-      "cnbeta.com.tw": 3,
-      "icloudnews.net": 3,
+      "sina.com.cn": 6,
+      "unite.ai": 4,
+      "baijing.cn": 2,
+      "nweon.com": 2,
       "pasqualepillitteri.it": 2,
-      "titan24.com": 2,
-      "vietnam.vn": 2,
-      "ttplus.cn": 2,
-      "sina.cn": 2,
-      "tomorrow-city.com": 1
+      "caiwennews.com": 1,
+      "china.com": 1,
+      "vietnam.vn": 1,
+      "ageclub.net": 1,
+      "ttplus.cn": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 11,
+    "fresh1_24h": 7,
+    "page_fresh": 6,
     "relaxed_72h": 1,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
+      "t": "微步收购主流AI渗透工具CyberStrikeAI",
+      "d": "sohu.com"
+    },
+    {
+      "t": "因丈夫常拍不出理想照片，前TikTok高管推出AI摆拍姿势相机应用",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "企业AI竞争转向组织能力，致远互联锚定组织AI｜爱分析调研",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "华为宣布AI助理小艺Work开启内测！办公、代码、设计样样精通",
+      "d": "sohu.com"
+    },
+    {
+      "t": "娃哈哈因拖欠员工公积金被查封办公楼；华为放权，问界将由赛力斯主导；黄仁勋驳斥AI",
+      "d": "sohu.com"
+    },
+    {
+      "t": "9月16日早餐 | 华为发布3D数据中心；字节AI办公重组",
+      "d": "sohu.com"
+    },
+    {
       "t": "学生把作业外包给AI？避免过度依赖AI损害学习力",
       "d": "sohu.com"
-    },
-    {
-      "t": "2026上海外滩大会：米羊科技发布关系型生产力Agent赛道首个落地产品 探索人",
-      "d": "sohu.com"
-    },
-    {
-      "t": "月之暗面：网传创始人及员工信息系恶意造谣；OpenAI 放弃今年上市；iPhon",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "原飞书产品副总裁施凯文加入阶跃星辰担任合伙人负责Agent OS",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "Consumer AI：从模型能力到产品成立，下一代Killer App 还缺什",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "豆包跨越「临界点」后，字节AI下一步怎么走？",
-      "d": "36kr.com"
-    },
-    {
-      "t": "对话朱啸虎：基础大模型的故事，今年是最后一年",
-      "d": "qq.com"
     }
   ]
 }

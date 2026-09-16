@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 48,
+  "total": 42,
   "samples": [
     {
-      "title": "美股收盘：半导体板块走强思佳讯涨13.55% QORVO涨9.34%；存储芯片股偏弱希捷科技跌4.1",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uNW92ak5xRDBLOExRTTJUZ0VnazZidUhYUFNrdS1RZmQ3YkRSWkRsS2FTcHh4MGFFVGdtMTAwbGwzYUhhdVE2SEZ",
-      "source_url": "https://wap.eastmoney.com",
-      "source": "东方财富"
+      "title": "面板厂，剑指光互连",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XTzduaWxtRU5xdzl6N2ZxZTVjbllqcDdNWkQxb1k0UXZUZkdIcWFfdVFrejBUMGUtaHJlWVNxRmV4cURoRmlaXzY",
+      "source_url": "https://news.pedaily.cn",
+      "source": "投资界"
     },
     {
-      "title": "AI 算力潮下的半导体新战场：资策会MIC解析 2.5D/3D 高阶芯片封装发展趋势与台厂契机",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JVS1ZOG4zV05jcW4wbmZqd2tLMFo5aXFwR1NDY0w1NVZpOUJ5YURiMUpDbnU5VDRqcXE3R3RDZUVvUVBLWjhTTXh",
-      "source_url": "https://naipnews.naipo.com",
-      "source": "北美智權"
-    },
-    {
-      "title": "半年净利润腰斩，\"智能开关龙头\"跨界半导体|司见",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14U0RXaURWR3lJaGQtTGh4bEtNM1VSM0djdkY1MnZzelNiS0FmWEs2UzhCT2V3a2xteEVnWl9GZjBrREhrZXBjdHR",
-      "source_url": "https://finance.sina.com.cn",
+      "title": "芯片出货激增撑起外贸基本盘！日本出口实现连续12个月稳健增长",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVF90U1AtaVRnREtpVlNxQ2o1UlA0WGk3SGtqdmdWMDZmcDJkOUhEUVFyOUdXa01tQ3FFekVSTzhGSGlXQ0VEQ2t",
+      "source_url": "https://finance.sina.cn",
       "source": "新浪财经"
     },
     {
       "title": "AI重构半导体产业新图景：2026 IICIE开幕，全链协同共筑特色芯生态",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVJ1bjBsSHhSZ3JOejFOZHQ1WWRUUG9fNVlQUGtGRFgxYXhYUE9ZS0NTenlHMWNuSk1YTm5xejlnRFNlUkZkMFR",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyVHBfTExkVmUyUU82NVVMYjNiRUFSaUNkbXpNNWUwM3dzQnN3RXdJVE5iR1lrbXVLXzRYMWQ4dG1kbnA0RkFnLWx",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "快讯：三大股指集体翻红 上涨个股超3500只",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVGY2YjZxNVFIWWk0QmlodjNubEVTd2tITnZBczZ1cW9raHlOaFFRUnRJQk5tNDBoRnZuY0dENnlaQzFZVEZRRzI",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "新型可擦写芯片利用光重写电子器件在制造后的行为方式",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdDdEUkh6eWRkZlJsMGNfX3dTT3l5TXB1NmpUNWRnMGlobzFleXVIeGpFWi05ZmxJcGpHd2xYUVoyMlo3NW03SUV",
       "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "source": "sohu.com"
     },
     {
-      "title": "Meta计划明年上半年部署新款自研AI芯片",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrd0NVeUg5QWFMR3BxMk5YcUpTbHI2N1pWaUlUTE01UmpRMnU5c1ZaZHdiLVB1bjNtS29GdG9DVkhkZk0wSWVya1V",
-      "source_url": "https://t.cj.sina.cn",
-      "source": "t.cj.sina.cn"
-    },
-    {
-      "title": "云英谷科技设立两家子公司，拓展光互连与UCIe IP新业务",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5McFhRbWtXOVo5NTQ4Mk41YlZpVTQ1cXRLNTN0Xy0yUV81Z01SdkRzZlIyZVpUWTE0d09VRWV6STVxMjh4cDhOa29",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "股市面面观丨市场热度不减 半导体行业获机构密集调研",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0x0S3dVV3BBWlFrMlpXbm5jVVV1YmNHV19KZ3duN0I3N2E2MHVaSjVMaHRZZWFtUWc2Z2todTJUNXBYb0Y2QjV",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
     }
   ]
 }

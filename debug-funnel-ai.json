@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 70,
-    "trusted": 21,
+    "raw_dedup_junk": 61,
+    "trusted": 16,
     "non_trusted_top": {
-      "sina.com.cn": 14,
-      "sina.cn": 9,
-      "autohome.com.cn": 5,
-      "jimo.studio": 4,
-      "bjd.com.cn": 2,
-      "xhby.net": 1,
-      "mrjjxw.com": 1,
-      "53ai.com": 1,
-      "worldjournal.com": 1,
-      "shanghai.gov.cn": 1
+      "sina.com.cn": 17,
+      "sina.cn": 4,
+      "csdn.net": 3,
+      "icloudnews.net": 2,
+      "xhby.net": 2,
+      "ac.cn": 1,
+      "guandian.cn": 1,
+      "wenxuecity.com": 1,
+      "baijing.cn": 1,
+      "jrj.com.cn": 1
     },
-    "fresh1_24h": 21,
-    "page_fresh": 16,
+    "fresh1_24h": 15,
+    "page_fresh": 10,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
+      "t": "深圳大模型新赛道强在“硬”底色丨聚焦国家高新区新赛道",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "算力赋能制造 激活黄岩模具产业新质生产力",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "【网经社AI科普】DeepSeek：主打数学与代码能力的开源大模型",
+      "d": "sohu.com"
+    },
+    {
+      "t": "智象未来：以“世界模型”重构AI大模型新边界",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "人工智能安全治理，再升级！",
+      "d": "ce.cn"
+    },
+    {
       "t": "Meta-World 评测排行榜更新，江苏科研团队自研具身智能大模型登顶",
       "d": "sohu.com"
     },
     {
-      "t": "华为高层内部讲话万字纪要曝光，郭平回应大模型、昇腾及智能驾驶布局",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "从大模型到AI芯片 资本热潮下产业拐点何时兑现？",
-      "d": "yicai.com"
-    },
-    {
-      "t": "大模型与AI智能体时代，金融机构如何从风险防御到价值经营？2026年“陆家嘴金融",
-      "d": "yicai.com"
-    },
-    {
-      "t": "想要AI更安全，先让对手来\"挑刺\"：马斯克提议AI巨头在模型发布前相互测试",
-      "d": "cls.cn"
-    },
-    {
-      "t": "AI手机进入系统级Agent时代 苹果、荣耀、豆包探索不同路径",
+      "t": "它使尽全力黑中国，英伟达先怕了",
       "d": "ifeng.com"
-    },
-    {
-      "t": "AI算力迈入MW时代！液冷正在重算每个Token的成本",
-      "d": "sohu.com"
     }
   ]
 }

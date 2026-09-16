@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 96,
-    "trusted": 19,
+    "raw_dedup_junk": 72,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.cn": 18,
-      "titan24.com": 16,
-      "vietnam.vn": 6,
-      "sdnews.com.cn": 4,
-      "hangzhou.com.cn": 2,
+      "titan24.com": 15,
+      "sina.cn": 11,
+      "vietnam.vn": 2,
+      "china.com": 2,
+      "bjd.com.cn": 2,
       "rfi.fr": 2,
-      "ctdsb.net": 2,
       "atvnewsonline.com": 1,
-      "vanpeople.com": 1,
-      "singtao.ca": 1
+      "wenxuecity.com": 1,
+      "zhonghongwang.com": 1,
+      "ttplus.cn": 1
     },
-    "fresh1_24h": 19,
-    "page_fresh": 19,
+    "fresh1_24h": 15,
+    "page_fresh": 13,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "埃及电影《生日快乐》定档10月23日",
+      "t": "电视剧《云雀叫天录》开播 演绎戏曲名家传奇人生",
       "d": "sohu.com"
     },
     {
-      "t": "两部极限求生的好莱坞电影内地定档！",
+      "t": "陈思诚执导电影《神探之痕迹》定档10月1日国庆上映 张译马丽陈明昊协作侦破跨世纪",
       "d": "sohu.com"
     },
     {
-      "t": "年内电影市场总票房已破290亿元",
-      "d": "ce.cn"
+      "t": "国台办：希望两岸民众可看到更多台湾业者参与的微短剧精品力作",
+      "d": "163.com"
     },
     {
-      "t": "乐迷成为发布会的主角",
-      "d": "gmw.cn"
+      "t": "“光影绘时代”华语纪录电影大会主题展开展，将持续至11月",
+      "d": "21jingji.com"
     },
     {
-      "t": "“关爱新就业群体电影公益放映交流活动”在京启动",
-      "d": "chinanews.com.cn"
+      "t": "沉浸式圆梦之旅：车厢即片场，轨道拓新局",
+      "d": "china.com.cn"
     },
     {
-      "t": "《兰香如故》：古装群像照见普通人的生存与尊严丨新京报娱论",
-      "d": "bjnews.com.cn"
+      "t": "陈伟霆何穗为儿子办周岁宴 男女方家属悉数出席",
+      "d": "ifeng.com"
     },
     {
-      "t": "奥飞娱乐：喜羊羊与灰太狼下一部电影目前正在制作过程中，还未到定档阶段",
-      "d": "nbd.com.cn"
+      "t": "7部影片定档2026国庆档",
+      "d": "eastmoney.com"
     }
   ]
 }

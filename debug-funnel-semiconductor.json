@@ -1,34 +1,46 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 48,
-    "trusted": 22,
+    "raw_dedup_junk": 42,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.com.cn": 9,
-      "sina.cn": 4,
-      "guandian.cn": 2,
-      "naipo.com": 1,
-      "autohome.com.cn": 1,
-      "seehua.com": 1,
+      "sina.cn": 10,
+      "sina.com.cn": 6,
+      "mydrivers.com": 2,
+      "pedaily.cn": 1,
+      "yemacaijing.com": 1,
+      "moomoo.com": 1,
+      "csdn.net": 1,
+      "straitsresearch.com": 1,
       "chosun.com": 1,
-      "vietnamplus.vn": 1,
-      "ajudaily.com": 1,
-      "sciencenet.cn": 1
+      "naipo.com": 1
     },
-    "fresh1_24h": 22,
-    "page_fresh": 22,
+    "fresh1_24h": 15,
+    "page_fresh": 11,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "美股收盘：半导体板块走强思佳讯涨13.55% QORVO涨9.34%；存储芯片股",
-      "d": "eastmoney.com"
+      "t": "新型可擦写芯片利用光重写电子器件在制造后的行为方式",
+      "d": "sohu.com"
     },
     {
-      "t": "AI重构半导体产业新图景：2026 IICIE开幕，全链协同共筑特色芯生态",
+      "t": "股市面面观丨市场热度不减 半导体行业获机构密集调研",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "芯片工程师，太缺了",
       "d": "sohu.com"
+    },
+    {
+      "t": "存储芯片巨头，快速拉升",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "美股收盘：半导体板块走强思佳讯涨13.55% QORVO涨9.34%；存储芯片股",
+      "d": "eastmoney.com"
     },
     {
       "t": "云英谷科技设立两家子公司，拓展光互连与UCIe IP新业务",
@@ -37,18 +49,6 @@
     {
       "t": "工信部与国家发改委联合印发《电子信息制造业发展\"十五五\"规划》 半导体全链条攻关",
       "d": "huxiu.com"
-    },
-    {
-      "t": "ON、美台，最近又紧俏起来了",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "ETF市场日报 | A股主要指数持续调整！半导体设备与科创半导体主题ETF表现亮",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "12:27:11【市场主线：市场延续缩量震荡走势 PCB、半导体冲高回落】",
-      "d": "cls.cn"
     }
   ]
 }
