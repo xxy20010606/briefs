@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 12,
+    "raw_dedup_junk": 43,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.com.cn": 11,
-      "autohome.com.cn": 8,
+      "sina.com.cn": 7,
+      "autohome.com.cn": 5,
+      "wedoany.com": 4,
       "sina.cn": 3,
+      "in-en.com": 2,
+      "seetao.com": 2,
       "china.com": 2,
       "goalfore.cn": 1,
-      "in-en.com": 1,
-      "cnfeol.com": 1,
-      "wedoany.com": 1,
       "ttplus.cn": 1,
-      "seetao.com": 1
+      "voi.id": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 7,
-    "relaxed_72h": 4,
+    "fresh1_24h": 11,
+    "page_fresh": 11,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "AIDC的下一场竞争，不只拼算力",
-      "d": "solarbe.com"
+      "t": "中创新航“地球家园共建计划”启动",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "深圳一地球基金会捐光伏设备，支持祁连山雪豹保护",
+      "d": "sohu.com"
+    },
+    {
+      "t": "新能源板块随市调整，南方基金旗下新能源ETF南方(516160)跟踪标的指数中证",
+      "d": "cls.cn"
     },
     {
       "t": "满都拉镇：光伏储能项目落地 边境小镇迈出零碳建设第一步",
       "d": "solarbe.com"
     },
     {
-      "t": "比亚迪携卡车矩阵亮相2026德国IAA 提供一站式能源生态解决方案",
-      "d": "sohu.com"
+      "t": "重卡电动化加速，英飞源重卡超充解决方案打通大功率补能“最后一公里”",
+      "d": "solarbe.com"
     },
     {
-      "t": "比亚迪官宣燃油车无未来！2027固态电池落地，两桶油紧急大转型",
+      "t": "比亚迪李云飞：以闪充技术破解充电痛点，引领新能源汽车迈入\"闪充时代\"",
       "d": "sohu.com"
     },
     {
       "t": "新股前瞻|半年收入超去年全年昆仑新材趁热二递表，大举扩张产能备战新周期？_股市直",
       "d": "cnfol.com"
-    },
-    {
-      "t": "三友联众：新能源等新兴业务上半年营收同比增长超90%，高附加值产品占比提升",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "阳光新能源蝉联全球新能源企业500强",
-      "d": "bjnews.com.cn"
     }
   ]
 }

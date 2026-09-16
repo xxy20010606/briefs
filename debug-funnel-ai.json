@@ -1,27 +1,47 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 61,
+    "raw_dedup_junk": 59,
     "trusted": 16,
     "non_trusted_top": {
-      "sina.com.cn": 17,
-      "sina.cn": 4,
-      "csdn.net": 3,
-      "icloudnews.net": 2,
-      "xhby.net": 2,
-      "ac.cn": 1,
-      "guandian.cn": 1,
-      "wenxuecity.com": 1,
-      "baijing.cn": 1,
-      "jrj.com.cn": 1
+      "sina.com.cn": 13,
+      "sina.cn": 9,
+      "ac.cn": 2,
+      "7its.com": 1,
+      "china.com": 1,
+      "chinadaily.com.cn": 1,
+      "bjd.com.cn": 1,
+      "qlwb.com.cn": 1,
+      "tidenews.com.cn": 1,
+      "xhby.net": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 10,
+    "fresh1_24h": 16,
+    "page_fresh": 14,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
+    {
+      "t": "美AI专家大夸DeepSeek、月之暗面，随后话锋一转……",
+      "d": "sohu.com"
+    },
+    {
+      "t": "半壁江山齐至！AI芯片峰会完整议程公布，同期研讨超节点、存储器等核心议题",
+      "d": "zhidx.com"
+    },
+    {
+      "t": "手机销量有望超越苹果？华为高层发声，信息量巨大",
+      "d": "sohu.com"
+    },
+    {
+      "t": "上海AI芯片峰会终极剧透，60+嘉宾齐聚中国模都",
+      "d": "zhidx.com"
+    },
+    {
+      "t": "一家高速集团的24条AI场景，WPS Comate给出了国企落地AI的参考答案",
+      "d": "ifeng.com"
+    },
     {
       "t": "深圳大模型新赛道强在“硬”底色丨聚焦国家高新区新赛道",
       "d": "21jingji.com"
@@ -29,26 +49,6 @@
     {
       "t": "算力赋能制造 激活黄岩模具产业新质生产力",
       "d": "xinhuanet.com"
-    },
-    {
-      "t": "【网经社AI科普】DeepSeek：主打数学与代码能力的开源大模型",
-      "d": "sohu.com"
-    },
-    {
-      "t": "智象未来：以“世界模型”重构AI大模型新边界",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "人工智能安全治理，再升级！",
-      "d": "ce.cn"
-    },
-    {
-      "t": "Meta-World 评测排行榜更新，江苏科研团队自研具身智能大模型登顶",
-      "d": "sohu.com"
-    },
-    {
-      "t": "它使尽全力黑中国，英伟达先怕了",
-      "d": "ifeng.com"
     }
   ]
 }

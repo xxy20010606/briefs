@@ -1,29 +1,41 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 38,
-    "trusted": 7,
+    "raw_dedup_junk": 52,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 6,
-      "unite.ai": 4,
+      "sina.com.cn": 7,
+      "vietnam.vn": 6,
+      "ttplus.cn": 3,
       "baijing.cn": 2,
-      "nweon.com": 2,
-      "pasqualepillitteri.it": 2,
-      "caiwennews.com": 1,
+      "titan24.com": 2,
+      "jinantimes.com.cn": 1,
+      "com.sg": 1,
       "china.com": 1,
-      "vietnam.vn": 1,
-      "ageclub.net": 1,
-      "ttplus.cn": 1
+      "vrtuoluo.cn": 1,
+      "leaderobot.com": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 6,
-    "relaxed_72h": 1,
+    "fresh1_24h": 13,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "微步收购主流AI渗透工具CyberStrikeAI",
+      "t": "视频丨AI视频以假乱真 三招教你辨别真假",
+      "d": "sohu.com"
+    },
+    {
+      "t": "值得买科技AI办公创新实践获行业认可，持续探索AI原生型组织建设",
+      "d": "sohu.com"
+    },
+    {
+      "t": "同一个问题两个AI两个答案，老师能做什么？",
+      "d": "sohu.com"
+    },
+    {
+      "t": "企业AI竞争转向组织能力，致远互联锚定组织AI",
       "d": "sohu.com"
     },
     {
@@ -31,23 +43,11 @@
       "d": "ifeng.com"
     },
     {
-      "t": "企业AI竞争转向组织能力，致远互联锚定组织AI｜爱分析调研",
-      "d": "eet-china.com"
+      "t": "腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变",
+      "d": "geekpark.net"
     },
     {
-      "t": "华为宣布AI助理小艺Work开启内测！办公、代码、设计样样精通",
-      "d": "sohu.com"
-    },
-    {
-      "t": "娃哈哈因拖欠员工公积金被查封办公楼；华为放权，问界将由赛力斯主导；黄仁勋驳斥AI",
-      "d": "sohu.com"
-    },
-    {
-      "t": "9月16日早餐 | 华为发布3D数据中心；字节AI办公重组",
-      "d": "sohu.com"
-    },
-    {
-      "t": "学生把作业外包给AI？避免过度依赖AI损害学习力",
+      "t": "富勒科技完成3.5亿元B轮融资，深创投领投",
       "d": "sohu.com"
     }
   ]

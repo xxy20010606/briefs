@@ -2,21 +2,21 @@
   "type": "entertainment",
   "stages": {
     "raw_dedup_junk": 72,
-    "trusted": 17,
+    "trusted": 20,
     "non_trusted_top": {
-      "titan24.com": 15,
-      "sina.cn": 11,
-      "vietnam.vn": 2,
+      "titan24.com": 21,
+      "sina.cn": 8,
+      "ttplus.cn": 3,
       "china.com": 2,
-      "bjd.com.cn": 2,
-      "rfi.fr": 2,
-      "atvnewsonline.com": 1,
-      "wenxuecity.com": 1,
-      "zhonghongwang.com": 1,
-      "ttplus.cn": 1
+      "sdnews.com.cn": 1,
+      "ua.news": 1,
+      "hrbtv.net": 1,
+      "yule.com.cn": 1,
+      "hk01.com": 1,
+      "yzwb.net": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 13,
+    "fresh1_24h": 20,
+    "page_fresh": 20,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
@@ -27,28 +27,28 @@
       "d": "sohu.com"
     },
     {
-      "t": "陈思诚执导电影《神探之痕迹》定档10月1日国庆上映 张译马丽陈明昊协作侦破跨世纪",
+      "t": "张译主演、陈思诚执导，定档国庆",
+      "d": "guancha.cn"
+    },
+    {
+      "t": "7部影片已定档2026年国庆档",
       "d": "sohu.com"
     },
     {
-      "t": "国台办：希望两岸民众可看到更多台湾业者参与的微短剧精品力作",
-      "d": "163.com"
-    },
-    {
-      "t": "“光影绘时代”华语纪录电影大会主题展开展，将持续至11月",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "沉浸式圆梦之旅：车厢即片场，轨道拓新局",
+      "t": "中国科幻走向广阔产业！第三十七届银河奖揭晓",
       "d": "china.com.cn"
     },
     {
-      "t": "陈伟霆何穗为儿子办周岁宴 男女方家属悉数出席",
-      "d": "ifeng.com"
+      "t": "中国爱乐乐团公布新乐季安排 19套曲目涵盖古今中外",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "7部影片定档2026国庆档",
-      "d": "eastmoney.com"
+      "t": "网络文学作家“胜己”：年轻人写网络小说要有想象力",
+      "d": "cyol.com"
+    },
+    {
+      "t": "中国煤矿文工团团长靳东：作品要经受艺术、市场与观众的多重检验",
+      "d": "cyol.com"
     }
   ]
 }

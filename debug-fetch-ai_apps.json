@@ -1,40 +1,40 @@
 {
   "type": "ai_apps",
-  "total": 38,
+  "total": 52,
   "samples": [
     {
-      "title": "工信部定调2028年软件智能化升级目标，数字经济ETF易方达涨1.46%",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rSUxIVnlUVDE5SjJFelpUR1FGV28zZ2ZlejdRVnNfSEZFUW44VkJSQVdnZGdWeFc2NF9qQWtpdlpWZllXaWVaaFF",
-      "source_url": "https://www.caiwennews.com",
-      "source": "caiwennews.com"
-    },
-    {
-      "title": "谷歌Gemini 3.8 Live登场：语音AI进入\"边推理边对话\"时代，大模型竞赛再升级",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fek5NWVlTZko5ald1WHpTNWhLZUd4TElKbUV2WHRxb2tFSDJhQWtscnE2U000Qlk5TVhiSkRGcHQ5eXpHbUZKYm5",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "炎黄盈动亮相雄安6G+人工智能研讨会，共话通信行业AI规模化落地",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxR1hGRExiclFsbU85MXR2NHNYTW00N21HQ204M3R1dzItWHBuN2FuQ0wtbmJ3czRXNWhDM3YtdC1ReGtnZ3JlR2J",
-      "source_url": "https://hea.china.com",
-      "source": "中华网"
-    },
-    {
-      "title": "Anthropic抛出“AI降速论”之际，AI商业化却在提速，从模型研发到金融顾问，加速兑现AI智能",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kQXQ3VXAtd3BaZnBYd2p0TmJTOGlYaS1RWWhMalA4WjBFRDk0N19LZllaYm1hWEhsVHlNaGdCd2FIZ2NpbEkyNmF",
-      "source_url": "https://www.baijing.cn",
-      "source": "baijing.cn"
-    },
-    {
-      "title": "微步收购主流AI渗透工具CyberStrikeAI",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYXdwQkxSX203MkdMSXJhVnFHVkwxbTN3RnJjWllaZFQ1YnRKRUtQZ0VRRzFqQ0lqSHFkelpHUTB6UGNxdW9iOEk",
+      "title": "视频丨AI视频以假乱真 三招教你辨别真假",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFBKZ1N0akk4WVpETmhjbTRGd3pVdS1UdUR6RF9oaW5JRXFxamVsNEIxRkdMZjdFRWJnRGFqQmxUc21PcUdmdUl",
       "source_url": "https://m.sohu.com",
-      "source": "sohu.com"
+      "source": "Sohu"
     },
     {
-      "title": "将人工智能应用于国际数据挖掘，以支持货币政策建议。",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVG05a1ZjYjYxZDdxT0ZyY3JseXhMUEhCa2M3QkJZWHNsVW5WMlpNeEJORkluWlNiV3JCZ0ZPV3haZEpXbDdEQ3Z",
+      "title": "值得买科技AI办公创新实践获行业认可，持续探索AI原生型组织建设",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZHoxWkdzc2NyU0J0NURXTGRkbERaR2lkMXkzeW9zUkJjbmg3Q1VqRHRZVVJmMFllSVg5YjAwSDJTdDJhZ2p0UXN",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "同一个问题两个AI两个答案，老师能做什么？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDZiTzRlVnFMczZvaGltaWpMWlY5ZnhhR190SlgzV09MNnVpdUVNclN2d0NZdUJKWnhfR3RGeHRkOHEwNUJ0ZlJ",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "梁汝波谈字节企业AI布局：豆包、飞书、火山引擎协同推进 | 大鱼财经",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CNmwwQnhoUVJsbGV4cUExTnhvSS1Wa0pJZkI4THNubFBVU2x3NjJnV3JKUlNiVjlidk1EQTRYWlhSYVZKbnp5V3l",
+      "source_url": "https://www.jinantimes.com.cn",
+      "source": "jinantimes.com.cn"
+    },
+    {
+      "title": "升级到 iOS 27 后，你应该尝试的 7 个功能",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oSV95a3FHNXRYbTJvWGw0a0paSkZFcm9NZW5rS2h0SVNwLVNZZjluamZEdGw4Z194OGlBMnQwbkpxZHdTeVJEdzh",
+      "source_url": "https://www.vietnam.vn",
+      "source": "Vietnam.vn"
+    },
+    {
+      "title": "我们将部署多个数字平台和工具。",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BdW5ZVU9uZmx5TXNacnlQQTMxUDhjUnp3VkRaUHlPdU9lNDFXLVdmSVRkdUFJY0xfRm8zcGRRd2l1R3VCcTFiOTZ",
       "source_url": "https://www.vietnam.vn",
       "source": "Vietnam.vn"
     }

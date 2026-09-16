@@ -1,54 +1,52 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 42,
-    "trusted": 15,
+    "raw_dedup_junk": 45,
+    "trusted": 24,
     "non_trusted_top": {
-      "sina.cn": 10,
+      "sina.cn": 9,
       "sina.com.cn": 6,
-      "mydrivers.com": 2,
-      "pedaily.cn": 1,
-      "yemacaijing.com": 1,
+      "jrj.com.cn": 1,
       "moomoo.com": 1,
-      "csdn.net": 1,
-      "straitsresearch.com": 1,
-      "chosun.com": 1,
-      "naipo.com": 1
+      "cryptorank.io": 1,
+      "mydrivers.com": 1,
+      "china.com": 1,
+      "ttplus.cn": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 11,
+    "fresh1_24h": 24,
+    "page_fresh": 23,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "新型可擦写芯片利用光重写电子器件在制造后的行为方式",
+      "t": "A股放量大反攻，超4100只个股上涨；半导体、存储芯片、PCB、光纤爆发；汽车、",
+      "d": "nbd.com.cn"
+    },
+    {
+      "t": "芯纪源｜以超声之“眼”看见不可见，守护中国芯",
       "d": "sohu.com"
     },
     {
-      "t": "股市面面观丨市场热度不减 半导体行业获机构密集调研",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "芯片工程师，太缺了",
-      "d": "sohu.com"
-    },
-    {
-      "t": "存储芯片巨头，快速拉升",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "美股收盘：半导体板块走强思佳讯涨13.55% QORVO涨9.34%；存储芯片股",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "云英谷科技设立两家子公司，拓展光互连与UCIe IP新业务",
+      "t": "全球高速芯片SerDes IP ，TOP厂商！欢迎补充~",
       "d": "eet-china.com"
     },
     {
-      "t": "工信部与国家发改委联合印发《电子信息制造业发展\"十五五\"规划》 半导体全链条攻关",
-      "d": "huxiu.com"
+      "t": "涨价、交期拉长，模拟芯片行情复苏到哪了？",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "芯聚生态·智启未来| 东芯半导体车规存储产品亮相第六届智能汽车芯片生态大会！_车",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "招行AIC又出手！再投一半导体企业，赛道内已布局3家",
+      "d": "sohu.com"
+    },
+    {
+      "t": "美银证券：AI行业由证明投资回报转向应对芯片及电力限制 上调2030年全球半导体",
+      "d": "cnfol.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 42,
+  "total": 45,
   "samples": [
     {
-      "title": "面板厂，剑指光互连",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XTzduaWxtRU5xdzl6N2ZxZTVjbllqcDdNWkQxb1k0UXZUZkdIcWFfdVFrejBUMGUtaHJlWVNxRmV4cURoRmlaXzY",
-      "source_url": "https://news.pedaily.cn",
-      "source": "投资界"
+      "title": "A股放量大反攻，超4100只个股上涨；半导体、存储芯片、PCB、光纤爆发；汽车、猪肉股下挫| A股收",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1SWM5QjNhU0RZZlpQcjZxaS1mUjhjQTZkNUdYbHVnWW5CdG5EQ1VvUlpJSHZ5aFJGZG9iaDJ5aXFUSm5nQXhrZTF",
+      "source_url": "https://www.nbd.com.cn",
+      "source": "每日经济新闻"
     },
     {
-      "title": "芯片出货激增撑起外贸基本盘！日本出口实现连续12个月稳健增长",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVF90U1AtaVRnREtpVlNxQ2o1UlA0WGk3SGtqdmdWMDZmcDJkOUhEUVFyOUdXa01tQ3FFekVSTzhGSGlXQ0VEQ2t",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "AI重构半导体产业新图景：2026 IICIE开幕，全链协同共筑特色芯生态",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyVHBfTExkVmUyUU82NVVMYjNiRUFSaUNkbXpNNWUwM3dzQnN3RXdJVE5iR1lrbXVLXzRYMWQ4dG1kbnA0RkFnLWx",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "快讯：三大股指集体翻红 上涨个股超3500只",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVGY2YjZxNVFIWWk0QmlodjNubEVTd2tITnZBczZ1cW9raHlOaFFRUnRJQk5tNDBoRnZuY0dENnlaQzFZVEZRRzI",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "新型可擦写芯片利用光重写电子器件在制造后的行为方式",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdDdEUkh6eWRkZlJsMGNfX3dTT3l5TXB1NmpUNWRnMGlobzFleXVIeGpFWi05ZmxJcGpHd2xYUVoyMlo3NW03SUV",
+      "title": "芯纪源｜以超声之“眼”看见不可见，守护中国芯",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa051QkM5MkUxQ2NGYldWeGtzandmT1lRV2MwaHlEOFlLMjRpNmEtVHUtT2NmdnVYN1FycVI0SloxS1kzbGRVNk9",
       "source_url": "https://m.sohu.com",
-      "source": "sohu.com"
+      "source": "Sohu"
     },
     {
-      "title": "股市面面观丨市场热度不减 半导体行业获机构密集调研",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0x0S3dVV3BBWlFrMlpXbm5jVVV1YmNHV19KZ3duN0I3N2E2MHVaSjVMaHRZZWFtUWc2Z2todTJUNXBYb0Y2QjV",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
+      "title": "全球高速芯片SerDes IP ，TOP厂商！欢迎补充~",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GMHZyUy1HUDROd0JvWWl2OUhnX01MYmhTUE12ZHZwa2ptYzYzbGJBT25kY2ROcGNUSlRCTmQ5bU04M0pEZDAxM3Y",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "涨价、交期拉长，模拟芯片行情复苏到哪了？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Pa05DMmg2WjBObkJMREhOSG8wbmdINVlVRGZTZ1BSWWIzUnl5MUFYQzdFdXNzaTQwN3dONndXQjkySlBDaWpfVTJ",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "收评：科创50大涨超4% 算力硬件、半导体产业链全线爆发",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaUZaTENxSnlzbUhVX1hCRzNPRllsUDRRcGxIRWs0LTRJLUE3NzlVdk5EN1loZ0gyVjRHSTgxdks2WHkwd1FDcnM",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "芯聚生态·智启未来| 东芯半导体车规存储产品亮相第六届智能汽车芯片生态大会！_车市动态",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOaUsyR1hROVlzUndGUk9pQlNZN042MEpFRzhFR3VvM2FuaUY2eWlILUQzeTl3WVBmVkVzeWVKZ0hUSnN1T1ZaMGU",
+      "source_url": "http://auto.cnfol.com",
+      "source": "中金在线"
     }
   ]
 }

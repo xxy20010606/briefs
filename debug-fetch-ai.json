@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 61,
+  "total": 59,
   "samples": [
     {
-      "title": "AI蒸馏之争与开源跃升：透视全球大模型竞争格局之变",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vSmlQT3JGNXE5LTVua0ZkMUhpQ0NKT0xpM0pJTXl5UDFvUThGTHhFVHN3RUQweVBUdmF5ZVFCMFJVZE53RU9xUzh",
+      "title": "以AI大模型为基座 中国煤科南京设计院率先推出业内首款煤炭工业矿井辅助设计智能体",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTREFXTWdSMjJUSEtqV2cxX3Fzb2YtSFJMQVhlYlg4WnotVXJ4ek9MTGtSaEw1b0hHRHFxWEp3QURNX3NNUVkxZEl",
       "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "source": "新浪网"
     },
     {
-      "title": "农田装上“AI大脑” 湖北移动“万象耕耘”护丰收-AI云资讯",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2Tzd4eV8waVhvNVdxLUxnbXMwSHphenBFVjlkQnRleVI4d25ydjFWWld1Q3JxQW5QZmdZSEVQN3pqYXNJQUJRTkV",
-      "source_url": "https://www.icloudnews.net",
-      "source": "icloudnews.net"
+      "title": "中控信息eCityAI重磅发布，让AI成为智慧城市安全运行的核心引擎！",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9naXlyUFFnR3huWHM0Xy1YSUJJVzdCSXFHT3J1d3NHNzFISk1GUVVJaGtqaDBZM1cxX05zbGFkZ0Qyb3hqWnloUy1",
+      "source_url": "https://www.7its.com",
+      "source": "7its.com"
     },
     {
-      "title": "Researcher 闭门：为什么 OPD 正在成为大模型时代的基础设施？",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rbldlcS1JZlIzQlRtNnh4TnZEQ2V5c0wzSm9JUnVpTmdMeXdkZzlmRHV0YU91dHZHS2J0bDNHY1YxdlVqZU53ag?",
-      "source_url": "https://hub.baai.ac.cn",
-      "source": "智源社区"
+      "title": "美AI专家大夸DeepSeek、月之暗面，随后话锋一转……",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLWlvU2lKR2NTVmJIMmc0WXd2NDJrMEJIZ3hlQ3VwZzE1UGNUT0tXd0FBdXM0U0RwT2toVko2NURybTZoMUI1WEd",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "主动式AI大模型“企袖KeyAction“完成2026服贸会首秀-AI云资讯",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HOTFNaTBNRG1rS2V0dmtrVXRCd09URVc0THZQaUhKVXQzUEJOQlllUXVGOENOSGszMDZYQzF4LUpkNWwyWUlIY3N",
-      "source_url": "https://www.icloudnews.net",
-      "source": "icloudnews.net"
+      "title": "盖茨基金会承诺两年投入10亿美元，用于AI全球公益落地",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sb0hWUDhTRHB4LTdkTDZyQnR4SWJaNXNxYTFNMDdlWTlfMEstTkl1NkRYOTJwMkVCV01rS0FwMUtrR3d4c2kyZFl",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "我国现存工业大模型相关企业超6.2万家、年内新增约2.23万家",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPLXo3UEl6NVlicC00LURHdndWaU1MbHRtRGN4X1Q0eVdhbEJRVDBUT29pNEkxWjNCMXFLZFlWMnFvcldSb3ZsZmY",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
+      "title": "半壁江山齐至！AI芯片峰会完整议程公布，同期研讨超节点、存储器等核心议题",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TS2RXUnQyaFIzS0hJbExqNWh0ajJFemZkbnNkSG90dGRrZjhIcVZZUTdtSm5Xd0dIVnZBWGkwak0yT0FSa1E?oc=",
+      "source_url": "https://zhidx.com",
+      "source": "智东西"
     },
     {
-      "title": "深圳大模型新赛道强在“硬”底色丨聚焦国家高新区新赛道",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOalNOS0dfMkZvdHNJT2dFRHROUm5jMTkzSXFUU1BLWi1Ub2xKTjZQWW1naUROb1RTVnZ1WWkyZTZSaFZzVEJtV0d",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
+      "title": "手机销量有望超越苹果？华为高层发声，信息量巨大",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVRfdFg1VXZGQnlOMHBfT1R0a1NNZXNOeEZyVEpjTjREdG9sbDMyZERKellTVmVyZjZURHFCTzNSUDUyM1JSYml",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     }
   ]
 }
