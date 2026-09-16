@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 59,
+    "raw_dedup_junk": 66,
     "trusted": 16,
     "non_trusted_top": {
-      "sina.com.cn": 13,
-      "sina.cn": 9,
-      "ac.cn": 2,
-      "7its.com": 1,
-      "china.com": 1,
-      "chinadaily.com.cn": 1,
-      "bjd.com.cn": 1,
-      "qlwb.com.cn": 1,
-      "tidenews.com.cn": 1,
-      "xhby.net": 1
+      "sina.com.cn": 19,
+      "sina.cn": 12,
+      "cryptopolitan.com": 2,
+      "53ai.com": 1,
+      "tianjinwe.com": 1,
+      "cau.edu.cn": 1,
+      "ttplus.cn": 1,
+      "shobserver.com": 1,
+      "yzwb.net": 1,
+      "ac.cn": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 14,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 3,
+    "relaxed_72h": 12,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "美AI专家大夸DeepSeek、月之暗面，随后话锋一转……",
+      "t": "AI公司用数学难题作为模型能力基准，25位菲尔兹奖得主联名警告危害",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "OpenAI突然收购，500万人Codex，永不下线",
+      "d": "36kr.com"
+    },
+    {
+      "t": "当智能体开始替人花钱，如何证明「它是谁」？",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "算法、芯片、生态三线并进 墨芯人工智能多维度推进稀疏计算落地",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "关于AI，武超则最新发声",
       "d": "sohu.com"
     },
     {
-      "t": "半壁江山齐至！AI芯片峰会完整议程公布，同期研讨超节点、存储器等核心议题",
-      "d": "zhidx.com"
-    },
-    {
-      "t": "手机销量有望超越苹果？华为高层发声，信息量巨大",
-      "d": "sohu.com"
-    },
-    {
-      "t": "上海AI芯片峰会终极剧透，60+嘉宾齐聚中国模都",
-      "d": "zhidx.com"
-    },
-    {
-      "t": "一家高速集团的24条AI场景，WPS Comate给出了国企落地AI的参考答案",
+      "t": "诺和诺德与Anthropic达成合作，用Claude大模型加速新药研发",
       "d": "ifeng.com"
     },
     {
-      "t": "深圳大模型新赛道强在“硬”底色丨聚焦国家高新区新赛道",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "算力赋能制造 激活黄岩模具产业新质生产力",
-      "d": "xinhuanet.com"
+      "t": "脉脉报告揭AI人才争夺战：字节跳动拿下新发岗位量与净流入“双第一”，DeepSe",
+      "d": "nbd.com.cn"
     }
   ]
 }

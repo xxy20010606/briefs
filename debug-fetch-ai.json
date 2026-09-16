@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 59,
+  "total": 66,
   "samples": [
     {
-      "title": "以AI大模型为基座 中国煤科南京设计院率先推出业内首款煤炭工业矿井辅助设计智能体",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTREFXTWdSMjJUSEtqV2cxX3Fzb2YtSFJMQVhlYlg4WnotVXJ4ek9MTGtSaEw1b0hHRHFxWEp3QURNX3NNUVkxZEl",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kRmNqcGxHUUtBS0FkcUJLYmprWU5OWDFTMVlWMWdzVE5CcGxscHVCNWJ4U3JLWGxiQnRwU3NLNGV3RkZCTmpsMzN",
+      "source_url": "https://www.53ai.com",
+      "source": "53AI"
     },
     {
-      "title": "中控信息eCityAI重磅发布，让AI成为智慧城市安全运行的核心引擎！",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9naXlyUFFnR3huWHM0Xy1YSUJJVzdCSXFHT3J1d3NHNzFISk1GUVVJaGtqaDBZM1cxX05zbGFkZ0Qyb3hqWnloUy1",
-      "source_url": "https://www.7its.com",
-      "source": "7its.com"
+      "title": "打破AI烧钱魔咒！Anthropic销售额暴增 有望迎来首个季度盈利",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "美AI专家大夸DeepSeek、月之暗面，随后话锋一转……",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLWlvU2lKR2NTVmJIMmc0WXd2NDJrMEJIZ3hlQ3VwZzE1UGNUT0tXd0FBdXM0U0RwT2toVko2NURybTZoMUI1WEd",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "和AI聊天，为嘛让人“上头”？",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0tpWVJ1X1NFLWRjVVQtbFR6QkI4NmcySmZRNkdMdFRsbkRMMWlVQVBwTW42eTVVQTdhMVJSZTZwNFA1TzNVeGQ",
+      "source_url": "https://epaper.tianjinwe.com",
+      "source": "天津日报"
     },
     {
-      "title": "盖茨基金会承诺两年投入10亿美元，用于AI全球公益落地",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sb0hWUDhTRHB4LTdkTDZyQnR4SWJaNXNxYTFNMDdlWTlfMEstTkl1NkRYOTJwMkVCV01rS0FwMUtrR3d4c2kyZFl",
+      "title": "AI入职银行三年后，有银行靠它半年贡献近7000人年工作量",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYldSZjBaQzdCZ0U2NlRtTF8zNnFpRE5LbWZDZmhaNFhKdVlOQUZzTTVHcFRoVkNnajdaYVpnWExOa0t3NkVzcGl",
       "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "source": "finance.sina.cn"
     },
     {
-      "title": "半壁江山齐至！AI芯片峰会完整议程公布，同期研讨超节点、存储器等核心议题",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TS2RXUnQyaFIzS0hJbExqNWh0ajJFemZkbnNkSG90dGRrZjhIcVZZUTdtSm5Xd0dIVnZBWGkwak0yT0FSa1E?oc=",
-      "source_url": "https://zhidx.com",
-      "source": "智东西"
+      "title": "目标ICT“英伟达”！华为高层内部万字长文曝光",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDczhEeUxJZnVEa3kzLWtvb19XNUVvVDR2dUpoSVlpUWNGR0RZT1F4cnhqcXZTUkRnYnFBZjBKdktVZjJkX3g1VFV",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "手机销量有望超越苹果？华为高层发声，信息量巨大",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVRfdFg1VXZGQnlOMHBfT1R0a1NNZXNOeEZyVEpjTjREdG9sbDMyZERKellTVmVyZjZURHFCTzNSUDUyM1JSYml",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "算法、芯片、生态三线并进 墨芯人工智能多维度推进稀疏计算落地",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRm95U0VHVDBPWk1jZEVXbzlmcDJNaUN6Ui0xLUhyQ1BqSWdvdHZRaTlVcnE0YTRuR2JZdUl5QnpaYWJYU2tzcTR",
+      "source_url": "http://jjckb.xinhuanet.com",
+      "source": "经济参考报"
     }
   ]
 }

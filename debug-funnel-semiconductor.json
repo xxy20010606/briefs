@@ -1,52 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 24,
+    "raw_dedup_junk": 46,
+    "trusted": 27,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "sina.com.cn": 6,
+      "sina.com.cn": 5,
+      "sina.cn": 5,
+      "ttplus.cn": 2,
       "jrj.com.cn": 1,
+      "vietnam.vn": 1,
       "moomoo.com": 1,
-      "cryptorank.io": 1,
-      "mydrivers.com": 1,
-      "china.com": 1,
-      "ttplus.cn": 1
+      "semi.org.cn": 1,
+      "indexbox.io": 1,
+      "qianjia.com": 1,
+      "iceo.com.cn": 1
     },
-    "fresh1_24h": 24,
-    "page_fresh": 23,
-    "relaxed_72h": 0,
+    "fresh1_24h": 23,
+    "page_fresh": 4,
+    "relaxed_72h": 16,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "A股放量大反攻，超4100只个股上涨；半导体、存储芯片、PCB、光纤爆发；汽车、",
-      "d": "nbd.com.cn"
-    },
-    {
-      "t": "芯纪源｜以超声之“眼”看见不可见，守护中国芯",
+      "t": "美股收盘：美联储加息，三大指数跳水，道指跌超1%；半导体逆势上涨，英特尔涨超4%",
       "d": "sohu.com"
     },
     {
-      "t": "全球高速芯片SerDes IP ，TOP厂商！欢迎补充~",
+      "t": "半导体、光通信、存储芯片集体大涨，油价大跌",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "江丰电子：高端靶材实现批量供货 获头部企业认证应用于HBM及先进存储芯片制造",
+      "d": "laoyaoba.com"
+    },
+    {
+      "t": "最高1800 W/m·K！RFHIC金刚石散热片正式上线",
       "d": "eet-china.com"
     },
     {
-      "t": "涨价、交期拉长，模拟芯片行情复苏到哪了？",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "芯聚生态·智启未来| 东芯半导体车规存储产品亮相第六届智能汽车芯片生态大会！_车",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "招行AIC又出手！再投一半导体企业，赛道内已布局3家",
+      "t": "反弹来了，半导体相关ETF大涨超5%，资金为何爱买这类产品？",
       "d": "sohu.com"
     },
     {
-      "t": "美银证券：AI行业由证明投资回报转向应对芯片及电力限制 上调2030年全球半导体",
-      "d": "cnfol.com"
+      "t": "股市面面观丨市场热度不减 半导体行业获机构密集调研",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "SK海力士回应：正探索在美生产存储芯片相关方案，尚未敲定",
+      "d": "ifeng.com"
     }
   ]
 }

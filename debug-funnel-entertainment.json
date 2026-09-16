@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 72,
-    "trusted": 20,
+    "raw_dedup_junk": 46,
+    "trusted": 9,
     "non_trusted_top": {
-      "titan24.com": 21,
-      "sina.cn": 8,
-      "ttplus.cn": 3,
-      "china.com": 2,
-      "sdnews.com.cn": 1,
-      "ua.news": 1,
-      "hrbtv.net": 1,
-      "yule.com.cn": 1,
-      "hk01.com": 1,
-      "yzwb.net": 1
+      "sina.cn": 13,
+      "titan24.com": 5,
+      "yzwb.net": 2,
+      "bjd.com.cn": 2,
+      "starnewskorea.com": 1,
+      "8world.com": 1,
+      "360.com": 1,
+      "rediandf.com": 1,
+      "17173.com": 1,
+      "hk01.com": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 20,
-    "relaxed_72h": 0,
+    "fresh1_24h": 7,
+    "page_fresh": 1,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "电视剧《云雀叫天录》开播 演绎戏曲名家传奇人生",
-      "d": "sohu.com"
-    },
-    {
-      "t": "张译主演、陈思诚执导，定档国庆",
-      "d": "guancha.cn"
-    },
-    {
-      "t": "7部影片已定档2026年国庆档",
-      "d": "sohu.com"
-    },
-    {
-      "t": "中国科幻走向广阔产业！第三十七届银河奖揭晓",
+      "t": "第十届平遥国际电影展片单揭晓 近40个国家和地区50部影片入围",
       "d": "china.com.cn"
     },
     {
-      "t": "中国爱乐乐团公布新乐季安排 19套曲目涵盖古今中外",
+      "t": "陈思诚《神探之痕迹》10月1日上映，7部影片定档国庆",
+      "d": "sohu.com"
+    },
+    {
+      "t": "黑人演海伦，马斯克怒批诺兰新片《奥德赛》！曝多家影院取消放映",
+      "d": "sohu.com"
+    },
+    {
+      "t": "2026北京人艺国际戏剧邀请展汇聚10国剧目",
+      "d": "ce.cn"
+    },
+    {
+      "t": "中国爱乐乐团发布2026-2027音乐季 19场演出呈现交响艺术多样面貌",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "国台办发布会聚焦平陆运河通航、谍战剧《交锋》受肯定等热点",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "网络文学作家“胜己”：年轻人写网络小说要有想象力",
-      "d": "cyol.com"
-    },
-    {
-      "t": "中国煤矿文工团团长靳东：作品要经受艺术、市场与观众的多重检验",
-      "d": "cyol.com"
+      "t": "《欢迎来龙餐馆》路演进校园 四城学子在战火故事中学会珍惜当下",
+      "d": "ifeng.com"
     }
   ]
 }

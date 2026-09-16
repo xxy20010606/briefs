@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 52,
-    "trusted": 13,
+    "raw_dedup_junk": 39,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "vietnam.vn": 6,
-      "ttplus.cn": 3,
-      "baijing.cn": 2,
-      "titan24.com": 2,
-      "jinantimes.com.cn": 1,
-      "com.sg": 1,
-      "china.com": 1,
-      "vrtuoluo.cn": 1,
-      "leaderobot.com": 1
+      "sina.com.cn": 6,
+      "sina.cn": 5,
+      "unite.ai": 4,
+      "zhiding.cn": 3,
+      "ac.cn": 2,
+      "jjxw.cn": 1,
+      "sfccn.com": 1,
+      "csdn.net": 1,
+      "xhby.net": 1,
+      "dahecube.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 3,
+    "relaxed_72h": 7,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "视频丨AI视频以假乱真 三招教你辨别真假",
+      "t": "“熟练使用AI”，正成为简历中的“噪音”？",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "AI游戏创作平台热潮：少数人获益，多数人焦虑",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "华为连发20款新品！工程商智能体来了，5分钟完成1小时组网工作",
+      "d": "zhidx.com"
+    },
+    {
+      "t": "指南针上半年销售费用及费用率最高 市盈率最高 控股股东减持套现10亿元 高管薪酬",
       "d": "sohu.com"
     },
     {
-      "t": "值得买科技AI办公创新实践获行业认可，持续探索AI原生型组织建设",
-      "d": "sohu.com"
+      "t": "脉脉报告揭AI人才争夺战：字节跳动拿下新发岗位量与净流入“双第一”，DeepSe",
+      "d": "nbd.com.cn"
     },
     {
-      "t": "同一个问题两个AI两个答案，老师能做什么？",
-      "d": "sohu.com"
+      "t": "亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注",
+      "d": "infoq.cn"
     },
     {
-      "t": "企业AI竞争转向组织能力，致远互联锚定组织AI",
-      "d": "sohu.com"
-    },
-    {
-      "t": "因丈夫常拍不出理想照片，前TikTok高管推出AI摆拍姿势相机应用",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "腾讯、字节、阿里「会战」AI 办公之后：Agent 领域格局已变",
-      "d": "geekpark.net"
-    },
-    {
-      "t": "富勒科技完成3.5亿元B轮融资，深创投领投",
-      "d": "sohu.com"
+      "t": "YC 2026年投资630家公司揭示AI基础设施与工业自动化趋势",
+      "d": "huxiu.com"
     }
   ]
 }

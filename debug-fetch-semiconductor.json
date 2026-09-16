@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 45,
+  "total": 46,
   "samples": [
     {
-      "title": "A股放量大反攻，超4100只个股上涨；半导体、存储芯片、PCB、光纤爆发；汽车、猪肉股下挫| A股收",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1SWM5QjNhU0RZZlpQcjZxaS1mUjhjQTZkNUdYbHVnWW5CdG5EQ1VvUlpJSHZ5aFJGZG9iaDJ5aXFUSm5nQXhrZTF",
-      "source_url": "https://www.nbd.com.cn",
-      "source": "每日经济新闻"
+      "title": "中信建投：全球半导体设备零部件正经历一轮历史罕见的全链条涨价潮",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xLXE5MlcyYzQ3MEJ2TnlSdGJLU0M2bXVBNDNDMFh4T0xnWUNtX2Jqa0lVYk1DZDZid1paeWpXckpxMTI2RVlLOHN",
+      "source_url": "https://m.jrj.com.cn",
+      "source": "金融界"
     },
     {
-      "title": "芯纪源｜以超声之“眼”看见不可见，守护中国芯",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa051QkM5MkUxQ2NGYldWeGtzandmT1lRV2MwaHlEOFlLMjRpNmEtVHUtT2NmdnVYN1FycVI0SloxS1kzbGRVNk9",
+      "title": "美股收盘：美联储加息，三大指数跳水，道指跌超1%；半导体逆势上涨，英特尔涨超4%；存储芯片涨跌不一，",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMExkYkY5bV8yZkZNT1M3bDJXTXlMOVpMcE80QWNqMmx3SmYxT29DbXA2REo1RlVvQnRnN0NCZGFmTHc0Q3Bla2F",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "全球高速芯片SerDes IP ，TOP厂商！欢迎补充~",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GMHZyUy1HUDROd0JvWWl2OUhnX01MYmhTUE12ZHZwa2ptYzYzbGJBT25kY2ROcGNUSlRCTmQ5bU04M0pEZDAxM3Y",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "集微咨询发布《2026年存储行业研究报告》 透视全产业链，国产厂商加速突围",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1Kai13VTZVSmx2bWlBSU14NjRSdlNqSmViYmI3UnBHTDVYTEh6MVJxVVN4R0RkSkttbEd1c1EwbjdJaVU?oc=5",
+      "source_url": "http://laoyaoba.com",
+      "source": "laoyaoba.com"
     },
     {
-      "title": "涨价、交期拉长，模拟芯片行情复苏到哪了？",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Pa05DMmg2WjBObkJMREhOSG8wbmdINVlVRGZTZ1BSWWIzUnl5MUFYQzdFdXNzaTQwN3dONndXQjkySlBDaWpfVTJ",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "国泰CES半导体芯片行业ETF联接A净值上涨4.19%",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRXNMaWZjaGVacjRJbTNwaUhNS0lxb04wT3VwaE9yNHZGcnF6Q1FIb0E4S2pPeldtT0huOWZkQk5NbVNHZnBqLXh",
+      "source_url": "https://video.sina.com.cn",
+      "source": "video.sina.com.cn"
     },
     {
-      "title": "收评：科创50大涨超4% 算力硬件、半导体产业链全线爆发",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaUZaTENxSnlzbUhVX1hCRzNPRllsUDRRcGxIRWs0LTRJLUE3NzlVdk5EN1loZ0gyVjRHSTgxdks2WHkwd1FDcnM",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "国泰CES半导体芯片行业ETF联接E净值上涨4.19%",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzNKaVl4WVAtZkttMDhQcFRoODJOOFU5RUdySlFqb2EwT1FseVFvbmtiMlVIanpyemFiZHZ3Q2lDSjR1VFphMGR",
+      "source_url": "https://video.sina.com.cn",
+      "source": "video.sina.com.cn"
     },
     {
-      "title": "芯聚生态·智启未来| 东芯半导体车规存储产品亮相第六届智能汽车芯片生态大会！_车市动态",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOaUsyR1hROVlzUndGUk9pQlNZN042MEpFRzhFR3VvM2FuaUY2eWlILUQzeTl3WVBmVkVzeWVKZ0hUSnN1T1ZaMGU",
-      "source_url": "http://auto.cnfol.com",
-      "source": "中金在线"
+      "title": "人民锐评：半导体迎来“韬（τ）定律” 中国定义将改写世界",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RYXNPb01HbnRFa180a2M1dFdZU1lLMkpkU3VQTkpIUFRVV25JVjNDM0tORllFci00MzNha1pVTUt2eHJMNzhRRA?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }
