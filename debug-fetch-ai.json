@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 66,
+  "total": 69,
   "samples": [
     {
-      "title": "DeepSeek核心工程师长文刷屏：《我不得不把才华埋葬在昨天》",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kRmNqcGxHUUtBS0FkcUJLYmprWU5OWDFTMVlWMWdzVE5CcGxscHVCNWJ4U3JLWGxiQnRwU3NLNGV3RkZCTmpsMzN",
-      "source_url": "https://www.53ai.com",
-      "source": "53AI"
+      "title": "汪涛详解华为 AI 战略：算力为核心，昇腾 960 提前登场，PB 级 KV Cache 把基础设施",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tbGloTUc5Uk1yQldjUFZHbndYRkRGM09RUXI1YmwzajFIdjFiTm03VVQxUmlrTEZiM1BrSFZWTlpKM0ctSEZHeFB",
+      "source_url": "https://www.infoq.cn",
+      "source": "InfoQ-CN"
     },
     {
-      "title": "打破AI烧钱魔咒！Anthropic销售额暴增 有望迎来首个季度盈利",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FZ3J5WWVWb3ZmU1gtTnNjVVRWdWM1ZnpsUUhxZG9XU2k5UnBVekZsaURCaUViSTRuaHBZZWdURXI1MnczZ3QtLQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "被“10年内AI灭世概率超10%”刷屏？先别急，这边互联网已经100%要被Agent搞崩了……",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03LTBVVW1DV2tDZ1hlT2dXWlJwamp1ZWtDZWVLclBFWG5WRV9UN043dGhtWFdBN3R3NkM3MjV0SmU0akNwRHdMSlR",
+      "source_url": "https://blog.csdn.net",
+      "source": "blog.csdn.net"
     },
     {
-      "title": "和AI聊天，为嘛让人“上头”？",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0tpWVJ1X1NFLWRjVVQtbFR6QkI4NmcySmZRNkdMdFRsbkRMMWlVQVBwTW42eTVVQTdhMVJSZTZwNFA1TzNVeGQ",
-      "source_url": "https://epaper.tianjinwe.com",
-      "source": "天津日报"
+      "title": "华为汪涛：聚焦AI基础设施，打造智能世界的硅基黑土地",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyRDJkVUJwak5ud3d5TXdBaFVMdVFCVWIwUUdaYUl5QmtxUnZzdHlMaWg0T0ViVEhYblZQZGtmVXdITm5GbFhXeHZ",
+      "source_url": "http://news.10jqka.com.cn",
+      "source": "同花顺财经"
     },
     {
-      "title": "AI入职银行三年后，有银行靠它半年贡献近7000人年工作量",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYldSZjBaQzdCZ0U2NlRtTF8zNnFpRE5LbWZDZmhaNFhKdVlOQUZzTTVHcFRoVkNnajdaYVpnWExOa0t3NkVzcGl",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
+      "title": "vivo开发者大会群访实录：大模型够不够用？真正限制你的是想象力",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qU2ZZMGI0X3lfb3ItcDlWZVpoLTdRdTJpeUtKZkt0dEd1VVpfVl9hb2JqS2pIdVJyQzJaZkpfSGdLTEc2YjJUQl8",
+      "source_url": "https://mobile.zol.com.cn",
+      "source": "中关村在线"
     },
     {
-      "title": "目标ICT“英伟达”！华为高层内部万字长文曝光",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDczhEeUxJZnVEa3kzLWtvb19XNUVvVDR2dUpoSVlpUWNGR0RZT1F4cnhqcXZTUkRnYnFBZjBKdktVZjJkX3g1VFV",
+      "title": "2026年安徽省级特色工业大模型、工业智能体名单公示",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50Q0QxSnhLTnBHZU9HYk4zSWZ1X3psYXN3NGxOR0dYcEVBSW5BSkFDb0pEWW5ETWZoMzZNenhHZDlEYkJoZ1JQM3M",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "finance.sina.com.cn"
+    },
+    {
+      "title": "券商秋招“AI含量”浓郁：要能开发也要扎进核心业务线赋能，“AI面试官”暂未广泛启用",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUExclhLWmQ5dUpQRnVNU2NZTkdyOFhoSUFFMFVab1dwWFhaNU1GQVRtQ0xpY3liMklyQVk4d05CR3FYbmJoaDZ",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
-    },
-    {
-      "title": "算法、芯片、生态三线并进 墨芯人工智能多维度推进稀疏计算落地",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRm95U0VHVDBPWk1jZEVXbzlmcDJNaUN6Ui0xLUhyQ1BqSWdvdHZRaTlVcnE0YTRuR2JZdUl5QnpaYWJYU2tzcTR",
-      "source_url": "http://jjckb.xinhuanet.com",
-      "source": "经济参考报"
     }
   ]
 }

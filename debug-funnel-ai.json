@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 66,
-    "trusted": 16,
+    "raw_dedup_junk": 69,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.com.cn": 19,
-      "sina.cn": 12,
-      "cryptopolitan.com": 2,
-      "53ai.com": 1,
-      "tianjinwe.com": 1,
-      "cau.edu.cn": 1,
-      "ttplus.cn": 1,
-      "shobserver.com": 1,
-      "yzwb.net": 1,
-      "ac.cn": 1
+      "sina.com.cn": 16,
+      "sina.cn": 9,
+      "csdn.net": 3,
+      "china.com": 3,
+      "ttplus.cn": 3,
+      "eastmoney.com": 2,
+      "zol.com.cn": 1,
+      "cctime.com": 1,
+      "in-en.com": 1,
+      "aibase.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 3,
-    "relaxed_72h": 12,
+    "fresh1_24h": 17,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "AI公司用数学难题作为模型能力基准，25位菲尔兹奖得主联名警告危害",
-      "d": "huxiu.com"
+      "t": "汪涛详解华为 AI 战略：算力为核心，昇腾 960 提前登场，PB 级 KV C",
+      "d": "infoq.cn"
     },
     {
-      "t": "OpenAI突然收购，500万人Codex，永不下线",
-      "d": "36kr.com"
+      "t": "华为汪涛：聚焦AI基础设施，打造智能世界的硅基黑土地",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "当智能体开始替人花钱，如何证明「它是谁」？",
-      "d": "geekpark.net"
-    },
-    {
-      "t": "算法、芯片、生态三线并进 墨芯人工智能多维度推进稀疏计算落地",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "关于AI，武超则最新发声",
+      "t": "【网经社AI科普】智谱清言：基于GLM-4的国产全能型高安全大模型",
       "d": "sohu.com"
     },
     {
-      "t": "诺和诺德与Anthropic达成合作，用Claude大模型加速新药研发",
-      "d": "ifeng.com"
+      "t": "千套超节点落地：国产AI算力底座迈入规模商用新阶段",
+      "d": "sohu.com"
     },
     {
-      "t": "脉脉报告揭AI人才争夺战：字节跳动拿下新发岗位量与净流入“双第一”，DeepSe",
-      "d": "nbd.com.cn"
+      "t": "AI视频“交付时代”来了，智象未来王科：不拼参数，拼价值",
+      "d": "cyol.com"
+    },
+    {
+      "t": "AI 教学卡、科研慢、运维累？高校算力升级有了新方案",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "IDC发布Agent评估报告 中国电信TeleAgent跻身国内AI智能体第一梯",
+      "d": "gmw.cn"
     }
   ]
 }

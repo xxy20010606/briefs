@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 39,
-    "trusted": 12,
+    "raw_dedup_junk": 44,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.com.cn": 6,
+      "ttplus.cn": 9,
       "sina.cn": 5,
-      "unite.ai": 4,
-      "zhiding.cn": 3,
-      "ac.cn": 2,
-      "jjxw.cn": 1,
-      "sfccn.com": 1,
-      "csdn.net": 1,
-      "xhby.net": 1,
-      "dahecube.com": 1
+      "china.com": 3,
+      "sina.com.cn": 3,
+      "digitaltoday.co.kr": 2,
+      "titan24.com": 2,
+      "yzwb.net": 1,
+      "zhiding.cn": 1,
+      "vanpeople.com": 1,
+      "hk01.com": 1
     },
     "fresh1_24h": 11,
-    "page_fresh": 3,
-    "relaxed_72h": 7,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
+      "t": "微软发布1.138版VS Code：优化AI智能体协作",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "从 AI 工具到城市生活入口：讯飞 AI 眼镜接入蚂蚁灵影 AOS 背后的行业跃",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "AI重塑文创：从创作工具到生产系统",
+      "d": "thepaper.cn"
+    },
+    {
       "t": "“熟练使用AI”，正成为简历中的“噪音”？",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "AI游戏创作平台热潮：少数人获益，多数人焦虑",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "华为连发20款新品！工程商智能体来了，5分钟完成1小时组网工作",
-      "d": "zhidx.com"
-    },
-    {
-      "t": "指南针上半年销售费用及费用率最高 市盈率最高 控股股东减持套现10亿元 高管薪酬",
+      "t": "两部门规划抢抓AI机遇，创业板人工智能ETF华夏涨1.11%",
       "d": "sohu.com"
     },
     {
-      "t": "脉脉报告揭AI人才争夺战：字节跳动拿下新发岗位量与净流入“双第一”，DeepSe",
-      "d": "nbd.com.cn"
+      "t": "对话Articuler.ai：AI社交最不该做的，是让Agent替你社交",
+      "d": "sohu.com"
     },
     {
-      "t": "亚马逊 CTO 要来中国了，说实话，这比泛滥的 AI 发布会值得关注",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "YC 2026年投资630家公司揭示AI基础设施与工业自动化趋势",
-      "d": "huxiu.com"
+      "t": "IDC发布Agent评估报告 中国电信TeleAgent跻身国内AI智能体第一梯",
+      "d": "gmw.cn"
     }
   ]
 }

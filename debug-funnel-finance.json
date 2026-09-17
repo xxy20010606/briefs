@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 59,
+    "raw_dedup_junk": 60,
     "trusted": 18,
     "non_trusted_top": {
-      "sina.cn": 8,
-      "sina.com.cn": 7,
-      "futunn.com": 4,
-      "ajudaily.com": 2,
-      "eastmoney.com": 2,
-      "sfccn.com": 1,
-      "vietnam.vn": 1,
-      "shangbaoindonesia.com": 1,
-      "wsj.com": 1,
-      "idnfinancials.com": 1
+      "sina.com.cn": 10,
+      "sina.cn": 7,
+      "titan24.com": 3,
+      "china.com": 2,
+      "vietnam.vn": 2,
+      "bjd.com.cn": 2,
+      "sinchew.com.my": 1,
+      "newswav.com": 1,
+      "eastmoney.com": 1,
+      "chosun.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 6,
-    "relaxed_72h": 10,
+    "fresh1_24h": 17,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "A股：刚刚，突然消息来了，今天，股市要变盘？",
+      "t": "美联储突然加息25个点，特朗普当场怒吼要降息：美联储在跟谁较劲",
+      "d": "sohu.com"
+    },
+    {
+      "t": "沃什打脸特朗普？美联储加息的三个看点丨国际观察",
+      "d": "sohu.com"
+    },
+    {
+      "t": "美联储加息，特朗普回应：赶紧降息！",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "记者追问凯文·沃什：特朗普反复喊降息，美联储加息如何向他交代",
+      "d": "qq.com"
+    },
+    {
+      "t": "全票通过，美联储加息，专家：美国经济或将迎艰难一年",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "A股：股市拐点来临了，不出意外，周五很可能这样走！",
       "d": "163.com"
-    },
-    {
-      "t": "特朗普：赶紧降息",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "年内至少再加一次！美联储时隔三年再加息，白宫：“相当不幸”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "白宫抨击美联储加息决定“相当令人遗憾”，特朗普敦促降息至1%以下",
-      "d": "sohu.com"
-    },
-    {
-      "t": "12:0全票通过，加息25个基点！美联储时隔3年2个月重启加息，美股跳水！16名",
-      "d": "ifeng.com"
     },
     {
       "t": "加息靴子落地，美股科技股保持强势，黄金短线下跌",
       "d": "10jqka.com.cn"
-    },
-    {
-      "t": "破发股*ST航图跌3.98% A股7年募24亿国信证券保荐_证券要闻",
-      "d": "cnfol.com"
     }
   ]
 }

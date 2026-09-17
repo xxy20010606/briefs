@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 39,
+  "total": 44,
   "samples": [
     {
-      "title": "“熟练使用AI”，正成为简历中的“噪音”？",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSdUFFaUQyT1p5enFoN0lLdklVSHNhbkZfVk1IcjNqNzlwOUxCQ0UwLV9qb05odVM3ajNmeklkcFNseFRpRXJWbDh",
-      "source_url": "https://www.chinanews.com.cn",
-      "source": "chinanews.com.cn"
+      "title": "AI赋能出海！盐城市盐都区盐渎街道助力外贸企业解锁数智转型新动能",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmeXhDUTBCb2hySEtkb2FQS2I3bDA3QVN6dGhhb2hjTG5oaW5uSXc1aTl0RU5OTDBRd3BWR2FfSGVCWmxacmlTQlp",
+      "source_url": "https://www.yzwb.net",
+      "source": "紫牛新闻"
     },
     {
-      "title": "OpenAI扩展ChatGPT广告AI功能，测试全新广告互动形式",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiWUxEeDh3M1ItREItc1I0WUU2U29QdVBnY3YweG9DV3JJVXRMSjZOdTBjUXM1UnB6Y0FJRzEwMjlUalR5Qko0WVo",
-      "source_url": "https://wallstreetcn.com",
-      "source": "华尔街见闻"
+      "title": "微软发布1.138版VS Code：优化AI智能体协作",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kd1Z5dVRTeVhHTmhwWlJKaHJRLWtpSXUycHphNHBTa3RVMXh0cXRRaWRGTUVKZUNGbzQxQjExSDExRXd5Z1pKS2J",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
     },
     {
-      "title": "逐步精确测量，准确研究社会现象-AI科学与公共服务",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3TDBqczQ2VHZmNlpkMmFMak9uYzJNTXhSM2s1NHZjOXZIbGZJeFJjNTMwaVByMXNXUEhaZE5zblBuMVNPNFowMTV",
+      "title": "HubSpot重构CRM平台，全面引入情境化AI能力-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94QjhaVUR2QS00VkRSNGRsLUpQeklsLWFNUS1jWVVTVjNfYzZkYkVyQjR5Z3Q4c2tzTE1XS1dKRGthQk9Bb19MMEZ",
       "source_url": "https://www.zhiding.cn",
       "source": "至顶网"
     },
     {
-      "title": "九江学院附属医院获市总工会AI赋能办公与艺术创作大赛一等奖",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91eDJKS1poWGo1WWs2eW1uLTZxZjF6SVBoQUVaalVBeEdxUTlhOW51V3prejE3MGQ0WUU5ZklCR0U0cDdhZmpfcDF",
-      "source_url": "https://www.jjxw.cn",
-      "source": "九江新闻网"
+      "title": "从 AI 工具到城市生活入口：讯飞 AI 眼镜接入蚂蚁灵影 AOS 背后的行业跃迁",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qRlpVLXVjZ2F5SUVVNnFJYTVMc19CREdwWXBtQ296ck5faW56QnJYcEdjbjVVZ3RVSWZEQnVFTmRhOUM4a29ELS1",
+      "source_url": "https://www.geekpark.net",
+      "source": "geekpark.net"
     },
     {
-      "title": "优化数据中心选址的社区规划工具-智算中心",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JRjc5ZU1YVExLcU5fdGhyTndsblJMUGlHYlB3bUQ3Nk92UHpCbk4zTWJrZFk5MTBVMF9hcHQ0dzktalhJenU2Zl9",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "AI重塑文创：从创作工具到生产系统",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hWGZaRmJkREpHeHhjeGV3MXdqellxNmk4bVJNT3ZNZE5ISjh4bWtZRGlSYTAySzNMUmVhZzRKeHV3eUVIbUROSXZ",
+      "source_url": "https://m.thepaper.cn",
+      "source": "thepaper.cn"
     },
     {
-      "title": "一手实测努比亚“豆包AI手机”，支付环节交还用户执行",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHd1BoM1hWY1hBWmRNNHlBT1JyUG5kYlAwRDBkV0xYLUZqRkRMR0lQc2dsWmJoY1gxTE9CWlgyUnFEZ3phV1VxZE8",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
+      "title": "优傲机器人发布全新Gen 7平台 赋能工业自动化与物理AI规模化部署",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vZ0xQSHNvLXdHenBMaWFlbjFuaV9qaWg4VDJlWS1vVGlBU1EwbVhuNF8yT3NEeG5WYVpQZXM0WmVCTk5Pa1BnZ2V",
+      "source_url": "https://hb.china.com",
+      "source": "中华网"
     }
   ]
 }
