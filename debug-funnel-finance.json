@@ -1,54 +1,42 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 60,
-    "trusted": 18,
+    "raw_dedup_junk": 43,
+    "trusted": 9,
     "non_trusted_top": {
       "sina.com.cn": 10,
-      "sina.cn": 7,
-      "titan24.com": 3,
-      "china.com": 2,
-      "vietnam.vn": 2,
-      "bjd.com.cn": 2,
+      "sina.cn": 9,
+      "futunn.com": 4,
+      "moomoo.com": 1,
+      "vietnam.vn": 1,
       "sinchew.com.my": 1,
       "newswav.com": 1,
-      "eastmoney.com": 1,
-      "chosun.com": 1
+      "scol.com.cn": 1,
+      "chosun.com": 1,
+      "guandian.cn": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 8,
+    "page_fresh": 2,
+    "relaxed_72h": 2,
+    "final": 4,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "美联储突然加息25个点，特朗普当场怒吼要降息：美联储在跟谁较劲",
-      "d": "sohu.com"
+      "t": "快手-W(01024)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
     },
     {
-      "t": "沃什打脸特朗普？美联储加息的三个看点丨国际观察",
-      "d": "sohu.com"
+      "t": "恒生指数(HKHSI)股票股价_行情_走势图_资讯",
+      "d": "xueqiu.com"
     },
     {
-      "t": "美联储加息，特朗普回应：赶紧降息！",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "记者追问凯文·沃什：特朗普反复喊降息，美联储加息如何向他交代",
-      "d": "qq.com"
-    },
-    {
-      "t": "全票通过，美联储加息，专家：美国经济或将迎艰难一年",
+      "t": "美股三大指数集体高开，多只AI硬件股票涨超3%",
       "d": "ifeng.com"
     },
     {
-      "t": "A股：股市拐点来临了，不出意外，周五很可能这样走！",
-      "d": "163.com"
-    },
-    {
-      "t": "加息靴子落地，美股科技股保持强势，黄金短线下跌",
-      "d": "10jqka.com.cn"
+      "t": "晚报丨美联储全票加息后，高盛押10月，美银押10月+12月加息；外资8月净买入韩",
+      "d": "eastmoney.com"
     }
   ]
 }

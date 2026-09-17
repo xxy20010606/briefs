@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 44,
-    "trusted": 11,
+    "raw_dedup_junk": 30,
+    "trusted": 9,
     "non_trusted_top": {
-      "ttplus.cn": 9,
-      "sina.cn": 5,
-      "china.com": 3,
-      "sina.com.cn": 3,
-      "digitaltoday.co.kr": 2,
-      "titan24.com": 2,
-      "yzwb.net": 1,
-      "zhiding.cn": 1,
-      "vanpeople.com": 1,
-      "hk01.com": 1
+      "sina.com.cn": 5,
+      "sina.cn": 4,
+      "ttplus.cn": 3,
+      "baijing.cn": 2,
+      "zhiding.cn": 2,
+      "ac.cn": 1,
+      "chinadaily.com.cn": 1,
+      "528btc.com": 1,
+      "c114.net.cn": 1,
+      "yeeyi.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
+    "fresh1_24h": 8,
+    "page_fresh": 2,
+    "relaxed_72h": 5,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "微软发布1.138版VS Code：优化AI智能体协作",
-      "d": "ifeng.com"
+      "t": "轩晔数字许博宇：埋伏AI四年，终于等到花开",
+      "d": "sohu.com"
     },
     {
-      "t": "从 AI 工具到城市生活入口：讯飞 AI 眼镜接入蚂蚁灵影 AOS 背后的行业跃",
+      "t": "GEO 工具升级趋势：打通优化服务闭环，重写 AI 搜索时代的品牌生存法则",
       "d": "geekpark.net"
     },
     {
-      "t": "AI重塑文创：从创作工具到生产系统",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "“熟练使用AI”，正成为简历中的“噪音”？",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "两部门规划抢抓AI机遇，创业板人工智能ETF华夏涨1.11%",
+      "t": "Snap推出全新Specs AI工具，登陆iOS和Mac平台",
       "d": "sohu.com"
     },
     {
-      "t": "对话Articuler.ai：AI社交最不该做的，是让Agent替你社交",
+      "t": "2026网络安全十大创新方向出炉，奇安信入选四大领域代表厂商",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "度小满“原力AI平台”亮相华为全联接大会！",
       "d": "sohu.com"
     },
     {
-      "t": "IDC发布Agent评估报告 中国电信TeleAgent跻身国内AI智能体第一梯",
-      "d": "gmw.cn"
+      "t": "行业报告：AI岗位量同比增近8倍，字节跳动成求职者最看好AI公司",
+      "d": "sohu.com"
+    },
+    {
+      "t": "儿童AI硬件的生死线不是出货量，而是180天后孩子是否还愿意和它说话",
+      "d": "huxiu.com"
     }
   ]
 }

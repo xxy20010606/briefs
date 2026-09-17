@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 69,
-    "trusted": 17,
+    "raw_dedup_junk": 51,
+    "trusted": 16,
     "non_trusted_top": {
-      "sina.com.cn": 16,
-      "sina.cn": 9,
-      "csdn.net": 3,
-      "china.com": 3,
-      "ttplus.cn": 3,
-      "eastmoney.com": 2,
-      "zol.com.cn": 1,
-      "cctime.com": 1,
-      "in-en.com": 1,
-      "aibase.com": 1
+      "sina.cn": 12,
+      "sina.com.cn": 11,
+      "ttplus.cn": 2,
+      "66wz.com": 1,
+      "ac.cn": 1,
+      "infomorning.com": 1,
+      "csdn.net": 1,
+      "zjknews.com": 1,
+      "cnjiwang.com": 1,
+      "secrss.com": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 12,
-    "relaxed_72h": 0,
+    "fresh1_24h": 13,
+    "page_fresh": 4,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "汪涛详解华为 AI 战略：算力为核心，昇腾 960 提前登场，PB 级 KV C",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "华为汪涛：聚焦AI基础设施，打造智能世界的硅基黑土地",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "【网经社AI科普】智谱清言：基于GLM-4的国产全能型高安全大模型",
+      "t": "Arcee.ai获B轮投资",
       "d": "sohu.com"
     },
     {
-      "t": "千套超节点落地：国产AI算力底座迈入规模商用新阶段",
-      "d": "sohu.com"
+      "t": "每小时“烧钱”超20万元，罗福莉直播小米大模型训练",
+      "d": "36kr.com"
     },
     {
-      "t": "AI视频“交付时代”来了，智象未来王科：不拼参数，拼价值",
-      "d": "cyol.com"
+      "t": "硬件为骨，开源为脉：Open3D PIMC补齐国产算力软件生态关键拼图",
+      "d": "zhidx.com"
     },
     {
-      "t": "AI 教学卡、科研慢、运维累？高校算力升级有了新方案",
+      "t": "29.98 万元起，腾势 N8L 纯电把 AI Agent 装进家庭 SUV",
       "d": "geekpark.net"
     },
     {
-      "t": "IDC发布Agent评估报告 中国电信TeleAgent跻身国内AI智能体第一梯",
-      "d": "gmw.cn"
+      "t": "大涨超7%！MiniMax，“出海”新进展",
+      "d": "sohu.com"
+    },
+    {
+      "t": "AI时代下券业人才的机与危",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "vivo开发者大会群访：布局端侧 30B‑MOE 大模型，以个人化智能定义 AI",
+      "d": "ifeng.com"
     }
   ]
 }

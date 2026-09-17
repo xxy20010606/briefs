@@ -1,54 +1,50 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 10,
+    "raw_dedup_junk": 38,
+    "trusted": 6,
     "non_trusted_top": {
-      "autohome.com.cn": 9,
-      "sina.cn": 7,
-      "in-en.com": 4,
-      "sina.com.cn": 3,
-      "wzs.org.cn": 1,
-      "caiwennews.com": 1,
-      "nengyuanjie.net": 1,
-      "seetao.com": 1,
-      "cnmn.com.cn": 1,
-      "infoobs.com": 1
+      "autohome.com.cn": 10,
+      "sina.com.cn": 8,
+      "sina.cn": 4,
+      "in-en.com": 2,
+      "gessey.com": 1,
+      "chinaarabcf.org": 1,
+      "vietnam.vn": 1,
+      "news18a.com": 1,
+      "cinie.net": 1,
+      "ttplus.cn": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 5,
+    "page_fresh": 0,
+    "relaxed_72h": 6,
+    "final": 6,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "产业催化延续，南方基金旗下新能源ETF南方(516160)跟踪标的指数中证新能源",
-      "d": "cls.cn"
-    },
-    {
-      "t": "模块化扩容更灵活！JUNCESS 浚辉堆叠式储能电池，重新定义家庭储能选择",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "宁德时代独供储能系统，助力非洲最大混合可再生能源项目Hydra投运",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "第18届世界太阳能光伏暨储能产业博览会开幕",
+      "t": "从“走出去”到“扎下根”| 匈牙利Tokaj光伏配储项目 正式开工建设",
       "d": "sohu.com"
     },
     {
-      "t": "天山南北绿色可“能”",
-      "d": "163.com"
+      "t": "第18届世界太阳能光伏暨储能产业博览会在广州开幕- 中国日报网",
+      "d": "chinadaily.com.cn"
     },
     {
-      "t": "东方日升三年累计裁员超60%，22万光伏人遗憾离场，行业依靠裁员抵抗下行周期不可",
-      "d": "36kr.com"
+      "t": "越南电车恐怖如斯？曾超越比亚迪全球第3，为何变反面教材？",
+      "d": "sohu.com"
     },
     {
-      "t": "【国际快讯】大众开启中国产车辆出口非洲计划；8月欧洲纯电车型市场份额达30.5%",
-      "d": "gasgoo.com"
+      "t": "【网通社快报】比亚迪计划在欧洲建设3座整车工厂和1座电池工厂",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "温铁军谈比亚迪：企业与国家战略同频的时代样本",
+      "d": "sohu.com"
+    },
+    {
+      "t": "比亚迪计划在欧洲新建四座工厂：三座整车厂 + 一座电池厂",
+      "d": "ifeng.com"
     }
   ]
 }

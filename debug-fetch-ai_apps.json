@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 44,
+  "total": 30,
   "samples": [
     {
-      "title": "AI赋能出海！盐城市盐都区盐渎街道助力外贸企业解锁数智转型新动能",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmeXhDUTBCb2hySEtkb2FQS2I3bDA3QVN6dGhhb2hjTG5oaW5uSXc1aTl0RU5OTDBRd3BWR2FfSGVCWmxacmlTQlp",
-      "source_url": "https://www.yzwb.net",
-      "source": "紫牛新闻"
+      "title": "轩晔数字许博宇：埋伏AI四年，终于等到花开",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVU1aDRNbE16S3UwaG5LSjNzd1dwd1VMVk1HTzVrQkI5ZHhHXy1VRndFNEIySk1oUlNnd1F6ZjhHcEZEbjkwODd",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "微软发布1.138版VS Code：优化AI智能体协作",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kd1Z5dVRTeVhHTmhwWlJKaHJRLWtpSXUycHphNHBTa3RVMXh0cXRRaWRGTUVKZUNGbzQxQjExSDExRXd5Z1pKS2J",
-      "source_url": "https://tech.ifeng.com",
-      "source": "凤凰网科技"
+      "title": "当AI开始“自己办事”，vivo蓝河操作系统走向AgentOS",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94dXZqX1ZwNlo4ZFhJMkFQRkdaQ2tQdHh3R0NvUFY4eC1uVDZhcW5NZXpQSkRJaU52TUVvV08wc2hSTEpQdXpXRS1",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "HubSpot重构CRM平台，全面引入情境化AI能力-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94QjhaVUR2QS00VkRSNGRsLUpQeklsLWFNUS1jWVVTVjNfYzZkYkVyQjR5Z3Q4c2tzTE1XS1dKRGthQk9Bb19MMEZ",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "Snap推出全新Specs AI工具，登陆iOS和Mac平台",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT1kxVFFTdXVkT3FPZ2pOMFVyU1I3dGpRd2VTdzQxZ05YRXVDaWNFeUZiUHlhYlh2UjhrVkdfRFpsVkpjb2tPX0t",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "从 AI 工具到城市生活入口：讯飞 AI 眼镜接入蚂蚁灵影 AOS 背后的行业跃迁",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qRlpVLXVjZ2F5SUVVNnFJYTVMc19CREdwWXBtQ296ck5faW56QnJYcEdjbjVVZ3RVSWZEQnVFTmRhOUM4a29ELS1",
-      "source_url": "https://www.geekpark.net",
-      "source": "geekpark.net"
+      "title": "澜起科技(688008.SH)：积极推进AI工具在研发、技术支持等流程的落地",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OR2Fwd1VwRTlja085M1FFMHpTcW12cE1nd25GOEJpUzlWNlIybnRQTXlTb19mN0NkdXJwVnpGNm53TDBEZF9XOUR",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "AI重塑文创：从创作工具到生产系统",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hWGZaRmJkREpHeHhjeGV3MXdqellxNmk4bVJNT3ZNZE5ISjh4bWtZRGlSYTAySzNMUmVhZzRKeHV3eUVIbUROSXZ",
-      "source_url": "https://m.thepaper.cn",
-      "source": "thepaper.cn"
+      "title": "陈天昊：无尽的前沿——AI智能体的技术进展、应用风险与治理展望",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VOXBLRVdUOGx6T04tTFJFUGZlemFMVVktUlpWNmJqUmFwZUkteGptc3J5RTM0c1NVZHlLZjJ3QzRlc0RDczBkNA?",
+      "source_url": "https://hub.baai.ac.cn",
+      "source": "智源社区"
     },
     {
-      "title": "优傲机器人发布全新Gen 7平台 赋能工业自动化与物理AI规模化部署",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vZ0xQSHNvLXdHenBMaWFlbjFuaV9qaWg4VDJlWS1vVGlBU1EwbVhuNF8yT3NEeG5WYVpQZXM0WmVCTk5Pa1BnZ2V",
-      "source_url": "https://hb.china.com",
-      "source": "中华网"
+      "title": "Snap推出AR智能眼镜SPECS，AI应用SPECS Intelligence同步发布",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IQkxNSmpZUkZDSVZYemJESXlYYi1IdU1DdHB1VTJxM1dzblJkZFJJMzdJbEpMbDFSclh1Wkk4enBrR01Qa0FZWW5",
+      "source_url": "https://www.baijing.cn",
+      "source": "baijing.cn"
     }
   ]
 }

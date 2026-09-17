@@ -1,54 +1,46 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 92,
-    "trusted": 7,
+    "raw_dedup_junk": 41,
+    "trusted": 5,
     "non_trusted_top": {
-      "titan24.com": 35,
-      "ttplus.cn": 11,
-      "sina.cn": 10,
-      "bjd.com.cn": 3,
-      "hangzhou.com.cn": 2,
-      "youth.cn": 2,
-      "ajudaily.com": 1,
-      "mk.co.kr": 1,
-      "starnewskorea.com": 1,
-      "360.com": 1
+      "sina.cn": 9,
+      "360.com": 4,
+      "sina.com.cn": 3,
+      "vietnam.vn": 2,
+      "ttplus.cn": 2,
+      "hk01.com": 2,
+      "tidenews.com.cn": 2,
+      "gameres.com": 1,
+      "titan24.com": 1,
+      "shangbaoindonesia.com": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 7,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 3,
+    "page_fresh": 0,
+    "relaxed_72h": 5,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "喜剧电影《什么意思夫妇》官宣10.1国庆档上映 小沈阳沈春阳真夫妻爆改对抗路",
+      "t": "近20年最强班底，《什么意思夫妇》有57个制片人",
       "d": "sohu.com"
     },
     {
-      "t": "谍战剧《交锋》获肯定 国台办：坚决防范“台独”等势力破坏干扰",
-      "d": "chinanews.com.cn"
+      "t": "片单越来越长，观众为何仍觉得“没片看”？",
+      "d": "sohu.com"
     },
     {
-      "t": "虎鲸文娱启动“鲸锐AI创作大赛”，总奖金1000万、最高单项奖200万",
-      "d": "ce.cn"
+      "t": "两部影片接连定档上映，池清波深耕中小成本文艺电影赛道",
+      "d": "sohu.com"
     },
     {
-      "t": "HYROX失禁夺冠、赵雷演唱会求婚：在陌生人组成的场合里，个人的自由到哪儿为止？",
-      "d": "huxiu.com"
+      "t": "文化·视点丨一个人的剧团 三座城的昆曲",
+      "d": "news.cn"
     },
     {
-      "t": "海南作家廖舒波斩获第37届银河奖",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "以艺心润童心",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "第十届平遥国际电影展片单揭晓 近40个国家和地区50部影片入围",
-      "d": "china.com.cn"
+      "t": "从荆楚到南海 电影《凝脂手》扎根三亚 留存“记忆之水”",
+      "d": "chinadaily.com.cn"
     }
   ]
 }

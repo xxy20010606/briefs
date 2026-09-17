@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 47,
-    "trusted": 20,
+    "raw_dedup_junk": 40,
+    "trusted": 18,
     "non_trusted_top": {
-      "sina.cn": 10,
+      "sina.cn": 8,
       "sina.com.cn": 5,
-      "news18a.com": 4,
-      "ajudaily.com": 1,
-      "siscmag.com": 1,
-      "sipac.gov.cn": 1,
-      "joins.com": 1,
-      "jrj.com.cn": 1,
-      "ttplus.cn": 1,
-      "indexbox.io": 1
+      "indexbox.io": 2,
+      "worldjournal.com": 1,
+      "cnbeta.com.tw": 1,
+      "epochtimes.com": 1,
+      "zhiding.cn": 1,
+      "investing.com": 1,
+      "mydrivers.com": 1,
+      "chosun.com": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 17,
+    "fresh1_24h": 18,
+    "page_fresh": 8,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "安森美推出嵌入式平台，SiC与Si实现晶圆级集成",
+      "t": "纳指涨超430点！资金回流半导体板块，芯片股大幅反弹，金银收涨",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "美股收盘：纳指、标普500指数涨超1% AI硬件股、芯片半导体股大涨",
+      "d": "163.com"
+    },
+    {
+      "t": "美股三大指数集体收涨 AI硬件股、芯片半导体股大涨",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "AMD宣布：涨价10%！",
       "d": "eet-china.com"
     },
     {
-      "t": "比亚迪：闪充车型供不应求，半导体与钠电持续突破",
-      "d": "sohu.com"
-    },
-    {
-      "t": "全球首次，12英寸氧化镓，新突破",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "高盛预计中国AI芯片市场规模2025至2030年复合增速达69%，科创芯片设计E",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "斥资7.3亿！俄罗斯建芯片厂却只能买中国或欧洲设备：国产替代在哪",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "光刻胶厂商涨价，半导体材料景气上行，半导体设备ETF易方达（159558）昨日“",
+      "t": "20:44:46【美股芯片半导体股票盘前走强 多数个股涨超3%】",
       "d": "cls.cn"
     },
     {
-      "t": "智能体如何改造芯片设计？新思科技掏出EDA家底，助攻中国创新",
-      "d": "zhidx.com"
+      "t": "20:34:46【英伟达CEO黄仁勋：英伟达明年芯片销量将是今年的两倍】",
+      "d": "cls.cn"
+    },
+    {
+      "t": "安森美推出嵌入式平台，SiC与Si实现晶圆级集成",
+      "d": "eet-china.com"
     }
   ]
 }
