@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 40,
+  "total": 49,
   "samples": [
     {
-      "title": "美股半导体、存储芯片大爆发，ARM涨超8%，闪迪涨超6%，科技七巨头集体上涨，特朗普称将决定是否恢复",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQVRrRkdvSElPU0ROTU5rTUF3UlNHZmFmQ0tiSTI3bW9VLTY4LUx1Y1JnclVIOEtZS0pFby1TR1RWVEI2ekc5TU1",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "半导体，反攻信号出现！",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jMlo1bDJCTDJpcldrZHNrc09LcTVPUHZVa2NERk1UMkVNQ2xRTEZDWHVTdUp4alU2WFQ3QzVLY1hkM2tERmZ2eGd",
+      "source_url": "https://www.163.com",
+      "source": "手机网易网"
     },
     {
-      "title": "纳指涨超430点！资金回流半导体板块，芯片股大幅反弹，金银收涨",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83TWZ1MkNGdGV1UFVoQTFLWlQ5ZmxSMDBXOGZ5dGptaXdURVFwNmEwQVA2UElTbVloWXR3a0lJLUQ4d0xac2xDZ0l",
-      "source_url": "https://emwap.eastmoney.com",
-      "source": "东方财富"
+      "title": "A股收评：双创指数双双涨超2%，半导体、存储芯片板块涨幅居前",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kLXBxNTY2RE5QeS1qLWZ6cGNfM0pIV3YxemFheGkyRll4NmVVY202cG5rSjN2YjgwNTBZX2ZDTlNmcVJlNnhkQXc",
+      "source_url": "https://m.10jqka.com.cn",
+      "source": "同花顺"
     },
     {
-      "title": "美股全线上涨，芯片股爆发",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aUHZOanFmQjJUbFZ6UzZndHhWd25uZ2VUYUcyT0RfUkNJbXlmbUQ5djk4SnpuY29ROXRIbHNSWlFIX1dIaEFnd1l",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "【网通社快报】理想汽车启动马赫芯片、碳化硅模组及增程器对外供应",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vODd1ZVNWQzdHd2t4d1QyaXNnUXc2bjlVRER0d2xtOHFkMG1qSEUxc1NWbnpxbnE2bXZfakRGZ0RFZklmanpNb3o",
+      "source_url": "https://auto.ifeng.com",
+      "source": "凤凰网"
     },
     {
-      "title": "美国砸重金抢回芯片制造，却卡在一个现实难题",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE81ZzVHMFhYYjRyQ3F0bWJVYl9Zb1hqVU5tQTFGVTVKNFZvdFpzUG8yY1ZiWXlZdHhkTndUNjZUZDgyMGphV2lIS0I",
-      "source_url": "https://tech.ifeng.com",
-      "source": "凤凰网科技"
+      "title": "半导体独自领跑两市，大盘震荡蓄力，机会还是风险？",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xc1B2bjNfQTVqMnFQOHB6QkxCWGJ4SUdIV0k1M05kbmJWNE4wTjhrdDlrREd1b1YxOUVfWGpzWWozTGdVZmUwNkc",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经_金融信息服务商"
     },
     {
-      "title": "新浪网·",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UTk4zbGVlcTZ2Q0RfQUlwM2V6eWlvQkd1czNCZnFILWVlRkplTXp0alhPRmpJU3ExNXExTTJjTlIzd0lYZF9zM3Z",
-      "source_url": "https://www.sina.cn",
-      "source": "新浪网"
+      "title": "沪指重返3900点，创业板涨超2%，半导体爆发，创新药拉升，恒科指涨超1%，联想创新高，MINIMA",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJTDBNSTZNYWZsWnM2bkR3NV9pckhoSWJjMk0taW55blJoaE1CRENnVXUtcEhJOWdURTVmQXBhTWszY3dpWEpXUjZ",
+      "source_url": "https://wallstreetcn.com",
+      "source": "华尔街见闻"
     },
     {
-      "title": "安世半導體切割聞泰科技 攜手印度塔塔電子生產晶片",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwTjRvclBGblRlZi1xR3JMQnZQM0lWUWliZk5vbjZfNzFwdzZIdG1wVW5lV3RuN0FoUmFMdU5rWG1FRU9xMXYwSGV",
-      "source_url": "https://www.worldjournal.com",
-      "source": "世界新聞網"
+      "title": "日程更新！【第九届半导体大硅片论坛2026】将于10月20-21日在西安召开",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mWmdpSHB6cW55T1YtNS00YklXclQ5U190eG9pU2IwdzE4aWV1V1ZCV2g0UWhSaGkzTm9UY2hBTmg4bTVhSlVkUmM",
+      "source_url": "https://www.eet-china.com",
+      "source": "eet-china.com"
     }
   ]
 }

@@ -1,46 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 41,
-    "trusted": 5,
+    "raw_dedup_junk": 86,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "360.com": 4,
-      "sina.com.cn": 3,
-      "vietnam.vn": 2,
-      "ttplus.cn": 2,
-      "hk01.com": 2,
-      "tidenews.com.cn": 2,
-      "gameres.com": 1,
-      "titan24.com": 1,
-      "shangbaoindonesia.com": 1
+      "titan24.com": 35,
+      "ttplus.cn": 10,
+      "sina.cn": 6,
+      "orientaldaily.com.my": 3,
+      "hangzhou.com.cn": 3,
+      "yule.com.cn": 2,
+      "sina.com.cn": 2,
+      "westca.com": 1,
+      "vietnam.vn": 1,
+      "shobserver.com": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 0,
-    "relaxed_72h": 5,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 13,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "近20年最强班底，《什么意思夫妇》有57个制片人",
+      "t": "《功夫女足》上映66天抢日冠，排片1.7%票房却占16%，院线排片逻辑被干懵！",
       "d": "sohu.com"
     },
     {
-      "t": "片单越来越长，观众为何仍觉得“没片看”？",
-      "d": "sohu.com"
+      "t": "在二级平台买演唱会门票，怎么选更放心？这份指南说清楚了",
+      "d": "ifeng.com"
     },
     {
-      "t": "两部影片接连定档上映，池清波深耕中小成本文艺电影赛道",
-      "d": "sohu.com"
+      "t": "《兰香如故》：兰香宁愿玉蝉死在府里，也不让大太太知道，甘棠拦她那一下，才是这对主",
+      "d": "163.com"
     },
     {
-      "t": "文化·视点丨一个人的剧团 三座城的昆曲",
-      "d": "news.cn"
+      "t": "影院39.9元午休月卡被抢爆！每天午睡2.5小时仅1元多",
+      "d": "21jingji.com"
     },
     {
-      "t": "从荆楚到南海 电影《凝脂手》扎根三亚 留存“记忆之水”",
+      "t": "从《南方有嘉木》看文艺经典的江南叙事与时代新生",
       "d": "chinadaily.com.cn"
+    },
+    {
+      "t": "公布｜第十届平遥国际电影展大师·对话",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "《四个春天》导演陆庆屹：曾经的那个时代过去了，我舍不得",
+      "d": "bjnews.com.cn"
     }
   ]
 }

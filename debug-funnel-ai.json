@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 51,
-    "trusted": 16,
+    "raw_dedup_junk": 56,
+    "trusted": 18,
     "non_trusted_top": {
-      "sina.cn": 12,
-      "sina.com.cn": 11,
-      "ttplus.cn": 2,
-      "66wz.com": 1,
+      "sina.cn": 10,
+      "sina.com.cn": 9,
+      "cau.edu.cn": 2,
       "ac.cn": 1,
-      "infomorning.com": 1,
-      "csdn.net": 1,
-      "zjknews.com": 1,
-      "cnjiwang.com": 1,
+      "ciplawyer.cn": 1,
+      "huanbohainews.com.cn": 1,
+      "jrj.com.cn": 1,
+      "eol.cn": 1,
+      "china.com": 1,
       "secrss.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 4,
-    "relaxed_72h": 8,
+    "fresh1_24h": 18,
+    "page_fresh": 17,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "Arcee.ai获B轮投资",
+      "t": "营收下滑、净利骤降56%，中控技术转型遭遇阵痛？",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "深度解读：智谱为什么要在 Infra 层搞 RSI？",
+      "d": "leiphone.com"
+    },
+    {
+      "t": "我是股东——申万宏源证券联合上海证券交易所走进品茗科技",
       "d": "sohu.com"
     },
     {
-      "t": "每小时“烧钱”超20万元，罗福莉直播小米大模型训练",
-      "d": "36kr.com"
+      "t": "奕行智能完成近20亿元融资，RISC-V云端AI算力芯片Epoch已量产交付",
+      "d": "eet-china.com"
     },
     {
-      "t": "硬件为骨，开源为脉：Open3D PIMC补齐国产算力软件生态关键拼图",
-      "d": "zhidx.com"
+      "t": "在 AI「囤粮潮」里，拆解智谱 50 亿美元的「技术账本」",
+      "d": "leiphone.com"
     },
     {
-      "t": "29.98 万元起，腾势 N8L 纯电把 AI Agent 装进家庭 SUV",
-      "d": "geekpark.net"
-    },
-    {
-      "t": "大涨超7%！MiniMax，“出海”新进展",
+      "t": "AI赋能，我国开启天文智能观测新范式",
       "d": "sohu.com"
     },
     {
-      "t": "AI时代下券业人才的机与危",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "vivo开发者大会群访：布局端侧 30B‑MOE 大模型，以个人化智能定义 AI",
-      "d": "ifeng.com"
+      "t": "长亭科技朱文雷：机遇与风险并存下，AI正在重构网络安全",
+      "d": "gmw.cn"
     }
   ]
 }

@@ -1,42 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 9,
+    "raw_dedup_junk": 57,
+    "trusted": 19,
     "non_trusted_top": {
-      "sina.com.cn": 10,
-      "sina.cn": 9,
-      "futunn.com": 4,
-      "moomoo.com": 1,
-      "vietnam.vn": 1,
+      "sina.com.cn": 11,
+      "sina.cn": 5,
+      "kuai.media": 2,
+      "china.com": 2,
+      "moomoo.com": 2,
+      "on.cc": 2,
+      "futunn.com": 2,
       "sinchew.com.my": 1,
-      "newswav.com": 1,
-      "scol.com.cn": 1,
-      "chosun.com": 1,
-      "guandian.cn": 1
+      "orientaldaily.com.my": 1,
+      "com.sg": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 2,
-    "relaxed_72h": 2,
-    "final": 4,
-    "cap": "不限同域"
+    "fresh1_24h": 18,
+    "page_fresh": 11,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "快手-W(01024)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
+      "t": "连亏5年股艾迪药业调降定增募资金额为兴全基金重仓股_股市聚焦_市场",
+      "d": "cnfol.com"
     },
     {
-      "t": "恒生指数(HKHSI)股票股价_行情_走势图_资讯",
-      "d": "xueqiu.com"
+      "t": "DYNAM JAPAN(06889)附属拟6520万美元出售飞机_股市直播_市场",
+      "d": "cnfol.com"
     },
     {
-      "t": "美股三大指数集体高开，多只AI硬件股票涨超3%",
-      "d": "ifeng.com"
+      "t": "【环球财经】伦敦股市17日上涨",
+      "d": "sohu.com"
     },
     {
-      "t": "晚报丨美联储全票加息后，高盛押10月，美银押10月+12月加息；外资8月净买入韩",
-      "d": "eastmoney.com"
+      "t": "中期选举临近，特朗普民调承压，祭出策略巩固核心选民群体",
+      "d": "sohu.com"
+    },
+    {
+      "t": "美联储9月加息25基点 特朗普对沃什态度温和背后有深层原因",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "A股收评：双创指数双双涨超2%，半导体、存储芯片板块涨幅居前",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "港股早报 | 纳斯达克中国金龙指数小幅收红 迅策和迈富时加码AI与Token生态",
+      "d": "cls.cn"
     }
   ]
 }

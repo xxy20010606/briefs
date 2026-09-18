@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 30,
-    "trusted": 9,
+    "raw_dedup_junk": 46,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 5,
-      "sina.cn": 4,
-      "ttplus.cn": 3,
-      "baijing.cn": 2,
-      "zhiding.cn": 2,
-      "ac.cn": 1,
-      "chinadaily.com.cn": 1,
-      "528btc.com": 1,
-      "c114.net.cn": 1,
-      "yeeyi.com": 1
+      "ttplus.cn": 9,
+      "sina.cn": 7,
+      "digitaltoday.co.kr": 4,
+      "sina.com.cn": 3,
+      "titan24.com": 2,
+      "oschina.net": 1,
+      "vietnam.vn": 1,
+      "baijing.cn": 1,
+      "hk01.com": 1,
+      "80aj.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 2,
-    "relaxed_72h": 5,
+    "fresh1_24h": 13,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "轩晔数字许博宇：埋伏AI四年，终于等到花开",
-      "d": "sohu.com"
+      "t": "技术赋能与主体性坚守：AI时代智库转型的深层张力",
+      "d": "21jingji.com"
     },
     {
-      "t": "GEO 工具升级趋势：打通优化服务闭环，重写 AI 搜索时代的品牌生存法则",
-      "d": "geekpark.net"
-    },
-    {
-      "t": "Snap推出全新Specs AI工具，登陆iOS和Mac平台",
-      "d": "sohu.com"
+      "t": "新加坡推出AI课程并赠送AI工具订阅，MiniMax三款产品入选培训计划",
+      "d": "eet-china.com"
     },
     {
       "t": "2026网络安全十大创新方向出炉，奇安信入选四大领域代表厂商",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "度小满“原力AI平台”亮相华为全联接大会！",
       "d": "sohu.com"
     },
     {
-      "t": "行业报告：AI岗位量同比增近8倍，字节跳动成求职者最看好AI公司",
+      "t": "时报新“视”力 轩晔数字许博宇：埋伏AI四年，终于等到花开",
+      "d": "stcn.com"
+    },
+    {
+      "t": "AI怎么用不侵权？深圳“百场法治大宣讲”进校园，为师生厘清法律边界",
       "d": "sohu.com"
     },
     {
-      "t": "儿童AI硬件的生死线不是出货量，而是180天后孩子是否还愿意和它说话",
+      "t": "AI办公市场竞争分化：大厂统治云端，创业公司转向端侧和垂直场景",
       "d": "huxiu.com"
+    },
+    {
+      "t": "商汤-WR(80020)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 30,
+  "total": 47,
   "samples": [
     {
-      "title": "轩晔数字许博宇：埋伏AI四年，终于等到花开",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVU1aDRNbE16S3UwaG5LSjNzd1dwd1VMVk1HTzVrQkI5ZHhHXy1VRndFNEIySk1oUlNnd1F6ZjhHcEZEbjkwODd",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "【HarmonyOS SDK Skills】 Push Kit自分类Skill 提升权益申请通过率-",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01SWhjYWVDU1JjaS16a2U2Y0FIbF9XUTZrVFJUazVCME5WUlNlaTd6RWdxR2hWM09jdE1iZk1ERmh1NHB5UU02dFh",
+      "source_url": "https://www.oschina.net",
+      "source": "开源 × AI · 开发者生态社区"
     },
     {
-      "title": "当AI开始“自己办事”，vivo蓝河操作系统走向AgentOS",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94dXZqX1ZwNlo4ZFhJMkFQRkdaQ2tQdHh3R0NvUFY4eC1uVDZhcW5NZXpQSkRJaU52TUVvV08wc2hSTEpQdXpXRS1",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "Uber加快内部AI应用：部分工作耗时降至原来的五分之一",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb1NKczBtUjRDamNPX01oWW5ocFh4VThMczNucm1ramhxY281ckZsYmFxUkZNQmpyWjl1UGRUbGJkYjVGVlh3QXl",
+      "source_url": "https://www.digitaltoday.co.kr",
+      "source": "디지털투데이"
     },
     {
-      "title": "Snap推出全新Specs AI工具，登陆iOS和Mac平台",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT1kxVFFTdXVkT3FPZ2pOMFVyU1I3dGpRd2VTdzQxZ05YRXVDaWNFeUZiUHlhYlh2UjhrVkdfRFpsVkpjb2tPX0t",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "技术赋能与主体性坚守：AI时代智库转型的深层张力",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVzNlWnRKTVZwTS1EZ2NydlQya0N0cHlocWJqcjNsSmlqZ2hxaVp5Wjd5d29Pdnh4ck94NXlwb0JJZk84b1FxTG5",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
     },
     {
-      "title": "澜起科技(688008.SH)：积极推进AI工具在研发、技术支持等流程的落地",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OR2Fwd1VwRTlja085M1FFMHpTcW12cE1nd25GOEJpUzlWNlIybnRQTXlTb19mN0NkdXJwVnpGNm53TDBEZF9XOUR",
+      "title": "澜起科技：已在部分研发环节引入AI Agent工具",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHpEb3FZZUlxcVJYYm1DcUhIeXI4U2NOMVMwZlFvaVBKMy1tVlA2NGpmZ0lnQVRQQkVPZWlmVERLZzN3LW0xNEx",
       "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "source": "新浪财经_金融信息服务商"
     },
     {
-      "title": "陈天昊：无尽的前沿——AI智能体的技术进展、应用风险与治理展望",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VOXBLRVdUOGx6T04tTFJFUGZlemFMVVktUlpWNmJqUmFwZUkteGptc3J5RTM0c1NVZHlLZjJ3QzRlc0RDczBkNA?",
-      "source_url": "https://hub.baai.ac.cn",
-      "source": "智源社区"
+      "title": "AI Arena：越南 2026",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZElFdmxqZklwT3g3Z1JlUmtpZ21JdjgyU3pSd1BrU0hDQnlnLUxiaWFiQ3FKS0stSlpYRkNQRHJoTkVKX2FNc0t",
+      "source_url": "https://www.vietnam.vn",
+      "source": "将学生带入现实世界人工智能应用的“战场”。"
     },
     {
-      "title": "Snap推出AR智能眼镜SPECS，AI应用SPECS Intelligence同步发布",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IQkxNSmpZUkZDSVZYemJESXlYYi1IdU1DdHB1VTJxM1dzblJkZFJJMzdJbEpMbDFSclh1Wkk4enBrR01Qa0FZWW5",
-      "source_url": "https://www.baijing.cn",
-      "source": "baijing.cn"
+      "title": "新加坡推出AI课程并赠送AI工具订阅，MiniMax三款产品入选培训计划",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKdDVscHJMcVZoZmtybFZ4US1QUGM3SGVjR1ZodVJ5MlJ2RHlyTTNLd2czblktVi1YWlZnVzc4c0NuSWJJMnFmMDV",
+      "source_url": "https://www.eet-china.com",
+      "source": "eet-china.com"
     }
   ]
 }

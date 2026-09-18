@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 51,
+  "total": 56,
   "samples": [
     {
-      "title": "词元出海，数字贸易的“中国方案”上新！|AI大模型|汕头市|山东省|青岛市|福建省_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95MG55ZnZhM3Q4Ui01ZTdtVmluZ0E4U2N5Szg2S3RpU0tKYmZUVUNaRWNEWW9Cc1NaZWlpcTlPN1VpcERDUVh2enc",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "无问芯穹握手华环电子，探索国产异构算力AI基础设施落地",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92V2l1aG9YV1NzcmNKWURhRlNIcURUVnloSTFNdkRFb3N3TTB3cUMtTTFGRXcyclRvZHNsYWc2aV9nVEYtZURaSlF",
+      "source_url": "https://news.sina.cn",
+      "source": "新浪新闻_手机新浪网"
     },
     {
-      "title": "诺奖得主莱维特对话英矽智能CEO任峰，坦言AI制药发展远超他预期",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQXzhSM1lJTTM0R29rV0NEelRWRjNUQjM3RWs3ZHJoclVlaXVhRjJjQ0dVTHRZQU81cXV3WlJrTy10LUt0eUFCWHR",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "营收下滑、净利骤降56%，中控技术转型遭遇阵痛？",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWktXLUk3WXlSS2FRWHVZYkgxLUJvazROanRzOElScGUwNHpOeGNEZW9LanRRd3pTc0VTOEI0OElZN1k0SFZHNlF",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
     },
     {
-      "title": "大模型探寻盈利新路径",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aMjhSTE02WTVUd3FDc3RfZ2tibmtTMURiMEoyRGcxaWc4UVQ3Vkt6cnMxVDNZOXkxNm52a19WMF9wN1hLbHB0eG0",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "深度解读：智谱为什么要在 Infra 层搞 RSI？",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zTDFibzlVSXRHUEZJRTR4VWc4TVdSbk5ISjNXMzhVXzI4RE9ZSlkzZmhRUE9FZmkxanFjS01rNVlaazRaVGt3ang",
+      "source_url": "https://www.leiphone.com",
+      "source": "雷峰网"
     },
     {
-      "title": "云岩区抢滩AI“数字基石”新蓝海|贵州省|贵阳市|大模型|数据|产业_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XU2NmOFZjdmJ2YVJpUll3bHZMUWhqbjRHU1ZkdXJCSUxMQy1GNWRYWXdnU2J5d1A5bDlHdEhFazhNTkNad2JLMVh",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "Arcee.ai获B轮投资",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSXVDOExITmlvemVlallNMWU3TnRBZGV3aFhHRmR5RlIyUmg0RTJFTnpxNDlWb010dDlaYktqQVVGWHVoOWF5U19",
+      "title": "我是股东——申万宏源证券联合上海证券交易所走进品茗科技",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVhxRlpQVmY0U1A3dW85VG9fb3pycXdOdjc3ejUzQ1ZmN1N6eUkwTW9yNU13ZnZ2RERZYkZ2dzYwU3A2UUtSc2N",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "三大运营商齐推Token套餐 AI算力“大众化”时代要来了？",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZMGpPUGFlQVltd2tTZGRCWnNhQndzU1JqNmpuejFaMUNRODBhbTh4OHM0Q0wzZHRlMVNTM1R1WEhCTlo1VzJLbQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "奕行智能完成近20亿元融资，RISC-V云端AI算力芯片Epoch已量产交付",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMdl9zRExsSVpIZkRqODROLTFYNmVPQ0tjN3psMUpkd09aNDU0cjB6YUdqLUVZOElsM3M1bVpwT1ByQmlaWXdUY1V",
+      "source_url": "https://www.eet-china.com",
+      "source": "eet-china.com"
+    },
+    {
+      "title": "在 AI「囤粮潮」里，拆解智谱 50 亿美元的「技术账本」",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiNk9yQlVlVV8xZThRa0FqNEVTLXRaMDhFc1U1NzJHUTd1VW1PakF5OFBOWGpONGpCd2JqckVKdVhLcl9GbVZFZld",
+      "source_url": "https://www.leiphone.com",
+      "source": "雷峰网"
     }
   ]
 }

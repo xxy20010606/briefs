@@ -1,50 +1,50 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 38,
+    "raw_dedup_junk": 47,
     "trusted": 6,
     "non_trusted_top": {
-      "autohome.com.cn": 10,
-      "sina.com.cn": 8,
-      "sina.cn": 4,
-      "in-en.com": 2,
-      "gessey.com": 1,
-      "chinaarabcf.org": 1,
-      "vietnam.vn": 1,
-      "news18a.com": 1,
-      "cinie.net": 1,
-      "ttplus.cn": 1
+      "autohome.com.cn": 14,
+      "in-en.com": 5,
+      "seetao.com": 4,
+      "sina.cn": 3,
+      "sina.com.cn": 3,
+      "vietnam.vn": 2,
+      "china.com": 1,
+      "jrj.com.cn": 1,
+      "shobserver.com": 1,
+      "digitaltoday.co.kr": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 0,
-    "relaxed_72h": 6,
+    "fresh1_24h": 6,
+    "page_fresh": 5,
+    "relaxed_72h": 1,
     "final": 6,
     "cap": "不限同域"
   },
   "final": [
     {
+      "t": "加息扰动板块随市调整，南方基金旗下新能源ETF南方(516160)跟踪标的指数中",
+      "d": "cls.cn"
+    },
+    {
+      "t": "晶澳携“光储智生态”亮相广州光伏储能展",
+      "d": "sohu.com"
+    },
+    {
+      "t": "盛齐能源保加利亚14台储能设备项目成功交付 打造海外工商业“光伏+储能”标杆案例",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "河北出台风光 + 独立储能共用工程费用分摊征求意见稿 明确共建共享成本规则",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "海鹏信BATTERY EXPO 2026圆满收官！",
+      "d": "163.com"
+    },
+    {
       "t": "从“走出去”到“扎下根”| 匈牙利Tokaj光伏配储项目 正式开工建设",
       "d": "sohu.com"
-    },
-    {
-      "t": "第18届世界太阳能光伏暨储能产业博览会在广州开幕- 中国日报网",
-      "d": "chinadaily.com.cn"
-    },
-    {
-      "t": "越南电车恐怖如斯？曾超越比亚迪全球第3，为何变反面教材？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "【网通社快报】比亚迪计划在欧洲建设3座整车工厂和1座电池工厂",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "温铁军谈比亚迪：企业与国家战略同频的时代样本",
-      "d": "sohu.com"
-    },
-    {
-      "t": "比亚迪计划在欧洲新建四座工厂：三座整车厂 + 一座电池厂",
-      "d": "ifeng.com"
     }
   ]
 }
