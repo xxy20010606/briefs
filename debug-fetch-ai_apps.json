@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 47,
+  "total": 24,
   "samples": [
     {
-      "title": "【HarmonyOS SDK Skills】 Push Kit自分类Skill 提升权益申请通过率-",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01SWhjYWVDU1JjaS16a2U2Y0FIbF9XUTZrVFJUazVCME5WUlNlaTd6RWdxR2hWM09jdE1iZk1ERmh1NHB5UU02dFh",
-      "source_url": "https://www.oschina.net",
-      "source": "开源 × AI · 开发者生态社区"
+      "title": "国家计算机病毒应急处理中心:《移动互联网应用安全统计分析报告2026｜信息技术研报》",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fUkZ0c0pDNEh3eW1TUjlweTZmVHBlazUtT0cxcGR6SHVpbFdtbVVIb1RXOHFsRmZ4YjNNUHEtWXhERjdJcFppTVh",
+      "source_url": "https://www.fxbaogao.com",
+      "source": "发现报告"
     },
     {
-      "title": "Uber加快内部AI应用：部分工作耗时降至原来的五分之一",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb1NKczBtUjRDamNPX01oWW5ocFh4VThMczNucm1ramhxY281ckZsYmFxUkZNQmpyWjl1UGRUbGJkYjVGVlh3QXl",
-      "source_url": "https://www.digitaltoday.co.kr",
-      "source": "디지털투데이"
+      "title": "2026雅思口语AI工具测评：最新趋势下快速提升首推「咕噜口语」",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HS2tKUExuazFFeXQ3ODFzb0JqallIMW5jLXI5VEYzX1VqOXJxUk80b2ZUM0FSOEhQeldUQVdfSWVvVi0yV2RfZHR",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
     },
     {
-      "title": "技术赋能与主体性坚守：AI时代智库转型的深层张力",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVzNlWnRKTVZwTS1EZ2NydlQya0N0cHlocWJqcjNsSmlqZ2hxaVp5Wjd5d29Pdnh4ck94NXlwb0JJZk84b1FxTG5",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
-    },
-    {
-      "title": "澜起科技：已在部分研发环节引入AI Agent工具",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHpEb3FZZUlxcVJYYm1DcUhIeXI4U2NOMVMwZlFvaVBKMy1tVlA2NGpmZ0lnQVRQQkVPZWlmVERLZzN3LW0xNEx",
+      "title": "Claude主导26%研发，抛出“AI降速论”的Anthropic掀起“AI研发AI”热议! RSI",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa25vY2d5a2ZtTHBhaGRUSTNjbndUWEQ3WWdveEJtOEgwYlIzV1lYeFJ1NUN3YnM0N0F1cFBpRzVPeW1PNFMzYmo",
       "source_url": "https://finance.sina.cn",
       "source": "新浪财经_金融信息服务商"
     },
     {
-      "title": "AI Arena：越南 2026",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZElFdmxqZklwT3g3Z1JlUmtpZ21JdjgyU3pSd1BrU0hDQnlnLUxiaWFiQ3FKS0stSlpYRkNQRHJoTkVKX2FNc0t",
-      "source_url": "https://www.vietnam.vn",
-      "source": "将学生带入现实世界人工智能应用的“战场”。"
+      "title": "随着企业 AI 进入价值最大化时代：开发团队可以从数字可访问性中学到什么",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IR3NWUDBKaW5jY2NjY1NRNG5JTlNodDZLQURsa0pNNlB4TWRxc1dzQlh4WGs3cWpkMmhQUFd3NjVjNjBKMi1BeEZ",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "新加坡推出AI课程并赠送AI工具订阅，MiniMax三款产品入选培训计划",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKdDVscHJMcVZoZmtybFZ4US1QUGM3SGVjR1ZodVJ5MlJ2RHlyTTNLd2czblktVi1YWlZnVzc4c0NuSWJJMnFmMDV",
-      "source_url": "https://www.eet-china.com",
-      "source": "eet-china.com"
+      "title": "新方法、新组织、新工具：华为发布AI行业落地新路径",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aZDcyMTVldF8zbXREaEZ6WXZsUU5HeE04TXpYVmRLZnlfUHZQTUJ2UEdfOEJDM0dHQ3ZoLTRhNWo0cElrMWxNT3h",
+      "source_url": "https://www.donews.com",
+      "source": "DoNews"
+    },
+    {
+      "title": "聚焦人才培养、校园效能与创新实践，网易智企发布高校 AI Agent 落地场景方案",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONGwyYkVhNDhGbXF3bkRObUNhcFk2MXJSMDZUZlgtQ3lWTldmTkIwMTlBYlVCSHB4QnZxVE9ldjFDZ015TXhwV2d",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     }
   ]
 }

@@ -1,50 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 47,
-    "trusted": 6,
+    "raw_dedup_junk": 49,
+    "trusted": 10,
     "non_trusted_top": {
-      "autohome.com.cn": 14,
-      "in-en.com": 5,
-      "seetao.com": 4,
-      "sina.cn": 3,
-      "sina.com.cn": 3,
-      "vietnam.vn": 2,
-      "china.com": 1,
-      "jrj.com.cn": 1,
-      "shobserver.com": 1,
-      "digitaltoday.co.kr": 1
+      "autohome.com.cn": 12,
+      "sina.com.cn": 10,
+      "sina.cn": 4,
+      "wedoany.com": 2,
+      "indexbox.io": 2,
+      "zaochenbao.com": 2,
+      "guandian.cn": 1,
+      "ne21.com": 1,
+      "gessey.com": 1,
+      "ofweek.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 5,
-    "relaxed_72h": 1,
-    "final": 6,
-    "cap": "不限同域"
+    "fresh1_24h": 7,
+    "page_fresh": 0,
+    "relaxed_72h": 10,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "加息扰动板块随市调整，南方基金旗下新能源ETF南方(516160)跟踪标的指数中",
-      "d": "cls.cn"
+      "t": "海泰新能：子公司拟参设新能源合伙企业",
+      "d": "eastmoney.com"
     },
     {
-      "t": "晶澳携“光储智生态”亮相广州光伏储能展",
+      "t": "中国光伏行业协会光储专委会第一届委员大会第二次会议顺利召开",
       "d": "sohu.com"
     },
     {
-      "t": "盛齐能源保加利亚14台储能设备项目成功交付 打造海外工商业“光伏+储能”标杆案例",
+      "t": "2026世界储能及清洁能源博览会广州启幕- 中国日报网",
+      "d": "chinadaily.com.cn"
+    },
+    {
+      "t": "快来看思格AI光储“全家桶” || 思格新能源携手天聚能源亮相广州光伏储能展",
       "d": "solarbe.com"
     },
     {
-      "t": "河北出台风光 + 独立储能共用工程费用分摊征求意见稿 明确共建共享成本规则",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "海鹏信BATTERY EXPO 2026圆满收官！",
-      "d": "163.com"
-    },
-    {
-      "t": "从“走出去”到“扎下根”| 匈牙利Tokaj光伏配储项目 正式开工建设",
+      "t": "【“新”动陇原】绿电奔腾 链式集聚——武威市新能源产业动能澎湃",
       "d": "sohu.com"
+    },
+    {
+      "t": "比亚迪计划在欧洲布局三座整车厂， 一座电池厂",
+      "d": "gasgoo.com"
+    },
+    {
+      "t": "全球动力电池装车量：前7个月同比增加123 GWh，七家中国企业合计新增108.",
+      "d": "gasgoo.com"
     }
   ]
 }

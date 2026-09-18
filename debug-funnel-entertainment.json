@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 86,
-    "trusted": 13,
+    "raw_dedup_junk": 48,
+    "trusted": 15,
     "non_trusted_top": {
-      "titan24.com": 35,
-      "ttplus.cn": 10,
-      "sina.cn": 6,
-      "orientaldaily.com.my": 3,
-      "hangzhou.com.cn": 3,
-      "yule.com.cn": 2,
-      "sina.com.cn": 2,
-      "westca.com": 1,
-      "vietnam.vn": 1,
-      "shobserver.com": 1
+      "sina.cn": 7,
+      "360.com": 5,
+      "sina.com.cn": 3,
+      "bjd.com.cn": 2,
+      "china.com": 2,
+      "gz-cmc.com": 2,
+      "wenxuecity.com": 1,
+      "animationmagazine.net": 1,
+      "shobserver.com": 1,
+      "games.gg": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 10,
+    "page_fresh": 2,
+    "relaxed_72h": 11,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "《功夫女足》上映66天抢日冠，排片1.7%票房却占16%，院线排片逻辑被干懵！",
+      "t": "午休服务、火锅影厅、生日会包场 电影院“花式整活”提升非票收入",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "《一饭封神2》破圈背后：中国厨房成为世界风味现场",
       "d": "sohu.com"
     },
     {
-      "t": "在二级平台买演唱会门票，怎么选更放心？这份指南说清楚了",
+      "t": "河南一数学老师投资300万余元拍院线电影 上映三天票房不足3万元，本人回应：影片",
+      "d": "sohu.com"
+    },
+    {
+      "t": "40岁数学老师投资300多万元拍电影，上映8天票房仅2万多！他表示“要告别电影圈",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "河南一数学老师投资300万余元拍院线电影，上映三天票房不到3万元，本人回应：影片",
       "d": "ifeng.com"
     },
     {
-      "t": "《兰香如故》：兰香宁愿玉蝉死在府里，也不让大太太知道，甘棠拦她那一下，才是这对主",
-      "d": "163.com"
+      "t": "电视剧《第一线》剧本研讨会在京举行",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "影院39.9元午休月卡被抢爆！每天午睡2.5小时仅1元多",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "从《南方有嘉木》看文艺经典的江南叙事与时代新生",
-      "d": "chinadaily.com.cn"
-    },
-    {
-      "t": "公布｜第十届平遥国际电影展大师·对话",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "《四个春天》导演陆庆屹：曾经的那个时代过去了，我舍不得",
-      "d": "bjnews.com.cn"
+      "t": "着力打造AI创作者成长新路径 “虎鲸AI人才计划”启动",
+      "d": "xinhuanet.com"
     }
   ]
 }

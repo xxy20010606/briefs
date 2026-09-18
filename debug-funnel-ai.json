@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 56,
-    "trusted": 18,
+    "raw_dedup_junk": 48,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.cn": 10,
-      "sina.com.cn": 9,
-      "cau.edu.cn": 2,
+      "sina.cn": 14,
+      "sina.com.cn": 13,
+      "tradingview.com": 1,
+      "eastmoney.com": 1,
+      "jfdaily.com": 1,
+      "qianjia.com": 1,
+      "caacnews.com.cn": 1,
+      "fxbaogao.com": 1,
       "ac.cn": 1,
-      "ciplawyer.cn": 1,
-      "huanbohainews.com.cn": 1,
-      "jrj.com.cn": 1,
-      "eol.cn": 1,
-      "china.com": 1,
-      "secrss.com": 1
+      "yemacaijing.com": 1
     },
-    "fresh1_24h": 18,
-    "page_fresh": 17,
-    "relaxed_72h": 0,
+    "fresh1_24h": 9,
+    "page_fresh": 3,
+    "relaxed_72h": 7,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "营收下滑、净利骤降56%，中控技术转型遭遇阵痛？",
+      "t": "要么与AI同进化，要么被AI边缘化——山东省“人工智能+”工作推进现场会观察",
+      "d": "sohu.com"
+    },
+    {
+      "t": "MINIMAX-W(00100)",
+      "d": "xueqiu.com"
+    },
+    {
+      "t": "有望对标Databricks，OceanBase押注AI数据底座的万亿市场",
+      "d": "zhidx.com"
+    },
+    {
+      "t": "人工智能初创公司Naive AI估值达14亿美元",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "AI手机下半场竞争开启，豆包手机助手为何先问App意见",
       "d": "21jingji.com"
     },
     {
-      "t": "深度解读：智谱为什么要在 Infra 层搞 RSI？",
-      "d": "leiphone.com"
+      "t": "美国大模型已被日本错误历史观污染",
+      "d": "ifeng.com"
     },
     {
-      "t": "我是股东——申万宏源证券联合上海证券交易所走进品茗科技",
-      "d": "sohu.com"
-    },
-    {
-      "t": "奕行智能完成近20亿元融资，RISC-V云端AI算力芯片Epoch已量产交付",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "在 AI「囤粮潮」里，拆解智谱 50 亿美元的「技术账本」",
-      "d": "leiphone.com"
-    },
-    {
-      "t": "AI赋能，我国开启天文智能观测新范式",
-      "d": "sohu.com"
-    },
-    {
-      "t": "长亭科技朱文雷：机遇与风险并存下，AI正在重构网络安全",
-      "d": "gmw.cn"
+      "t": "成都高新区携手清华大学，共筑西部人工智能科创策源高地- 中国日报网",
+      "d": "chinadaily.com.cn"
     }
   ]
 }
