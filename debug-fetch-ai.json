@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 48,
+  "total": 52,
   "samples": [
     {
-      "title": "要么与AI同进化，要么被AI边缘化——山东省“人工智能+”工作推进现场会观察",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JeC1iUk5JUVdvbGREaExVb1h4U1pRX19ISmNHV3Q5VkNCNkU3V2paT2FkTGhWaHFudzJQdWM5eUlVVC0yTnpXWjR",
-      "source_url": "https://www.sohu.com",
+      "title": "华为发布制造与大企业七大方案与两项计划，加速行业AI 价值落地：发布制造与大企业DIMAK 特训营，",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRlM1ZkZ5dnIwMmxIamhhUTRIeHg0d25XVVJ2WHhpYk83UnA5QXlGUVdjN2lfaGQydjJjbkRRVGdpTWlBaWpISUd",
+      "source_url": "https://www.smartcity.team",
+      "source": "智慧城市行业分析"
+    },
+    {
+      "title": "新方法、新组织、新工具：华为发布AI行业落地新路径，“AI落地七步法”与“DIMAK工程体系”",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRC12WGhoSkFybG0zaHVNNjlDZnFXb3o5SEctS05paGRlQmIxSW1wWTVMZGJhYk82Q2R6bHVDZE1ZSHZKX2xHc3o",
+      "source_url": "https://www.smartcity.team",
+      "source": "智慧城市行业分析"
+    },
+    {
+      "title": "清华发布青年最关注的AI技术，具身智能基础模型等上榜",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yeE4yY0tLdDNpYmk3cjJ1UmxRM3RZV0xldnYwaEo1QnhCZ0lFVm40MG9lVC1QNzB6aEZHVjZlNXloYjBJNDNTNDV",
+      "source_url": "https://news.bjd.com.cn",
+      "source": "京报网"
+    },
+    {
+      "title": "孙其信院士：人工智能与无人农场正在重塑中国农业",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUVxOWlmaTR5Rkx4ckVVQk13UFpwSV80VHFIX1YyTk9WS0swc0NvZnBDMmJycWVHR0Y5X3l6YXotRWVia0lGSzU",
+      "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "Agent手机爆发前夜，vivo把答案押在\"个人化智能\"",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQME92VldIa1JyNDhWVFpZeGVNWmQyb0VEQnNodndrd3M3b01oaUN2RlZKelBtZ241Tkl4TVBJblNMVmViVV9kblB",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经_金融信息服务商"
+      "title": "昇腾超节点系统创新，加速Agentic AI跃迁",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUm9NX241OGFUS05yR3Y3aDMwMWpMdTRrZlU2cXRva0xyblhoSVYydjZETHpUSHRKc1NoMC03dGhJSm9RS0FPR3h",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "MINIMAX-W(00100)",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FcFVpSVZ4dmVITURwcnV1S1R3Y0lEalI2RjJDZWhqRlByei1kbXNGd0tObkx2djM4Rmt6RjduYlRFZ0FaNW5NTFB",
-      "source_url": "https://www.xueqiu.com",
-      "source": "最新资讯"
-    },
-    {
-      "title": "聚智聚力 共绘产业发展新图景",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHOHJvX0lyZVd5cy1CenprRlQ4Z1UwMkkzaGlwS0pRclpRdzdxeGhLdHdnMXZGbHpSRUFGWmh1WkVfeGdXTGFLVkt",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "移动云发布国内首个国产GPU+类脑芯片大模型异构混合推理系统（附图片）",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16cWpKVW9Kd1ZnSTdxa1ZMTTA1eFBHdHlUeFZBMzNMMlUtbGFtQzl4TldJSURxbGQzZnM5WGlJZVdCZVhMZEJzVTR",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经_金融信息服务商"
-    },
-    {
-      "title": "“人工智能+”，如何重塑制造业竞争新优势",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kdFJDaHdFREJvTUQ1OEljVVZ2dklzTjdaejdNYXI2N1VlQzI0NGV3TGNQMWQ4VVo3SWczSk9VVzc2dFRyN0hfY2R",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经_金融信息服务商"
+      "title": "荣耀发布2升级AI工作站：AMD、Intel与NVIDIA 三平台齐上阵本地大模型部署瞄准企业市场",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aTkVnOTlnQXdzZENGNTJsMWxGeXBTTk9xLS11TXk4T011anpXelNmTHlBVmZVQjNzOVE2VXlsR01XTEhBUENNTkN",
+      "source_url": "https://m.cnbeta.com.tw",
+      "source": "cnBeta.COM"
     }
   ]
 }

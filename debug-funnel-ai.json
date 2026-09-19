@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 48,
-    "trusted": 12,
+    "raw_dedup_junk": 52,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.cn": 14,
-      "sina.com.cn": 13,
-      "tradingview.com": 1,
-      "eastmoney.com": 1,
-      "jfdaily.com": 1,
-      "qianjia.com": 1,
-      "caacnews.com.cn": 1,
-      "fxbaogao.com": 1,
-      "ac.cn": 1,
-      "yemacaijing.com": 1
+      "sina.cn": 9,
+      "sina.com.cn": 8,
+      "csdn.net": 5,
+      "smartcity.team": 2,
+      "tradingview.com": 2,
+      "eastmoney.com": 2,
+      "bjd.com.cn": 1,
+      "cnbeta.com.tw": 1,
+      "hk01.com": 1,
+      "yzwb.net": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 3,
-    "relaxed_72h": 7,
+    "fresh1_24h": 16,
+    "page_fresh": 10,
+    "relaxed_72h": 4,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "要么与AI同进化，要么被AI边缘化——山东省“人工智能+”工作推进现场会观察",
+      "t": "孙其信院士：人工智能与无人农场正在重塑中国农业",
       "d": "sohu.com"
     },
     {
-      "t": "MINIMAX-W(00100)",
-      "d": "xueqiu.com"
+      "t": "昇腾超节点系统创新，加速Agentic AI跃迁",
+      "d": "sohu.com"
     },
     {
-      "t": "有望对标Databricks，OceanBase押注AI数据底座的万亿市场",
-      "d": "zhidx.com"
+      "t": "和众汇富研究手记：感知决策执行闭环AI硬件迎周期_科技",
+      "d": "cnfol.com"
     },
     {
-      "t": "人工智能初创公司Naive AI估值达14亿美元",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "AI手机下半场竞争开启，豆包手机助手为何先问App意见",
+      "t": "头部大模型“抢滩”金融高价值场景",
       "d": "21jingji.com"
     },
     {
-      "t": "美国大模型已被日本错误历史观污染",
-      "d": "ifeng.com"
+      "t": "美股三大指数走势分化，中国资产集体拉升，外资看好中国AI发展前景",
+      "d": "thepaper.cn"
     },
     {
-      "t": "成都高新区携手清华大学，共筑西部人工智能科创策源高地- 中国日报网",
-      "d": "chinadaily.com.cn"
+      "t": "华为全联接大会2026：360与昇腾AI联合打造解决方案，为AI Agent全面",
+      "d": "leiphone.com"
+    },
+    {
+      "t": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
+      "d": "infoq.cn"
     }
   ]
 }

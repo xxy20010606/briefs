@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 57,
+    "raw_dedup_junk": 51,
     "trusted": 23,
     "non_trusted_top": {
-      "sina.com.cn": 9,
+      "sina.com.cn": 10,
       "indexbox.io": 7,
-      "news18a.com": 4,
-      "sina.cn": 3,
-      "jfdaily.com.cn": 1,
-      "eastmoney.com": 1,
-      "chnfund.com": 1,
-      "sfccn.com": 1,
-      "mydrivers.com": 1,
+      "sina.cn": 4,
+      "asiae.co.kr": 1,
+      "vietnam.vn": 1,
+      "ofweek.com": 1,
+      "moomoo.com": 1,
+      "china.com": 1,
+      "news18a.com": 1,
       "cnbeta.com.tw": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 8,
-    "relaxed_72h": 10,
+    "fresh1_24h": 20,
+    "page_fresh": 14,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "美股成交额前20：存储芯片涨势延续 闪迪大涨近11%",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "十月来深圳，一站看遍全球“芯”势力！2026湾芯展即将启幕",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "背刺闻泰后！安世半导体转产印度！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "台积电亚纳米级1.4纳米晶圆厂获批建厂许可",
+      "t": "从规模到韧性，中国半导体正在经历一场静默的转型 | VIP洞察周报",
       "d": "sohu.com"
     },
     {
-      "t": "科技回暖，科创芯片设计ETF领涨",
+      "t": "日程更新！【第九届半导体大硅片论坛2026】将于10月20-21日在西安召开",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "晶飞半导体落子泰达 第三代半导体关键装备国产化再添“硬核力量”",
+      "d": "sohu.com"
+    },
+    {
+      "t": "背刺中方母公司后 安世半导体把产能交给印度：投资738亿元",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "喜讯！扬杰科技牵头入围江苏省创新联合体名单",
       "d": "10jqka.com.cn"
     },
     {
-      "t": "芯片产业链与次新股双线走强 锡华科技4连板丨牛股复盘",
+      "t": "美股分化收盘；存储芯片持续走强，闪迪涨逾10%，希捷科技、拉姆研究、应用材料涨超",
       "d": "21jingji.com"
     },
     {
-      "t": "这类ETF，领涨",
-      "d": "eastmoney.com"
+      "t": "安世荷兰将产能交给印度，闻泰科技当然不能袖手旁观",
+      "d": "cnfol.com"
     }
   ]
 }

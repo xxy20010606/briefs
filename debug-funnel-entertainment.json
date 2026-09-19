@@ -2,52 +2,52 @@
   "type": "entertainment",
   "stages": {
     "raw_dedup_junk": 48,
-    "trusted": 15,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.cn": 7,
-      "360.com": 5,
-      "sina.com.cn": 3,
-      "bjd.com.cn": 2,
-      "china.com": 2,
-      "gz-cmc.com": 2,
-      "wenxuecity.com": 1,
+      "sina.cn": 10,
+      "sina.com.cn": 4,
+      "bjd.com.cn": 4,
+      "china.com": 3,
+      "hangzhou.com.cn": 3,
+      "cnbeta.com.tw": 2,
+      "jfdaily.com": 1,
+      "rediandf.com": 1,
       "animationmagazine.net": 1,
-      "shobserver.com": 1,
-      "games.gg": 1
+      "cqnews.net": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 2,
-    "relaxed_72h": 11,
+    "fresh1_24h": 12,
+    "page_fresh": 9,
+    "relaxed_72h": 2,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
+      "t": "# 《花儿与少年2026》正式官宣！阔别重逢，再赴一场治愈的远行",
+      "d": "sohu.com"
+    },
+    {
+      "t": "痛悼！陕西著名秦腔表演艺术家李爱琴逝世",
+      "d": "sohu.com"
+    },
+    {
+      "t": "国家大剧院新版中国史诗歌剧《长征》即将上演",
+      "d": "people.com.cn"
+    },
+    {
       "t": "午休服务、火锅影厅、生日会包场 电影院“花式整活”提升非票收入",
-      "d": "eastmoney.com"
+      "d": "stcn.com"
     },
     {
-      "t": "《一饭封神2》破圈背后：中国厨房成为世界风味现场",
-      "d": "sohu.com"
-    },
-    {
-      "t": "河南一数学老师投资300万余元拍院线电影 上映三天票房不足3万元，本人回应：影片",
-      "d": "sohu.com"
-    },
-    {
-      "t": "40岁数学老师投资300多万元拍电影，上映8天票房仅2万多！他表示“要告别电影圈",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "河南一数学老师投资300万余元拍院线电影，上映三天票房不到3万元，本人回应：影片",
+      "t": "浙江宣传：嗑“孙悟空X林黛玉”CP，到底嗑的是什么？",
       "d": "ifeng.com"
     },
     {
-      "t": "电视剧《第一线》剧本研讨会在京举行",
-      "d": "chinanews.com.cn"
+      "t": "好电影不该死于“未看先判”",
+      "d": "ce.cn"
     },
     {
-      "t": "着力打造AI创作者成长新路径 “虎鲸AI人才计划”启动",
+      "t": "电影《活色生香》走进北外 主创与观众共话“不设限”的人生",
       "d": "xinhuanet.com"
     }
   ]

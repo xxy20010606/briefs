@@ -1,50 +1,36 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 21,
+    "raw_dedup_junk": 26,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.cn": 11,
-      "sina.com.cn": 9,
-      "china.com": 2,
-      "sinchew.com.my": 1,
-      "longbridge.com": 1,
-      "fx678.com": 1,
-      "x.com": 1,
-      "techflowpost.com": 1,
-      "hstong.com": 1,
-      "on.cc": 1
+      "sina.cn": 7,
+      "sina.com.cn": 5,
+      "futunn.com": 3,
+      "kuai.media": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 0,
-    "relaxed_72h": 18,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 9,
+    "page_fresh": 3,
+    "relaxed_72h": 2,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "云锋金融(00376)重组持牌实体架构将出售YFML的全部已发行股本_股市直播_",
+      "t": "黄仁勋，减持4.6万股英伟达股票",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "美股逼近历史高位散户却愈发悲观！调查显示看空比例升至53.3% 现金配置明显增加",
       "d": "cnfol.com"
     },
     {
-      "t": "瑞慈医疗(01526)9月18日斥资2.62万港元回购3万股_股市直播_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "【环球财经】东京股市涨跌互现 日经225指数涨1.38%",
-      "d": "21jingji.com"
+      "t": "刚喊着必须降息，美联储却反手加息！特朗普最担心的事还是来了",
+      "d": "sohu.com"
     },
     {
       "t": "特朗普不满美联储加息：美国利率应在1%或以下，赶紧降息！",
       "d": "cls.cn"
-    },
-    {
-      "t": "他选择加息！特朗普亲手点的“将”，反手给他一记耳光 |京酿馆",
-      "d": "bjnews.com.cn"
-    },
-    {
-      "t": "美联储加息，对资本市场有哪些影响？",
-      "d": "sohu.com"
     },
     {
       "t": "晚报丨日央行加息25基点至1.25%；人民币升破6.7关口，多重因素构成强支撑；",

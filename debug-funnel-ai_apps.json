@@ -1,53 +1,37 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 24,
-    "trusted": 7,
+    "raw_dedup_junk": 15,
+    "trusted": 3,
     "non_trusted_top": {
-      "sina.cn": 3,
       "sina.com.cn": 2,
+      "csdn.net": 2,
+      "weibo.com": 1,
+      "icloudnews.net": 1,
+      "zaochenbao.com": 1,
       "fxbaogao.com": 1,
+      "creaders.net": 1,
       "unite.ai": 1,
-      "donews.com": 1,
-      "myzaker.com": 1,
-      "jrj.com.cn": 1,
-      "sjtu.edu.cn": 1,
-      "jfdaily.com": 1,
-      "chinadaily.com.cn": 1
+      "csteelnews.com": 1,
+      "cnbeta.com.tw": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 1,
-    "relaxed_72h": 6,
-    "final": 7,
+    "fresh1_24h": 3,
+    "page_fresh": 3,
+    "relaxed_72h": 0,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "AI 硬件创业者，疯狂涌入手机的背面",
-      "d": "geekpark.net"
-    },
-    {
-      "t": "2026雅思口语AI工具测评：最新趋势下快速提升首推「咕噜口语」",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "聚焦人才培养、校园效能与创新实践，网易智企发布高校 AI Agent 落地场景方",
+      "t": "实测AI办公三强：豆包全能、WorkBuddy够稳、千问还得加把劲",
       "d": "sohu.com"
     },
     {
-      "t": "MiniMax出海接连迎新进展，港股通信息技术ETF易方达（159196）标的指",
-      "d": "nbd.com.cn"
-    },
-    {
-      "t": "当AI从工具变为组织成员，企业需要重新设计自己",
+      "t": "AI办公，自费上班打工人的第一笔“首付”",
       "d": "sohu.com"
     },
     {
-      "t": "新航已至！WAVE2026泛互联网全球领航者大会即将启幕",
-      "d": "sohu.com"
-    },
-    {
-      "t": "不止个人提效助手，Amazon Quick用企业级安全协作平台破局AI办公",
+      "t": "工信部发布 AI + 软件行动方案，智能体时代开启，哪些赛道将率先受益？",
       "d": "sohu.com"
     }
   ]

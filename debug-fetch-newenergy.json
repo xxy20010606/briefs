@@ -1,12 +1,30 @@
 {
   "type": "newenergy",
-  "total": 49,
+  "total": 32,
   "samples": [
     {
-      "title": "西班牙Electra启用15.6兆瓦城市超快充电站",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kdnluU0ptSXZyTlNhNThuU0dXS3FuTTc1WVcyUmJISm0wZXJLSC00eUktUUhjMmpUZERSZTIxQWlSX2w4M0N3SGt",
-      "source_url": "https://www.wedoany.com",
-      "source": "维度网"
+      "title": "光伏、储能，面临大转型",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVkhxbm9KbVh6SldTZUc0N2VZVnlLRl9qWFJCVGxYcFdpOS1BMi1ib1FjSWRtVFFmbmY1cDVqakZhS2t6Z1R6UEh",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "第18届世界太阳能光伏暨储能产业博览会在广州圆满举行",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMVdpU3Y2Tm1xWnJFcTZWNWkwNG13ekZ1NUNjMVZ5dTRhcVJGTEsyaktXcFlVZlRERVY2MlpiTU80dEJpdzVLV0V",
+      "source_url": "https://huacheng.gz-cmc.com",
+      "source": "广州日报新花城"
+    },
+    {
+      "title": "为雪山守护者们点亮黑夜中的一盏灯｜思格新能源以绿色能源支持祁连山生态保护一线",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZVGFOSVdhZFBOZmZOUFpFRkZCSENLRFVNMWZfckVCaXl3T3phS21vMGFCOUh5cDVYdlI3MjhHV3pZZ2c2NUxFaFN",
+      "source_url": "https://mcn.solarbe.com",
+      "source": "mcn.solarbe.com"
+    },
+    {
+      "title": "创维光伏亮相2026国际数字能源展：羲寰能源与超级物种能亮站双核呈现",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UZ3dmaHJQWk1rSTBacFIxa1BuazNHTXB4Q0R6UjZTUmdGX2JyTm5lS1V1ODY4RXF3VmpZTVJMM2VYaW96VWF0STZ",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     },
     {
       "title": "孟加拉国设立1.23亿美元屋顶光伏基金 目标一年新增4GW",
@@ -15,28 +33,10 @@
       "source": "维度网"
     },
     {
-      "title": "南京新能源集团签约中盐淮安4.61MW分布式光伏项目",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zMGJXRDBjdnp1cDFIYWJIV0RWOXI2dUluN3BxTFVyYTA1R19uMlRQaU1ZdkNIOGQtbEg3MjVUS2FmSHpTRXNIakp",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
-    },
-    {
-      "title": "海泰新能：子公司拟参设新能源合伙企业",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84cTh0bWpuNWpQZ3ozRGcwd2x2RjhiV0hSc1BHWVhHR2JVOHNaaE9CX0ZQN2kzMkFOTnYxSklsVVllX01JbnFmcFl",
-      "source_url": "https://finance.eastmoney.com",
-      "source": "东方财富"
-    },
-    {
-      "title": "储能产品加速出海，南方基金钟贇持续关注新能源产业链",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RMmJUOUx0VGp3UXpndEQyRXhGWVY1YzlDaEdjSkxCNVc0V1QwTllPVHJVZkh1RjhwQlc5bE8yTmFKYWZGWENmOHp",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经_金融信息服务商"
-    },
-    {
-      "title": "中国光伏行业协会光储专委会一届二次会议在滁州召开",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1FlU0kyUkVNZTNzUHZvVWtNcV9tU0NObUhvVkJ6V25KME1yQ2NaMmRtV2dUckJjNHU5RFdzNnZqa2M0YlJ6cTA",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经_金融信息服务商"
+      "title": "光伏银浆巨头董事长、总经理确定",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1va2VlNy1kaWk5NUdLNGw5a3BQSFhDeXlhcFotZ3pMT3Fub0otY09tS2w2Nl9pbEctTy0xaGFublVoZ21jX3o0YTZ",
+      "source_url": "https://newenergy.in-en.com",
+      "source": "国际新能源网"
     }
   ]
 }
