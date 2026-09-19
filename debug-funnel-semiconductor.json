@@ -1,54 +1,50 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 51,
-    "trusted": 23,
+    "raw_dedup_junk": 35,
+    "trusted": 9,
     "non_trusted_top": {
-      "sina.com.cn": 10,
-      "indexbox.io": 7,
-      "sina.cn": 4,
-      "asiae.co.kr": 1,
-      "vietnam.vn": 1,
-      "ofweek.com": 1,
-      "moomoo.com": 1,
-      "china.com": 1,
+      "indexbox.io": 8,
+      "sina.cn": 6,
+      "sina.com.cn": 5,
       "news18a.com": 1,
-      "cnbeta.com.tw": 1
+      "idnfinancials.com": 1,
+      "eeworld.com.cn": 1,
+      "china.com": 1,
+      "aboluowang.com": 1,
+      "chosun.com": 1,
+      "enanyang.my": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 14,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 8,
+    "page_fresh": 2,
+    "relaxed_72h": 4,
+    "final": 6,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "从规模到韧性，中国半导体正在经历一场静默的转型 | VIP洞察周报",
-      "d": "sohu.com"
-    },
-    {
-      "t": "日程更新！【第九届半导体大硅片论坛2026】将于10月20-21日在西安召开",
+      "t": "趋势丨ASML High-NA EUV加速落地，先进芯片制造进入新周期",
       "d": "eet-china.com"
     },
     {
-      "t": "晶飞半导体落子泰达 第三代半导体关键装备国产化再添“硬核力量”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "背刺中方母公司后 安世半导体把产能交给印度：投资738亿元",
+      "t": "国产芯片验证BSPD背部供电设计：无需EUV也能用上18A同款技术",
       "d": "eet-china.com"
     },
     {
-      "t": "喜讯！扬杰科技牵头入围江苏省创新联合体名单",
-      "d": "10jqka.com.cn"
+      "t": "从可插拔到CPO：光互连奔向芯片“身旁”，制造成为新战场",
+      "d": "eet-china.com"
     },
     {
-      "t": "美股分化收盘；存储芯片持续走强，闪迪涨逾10%，希捷科技、拉姆研究、应用材料涨超",
-      "d": "21jingji.com"
+      "t": "04:00:32【美股收盘：纳指、标普500指数涨超1% AI硬件股、芯片半导体",
+      "d": "cls.cn"
     },
     {
-      "t": "安世荷兰将产能交给印度，闻泰科技当然不能袖手旁观",
-      "d": "cnfol.com"
+      "t": "印度吸引120亿美元半导体投资，打造全球新芯片中心",
+      "d": "sohu.com"
+    },
+    {
+      "t": "原创 安世铁了心，官宣把芯片产能转移到印度，再也不回中国",
+      "d": "sohu.com"
     }
   ]
 }

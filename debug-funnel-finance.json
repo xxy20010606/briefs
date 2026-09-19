@@ -1,40 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 26,
-    "trusted": 10,
+    "raw_dedup_junk": 27,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.cn": 7,
-      "sina.com.cn": 5,
-      "futunn.com": 3,
-      "kuai.media": 1
+      "sina.cn": 3,
+      "sina.com.cn": 3,
+      "sinchew.com.my": 2,
+      "litefinance.org": 1,
+      "eastmoney.com": 1,
+      "oeeee.com": 1,
+      "creaders.net": 1,
+      "bitcoin.com": 1,
+      "futunn.com": 1,
+      "china.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 3,
-    "relaxed_72h": 2,
-    "final": 5,
+    "fresh1_24h": 8,
+    "page_fresh": 2,
+    "relaxed_72h": 5,
+    "final": 7,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "黄仁勋，减持4.6万股英伟达股票",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "美股逼近历史高位散户却愈发悲观！调查显示看空比例升至53.3% 现金配置明显增加",
+      "t": "信达生物(01801.HK)：肿瘤与综合产品线双轮驱动业绩保持强劲增长_股市直播",
       "d": "cnfol.com"
     },
     {
-      "t": "刚喊着必须降息，美联储却反手加息！特朗普最担心的事还是来了",
+      "t": "深度解析黄金和美联储关系！黄金，降息一定涨吗？加息一定跌吗？",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "2亿绑定华为云抢滩无人环卫，2.57 亿并购补供应链！福龙马股价涨停背后",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "上海金融女博士罕见发声：目前A股想要逢低建仓，建议死磕65原则",
       "d": "sohu.com"
     },
     {
-      "t": "特朗普不满美联储加息：美国利率应在1%或以下，赶紧降息！",
-      "d": "cls.cn"
+      "t": "真爱美家上半年净利降9成 2021上市募4.5亿国投证券保荐_股市聚焦_市场",
+      "d": "cnfol.com"
     },
     {
-      "t": "晚报丨日央行加息25基点至1.25%；人民币升破6.7关口，多重因素构成强支撑；",
-      "d": "eastmoney.com"
+      "t": "致尚科技上半年净利降9成上市超募3.9亿五矿证券保荐_股市聚焦_市场",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "华夏银行舟山分行违规被罚115万项目贷款管理不审慎等_股市聚焦_市场",
+      "d": "cnfol.com"
     }
   ]
 }

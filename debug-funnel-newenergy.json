@@ -1,49 +1,46 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 32,
-    "trusted": 7,
+    "raw_dedup_junk": 31,
+    "trusted": 6,
     "non_trusted_top": {
-      "autohome.com.cn": 9,
-      "sina.com.cn": 5,
-      "sina.cn": 3,
-      "news18a.com": 3,
-      "gz-cmc.com": 1,
-      "wedoany.com": 1,
-      "in-en.com": 1,
-      "mrjjxw.com": 1,
-      "automachi.com": 1
+      "autohome.com.cn": 11,
+      "sina.com.cn": 9,
+      "sina.cn": 2,
+      "wenxuan.news": 1,
+      "hk01.com": 1,
+      "sfccn.com": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 6,
-    "relaxed_72h": 0,
+    "fresh1_24h": 3,
+    "page_fresh": 1,
+    "relaxed_72h": 5,
     "final": 6,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "光伏、储能，面临大转型",
-      "d": "sohu.com"
-    },
-    {
-      "t": "为雪山守护者们点亮黑夜中的一盏灯｜思格新能源以绿色能源支持祁连山生态保护一线",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "大众电动车从23万暴跌至18.99万，断臂求生还是技术反哺？",
-      "d": "163.com"
-    },
-    {
       "t": "新知|超牛！千米地下造出氢能“充电宝”",
       "d": "sohu.com"
     },
     {
-      "t": "浙江电网侧独立储能入市细则落地：2.54GW资源入局，终结储能“政策兜底”时代",
+      "t": "三年半失血超87亿元！光伏边框巨头永臻股份仍砸5.97亿元杀入电池铝箔赛道",
+      "d": "sohu.com"
+    },
+    {
+      "t": "当光储协同遇上AI算力：构网型储能如何稳住AIDC？｜2026光储协调应用创新发",
       "d": "solarbe.com"
     },
     {
-      "t": "能源矿产产业日报(09.18) : 能源行业动态",
+      "t": "德行天下机器人亮相第十八届广州国际太阳能光伏暨储能产业博览会，荣获优质服务商荣誉",
       "d": "sohu.com"
+    },
+    {
+      "t": "光伏、储能，面临大转型",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "“沙戈荒”能源基地用上智慧储能新技术",
+      "d": "stdaily.com"
     }
   ]
 }

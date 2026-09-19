@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 52,
+    "raw_dedup_junk": 42,
     "trusted": 17,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "sina.com.cn": 8,
-      "csdn.net": 5,
-      "smartcity.team": 2,
-      "tradingview.com": 2,
-      "eastmoney.com": 2,
-      "bjd.com.cn": 1,
-      "cnbeta.com.tw": 1,
+      "sina.com.cn": 9,
+      "sina.cn": 6,
+      "youth.cn": 1,
       "hk01.com": 1,
-      "yzwb.net": 1
+      "cctime.com": 1,
+      "huanbohainews.com.cn": 1,
+      "hebtv.com": 1,
+      "zhiding.cn": 1,
+      "dongyingnews.cn": 1,
+      "gz-cmc.com": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 10,
-    "relaxed_72h": 4,
+    "fresh1_24h": 11,
+    "page_fresh": 1,
+    "relaxed_72h": 14,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "孙其信院士：人工智能与无人农场正在重塑中国农业",
-      "d": "sohu.com"
+      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+      "d": "36kr.com"
+    },
+    {
+      "t": "算力奔涌，看南昌新质生产力拔节生长",
+      "d": "163.com"
+    },
+    {
+      "t": "认知·锐见 | 警惕日本新型“历史洗白术”之一：日本往政务AI系统里输入了什么？",
+      "d": "cctv.com"
+    },
+    {
+      "t": "天融信李雪莹：“行动力”是风险的关键变量，智能体安全须构建体系化能力",
+      "d": "10jqka.com.cn"
     },
     {
       "t": "昇腾超节点系统创新，加速Agentic AI跃迁",
       "d": "sohu.com"
     },
     {
-      "t": "和众汇富研究手记：感知决策执行闭环AI硬件迎周期_科技",
-      "d": "cnfol.com"
+      "t": "AI越来越强，但我们仍不知道智能是否只是计算｜对话前DeepMind资深科学家曹",
+      "d": "sohu.com"
     },
     {
-      "t": "头部大模型“抢滩”金融高价值场景",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "美股三大指数走势分化，中国资产集体拉升，外资看好中国AI发展前景",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "华为全联接大会2026：360与昇腾AI联合打造解决方案，为AI Agent全面",
-      "d": "leiphone.com"
-    },
-    {
-      "t": "Grab 智能体框架 LLM-Kit 加速 AI 智能体生产部署",
-      "d": "infoq.cn"
+      "t": "沐曦股份率先完成中国电信Xing4.0-29B-A4B大模型Day 0适配",
+      "d": "10jqka.com.cn"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 48,
-    "trusted": 13,
+    "raw_dedup_junk": 51,
+    "trusted": 16,
     "non_trusted_top": {
-      "sina.cn": 10,
-      "sina.com.cn": 4,
-      "bjd.com.cn": 4,
+      "sina.cn": 17,
+      "360.com": 4,
+      "yzwb.net": 3,
       "china.com": 3,
-      "hangzhou.com.cn": 3,
-      "cnbeta.com.tw": 2,
-      "jfdaily.com": 1,
-      "rediandf.com": 1,
-      "animationmagazine.net": 1,
-      "cqnews.net": 1
+      "sina.com.cn": 1,
+      "hsw.cn": 1,
+      "dailyqd.com": 1,
+      "zsnews.cn": 1,
+      "bjd.com.cn": 1,
+      "cnjiwang.com": 1
     },
     "fresh1_24h": 12,
-    "page_fresh": 9,
-    "relaxed_72h": 2,
+    "page_fresh": 3,
+    "relaxed_72h": 12,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "# 《花儿与少年2026》正式官宣！阔别重逢，再赴一场治愈的远行",
+      "t": "“手搓电影”《目不转睛》票房遇冷",
+      "d": "163.com"
+    },
+    {
+      "t": "“拮据”的名古屋亚运会，我们到底看什么？",
+      "d": "guancha.cn"
+    },
+    {
+      "t": "从漫改武侠到三星堆动画 AI影视集中上线 AI“勇闯”长剧 口碑“冰火两重天”",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "上映3天票房仅5.5万，“手搓电影”《目不转睛》票房遇冷，导演一人包揽编剧、出品",
       "d": "sohu.com"
     },
     {
-      "t": "痛悼！陕西著名秦腔表演艺术家李爱琴逝世",
+      "t": "耗资1亿上映1天就被判死刑，票房仅106万，常远这新片就是个笑话",
       "d": "sohu.com"
     },
     {
-      "t": "国家大剧院新版中国史诗歌剧《长征》即将上演",
-      "d": "people.com.cn"
+      "t": "“巴蜀鬼才”魏明伦遗作《铁木高娃》在成都首演",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "午休服务、火锅影厅、生日会包场 电影院“花式整活”提升非票收入",
-      "d": "stcn.com"
-    },
-    {
-      "t": "浙江宣传：嗑“孙悟空X林黛玉”CP，到底嗑的是什么？",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "好电影不该死于“未看先判”",
-      "d": "ce.cn"
-    },
-    {
-      "t": "电影《活色生香》走进北外 主创与观众共话“不设限”的人生",
-      "d": "xinhuanet.com"
+      "t": "中芭主题晚会《星火·永恒的交响》首演",
+      "d": "chinanews.com.cn"
     }
   ]
 }

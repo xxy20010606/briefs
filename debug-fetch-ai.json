@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 52,
+  "total": 42,
   "samples": [
     {
-      "title": "华为发布制造与大企业七大方案与两项计划，加速行业AI 价值落地：发布制造与大企业DIMAK 特训营，",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRlM1ZkZ5dnIwMmxIamhhUTRIeHg0d25XVVJ2WHhpYk83UnA5QXlGUVdjN2lfaGQydjJjbkRRVGdpTWlBaWpISUd",
-      "source_url": "https://www.smartcity.team",
-      "source": "智慧城市行业分析"
+      "title": "探需东博会 这些领域缘何成为东盟客商关注点",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iYTRDUjNHMXZiZUJjXzBjc1RTZG5NRnlndHRWVGlHUldQWVJ5TEVNMURfSEpTRGhYdWI5N0pRSmdhNlRZaTk0d2E",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "新方法、新组织、新工具：华为发布AI行业落地新路径，“AI落地七步法”与“DIMAK工程体系”",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRC12WGhoSkFybG0zaHVNNjlDZnFXb3o5SEctS05paGRlQmIxSW1wWTVMZGJhYk82Q2R6bHVDZE1ZSHZKX2xHc3o",
-      "source_url": "https://www.smartcity.team",
-      "source": "智慧城市行业分析"
+      "title": "华为高层内部万字长文曝光",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBSUE1oc3gzckRaZmwxcW42SFl5czd1d1VGZWxaNWw2V3Y0azdRSVFlclNJNkJOVlpGUUhZbHJmLUUtR2RFNUhuSQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "清华发布青年最关注的AI技术，具身智能基础模型等上榜",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yeE4yY0tLdDNpYmk3cjJ1UmxRM3RZV0xldnYwaEo1QnhCZ0lFVm40MG9lVC1QNzB6aEZHVjZlNXloYjBJNDNTNDV",
-      "source_url": "https://news.bjd.com.cn",
-      "source": "京报网"
+      "title": "算力奔涌，看南昌新质生产力拔节生长",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ISzQ2NWxVcTZDUHlOS21UYmNIOW1XQTRXQ3h0UjM5NlVNdDFsWjhSMDZGY2R2bGVjSFRnM1NYcFJoeGk3Q1hFZFJ",
+      "source_url": "https://www.163.com",
+      "source": "手机网易网"
     },
     {
-      "title": "孙其信院士：人工智能与无人农场正在重塑中国农业",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUVxOWlmaTR5Rkx4ckVVQk13UFpwSV80VHFIX1YyTk9WS0swc0NvZnBDMmJycWVHR0Y5X3l6YXotRWVia0lGSzU",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "拥抱智能变革 守护身边的网络安全",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdTU5WFlIQ2tXdXJLbmVQeGhIeUt6Q0ZLc2txSGc2UWVlM21qMWFoXy1pQzVDbUN0d0ZDdmdOUTNiaWtHMzJOVk9",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "昇腾超节点系统创新，加速Agentic AI跃迁",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUm9NX241OGFUS05yR3Y3aDMwMWpMdTRrZlU2cXRva0xyblhoSVYydjZETHpUSHRKc1NoMC03dGhJSm9RS0FPR3h",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "从头理解AI时代的教育：AI能秒出所有答案，教育还能教什么？",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsWlRkbldLZWljQzdyLUhMZ1ZELWlreTBoRUhXTjZuanpuWWdCRkxya29RTDQ5Z0IwaTdYekd6Sk9IMTZBNFQ4cEd",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "荣耀发布2升级AI工作站：AMD、Intel与NVIDIA 三平台齐上阵本地大模型部署瞄准企业市场",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aTkVnOTlnQXdzZENGNTJsMWxGeXBTTk9xLS11TXk4T011anpXelNmTHlBVmZVQjNzOVE2VXlsR01XTEhBUENNTkN",
-      "source_url": "https://m.cnbeta.com.tw",
-      "source": "cnBeta.COM"
+      "title": "“还值不值得学英语”，《纽约时报》这样报道",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pcTlUY2tVaFRqN2h2cGZWR3phLTBxYnFYUVI3N2x6ajR4VWtjWlk4dUROZGtUeWNKV3JZSERDSkxwZkFPUkNvbFF",
+      "source_url": "https://user.guancha.cn",
+      "source": "风闻"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 51,
+  "total": 36,
   "samples": [
     {
-      "title": "半导体独自领跑两市，大盘震荡蓄力，机会还是风险？",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV2hVcXhzT0dDcUtGVkhDTV92YjhBRTlSQUtxUW94QjlrQVFIeWpvZXM3alA0RGw2VUN4czRQb2RFaHJhTEczU2x",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "粤芯半导体明日上会 近3年累亏超65亿",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYZWtvZktpeEF3azlNYnY2SE9LWFJmU0ExVEo5SGhheGZYSnlDZi1XY0xGT2hoWnpzU1BDRURfNTl1YWFFdWZFLQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "半导体股能否跨越高利率浪潮[周末理财]",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mUjBDN25hSW1qTXEwQm5xbHB3ZFY1LWZ5b3Z4c2lLbUFJLXBDQ2t5cDBmRUt3cVJKRHUyMllaRGdpVExIOS1BOGR",
-      "source_url": "https://www.asiae.co.kr",
-      "source": "아시아경제"
+      "title": "从可插拔到CPO：光互连奔向芯片“身旁”，制造成为新战场",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVRHZRWGRpTW1RaWFqTXRMbjhVUFM2LXNBNmY4ZG5ERVVBWjBucTJoenA5RUQ5VThBSTlVSkozeGR4UzZRSU1sWGp",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "海内外利好密集来袭！算力主线强势领涨，科创芯片ETF南方(588890)涨超3%",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGhPRjVZeWNFb1RlZ2IyX3VyckdCMmdXZExSQW44YzRHSC1UaHhBSTQyX3ctRUJUbFNnX0dQa0dOZVJxMWxGN19",
-      "source_url": "https://m.21jingji.com",
-      "source": "21财经"
+      "title": "安世“分家”近一年内情：5.9万片/月海外晶圆断供，国内12英寸晶圆产能接棒",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOEJ1M0lwOGd4cnBNTng3MTRHRXlTeW5xcVg0ZmQ0c1dTOXg0bUdPSURPcXZpY1A2QXI4eDdjbnpSSmZCU0lBdUQ",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "A股半导体板块大爆发，兆易创新大涨5%，600亿龙头直线封板",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYXN6T0VNUERBVHpOV091ajNfaUEtUkdlTzdDZEIxTDJOamxVVGxxYklFSF9RQllqODl6cU1fNFNjUXB4LWowSmI",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "04:00:32【美股收盘：纳指、标普500指数涨超1% AI硬件股、芯片半导体股大涨】",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PRUdneS0wNlBTcjhCdzJsbVVUZEtCemhNbzVvcVhJc2ktdnhOZU5UbjhCbDdVT2ROeEl4aVBNS1ZVVTVkRElpYg?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "人工智能是如何日益融入半导体行业的？",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYUgtMl9QNlYzZFNvaFU1SGF2UFpaNzBibWx1MWZMSnhtZVV2eW5LME5fZkJGUmdncHdmWEQzVkVQbGJOdDBqeDl",
-      "source_url": "https://www.vietnam.vn",
-      "source": "Vietnam.vn"
+      "title": "马斯克芯片厂摊上事了！一颗芯片未产先惹上官司：被指商标侵权",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Sd3VwV2JTdXFPeDd3OFVYVVFGcHplbGduTUhPaG1GQmVRblh6TlJWU1NreWZqT3AxZFgzV1lqb2pfdm9LWFNTX1N",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "又出手了！科技突然拉升！A股这次将爆发？",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmVqaTAxWGpwSlh2a1JTOTU0a0NmWlhSMWRINWlFOUkxejZCVEpUTjZ2QU1xeHBHVkJOeW1ZSG04S1RiVDhzUkx",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "2026 光电融合大会· 行业优秀企业奖，网络投票中！【涉及磷化铟，TGV，CPO，光芯片，光器件，",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5ZDFwUGdjZEs3SE1GQkdhTmxUN1Z5VjRLSExwU0dxUHlvZDFtSWxjenRTLUFFVE9qelpTN2N4by1kWGlJdTZWZGk",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 15,
+  "total": 22,
   "samples": [
     {
-      "title": "#熟练使用AI不等于具备AI能力# 专家建议AI技能量化考核",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FWldZUThwaXdYRU9GdGdsVTByeloyTS1zS09mMUpaRVcySk1kczRqY1FCNEFTWU9YZGo0dGxENkFVMVdyajZ5SFB",
-      "source_url": "https://weibo.com",
-      "source": "微博"
+      "title": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04WmRlVFlSbEVEOTZTd3hQUjNBR0VkRTNheUtpUkNUNVlGOE00MkdzazJycTg0aGVVeTdUWDYwZkdBdXh6eFdWM0R",
+      "source_url": "https://m.36kr.com",
+      "source": "36Kr"
     },
     {
-      "title": "HarmonyOS AI开发工具加速应用创新构建Agentic时代开发新范式-AI云资讯",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lQmRmd1NTRmt0QnhYck54UlNvdjVtSEZJYkZMQWh1UEpQTEFOaGd4Yzc4LUFUV28zTE9HSVl5eHhMV19GTUYtUXB",
-      "source_url": "https://www.icloudnews.net",
-      "source": "icloudnews.net"
+      "title": "人工智能在普通教育中的应用：从工具的使用到能力的培养。",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTnBldG1EZDRpbThFZmhpemY5SGtwaW8tYk5ZQUdhR1h2ek52N3VKU2xyT291LW5VNTZrTXhrbTVKdE52d1NpVEt",
+      "source_url": "https://www.vietnam.vn",
+      "source": "Vietnam.vn"
     },
     {
-      "title": "AI虚拟恋人异化为批量制黄工具，涉案流水17万余元，6人研发团队获刑",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYm84aEQtWU91TWhqWXAtR2dZeUN2bmZtYkQ2VkhQdXI0R0t5ZDZEVlFmSW1ZRmx4Q2U4d3ZBSzlnQmp6cmpfZ19",
+      "title": "Pebblely – 将产品抠图转化为电商、社交及广告大片的 AI 产品摄影工具",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yejA3YmlsckNFM0REdkJFcGotMGhmd3R2d1FNVlVyZVViQmRtVkVjSFlESmtMV2R3ODljQmk5NDhEdWpTeE9Edkl",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
+    },
+    {
+      "title": "算力奔涌，看南昌新质生产力拔节生长",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ISzQ2NWxVcTZDUHlOS21UYmNIOW1XQTRXQ3h0UjM5NlVNdDFsWjhSMDZGY2R2bGVjSFRnM1NYcFJoeGk3Q1hFZFJ",
+      "source_url": "https://www.163.com",
+      "source": "手机网易网"
+    },
+    {
+      "title": "从提效工具到经营核心：AI 如何改写消费品生意的底层逻辑？",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ha1IwSVZHck1rZTktNFkyclNqV1lET29HYlJyTXdyX1Z5YnZNbk8yVm9VUDhhT3dkRnA0RGhOc0VaV2NleFgwZ0h",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "路透：贝森特周末将与何立峰讨论AI、贸易及稀土",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JZWdRUUdkenF6bzhXMzUwbi1vbUF3TFc4WVM3WDM4S1dsR1A3d3BSeXJLZ0NyTFQybm5YVW9RTkQ0Z1BoOUpLb3R",
-      "source_url": "https://www.zaochenbao.com",
-      "source": "早晨报"
-    },
-    {
-      "title": "国家计算机病毒应急处理中心:《移动互联网应用安全统计分析报告2026｜信息技术研报》",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fUkZ0c0pDNEh3eW1TUjlweTZmVHBlazUtT0cxcGR6SHVpbFdtbVVIb1RXOHFsRmZ4YjNNUHEtWXhERjdJcFppTVh",
-      "source_url": "https://www.fxbaogao.com",
-      "source": "发现报告"
-    },
-    {
-      "title": "CNN惊爆：AI误判 美中差点爆发战争",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vcGZzSnZSSmVVQnpZLVZYdWpnM3lsNVZQMUMwQ3VuVFNHci0tNnNhaEZxZjktbnJCaFlqallXckg3djZIWk83Wmp",
-      "source_url": "https://news.creaders.net",
-      "source": "万维读者网"
+      "title": "AI专题讲座助力晋商提升AI素养",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBab1NRS3hxa2E3bk56eEktMDFqOXcxelFPSFJhMHNlWHBGdGxJVFg0X202ekRORWlMb3JjOXN0aUNSazJGRkxtMk8",
+      "source_url": "https://www.stdaily.com",
+      "source": "中国科技网"
     }
   ]
 }

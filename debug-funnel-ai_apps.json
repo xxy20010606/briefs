@@ -1,38 +1,50 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 15,
-    "trusted": 3,
+    "raw_dedup_junk": 22,
+    "trusted": 6,
     "non_trusted_top": {
-      "sina.com.cn": 2,
-      "csdn.net": 2,
-      "weibo.com": 1,
-      "icloudnews.net": 1,
-      "zaochenbao.com": 1,
-      "fxbaogao.com": 1,
-      "creaders.net": 1,
-      "unite.ai": 1,
-      "csteelnews.com": 1,
-      "cnbeta.com.tw": 1
+      "sina.com.cn": 5,
+      "sina.cn": 3,
+      "vietnam.vn": 1,
+      "quasa.io": 1,
+      "ctdsb.net": 1,
+      "on.cc": 1,
+      "ichaoqi.com": 1,
+      "duozhi.com": 1,
+      "gz-cmc.com": 1,
+      "ac.cn": 1
     },
     "fresh1_24h": 3,
-    "page_fresh": 3,
-    "relaxed_72h": 0,
-    "final": 3,
+    "page_fresh": 2,
+    "relaxed_72h": 4,
+    "final": 6,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "实测AI办公三强：豆包全能、WorkBuddy够稳、千问还得加把劲",
-      "d": "sohu.com"
+      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+      "d": "36kr.com"
     },
     {
-      "t": "AI办公，自费上班打工人的第一笔“首付”",
-      "d": "sohu.com"
+      "t": "华为昇腾跨过生态拐点，提出Agentic计算五大变化，云与鸿蒙为Agent进化",
+      "d": "zhidx.com"
     },
     {
-      "t": "工信部发布 AI + 软件行动方案，智能体时代开启，哪些赛道将率先受益？",
-      "d": "sohu.com"
+      "t": "算力奔涌，看南昌新质生产力拔节生长",
+      "d": "163.com"
+    },
+    {
+      "t": "AI专题讲座助力晋商提升AI素养",
+      "d": "stdaily.com"
+    },
+    {
+      "t": "AI进入跨境电商内容生产，深圳企业探索让“中国好货”更好“出海”",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "MiniMax出海接连迎新进展，港股通信息技术ETF易方达（159196）标的指",
+      "d": "21jingji.com"
     }
   ]
 }
