@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 73,
-    "trusted": 22,
+    "raw_dedup_junk": 54,
+    "trusted": 18,
     "non_trusted_top": {
-      "sina.cn": 19,
-      "sina.com.cn": 5,
+      "sina.cn": 11,
       "china.com": 4,
-      "360.com": 4,
-      "vietnam.vn": 2,
-      "tidenews.com.cn": 2,
-      "mk.co.kr": 1,
-      "yxrb.net": 1,
-      "sdnews.com.cn": 1,
-      "epochtimes.com": 1
+      "yzwb.net": 3,
+      "360.com": 2,
+      "shangbaoindonesia.com": 2,
+      "bjd.com.cn": 2,
+      "ajudaily.com": 1,
+      "ua.news": 1,
+      "mrjjxw.com": 1,
+      "hangzhou.com.cn": 1
     },
-    "fresh1_24h": 21,
-    "page_fresh": 20,
-    "relaxed_72h": 0,
+    "fresh1_24h": 12,
+    "page_fresh": 2,
+    "relaxed_72h": 16,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "数学老师砸300万拍电影！8天票房仅2万，掏光积蓄追梦却惨败！",
-      "d": "sohu.com"
+      "t": "许嵩冯禧结婚，背后太合音乐IPO火了，许嵩两年演唱会疑似赚6亿",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "“湾区升明月”2026大湾区电影音乐晚会在澳门唱响",
+      "d": "chinanews.com.cn"
     },
     {
       "t": "电影《大唐妖探》延长上映至10月21日",
       "d": "eastmoney.com"
     },
     {
-      "t": "LPL冒泡赛重大直播事故！记得跑错场馆缺席，瞳夕临时救场",
+      "t": "电竞选手商务版图跨越式扩容：从外设到奢侈品，品牌合作逻辑转向人格溢价",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "中国技术护航亚运电竞，一套系统筑牢赛事公平根基",
       "d": "sohu.com"
     },
     {
-      "t": "中国短剧模式火到印度：有演员8个月拍了21部",
-      "d": "10jqka.com.cn"
+      "t": "绝境突围，重返世界赛！螃蟹互娱携手iG共赴全球舞台",
+      "d": "sohu.com"
     },
     {
-      "t": "陈可辛新作《明天，会更好》在多伦多展映获好评",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "胡歌、张凌赫等七人联袂主持2026大湾区电影音乐晚会",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "电影《神探之痕迹》发布“无声较量”版角色海报 老中青三代同台续写刑侦信仰",
-      "d": "ifeng.com"
+      "t": "北京人艺《哈姆雷特》“一剧双绎” 参演中国上海国际艺术节",
+      "d": "chinanews.com.cn"
     }
   ]
 }

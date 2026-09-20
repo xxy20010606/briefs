@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 41,
-    "trusted": 14,
+    "raw_dedup_junk": 44,
+    "trusted": 23,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "sina.cn": 3,
-      "futunn.com": 1,
-      "chinaventure.com.cn": 1,
-      "techflowpost.com": 1,
-      "weeklyonstock.com": 1,
-      "guandian.cn": 1,
-      "weibo.com": 1,
-      "klsescreener.com": 1,
-      "yeeyi.com": 1
+      "sina.cn": 9,
+      "sina.com.cn": 4,
+      "hk01.com": 1,
+      "vietnam.vn": 1,
+      "autohome.com.cn": 1,
+      "blockchain.news": 1,
+      "voi.id": 1,
+      "mediaselangor.com": 1,
+      "cncaa.org": 1,
+      "ikanchai.com": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 20,
+    "page_fresh": 9,
+    "relaxed_72h": 11,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "芯德半导体完成港股上市备案，小米、OPPO、联发科布局的先进封测“独角兽”，年营",
+      "t": "华为发布全球首款“韬定律”商用芯片：算力产业进入范式重构期",
       "d": "sohu.com"
     },
     {
-      "t": "电报解读",
+      "t": "秋水半导体8寸Micro LED产线投产",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "华为发布全球首个NPO超节点！光芯片成核心环节",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "聚焦2026半导体生态发展大会：产业转向多元技术突围 天基计算、三维封装与RIS",
       "d": "cls.cn"
     },
     {
-      "t": "iPhone 18首拆，全部芯片曝光！",
-      "d": "eet-china.com"
+      "t": "半导体、芯片等ETF涨幅“夯爆了”！资金却疯狂撤退？粮食ETF惨遭“团灭” 包揽",
+      "d": "eastmoney.com"
     },
     {
-      "t": "科创综指一周大涨7%，芯片股掀起涨停潮：科技反攻回来了吗？",
+      "t": "120亿美元砸下去，印度连一颗芯片都没造出来，美日巨头或要失算了",
       "d": "sohu.com"
     },
     {
-      "t": "富乐德：半导体扩产周期拉动洗净服务需求增长- 观点网",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "CIS芯片龙头，定增来了",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "十月来深圳，一站看遍全球“芯”势力！2026湾芯展即将启幕",
-      "d": "eet-china.com"
+      "t": "欧洲晶圆厂断供后，安世中国押注国产12英寸产品，成本优势成第一张牌？",
+      "d": "time-weekly.com"
     }
   ]
 }

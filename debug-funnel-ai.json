@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 65,
-    "trusted": 23,
+    "raw_dedup_junk": 55,
+    "trusted": 22,
     "non_trusted_top": {
       "sina.com.cn": 9,
-      "sina.cn": 8,
-      "pedaily.cn": 2,
+      "sina.cn": 6,
       "techwalker.com": 2,
-      "china.com": 2,
-      "frostchina.com": 2,
-      "ac.cn": 1,
-      "icloudnews.net": 1,
-      "weibo.com": 1,
-      "jfdaily.com": 1
+      "icloudnews.net": 2,
+      "dailyqd.com": 1,
+      "youth.cn": 1,
+      "yzwb.net": 1,
+      "bjd.com.cn": 1,
+      "nankai.edu.cn": 1,
+      "53ai.com": 1
     },
-    "fresh1_24h": 23,
-    "page_fresh": 19,
-    "relaxed_72h": 0,
+    "fresh1_24h": 19,
+    "page_fresh": 2,
+    "relaxed_72h": 15,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "时评 | 青岛首发海洋Token工厂：海洋智能进入“按需取用”时代",
-      "d": "jiemian.com"
+      "t": "【科创之声】升级治理应对“AI+科教”变局",
+      "d": "ce.cn"
     },
     {
-      "t": "全国大模型具身交互大会 探讨 AI 大模型产业化路径",
+      "t": "OpenAI突然收购，500万人Codex，永不下线",
+      "d": "36kr.com"
+    },
+    {
+      "t": "从“五金小商品”到“人工智能大模型”，湖北咸安加快打造百亿级现代服务业集聚区",
       "d": "ifeng.com"
     },
     {
-      "t": "雷神首款AI移动工作站AI Master M7000明日开售：锐龙AI Max+",
-      "d": "ifeng.com"
+      "t": "如何解决人工智能时代的法治难题？天津大学举办首期“法·智高端对话”",
+      "d": "stdaily.com"
     },
     {
-      "t": "圆满落幕丨2026第四届AI定义汽车论坛_车市动态",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "共建数智生态 大华股份出席2026政企数智化创新发展交流会",
+      "t": "AI大模型现场荐岗，5万人现场寻机遇，国际（江苏）人力资源服务业发展大会在宁举行",
       "d": "sohu.com"
     },
     {
-      "t": "前OpenAI研究员推出首款“System One”模型引爆AI圈：不生成文本，",
-      "d": "thepaper.cn"
+      "t": "37个AI智能体同台比拼！这场智能体开发大赛决赛在南京举行",
+      "d": "sohu.com"
     },
     {
-      "t": "从中国磁吸效应看具身智能方案攻坚工业智能化“最后一公里”",
-      "d": "cyol.com"
+      "t": "2026年国家网络安全宣传周观察",
+      "d": "bjnews.com.cn"
     }
   ]
 }

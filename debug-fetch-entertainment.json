@@ -1,12 +1,18 @@
 {
   "type": "entertainment",
-  "total": 73,
+  "total": 54,
   "samples": [
     {
-      "title": "数学老师砸300万拍电影！8天票房仅2万，掏光积蓄追梦却惨败！",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb3dmM2xGdERTdVBQZ0k5djB3STAtOHVacWZoMHV4SFBYZjlpR1J4ck9FaW9WVVY4RDVoU214OFE4cVdxc2tlaW4",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "中秋档期韩国电影《实习生》《刺客们》《赌神4》齐发",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUSHE3dWpqelVyWXhFVXpRdmhESzZwamMyclQzNF82eEhaNGZSSnlRMWYyNG1oN1R3ajB3Z3hJd1hTVjUwOTB3Rmd",
+      "source_url": "https://www.ajudaily.com",
+      "source": "亚洲日报"
+    },
+    {
+      "title": "《生化危机》以6000万美元登顶北美票房——Asharq Al-Awsat",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWEo3Sm83QVRWTVFhbC1XY0dnWVRqbFRNVjJNbmJtWGg1TlFoa3VGWGVuTmQ1REZEWHJtQTlBZjBSVEV2N3pzSEV",
+      "source_url": "https://ua.news",
+      "source": "UA.NEWS"
     },
     {
       "title": "电影《大唐妖探》延长上映至10月21日",
@@ -15,28 +21,22 @@
       "source": "东方财富"
     },
     {
-      "title": "一部价值7000亿越南盾的越南电影，两位演员在票房上展开了激烈的角逐。",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSnFBU1hnM0huc2xoWXJXMWppb3o5S1Q4RmtQUTRval9CYkl0ZE9xTmR5WGsxdjh1bHluMWFFNjN2ZDNZYUpCaGp",
-      "source_url": "https://www.vietnam.vn",
-      "source": "Vietnam.vn"
+      "title": "河南卫视",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05UjlmSlJTNTJsallqY1JuZ1U5TDJBb0pER0JseHdUa3ZCdkMydVFvWnREZjlybE5oMnNzWHpEN3NSb19mc0J2QjF",
+      "source_url": "https://www.sina.cn",
+      "source": "2026中秋奇妙游|李一桐|刘宇|兰西雅|林依轮"
     },
     {
-      "title": "男子砸300万拍电影票房仅2万 追梦遇冷",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOUVRDTTFrU3ZBUk41WElnQV9YdUNYamQ0QjV0RGJZRktQejhkLVVmSHFJTGItWnI4cE9Kcy1LLU5tLTc4R2lsOFB",
-      "source_url": "https://ent.china.com",
-      "source": "中华网娱乐"
+      "title": "2026亚运会电竞项目《永劫无间》即将开赛；《鸣潮》推出联想拯救者联名硬件丨游戏早参",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRMVNKQ1dRRjdtYVlTVEN0YVRpcjRUR1d2V0ZsX041RlV4aFp1ZzkxR01ZTmdkUS1CNF9sZV8tVk11Qlc3aU9QSFd",
+      "source_url": "https://www.mrjjxw.com",
+      "source": "mrjjxw.com"
     },
     {
-      "title": "《实习生》连续3天夺冠......与破千万的《奥德赛》周末展开激烈较量 [MK票房]",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1Rm5PbHdRNWhhNV9wWkQwemdFMnBGUzc5U3VwWlJTelRnNVNkTjBFaHVwWnRxWS1oREZoNnBQa1U3cVhaVk5nRWV",
-      "source_url": "https://www.mk.co.kr",
-      "source": "매일경제"
-    },
-    {
-      "title": "由女演员琼·吴主演的恐怖电影首映日反响如何？",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVkydWlvazk3aWVPejVaOVRpOGZBeWFfeXZRUWhxb29iUkdZMzhQUE0wSHBLUWRYeG5sZEN0QjQ3bHF5a3RNVnB",
-      "source_url": "https://www.vietnam.vn",
-      "source": "Vietnam.vn"
+      "title": "赛场之外，中国技术助力亚运会电竞走向标准化",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WalJVeV9nZTBTck5zSHVkeWwweExfOFB3SVVoMngwbzM0Z2Uta1hva0ZwcjBMNEdpWVl5MkFXM3hXc0FvcC1KMTZ",
+      "source_url": "https://www.yzwb.net",
+      "source": "yzwb.net"
     }
   ]
 }

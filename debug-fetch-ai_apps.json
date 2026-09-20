@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 32,
+  "total": 25,
   "samples": [
     {
-      "title": "Cell | 英矽智能开源 AI 长寿研究工具包，以基准测试、专用模型和智能体加速衰老研究",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWm5SRS05TGFtcFVvV1RPMEhmOXFlVGRyNFFlbGhOYXp2MzN2X3o0T3hwQTlUVDROSng3YWVoU1hSdnk2QjVBeg?",
-      "source_url": "https://hub.baai.ac.cn",
-      "source": "智源社区"
+      "title": "AI引爆证券商吸客战",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNck4yOGZYcUJrVVVpcThtNGFDaEw0OHJndi0yZXRwSThKZThqd2lLamF0Mmw3VGtfbUdvSjIzemxLdVlhZjZYU0d",
+      "source_url": "https://www.stheadline.com",
+      "source": "星島頭條"
     },
     {
-      "title": "AI陷阱大揭秘🔎丨AI配置失当酿成后门漏洞，内网数据裸奔外泄",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCTzVDYWh2RThYd0J5VDkycHlnVTlVYmh6WlNzQVd6Umt1VHNwX25OcGd6N0U2RmxxajZkTl9qaVNTQXRwYmVYV1J",
-      "source_url": "https://wlaq.gmw.cn",
-      "source": "光明网"
+      "title": "将AI虚拟恋人异化为批量制黄工具，6人被判刑｜今晚九点半_最高检",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zWmY5ZUY4V1dfX2RHUnEySUVuN3VZU2NaZVZUM1I5cVZ6M0hIbGpHS2psRzhRWktYMTdWSFV6T2pIYXVZa193YUl",
+      "source_url": "https://www.peopleapp.com",
+      "source": "peopleapp.com"
     },
     {
-      "title": "FAA部署8.75亿美元AI系统缓解空中交通拥堵-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tS2FjOHZ6UEY1SmRUZDh1R1F3ZnctbVN0b1l5UHN4Q1A4azJ1X0JDSUlWRkxfbkljRlB5NjNJTWQ2ODFORUJMRlF",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "重庆“AI+OPC”产业生态论坛举行 业界共探AI落地产业新路径",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ0tucGp6STRzbW50LTNWdWFMVGpFUHVMRTNFUFgwOENqdXpSNkFKYUNZTEd2STFmSEgtSjE5ZTBQc3NyMXFqcGR",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "九方智投产品矩阵与收费体系全解析：APP体验、量化工具、调研服务一次理清_产业资讯",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OR1pCSUtpY3ZRc1FDWldxTEh2N2tQRmdKbWg3blFwbjl0YjBNVnNyRWVMRngzYlhvUEZ5SnBYSkJ0clNrb3pPVFZ",
-      "source_url": "http://hy.stock.cnfol.com",
-      "source": "中金在线"
+      "title": "AI来袭，餐饮人如何破局？ 2026美团到店餐饮产业大会温州论剑-温州都市报",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBha05BM3ZqeThOUzU0ZkpmTEJ1Q3FpeHlfMklqT0tFTDIwbkhvaDVwUEx2WENFWGxlR0Vja0dlUGx3YkRQUjduMkQ",
+      "source_url": "https://www.66wz.com",
+      "source": "温州网"
     },
     {
-      "title": "AI从“工具”走向“生产力单元” 企业竞逐价值重构新赛点",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xa0h4aVB0VUhBXzI4R0JZVVJXU1JsaDhXb0NzWkowT1o1d1hZYk9neDVUVkRMZFhMNzlxbmlkb0hlZ2w4Z09fYk1",
-      "source_url": "https://t.cj.sina.cn",
-      "source": "t.cj.sina.cn"
+      "title": "一张路线图，一套工具箱，一套组织体系，华为给产业数智化上引擎了",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYTlaZllpTnpVdDdoU09YbWxVY0dmVWRqTVAyRi00T0hvS1JCUnZud1FlYzZYaUFFdzhmckFiWUVHT19kRFlFNTl",
+      "source_url": "https://www.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "聚焦农销会丨APSC技术专家程宏亮：AI赋能跨境电商，可替代80%以上人工运营工作",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yUmlGMlRyay1sWEtJVHBqNkFqckRtWnE4eENYbkpZeEROMTdMVWdia09mNjV0dFNiWWFwcjM5bW5pa2k5MklfdXV",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "重庆“AI＋OPC”产业生态论坛在两江新区举行",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEenkxaXVnNlZhOUZZX2xYbDBqZ0VSMWc3d0JJbG10N18xaDd2WnktT3Zfem1abWhJb0JUSHlBR0xkWGNNcGpPQUF",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     }
   ]
 }

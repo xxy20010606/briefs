@@ -1,51 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 19,
+    "raw_dedup_junk": 50,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.com.cn": 12,
-      "sina.cn": 5,
-      "moomoo.com": 2,
-      "litefinance.org": 2,
-      "fx168news.com": 1,
-      "co.nz": 1,
-      "on.cc": 1
+      "sina.cn": 12,
+      "sina.com.cn": 6,
+      "tom.com": 2,
+      "oeeee.com": 1,
+      "litefinance.org": 1,
+      "kuai.media": 1,
+      "atvnewsonline.com": 1,
+      "investing.com": 1,
+      "or100.cc": 1,
+      "china.com": 1
     },
-    "fresh1_24h": 19,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 9,
+    "page_fresh": 0,
+    "relaxed_72h": 8,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "研报掘金丨华鑫证券：维持乖宝宠物“买入”评级，盈利能力有望逐步修复_股市直播_市",
+      "t": "贪玩(09890)9月18日斥资94.14万港元回购10万股_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "下周，A股重点关注三个方向",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "大行评级丨大摩：创新实业管理层指去杠杆仍是优先事项，维持“与大市同步”评级_股市",
+      "t": "同源康医药-B(02410)根据一般授权发行H股的认购协议失效_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "黄仁勋，减持英伟达股票？",
-      "d": "eastmoney.com"
+      "t": "贵州银行(06199)：温志朝担任独立非执行董事的任职资格获核准_股市直播_市场",
+      "d": "cnfol.com"
     },
     {
-      "t": "为什么散户投资者愿意加杠杆？",
+      "t": "海螺材料科技(02560.HK)：主要股东临沂海宏所持3900万股公司遭司法冻结",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "天聚地合(02479.HK)2024年度营收增35.7%至5.99亿元_股市直播",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "天山生物(300313.SZ)股东畜牧业集团拟减持不超3%股份_股市直播_市场",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "美联储加息并非“利空所有风险资产”——盘点历史上的加息冲击波",
       "d": "21jingji.com"
-    },
-    {
-      "t": "格科微：拟定增募资不超42亿元扩产CIS 2026中报资产负债率升至69.16%",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "美联储重启加息：一个低利率时代的终结",
-      "d": "caixin.com"
     }
   ]
 }

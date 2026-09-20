@@ -1,54 +1,46 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 32,
-    "trusted": 11,
+    "raw_dedup_junk": 25,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 6,
-      "sina.cn": 2,
-      "csdn.net": 2,
-      "ac.cn": 1,
-      "zhiding.cn": 1,
-      "asiae.co.kr": 1,
-      "ebrun.com": 1,
-      "oeeee.com": 1,
-      "vietnam.vn": 1,
-      "mydrivers.com": 1
+      "sina.com.cn": 4,
+      "zhiding.cn": 2,
+      "stheadline.com": 1,
+      "peopleapp.com": 1,
+      "66wz.com": 1,
+      "csdn.net": 1,
+      "53ai.com": 1,
+      "yeeyi.com": 1,
+      "xiaguangshe.com": 1,
+      "tom.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 9,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 7,
+    "page_fresh": 1,
+    "relaxed_72h": 4,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "AI陷阱大揭秘🔎丨AI配置失当酿成后门漏洞，内网数据裸奔外泄",
-      "d": "gmw.cn"
+      "t": "千问、智谱开始做地推抢用户了",
+      "d": "36kr.com"
     },
     {
-      "t": "九方智投产品矩阵与收费体系全解析：APP体验、量化工具、调研服务一次理清_产业资",
-      "d": "cnfol.com"
+      "t": "一张路线图，一套工具箱，一套组织体系，华为给产业数智化上引擎了",
+      "d": "sohu.com"
     },
     {
-      "t": "Agentic时代，鸿蒙以系统级底座与AI开发平台，激活开发者创新盛放",
+      "t": "AI从工具变成生产力本身 王冬谈WPS Comate赋能国企改革与新质生产力",
+      "d": "163.com"
+    },
+    {
+      "t": "2026年学英语APP实测推荐:5款主流工具对比，首推「可栗口语」",
       "d": "ifeng.com"
     },
     {
-      "t": "人工智能产业日报(09.19) : AI技术突破",
+      "t": "让智能世界触手可及，华为坤灵给出了一条怎样的路径？",
       "d": "sohu.com"
-    },
-    {
-      "t": "AI聊天、生成图片的背后，藏着一条产业链？",
-      "d": "news.cn"
-    },
-    {
-      "t": "华为发布AI行业落地新路径：“七步法”、“垂直作战组织”、“DIMAK”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "d": "36kr.com"
     }
   ]
 }
