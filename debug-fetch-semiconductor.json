@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 36,
+  "total": 41,
   "samples": [
     {
-      "title": "粤芯半导体明日上会 近3年累亏超65亿",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYZWtvZktpeEF3azlNYnY2SE9LWFJmU0ExVEo5SGhheGZYSnlDZi1XY0xGT2hoWnpzU1BDRURfNTl1YWFFdWZFLQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "聚焦2026半导体生态发展大会：产业转向多元技术突围 天基计算、三维封装与RISC-V多点开花",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXM4eVVtcjlUbUYtdktLQVUyQ3BTS2Y3Wlk0ajV4bGItekJCWmZMT1U0OXN6S1FwM3psRTJPSmllT3hzOTNfc05",
+      "source_url": "https://news.futunn.com",
+      "source": "富途牛牛"
     },
     {
-      "title": "从可插拔到CPO：光互连奔向芯片“身旁”，制造成为新战场",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVRHZRWGRpTW1RaWFqTXRMbjhVUFM2LXNBNmY4ZG5ERVVBWjBucTJoenA5RUQ5VThBSTlVSkozeGR4UzZRSU1sWGp",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "中微半导在湖南成立科技公司 含AI及集成电路芯片等业务",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XV2F4aE9MOUtmekI4R3Z0RC1Id0dWSlZINnhYbmpvd1Nicm1RWjhpdUZGbk9IYW1HaUd6OFpjNGRPdmdJa1lYYXI",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "安世“分家”近一年内情：5.9万片/月海外晶圆断供，国内12英寸晶圆产能接棒",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOEJ1M0lwOGd4cnBNTng3MTRHRXlTeW5xcVg0ZmQ0c1dTOXg0bUdPSURPcXZpY1A2QXI4eDdjbnpSSmZCU0lBdUQ",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "芯德半导体完成港股上市备案，小米、OPPO、联发科布局的先进封测“独角兽”，年营收超10亿",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZHY4Q0RrMWpRNEZGcnBXRUtVTXVVWkhyRnNQZ1NzYW14QWZqMHBOMHVJYkJXWTNKakFRRlplekFSZVBVMTNIMUp",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "04:00:32【美股收盘：纳指、标普500指数涨超1% AI硬件股、芯片半导体股大涨】",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PRUdneS0wNlBTcjhCdzJsbVVUZEtCemhNbzVvcVhJc2ktdnhOZU5UbjhCbDdVT2ROeEl4aVBNS1ZVVTVkRElpYg?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "AI风口下，上海芯片龙头要IPO了",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yUnBoZ0JXc2dNVTJ6RE05MzRaZ1pURmNtLTBKcG5jdDB1cE9wU3RqeEdob0RZVTVtZmRaOVg3WnptTkdGcFIzZ0g",
+      "source_url": "https://www.chinaventure.com.cn",
+      "source": "投中"
     },
     {
-      "title": "马斯克芯片厂摊上事了！一颗芯片未产先惹上官司：被指商标侵权",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Sd3VwV2JTdXFPeDd3OFVYVVFGcHplbGduTUhPaG1GQmVRblh6TlJWU1NreWZqT3AxZFgzV1lqb2pfdm9LWFNTX1N",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "小摩研报解读：云资本支出看 9540 亿，半导体回调是买点",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmM1NncXBBUkhfWXhRT01mdllSX2dBMTR5ckxQYUhpYXBXUFJFUHpQYXZmb3ZmQm1QdDc4MG50OWtJQkRaSUROdDJ",
+      "source_url": "https://www.techflowpost.com",
+      "source": "深潮TechFlow"
     },
     {
-      "title": "2026 光电融合大会· 行业优秀企业奖，网络投票中！【涉及磷化铟，TGV，CPO，光芯片，光器件，",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5ZDFwUGdjZEs3SE1GQkdhTmxUN1Z5VjRLSExwU0dxUHlvZDFtSWxjenRTLUFFVE9qelpTN2N4by1kWGlJdTZWZGk",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "A股，下周还有大行情？这种形态一旦出现很容易走主升！",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpLTFHaFN0TE5RdFhmZHRrbzgzSVNuUDRpclVCcXZ3MktXZDNOc1k2dWdKNW1IR1dtZUVhY3huSG8wVGpacGV5bkd",
+      "source_url": "https://static.weeklyonstock.com",
+      "source": "证券市场周刊"
     }
   ]
 }

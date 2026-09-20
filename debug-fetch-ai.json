@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 42,
+  "total": 65,
   "samples": [
     {
-      "title": "探需东博会 这些领域缘何成为东盟客商关注点",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iYTRDUjNHMXZiZUJjXzBjc1RTZG5NRnlndHRWVGlHUldQWVJ5TEVNMURfSEpTRGhYdWI5N0pRSmdhNlRZaTk0d2E",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "Cell | 英矽智能开源 AI 长寿研究工具包，以基准测试、专用模型和智能体加速衰老研究",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWm5SRS05TGFtcFVvV1RPMEhmOXFlVGRyNFFlbGhOYXp2MzN2X3o0T3hwQTlUVDROSng3YWVoU1hSdnk2QjVBeg?",
+      "source_url": "https://hub.baai.ac.cn",
+      "source": "智源社区"
     },
     {
-      "title": "华为高层内部万字长文曝光",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBSUE1oc3gzckRaZmwxcW42SFl5czd1d1VGZWxaNWw2V3Y0azdRSVFlclNJNkJOVlpGUUhZbHJmLUUtR2RFNUhuSQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "Parasoft 荣膺“AutoSec安全之星”2026年度汽车安全测试领航奖-AI云资讯",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RXzZqNzRRQ2JockNJXzFQMGhwRDNZdWdqN2hRYmk0NEg3VGRzQXZGVEJ2N0Nfc0x4TTFSOEJ2RjU0MGM5VWV6Q1J",
+      "source_url": "https://www.icloudnews.net",
+      "source": "icloudnews.net"
     },
     {
-      "title": "算力奔涌，看南昌新质生产力拔节生长",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ISzQ2NWxVcTZDUHlOS21UYmNIOW1XQTRXQ3h0UjM5NlVNdDFsWjhSMDZGY2R2bGVjSFRnM1NYcFJoeGk3Q1hFZFJ",
-      "source_url": "https://www.163.com",
-      "source": "手机网易网"
+      "title": "时评 | 青岛首发海洋Token工厂：海洋智能进入“按需取用”时代",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xYTEzcDVaLWJwa0RBdGFYMVpRQzN6ekRQZndSVnpncmNSZHd2Qk03MTRodEpMZ0JNUFdybnNTQ3VObmVrQjFLeFZ",
+      "source_url": "https://www.jiemian.com",
+      "source": "Jiemian.com"
     },
     {
-      "title": "拥抱智能变革 守护身边的网络安全",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdTU5WFlIQ2tXdXJLbmVQeGhIeUt6Q0ZLc2txSGc2UWVlM21qMWFoXy1pQzVDbUN0d0ZDdmdOUTNiaWtHMzJOVk9",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "全国大模型具身交互大会 探讨 AI 大模型产业化路径",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyNko0NUFTUUgwbmhZVDduMUVSZVRvUFpiNk5ISkYweF94M2d0OGZFd1lDeVEtNE9HZWVfNzdmYzlMbDYxakRyUS1",
+      "source_url": "https://hainan.ifeng.com",
+      "source": "凤凰网"
     },
     {
-      "title": "从头理解AI时代的教育：AI能秒出所有答案，教育还能教什么？",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsWlRkbldLZWljQzdyLUhMZ1ZELWlreTBoRUhXTjZuanpuWWdCRkxya29RTDQ5Z0IwaTdYekd6Sk9IMTZBNFQ4cEd",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "雷神首款AI移动工作站AI Master M7000明日开售：锐龙AI Max+ 395，19999",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1tMmVtYVEzejBTcHhNa1pZdjZZSVF4Vk95bklvN0NrUHc0ak5lZTNxLWlLOTNwRXZZcm5MRUFsRVNodlNnVVNYRkt",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
     },
     {
-      "title": "“还值不值得学英语”，《纽约时报》这样报道",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pcTlUY2tVaFRqN2h2cGZWR3phLTBxYnFYUVI3N2x6ajR4VWtjWlk4dUROZGtUeWNKV3JZSERDSkxwZkFPUkNvbFF",
-      "source_url": "https://user.guancha.cn",
-      "source": "风闻"
+      "title": "人工智能与天文观测迈向深度融合",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83ekJkNnhiWmxwUWpaOUMxMEZ0bi0yeEl2TFlLekxpc0dkZ0N4SWJFZk44UC1jMlVHeXBLWmRVVVRVazViVTdQY0p",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     }
   ]
 }

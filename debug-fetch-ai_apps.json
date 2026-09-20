@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 22,
+  "total": 32,
   "samples": [
     {
-      "title": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04WmRlVFlSbEVEOTZTd3hQUjNBR0VkRTNheUtpUkNUNVlGOE00MkdzazJycTg0aGVVeTdUWDYwZkdBdXh6eFdWM0R",
-      "source_url": "https://m.36kr.com",
-      "source": "36Kr"
+      "title": "Cell | 英矽智能开源 AI 长寿研究工具包，以基准测试、专用模型和智能体加速衰老研究",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pWm5SRS05TGFtcFVvV1RPMEhmOXFlVGRyNFFlbGhOYXp2MzN2X3o0T3hwQTlUVDROSng3YWVoU1hSdnk2QjVBeg?",
+      "source_url": "https://hub.baai.ac.cn",
+      "source": "智源社区"
     },
     {
-      "title": "人工智能在普通教育中的应用：从工具的使用到能力的培养。",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTnBldG1EZDRpbThFZmhpemY5SGtwaW8tYk5ZQUdhR1h2ek52N3VKU2xyT291LW5VNTZrTXhrbTVKdE52d1NpVEt",
-      "source_url": "https://www.vietnam.vn",
-      "source": "Vietnam.vn"
+      "title": "AI陷阱大揭秘🔎丨AI配置失当酿成后门漏洞，内网数据裸奔外泄",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCTzVDYWh2RThYd0J5VDkycHlnVTlVYmh6WlNzQVd6Umt1VHNwX25OcGd6N0U2RmxxajZkTl9qaVNTQXRwYmVYV1J",
+      "source_url": "https://wlaq.gmw.cn",
+      "source": "光明网"
     },
     {
-      "title": "Pebblely – 将产品抠图转化为电商、社交及广告大片的 AI 产品摄影工具",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yejA3YmlsckNFM0REdkJFcGotMGhmd3R2d1FNVlVyZVViQmRtVkVjSFlESmtMV2R3ODljQmk5NDhEdWpTeE9Edkl",
-      "source_url": "https://quasa.io",
-      "source": "quasa.io"
+      "title": "FAA部署8.75亿美元AI系统缓解空中交通拥堵-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tS2FjOHZ6UEY1SmRUZDh1R1F3ZnctbVN0b1l5UHN4Q1A4azJ1X0JDSUlWRkxfbkljRlB5NjNJTWQ2ODFORUJMRlF",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
     },
     {
-      "title": "算力奔涌，看南昌新质生产力拔节生长",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ISzQ2NWxVcTZDUHlOS21UYmNIOW1XQTRXQ3h0UjM5NlVNdDFsWjhSMDZGY2R2bGVjSFRnM1NYcFJoeGk3Q1hFZFJ",
-      "source_url": "https://www.163.com",
-      "source": "手机网易网"
+      "title": "九方智投产品矩阵与收费体系全解析：APP体验、量化工具、调研服务一次理清_产业资讯",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OR1pCSUtpY3ZRc1FDWldxTEh2N2tQRmdKbWg3blFwbjl0YjBNVnNyRWVMRngzYlhvUEZ5SnBYSkJ0clNrb3pPVFZ",
+      "source_url": "http://hy.stock.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "从提效工具到经营核心：AI 如何改写消费品生意的底层逻辑？",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ha1IwSVZHck1rZTktNFkyclNqV1lET29HYlJyTXdyX1Z5YnZNbk8yVm9VUDhhT3dkRnA0RGhOc0VaV2NleFgwZ0h",
+      "title": "AI从“工具”走向“生产力单元” 企业竞逐价值重构新赛点",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xa0h4aVB0VUhBXzI4R0JZVVJXU1JsaDhXb0NzWkowT1o1d1hZYk9neDVUVkRMZFhMNzlxbmlkb0hlZ2w4Z09fYk1",
+      "source_url": "https://t.cj.sina.cn",
+      "source": "t.cj.sina.cn"
+    },
+    {
+      "title": "聚焦农销会丨APSC技术专家程宏亮：AI赋能跨境电商，可替代80%以上人工运营工作",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yUmlGMlRyay1sWEtJVHBqNkFqckRtWnE4eENYbkpZeEROMTdMVWdia09mNjV0dFNiWWFwcjM5bW5pa2k5MklfdXV",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
-    },
-    {
-      "title": "AI专题讲座助力晋商提升AI素养",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBab1NRS3hxa2E3bk56eEktMDFqOXcxelFPSFJhMHNlWHBGdGxJVFg0X202ekRORWlMb3JjOXN0aUNSazJGRkxtMk8",
-      "source_url": "https://www.stdaily.com",
-      "source": "中国科技网"
     }
   ]
 }

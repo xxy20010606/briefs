@@ -1,50 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 9,
+    "raw_dedup_junk": 41,
+    "trusted": 14,
     "non_trusted_top": {
-      "indexbox.io": 8,
-      "sina.cn": 6,
-      "sina.com.cn": 5,
-      "news18a.com": 1,
-      "idnfinancials.com": 1,
-      "eeworld.com.cn": 1,
-      "china.com": 1,
-      "aboluowang.com": 1,
-      "chosun.com": 1,
-      "enanyang.my": 1
+      "sina.com.cn": 3,
+      "sina.cn": 3,
+      "futunn.com": 1,
+      "chinaventure.com.cn": 1,
+      "techflowpost.com": 1,
+      "weeklyonstock.com": 1,
+      "guandian.cn": 1,
+      "weibo.com": 1,
+      "klsescreener.com": 1,
+      "yeeyi.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 2,
-    "relaxed_72h": 4,
-    "final": 6,
-    "cap": "不限同域"
+    "fresh1_24h": 14,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "趋势丨ASML High-NA EUV加速落地，先进芯片制造进入新周期",
-      "d": "eet-china.com"
+      "t": "芯德半导体完成港股上市备案，小米、OPPO、联发科布局的先进封测“独角兽”，年营",
+      "d": "sohu.com"
     },
     {
-      "t": "国产芯片验证BSPD背部供电设计：无需EUV也能用上18A同款技术",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "从可插拔到CPO：光互连奔向芯片“身旁”，制造成为新战场",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "04:00:32【美股收盘：纳指、标普500指数涨超1% AI硬件股、芯片半导体",
+      "t": "电报解读",
       "d": "cls.cn"
     },
     {
-      "t": "印度吸引120亿美元半导体投资，打造全球新芯片中心",
+      "t": "iPhone 18首拆，全部芯片曝光！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "科创综指一周大涨7%，芯片股掀起涨停潮：科技反攻回来了吗？",
       "d": "sohu.com"
     },
     {
-      "t": "原创 安世铁了心，官宣把芯片产能转移到印度，再也不回中国",
-      "d": "sohu.com"
+      "t": "富乐德：半导体扩产周期拉动洗净服务需求增长- 观点网",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "CIS芯片龙头，定增来了",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "十月来深圳，一站看遍全球“芯”势力！2026湾芯展即将启幕",
+      "d": "eet-china.com"
     }
   ]
 }

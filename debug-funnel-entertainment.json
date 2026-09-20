@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 51,
-    "trusted": 16,
+    "raw_dedup_junk": 73,
+    "trusted": 22,
     "non_trusted_top": {
-      "sina.cn": 17,
+      "sina.cn": 19,
+      "sina.com.cn": 5,
+      "china.com": 4,
       "360.com": 4,
-      "yzwb.net": 3,
-      "china.com": 3,
-      "sina.com.cn": 1,
-      "hsw.cn": 1,
-      "dailyqd.com": 1,
-      "zsnews.cn": 1,
-      "bjd.com.cn": 1,
-      "cnjiwang.com": 1
+      "vietnam.vn": 2,
+      "tidenews.com.cn": 2,
+      "mk.co.kr": 1,
+      "yxrb.net": 1,
+      "sdnews.com.cn": 1,
+      "epochtimes.com": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 3,
-    "relaxed_72h": 12,
+    "fresh1_24h": 21,
+    "page_fresh": 20,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "“手搓电影”《目不转睛》票房遇冷",
-      "d": "163.com"
+      "t": "数学老师砸300万拍电影！8天票房仅2万，掏光积蓄追梦却惨败！",
+      "d": "sohu.com"
     },
     {
-      "t": "“拮据”的名古屋亚运会，我们到底看什么？",
-      "d": "guancha.cn"
-    },
-    {
-      "t": "从漫改武侠到三星堆动画 AI影视集中上线 AI“勇闯”长剧 口碑“冰火两重天”",
+      "t": "电影《大唐妖探》延长上映至10月21日",
       "d": "eastmoney.com"
     },
     {
-      "t": "上映3天票房仅5.5万，“手搓电影”《目不转睛》票房遇冷，导演一人包揽编剧、出品",
+      "t": "LPL冒泡赛重大直播事故！记得跑错场馆缺席，瞳夕临时救场",
       "d": "sohu.com"
     },
     {
-      "t": "耗资1亿上映1天就被判死刑，票房仅106万，常远这新片就是个笑话",
-      "d": "sohu.com"
+      "t": "中国短剧模式火到印度：有演员8个月拍了21部",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "“巴蜀鬼才”魏明伦遗作《铁木高娃》在成都首演",
-      "d": "chinanews.com.cn"
+      "t": "陈可辛新作《明天，会更好》在多伦多展映获好评",
+      "d": "xinhuanet.com"
     },
     {
-      "t": "中芭主题晚会《星火·永恒的交响》首演",
-      "d": "chinanews.com.cn"
+      "t": "胡歌、张凌赫等七人联袂主持2026大湾区电影音乐晚会",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "电影《神探之痕迹》发布“无声较量”版角色海报 老中青三代同台续写刑侦信仰",
+      "d": "ifeng.com"
     }
   ]
 }

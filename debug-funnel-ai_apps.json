@@ -1,50 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 22,
-    "trusted": 6,
+    "raw_dedup_junk": 32,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.com.cn": 5,
-      "sina.cn": 3,
+      "sina.com.cn": 6,
+      "sina.cn": 2,
+      "csdn.net": 2,
+      "ac.cn": 1,
+      "zhiding.cn": 1,
+      "asiae.co.kr": 1,
+      "ebrun.com": 1,
+      "oeeee.com": 1,
       "vietnam.vn": 1,
-      "quasa.io": 1,
-      "ctdsb.net": 1,
-      "on.cc": 1,
-      "ichaoqi.com": 1,
-      "duozhi.com": 1,
-      "gz-cmc.com": 1,
-      "ac.cn": 1
+      "mydrivers.com": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 2,
-    "relaxed_72h": 4,
-    "final": 6,
-    "cap": "不限同域"
+    "fresh1_24h": 11,
+    "page_fresh": 9,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
+      "t": "AI陷阱大揭秘🔎丨AI配置失当酿成后门漏洞，内网数据裸奔外泄",
+      "d": "gmw.cn"
+    },
+    {
+      "t": "九方智投产品矩阵与收费体系全解析：APP体验、量化工具、调研服务一次理清_产业资",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "Agentic时代，鸿蒙以系统级底座与AI开发平台，激活开发者创新盛放",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "人工智能产业日报(09.19) : AI技术突破",
+      "d": "sohu.com"
+    },
+    {
+      "t": "AI聊天、生成图片的背后，藏着一条产业链？",
+      "d": "news.cn"
+    },
+    {
+      "t": "华为发布AI行业落地新路径：“七步法”、“垂直作战组织”、“DIMAK”",
+      "d": "sohu.com"
+    },
+    {
       "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
       "d": "36kr.com"
-    },
-    {
-      "t": "华为昇腾跨过生态拐点，提出Agentic计算五大变化，云与鸿蒙为Agent进化",
-      "d": "zhidx.com"
-    },
-    {
-      "t": "算力奔涌，看南昌新质生产力拔节生长",
-      "d": "163.com"
-    },
-    {
-      "t": "AI专题讲座助力晋商提升AI素养",
-      "d": "stdaily.com"
-    },
-    {
-      "t": "AI进入跨境电商内容生产，深圳企业探索让“中国好货”更好“出海”",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "MiniMax出海接连迎新进展，港股通信息技术ETF易方达（159196）标的指",
-      "d": "21jingji.com"
     }
   ]
 }

@@ -1,54 +1,51 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 27,
-    "trusted": 12,
+    "raw_dedup_junk": 43,
+    "trusted": 19,
     "non_trusted_top": {
-      "sina.cn": 3,
-      "sina.com.cn": 3,
-      "sinchew.com.my": 2,
-      "litefinance.org": 1,
-      "eastmoney.com": 1,
-      "oeeee.com": 1,
-      "creaders.net": 1,
-      "bitcoin.com": 1,
-      "futunn.com": 1,
-      "china.com": 1
+      "sina.com.cn": 12,
+      "sina.cn": 5,
+      "moomoo.com": 2,
+      "litefinance.org": 2,
+      "fx168news.com": 1,
+      "co.nz": 1,
+      "on.cc": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 2,
-    "relaxed_72h": 5,
+    "fresh1_24h": 19,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "信达生物(01801.HK)：肿瘤与综合产品线双轮驱动业绩保持强劲增长_股市直播",
+      "t": "研报掘金丨华鑫证券：维持乖宝宠物“买入”评级，盈利能力有望逐步修复_股市直播_市",
       "d": "cnfol.com"
     },
     {
-      "t": "深度解析黄金和美联储关系！黄金，降息一定涨吗？加息一定跌吗？",
+      "t": "下周，A股重点关注三个方向",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "大行评级丨大摩：创新实业管理层指去杠杆仍是优先事项，维持“与大市同步”评级_股市",
       "d": "cnfol.com"
     },
     {
-      "t": "2亿绑定华为云抢滩无人环卫，2.57 亿并购补供应链！福龙马股价涨停背后",
-      "d": "cnfol.com"
+      "t": "黄仁勋，减持英伟达股票？",
+      "d": "eastmoney.com"
     },
     {
-      "t": "上海金融女博士罕见发声：目前A股想要逢低建仓，建议死磕65原则",
-      "d": "sohu.com"
+      "t": "为什么散户投资者愿意加杠杆？",
+      "d": "21jingji.com"
     },
     {
-      "t": "真爱美家上半年净利降9成 2021上市募4.5亿国投证券保荐_股市聚焦_市场",
-      "d": "cnfol.com"
+      "t": "格科微：拟定增募资不超42亿元扩产CIS 2026中报资产负债率升至69.16%",
+      "d": "eastmoney.com"
     },
     {
-      "t": "致尚科技上半年净利降9成上市超募3.9亿五矿证券保荐_股市聚焦_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "华夏银行舟山分行违规被罚115万项目贷款管理不审慎等_股市聚焦_市场",
-      "d": "cnfol.com"
+      "t": "美联储重启加息：一个低利率时代的终结",
+      "d": "caixin.com"
     }
   ]
 }

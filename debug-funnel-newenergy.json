@@ -1,46 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 31,
-    "trusted": 6,
+    "raw_dedup_junk": 49,
+    "trusted": 8,
     "non_trusted_top": {
-      "autohome.com.cn": 11,
-      "sina.com.cn": 9,
-      "sina.cn": 2,
-      "wenxuan.news": 1,
-      "hk01.com": 1,
-      "sfccn.com": 1
+      "autohome.com.cn": 14,
+      "in-en.com": 6,
+      "sina.com.cn": 6,
+      "sina.cn": 5,
+      "ne21.com": 3,
+      "chinapower.org.cn": 1,
+      "china.com": 1,
+      "yueyang.gov.cn": 1,
+      "hangzhou.com.cn": 1,
+      "hebccw.cn": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 1,
-    "relaxed_72h": 5,
-    "final": 6,
-    "cap": "不限同域"
+    "fresh1_24h": 7,
+    "page_fresh": 7,
+    "relaxed_72h": 1,
+    "final": 7,
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "新知|超牛！千米地下造出氢能“充电宝”",
+      "t": "迭代加速，规模化、低成本丨工博会新能源材料岛重点梳理",
       "d": "sohu.com"
     },
     {
-      "t": "三年半失血超87亿元！光伏边框巨头永臻股份仍砸5.97亿元杀入电池铝箔赛道",
-      "d": "sohu.com"
-    },
-    {
-      "t": "当光储协同遇上AI算力：构网型储能如何稳住AIDC？｜2026光储协调应用创新发",
+      "t": "聊城时风集团分布式储能项目中标结果公示",
       "d": "solarbe.com"
     },
     {
-      "t": "德行天下机器人亮相第十八届广州国际太阳能光伏暨储能产业博览会，荣获优质服务商荣誉",
+      "t": "深耕清洁能源 业界加码算电协同布局",
       "d": "sohu.com"
     },
     {
-      "t": "光伏、储能，面临大转型",
-      "d": "21jingji.com"
+      "t": "【卫蓝｜签约】卫蓝新能源与匈牙利Szermann Kft签署150MWh储能项目",
+      "d": "solarbe.com"
     },
     {
-      "t": "“沙戈荒”能源基地用上智慧储能新技术",
-      "d": "stdaily.com"
+      "t": "压缩空气储能迎规模化前夜 陕鼓核心装备获年度技术创新奖",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "逐鹿中原！新型储能争夺战，郑州凭什么入局？",
+      "d": "sohu.com"
+    },
+    {
+      "t": "广东县域经济“裂变”方法论：大趋势找小切口，链式集群百亿跃升",
+      "d": "21jingji.com"
     }
   ]
 }
