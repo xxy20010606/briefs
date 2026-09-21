@@ -1,45 +1,53 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 25,
-    "trusted": 7,
+    "raw_dedup_junk": 31,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "zhiding.cn": 2,
+      "sina.com.cn": 3,
+      "caiwennews.com": 2,
+      "sina.cn": 2,
+      "digitaltoday.co.kr": 2,
+      "moomoo.com": 1,
+      "sanqin.com": 1,
       "stheadline.com": 1,
-      "peopleapp.com": 1,
-      "66wz.com": 1,
-      "csdn.net": 1,
-      "53ai.com": 1,
-      "yeeyi.com": 1,
-      "xiaguangshe.com": 1,
-      "tom.com": 1
+      "sinchew.com.my": 1,
+      "mydrivers.com": 1,
+      "cjn.cn": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 1,
-    "relaxed_72h": 4,
-    "final": 5,
+    "fresh1_24h": 10,
+    "page_fresh": 9,
+    "relaxed_72h": 0,
+    "final": 7,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "千问、智谱开始做地推抢用户了",
-      "d": "36kr.com"
-    },
-    {
-      "t": "一张路线图，一套工具箱，一套组织体系，华为给产业数智化上引擎了",
-      "d": "sohu.com"
-    },
-    {
-      "t": "AI从工具变成生产力本身 王冬谈WPS Comate赋能国企改革与新质生产力",
-      "d": "163.com"
-    },
-    {
-      "t": "2026年学英语APP实测推荐:5款主流工具对比，首推「可栗口语」",
+      "t": "2026年学英语APP实测推荐:5款主流工具对比，首推「咕噜口语」",
       "d": "ifeng.com"
     },
     {
-      "t": "让智能世界触手可及，华为坤灵给出了一条怎样的路径？",
+      "t": "有图有真相？AI时代，眼见未必为实",
+      "d": "cyol.com"
+    },
+    {
+      "t": "人工智能产业日报(09.20) : AI侵权规制",
+      "d": "sohu.com"
+    },
+    {
+      "t": "从AI工具到城市生活入口：讯飞AI眼镜接入蚂蚁灵影AOS背后的行业跃迁",
+      "d": "sohu.com"
+    },
+    {
+      "t": "赛迪顾问编制《2026H1中国全栈AI云服务市场研究报告》",
+      "d": "sohu.com"
+    },
+    {
+      "t": "一张路线图，一套工具箱，一套组织体系，华为给产业数智化上引擎",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "当AI不再聊天：Jev如何让“决策”成为模型分工的新物种",
       "d": "sohu.com"
     }
   ]

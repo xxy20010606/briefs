@@ -1,53 +1,52 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 17,
+    "raw_dedup_junk": 52,
+    "trusted": 11,
     "non_trusted_top": {
       "sina.cn": 12,
-      "sina.com.cn": 6,
-      "tom.com": 2,
-      "oeeee.com": 1,
-      "litefinance.org": 1,
-      "kuai.media": 1,
-      "atvnewsonline.com": 1,
-      "investing.com": 1,
-      "or100.cc": 1,
-      "china.com": 1
+      "sina.com.cn": 11,
+      "moomoo.com": 10,
+      "futunn.com": 3,
+      "enanyang.my": 1,
+      "fxbaogao.com": 1,
+      "nikkei.com": 1,
+      "aboluowang.com": 1,
+      "hstong.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 0,
-    "relaxed_72h": 8,
+    "fresh1_24h": 11,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "贪玩(09890)9月18日斥资94.14万港元回购10万股_股市直播_市场",
+      "t": "港股异动| 航运股集体上扬马士基26艘大造船订单落地机构指未来数年船台紧张提供供",
       "d": "cnfol.com"
     },
     {
-      "t": "同源康医药-B(02410)根据一般授权发行H股的认购协议失效_股市直播_市场",
+      "t": "破发股宏源药业1.8亿股解禁上市即巅峰国联民生保荐_股市聚焦_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "贵州银行(06199)：温志朝担任独立非执行董事的任职资格获核准_股市直播_市场",
+      "t": "破发股豪森智能股东拟减持国泰海通保荐上市2募资共15亿_股市聚焦_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "海螺材料科技(02560.HK)：主要股东临沂海宏所持3900万股公司遭司法冻结",
-      "d": "cnfol.com"
+      "t": "美联储 12:0 全票同意加息！打的是特朗普的脸？不，打的是 AI 的脸",
+      "d": "sohu.com"
     },
     {
-      "t": "天聚地合(02479.HK)2024年度营收增35.7%至5.99亿元_股市直播",
-      "d": "cnfol.com"
+      "t": "3年多了，美联储咋就又开始加息？",
+      "d": "thepaper.cn"
     },
     {
-      "t": "天山生物(300313.SZ)股东畜牧业集团拟减持不超3%股份_股市直播_市场",
-      "d": "cnfol.com"
+      "t": "加息不改看涨逻辑！高盛：短期涨势预计放缓，但维持2027年底5400美元预测",
+      "d": "21jingji.com"
     },
     {
-      "t": "美联储加息并非“利空所有风险资产”——盘点历史上的加息冲击波",
+      "t": "恒生指数上涨0.56%，创新药板块持续活跃｜港股午评",
       "d": "21jingji.com"
     }
   ]

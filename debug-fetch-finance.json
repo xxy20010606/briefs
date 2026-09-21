@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 50,
+  "total": 52,
   "samples": [
     {
-      "title": "韩国杠杆ETF风波持续升级 青瓦台政策室长面临刑事指控",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzRFd0T2RfdVlJdnA1a2Q2QXJkdTROTDlTOEh2MWg2M1RHaWhoY19IRGxnb1RlUFU4bTZfeWFMNzQ5VTFhYTBZYg?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "涨幅榜丨同类涨幅第一！消费电子ETF易方达（562950）涨0.9%",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkE5eDJpVlJIRkJlNFl2VjFoUEluWXZxaFJOMVlQOFU3X1hwNURpLVB4QmJkVURDVFdRZEJuMDdtUjRFNHFGaFF",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经_金融信息服务商"
     },
     {
-      "title": "韩国存储双雄杠杆ETF价格上窜下跳 政府周四将开会讨论对策",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QWEtic2EyTlZuVnpPdXRza0FQb0Q3UWJmNzZER0k2TW9XejBLcURRcEdGTWtrTjlsc1FMcGhuOGZTWWVzdUFjbQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "主力榜丨同类流出金额最大！A股ETF华泰柏瑞（563330）流出79.0万元",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONXJEWnFCYzFpbWZOa1gtNEJqamFBX2tPWTNCQ1ZLa01aM3lEZXdrNkJZdGdscUlIYWhQSXpYZml3SnlGMjZSRWc",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经_金融信息服务商"
     },
     {
-      "title": "锦浪科技A股股东户数增加740户增幅1.31%，流通A股户均持股5624.15股降幅1.29%，户均",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUGg1XzdZVEtZSlAtSG05R1NzZFhEaGt5Q0RZRHdxODlhRDFJNXN0NWx2clVIQWZieGF3YmVRRWRMY2RFR21BMTQ",
+      "title": "帮主复盘：A股924行情两周年真相",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTWQwdGdZVnBzMXBEOG90aVRLZFNPb2ZJTVpCRGVLeVRaZG1GUlRQUnNNdEY5WXVXS3pfNGRDcWswVlBjVk9fTk9",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经_金融信息服务商"
+    },
+    {
+      "title": "A股房地产板块拉升 多只个股涨停封板",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uWkF5TFpiMXdudUJsV2VraHZ3VEt0NHJsM2xJeWkwSUlza2pJbUN1eVJKeVNLQVJQU3d6MXMtUVdXQ1RUWlVvSmM",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经_金融信息服务商"
+    },
+    {
+      "title": "A股房地产板块表现活跃，多只股票午后封板",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LS2x3T2hRbEQ0SFJBMEluc3I1S1JOMWV0U1BlWkRCWVZXUk4yZlE1NUpMdThZUFlJa2oyWUR0azJELXcyNGszRVV",
       "source_url": "https://finance.sina.com.cn",
-      "source": "finance.sina.com.cn"
-    },
-    {
-      "title": "裹小脚与留长辫子",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONlRmY3N6cXlVTU14MHliSGhJaThlaUttYThiUjlzRHpkOEEyLVVtVnVqekV5Yl9haFFPOVRCdEJHQVFyVnEyNDA",
-      "source_url": "https://cj.sina.cn",
       "source": "新浪财经"
     },
     {
-      "title": "周末三个行业的利好消息和相关分析",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzczBxVVQ3bnh6elBBcjdzOE9uM2Rra3I0ZEh0OU5aNW5LSzVaR29EcHdqbkZORlBkLU5FaUhxRXhJeDlSR0lDc1d",
+      "title": "星环科技 H 股今日港交所挂牌：A 股转 H 股上市，营收增长但仍持续亏",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdHhqRGI1d09TemMzLXN3RVdZNVk1NG1TdW5KYk4tcEEyVG5MZUpDV19manlqdmhTV0o3aVBiR1JONmJlWnM5S18",
       "source_url": "https://cj.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "19天狂飙101%！A股市场，又一只翻倍牛股诞生！",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82ckNMS0tpM2ZFTjgySzZGTWhDRXRvUTNrMm1GeXRtZGktMGNkb2V6UXdBTExaRzN0SW9CbllMM2Jhd1phbU1YUlE",
-      "source_url": "https://cj.sina.cn",
-      "source": "新浪财经"
+      "source": "新浪财经_金融信息服务商"
     }
   ]
 }

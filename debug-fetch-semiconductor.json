@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 44,
+  "total": 41,
   "samples": [
     {
-      "title": "华为发布全球首款“韬定律”商用芯片：算力产业进入范式重构期",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWhpbWtLaHJxMWg2c05jcXdaWGN5YkJhaVpzX1p2U1Z5TFAybEtGd2VmNEpJNE5sSk53TVZEdnBWTk1kbTRRSzM",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "42亿！格科微扩产，加码高端CIS芯片赛道",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DNU13NlVjSDFtaUM0VzJ2MWVyOHF2dnd3ak9UdURLOHlKeElzSy1BaFdTWVlHaW1LWUF1aUQ2cDJ4VU42TGY2dFN",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "多重利好集中引爆，科创芯片卷土重来",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQUWpkTldjYVJncDlPZ1lFa0tnb1FTeDVUZExqZEkxYXB4QXJCeF93NXZjTVlDbW5QdEFVOGx6X1FBX2JEelV4am4",
+      "title": "两大项目相继落地，国产金刚石产能持续释放",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVExRTGJJMmttVVk5ZVRtMWRIZl95alBYYjRId0w4SjdzV2xSZFpubW5FaVp5aXVBMnRTdndCZ2Vid01XS0t2eVQ",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "富士胶片与塔塔电子签署战略合作协议，拟在印度建设半导体材料工厂",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BX2k5TGxDZTFZSE56cElLUDBMOXFZcUwyRnFEY21ZbWhEYjRkWjJvUWJTRjJHTjZ6NlJNQ0JBOFNzQnEzazNfb3Z",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "3家企业/机构披露8英寸SiC新进展",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rWDJqTjVZdW1sU3ZjZzlTNlloZjZma21TUGNaS20tWTFtMkpRMjlyUlRBYVpmOUJ4QkczODJ0VXVmeTlNTEx3OXN",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "从“是什么”到“怎么用”：村田硅电容以宽频技术卡位光模块速率跃迁",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZUVRvS2NjS05KbTYtZFMtdTlqS0hMX0pvMDc0NWJoNG5FUVhMREJLSm1fTkZGN1psekVSR0dTeElnNk44UUM4VHF",
+      "source_url": "https://www.esmchina.com",
+      "source": "国际电子商情"
+    },
+    {
+      "title": "科创200ETF鹏华(588240)标的指数涨超1%，产业催化不断，医药、半导体、机器人领涨",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85QnBfTENYSF8tT0ROdnJ4MUZ4T1NVbzF5UUdZQy1sYlIyemRUU1dOTTBkcGVxLWN5X0prd0ZyUEZhTjlZQnFsTlF",
       "source_url": "https://finance.sina.cn",
       "source": "新浪财经"
-    },
-    {
-      "title": "这张图建议存好！半导体这个板块看着热闹，其实里面门道特别多——从最上游的MLCC、电容电感，到中间的",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tMXlNX29iX0ZJaGRJUmVJV21ndFpNWS1lNXQyWERCUGlIdHNZemVEckliaEVlRGY3Tm1uZHRpcHFkMnRDMlBoSUl",
-      "source_url": "https://www.sina.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "603061，半导体大牛股，逾百家机构调研！多只千亿市值科技股被盯上",
-      "link": "https://news.google.com/rss/articles/CBMioARBVV95cUxOeFRscjVlN2VOanVfZ0xGRF96OUpNdkk3RU5YcEwyTHV4OE1yblVZVUVRSnQ3SjQ5TVB4QmRhVkZyNHc1dEV2bGZ",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "半导体、芯片等ETF涨幅“夯爆了”！资金却疯狂撤退？粮食ETF惨遭“团灭” 包揽跌幅前十",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Ya0JtSFBtWGttbjBZM1EyZElhVFZROW1WMFMzRGFtZ0syWDFVTlRuRW9pXzlabmRQMk9wQVFDZnlmdVo4TUxCVVR",
-      "source_url": "https://finance.eastmoney.com",
-      "source": "东方财富"
-    },
-    {
-      "title": "120亿美元砸下去，印度连一颗芯片都没造出来，美日巨头或要失算了",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmtza2VBLXBZT2ZtRUU2ZG9RcWZ1VnBycGotc2RQMktWQlpoZEEtMnpMVlFQOXdyS0RqS0NDQ2FVaF85enNuek5",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
     }
   ]
 }

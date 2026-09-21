@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 54,
-    "trusted": 18,
+    "raw_dedup_junk": 66,
+    "trusted": 25,
     "non_trusted_top": {
-      "sina.cn": 11,
-      "china.com": 4,
-      "yzwb.net": 3,
-      "360.com": 2,
-      "shangbaoindonesia.com": 2,
+      "sina.cn": 9,
+      "china.com": 5,
       "bjd.com.cn": 2,
-      "ajudaily.com": 1,
+      "dailyqd.com": 2,
+      "vanpeople.com": 1,
+      "mk.co.kr": 1,
+      "cnbeta.com.tw": 1,
       "ua.news": 1,
       "mrjjxw.com": 1,
-      "hangzhou.com.cn": 1
+      "guandian.cn": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 2,
-    "relaxed_72h": 16,
+    "fresh1_24h": 25,
+    "page_fresh": 25,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "许嵩冯禧结婚，背后太合音乐IPO火了，许嵩两年演唱会疑似赚6亿",
-      "d": "ifeng.com"
+      "t": "40岁数学老师投资300多万拍电影，上映11天总票房仅2.5万余元，本人最新回应",
+      "d": "sohu.com"
     },
     {
-      "t": "“湾区升明月”2026大湾区电影音乐晚会在澳门唱响",
-      "d": "chinanews.com.cn"
+      "t": "9.14-9.20内地一周票房报收1.88亿 《龙餐馆》六连冠累计票房22.15",
+      "d": "sohu.com"
     },
     {
-      "t": "电影《大唐妖探》延长上映至10月21日",
+      "t": "2026亚运会电竞项目《永劫无间》即将开赛，游戏ETF华夏（159869）震荡走",
       "d": "eastmoney.com"
     },
     {
-      "t": "电竞选手商务版图跨越式扩容：从外设到奢侈品，品牌合作逻辑转向人格溢价",
-      "d": "huxiu.com"
+      "t": "中国电影：《流浪地球3》（上部）计划于春节档登陆院线",
+      "d": "qq.com"
     },
     {
-      "t": "中国技术护航亚运电竞，一套系统筑牢赛事公平根基",
-      "d": "sohu.com"
+      "t": "王嘉尔演唱会门票在哪买？双渠道搭配提升成功率",
+      "d": "ifeng.com"
     },
     {
-      "t": "绝境突围，重返世界赛！螃蟹互娱携手iG共赴全球舞台",
-      "d": "sohu.com"
+      "t": "魔都眼丨“杰克船长”登陆上海！这次不是拍电影，是办画展",
+      "d": "thepaper.cn"
     },
     {
-      "t": "北京人艺《哈姆雷特》“一剧双绎” 参演中国上海国际艺术节",
-      "d": "chinanews.com.cn"
+      "t": "于和伟、白敬亭领衔主演电视剧《战争和人》发布先导片花",
+      "d": "bjnews.com.cn"
     }
   ]
 }

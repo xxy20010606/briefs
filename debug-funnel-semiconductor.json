@@ -1,54 +1,53 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 44,
-    "trusted": 23,
+    "raw_dedup_junk": 41,
+    "trusted": 26,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "sina.com.cn": 4,
-      "hk01.com": 1,
-      "vietnam.vn": 1,
-      "autohome.com.cn": 1,
-      "blockchain.news": 1,
-      "voi.id": 1,
-      "mediaselangor.com": 1,
-      "cncaa.org": 1,
-      "ikanchai.com": 1
+      "sina.cn": 4,
+      "chosun.com": 2,
+      "vietnam.vn": 2,
+      "sina.com.cn": 2,
+      "esmchina.com": 1,
+      "tmgm.com": 1,
+      "xhby.net": 1,
+      "eeworld.com.cn": 1,
+      "cnbeta.com.tw": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 9,
-    "relaxed_72h": 11,
+    "fresh1_24h": 25,
+    "page_fresh": 21,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "华为发布全球首款“韬定律”商用芯片：算力产业进入范式重构期",
+      "t": "42亿！格科微扩产，加码高端CIS芯片赛道",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "两大项目相继落地，国产金刚石产能持续释放",
       "d": "sohu.com"
     },
     {
-      "t": "秋水半导体8寸Micro LED产线投产",
+      "t": "富士胶片与塔塔电子签署战略合作协议，拟在印度建设半导体材料工厂",
       "d": "eet-china.com"
     },
     {
-      "t": "华为发布全球首个NPO超节点！光芯片成核心环节",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "聚焦2026半导体生态发展大会：产业转向多元技术突围 天基计算、三维封装与RIS",
+      "t": "AI芯片景气度持续升温，南方基金旗下科创芯片ETF南方(588890)跟踪标的指",
       "d": "cls.cn"
     },
     {
-      "t": "半导体、芯片等ETF涨幅“夯爆了”！资金却疯狂撤退？粮食ETF惨遭“团灭” 包揽",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "120亿美元砸下去，印度连一颗芯片都没造出来，美日巨头或要失算了",
+      "t": "国产存储龙头第五代DRAM平台实现量产，半导体设备ETF易方达（159558）半",
       "d": "sohu.com"
     },
     {
-      "t": "欧洲晶圆厂断供后，安世中国押注国产12英寸产品，成本优势成第一张牌？",
-      "d": "time-weekly.com"
+      "t": "满产仍亏，粤芯半导体三年亏65亿还要再募75亿",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "TCS针对汽车和半导体企业推出新一代SoC设计服务-汽车资讯",
+      "d": "gasgoo.com"
     }
   ]
 }

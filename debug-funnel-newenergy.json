@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 30,
-    "trusted": 9,
+    "raw_dedup_junk": 36,
+    "trusted": 10,
     "non_trusted_top": {
-      "autohome.com.cn": 6,
       "sina.cn": 4,
-      "sina.com.cn": 2,
-      "ne21.com": 2,
-      "gessey.com": 1,
-      "tom.com": 1,
-      "chinapower.org.cn": 1,
-      "cnbeta.com.tw": 1,
-      "tianjinwe.com": 1,
-      "zhshbao.com": 1
+      "in-en.com": 3,
+      "autohome.com.cn": 3,
+      "seetao.com": 2,
+      "ideesz.com": 1,
+      "goalfore.cn": 1,
+      "ygacity.com": 1,
+      "capwhale.com": 1,
+      "ne21.com": 1,
+      "wedoany.com": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 0,
-    "relaxed_72h": 8,
+    "fresh1_24h": 10,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "光伏、储能培训班 | 光储协同运营管理高级研修班开始报名啦！",
+      "t": "内蒙古能源集团光伏储能项目建设运营提速提质",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "光伏装机规模居各电源类别之首，能源转型持续深化，南方基金旗下新能源ETF南方(5",
+      "d": "cls.cn"
+    },
+    {
+      "t": "零碳园区为何需要工业AI？夏建涛：关键是打通“数据—建模—优化—控制”闭环",
       "d": "sohu.com"
     },
     {
-      "t": "中山公用能源获评“2026年度优质光伏EPC/投资企业”",
-      "d": "10jqka.com.cn"
+      "t": "新能源新周期，南方基金旗下新能源系列ETF布局机遇备受关注",
+      "d": "jiemian.com"
     },
     {
-      "t": "源光宝亮相第18届世界太阳能光伏展，现场签约与意向洽谈成果丰硕",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "国力电子：光伏/风电/储能领域已切入阳光电源、特变电工等龙头供应链",
+      "t": "22家鄂企组团亮相东博会 “湖北智造”圈粉东盟",
       "d": "sohu.com"
     },
     {
-      "t": "越南电车恐怖如斯！超过比亚迪全球第3，为啥子变成了反面教材？",
-      "d": "sohu.com"
+      "t": "从设备出海到场景落地：赢科数能海外储能项目持续签约",
+      "d": "solarbe.com"
     },
     {
-      "t": "90%：韩国电池越出海，中国材料越赚钱",
-      "d": "qq.com"
-    },
-    {
-      "t": "中国天楹辽源项目即将投产，国内首个纯电制甲醇规模化项目全链条贯通",
-      "d": "163.com"
+      "t": "聚力零碳新赛道！山西国华拓维与大连融科储能举行零碳项目签约仪式",
+      "d": "solarbe.com"
     }
   ]
 }

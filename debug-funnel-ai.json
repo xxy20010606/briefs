@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 55,
-    "trusted": 22,
+    "raw_dedup_junk": 62,
+    "trusted": 21,
     "non_trusted_top": {
       "sina.com.cn": 9,
-      "sina.cn": 6,
+      "sina.cn": 7,
+      "csdn.net": 3,
       "techwalker.com": 2,
       "icloudnews.net": 2,
-      "dailyqd.com": 1,
-      "youth.cn": 1,
-      "yzwb.net": 1,
-      "bjd.com.cn": 1,
-      "nankai.edu.cn": 1,
-      "53ai.com": 1
+      "iqilu.com": 1,
+      "cast.org.cn": 1,
+      "eastmoney.com": 1,
+      "sfccn.com": 1,
+      "cctime.com": 1
     },
-    "fresh1_24h": 19,
-    "page_fresh": 2,
-    "relaxed_72h": 15,
+    "fresh1_24h": 21,
+    "page_fresh": 21,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "【科创之声】升级治理应对“AI+科教”变局",
-      "d": "ce.cn"
+      "t": "2026年智能算力行业现状/格局/痛点+发展趋势+调研解析--手机中研网",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "OpenAI突然收购，500万人Codex，永不下线",
-      "d": "36kr.com"
+      "t": "大模型竞争转向推理与多模态执行，国产算力与AI内容商业化有望进一步打开",
+      "d": "sohu.com"
     },
     {
-      "t": "从“五金小商品”到“人工智能大模型”，湖北咸安加快打造百亿级现代服务业集聚区",
-      "d": "ifeng.com"
+      "t": "是美国的4.7倍！中国AI大模型周调用量连续二十一周领跑：DeepSeek V4",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "如何解决人工智能时代的法治难题？天津大学举办首期“法·智高端对话”",
-      "d": "stdaily.com"
+      "t": "大模型有多烧钱？智谱年内融资756亿，市值缩水万亿遭遇价值重估",
+      "d": "163.com"
+    },
+    {
+      "t": "AI安全对齐困境：巨头安全团队频繁动荡，结构性矛盾凸显",
+      "d": "huxiu.com"
     },
     {
       "t": "AI大模型现场荐岗，5万人现场寻机遇，国际（江苏）人力资源服务业发展大会在宁举行",
       "d": "sohu.com"
     },
     {
-      "t": "37个AI智能体同台比拼！这场智能体开发大赛决赛在南京举行",
-      "d": "sohu.com"
-    },
-    {
-      "t": "2026年国家网络安全宣传周观察",
-      "d": "bjnews.com.cn"
+      "t": "从PUE到TPW，商汤大装置探索AI基础设施新价值标尺",
+      "d": "leiphone.com"
     }
   ]
 }
