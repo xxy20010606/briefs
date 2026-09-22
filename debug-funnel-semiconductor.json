@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 21,
+    "raw_dedup_junk": 46,
+    "trusted": 29,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "sina.cn": 6,
-      "jrj.com.cn": 2,
-      "caiwennews.com": 1,
-      "chosun.com": 1,
-      "shobserver.cn": 1,
-      "china.com": 1,
-      "chnfund.com": 1,
-      "yeeyi.com": 1,
-      "futunn.com": 1
+      "sina.cn": 5,
+      "sina.com.cn": 2,
+      "caam.org.cn": 1,
+      "hizh.cn": 1,
+      "futunn.com": 1,
+      "ab-sm.com": 1,
+      "gz-cmc.com": 1,
+      "jrj.com.cn": 1,
+      "ycnews.cn": 1,
+      "indexbox.io": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 17,
-    "relaxed_72h": 0,
+    "fresh1_24h": 26,
+    "page_fresh": 10,
+    "relaxed_72h": 13,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "内部扩产、外部并购，银河微电斥超10亿元投建高端功率器件项目",
+      "t": "美股存储芯片四巨头，集体大涨",
       "d": "10jqka.com.cn"
     },
     {
-      "t": "国产HBM突破环节算力供应瓶颈，半导体设备ETF易方达（159558）昨日“吸金",
-      "d": "sohu.com"
-    },
-    {
-      "t": "美股半导体指数大涨与AI应用登顶，算力芯片需求进入实质性拉动阶段",
-      "d": "sohu.com"
-    },
-    {
-      "t": "英特尔携手友达，Micro LED CPO要来了？",
+      "t": "国科半导体携多款红外探测器与激光器芯片亮相光博会",
       "d": "eet-china.com"
     },
     {
-      "t": "海光信息发布全新1000系列CPU，芯片设计领跑科技板块！科创芯片设计ETF国联",
-      "d": "jiemian.com"
+      "t": "黄仁勋：明年芯片销量将翻2倍！",
+      "d": "eet-china.com"
     },
     {
-      "t": "理想汽车总裁马东辉：马赫芯片、碳化硅模块可外供，电池包因适配性暂不开放_车市动态",
-      "d": "cnfol.com"
+      "t": "海光信息发布首款嵌入式工控CPU 加速拓展边端设备市场",
+      "d": "cls.cn"
     },
     {
-      "t": "外围利好来了！GPU龙头，暴涨（附股）",
-      "d": "10jqka.com.cn"
+      "t": "欧洲市值最高的企业，竟在欧洲本土“零销售”",
+      "d": "cls.cn"
+    },
+    {
+      "t": "路演互动丨粤芯半导体9月23日新股发行网上路演",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "阿斯麦：欧洲缺投资、缺工厂、缺业务，反观中美印…",
+      "d": "sohu.com"
     }
   ]
 }

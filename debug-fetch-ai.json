@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 66,
+  "total": 50,
   "samples": [
     {
-      "title": "临朐县“人工智能+产业”推介会议召开，山东移动潍坊分公司“通算智”一体化助力产业焕新",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ObHh1MmJia0tpeXdhNkpRdl9ybV8xLVVBYndvRVNVYmpuQzFJdGo1MFczbXkyUWxYX01ORExXMEU0X0JNTEJMcHN",
-      "source_url": "http://weifang.sdnews.com.cn",
-      "source": "鲁网"
-    },
-    {
-      "title": "轻工纺织产业“十五五”规划：推动AI赋能 加快研发重点行业垂直领域大模型",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56TnNwNnh6YThYVUw4MmlKWVVmMjN0RWYzLXhqZ3FpamhNTHdVNkVYY01kYnFxaDBoWkl6ejY0bHFyZnJEOTJWRFh",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
-    },
-    {
-      "title": "ETF今日收评 | 科创人工智能ETF涨超3%，油气相关ETF跌约2%",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkhlaEg3REc1dDZXRlFERVFhd3FvOFBaeEU0N09LaUJ4ZGRNUVVtRTZFNmR2SEFaMGFBekFRMFN5MU95UnBQeS1",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "Kimi向美国云巨头输出模型能力 国产大模型改写商业逻辑",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PWUNONzhmN3BzXzFYazBhYlNjYjZOVDJNalIzOHJjM0hiMVN0NFJZbkRzVHYwTHV4UTRWLXlrLV9aNkVRNXRjME9",
-      "source_url": "https://news.china.com",
-      "source": "中华网"
-    },
-    {
-      "title": "羚羊工业大模型3.5发布",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZaktTWjczWjJUMUxQNlkxQWhiQ0ZLWDBMYWhlR1FwejRRUUJKaGpwVnJWcDAxOUhfdWktVEZHX1cyZC1uVHJxbHJ",
-      "source_url": "http://m.cyol.com",
-      "source": "中青在线"
-    },
-    {
-      "title": "《轻工纺织产业发展“十五五”规划》印发：加快研发重点行业垂直领域大模型 开发应用面向轻工纺织全产业链",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0M2cEJzZmlsbVB0N3ZYMmxJSjB0S1Q4bVlfYlFlczZNUElUbUZzVVl1NWVNU2ptNkU0NHMtbW1JQ2R1TThodGN",
+      "title": "新机遇 新动能 新突破",
+      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOY0tNZnpBTnRIN1hXUUllTlJzTS0ybWZCT2p3bWZBYmIwNTZxcXNIazYzY0RkQkV4U0x4amIxaFI5Y2MxNDE1R3l",
       "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "source": "新浪财经_金融信息服务商"
+    },
+    {
+      "title": "报告：预计中国多光谱AI市场规模2030年将达到794亿元",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVBvQ3g3YzhzbnZYbHdYVlBtUTBXcDNZQUl2WHlpTWU3bHl6QjZLLWRqanRLY1VpVUtIS2hsRUNOb3FTSDNUeTB",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经_金融信息服务商"
+    },
+    {
+      "title": "AI从“回答问题”走向“自主行动”，上理工管理学院提醒新生守住独立判断",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUZvSmZzX21Sb2lhT0tJbzZ1T2xLci1ZckNnWk1yOXRfMmVialdjUnRVRzB6OUFoMWxsRU5ZNTJFWW94SGltWGU",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经_金融信息服务商"
+    },
+    {
+      "title": "香港和长三角AI产业加速发展| 香港贸易发展局经贸研究",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0NHNMSXVSdlBCOHdNUzZnbWZyelBkTE05VnBOZnFaWTBvSVNQSEd1SnFLdnJhR0xyQ0o1TjJPWk4xcm5qcFBsZ2F",
+      "source_url": "https://research.hktdc.com",
+      "source": "HKTDC Research"
+    },
+    {
+      "title": "Kimi K3落地亚马逊旗下大模型服务平台 中国大模型站上全球博弈牌桌",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3a3pVVmJHNkNqNmFIekpMWDVYc2p0M3RfbjVlZHVKSlktSERWSE5TX1ViX3h2SlgwQ1gtcnVaUGg3eF9KenpVc01",
+      "source_url": "https://t.cj.sina.cn",
+      "source": "t.cj.sina.cn"
+    },
+    {
+      "title": "安全与普惠如何兼得？全国首个生成式人工智能安全测试公共服务平台发布",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UcU5zWFdTbDBtMjh1ZmpYei1tNWJVb3lHaEQ3ck1kelQzbXI1QVl1dG5ZX1NVdFNuSHZOMXd6S3JWb3VNNkhzVXh",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     }
   ]
 }

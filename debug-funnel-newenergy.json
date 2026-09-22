@@ -2,37 +2,42 @@
   "type": "newenergy",
   "stages": {
     "raw_dedup_junk": 34,
-    "trusted": 4,
+    "trusted": 5,
     "non_trusted_top": {
+      "sina.com.cn": 13,
       "autohome.com.cn": 9,
-      "sina.com.cn": 6,
-      "sina.cn": 4,
-      "seetao.com": 1,
-      "gessey.com": 1,
-      "wedoany.com": 1,
-      "in-en.com": 1,
-      "cfi.net.cn": 1,
-      "moomoo.com": 1,
-      "epochtimes.com": 1
+      "ne21.com": 2,
+      "eastmoney.com": 2,
+      "idnfinancials.com": 1,
+      "voi.id": 1,
+      "dialogue.earth": 1
     },
     "fresh1_24h": 4,
-    "page_fresh": 3,
-    "relaxed_72h": 0,
-    "final": 3,
+    "page_fresh": 0,
+    "relaxed_72h": 5,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "150MWh框架落地匈牙利！卫蓝新能源携半固态储能进军中东欧",
-      "d": "solarbe.com"
+      "t": "光伏、储能培训班 | 光储协同运营管理高级研修班开始报名啦！",
+      "d": "sohu.com"
     },
     {
-      "t": "细分场景精准赋能丨晶科能源“晴天365”智慧光储体解锁中小企业低碳新范式",
-      "d": "solarbe.com"
+      "t": "星星充电发布场景微电网战略 加快拓展综合能源服务新未来",
+      "d": "sohu.com"
     },
     {
-      "t": "加拿大终止对华光伏产品双反措施；宁德时代拟发行45亿元绿色科创债｜新能源早参",
-      "d": "163.com"
+      "t": "邹才能院士：两匹“黑马”改写全球能源格局，中国新能源革命正成“大浪潮”",
+      "d": "sohu.com"
+    },
+    {
+      "t": "非常缺人！比亚迪紧急招聘近1万人，部分岗位还有6000元奖励",
+      "d": "nbd.com.cn"
+    },
+    {
+      "t": "比亚迪1万美元电车迎“大改款”，实拍图首曝光",
+      "d": "sohu.com"
     }
   ]
 }

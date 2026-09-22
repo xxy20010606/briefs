@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 62,
-    "trusted": 21,
+    "raw_dedup_junk": 55,
+    "trusted": 16,
     "non_trusted_top": {
-      "china.com": 6,
-      "rediandf.com": 4,
-      "sina.cn": 4,
-      "jpchinapress.com": 2,
-      "yzwb.net": 2,
-      "bjd.com.cn": 2,
-      "mk.co.kr": 1,
-      "animationmagazine.net": 1,
-      "3dmgame.com": 1,
-      "360.com": 1
+      "sina.cn": 9,
+      "sina.com.cn": 5,
+      "360.com": 3,
+      "rediandf.com": 3,
+      "china.com": 3,
+      "starnewskorea.com": 1,
+      "17173.com": 1,
+      "zhibo8.com": 1,
+      "hk01.com": 1,
+      "shangbaoindonesia.com": 1
     },
-    "fresh1_24h": 21,
-    "page_fresh": 20,
+    "fresh1_24h": 14,
+    "page_fresh": 8,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2026电竞显示器品牌排行榜：爱攻AGON跻身高端第一梯队",
+      "t": "厚啦厚啦，今晚看林看山了啦！#今天也在交锋##电视剧交锋#",
       "d": "sohu.com"
     },
     {
-      "t": "战虹空间 竞绽少年志 2026动感地带校园电竞联赛秋季赛上海赛区首场海选赛顺利落",
+      "t": "交锋较量开局# #交锋今日开播#何春晓报到！笔墨记录线索，暗战正式启幕",
       "d": "sohu.com"
     },
     {
-      "t": "《欢迎来龙餐馆》导演文牧野：技术最好的样子是让你忘记技术",
-      "d": "chinanews.com.cn"
+      "t": "中秋档电影预售票房突破2000万元",
+      "d": "ce.cn"
     },
     {
-      "t": "原创音乐剧《西游“渡”记》即将登陆北京舞台",
-      "d": "xinhuanet.com"
+      "t": "读懂票房“长尾”里的电影产业新空间",
+      "d": "ce.cn"
     },
     {
-      "t": "2026大湾区电影音乐晚会唱响“我们一家”",
-      "d": "xinhuanet.com"
+      "t": "谜一样的变奏",
+      "d": "gmw.cn"
     },
     {
-      "t": "北京环球度假区：丰富主题娱乐与夜间消费场景",
-      "d": "china.com.cn"
+      "t": "纪录片《苏门清风》：小家清风涵养大家风骨",
+      "d": "gmw.cn"
     },
     {
-      "t": "演绎人生百态 凸显上海特色，138个作品角逐“优秀群文新作”",
-      "d": "people.com.cn"
+      "t": "2026成都市残健融合交响音乐会温情奏响",
+      "d": "cnr.cn"
     }
   ]
 }

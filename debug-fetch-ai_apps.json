@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 48,
+  "total": 55,
   "samples": [
     {
-      "title": "精准长寿健康管理全场景应用生态在“广东省医学会健康管理与互联网医疗联合大会”发布",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45UU9DVGhudHJuREs1TU84RGNGS1g1YWt2U0gzVF9qTDd4c05CeUo5UkdQdWNUemhjbi1SenJCZnBhUE51MjFpMVZ",
-      "source_url": "https://hea.china.com",
-      "source": "中华网"
+      "title": "开学典礼上，校长们为何不约而同提醒不要过度依赖AI 教育新观察",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYnRnbkFycTllZVlnaC1OeUJRNmYyWEFoZjl1TzFxT05DV2ZQREY2V24zRUZFdmpzd0RBeGlzb3ZudWlVY19aak1",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经_金融信息服务商"
     },
     {
-      "title": "阿里千问AI平台全面升级模型服务、Agent服务、AI应用",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBLW1USkFySUJ5dkg5bDZ6VTRlN1MzSWllZ3ktX0J3YWtpSGttM28xRVpXNjRSbUtxMUtnOGdUbXc1TXJoMm1YVnJ",
-      "source_url": "http://www.wzs.org.cn",
-      "source": "世界浙商网"
+      "title": "企业持续加码编程智能体投入，成效却难如预期-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjTllNc3RtcUZjZVJQWXgxd1lObmNIaWRCY1U0TjdLbkpVYThNOFBpcDVpWmRaTFVIUTl1cENVQjVRYnhqSk82Sm8",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
     },
     {
-      "title": "从工具到伙伴，华硕破晓×腾讯WorkBuddy定义AI办公新体验",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRVd3LS1sRkdPdnZuQ0tpNWZpMTJzcmtLX0pXS2J5WEluYjl6M3cyYkh4QTRlRXBfNHh3MzY2MnpJb3pTZEtMVGE",
-      "source_url": "https://tech.sina.cn",
-      "source": "新浪网"
+      "title": "深化海外生态合作，中新赛克亮相GISEC 推动生产级AI安全与治理方案落地",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JQW9IQWsyMzNUR1l6M1Zpd3BIZ0hwSjBDX2xXT2hjMGU5THFSaHNnZEx2eGVOaFRqVF9lcEp3U2hQMS00MmpSQzN",
+      "source_url": "https://news.sina.com.cn",
+      "source": "news.sina.com.cn"
     },
     {
-      "title": "从 AI 工具到经营智能体：快手分销增长 Agent 实践",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRQjhpTk1maEVMbi1iZGpzU2lzWjl3WVFvXzFseTNoZ0R0MzNSUHRGSmNNOVpSOXJENHdabE5hMkF0WkVqMURqWmV",
-      "source_url": "https://www.infoq.cn",
-      "source": "InfoQ-CN"
+      "title": "Zapata 推出 Quantum Pilot，帮助企业识别高价值的量子应用",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1p5azB6M184bHJwWEdrZmZOdHBNVVZPTk9IalNISzFPQmtvOGprYnRFNmZicnVrR0ZZWWVaWFFUcEhFaVFaZnQ",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "过度依赖AI的后果有多严重 认知能力下降",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11akhSOVhES0h4LWYwR1NKSjdtN3pkWDFoeDhTcGZCTU5ldGZBa1dYMzhfWG0xY2pvX29nRkV6RTM5LVozYktvWjV",
-      "source_url": "https://news.china.com",
-      "source": "中华网"
+      "title": "Meta新AI应用Muse爆红｜两周250万下载，分析师揭秘背后原因",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IREtyNHZUQmNUb2xncnM2VktDaVViU2RvWDUwZDhDUjlmQmJZVEpjVEpRSnVMQnNwTXZiYkJIVWlDT1pwVEtWcw?",
+      "source_url": "https://haiwaiwai.com",
+      "source": "haiwaiwai.com"
     },
     {
-      "title": "MSX美股每日观察：Meta旗下Muse登顶应用榜，纳指创历史新高，AMD市值首次突破万亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JUVc0NURQMkFiSnhrQ3NWYnJyU3FNVTZ2TXg1cXNLZnd0Ukp0SXd0eWVCcTJxT3lhWjZHcGh5bkVQdFl2MnNNb1N",
-      "source_url": "https://www.binance.com",
-      "source": "Binance"
+      "title": "ADA 跳涨 4%，Cardano 进军 AI 代理支付新赛道",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSDNfOHN4SWhqVXctajJBdUxXODhGRlVnbnBCQXU5UzdkaDF6bHlUQk5NWGJ2LUdOdUxDNVBabklGd2JvYmJOZ1h",
+      "source_url": "https://yellow.com",
+      "source": "Yellow.com"
     }
   ]
 }

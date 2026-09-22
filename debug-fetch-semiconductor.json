@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 45,
+  "total": 46,
   "samples": [
     {
-      "title": "内部扩产、外部并购，银河微电斥超10亿元投建高端功率器件项目",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53S0ZXZldjNm8xbml2WVAxeVN4cWJwRHNjbjlTOWg0MjlLUnZaQk1WZ1ZwdkZnMVlrb3ZPanRkVW16bVhRSTRtSmV",
+      "title": "美股存储芯片四巨头，集体大涨",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81TUFQMkJiUWRvdFRleEtRcDhpMUxHaHVhU3pXOXRTUW5KV2U5ZDBMRXlWUHIwemc0Wkh3b2hETUIzdUhabEVZV1Z",
       "source_url": "https://news.10jqka.com.cn",
-      "source": "同花顺"
+      "source": "同花顺财经"
+    },
+    {
+      "title": "国科半导体携多款红外探测器与激光器芯片亮相光博会",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KbEZ2c2NmUXdreWRabEJHM3V2cTdpYmNqZklESXltams2MVRqR01jbnJvQkdCclJaTGE3S0psN2dNVk51LU9CRXR",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
       "title": "人民锐评：半导体迎来“韬（τ）定律” 中国定义将改写世界",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RYXNPb01HbnRFa180a2M1dFdZU1lLMkpkU3VQTkpIUFRVV25JVjNDM0tORllFci00MzNha1pVTUt2eHJMNzhRRA?",
       "source_url": "https://www.cls.cn",
-      "source": "cls.cn"
+      "source": "财联社"
     },
     {
-      "title": "美股万亿俱乐部再添一员：AI需求与服务器芯片前景推动AMD股价创新高",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbWVJSmlEUDlXQUxnMnhoa1YzR2J5Sm5IUUdCZFBOTlduSko5WmV0YkR6WU1ITDVlcVZoSHhHMzhJS1F3bl82aHZ",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUlBkNVdaVGxNUG1fbEJ0YjhMYjZHZ3hleHY2aXI3MkRsNTNqVlZyWFJ6ZUMxcTBUT3Qyb3JRblZqTEdudzlWbQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "隔夜半导体指数大涨，Meta Muse引爆CPU重估，关注国产芯片设计环节",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZNXBVcG9QY3BlakR2TU1MeDBCSUwycWszWXNoOUljbGg5Yk84b0dsMFZ1bG11YTlWWGZRX2ltWVRvNjJlVURzZS0",
-      "source_url": "https://www.caiwennews.com",
-      "source": "caiwennews.com"
+      "title": "ETF洞察|科创半导体设备ETF年内涨99%",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEt3OW1PM1JYQ1NON3ZnVjhFTC1oX0hlN0E2YlFWNjhDajBuUndBMjRKd3V4eW9fMi15aDJnZ0NjZzM2dXBSZmd",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经_金融信息服务商"
     },
     {
-      "title": "A股芯片概念集体走强",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84UEhIQ3FKSE5qTGYtbzczNWhuNG03Nm1lekhkeFBaNkc2M1hsSUcwVDRvWU9CUU1raThZT0U4Mi01cmduQUJOMDE",
-      "source_url": "https://cj.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "传日美拟建190亿美元晶圆厂，格罗方德负责运营",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnc2F5R2FnX2wzakl6cjY1WU9laS1XY2loZ3pfN2JTTEMxTjJrSTBZNGtrYWduTlcyVVBLeTdaUGp4SUxJbnFHaHN",
-      "source_url": "https://www.eet-china.com",
-      "source": "eet-china.com"
+      "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94dWRHSUNMSGEyczRSS3ZHQ3JlMFY3cVRTcmpadkpmY0ZQQmRSb19rS1lzMlJaaTBqMXYyWlJHVVFHaTFCUGxTNQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }

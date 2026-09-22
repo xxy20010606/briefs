@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 48,
-    "trusted": 18,
+    "raw_dedup_junk": 55,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.cn": 5,
-      "china.com": 4,
-      "sina.com.cn": 4,
-      "tradingview.com": 2,
-      "cnbeta.com.tw": 2,
-      "wzs.org.cn": 1,
-      "binance.com": 1,
-      "theblockbeats.info": 1,
-      "qianjia.com": 1,
-      "xhby.net": 1
+      "sina.com.cn": 12,
+      "sina.cn": 9,
+      "unite.ai": 3,
+      "gz-cmc.com": 2,
+      "moomoo.com": 2,
+      "zhiding.cn": 1,
+      "haiwaiwai.com": 1,
+      "yellow.com": 1,
+      "wenxuecity.com": 1,
+      "icloudnews.net": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 11,
-    "relaxed_72h": 0,
+    "fresh1_24h": 15,
+    "page_fresh": 3,
+    "relaxed_72h": 7,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "从 AI 工具到经营智能体：快手分销增长 Agent 实践",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "Muse下载量登顶点燃引爆AI Agent！ 机构：基础软件有望率先受益",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "300亿龙头，盘中涨超16%，历史新高",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "Meta新AI智能体Muse爆火登顶，创业板算力ETF广发（158049）成交额",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "速递｜AI医保经纪商Corridor完成2500万美元融资，前Scale AI产",
+      "t": "Meta旗下AI应用Muse上线两周下载量超73万，超越ChatGPT登顶美国A",
       "d": "sohu.com"
     },
     {
-      "t": "阿里巴巴：下一代视频模型将于11月发布",
+      "t": "提前押注机器智能！阿里CEO吴泳铭：机器思考总量不到人类3%，未来将达人类100",
+      "d": "time-weekly.com"
+    },
+    {
+      "t": "打开企业知识宝库的钥匙：千问办公发布企业上下文",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "飞书启动“苏商一齐飞2.0”，助力江苏企业加速AI生产力",
       "d": "sohu.com"
     },
     {
-      "t": "阿里CEO发布“性能最强国产AI芯片”",
-      "d": "guancha.cn"
+      "t": "破解“幻觉”痛点、融入本土工作流：中国AI办公应用提速出海竞逐全球市场",
+      "d": "sohu.com"
+    },
+    {
+      "t": "闪电快讯 | 千问办公发布QwenNote A2：售价1199元，强调转写“无痕",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "千问办公押注的企业上下文，是 Agent 时代的组织语言",
+      "d": "ifanr.com"
     }
   ]
 }

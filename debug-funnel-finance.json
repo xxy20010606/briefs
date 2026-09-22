@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 54,
-    "trusted": 18,
+    "raw_dedup_junk": 42,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.cn": 11,
-      "moomoo.com": 9,
-      "sina.com.cn": 6,
-      "futunn.com": 2,
-      "sinchew.com.my": 1,
+      "sina.cn": 9,
+      "moomoo.com": 7,
+      "sina.com.cn": 4,
       "ua.news": 1,
-      "creaders.net": 1,
-      "hk01.com": 1,
-      "tradingkey.com": 1,
-      "hstong.com": 1
+      "cryptorank.io": 1,
+      "indexbox.io": 1,
+      "ntdtv.com": 1,
+      "sinchew.com.my": 1,
+      "jin10.com": 1,
+      "fx678.com": 1
     },
-    "fresh1_24h": 18,
-    "page_fresh": 15,
-    "relaxed_72h": 0,
+    "fresh1_24h": 6,
+    "page_fresh": 1,
+    "relaxed_72h": 6,
     "final": 7,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "高盛：鸣鸣很忙(01768)公布2026年H股奖励计划强化长期激励及人才留任_股",
+      "t": "港股早报｜李强强调加快培育壮大新兴产业和未来产业 热门中概股普涨",
+      "d": "cls.cn"
+    },
+    {
+      "t": "智能戒指制造商Oura(OURA.US)IPO定价40-44美元/股拟募资21亿",
       "d": "cnfol.com"
     },
     {
-      "t": "逸豪新材拟定增募不超18亿 A股募10亿上市4年分红0.2亿_证券要闻",
+      "t": "港股异动| 纸业股多数走低供大于求格局难以扭转机构料纸价或延续承压运行_股市直播",
       "d": "cnfol.com"
     },
     {
-      "t": "小摩：首予NexGen Energy(NXE.US)“增持”评级看好Rook I",
+      "t": "港股异动| 阿里健康(00241)跌超3% 公司面临多因素影响机构指其盈利增长前",
       "d": "cnfol.com"
     },
     {
-      "t": "名创优品(09896)9月21日斥资24.4万美元回购11万股_股市直播_市场",
+      "t": "美股三大指数小幅高开，阿里巴巴涨超4%_市场分析",
       "d": "cnfol.com"
     },
     {
-      "t": "港股异动| 精锋医疗-B(02675)盘中涨超4% 公司已正式启动A股上市辅导_",
-      "d": "cnfol.com"
+      "t": "晚报丨伊朗被曝提“7天重开霍尔木兹”方案，代表团获权推动对美外交接触，美油跌破9",
+      "d": "eastmoney.com"
     },
     {
-      "t": "德邦证券：医药工业十五五规划发布重点支持创新药械及产业链_股市直播_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "破发股海泰科限售股解禁 国泰海通保荐上市两募资共9亿_股市聚焦_市场",
-      "d": "cnfol.com"
+      "t": "港股收评：恒指、恒科齐涨；软件、传媒上涨；半导体午后走低；建材、造纸、交运跌幅居",
+      "d": "eastmoney.com"
     }
   ]
 }
