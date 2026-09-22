@@ -1,53 +1,50 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 52,
-    "trusted": 11,
+    "raw_dedup_junk": 45,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.cn": 12,
-      "sina.com.cn": 11,
-      "moomoo.com": 10,
+      "sina.cn": 10,
+      "moomoo.com": 7,
+      "sina.com.cn": 6,
       "futunn.com": 3,
-      "enanyang.my": 1,
-      "fxbaogao.com": 1,
-      "nikkei.com": 1,
-      "aboluowang.com": 1,
-      "hstong.com": 1
+      "eastmoney.com": 1,
+      "sinchew.com.my": 1,
+      "newswav.com": 1,
+      "hk01.com": 1,
+      "tradingkey.com": 1,
+      "jin10.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 8,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤3条"
+    "fresh1_24h": 5,
+    "page_fresh": 1,
+    "relaxed_72h": 5,
+    "final": 6,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "港股异动| 航运股集体上扬马士基26艘大造船订单落地机构指未来数年船台紧张提供供",
+      "t": "珠峰黄金(01815)拟折让约17.95%发行合共2.77亿股净筹约4.427亿",
       "d": "cnfol.com"
     },
     {
-      "t": "破发股宏源药业1.8亿股解禁上市即巅峰国联民生保荐_股市聚焦_市场",
+      "t": "极智嘉-W(02590)9月21日斥资723.14万港元回购88.4万股_股市直",
       "d": "cnfol.com"
     },
     {
-      "t": "破发股豪森智能股东拟减持国泰海通保荐上市2募资共15亿_股市聚焦_市场",
+      "t": "中裕能源(03633)9月21日斥资132.28万港元回购50万股_股市直播_市",
       "d": "cnfol.com"
     },
     {
-      "t": "美联储 12:0 全票同意加息！打的是特朗普的脸？不，打的是 AI 的脸",
-      "d": "sohu.com"
+      "t": "交通银行新余分行六宗违规被罚违反金融统计相关规定等_股市聚焦_市场",
+      "d": "cnfol.com"
     },
     {
-      "t": "3年多了，美联储咋就又开始加息？",
-      "d": "thepaper.cn"
+      "t": "美联储古尔斯比：不认为加息是在收回2025年的降息",
+      "d": "eastmoney.com"
     },
     {
-      "t": "加息不改看涨逻辑！高盛：短期涨势预计放缓，但维持2027年底5400美元预测",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "恒生指数上涨0.56%，创新药板块持续活跃｜港股午评",
-      "d": "21jingji.com"
+      "t": "晚报丨中美经贸磋商在美国纽约举行；卡塔尔称美国希望与伊朗达成协议；美柴油价格升破",
+      "d": "eastmoney.com"
     }
   ]
 }

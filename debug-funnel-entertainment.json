@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 66,
-    "trusted": 25,
+    "raw_dedup_junk": 45,
+    "trusted": 16,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "china.com": 5,
-      "bjd.com.cn": 2,
-      "dailyqd.com": 2,
-      "vanpeople.com": 1,
-      "mk.co.kr": 1,
+      "sina.cn": 8,
+      "rediandf.com": 4,
+      "sina.com.cn": 3,
+      "yzwb.net": 3,
+      "jpchinapress.com": 1,
+      "3dmgame.com": 1,
+      "17173.com": 1,
       "cnbeta.com.tw": 1,
-      "ua.news": 1,
-      "mrjjxw.com": 1,
-      "guandian.cn": 1
+      "yeeyi.com": 1,
+      "hrbtv.net": 1
     },
-    "fresh1_24h": 25,
-    "page_fresh": 25,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 5,
+    "relaxed_72h": 10,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "40岁数学老师投资300多万拍电影，上映11天总票房仅2.5万余元，本人最新回应",
-      "d": "sohu.com"
+      "t": "当年被东芝“贱卖”的存储业务，现在卡着亚运电竞的脖子-36氪",
+      "d": "36kr.com"
     },
     {
-      "t": "9.14-9.20内地一周票房报收1.88亿 《龙餐馆》六连冠累计票房22.15",
-      "d": "sohu.com"
+      "t": "12部影片定档2026国庆档",
+      "d": "jiemian.com"
     },
     {
-      "t": "2026亚运会电竞项目《永劫无间》即将开赛，游戏ETF华夏（159869）震荡走",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "中国电影：《流浪地球3》（上部）计划于春节档登陆院线",
-      "d": "qq.com"
-    },
-    {
-      "t": "王嘉尔演唱会门票在哪买？双渠道搭配提升成功率",
+      "t": "浙江宣传：从3件“小事”看公共生活的边界感",
       "d": "ifeng.com"
     },
     {
-      "t": "魔都眼丨“杰克船长”登陆上海！这次不是拍电影，是办画展",
-      "d": "thepaper.cn"
+      "t": "用匠心去除“AI味”（看台人语）",
+      "d": "people.com.cn"
     },
     {
-      "t": "于和伟、白敬亭领衔主演电视剧《战争和人》发布先导片花",
-      "d": "bjnews.com.cn"
+      "t": "细节不只是细节",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "《复仇者联盟4：终局之战(加码臻享版)》预售票房破千万元 9月25日全国上映",
+      "d": "sohu.com"
+    },
+    {
+      "t": "AI漫剧新物种“爆发”！广州游戏电竞产业稳居全国第一梯队",
+      "d": "sohu.com"
     }
   ]
 }

@@ -2,53 +2,53 @@
   "type": "ai",
   "stages": {
     "raw_dedup_junk": 62,
-    "trusted": 21,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.com.cn": 9,
-      "sina.cn": 7,
-      "csdn.net": 3,
-      "techwalker.com": 2,
-      "icloudnews.net": 2,
-      "iqilu.com": 1,
-      "cast.org.cn": 1,
-      "eastmoney.com": 1,
-      "sfccn.com": 1,
-      "cctime.com": 1
+      "sina.com.cn": 17,
+      "sina.cn": 8,
+      "icloudnews.net": 3,
+      "mpaypass.com.cn": 2,
+      "dailyqd.com": 1,
+      "fxbaogao.com": 1,
+      "bjd.com.cn": 1,
+      "cnbeta.com.tw": 1,
+      "jfdaily.com.cn": 1,
+      "insilico.com": 1
     },
-    "fresh1_24h": 21,
-    "page_fresh": 21,
-    "relaxed_72h": 0,
+    "fresh1_24h": 14,
+    "page_fresh": 3,
+    "relaxed_72h": 10,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2026年智能算力行业现状/格局/痛点+发展趋势+调研解析--手机中研网",
+      "t": "当AI走入投研深处： 一场效率革命，一道行业新题",
       "d": "10jqka.com.cn"
     },
     {
-      "t": "大模型竞争转向推理与多模态执行，国产算力与AI内容商业化有望进一步打开",
+      "t": "一文看懂昇腾超节点：AI Infra已进入系统工程阶段",
+      "d": "zhidx.com"
+    },
+    {
+      "t": "OpenAI突然收购，500万人Codex，永不下线",
+      "d": "36kr.com"
+    },
+    {
+      "t": "五角大楼：过度依赖AI大模型导致美国空袭造成123名伊朗儿童死亡",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "人工智能促进健康全球倡议2026年会召开，讯飞医疗以数智实践助力全球医疗AI治理",
       "d": "sohu.com"
     },
     {
-      "t": "是美国的4.7倍！中国AI大模型周调用量连续二十一周领跑：DeepSeek V4",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "大模型有多烧钱？智谱年内融资756亿，市值缩水万亿遭遇价值重估",
-      "d": "163.com"
-    },
-    {
-      "t": "AI安全对齐困境：巨头安全团队频繁动荡，结构性矛盾凸显",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "AI大模型现场荐岗，5万人现场寻机遇，国际（江苏）人力资源服务业发展大会在宁举行",
-      "d": "sohu.com"
-    },
-    {
-      "t": "从PUE到TPW，商汤大装置探索AI基础设施新价值标尺",
-      "d": "leiphone.com"
+      "t": "从阅读思辨到AI协同创新：“少年非常道”升级三大看点",
+      "d": "thepaper.cn"
     }
   ]
 }

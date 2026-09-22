@@ -1,53 +1,53 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 31,
-    "trusted": 10,
+    "raw_dedup_junk": 33,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "caiwennews.com": 2,
+      "sina.com.cn": 4,
+      "zhiding.cn": 2,
       "sina.cn": 2,
-      "digitaltoday.co.kr": 2,
-      "moomoo.com": 1,
-      "sanqin.com": 1,
-      "stheadline.com": 1,
-      "sinchew.com.my": 1,
-      "mydrivers.com": 1,
-      "cjn.cn": 1
+      "china.com": 2,
+      "fznews.com.cn": 1,
+      "fxbaogao.com": 1,
+      "tradingview.com": 1,
+      "mrjjxw.com": 1,
+      "blockchain.news": 1,
+      "mydrivers.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 9,
-    "relaxed_72h": 0,
+    "fresh1_24h": 7,
+    "page_fresh": 1,
+    "relaxed_72h": 6,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2026年学英语APP实测推荐:5款主流工具对比，首推「咕噜口语」",
-      "d": "ifeng.com"
+      "t": "新紫光与阿里云签署战略合作协议",
+      "d": "laoyaoba.com"
     },
     {
-      "t": "有图有真相？AI时代，眼见未必为实",
-      "d": "cyol.com"
+      "t": "70 强项目观察之无界应用：AI 应用正在从“有功能”走向“能完成任务”",
+      "d": "infoq.cn"
     },
     {
-      "t": "人工智能产业日报(09.20) : AI侵权规制",
+      "t": "从阅读思辨到AI协同创新：“少年非常道”升级三大看点",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "从工具到伙伴 华硕破晓×腾讯WorkBuddy定义AI办公新体验",
       "d": "sohu.com"
     },
     {
-      "t": "从AI工具到城市生活入口：讯飞AI眼镜接入蚂蚁灵影AOS背后的行业跃迁",
-      "d": "sohu.com"
+      "t": "博拉网络：“好易空间+Haodop”助力企业打造“AI超级团队”",
+      "d": "people.com.cn"
     },
     {
-      "t": "赛迪顾问编制《2026H1中国全栈AI云服务市场研究报告》",
-      "d": "sohu.com"
+      "t": "AI 正在制造 App 过剩时代",
+      "d": "ifanr.com"
     },
     {
-      "t": "一张路线图，一套工具箱，一套组织体系，华为给产业数智化上引擎",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "当AI不再聊天：Jev如何让“决策”成为模型分工的新物种",
+      "t": "AI赋能材料研发、胃镜不用打麻药……这场关于人工智能大会金点子频出",
       "d": "sohu.com"
     }
   ]

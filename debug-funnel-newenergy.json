@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 36,
-    "trusted": 10,
+    "raw_dedup_junk": 50,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.cn": 4,
-      "in-en.com": 3,
-      "autohome.com.cn": 3,
-      "seetao.com": 2,
-      "ideesz.com": 1,
-      "goalfore.cn": 1,
-      "ygacity.com": 1,
-      "capwhale.com": 1,
-      "ne21.com": 1,
-      "wedoany.com": 1
+      "sina.com.cn": 13,
+      "autohome.com.cn": 7,
+      "sina.cn": 3,
+      "in-en.com": 2,
+      "news18a.com": 2,
+      "mrjjxw.com": 1,
+      "fxbaogao.com": 1,
+      "imsilkroad.com": 1,
+      "nengyuanjie.net": 1,
+      "zgjtb.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
+    "fresh1_24h": 5,
+    "page_fresh": 1,
+    "relaxed_72h": 10,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "内蒙古能源集团光伏储能项目建设运营提速提质",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "光伏装机规模居各电源类别之首，能源转型持续深化，南方基金旗下新能源ETF南方(5",
+      "t": "银河微电斥资10.78亿元投建高端器件产线 瞄准小信号器件、功率器件等产能缺口",
       "d": "cls.cn"
     },
     {
-      "t": "零碳园区为何需要工业AI？夏建涛：关键是打通“数据—建模—优化—控制”闭环",
-      "d": "sohu.com"
-    },
-    {
-      "t": "新能源新周期，南方基金旗下新能源系列ETF布局机遇备受关注",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "22家鄂企组团亮相东博会 “湖北智造”圈粉东盟",
-      "d": "sohu.com"
-    },
-    {
-      "t": "从设备出海到场景落地：赢科数能海外储能项目持续签约",
+      "t": "84天封顶！思格南通智慧能源中心二期建设再提速",
       "d": "solarbe.com"
     },
     {
-      "t": "聚力零碳新赛道！山西国华拓维与大连融科储能举行零碳项目签约仪式",
-      "d": "solarbe.com"
+      "t": "佛山玻璃厂能源焕新: 光储+AI盘活存量光伏电站",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "星星充电发布场景微电网战略 加快拓展综合能源服务新未来",
+      "d": "sohu.com"
+    },
+    {
+      "t": "四川省港投集团光储充航一体化项目入选全国智能光伏典型案例",
+      "d": "news.cn"
+    },
+    {
+      "t": "中化学环境科技公司参展2026绿色低碳博览会",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "2026-2030年配电设备行业深度研判、竞争格局与投资机会分析--手机中研网",
+      "d": "10jqka.com.cn"
     }
   ]
 }
