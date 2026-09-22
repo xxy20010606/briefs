@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 33,
+  "total": 48,
   "samples": [
     {
-      "title": "AI能否拯救全球粮食危机？关键在数据-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81YlZiRy05Mk9vbHByTGRoVjNLMk9aeXdvMFZCM01FZnV2UnhZOGZ0b2E4dTN0ODJNdHZseExVZVlxdG9IYVdmb1M",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "精准长寿健康管理全场景应用生态在“广东省医学会健康管理与互联网医疗联合大会”发布",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45UU9DVGhudHJuREs1TU84RGNGS1g1YWt2U0gzVF9qTDd4c05CeUo5UkdQdWNUemhjbi1SenJCZnBhUE51MjFpMVZ",
+      "source_url": "https://hea.china.com",
+      "source": "中华网"
     },
     {
-      "title": "校企共创将AI应用于真实产业场景",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kb3I2OXpDTDZsUHBkVzVQb1RCckNyYXlUNUdUSGtGLUlVdTJYdTdKY0VXSnA0S2M2b3p6LTJYeEZqa1E4cEVrREt",
-      "source_url": "https://m.fznews.com.cn",
-      "source": "fznews.com.cn"
+      "title": "阿里千问AI平台全面升级模型服务、Agent服务、AI应用",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBLW1USkFySUJ5dkg5bDZ6VTRlN1MzSWllZ3ktX0J3YWtpSGttM28xRVpXNjRSbUtxMUtnOGdUbXc1TXJoMm1YVnJ",
+      "source_url": "http://www.wzs.org.cn",
+      "source": "世界浙商网"
     },
     {
-      "title": "万联证券:《计算机行业跟踪报告：AI安全与企业级治理需求升温》",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uTG5zVC1NMXJaQzYzaUxZMjBSQ19qYUNtZFgwcC1fTlJPcVROZXVfdDFiTnVJWHBsNktBLU9UMkJBUWpZZEZzY3J",
-      "source_url": "https://www.fxbaogao.com",
-      "source": "发现报告"
+      "title": "从工具到伙伴，华硕破晓×腾讯WorkBuddy定义AI办公新体验",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRVd3LS1sRkdPdnZuQ0tpNWZpMTJzcmtLX0pXS2J5WEluYjl6M3cyYkh4QTRlRXBfNHh3MzY2MnpJb3pTZEtMVGE",
+      "source_url": "https://tech.sina.cn",
+      "source": "新浪网"
     },
     {
-      "title": "70 强项目观察之无界应用：AI 应用正在从“有功能”走向“能完成任务”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lTDU5cHJWVUpOcTdTbWdhU3U1MjdCUG1VRUh2Mm80VUdMMlhqdDhLVzBWUDN3RTNTcmlVcVhuTHdYeWhpREowcU5",
+      "title": "从 AI 工具到经营智能体：快手分销增长 Agent 实践",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRQjhpTk1maEVMbi1iZGpzU2lzWjl3WVFvXzFseTNoZ0R0MzNSUHRGSmNNOVpSOXJENHdabE5hMkF0WkVqMURqWmV",
       "source_url": "https://www.infoq.cn",
       "source": "InfoQ-CN"
     },
     {
-      "title": "a16z：AI推动新应用数量暴增，用户下载评分却停滞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0V0ViUmQ1SC1LcV9PZW9pckk0T3h0cjBSZTloR1hkTWpPc0VPTlRwbGhaYVJQdlZYdndRU29tcjJLbVk3VWxkZ0p",
-      "source_url": "https://www.tradingview.com",
-      "source": "TradingView"
+      "title": "过度依赖AI的后果有多严重 认知能力下降",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11akhSOVhES0h4LWYwR1NKSjdtN3pkWDFoeDhTcGZCTU5ldGZBa1dYMzhfWG0xY2pvX29nRkV6RTM5LVozYktvWjV",
+      "source_url": "https://news.china.com",
+      "source": "中华网"
     },
     {
-      "title": "智谱AI编程工具被曝将用户核心资产打包传走，但传了564次都失败！该产品用户达200多万，公司再回应",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lQXV4U0t1eUtHOUhJNFhyNlRmNHEyTUtfTWJWajhoWHFJdW1HRHdpOUVBM3cyVExzRnFTZ3VXZ2ItdmZpTW5YX2d",
-      "source_url": "https://www.mrjjxw.com",
-      "source": "mrjjxw.com"
+      "title": "MSX美股每日观察：Meta旗下Muse登顶应用榜，纳指创历史新高，AMD市值首次突破万亿美元",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JUVc0NURQMkFiSnhrQ3NWYnJyU3FNVTZ2TXg1cXNLZnd0Ukp0SXd0eWVCcTJxT3lhWjZHcGh5bkVQdFl2MnNNb1N",
+      "source_url": "https://www.binance.com",
+      "source": "Binance"
     }
   ]
 }

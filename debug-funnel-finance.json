@@ -1,50 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 10,
+    "raw_dedup_junk": 54,
+    "trusted": 18,
     "non_trusted_top": {
-      "sina.cn": 10,
-      "moomoo.com": 7,
+      "sina.cn": 11,
+      "moomoo.com": 9,
       "sina.com.cn": 6,
-      "futunn.com": 3,
-      "eastmoney.com": 1,
+      "futunn.com": 2,
       "sinchew.com.my": 1,
-      "newswav.com": 1,
+      "ua.news": 1,
+      "creaders.net": 1,
       "hk01.com": 1,
       "tradingkey.com": 1,
-      "jin10.com": 1
+      "hstong.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 1,
-    "relaxed_72h": 5,
-    "final": 6,
+    "fresh1_24h": 18,
+    "page_fresh": 15,
+    "relaxed_72h": 0,
+    "final": 7,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "珠峰黄金(01815)拟折让约17.95%发行合共2.77亿股净筹约4.427亿",
+      "t": "高盛：鸣鸣很忙(01768)公布2026年H股奖励计划强化长期激励及人才留任_股",
       "d": "cnfol.com"
     },
     {
-      "t": "极智嘉-W(02590)9月21日斥资723.14万港元回购88.4万股_股市直",
+      "t": "逸豪新材拟定增募不超18亿 A股募10亿上市4年分红0.2亿_证券要闻",
       "d": "cnfol.com"
     },
     {
-      "t": "中裕能源(03633)9月21日斥资132.28万港元回购50万股_股市直播_市",
+      "t": "小摩：首予NexGen Energy(NXE.US)“增持”评级看好Rook I",
       "d": "cnfol.com"
     },
     {
-      "t": "交通银行新余分行六宗违规被罚违反金融统计相关规定等_股市聚焦_市场",
+      "t": "名创优品(09896)9月21日斥资24.4万美元回购11万股_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "美联储古尔斯比：不认为加息是在收回2025年的降息",
-      "d": "eastmoney.com"
+      "t": "港股异动| 精锋医疗-B(02675)盘中涨超4% 公司已正式启动A股上市辅导_",
+      "d": "cnfol.com"
     },
     {
-      "t": "晚报丨中美经贸磋商在美国纽约举行；卡塔尔称美国希望与伊朗达成协议；美柴油价格升破",
-      "d": "eastmoney.com"
+      "t": "德邦证券：医药工业十五五规划发布重点支持创新药械及产业链_股市直播_市场",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "破发股海泰科限售股解禁 国泰海通保荐上市两募资共9亿_股市聚焦_市场",
+      "d": "cnfol.com"
     }
   ]
 }

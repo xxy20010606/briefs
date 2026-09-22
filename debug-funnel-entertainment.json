@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 16,
+    "raw_dedup_junk": 62,
+    "trusted": 21,
     "non_trusted_top": {
-      "sina.cn": 8,
+      "china.com": 6,
       "rediandf.com": 4,
-      "sina.com.cn": 3,
-      "yzwb.net": 3,
-      "jpchinapress.com": 1,
+      "sina.cn": 4,
+      "jpchinapress.com": 2,
+      "yzwb.net": 2,
+      "bjd.com.cn": 2,
+      "mk.co.kr": 1,
+      "animationmagazine.net": 1,
       "3dmgame.com": 1,
-      "17173.com": 1,
-      "cnbeta.com.tw": 1,
-      "yeeyi.com": 1,
-      "hrbtv.net": 1
+      "360.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 5,
-    "relaxed_72h": 10,
+    "fresh1_24h": 21,
+    "page_fresh": 20,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "当年被东芝“贱卖”的存储业务，现在卡着亚运电竞的脖子-36氪",
-      "d": "36kr.com"
-    },
-    {
-      "t": "12部影片定档2026国庆档",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "浙江宣传：从3件“小事”看公共生活的边界感",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "用匠心去除“AI味”（看台人语）",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "细节不只是细节",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "《复仇者联盟4：终局之战(加码臻享版)》预售票房破千万元 9月25日全国上映",
+      "t": "2026电竞显示器品牌排行榜：爱攻AGON跻身高端第一梯队",
       "d": "sohu.com"
     },
     {
-      "t": "AI漫剧新物种“爆发”！广州游戏电竞产业稳居全国第一梯队",
+      "t": "战虹空间 竞绽少年志 2026动感地带校园电竞联赛秋季赛上海赛区首场海选赛顺利落",
       "d": "sohu.com"
+    },
+    {
+      "t": "《欢迎来龙餐馆》导演文牧野：技术最好的样子是让你忘记技术",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "原创音乐剧《西游“渡”记》即将登陆北京舞台",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "2026大湾区电影音乐晚会唱响“我们一家”",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "北京环球度假区：丰富主题娱乐与夜间消费场景",
+      "d": "china.com.cn"
+    },
+    {
+      "t": "演绎人生百态 凸显上海特色，138个作品角逐“优秀群文新作”",
+      "d": "people.com.cn"
     }
   ]
 }

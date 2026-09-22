@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 45,
+  "total": 54,
   "samples": [
     {
-      "title": "操盘必读：影响股市利好或利空消息_2026年9月22日_财经新闻",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS3RkaFktVXE2WlAtazkyQm5JVWhJN052aWVwdXR1V0pDSmF1MnJIR0tOdWpYeGNGUG90M3lzcC10V3dZZXIxeDN",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "四大证券报头版头条内容精华摘要_2026年9月22日_财经新闻",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdUxFWk1ha1I2WTJNd183Mms4WVVkczhLTVJEUEhyaTNETlhodjUzQmlYSTIzUVJNUlc5Q3hsYi01bExxZnlTbXh",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "行情重心会转向大盘蓝筹么",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZUJMSWpoamZhRnY4SVBjTTEtVHVDSHo1dDU5UVBITWhMZXgzSDR4VVZFMUJKLU9aY0xGdjAzdzg5dE85c1VfTjZ",
-      "source_url": "https://cj.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "珠峰黄金(01815)拟折让约17.95%发行合共2.77亿股净筹约4.427亿港元_股市直播_市场",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pOHVpdDROOXR6a0d1Q2JJZmxxWUt4cWxwV1FVXzlWLWx0TUxlMmp3UDI1VmhpUzIwdUtFVnpoOFNNaUZ5SzVySl9",
+      "title": "高盛：鸣鸣很忙(01768)公布2026年H股奖励计划强化长期激励及人才留任_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4TzZtQ3ZrMHBHakhQa2d0Mm45dU1wV2tGSXljbXJQVVVOaDhNZTc3TG41NlJZNC1BVEVsTjZsdmZMdkpmZzJlRXN",
       "source_url": "http://sc.stock.cnfol.com",
-      "source": "sc.stock.cnfol.com"
+      "source": "中金在线"
     },
     {
-      "title": "【财富晚茶】蛟龙携款逃逸：09.21收盘主力：资金净流出前20股票",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ydncwYjloenMzVEJRYVlmU1FhdWZ6WGN5X2ZWUXpTMDVvb0VqajNBN2NJSUpvRC1IczREUW9uMmtzU0tWdk9uckV",
-      "source_url": "https://caifuhao.eastmoney.com",
-      "source": "财富号"
+      "title": "逸豪新材拟定增募不超18亿 A股募10亿上市4年分红0.2亿_证券要闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFQ1laVjNNXzFuNkFYWXE4OEU3OUdaUUZmdnpJM2U0bElqRUtXekRsZlFOVHhVOWtaWllvbmFYcFc5WlU4LTFzdHc",
+      "source_url": "http://news.cnfol.com",
+      "source": "中金在线"
+    },
+    {
+      "title": "小摩：首予NexGen Energy(NXE.US)“增持”评级看好Rook I旗舰铀矿项目_股市直",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsZkU5NExSYklhNF9Ednd0YWw0OHV5N2sxaFJVTnM5ZDhQOVJXa0VUaUU0TVN1VUlsYTBSWHZ3UWlMbXVaSFpVNGN",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
     },
     {
       "title": "股市 | 星洲网 Sin Chew Daily Malaysia Latest News and H",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9taDE2UDBmRU1tMUFYZVRZTGcyTHMyR21VdERoWllBb1JFMFZzVVpNUndnTlhrY25TWGxJNFdGdFQ3MFRBUkZmUER",
       "source_url": "https://www.sinchew.com.my",
       "source": "Sin Chew Daily"
+    },
+    {
+      "title": "跟踪指数已处近1年估值低位",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcG5UdF9JXzQ0TFlyRWxPWnFKMlNMM3NRdDZaRDVaOTl0NnhCdkpvN0xmcEIxODlIRjJ0d2NxLWJyY2gtYUhLQTZ",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "名创优品(09896)9月21日斥资24.4万美元回购11万股_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pcUNPRC1FVm1jaHpTZGQ3di1Nb3pBcnRuWnRURkVLeXRTR3VIdkdOZ0JkWFBPNm1OWTRKaWJKYVFZT0NWeHFnOWh",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
     }
   ]
 }

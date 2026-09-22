@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 62,
+  "total": 66,
   "samples": [
     {
-      "title": "五角大楼：过度依赖AI大模型导致美国空袭造成123名伊朗儿童死亡",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wZENxZnp6d1RaYXhXT1NLS2k3WjhJN3c1VTRMYU5UcDNQSDdXZGJlS1F3TjN0YVFmUk9Na0xuNFFwbUlYT0JMdWt",
-      "source_url": "https://tech.ifeng.com",
-      "source": "tech.ifeng.com"
+      "title": "临朐县“人工智能+产业”推介会议召开，山东移动潍坊分公司“通算智”一体化助力产业焕新",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ObHh1MmJia0tpeXdhNkpRdl9ybV8xLVVBYndvRVNVYmpuQzFJdGo1MFczbXkyUWxYX01ORExXMEU0X0JNTEJMcHN",
+      "source_url": "http://weifang.sdnews.com.cn",
+      "source": "鲁网"
     },
     {
-      "title": "今年秋招，公私募打响AI人才争夺战",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHU3aWo2b0I3ZTRHdkZta2dqOE1WNXAwS3MyUE1GVDlSV0pSSVJ3aHdQSk9rTGhtSHNNbXhPeHNkWV9qbnotazB",
+      "title": "轻工纺织产业“十五五”规划：推动AI赋能 加快研发重点行业垂直领域大模型",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56TnNwNnh6YThYVUw4MmlKWVVmMjN0RWYzLXhqZ3FpamhNTHdVNkVYY01kYnFxaDBoWkl6ejY0bHFyZnJEOTJWRFh",
+      "source_url": "https://www.guandian.cn",
+      "source": "观点网"
+    },
+    {
+      "title": "ETF今日收评 | 科创人工智能ETF涨超3%，油气相关ETF跌约2%",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkhlaEg3REc1dDZXRlFERVFhd3FvOFBaeEU0N09LaUJ4ZGRNUVVtRTZFNmR2SEFaMGFBekFRMFN5MU95UnBQeS1",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "Kimi向美国云巨头输出模型能力 国产大模型改写商业逻辑",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PWUNONzhmN3BzXzFYazBhYlNjYjZOVDJNalIzOHJjM0hiMVN0NFJZbkRzVHYwTHV4UTRWLXlrLV9aNkVRNXRjME9",
+      "source_url": "https://news.china.com",
+      "source": "中华网"
+    },
+    {
+      "title": "羚羊工业大模型3.5发布",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZaktTWjczWjJUMUxQNlkxQWhiQ0ZLWDBMYWhlR1FwejRRUUJKaGpwVnJWcDAxOUhfdWktVEZHX1cyZC1uVHJxbHJ",
+      "source_url": "http://m.cyol.com",
+      "source": "中青在线"
+    },
+    {
+      "title": "《轻工纺织产业发展“十五五”规划》印发：加快研发重点行业垂直领域大模型 开发应用面向轻工纺织全产业链",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0M2cEJzZmlsbVB0N3ZYMmxJSjB0S1Q4bVlfYlFlczZNUElUbUZzVVl1NWVNU2ptNkU0NHMtbW1JQ2R1TThodGN",
       "source_url": "https://finance.sina.cn",
       "source": "新浪财经"
-    },
-    {
-      "title": "报告：北京、杭州、深圳位列中国人工智能算力城市排名前三",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ORk1YY3hZZGNZVUlpRTNNaFluUmhXTjZoWDBGQUFDUmZaMWF1a2ZBakxJZjQxbXJiWWFiSmVWNzE3dDZ2YWQzX1Z",
-      "source_url": "https://news.sina.com.cn",
-      "source": "news.sina.com.cn"
-    },
-    {
-      "title": "贵安新区输电运维 开启AI值守新模式",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXVySVR1eGx0SVl3cFdUVmZQcFlOU2VDdmphbF93cEd6czZ2bUU5U1g0VHJfbXNodjlEN0RSSGhQcWFRQ3ZkNnd",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "青报经济述评 | 软件和信息服务业：激活AI新变量",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UVUlmZ3R6c1pMWC1DTGRjMFZDWVpXNGI1VlJUZEZBSHFWcEw2TU4zQ3hIM3EzcGVrdWxVUHgzd1Y0QnV4OUFfNWF",
-      "source_url": "https://www.dailyqd.com",
-      "source": "青岛日报"
-    },
-    {
-      "title": "百度智能云产业智能体可推动人工智能从技术形态转化为经济价值",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUVVN1c0OEFKZURiX3ZaRW9faEZhWl9mLUlfeXFEenJOYmZQQXUyV1lKcG1rTnNUY2pIQ0cxRl9wdFF6X0ZtUnh",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
     }
   ]
 }

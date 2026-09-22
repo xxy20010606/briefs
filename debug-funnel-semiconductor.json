@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 44,
-    "trusted": 19,
+    "raw_dedup_junk": 45,
+    "trusted": 21,
     "non_trusted_top": {
-      "sina.cn": 7,
-      "indexbox.io": 4,
-      "sina.com.cn": 3,
-      "mrjjxw.com": 1,
-      "eastmoney.com": 1,
-      "sphericalinsights.com": 1,
+      "sina.com.cn": 8,
+      "sina.cn": 6,
+      "jrj.com.cn": 2,
+      "caiwennews.com": 1,
+      "chosun.com": 1,
+      "shobserver.cn": 1,
       "china.com": 1,
-      "csdn.net": 1,
-      "idnfinancials.com": 1,
-      "jrj.com.cn": 1
+      "chnfund.com": 1,
+      "yeeyi.com": 1,
+      "futunn.com": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 9,
+    "fresh1_24h": 20,
+    "page_fresh": 17,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "凌晨全线暴拉，两大利好引爆，芯片股集体沸腾",
-      "d": "ifeng.com"
+      "t": "内部扩产、外部并购，银河微电斥超10亿元投建高端功率器件项目",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "美股成交额前20：Meta涨超11%居首 英特尔AMD飙升引爆芯片股",
-      "d": "eastmoney.com"
+      "t": "国产HBM突破环节算力供应瓶颈，半导体设备ETF易方达（159558）昨日“吸金",
+      "d": "sohu.com"
     },
     {
-      "t": "美股收盘：三大指数高开高走、纳指涨超2% 多只半导体芯片股大涨超10%",
-      "d": "eastmoney.com"
+      "t": "美股半导体指数大涨与AI应用登顶，算力芯片需求进入实质性拉动阶段",
+      "d": "sohu.com"
     },
     {
-      "t": "芯片半导体行业深度报告",
-      "d": "qq.com"
-    },
-    {
-      "t": "银河微电斥资10.78亿元投建高端器件产线 瞄准小信号器件、功率器件等产能缺口",
-      "d": "cls.cn"
-    },
-    {
-      "t": "芯德半导体港股上市，获证监会备案",
+      "t": "英特尔携手友达，Micro LED CPO要来了？",
       "d": "eet-china.com"
     },
     {
-      "t": "21:38:26【AMD涨超6%再度创下历史新高】",
-      "d": "cls.cn"
+      "t": "海光信息发布全新1000系列CPU，芯片设计领跑科技板块！科创芯片设计ETF国联",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "理想汽车总裁马东辉：马赫芯片、碳化硅模块可外供，电池包因适配性暂不开放_车市动态",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "外围利好来了！GPU龙头，暴涨（附股）",
+      "d": "10jqka.com.cn"
     }
   ]
 }

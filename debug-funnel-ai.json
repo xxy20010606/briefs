@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 62,
-    "trusted": 14,
+    "raw_dedup_junk": 66,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.com.cn": 17,
-      "sina.cn": 8,
-      "icloudnews.net": 3,
-      "mpaypass.com.cn": 2,
-      "dailyqd.com": 1,
-      "fxbaogao.com": 1,
-      "bjd.com.cn": 1,
-      "cnbeta.com.tw": 1,
-      "jfdaily.com.cn": 1,
-      "insilico.com": 1
+      "sina.cn": 15,
+      "sina.com.cn": 13,
+      "gz-cmc.com": 3,
+      "china.com": 2,
+      "rmzxw.com.cn": 2,
+      "sdnews.com.cn": 1,
+      "guandian.cn": 1,
+      "shandong.gov.cn": 1,
+      "xhby.net": 1,
+      "beijing.gov.cn": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 3,
-    "relaxed_72h": 10,
+    "fresh1_24h": 17,
+    "page_fresh": 14,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "当AI走入投研深处： 一场效率革命，一道行业新题",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "一文看懂昇腾超节点：AI Infra已进入系统工程阶段",
-      "d": "zhidx.com"
-    },
-    {
-      "t": "OpenAI突然收购，500万人Codex，永不下线",
-      "d": "36kr.com"
-    },
-    {
-      "t": "五角大楼：过度依赖AI大模型导致美国空袭造成123名伊朗儿童死亡",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "《2026年中国人工智能计算力发展评估报告》发布，智能体重塑算力基础设施，智能算",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "人工智能促进健康全球倡议2026年会召开，讯飞医疗以数智实践助力全球医疗AI治理",
+      "t": "ETF今日收评 | 科创人工智能ETF涨超3%，油气相关ETF跌约2%",
       "d": "sohu.com"
     },
     {
-      "t": "从阅读思辨到AI协同创新：“少年非常道”升级三大看点",
-      "d": "thepaper.cn"
+      "t": "羚羊工业大模型3.5发布",
+      "d": "cyol.com"
+    },
+    {
+      "t": "从 AI 工具到经营智能体：快手分销增长 Agent 实践",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "羚羊工业大模型3.5发布 三大智能体亮相2026世界制造业大会",
+      "d": "stdaily.com"
+    },
+    {
+      "t": "黑芝麻智能与协创数据达成战略合作_车市动态",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "华为全联接大会2026丨实力加冕！润和软件以科研智能化创新成果荣膺技术突破奖",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "全省首家！Token工厂正式落地南昌",
+      "d": "sohu.com"
     }
   ]
 }
