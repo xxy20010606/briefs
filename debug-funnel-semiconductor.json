@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 20,
+    "raw_dedup_junk": 45,
+    "trusted": 25,
     "non_trusted_top": {
       "sina.cn": 5,
       "sina.com.cn": 4,
-      "pedaily.cn": 2,
-      "techflowpost.com": 1,
+      "moomoo.com": 2,
+      "indexbox.io": 2,
+      "mydrivers.com": 1,
+      "zhiding.cn": 1,
+      "prnasia.com": 1,
+      "siscmag.com": 1,
       "guandian.cn": 1,
-      "zqrb.cn": 1,
-      "pjtime.com": 1,
-      "chosun.com": 1,
-      "chinaiol.com": 1,
-      "caizhongshe.cn": 1
+      "essra.org.cn": 1
     },
-    "fresh1_24h": 18,
-    "page_fresh": 14,
-    "relaxed_72h": 0,
+    "fresh1_24h": 19,
+    "page_fresh": 9,
+    "relaxed_72h": 10,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "满产后再投30亿！广州这家滤波芯片企业攻克“卡脖子”难题",
-      "d": "21jingji.com"
+      "t": "A股申购| 粤芯半导体(301660.SZ)开启申购为广东省首家进入量产的12英",
+      "d": "cnfol.com"
     },
     {
-      "t": "翻倍半导体牛股，涨停→炸板→涨停",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "广州黄埔新增5G/6G芯片总部基地",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "阿里2032年数据中心规模剑指20GW！佰维存储拟投45亿元扩产！芯片ETF汇添",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "半导体设备ETF易方达（159558）昨日获约2.5亿元净流入，机构称内存供应短",
+      "t": "粤芯半导体申购解读",
       "d": "ifeng.com"
     },
     {
-      "t": "粤芯半导体开启申购：拟募资62亿 阿里云与华工科技分别认购2亿",
-      "d": "ifeng.com"
+      "t": "玻璃基板行业催化不断 英特尔、京东方接连加码 机构建议关注三条主线",
+      "d": "cls.cn"
     },
     {
-      "t": "二季度全球半导体营收创历史新高，AI驱动全球存储厂商加速扩产丨盘前线索",
-      "d": "eastmoney.com"
+      "t": "展商名录公布！2026中国工博会集成电路展（国芯展）展前指南速看！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "SiC+氧化镓混合功率芯片企业，数亿元C轮融资完成",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "新加坡Nexstrom致力于将2D半导体推向芯片制造",
+      "d": "sohu.com"
+    },
+    {
+      "t": "深耕特色工艺晶圆代工赛道 粤芯半导体开启申购",
+      "d": "cnfol.com"
     }
   ]
 }

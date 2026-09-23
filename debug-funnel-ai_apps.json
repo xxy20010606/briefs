@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 55,
-    "trusted": 19,
+    "raw_dedup_junk": 36,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "sina.com.cn": 3,
-      "wenxuecity.com": 2,
-      "ebrun.com": 2,
-      "digitaltoday.co.kr": 2,
-      "baijing.cn": 2,
-      "caiwennews.com": 1,
-      "donews.com": 1,
-      "myzaker.com": 1,
-      "panewslab.com": 1
+      "zhiding.cn": 3,
+      "ebrun.com": 3,
+      "sina.cn": 2,
+      "ac.cn": 2,
+      "66wz.com": 1,
+      "mk.co.kr": 1,
+      "aboluowang.com": 1,
+      "pedaily.cn": 1,
+      "xhby.net": 1,
+      "x.com": 1
     },
-    "fresh1_24h": 19,
-    "page_fresh": 17,
-    "relaxed_72h": 0,
+    "fresh1_24h": 10,
+    "page_fresh": 1,
+    "relaxed_72h": 7,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "政务热线治理智能体发布，推动12345走向“未诉先治”",
+      "t": "贯穿诊疗全链条 AI为健康保驾护航",
       "d": "sohu.com"
     },
     {
-      "t": "AI能力满天飞，实用才是分水岭：2026海外媒体大陆代理商真实力剖析",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "阿里千问AI平台全面升级模型服务、Agent服务、AI应用",
-      "d": "qbitai.com"
-    },
-    {
-      "t": "AI智能体Muse爆发式走红，业内判断：AI终端将从工具走向伙伴",
+      "t": "英伟达发布Isaac ROS 5.0 助力智能体化机器人开发",
       "d": "sohu.com"
     },
     {
-      "t": "2026免费AI口语APP实测：「咕噜口语」登顶榜首",
-      "d": "ifeng.com"
+      "t": "“手搓”AI工具！看龙岗干部如何把AI用进一线日常？",
+      "d": "sohu.com"
     },
     {
-      "t": "智算需求爆发！创业板算力ETF华夏盘中成交额超2.7亿元，位居同指数第一",
-      "d": "163.com"
+      "t": "AI应用数量激增至四倍但下载量与使用时长未增长，a16z称市场正被App-Slo",
+      "d": "huxiu.com"
     },
     {
-      "t": "提前押注机器智能！阿里CEO吴泳铭：机器思考总量不到人类3%，未来将达人类100",
-      "d": "time-weekly.com"
+      "t": "千人专列直奔杭州！义乌老板组团来数贸会“抢”AI商机",
+      "d": "sohu.com"
+    },
+    {
+      "t": "云栖大会观察：千问办公的缘起、突破和未来，从个人提效到组织复利提效！",
+      "d": "sohu.com"
+    },
+    {
+      "t": "端侧算力，生态共进 | 亿道集团签约共建 FDE 系统底座",
+      "d": "sohu.com"
     }
   ]
 }

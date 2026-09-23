@@ -2,53 +2,53 @@
   "type": "ai",
   "stages": {
     "raw_dedup_junk": 56,
-    "trusted": 20,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "sina.cn": 7,
-      "weeklyonstock.com": 2,
-      "pedaily.cn": 2,
-      "globalpod.cn": 2,
-      "qianjia.com": 1,
+      "sina.cn": 12,
+      "sina.com.cn": 11,
+      "ac.cn": 3,
       "mrjjxw.com": 1,
-      "cctime.com": 1,
-      "mydrivers.com": 1,
-      "sfccn.com": 1
+      "sfccn.com": 1,
+      "leaderobot.com": 1,
+      "66wz.com": 1,
+      "scol.com.cn": 1,
+      "cnfin.com": 1,
+      "wicinternet.org": 1
     },
-    "fresh1_24h": 19,
-    "page_fresh": 17,
-    "relaxed_72h": 0,
+    "fresh1_24h": 16,
+    "page_fresh": 5,
+    "relaxed_72h": 10,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "大华股份荣获中国（广西）-东盟“人工智能＋应急管理”科技创新大赛二等奖",
+      "t": "AI新物种Jev刷屏：一个不会聊天的新模型，凭什么放话Claude Code时代",
+      "d": "36kr.com"
+    },
+    {
+      "t": "AI制药的火，烧到了“产业中游”",
+      "d": "36kr.com"
+    },
+    {
+      "t": "荣耀通过端侧大模型备案，广东累计已有195款备案大模型",
       "d": "sohu.com"
     },
     {
-      "t": "中国电信北京公司“5+3+1”让大模型价值真正落地",
-      "d": "stdaily.com"
+      "t": "不讲PPT，让AI直接干活：深圳湾芯展，我们搞一场“生产力智能体沙龙”",
+      "d": "eet-china.com"
     },
     {
-      "t": "马斯克罕见定调：中国AI算力缺口，两年内就能补齐？",
-      "d": "sohu.com"
+      "t": "英特尔、华硕共推专享款WorkBuddy电脑 PC成Agent商用渗透关键触点",
+      "d": "cls.cn"
     },
     {
-      "t": "AI重塑科学研究新范式 广东“人工智能+”科技成果亮相",
-      "d": "stdaily.com"
+      "t": "AI时代双重收割：用户为使用模型付费并泄露专业知识",
+      "d": "huxiu.com"
     },
     {
-      "t": "马斯克：中国AI大模型单位算力产出近全球顶尖，2-3年补齐算力缺口",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "华为大模型双子星联手造物理基模，刚融资数亿元",
-      "d": "zhidx.com"
-    },
-    {
-      "t": "Jev 的「百亿补贴」迷局：既然「极省」为何还要狂送 1.2 亿 Token？",
-      "d": "leiphone.com"
+      "t": "实验室里来了“AI科学家”，广东“AI+科创”全链条加速成形",
+      "d": "21jingji.com"
     }
   ]
 }

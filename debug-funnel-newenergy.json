@@ -1,54 +1,46 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 51,
-    "trusted": 12,
+    "raw_dedup_junk": 27,
+    "trusted": 5,
     "non_trusted_top": {
-      "sina.com.cn": 10,
-      "sina.cn": 5,
+      "sina.com.cn": 6,
       "autohome.com.cn": 4,
-      "ne21.com": 3,
-      "in-en.com": 2,
-      "icloudnews.net": 1,
+      "sina.cn": 3,
+      "caiwennews.com": 1,
+      "cfi.net.cn": 1,
+      "ichaoqi.com": 1,
+      "in-en.com": 1,
       "seetao.com": 1,
-      "zhonghongwang.com": 1,
-      "xfrb.com.cn": 1,
-      "qianjia.com": 1
+      "futunn.com": 1,
+      "vietnam.vn": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 10,
-    "relaxed_72h": 2,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 5,
+    "page_fresh": 1,
+    "relaxed_72h": 4,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "交付快讯 | 冠隆电力欧洲2MW/8.36MWh公交场站微电网项目落地",
-      "d": "solarbe.com"
+      "t": "从电站到卫星太阳翼 新能源应用场景“上天入地”|直击世界制造业大会",
+      "d": "cls.cn"
     },
     {
-      "t": "2026中国民企500强出炉：新能源与储能制造力量持续崛起",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "恒大汽车转型卖储能电池",
-      "d": "sohu.com"
-    },
-    {
-      "t": "从DM到刀片电池：比亚迪混动安全逻辑",
+      "t": "闪耀英伦！科士达亮相英国太阳能暨储能展",
       "d": "ifeng.com"
     },
     {
-      "t": "德媒：塔塔电动车电耗赢了特斯拉比亚迪，印度终于拿到“世界第一”",
+      "t": "大同：稳煤优能筑底盘打造多能互补新型能源之城",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "乘联分会：电池头部企业聚集效应放缓，宁德时代和比亚迪电池需求占比降至63%",
       "d": "sohu.com"
     },
     {
-      "t": "昔日全球最大储能电站又燃：储能狂飙背后，安全这道坎如何迈过？",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "新能源板块景气不改，南方基金旗下新能源ETF南方(516160)跟踪标的指数昨日",
-      "d": "jiemian.com"
+      "t": "暖城好风光 绿色产业在成长",
+      "d": "sohu.com"
     }
   ]
 }

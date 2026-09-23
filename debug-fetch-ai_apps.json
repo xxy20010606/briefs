@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 55,
+  "total": 36,
   "samples": [
     {
-      "title": "阿里千问AI平台升级，Agent从“被调用”走向“被交付”",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01MGpVYlh0amliM0VPZ0FjTlFLZnlUNmxuMUtabjhCd0h3RC10dlkybEp3RVY1TTZ0N0phdzNWRFRrOE9GSFRfUVZ",
-      "source_url": "https://www.caiwennews.com",
-      "source": "caiwennews.com"
-    },
-    {
-      "title": "政务热线治理智能体发布，推动12345走向“未诉先治”",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGg5cVJmaFRXMlJyR21EQWhmQjk0ckFYNjQyVk5kV3ZmNGZwU1pvcU5FbnBsb19hTW5wSEwxS2NuMlh3dzExdUJ",
+      "title": "贯穿诊疗全链条 AI为健康保驾护航",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaFYxQ0l2dWwwNlRUMDloWGp6VUl3ZnVEaklVXzNBMXFYelhKRE9YQ3lGSzZTLUNuc0ZCUDVibXZuZVc5R3o3RTd",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "AI能力满天飞，实用才是分水岭：2026海外媒体大陆代理商真实力剖析",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kTGwzemJ2UHc3aFJwR3hVTFNqV1JnMVJRQ3pybEpmRTJJaUVKSWx6aWtUbjc5b1ZLMm9FelFfczdyclY3ZExOdHU",
-      "source_url": "https://tech.ifeng.com",
-      "source": "凤凰网科技"
+      "title": "LinkedIn推出新工具打击虚假账号与履历造假-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wU2Q3NHA5bzZzTkJua3ZiYlNVanBHaHVxQjVCcHhnSjgwYzhJbXRJTmlVRWVQVEt0X3dRTE04djRSY2VfSUF0UHp",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
     },
     {
-      "title": "微软拟推Copilot大幅折扣及超级AI应用",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4Wms2UmFBU0VEWDM2RnM5cEhDa0prY0tMV2VOanhDRTE0ejJHZ0NVZkF2U3lGREJmWkRHS3ViNkFtZlRmZEZZS3h",
-      "source_url": "https://www.donews.com",
-      "source": "donews.com"
-    },
-    {
-      "title": "Muse下载量登顶点燃引爆AI Agent！ 机构：基础软件有望率先受益- 21世纪经济报道",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1cE0zS0szcU9DVXRCR2s4bGNVeXBPeEpvNkRaMENNNnlJTTlrdnZXdjU4LXpSSlBDZWZ1b0hzMVRoM3lsbXBjRm9",
-      "source_url": "https://app.myzaker.com",
-      "source": "ZAKER新闻"
-    },
-    {
-      "title": "数贸会观察｜“我提到电商就头痛”，一位围裙商户被AI带进了国际站",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2Vad3JTTlpDQ0Zza3Byc3V5UlMzWTRpNGZrWFVkbXRJRFh1QnI0VnhoR1pYYnNYaTEwdkJuZ2FnTHc3aTdVdW9",
+      "title": "比尔·盖茨：未来两年至少投入10亿美元推动更加公平的AI应用",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY18yc2ppb2t5cWNOMmt2cUNsRHlNai1KbU54Z1RUNWdGY0Q4Sm00b2hhRlNOTXZaNFZnYTJjR3lvWGQtMnUtWFV",
       "source_url": "https://finance.sina.cn",
       "source": "finance.sina.com.cn"
+    },
+    {
+      "title": "透过数贸会，看清AI的三种样子",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaeElJLTl5R3U0Nks3dnhjVnNjcUJVakh0V1ZWTFpiNzNXczRWZ2V3SGhhSlpmbFZKZ3l5MUtvWFVDUFVXWEVzWVN",
+      "source_url": "https://www.66wz.com",
+      "source": "温州新闻"
+    },
+    {
+      "title": "英伟达发布Isaac ROS 5.0 助力智能体化机器人开发",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcjlZRTdEc3ZoTURtdHY5VFl2SUlTWW1sbUVHWGtiZGlKU0hrUVR5OHdLV25sXzhkemtGUjQ2Z24zVWFkUzlUWXU",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "“手搓”AI工具！看龙岗干部如何把AI用进一线日常？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeXdQdFRmTUxIRjNiNld6N253SXVLalNpSkdqNmhHM3h6Vk9RU2I5eVlPLTFBNmtKbURDZERJRkRFRVF4Z1FLNkt",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     }
   ]
 }
