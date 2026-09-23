@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 55,
-    "trusted": 16,
+    "raw_dedup_junk": 58,
+    "trusted": 19,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "sina.com.cn": 5,
+      "sina.cn": 13,
+      "sina.com.cn": 4,
       "360.com": 3,
       "rediandf.com": 3,
-      "china.com": 3,
+      "mk.co.kr": 1,
+      "3dmgame.com": 1,
       "starnewskorea.com": 1,
       "17173.com": 1,
-      "zhibo8.com": 1,
-      "hk01.com": 1,
-      "shangbaoindonesia.com": 1
+      "donews.com": 1,
+      "vietnam.vn": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 8,
+    "fresh1_24h": 18,
+    "page_fresh": 17,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "厚啦厚啦，今晚看林看山了啦！#今天也在交锋##电视剧交锋#",
+      "t": "中秋档16部电影，能活下来的只有3部，最惨票房122元",
       "d": "sohu.com"
     },
     {
-      "t": "交锋较量开局# #交锋今日开播#何春晓报到！笔墨记录线索，暗战正式启幕",
+      "t": "20余部新片整装待发，电影中秋档国庆档有啥亮点",
       "d": "sohu.com"
     },
     {
-      "t": "中秋档电影预售票房突破2000万元",
-      "d": "ce.cn"
+      "t": "电影《追光者》首映式在南宁举行",
+      "d": "xinhuanet.com"
     },
     {
-      "t": "读懂票房“长尾”里的电影产业新空间",
-      "d": "ce.cn"
+      "t": "不顾央媒警告顶风作案，明星扎堆开唱，演唱会怎么变成造富机器的",
+      "d": "163.com"
     },
     {
-      "t": "谜一样的变奏",
-      "d": "gmw.cn"
+      "t": "第五届华语纪录电影大会在穗启幕",
+      "d": "china.com.cn"
     },
     {
-      "t": "纪录片《苏门清风》：小家清风涵养大家风骨",
-      "d": "gmw.cn"
+      "t": "电影创作与城市IP“牵手” 西安举办电影与城市IP联动活动",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "2026成都市残健融合交响音乐会温情奏响",
-      "d": "cnr.cn"
+      "t": "黄渤、常远、孟京辉、刘钧“喜聚”青岛 共话喜剧之市井根脉",
+      "d": "chinanews.com.cn"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 46,
-    "trusted": 29,
+    "raw_dedup_junk": 43,
+    "trusted": 20,
     "non_trusted_top": {
       "sina.cn": 5,
-      "sina.com.cn": 2,
-      "caam.org.cn": 1,
-      "hizh.cn": 1,
-      "futunn.com": 1,
-      "ab-sm.com": 1,
-      "gz-cmc.com": 1,
-      "jrj.com.cn": 1,
-      "ycnews.cn": 1,
-      "indexbox.io": 1
+      "sina.com.cn": 4,
+      "pedaily.cn": 2,
+      "techflowpost.com": 1,
+      "guandian.cn": 1,
+      "zqrb.cn": 1,
+      "pjtime.com": 1,
+      "chosun.com": 1,
+      "chinaiol.com": 1,
+      "caizhongshe.cn": 1
     },
-    "fresh1_24h": 26,
-    "page_fresh": 10,
-    "relaxed_72h": 13,
+    "fresh1_24h": 18,
+    "page_fresh": 14,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "美股存储芯片四巨头，集体大涨",
-      "d": "10jqka.com.cn"
+      "t": "满产后再投30亿！广州这家滤波芯片企业攻克“卡脖子”难题",
+      "d": "21jingji.com"
     },
     {
-      "t": "国科半导体携多款红外探测器与激光器芯片亮相光博会",
-      "d": "eet-china.com"
+      "t": "翻倍半导体牛股，涨停→炸板→涨停",
+      "d": "21jingji.com"
     },
     {
-      "t": "黄仁勋：明年芯片销量将翻2倍！",
-      "d": "eet-china.com"
+      "t": "广州黄埔新增5G/6G芯片总部基地",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "海光信息发布首款嵌入式工控CPU 加速拓展边端设备市场",
-      "d": "cls.cn"
+      "t": "阿里2032年数据中心规模剑指20GW！佰维存储拟投45亿元扩产！芯片ETF汇添",
+      "d": "jiemian.com"
     },
     {
-      "t": "欧洲市值最高的企业，竟在欧洲本土“零销售”",
-      "d": "cls.cn"
-    },
-    {
-      "t": "路演互动丨粤芯半导体9月23日新股发行网上路演",
+      "t": "半导体设备ETF易方达（159558）昨日获约2.5亿元净流入，机构称内存供应短",
       "d": "ifeng.com"
     },
     {
-      "t": "阿斯麦：欧洲缺投资、缺工厂、缺业务，反观中美印…",
-      "d": "sohu.com"
+      "t": "粤芯半导体开启申购：拟募资62亿 阿里云与华工科技分别认购2亿",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "二季度全球半导体营收创历史新高，AI驱动全球存储厂商加速扩产丨盘前线索",
+      "d": "eastmoney.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 50,
+  "total": 56,
   "samples": [
     {
-      "title": "新机遇 新动能 新突破",
-      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOY0tNZnpBTnRIN1hXUUllTlJzTS0ybWZCT2p3bWZBYmIwNTZxcXNIazYzY0RkQkV4U0x4amIxaFI5Y2MxNDE1R3l",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经_金融信息服务商"
+      "title": "2030年前AI数据中心的6大趋势",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IczVNSUhrTlNKdjFtLWJnNDJucUJOTnMzRUtEbC1WZkxlQ3J3dFQ1SldwUmY3RklnUGJjRS1yanR1eERWNG1CS1A",
+      "source_url": "https://www.qianjia.com",
+      "source": "千家网"
     },
     {
-      "title": "报告：预计中国多光谱AI市场规模2030年将达到794亿元",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVBvQ3g3YzhzbnZYbHdYVlBtUTBXcDNZQUl2WHlpTWU3bHl6QjZLLWRqanRLY1VpVUtIS2hsRUNOb3FTSDNUeTB",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经_金融信息服务商"
+      "title": "大华股份荣获中国（广西）-东盟“人工智能＋应急管理”科技创新大赛二等奖",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd0FNNl9PV1JPQWN3bzhSV2lhNS1WMmRrQ1V5SkFxZmRsbnZreWltRVlKTXRLWmVBUTdWZmc3NzQ5VWJUaW93c0t",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "AI从“回答问题”走向“自主行动”，上理工管理学院提醒新生守住独立判断",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUZvSmZzX21Sb2lhT0tJbzZ1T2xLci1ZckNnWk1yOXRfMmVialdjUnRVRzB6OUFoMWxsRU5ZNTJFWW94SGltWGU",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经_金融信息服务商"
+      "title": "带着Agent逛云栖：大模型竞赛转向，企业AI为何仍困在最后100米？",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HX3B6NDVsUTkxUVJ6NnJKWldzSktIWXJsU25fMnJSOHJSdmZMVkVZS0tqTndVa3R5X3J1bVV4U2FJbUxVcjU0NWJ",
+      "source_url": "https://www.mrjjxw.com",
+      "source": "mrjjxw.com"
     },
     {
-      "title": "香港和长三角AI产业加速发展| 香港贸易发展局经贸研究",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0NHNMSXVSdlBCOHdNUzZnbWZyelBkTE05VnBOZnFaWTBvSVNQSEd1SnFLdnJhR0xyQ0o1TjJPWk4xcm5qcFBsZ2F",
-      "source_url": "https://research.hktdc.com",
-      "source": "HKTDC Research"
+      "title": "PT展大咖谈︱亚派科技丁高辉：深耕智能配电与能效管理，护航算力时代用电安全",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92aGtwRUxTa1k5TTdRbXF3Z0Vhem9wa0xNY0xfNTNfUDFXWDRDRVgwa0FBYVVFYTRwNnVRMWZKRFRoTUhQNEVJQUI",
+      "source_url": "http://www.cctime.com",
+      "source": "飞象网"
     },
     {
-      "title": "Kimi K3落地亚马逊旗下大模型服务平台 中国大模型站上全球博弈牌桌",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3a3pVVmJHNkNqNmFIekpMWDVYc2p0M3RfbjVlZHVKSlktSERWSE5TX1ViX3h2SlgwQ1gtcnVaUGg3eF9KenpVc01",
-      "source_url": "https://t.cj.sina.cn",
-      "source": "t.cj.sina.cn"
-    },
-    {
-      "title": "安全与普惠如何兼得？全国首个生成式人工智能安全测试公共服务平台发布",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UcU5zWFdTbDBtMjh1ZmpYei1tNWJVb3lHaEQ3ck1kelQzbXI1QVl1dG5ZX1NVdFNuSHZOMXd6S3JWb3VNNkhzVXh",
+      "title": "深度｜千亿Token与浅层落地（上）：保险AI的竞争，不在模型里",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fVV9SQkJXQTFoTV8tdjJjVHZ3dzV2QmtUOGhxSjdEXzFNLU1aZHpRdFB3NkU4UUtsMzRPUmNFejhJRHZ2WUhSdTN",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
+    },
+    {
+      "title": "中国电信北京公司“5+3+1”让大模型价值真正落地",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGRlI0NGRma0xIRzFicWxvSUp2TDJ0cE0zRmRSUXpaaS1hTjM1dzEzLUFXOVFja0FmdndTMWs4dEtoUWpHTjVGUjE",
+      "source_url": "https://www.stdaily.com",
+      "source": "中国科技网"
     }
   ]
 }

@@ -1,43 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 34,
-    "trusted": 5,
+    "raw_dedup_junk": 51,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.com.cn": 13,
-      "autohome.com.cn": 9,
-      "ne21.com": 2,
-      "eastmoney.com": 2,
-      "idnfinancials.com": 1,
-      "voi.id": 1,
-      "dialogue.earth": 1
+      "sina.com.cn": 10,
+      "sina.cn": 5,
+      "autohome.com.cn": 4,
+      "ne21.com": 3,
+      "in-en.com": 2,
+      "icloudnews.net": 1,
+      "seetao.com": 1,
+      "zhonghongwang.com": 1,
+      "xfrb.com.cn": 1,
+      "qianjia.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 0,
-    "relaxed_72h": 5,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 12,
+    "page_fresh": 10,
+    "relaxed_72h": 2,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "光伏、储能培训班 | 光储协同运营管理高级研修班开始报名啦！",
+      "t": "交付快讯 | 冠隆电力欧洲2MW/8.36MWh公交场站微电网项目落地",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "2026中国民企500强出炉：新能源与储能制造力量持续崛起",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "恒大汽车转型卖储能电池",
       "d": "sohu.com"
     },
     {
-      "t": "星星充电发布场景微电网战略 加快拓展综合能源服务新未来",
+      "t": "从DM到刀片电池：比亚迪混动安全逻辑",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "德媒：塔塔电动车电耗赢了特斯拉比亚迪，印度终于拿到“世界第一”",
       "d": "sohu.com"
     },
     {
-      "t": "邹才能院士：两匹“黑马”改写全球能源格局，中国新能源革命正成“大浪潮”",
-      "d": "sohu.com"
+      "t": "昔日全球最大储能电站又燃：储能狂飙背后，安全这道坎如何迈过？",
+      "d": "21jingji.com"
     },
     {
-      "t": "非常缺人！比亚迪紧急招聘近1万人，部分岗位还有6000元奖励",
-      "d": "nbd.com.cn"
-    },
-    {
-      "t": "比亚迪1万美元电车迎“大改款”，实拍图首曝光",
-      "d": "sohu.com"
+      "t": "新能源板块景气不改，南方基金旗下新能源ETF南方(516160)跟踪标的指数昨日",
+      "d": "jiemian.com"
     }
   ]
 }

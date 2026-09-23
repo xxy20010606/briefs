@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 42,
-    "trusted": 12,
+    "raw_dedup_junk": 58,
+    "trusted": 21,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "moomoo.com": 7,
+      "sina.cn": 11,
+      "moomoo.com": 10,
       "sina.com.cn": 4,
-      "ua.news": 1,
-      "cryptorank.io": 1,
-      "indexbox.io": 1,
-      "ntdtv.com": 1,
-      "sinchew.com.my": 1,
-      "jin10.com": 1,
-      "fx678.com": 1
+      "futunn.com": 3,
+      "yeeyi.com": 1,
+      "idnfinancials.com": 1,
+      "nai500.com": 1,
+      "tradingkey.com": 1,
+      "aboluowang.com": 1,
+      "cryptorank.io": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 1,
-    "relaxed_72h": 6,
+    "fresh1_24h": 21,
+    "page_fresh": 16,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
+      "t": "科瑞技术拟定增募不超7.52亿控股股东累计套现5.15亿_证券要闻",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "港股异动| 航空股悉数上扬地缘局势缓和油价五连跌双节临近出行热度走高_股市直播_",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "荷兰央行转移86吨黄金引发新一轮黄金回家潮，地缘冲突与美债危机推动各国运回黄金",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "特朗普：中期选举后美伊或达成协议；纳指创新高，存储概念股普涨｜21早新闻",
+      "d": "21jingji.com"
+    },
+    {
       "t": "港股早报｜李强强调加快培育壮大新兴产业和未来产业 热门中概股普涨",
-      "d": "cls.cn"
-    },
-    {
-      "t": "智能戒指制造商Oura(OURA.US)IPO定价40-44美元/股拟募资21亿",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "港股异动| 纸业股多数走低供大于求格局难以扭转机构料纸价或延续承压运行_股市直播",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "港股异动| 阿里健康(00241)跌超3% 公司面临多因素影响机构指其盈利增长前",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "美股三大指数小幅高开，阿里巴巴涨超4%_市场分析",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "晚报丨伊朗被曝提“7天重开霍尔木兹”方案，代表团获权推动对美外交接触，美油跌破9",
       "d": "eastmoney.com"
     },
     {
-      "t": "港股收评：恒指、恒科齐涨；软件、传媒上涨；半导体午后走低；建材、造纸、交运跌幅居",
+      "t": "科技硬件仍是后市重要投资主线",
       "d": "eastmoney.com"
+    },
+    {
+      "t": "XL二南方海力士(07709)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
     }
   ]
 }

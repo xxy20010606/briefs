@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 17,
+    "raw_dedup_junk": 56,
+    "trusted": 20,
     "non_trusted_top": {
-      "sina.com.cn": 12,
+      "sina.com.cn": 7,
       "sina.cn": 7,
-      "gz-cmc.com": 3,
-      "bjd.com.cn": 3,
-      "quasa.io": 2,
-      "hktdc.com": 1,
-      "prnasia.com": 1,
-      "jrj.com.cn": 1,
-      "53ai.com": 1,
-      "icloudnews.net": 1
+      "weeklyonstock.com": 2,
+      "pedaily.cn": 2,
+      "globalpod.cn": 2,
+      "qianjia.com": 1,
+      "mrjjxw.com": 1,
+      "cctime.com": 1,
+      "mydrivers.com": 1,
+      "sfccn.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 0,
-    "relaxed_72h": 16,
+    "fresh1_24h": 19,
+    "page_fresh": 17,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "从AI大模型到数字人直播，南京如何抢占电商产业下一个风口？",
+      "t": "大华股份荣获中国（广西）-东盟“人工智能＋应急管理”科技创新大赛二等奖",
       "d": "sohu.com"
     },
     {
-      "t": "林毅夫：中国AI开源模式将缩小不同经济体收入差距",
-      "d": "caixin.com"
+      "t": "中国电信北京公司“5+3+1”让大模型价值真正落地",
+      "d": "stdaily.com"
     },
     {
-      "t": "新一批临床刚需来袭，广东为何成“AI+医疗”热土？",
-      "d": "21jingji.com"
+      "t": "马斯克罕见定调：中国AI算力缺口，两年内就能补齐？",
+      "d": "sohu.com"
     },
     {
-      "t": "青少年AI素养提升报告：第一代“AI原住民”如何学会“驾驭”AI？",
-      "d": "cyol.com"
+      "t": "AI重塑科学研究新范式 广东“人工智能+”科技成果亮相",
+      "d": "stdaily.com"
     },
     {
-      "t": "中国模型出海的“极致性价比”：调用量稳居全球第一，成本优势从何而来？",
+      "t": "马斯克：中国AI大模型单位算力产出近全球顶尖，2-3年补齐算力缺口",
       "d": "ifeng.com"
     },
     {
-      "t": "算力、大模型、应用成为云栖大会热议词",
-      "d": "eastmoney.com"
+      "t": "华为大模型双子星联手造物理基模，刚融资数亿元",
+      "d": "zhidx.com"
     },
     {
-      "t": "“千机进厂”：AI重塑广东制造，具身智能迎场景落地潮",
-      "d": "21jingji.com"
+      "t": "Jev 的「百亿补贴」迷局：既然「极省」为何还要狂送 1.2 亿 Token？",
+      "d": "leiphone.com"
     }
   ]
 }
