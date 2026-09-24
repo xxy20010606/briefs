@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 27,
+  "total": 45,
   "samples": [
     {
-      "title": "重磅！科技利好来了，新一轮行情即将开始？",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQmhJdUJndmlpVDZaMGlzZks1ODhTTVRwdWFnclNjbXlMVlUxQ3lralctd3ppVERyQ3QyX0x6T1ZmQ2Eyb2NaeUJ",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
+      "title": "Meta推出AI游戏开发工具，竞争对手股价应声下跌",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrbUFpSHVyN2V4SUlscmNGak9ZYXJHTnh3bk9EMXpIby1pLU1nd3BSck8wNF9Ja2xYR2QxNTdacFJuZjA3emc2c1d",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "车企智能化竞赛，不能只盯着座舱与智驾",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSERyQnktbDJCcjE3ei1zbkNUOUwxM0tFVnJEdkdnNnZjOGJiQU5VaW5RclJoVTJzMlN6UDVRRmZkemo2YVNLX2J",
+      "title": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04WmRlVFlSbEVEOTZTd3hQUjNBR0VkRTNheUtpUkNUNVlGOE00MkdzazJycTg0aGVVeTdUWDYwZkdBdXh6eFdWM0R",
+      "source_url": "https://m.36kr.com",
+      "source": "36kr.com"
+    },
+    {
+      "title": "Meta 推出 Horizon Create 与 Horizon Studio AI 游戏工具",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDQ5Q051c3hxaGJLbXI1ZHR2NGhRX0FUX3NBSWU4TkRaZG1sc3FLV191TldpUEJXWXVGU1VaNmsySkpoS2lGZEp",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
+    },
+    {
+      "title": "独立开发者半年打磨HTTPS抓包工具ApiCatcher：AI生成脚本正则，对标Proxyman",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iR1RLZFFHS1FoSVhxOFJCYjZ6cU44UTVyVDFxV0ZuM0VWeWkyakFuenZ2QUl5NGpRT1hoN19HZGlJTFZ2bVcyN3R",
+      "source_url": "https://www.80aj.com",
+      "source": "80aj.com"
+    },
+    {
+      "title": "联邦航空局测试AI驱动的空中交通管理工具-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jZGpwWG1faU8yMno5T1c3ME44N0pGTzJWVTM2cjB0b2lnU3cxZ3RvVVNsRE1SdFJnM3ROMWQ4VTZ0WFZGeFpZNFN",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
+    },
+    {
+      "title": "从AI工具到AI驱动，阿里云重构企业生产力与组织边界",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT3ZiczZPU25nYk5SNkxKMjBjenJ2T3BZNUQ1YTVLdl9zZUJwQnBHNnN4LXlQRjZOSTVSeGlkRmUyVTNEOHRtYzl",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
-    },
-    {
-      "title": "人工智能增强工具在非结构化医疗报告肿瘤数据提取中的应用：瑞士东部癌症登记处真实世界实施评估",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkaDdwZC1MdFFwSDRjUGc4SkgwTTU4eFhKN1pjSHI2TThmV1dxLWhVUnVWTEVxMG5sbGNLdXFLb3ZBWjBZZFRkUVF",
-      "source_url": "https://www.ebiotrade.com",
-      "source": "生物通"
-    },
-    {
-      "title": "爱奇艺龚宇：AI是内容创作的增效工具，而非流水线生产的替代品 ｜#AI资讯# #爱奇艺# #内容创作",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMWxLTmMtODIyQVhPcmNsN29kbHJlekpZU0tKMGdQajB1aC1Cb3BlUUlBbEpMWVN5OVFfeGhKdjNNRmVUUkdMeHl",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "微软发布 Ink Canvas 应用：以手写笔为核心联动 Copilot ｜#AI资讯# #Micr",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORE9ERE1PUjlmZFVVYnBRTkt2NWtyM0NJSG1qYVNkU0R0VTFYQ2NLX0wyME4tejU3bGM4QWFzcnNjejd3UWJwWkZ",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "世界上最有价值的见解并未写在公开网页上--来自“专家库AI”的思考",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Tc1hJRmdzNnRHUjJzSU5tNnVyZE1aWVBpUENLNDdsNkdEZUFFZTllUXQ0Sm5hYk1uMzZNcTlDU0NoTDJtUFFpOWx",
-      "source_url": "https://wallstreetcn.com",
-      "source": "华尔街见闻"
     }
   ]
 }

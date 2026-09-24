@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 47,
-    "trusted": 24,
+    "raw_dedup_junk": 33,
+    "trusted": 18,
     "non_trusted_top": {
-      "sina.cn": 7,
-      "aboluowang.com": 2,
-      "mydrivers.com": 2,
-      "sina.com.cn": 2,
-      "indexbox.io": 2,
+      "sina.cn": 4,
+      "indexbox.io": 1,
+      "mydrivers.com": 1,
       "china.com": 1,
-      "jrj.com.cn": 1,
-      "guandian.cn": 1,
-      "notebookcheck-cn.com": 1,
-      "vanpeople.com": 1
+      "sina.com.cn": 1,
+      "donews.com": 1,
+      "chosun.com": 1,
+      "futunn.com": 1,
+      "nai500.com": 1,
+      "hstong.com": 1
     },
-    "fresh1_24h": 24,
-    "page_fresh": 19,
-    "relaxed_72h": 0,
+    "fresh1_24h": 15,
+    "page_fresh": 5,
+    "relaxed_72h": 11,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "半导体ETF鹏华(159813)盘中净申购5000万份，龙头公司将打造国产化内存",
-      "d": "eastmoney.com"
+      "t": "展商名录公布！2026中国工博会集成电路展（国芯展）展前指南速看！",
+      "d": "eet-china.com"
     },
     {
-      "t": "深耕特色工艺晶圆代工赛道 粤芯半导体开启申购",
-      "d": "21jingji.com"
+      "t": "预计硅晶圆价格将在2027年再涨40%！",
+      "d": "eet-china.com"
     },
     {
-      "t": "美专家曾言: 西方玩家小心！28nm 以上成熟制程未来或会被中国卷崩!",
+      "t": "16:41:09【美股芯片半导体股票盘前走低 多股跌超2%】",
+      "d": "cls.cn"
+    },
+    {
+      "t": "富满微(SZ300671)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
+    },
+    {
+      "t": "粤芯半导体上市今日申购！",
       "d": "sohu.com"
     },
     {
-      "t": "三季报业绩或延续高增！半导体概念局部回暖，关注5个方向机会",
-      "d": "163.com"
+      "t": "美股芯片股，全线下跌",
+      "d": "21jingji.com"
     },
     {
-      "t": "新思科技与台积电深化合作，加速AI芯片设计研发，半导体ETF博时(159582)",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "中签率较高！粤芯半导体今日申购，顶格申购需持128万市值",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "粤芯半导体即将登陆创业板 加速集成电路全产业链国产化",
-      "d": "eastmoney.com"
+      "t": "香港微电子研发院：两条第三代半导体芯片中试线将于12月运营",
+      "d": "21jingji.com"
     }
   ]
 }

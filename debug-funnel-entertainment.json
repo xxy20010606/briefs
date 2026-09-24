@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 51,
-    "trusted": 11,
+    "raw_dedup_junk": 58,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "rediandf.com": 6,
-      "yzwb.net": 4,
-      "sina.com.cn": 2,
-      "cztv.com": 2,
-      "china.com": 2,
-      "creaders.net": 1,
-      "17173.com": 1,
-      "hkong.cn": 1,
-      "shanghai.gov.cn": 1
+      "sina.cn": 7,
+      "sina.com.cn": 7,
+      "rediandf.com": 4,
+      "bjd.com.cn": 4,
+      "360.com": 3,
+      "gz-cmc.com": 2,
+      "epochtimes.com": 1,
+      "autohome.com.cn": 1,
+      "jfdaily.com.cn": 1,
+      "cnjiwang.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
+    "fresh1_24h": 12,
+    "page_fresh": 3,
+    "relaxed_72h": 12,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "京东方IPC电竞嘉年华举行 技术创新与生态协同助力电竞产业升级",
-      "d": "gmw.cn"
+      "t": "供销社乐队引争议：当“AI”从流媒体走向演出市场-36氪",
+      "d": "36kr.com"
     },
     {
-      "t": "2026电竞显示器品牌排行榜 爱攻稳居高端第一梯队",
-      "d": "sohu.com"
-    },
-    {
-      "t": "最惨中秋档，国产片集体溃败，电影公司都没钱了",
-      "d": "sohu.com"
-    },
-    {
-      "t": "2026南宁下半年演出购票攻略：演唱会、脱口秀、舞剧一站式指南",
+      "t": "2026中秋国庆档电影片单发布",
       "d": "ifeng.com"
     },
     {
-      "t": "2026中秋档新片预售票房破3000万",
-      "d": "eastmoney.com"
+      "t": "“不工整”往往造就艺术的弧光",
+      "d": "gmw.cn"
     },
     {
-      "t": "2026海峡两岸WE短剧大赛成果在福建泉州发布",
-      "d": "chinanews.com.cn"
+      "t": "广东开启“全城游戏模式”，游戏电竞如何嵌入城市假日？",
+      "d": "sohu.com"
     },
     {
-      "t": "剧作家、导演赖声川受聘为复旦大学名誉教授",
-      "d": "thepaper.cn"
+      "t": "全球首个全链条AI游戏创作大赛决赛落地北京，火热报名中",
+      "d": "sohu.com"
+    },
+    {
+      "t": "《生化危机：爆发夜》电影中国内地定档，10月5日上映",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "《活久久》定档跨年上映 张艺凡陈立农为爱相守",
+      "d": "cri.cn"
     }
   ]
 }

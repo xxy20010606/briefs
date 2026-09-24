@@ -2,53 +2,53 @@
   "type": "ai",
   "stages": {
     "raw_dedup_junk": 55,
-    "trusted": 13,
+    "trusted": 16,
     "non_trusted_top": {
-      "sina.cn": 13,
-      "sina.com.cn": 11,
-      "china.com": 3,
+      "sina.com.cn": 14,
+      "sina.cn": 6,
+      "ac.cn": 2,
       "techwalker.com": 2,
-      "ichaoqi.com": 1,
-      "ac.cn": 1,
-      "bjd.com.cn": 1,
-      "tom.com": 1,
-      "guandian.cn": 1,
-      "yzwb.net": 1
+      "china.com": 1,
+      "zjol.com.cn": 1,
+      "zhiding.cn": 1,
+      "cnnb.com.cn": 1,
+      "tidenews.com.cn": 1,
+      "shobserver.cn": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 6,
+    "relaxed_72h": 9,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "当智能体接管旅行全链路，文旅竞争进入“AI推荐时代”",
-      "d": "21jingji.com"
+      "t": "睿创微纳发布红外大模型，驱动红外产业智能化转型升级",
+      "d": "eet-china.com"
     },
     {
-      "t": "在西安，一词几元？",
+      "t": "别再说软件测试只是“点点点找Bug”，世赛新增赛项，拿捏大模型“命门”",
       "d": "sohu.com"
     },
     {
-      "t": "上海金融监管局出台专项措施推动银行业保险业人工智能应用",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "大行重构中国AI估值框架：硬件暴利份额料将收缩 模型与应用将主导近三分之二利润增",
-      "d": "cls.cn"
-    },
-    {
-      "t": "AI大模型重构安全攻防：人还没反应过来，智能体已经出手了",
-      "d": "yicai.com"
-    },
-    {
-      "t": "AI加速渗透汽车业 车企竞逐“AI定义”时代",
+      "t": "世界技能大赛给出了一个反焦虑的答案",
       "d": "sohu.com"
     },
     {
-      "t": "纳真科技登陆港股：山东人工智能产业起势，海信加快向AI生态科技型企业转型",
-      "d": "ifeng.com"
+      "t": "模型之外，游戏+AI的下一道门槛在哪里？",
+      "d": "36kr.com"
+    },
+    {
+      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+      "d": "36kr.com"
+    },
+    {
+      "t": "不讲PPT，让AI直接干活：深圳湾芯展，我们搞一场“生产力智能体沙龙”",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "上海金融监管局出台16条新政：探索可控环境下AI大模型直接面向金融客户",
+      "d": "163.com"
     }
   ]
 }

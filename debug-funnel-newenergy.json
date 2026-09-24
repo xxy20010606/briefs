@@ -1,41 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 31,
-    "trusted": 4,
+    "raw_dedup_junk": 37,
+    "trusted": 8,
     "non_trusted_top": {
-      "autohome.com.cn": 8,
-      "sina.cn": 6,
-      "sina.com.cn": 4,
-      "seetao.com": 2,
-      "in-en.com": 2,
-      "indexbox.io": 2,
-      "sxcoal.com": 1,
-      "news18a.com": 1,
-      "paultan.org": 1
+      "autohome.com.cn": 6,
+      "sina.cn": 5,
+      "indexbox.io": 3,
+      "sina.com.cn": 2,
+      "dtm.com.cn": 1,
+      "in-en.com": 1,
+      "zjknews.com": 1,
+      "66wz.com": 1,
+      "wenxuecity.com": 1,
+      "jrj.com.cn": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 4,
-    "relaxed_72h": 0,
-    "final": 4,
+    "fresh1_24h": 6,
+    "page_fresh": 0,
+    "relaxed_72h": 8,
+    "final": 7,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "昱能科技与Axle Energy、Enode两大能源平台达成战略合作， 加码欧洲",
+      "t": "股票行情快报：英威腾（002334）9月24日主力资金净卖出727.45万元",
+      "d": "sohu.com"
+    },
+    {
+      "t": "龙源电力巴丹吉林沙漠11GW风、光基地获立项批复",
+      "d": "sohu.com"
+    },
+    {
+      "t": "股票行情快报：芯联集成（688469）9月24日主力资金净卖出2169.13万元",
+      "d": "sohu.com"
+    },
+    {
+      "t": "【调研快报】科威尔接待和君调研等7家机构调研",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "新能源行业科技品牌全球榜单：阳光电源为何在多个权威榜单中持续领先？",
       "d": "solarbe.com"
     },
     {
-      "t": "华赛能源董事长陈任峰当选全国工商联新能源商会常务副会长",
-      "d": "xinhuanet.com"
+      "t": "佛燃能源：2026年上半年，公司能碳业务营业收入为2.65亿元，占总营收2.03",
+      "d": "sohu.com"
     },
     {
-      "t": "清单制落地！安徽电网侧独立储能办法征求意见，明确容量电价规则",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "绿色能源，重塑洋浦“工业心脏”",
-      "d": "chinanews.com.cn"
+      "t": "比亚迪第2000座闪充高速站落成，“闪充中国”战略再迎里程碑",
+      "d": "163.com"
     }
   ]
 }
