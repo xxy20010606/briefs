@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 25,
+    "raw_dedup_junk": 47,
+    "trusted": 24,
     "non_trusted_top": {
-      "sina.cn": 5,
-      "sina.com.cn": 4,
-      "moomoo.com": 2,
+      "sina.cn": 7,
+      "aboluowang.com": 2,
+      "mydrivers.com": 2,
+      "sina.com.cn": 2,
       "indexbox.io": 2,
-      "mydrivers.com": 1,
-      "zhiding.cn": 1,
-      "prnasia.com": 1,
-      "siscmag.com": 1,
+      "china.com": 1,
+      "jrj.com.cn": 1,
       "guandian.cn": 1,
-      "essra.org.cn": 1
+      "notebookcheck-cn.com": 1,
+      "vanpeople.com": 1
     },
-    "fresh1_24h": 19,
-    "page_fresh": 9,
-    "relaxed_72h": 10,
+    "fresh1_24h": 24,
+    "page_fresh": 19,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "A股申购| 粤芯半导体(301660.SZ)开启申购为广东省首家进入量产的12英",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "粤芯半导体申购解读",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "玻璃基板行业催化不断 英特尔、京东方接连加码 机构建议关注三条主线",
-      "d": "cls.cn"
-    },
-    {
-      "t": "展商名录公布！2026中国工博会集成电路展（国芯展）展前指南速看！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "SiC+氧化镓混合功率芯片企业，数亿元C轮融资完成",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "新加坡Nexstrom致力于将2D半导体推向芯片制造",
-      "d": "sohu.com"
+      "t": "半导体ETF鹏华(159813)盘中净申购5000万份，龙头公司将打造国产化内存",
+      "d": "eastmoney.com"
     },
     {
       "t": "深耕特色工艺晶圆代工赛道 粤芯半导体开启申购",
-      "d": "cnfol.com"
+      "d": "21jingji.com"
+    },
+    {
+      "t": "美专家曾言: 西方玩家小心！28nm 以上成熟制程未来或会被中国卷崩!",
+      "d": "sohu.com"
+    },
+    {
+      "t": "三季报业绩或延续高增！半导体概念局部回暖，关注5个方向机会",
+      "d": "163.com"
+    },
+    {
+      "t": "新思科技与台积电深化合作，加速AI芯片设计研发，半导体ETF博时(159582)",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "中签率较高！粤芯半导体今日申购，顶格申购需持128万市值",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "粤芯半导体即将登陆创业板 加速集成电路全产业链国产化",
+      "d": "eastmoney.com"
     }
   ]
 }

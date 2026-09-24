@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 54,
-    "trusted": 14,
+    "raw_dedup_junk": 51,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.cn": 8,
-      "sina.com.cn": 5,
-      "guandian.cn": 3,
-      "china.com": 3,
-      "rediandf.com": 2,
-      "17173.com": 2,
-      "hupu.com": 2,
-      "bjd.com.cn": 2,
-      "gz-cmc.com": 2,
-      "zijing.com.cn": 2
+      "sina.cn": 9,
+      "rediandf.com": 6,
+      "yzwb.net": 4,
+      "sina.com.cn": 2,
+      "cztv.com": 2,
+      "china.com": 2,
+      "creaders.net": 1,
+      "17173.com": 1,
+      "hkong.cn": 1,
+      "shanghai.gov.cn": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 2,
-    "relaxed_72h": 12,
+    "fresh1_24h": 11,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "中秋国庆档片单来了！近30部影片上映，你最期待哪一部？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "情感叙事与文化图景的交响——读艾伟《春歌》",
+      "t": "京东方IPC电竞嘉年华举行 技术创新与生态协同助力电竞产业升级",
       "d": "gmw.cn"
     },
     {
-      "t": "《永劫无间》领衔2026亚运电竞战局，中国原创电竞“入亚”不止于金牌",
+      "t": "2026电竞显示器品牌排行榜 爱攻稳居高端第一梯队",
       "d": "sohu.com"
     },
     {
-      "t": "AIGCC全球首个全链条AI游戏创作大赛决赛落地北京，火热报名中",
-      "d": "gcores.com"
+      "t": "最惨中秋档，国产片集体溃败，电影公司都没钱了",
+      "d": "sohu.com"
     },
     {
-      "t": "纪念红军长征胜利90周年电影《追光者》在南宁首映 9月23日上映",
-      "d": "gmw.cn"
+      "t": "2026南宁下半年演出购票攻略：演唱会、脱口秀、舞剧一站式指南",
+      "d": "ifeng.com"
     },
     {
-      "t": "以AI技术探索科幻影像新边界 科幻电影《檐下未来》概念片首发",
+      "t": "2026中秋档新片预售票房破3000万",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "2026海峡两岸WE短剧大赛成果在福建泉州发布",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "新阶层·新经济｜上海市新联会副会长陈俊杰：上海新经济赛道“新”力量持续迸发",
-      "d": "chinanews.com.cn"
+      "t": "剧作家、导演赖声川受聘为复旦大学名誉教授",
+      "d": "thepaper.cn"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 36,
-    "trusted": 10,
+    "raw_dedup_junk": 27,
+    "trusted": 12,
     "non_trusted_top": {
-      "zhiding.cn": 3,
-      "ebrun.com": 3,
       "sina.cn": 2,
-      "ac.cn": 2,
-      "66wz.com": 1,
-      "mk.co.kr": 1,
-      "aboluowang.com": 1,
-      "pedaily.cn": 1,
-      "xhby.net": 1,
-      "x.com": 1
+      "sina.com.cn": 2,
+      "baijing.cn": 2,
+      "ebiotrade.com": 1,
+      "mydrivers.com": 1,
+      "openai.com": 1,
+      "zhiding.cn": 1,
+      "unite.ai": 1,
+      "tradingview.com": 1,
+      "yzwb.net": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 1,
-    "relaxed_72h": 7,
+    "fresh1_24h": 12,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "贯穿诊疗全链条 AI为健康保驾护航",
+      "t": "重磅！科技利好来了，新一轮行情即将开始？",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "车企智能化竞赛，不能只盯着座舱与智驾",
       "d": "sohu.com"
     },
     {
-      "t": "英伟达发布Isaac ROS 5.0 助力智能体化机器人开发",
+      "t": "爱奇艺龚宇：AI是内容创作的增效工具，而非流水线生产的替代品 ｜#AI资讯# #",
       "d": "sohu.com"
     },
     {
-      "t": "“手搓”AI工具！看龙岗干部如何把AI用进一线日常？",
-      "d": "sohu.com"
+      "t": "AI 重塑全球商业，品牌如何建立面向未来的增长优势？",
+      "d": "36kr.com"
     },
     {
-      "t": "AI应用数量激增至四倍但下载量与使用时长未增长，a16z称市场正被App-Slo",
-      "d": "huxiu.com"
+      "t": "AI浪潮驱动算力需求高增，创业板算力ETF南方（158063）今日上市",
+      "d": "21jingji.com"
     },
     {
-      "t": "千人专列直奔杭州！义乌老板组团来数贸会“抢”AI商机",
-      "d": "sohu.com"
+      "t": "OpenAI CEO : AI 可能带来工业革命式动荡；Anthropic 宣布",
+      "d": "geekpark.net"
     },
     {
-      "t": "云栖大会观察：千问办公的缘起、突破和未来，从个人提效到组织复利提效！",
-      "d": "sohu.com"
-    },
-    {
-      "t": "端侧算力，生态共进 | 亿道集团签约共建 FDE 系统底座",
-      "d": "sohu.com"
+      "t": "早报｜iOS27测试版新功能可阻止摇一摇广告/5999起，小米18 Pro发布/",
+      "d": "ifanr.com"
     }
   ]
 }

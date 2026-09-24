@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 58,
-    "trusted": 30,
+    "raw_dedup_junk": 48,
+    "trusted": 14,
     "non_trusted_top": {
+      "sina.cn": 10,
       "moomoo.com": 9,
-      "sina.com.cn": 7,
-      "sina.cn": 4,
+      "sina.com.cn": 6,
+      "hstong.com": 2,
       "futunn.com": 2,
-      "com.sg": 1,
-      "yeeyi.com": 1,
-      "jin10.com": 1,
-      "vtmarkets.com": 1,
+      "caus.com": 1,
+      "caiwennews.com": 1,
+      "nai500.com": 1,
       "fx168news.com": 1,
-      "stnn.cc": 1
+      "on.cc": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 0,
-    "relaxed_72h": 24,
+    "fresh1_24h": 14,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "圣贝拉集团(02508)9月23日斥资58.03万港元回购19.35万股_股市直",
+      "t": "中通快递-W(02057)9月23日斥资293.4万美元回购14.97万股_股市",
       "d": "cnfol.com"
     },
     {
-      "t": "圣唐控股(08305)获执行董事李蒙达增持48万股_股市直播_市场",
+      "t": "港股异动| 铜业股跌幅居前美联储再度加息预期升温机构指后续铜价支撑边际减弱_股市",
       "d": "cnfol.com"
     },
     {
-      "t": "上交所受理东兴证券主动终止A股股票上市申请",
-      "d": "eastmoney.com"
+      "t": "港股异动| 玖龙纸业(02689)高开逾3% 全年纯利同比增加102.62% 拟",
+      "d": "cnfol.com"
     },
     {
-      "t": "市场观察｜风格要切到“防御+三季报预告”双线，而非追题材？",
+      "t": "日本股市，开盘直线拉升",
       "d": "21jingji.com"
     },
     {
-      "t": "现货黄金跌破4300美元关口",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "黄金的逻辑变了",
+      "t": "加息还没结束？市场定价明年6月累计加息75BP，高盛看10月加息收官，花旗建议原",
       "d": "sohu.com"
     },
     {
-      "t": "加息落地，市场“换挡”了吗？",
-      "d": "21jingji.com"
+      "t": "美股讯号 | 美联储预计将在明年6月累计加息75个基点 ｜#美股资讯# #宏观经",
+      "d": "sohu.com"
+    },
+    {
+      "t": "港股早报｜央行将逆回购呵护长假资金波动 热门中概股多数走低",
+      "d": "cls.cn"
     }
   ]
 }

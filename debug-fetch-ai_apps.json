@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 36,
+  "total": 27,
   "samples": [
     {
-      "title": "贯穿诊疗全链条 AI为健康保驾护航",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaFYxQ0l2dWwwNlRUMDloWGp6VUl3ZnVEaklVXzNBMXFYelhKRE9YQ3lGSzZTLUNuc0ZCUDVibXZuZVc5R3o3RTd",
+      "title": "重磅！科技利好来了，新一轮行情即将开始？",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQmhJdUJndmlpVDZaMGlzZks1ODhTTVRwdWFnclNjbXlMVlUxQ3lralctd3ppVERyQ3QyX0x6T1ZmQ2Eyb2NaeUJ",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
+    },
+    {
+      "title": "车企智能化竞赛，不能只盯着座舱与智驾",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSERyQnktbDJCcjE3ei1zbkNUOUwxM0tFVnJEdkdnNnZjOGJiQU5VaW5RclJoVTJzMlN6UDVRRmZkemo2YVNLX2J",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "LinkedIn推出新工具打击虚假账号与履历造假-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wU2Q3NHA5bzZzTkJua3ZiYlNVanBHaHVxQjVCcHhnSjgwYzhJbXRJTmlVRWVQVEt0X3dRTE04djRSY2VfSUF0UHp",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "人工智能增强工具在非结构化医疗报告肿瘤数据提取中的应用：瑞士东部癌症登记处真实世界实施评估",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkaDdwZC1MdFFwSDRjUGc4SkgwTTU4eFhKN1pjSHI2TThmV1dxLWhVUnVWTEVxMG5sbGNLdXFLb3ZBWjBZZFRkUVF",
+      "source_url": "https://www.ebiotrade.com",
+      "source": "生物通"
     },
     {
-      "title": "比尔·盖茨：未来两年至少投入10亿美元推动更加公平的AI应用",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY18yc2ppb2t5cWNOMmt2cUNsRHlNai1KbU54Z1RUNWdGY0Q4Sm00b2hhRlNOTXZaNFZnYTJjR3lvWGQtMnUtWFV",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
-    },
-    {
-      "title": "透过数贸会，看清AI的三种样子",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaeElJLTl5R3U0Nks3dnhjVnNjcUJVakh0V1ZWTFpiNzNXczRWZ2V3SGhhSlpmbFZKZ3l5MUtvWFVDUFVXWEVzWVN",
-      "source_url": "https://www.66wz.com",
-      "source": "温州新闻"
-    },
-    {
-      "title": "英伟达发布Isaac ROS 5.0 助力智能体化机器人开发",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcjlZRTdEc3ZoTURtdHY5VFl2SUlTWW1sbUVHWGtiZGlKU0hrUVR5OHdLV25sXzhkemtGUjQ2Z24zVWFkUzlUWXU",
+      "title": "爱奇艺龚宇：AI是内容创作的增效工具，而非流水线生产的替代品 ｜#AI资讯# #爱奇艺# #内容创作",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMWxLTmMtODIyQVhPcmNsN29kbHJlekpZU0tKMGdQajB1aC1Cb3BlUUlBbEpMWVN5OVFfeGhKdjNNRmVUUkdMeHl",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "“手搓”AI工具！看龙岗干部如何把AI用进一线日常？",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeXdQdFRmTUxIRjNiNld6N253SXVLalNpSkdqNmhHM3h6Vk9RU2I5eVlPLTFBNmtKbURDZERJRkRFRVF4Z1FLNkt",
+      "title": "微软发布 Ink Canvas 应用：以手写笔为核心联动 Copilot ｜#AI资讯# #Micr",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORE9ERE1PUjlmZFVVYnBRTkt2NWtyM0NJSG1qYVNkU0R0VTFYQ2NLX0wyME4tejU3bGM4QWFzcnNjejd3UWJwWkZ",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
+    },
+    {
+      "title": "世界上最有价值的见解并未写在公开网页上--来自“专家库AI”的思考",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Tc1hJRmdzNnRHUjJzSU5tNnVyZE1aWVBpUENLNDdsNkdEZUFFZTllUXQ0Sm5hYk1uMzZNcTlDU0NoTDJtUFFpOWx",
+      "source_url": "https://wallstreetcn.com",
+      "source": "华尔街见闻"
     }
   ]
 }

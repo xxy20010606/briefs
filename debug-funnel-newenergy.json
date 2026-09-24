@@ -1,46 +1,41 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 27,
-    "trusted": 5,
+    "raw_dedup_junk": 31,
+    "trusted": 4,
     "non_trusted_top": {
-      "sina.com.cn": 6,
-      "autohome.com.cn": 4,
-      "sina.cn": 3,
-      "caiwennews.com": 1,
-      "cfi.net.cn": 1,
-      "ichaoqi.com": 1,
-      "in-en.com": 1,
-      "seetao.com": 1,
-      "futunn.com": 1,
-      "vietnam.vn": 1
+      "autohome.com.cn": 8,
+      "sina.cn": 6,
+      "sina.com.cn": 4,
+      "seetao.com": 2,
+      "in-en.com": 2,
+      "indexbox.io": 2,
+      "sxcoal.com": 1,
+      "news18a.com": 1,
+      "paultan.org": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 1,
-    "relaxed_72h": 4,
-    "final": 5,
+    "fresh1_24h": 4,
+    "page_fresh": 4,
+    "relaxed_72h": 0,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "从电站到卫星太阳翼 新能源应用场景“上天入地”|直击世界制造业大会",
-      "d": "cls.cn"
+      "t": "昱能科技与Axle Energy、Enode两大能源平台达成战略合作， 加码欧洲",
+      "d": "solarbe.com"
     },
     {
-      "t": "闪耀英伦！科士达亮相英国太阳能暨储能展",
-      "d": "ifeng.com"
+      "t": "华赛能源董事长陈任峰当选全国工商联新能源商会常务副会长",
+      "d": "xinhuanet.com"
     },
     {
-      "t": "大同：稳煤优能筑底盘打造多能互补新型能源之城",
-      "d": "thepaper.cn"
+      "t": "清单制落地！安徽电网侧独立储能办法征求意见，明确容量电价规则",
+      "d": "solarbe.com"
     },
     {
-      "t": "乘联分会：电池头部企业聚集效应放缓，宁德时代和比亚迪电池需求占比降至63%",
-      "d": "sohu.com"
-    },
-    {
-      "t": "暖城好风光 绿色产业在成长",
-      "d": "sohu.com"
+      "t": "绿色能源，重塑洋浦“工业心脏”",
+      "d": "chinanews.com.cn"
     }
   ]
 }

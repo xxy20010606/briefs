@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 45,
+  "total": 47,
   "samples": [
     {
-      "title": "机构预测硅晶圆价格将在2027年再涨40%",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5wdXVOOEdYLXhDZmVUazIxS2JoT0Z6ZGkzOE05SDFmdkZ0NGNLSWtFSlFmdVVLa1NSTWhTaFZER0dzU28?oc=5",
-      "source_url": "http://laoyaoba.com",
-      "source": "laoyaoba.com"
+      "title": "半导体ETF鹏华(159813)盘中净申购5000万份，龙头公司将打造国产化内存、存储芯片测试平台",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vdV9BZ3J0LS1oYWVkeGdBVktDcVptVHQyeXdyUHBwdXhYWFQzVS1lQkxPYVgzeG42ZGpXY3lSekREak95M1RJcVZ",
+      "source_url": "https://finance.eastmoney.com",
+      "source": "东方财富"
     },
     {
-      "title": "A股申购| 粤芯半导体(301660.SZ)开启申购为广东省首家进入量产的12英寸晶圆制造企业_股市",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aNmlmQ1U3a2xTaUlZOHlITXZ6UUxFOUZIa0ZHZUZ5X0NHQW9lendGd09xT0ZzTkttVjF1SVFoTktrUWZqMzBLMXN",
-      "source_url": "http://sc.stock.cnfol.com",
-      "source": "中金在线"
+      "title": "德龙汇能等成立科技公司 含集成电路芯片业务",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CNzZ4V1loRng3bi1HVEl6dS1NTnRWZjZmcHE1QVQ5UFN0S3VpUHU3ZlgzQ1pnSE42d1NsSHBZcjd2UWVLaHNValI",
+      "source_url": "https://wap.cj.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "部分涨幅或超50%！半导体12英寸硅片长约价格大涨",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84MHVPNWllclMyaVNPcHBzbDFhSHBQOE1BdThaVEpKM1p3M1ZiTHJmYUZkYUdVOEJTZW5QVC0xd2dNWlZlTjRPcTc",
-      "source_url": "https://news.mydrivers.com",
-      "source": "驱动之家"
+      "title": "深耕特色工艺晶圆代工赛道 粤芯半导体开启申购",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbzBmNWR4Y2ZKZGRzdEZ4ZWc2dUVNazJyWEtGV0lwT0hEUzRZbFpsd3h3OUZUMGUybkpMeTJGc2VOa0E1enRSZXF",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
     },
     {
-      "title": "欧盟科技扶持助推超快激光初创企业崛起-芯片",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zWWdqcE81QlJ1WnFkSEhQeTNpdG8yaVlOdTJCTEtKcUFnc1pLZHREVUxBSjdyZGQ3UlpsTzFBVnljbkpONUxpMEM",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "美专家曾言: 西方玩家小心！28nm 以上成熟制程未来或会被中国卷崩!",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOazZMYnpNZmhVUDlqaFlIb3hFVjVnUTNOMGluOXJEdlhtS0pkemNHQzA4R3F3eW9DT2k3VnZwWGFaY25QLTZtWXR",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "报道：台积电明年1月起上调晶圆代工价格3%至6%，订单能见度延伸至2030年",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Uek96eWJnQlBISVUxMmJheW5ycmNjdUZPbEl1TlNLTzdqSVY1YUVvNjlMQzdaNk91UEJGY3otTlJrNTJsazFnamJ",
-      "source_url": "https://wallstreetcn.com",
-      "source": "华尔街见闻"
+      "title": "科创芯片设计ETF易方达汇聚芯片设计产业",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoamZ1Rjh5a19mczJSMUlTQjByZVdLaVFsVFJJc3BYcGhiQVBFRHM2SVprWWJPUmFkZmlPZkdlMndoSWtFTldvZ3l",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "三大存储厂打响“散热”攻关战 热管理成下一代HBM核心竞争力",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tOEQxWXJ2MlJMMHAyRUZuUUtkQjhDeHFtQngyS3VmY29DNi1senlkUUZYZHlzUVExa2FzWnYxdGNiYzM5SkdRYg?",
-      "source_url": "https://www.cls.cn",
-      "source": "cls.cn"
+      "title": "三季报业绩或延续高增！半导体概念局部回暖，关注5个方向机会",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NdDZYcjFsMUVqek50VkpVNDhlci1aTExGTnRVVlFtTTZzTG5tSXZSWlFkU3V4ZFZTWnAyY2hqSzlOMVRPZjdoV0R",
+      "source_url": "https://www.163.com",
+      "source": "手机网易网"
     }
   ]
 }
