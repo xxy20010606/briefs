@@ -2,44 +2,52 @@
   "type": "entertainment",
   "stages": {
     "raw_dedup_junk": 38,
-    "trusted": 5,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.cn": 6,
-      "womenofchina.com": 5,
-      "sina.com.cn": 4,
-      "bjd.com.cn": 2,
-      "ctdsb.net": 2,
-      "vietnam.vn": 1,
-      "china.com": 1,
-      "tgbus.com": 1,
-      "yule.com.cn": 1,
-      "dealmoon.ca": 1
+      "sina.cn": 7,
+      "vietnam.vn": 2,
+      "hk01.com": 2,
+      "china.com": 2,
+      "gz-cmc.com": 2,
+      "mk.co.kr": 1,
+      "westca.com": 1,
+      "on.cc": 1,
+      "yzwb.net": 1,
+      "epochtimes.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 5,
-    "relaxed_72h": 0,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 4,
+    "page_fresh": 2,
+    "relaxed_72h": 9,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "广东开启“全城游戏模式”，游戏电竞如何嵌入城市假日？",
+      "t": "不顾央媒警告顶风作案！明星扎堆开唱，演唱会“油水”到底有多大",
       "d": "sohu.com"
     },
     {
-      "t": "读懂济南｜从凤凰传奇连开六场巡演，看泉城演唱会市场“硬实力”",
-      "d": "sohu.com"
+      "t": "小屏背后大天地",
+      "d": "ce.cn"
     },
     {
-      "t": "2026年中秋档票房已破5000万元",
+      "t": "全球影史票房亚军 今日重映！票房近4000万元领跑中秋档",
       "d": "eastmoney.com"
     },
     {
-      "t": "《我不是大师》首播4集，李现演技炸裂，李一桐楚楚动人，2026年悬疑剧又出黑马",
+      "t": "国家队拿下亚运电竞首金！“中国自研”闪耀世界电竞赛场",
+      "d": "sohu.com"
+    },
+    {
+      "t": "浙江横店：短剧融入节日元素 游客“入戏”过中秋",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "《兰香如故》和《周生如故》，甜和虐都在拿捏观众",
       "d": "163.com"
     },
     {
-      "t": "第十四届中国曲艺牡丹奖揭晓 原创曲艺剧《红军花》上演",
+      "t": "《早春晴朗》引共鸣 两岸文艺界人士谈携手共创",
       "d": "chinanews.com.cn"
     }
   ]

@@ -1,50 +1,50 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 28,
+    "raw_dedup_junk": 30,
     "trusted": 7,
     "non_trusted_top": {
-      "sina.cn": 4,
-      "sina.com.cn": 3,
-      "womenofchina.com": 2,
-      "nweon.com": 2,
-      "cnfin.com": 1,
-      "donews.com": 1,
-      "lavx.hu": 1,
-      "unite.ai": 1,
-      "80aj.com": 1,
-      "fromgeek.com": 1
+      "unite.ai": 5,
+      "80aj.com": 2,
+      "sina.com.cn": 2,
+      "pasqualepillitteri.it": 2,
+      "digitaltoday.co.kr": 1,
+      "zhiding.cn": 1,
+      "ttplus.cn": 1,
+      "futunn.com": 1,
+      "pingwest.com": 1,
+      "tradingview.com": 1
     },
     "fresh1_24h": 6,
-    "page_fresh": 4,
-    "relaxed_72h": 2,
+    "page_fresh": 1,
+    "relaxed_72h": 5,
     "final": 6,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "Meta推出2款AI工具，让用户在手机端直接构建游戏",
-      "d": "ifeng.com"
+      "t": "OpenAI称其模型可能干扰政府及高校网站 | 环球市场",
+      "d": "eastmoney.com"
     },
     {
-      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "d": "36kr.com"
+      "t": "YouTube在Studio应用中推出创作者AI新功能",
+      "d": "sohu.com"
     },
     {
-      "t": "Meta发布Muse Personal Agent升级，引发国内AI从业者关注",
+      "t": "微软发布新版Copilot，引入Home、Code和Autopilot三大AI功",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "Adobe工具接入Gemini与Claude，重塑AI工作流",
+      "d": "sohu.com"
+    },
+    {
+      "t": "Meta推出AI钥匙扣Muse Charm，引发AI硬件创业场景思考",
       "d": "huxiu.com"
     },
     {
-      "t": "90后CEO首次亮相：陈宇森接掌千问办公后，带来了什么？",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "AI浪潮驱动算力需求高增，创业板算力ETF南方（158063）今日上市",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "华尔街聚焦：Muse能否成为Meta公司的“ChatGPT时刻”？",
-      "d": "cls.cn"
+      "t": "Meta发布个人AI Agent产品Muse，扎克伯格称最先进公司不会超过十二家",
+      "d": "huxiu.com"
     }
   ]
 }

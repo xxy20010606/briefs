@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 45,
+  "total": 50,
   "samples": [
     {
-      "title": "初创公司TypeSafe AI推出低幻觉“Jev”模型",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMkdPS2pkeHBCVHZrdXpnVjFLWWpZWloyZHlBb3FvNU9EeDRyT0hGcUZxSklRUFJUQTFYc2dWRFlUdUNxVUkweEZ",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "finance.sina.com.cn"
-    },
-    {
-      "title": "当智能体接管旅行全链路，文旅竞争进入“AI推荐时代”",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWFhfWjR6d0l3czdSZGdIX3VjRDlIT1I0MTNweWRWQllNUm9PNDZHbDk5ZmZwcl95aS11NWxoSy16RTFMUUNNd2h",
-      "source_url": "https://m.21jingji.com",
-      "source": "21财经"
-    },
-    {
-      "title": "“快手探索者LLM-Rec挑战赛2026”决赛收官，上演“大模型×推荐系统”终极对决",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Lc2h6YUxsZUdYcFVjemRoOEhYS2NnamV5RnRWa0JlNWdBRGJvZHl6d2VYUS15cjNwbDhxMEZicmJLd2l4WkhlQkV",
-      "source_url": "https://k.sina.com.cn",
+      "title": "AI 不再盲目竞速，是为了让技术真正服务于人类|经济日报|openai|世界人工智能合作组织_新浪新",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZMDU5c1IwQkw5UmJES0pzMHBZNmF0Rl9WVDNkNkdJd25OX2N2MmlDR21qQ2pPVmxNWndtTGdtU2x1ZHJHS0ItUHl",
+      "source_url": "https://www.sina.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "上海金融监管局出台专项措施，推动银行保险业加快“人工智能+”应用",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOaDA0S2JoZ1dGeXc5UFR6MjhwYWQySG1wQW5GV1FBd0k1NGEzSlJtYVZPNUw0S3NFaldjYzlORXM1NG4ySW12Y3Z",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "马斯克：中国解决算力问题的速度，会比大多数人预想得更快",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1obXVaZUV6cTVEVnlXekJpcXZTbHV5ZFdVZFNsM3FzWjBpQ284S2JqWmx0NHV1dTNfVTgyb0xLWjY3SGloaHVjNjN",
+      "source_url": "https://news.ifeng.com",
+      "source": "凤凰网"
     },
     {
-      "title": "美国大模型，也开始打价格战了",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ienp6UUVHSjBENGh2RHNUV2pHLXl4OUJmaDY2ODRqWmFnTE9OdWpodlBTZUNPdnV4VHdKQW1jQmFhRG0xVkVvbmt",
-      "source_url": "https://www.ichaoqi.com",
-      "source": "潮起网"
+      "title": "​杭州加速打通人工智能生产力转化通道（“十五五”开好局起好步）",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0bm1MenJzb3Y4QVZ1ZC1CLUJvX3hYNXhLeTU3TUZSVzk5Vm5zV21JYk5RbldCU3JwLUNjcGtGMF9MeHBtUGtmbmp",
+      "source_url": "http://paper.people.com.cn",
+      "source": "人民日报"
     },
     {
-      "title": "对话高通中国区董事长孟樸：AI正在形成闭环，真正的智能体时代还未到来",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ENkQxcG5kc2pOYXZhNEx4T1FJbW1iNHpnLUNqLTY4d1B4ZG14UlUwYWlmWXNOeXVFS1J0R2Z3V3pJbk9FRTdkZ1d",
-      "source_url": "https://www.ichaoqi.com",
-      "source": "潮起网"
+      "title": "别再说软件测试只是“点点点找Bug”，世赛新增赛项，拿捏大模型“命门”",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWW9wLWc1QVVhMnJTcVRLM3pWV2dYUG1zZE9BRmIxRWZYUlBnX0JtQmZCeThfU0VqMUZ2R0sxckxkMy11ak1HT2J",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "第五届数贸会启幕 粤企亮出AI消费新装备",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NY3YzTkduYVVJUEZ4QWFhUi12S0toMHpvUXBmRWlGdFlNdjlkQ2E5aWIwU2lqbF9lR3B1b01GbE1XRE9SUWhxZzJ",
+      "source_url": "https://www.cnr.cn",
+      "source": "央广网"
+    },
+    {
+      "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XYnVMZDRzeUwzU3gyM3d5cUJIdmc0T3pIRDM4VUx2MGkyeU1MbDE1Q1BXUWZpRDlFSm5qSDN4QWxqZi1EQ1JKNA?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }

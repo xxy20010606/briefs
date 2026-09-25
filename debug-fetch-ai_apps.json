@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 28,
+  "total": 30,
   "samples": [
     {
-      "title": "【中经社信号】从“对话”到“办事” 银行业AI竞争重心在哪里",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2LUIyREhrd3hZS0ExcmlZMTh0MzFPWGgyVUFvNjN2VW9uTW8zLUpETU9uLTVGelUzT2FFNGMxSDhON0lTaXcxOXR",
-      "source_url": "https://m.cnfin.com",
-      "source": "cnfin.com"
+      "title": "微软发布新版Copilot应用：整合聊天、代码与AI代理",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakNfQTFHcGhoQUZSQ2lFeFBFU3doRUlkWXJlYkg3RTUyYWlmTlh3TW11ZFZSYW0zbjBUVGl2U1dmYW04TUt2Rmd",
+      "source_url": "https://www.digitaltoday.co.kr",
+      "source": "디지털투데이"
     },
     {
-      "title": "文司潮涌丨小方同学“上岗打工”，像素绽放调教“数字员工”",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVdHX215ZTBLREtwX2dNeW84dWE4V1phdFEyTHpmMkRvM0NERmozUjJLdHI3X0x5SExuX1FZck9rbzhmMGlKSkR",
-      "source_url": "https://news.sina.cn",
-      "source": "news.sina.cn"
+      "title": "从文字中评估自杀风险-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTQ2ZkQko5UXhXNlAxOFlQeExtaHdfZEdSOGQ1VFhNOGZON0xjV3FUck1pTEREVlBNS1hyeklEN0J2X2owOU1RRWo",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
     },
     {
-      "title": "PG登录入口新版首发支持多模态实时协作，版本更新推动创作效率革命",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1NDVaRkVSX21sQktRVThfVGZCaG91bDNpU0VqUVJaTmEwVjZaRTBwU25UVS00NUx2OTFwTDhQa2pZa1B1czhfVlh",
-      "source_url": "https://www.womenofchina.com",
-      "source": "womenofchina.com"
+      "title": "Anthropic 为 Claude 插件开启目录提交门户",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1VORHcxaDNCaFh4d24xTndqTTdTYkhqVVp6RjVsVmhOSlFBLU1hQ2VOaVEyMnoyUXgySXRNdzdNY29jSXFFM1Q",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "代替UEDBET的APP特点-最新图文详解是什么意思",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1maXpiaXRJSXRwX3pEVE9OQm9DY0lFMXNDdFJ2b1YwbjExNzNoWmpYSk01R0VaVFRsRnZRYjE4N2xsc19EQ0hob0N",
-      "source_url": "https://www.womenofchina.com",
-      "source": "womenofchina.com"
+      "title": "Randall Newman，CPTO兼Satisfi Labs联合创始人——访谈系列",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcEZnOE14QnhjUmxDS296Vm83clVOaFI3d3NnNDBNYW90cUpaM2t0cFBXWUt2THA2akQ5azE3NU9qVnc1b2tBU1h",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "Meta发布Horizon Create与Studio两款AI游戏创作工具",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CZzMybDcyNkg4VEZiZEZBOHNWdlAzRjloa1FsdnlSUHFtSXBkYkF6WmxycVVVckdPRXZ6aFFEaVhtRjdzbjhzenp",
-      "source_url": "https://www.donews.com",
-      "source": "DoNews"
+      "title": "用户实测Muse：AI智能体上云，Claude与Codex可在云端VM无人值守运行",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZ2VWa2hoNnQyZ1lRODhDbUlOY08yN2tBQlBTcF9jZVZMdWhBUzNlUHEycEpzSDZCY2xkTWhaaU83Z2syOWQ5MFV",
+      "source_url": "https://www.80aj.com",
+      "source": "80aj.com"
     },
     {
-      "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84dFE3Mmc3WS1jQVJmNUNBdkZ2UlhJUTAtaHdIZVB5NnNCQ1lmaGg5U0FGSXNGTUFnVG14eDFiYUh0d2ZoVUh4Yw?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "28圈安装包：不只是工具，更是你数字生活的智能核心",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nWGs0cWsyVEVYSVNhNnRsV1ZEUC1lT29MY2xMbmVwLUtRdkNnNDhpLTNYSmtSZEVKOUlwemNwcGEzdFVnb2hZdGN",
+      "source_url": "https://m.ttplus.cn",
+      "source": "体坛"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 13,
+    "raw_dedup_junk": 50,
+    "trusted": 16,
     "non_trusted_top": {
-      "sina.com.cn": 11,
-      "sina.cn": 10,
-      "ichaoqi.com": 4,
+      "sina.cn": 8,
+      "sina.com.cn": 4,
+      "csdn.net": 2,
+      "ac.cn": 2,
+      "gz-cmc.com": 1,
       "enanyang.my": 1,
-      "zjol.com.cn": 1,
-      "jingjiribao.cn": 1,
-      "icloudnews.net": 1,
-      "rednet.cn": 1,
-      "csdn.net": 1,
+      "donews.com": 1,
+      "smarthey.com": 1,
+      "c114.net.cn": 1,
       "cnbeta.com.tw": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 8,
-    "relaxed_72h": 0,
+    "fresh1_24h": 13,
+    "page_fresh": 5,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "从“对话”到“办事”银行业AI竞争重心在哪里",
+      "t": "马斯克：中国解决算力问题的速度，会比大多数人预想得更快",
       "d": "ifeng.com"
     },
     {
-      "t": "海亮科服亮相数贸会：AI正在让教育消费“以轻驭重”",
+      "t": "​杭州加速打通人工智能生产力转化通道（“十五五”开好局起好步）",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "第五届数贸会启幕 粤企亮出AI消费新装备",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "AI制药，正在被科技巨头“改写”",
       "d": "sohu.com"
     },
     {
-      "t": "睿创微纳发布红外大模型，驱动红外产业智能化转型升级",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "别再说软件测试只是“点点点找Bug”，世赛新增赛项，拿捏大模型“命门”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "Meta Muse遭亚马逊封禁：AI Agent时代的平台权力再分配",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "不讲PPT，让AI直接干活：深圳湾芯展，我们搞一场“生产力智能体沙龙”",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+      "t": "OpenAI突然收购，500万人Codex，永不下线",
       "d": "36kr.com"
+    },
+    {
+      "t": "全球首个！深圳AI辅助审判办案，超70万件案件",
+      "d": "sohu.com"
+    },
+    {
+      "t": "AI批量生成虚拟恋爱对象诈骗老年人 两万五千人受骗",
+      "d": "huxiu.com"
     }
   ]
 }

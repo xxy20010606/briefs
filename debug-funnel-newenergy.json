@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 40,
-    "trusted": 7,
+    "raw_dedup_junk": 32,
+    "trusted": 9,
     "non_trusted_top": {
-      "sina.com.cn": 9,
-      "sina.cn": 5,
-      "autohome.com.cn": 5,
+      "autohome.com.cn": 6,
       "indexbox.io": 4,
+      "sina.com.cn": 4,
+      "sina.cn": 3,
+      "goalfore.cn": 1,
+      "orientaldaily.com.my": 1,
+      "mk.co.kr": 1,
+      "xcar.com.cn": 1,
       "news18a.com": 1,
-      "jfdaily.com.cn": 1,
-      "ne21.com": 1,
-      "wedoany.com": 1,
-      "dtm.com.cn": 1,
       "voi.id": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 6,
-    "relaxed_72h": 1,
+    "fresh1_24h": 9,
+    "page_fresh": 2,
+    "relaxed_72h": 7,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "天津市大疆储能技术有限公司150MW/300MWh共享储能电站EPC中标候选人公",
-      "d": "solarbe.com"
+      "t": "新风光胡顺全：新能源与电网补位协同 穿越周期关键看技术、场景和商业化",
+      "d": "eastmoney.com"
     },
     {
-      "t": "9月24日，中节能太阳能新疆区7家光伏电站配建储能电站项目EPC工程总承包中标候",
-      "d": "solarbe.com"
+      "t": "同时对标小米、保时捷、比亚迪？零跑这次卷疯了！",
+      "d": "eet-china.com"
     },
     {
-      "t": "首航新能源亮相英国光储展：全场景光储方案精准回应本土市场需求",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "集结110余项技术，深圳龙岗这场展示活动揭示绿色转型路径",
+      "t": "纷纷落地，九大能源央企集结雄安新区！",
       "d": "sohu.com"
     },
     {
-      "t": "活力中国调研行丨宁夏绿氢的“野心”",
-      "d": "stdaily.com"
-    },
-    {
-      "t": "同样是新型储能，为什么山东选压缩空气、新疆选液流电池？",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "比亚迪第2000座闪充高速站提前建成，已覆盖全国22条最繁忙的高速主干线",
+      "t": "1.25亿！牵手北京国资，老牌组件商成立新公司",
       "d": "sohu.com"
+    },
+    {
+      "t": "亮相第五届数贸会 麦田能源以AI数智力量领跑全球户储赛道",
+      "d": "sohu.com"
+    },
+    {
+      "t": "比亚迪明年将发布搭载全固态电池车型！行业高度关注",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "德国明确2045年前摆脱化石燃料，2030年绿电拟占八成",
+      "d": "thepaper.cn"
     }
   ]
 }
