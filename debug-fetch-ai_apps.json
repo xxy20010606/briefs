@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 45,
+  "total": 28,
   "samples": [
     {
-      "title": "Meta推出AI游戏开发工具，竞争对手股价应声下跌",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrbUFpSHVyN2V4SUlscmNGak9ZYXJHTnh3bk9EMXpIby1pLU1nd3BSck8wNF9Ja2xYR2QxNTdacFJuZjA3emc2c1d",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "【中经社信号】从“对话”到“办事” 银行业AI竞争重心在哪里",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2LUIyREhrd3hZS0ExcmlZMTh0MzFPWGgyVUFvNjN2VW9uTW8zLUpETU9uLTVGelUzT2FFNGMxSDhON0lTaXcxOXR",
+      "source_url": "https://m.cnfin.com",
+      "source": "cnfin.com"
     },
     {
-      "title": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04WmRlVFlSbEVEOTZTd3hQUjNBR0VkRTNheUtpUkNUNVlGOE00MkdzazJycTg0aGVVeTdUWDYwZkdBdXh6eFdWM0R",
-      "source_url": "https://m.36kr.com",
-      "source": "36kr.com"
+      "title": "文司潮涌丨小方同学“上岗打工”，像素绽放调教“数字员工”",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLVdHX215ZTBLREtwX2dNeW84dWE4V1phdFEyTHpmMkRvM0NERmozUjJLdHI3X0x5SExuX1FZck9rbzhmMGlKSkR",
+      "source_url": "https://news.sina.cn",
+      "source": "news.sina.cn"
     },
     {
-      "title": "Meta 推出 Horizon Create 与 Horizon Studio AI 游戏工具",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDQ5Q051c3hxaGJLbXI1ZHR2NGhRX0FUX3NBSWU4TkRaZG1sc3FLV191TldpUEJXWXVGU1VaNmsySkpoS2lGZEp",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "PG登录入口新版首发支持多模态实时协作，版本更新推动创作效率革命",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1NDVaRkVSX21sQktRVThfVGZCaG91bDNpU0VqUVJaTmEwVjZaRTBwU25UVS00NUx2OTFwTDhQa2pZa1B1czhfVlh",
+      "source_url": "https://www.womenofchina.com",
+      "source": "womenofchina.com"
     },
     {
-      "title": "独立开发者半年打磨HTTPS抓包工具ApiCatcher：AI生成脚本正则，对标Proxyman",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iR1RLZFFHS1FoSVhxOFJCYjZ6cU44UTVyVDFxV0ZuM0VWeWkyakFuenZ2QUl5NGpRT1hoN19HZGlJTFZ2bVcyN3R",
-      "source_url": "https://www.80aj.com",
-      "source": "80aj.com"
+      "title": "代替UEDBET的APP特点-最新图文详解是什么意思",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1maXpiaXRJSXRwX3pEVE9OQm9DY0lFMXNDdFJ2b1YwbjExNzNoWmpYSk01R0VaVFRsRnZRYjE4N2xsc19EQ0hob0N",
+      "source_url": "https://www.womenofchina.com",
+      "source": "womenofchina.com"
     },
     {
-      "title": "联邦航空局测试AI驱动的空中交通管理工具-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jZGpwWG1faU8yMno5T1c3ME44N0pGTzJWVTM2cjB0b2lnU3cxZ3RvVVNsRE1SdFJnM3ROMWQ4VTZ0WFZGeFpZNFN",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "Meta发布Horizon Create与Studio两款AI游戏创作工具",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CZzMybDcyNkg4VEZiZEZBOHNWdlAzRjloa1FsdnlSUHFtSXBkYkF6WmxycVVVckdPRXZ6aFFEaVhtRjdzbjhzenp",
+      "source_url": "https://www.donews.com",
+      "source": "DoNews"
     },
     {
-      "title": "从AI工具到AI驱动，阿里云重构企业生产力与组织边界",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT3ZiczZPU25nYk5SNkxKMjBjenJ2T3BZNUQ1YTVLdl9zZUJwQnBHNnN4LXlQRjZOSTVSeGlkRmUyVTNEOHRtYzl",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84dFE3Mmc3WS1jQVJmNUNBdkZ2UlhJUTAtaHdIZVB5NnNCQ1lmaGg5U0FGSXNGTUFnVG14eDFiYUh0d2ZoVUh4Yw?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }

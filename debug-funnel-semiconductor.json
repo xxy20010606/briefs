@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 33,
-    "trusted": 18,
+    "raw_dedup_junk": 31,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.cn": 4,
-      "indexbox.io": 1,
+      "sina.com.cn": 3,
+      "sina.cn": 3,
       "mydrivers.com": 1,
-      "china.com": 1,
-      "sina.com.cn": 1,
-      "donews.com": 1,
-      "chosun.com": 1,
-      "futunn.com": 1,
-      "nai500.com": 1,
-      "hstong.com": 1
+      "businesswire.com": 1,
+      "com.sg": 1,
+      "voi.id": 1,
+      "ctdsb.net": 1,
+      "icsmart.cn": 1,
+      "jin10.com": 1,
+      "bjd.com.cn": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 5,
-    "relaxed_72h": 11,
+    "fresh1_24h": 13,
+    "page_fresh": 6,
+    "relaxed_72h": 2,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "展商名录公布！2026中国工博会集成电路展（国芯展）展前指南速看！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "预计硅晶圆价格将在2027年再涨40%！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "16:41:09【美股芯片半导体股票盘前走低 多股跌超2%】",
-      "d": "cls.cn"
-    },
-    {
-      "t": "富满微(SZ300671)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "粤芯半导体上市今日申购！",
+      "t": "【百强透视】GPU板块集体回调：国产算力概念降温，两大龙头均跌超5%",
       "d": "sohu.com"
     },
     {
-      "t": "美股芯片股，全线下跌",
+      "t": "美国对内存芯片发起337调查，美光、联想等涉案",
+      "d": "sohu.com"
+    },
+    {
+      "t": "赛灵思惹祸？AMD军用芯片外泄",
+      "d": "sohu.com"
+    },
+    {
+      "t": "本周日！聊聊新能源汽车三电里的芯片！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "一家毛利率-58%的晶圆厂，凭什么估值几百亿？",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "这家轨交减振龙头切入半导体精密制造，技术导入800G/1.6T光模块产线并布局金",
       "d": "21jingji.com"
     },
     {
-      "t": "香港微电子研发院：两条第三代半导体芯片中试线将于12月运营",
-      "d": "21jingji.com"
+      "t": "粤芯半导体即将登陆创业板 加速集成电路全产业链国产化",
+      "d": "eastmoney.com"
     }
   ]
 }

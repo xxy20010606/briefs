@@ -1,27 +1,35 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 55,
-    "trusted": 16,
+    "raw_dedup_junk": 45,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 14,
-      "sina.cn": 6,
-      "ac.cn": 2,
-      "techwalker.com": 2,
-      "china.com": 1,
+      "sina.com.cn": 11,
+      "sina.cn": 10,
+      "ichaoqi.com": 4,
+      "enanyang.my": 1,
       "zjol.com.cn": 1,
-      "zhiding.cn": 1,
-      "cnnb.com.cn": 1,
-      "tidenews.com.cn": 1,
-      "shobserver.cn": 1
+      "jingjiribao.cn": 1,
+      "icloudnews.net": 1,
+      "rednet.cn": 1,
+      "csdn.net": 1,
+      "cnbeta.com.tw": 1
     },
     "fresh1_24h": 11,
-    "page_fresh": 6,
-    "relaxed_72h": 9,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
+    {
+      "t": "从“对话”到“办事”银行业AI竞争重心在哪里",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "海亮科服亮相数贸会：AI正在让教育消费“以轻驭重”",
+      "d": "sohu.com"
+    },
     {
       "t": "睿创微纳发布红外大模型，驱动红外产业智能化转型升级",
       "d": "eet-china.com"
@@ -31,24 +39,16 @@
       "d": "sohu.com"
     },
     {
-      "t": "世界技能大赛给出了一个反焦虑的答案",
-      "d": "sohu.com"
-    },
-    {
-      "t": "模型之外，游戏+AI的下一道门槛在哪里？",
-      "d": "36kr.com"
-    },
-    {
-      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "d": "36kr.com"
+      "t": "Meta Muse遭亚马逊封禁：AI Agent时代的平台权力再分配",
+      "d": "huxiu.com"
     },
     {
       "t": "不讲PPT，让AI直接干活：深圳湾芯展，我们搞一场“生产力智能体沙龙”",
       "d": "eet-china.com"
     },
     {
-      "t": "上海金融监管局出台16条新政：探索可控环境下AI大模型直接面向金融客户",
-      "d": "163.com"
+      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+      "d": "36kr.com"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 37,
-    "trusted": 8,
+    "raw_dedup_junk": 40,
+    "trusted": 7,
     "non_trusted_top": {
-      "autohome.com.cn": 6,
+      "sina.com.cn": 9,
       "sina.cn": 5,
-      "indexbox.io": 3,
-      "sina.com.cn": 2,
+      "autohome.com.cn": 5,
+      "indexbox.io": 4,
+      "news18a.com": 1,
+      "jfdaily.com.cn": 1,
+      "ne21.com": 1,
+      "wedoany.com": 1,
       "dtm.com.cn": 1,
-      "in-en.com": 1,
-      "zjknews.com": 1,
-      "66wz.com": 1,
-      "wenxuecity.com": 1,
-      "jrj.com.cn": 1
+      "voi.id": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 0,
-    "relaxed_72h": 8,
+    "fresh1_24h": 7,
+    "page_fresh": 6,
+    "relaxed_72h": 1,
     "final": 7,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "股票行情快报：英威腾（002334）9月24日主力资金净卖出727.45万元",
-      "d": "sohu.com"
-    },
-    {
-      "t": "龙源电力巴丹吉林沙漠11GW风、光基地获立项批复",
-      "d": "sohu.com"
-    },
-    {
-      "t": "股票行情快报：芯联集成（688469）9月24日主力资金净卖出2169.13万元",
-      "d": "sohu.com"
-    },
-    {
-      "t": "【调研快报】科威尔接待和君调研等7家机构调研",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "新能源行业科技品牌全球榜单：阳光电源为何在多个权威榜单中持续领先？",
+      "t": "天津市大疆储能技术有限公司150MW/300MWh共享储能电站EPC中标候选人公",
       "d": "solarbe.com"
     },
     {
-      "t": "佛燃能源：2026年上半年，公司能碳业务营业收入为2.65亿元，占总营收2.03",
+      "t": "9月24日，中节能太阳能新疆区7家光伏电站配建储能电站项目EPC工程总承包中标候",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "首航新能源亮相英国光储展：全场景光储方案精准回应本土市场需求",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "集结110余项技术，深圳龙岗这场展示活动揭示绿色转型路径",
       "d": "sohu.com"
     },
     {
-      "t": "比亚迪第2000座闪充高速站落成，“闪充中国”战略再迎里程碑",
-      "d": "163.com"
+      "t": "活力中国调研行丨宁夏绿氢的“野心”",
+      "d": "stdaily.com"
+    },
+    {
+      "t": "同样是新型储能，为什么山东选压缩空气、新疆选液流电池？",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "比亚迪第2000座闪充高速站提前建成，已覆盖全国22条最繁忙的高速主干线",
+      "d": "sohu.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 33,
+  "total": 32,
   "samples": [
     {
-      "title": "上海下好第四代半导体“先手棋”|上海市|产业|临港|司南|芯片_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMHkxTFBMYWg3aFkxUE5hX2xuVDRoX2xDRENETjA2NThNNzRNeHFJQTZzdk5xNkdqLVFpakpuMjdJcW1mZkVjYnp",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "这家轨交减振龙头切入半导体精密制造，技术导入800G/1.6T光模块产线并布局金刚石散热丨机构调研",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbWlkM2RfVVFha1BuSUhoNlJJbFN5Ty0wQnJ2X3pvc0xSYmFpa1FOZzJNaTl3N1NaXzFOenZKRGVkUFVRT3dKNmp",
+      "source_url": "https://m.21jingji.com",
+      "source": "21财经"
     },
     {
-      "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUlBkNVdaVGxNUG1fbEJ0YjhMYjZHZ3hleHY2aXI3MkRsNTNqVlZyWFJ6ZUMxcTBUT3Qyb3JRblZqTEdudzlWbQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "ASML痛批欧洲半导体停滞！全球唯一EUV供应商在老家颗粒无收",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02VHAwUUVSM0dKSmFWR09HdF93bVlnM3Z3cC1EQTdwNnNoWThJcVNaSWNkTFBuVEU5dWJrVUhXelhiNXpWbFFxblV",
+      "source_url": "https://news.mydrivers.com",
+      "source": "news.mydrivers.com"
     },
     {
-      "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94dWRHSUNMSGEyczRSS3ZHQ3JlMFY3cVRTcmpadkpmY0ZQQmRSb19rS1lzMlJaaTBqMXYyWlJHVVFHaTFCUGxTNQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "2035年半导体封装设备市场展望：AI与HPC需求驱动增长",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbUdJTkZqLWllOHZwd3h4XzFFOVQ4d2V3SDZ4ZXV2RmJIa2NlNVJIY05HejBNM2xGb3Iwa2x2WFJkT0diX0FZZVF",
-      "source_url": "https://www.indexbox.io",
-      "source": "新闻和统计"
-    },
-    {
-      "title": "粤芯半导体上市今日申购！",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjhfd1dORDR2RzNBSkUxWllLZ0FmS0VPNmsyLXhkd1VjRHhrNU5WN050M21qRkU3MndaZmVVOE0ySTFJUEtGc2w",
+      "title": "【百强透视】GPU板块集体回调：国产算力概念降温，两大龙头均跌超5%",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ3NsaXJvdzQ3dnZaNXM1aHY4UHRKaHd4OTkzSUNiMmFVTUc3enMwMHczMzlsSVpHLU1EczJkVVBUOHlIR0taOVF",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "美股芯片股，全线下跌",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOHZSUzNTYTVhR0RpbjVFTTE3TVJDc1FwNlFlUW85TG9HTldfNVpib3gxM1ZvckY3OEU2YktYOGg2RjdkX2Rtd3B",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
+      "title": "美国对内存芯片发起337调查，美光、联想等涉案",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcUpXbm9GZGp0RDM4WTBOR0VwMTh2X0JseW5ldFhpLWh0X21KQmN6Y2VhRUx3bkwxRFFpRWhyckEtc0w1amVXZTB",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "赛灵思惹祸？AMD军用芯片外泄",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVWVPanJ6eC1KT3BvZ0xYN2dRNk01c1hWMVFZTkZ3dmp1NVd2NUdDaW5RNU8yaEp4VjVyWTd0SmNudWZYTTBpTmN",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "芯片巨头拒当电网“债主”！韩电25万亿韩元电费预缴计划落空",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHNE9EQ0RZRnJsTWlfMzluMnVSZkVaQkc4MGxKTUZBakdaV2U4UXRaRXlESjFNcjNJcWpvMVZmMzVwcmlFZFIyUg?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }

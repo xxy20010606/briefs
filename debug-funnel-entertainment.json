@@ -1,54 +1,46 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 58,
-    "trusted": 15,
+    "raw_dedup_junk": 38,
+    "trusted": 5,
     "non_trusted_top": {
-      "sina.cn": 7,
-      "sina.com.cn": 7,
-      "rediandf.com": 4,
-      "bjd.com.cn": 4,
-      "360.com": 3,
-      "gz-cmc.com": 2,
-      "epochtimes.com": 1,
-      "autohome.com.cn": 1,
-      "jfdaily.com.cn": 1,
-      "cnjiwang.com": 1
+      "sina.cn": 6,
+      "womenofchina.com": 5,
+      "sina.com.cn": 4,
+      "bjd.com.cn": 2,
+      "ctdsb.net": 2,
+      "vietnam.vn": 1,
+      "china.com": 1,
+      "tgbus.com": 1,
+      "yule.com.cn": 1,
+      "dealmoon.ca": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 3,
-    "relaxed_72h": 12,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 5,
+    "page_fresh": 5,
+    "relaxed_72h": 0,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
-    {
-      "t": "供销社乐队引争议：当“AI”从流媒体走向演出市场-36氪",
-      "d": "36kr.com"
-    },
-    {
-      "t": "2026中秋国庆档电影片单发布",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "“不工整”往往造就艺术的弧光",
-      "d": "gmw.cn"
-    },
     {
       "t": "广东开启“全城游戏模式”，游戏电竞如何嵌入城市假日？",
       "d": "sohu.com"
     },
     {
-      "t": "全球首个全链条AI游戏创作大赛决赛落地北京，火热报名中",
+      "t": "读懂济南｜从凤凰传奇连开六场巡演，看泉城演唱会市场“硬实力”",
       "d": "sohu.com"
     },
     {
-      "t": "《生化危机：爆发夜》电影中国内地定档，10月5日上映",
-      "d": "ifeng.com"
+      "t": "2026年中秋档票房已破5000万元",
+      "d": "eastmoney.com"
     },
     {
-      "t": "《活久久》定档跨年上映 张艺凡陈立农为爱相守",
-      "d": "cri.cn"
+      "t": "《我不是大师》首播4集，李现演技炸裂，李一桐楚楚动人，2026年悬疑剧又出黑马",
+      "d": "163.com"
+    },
+    {
+      "t": "第十四届中国曲艺牡丹奖揭晓 原创曲艺剧《红军花》上演",
+      "d": "chinanews.com.cn"
     }
   ]
 }

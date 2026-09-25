@@ -1,52 +1,38 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 34,
-    "trusted": 13,
+    "raw_dedup_junk": 36,
+    "trusted": 8,
     "non_trusted_top": {
-      "moomoo.com": 8,
+      "moomoo.com": 10,
       "sina.com.cn": 5,
+      "futunn.com": 3,
+      "vtmarkets.com": 2,
       "sina.cn": 2,
-      "futunn.com": 2,
-      "ua.news": 1,
+      "sfccn.com": 1,
       "cnfin.com": 1,
-      "vtmarkets.com": 1,
-      "on.cc": 1
+      "singtao.ca": 1,
+      "yeeyi.com": 1,
+      "chnfund.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 0,
-    "relaxed_72h": 9,
-    "final": 7,
-    "cap": "同域≤3条"
+    "fresh1_24h": 8,
+    "page_fresh": 3,
+    "relaxed_72h": 0,
+    "final": 3,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "破发股信宇人跌7.29% 2023年上市募5.8亿国联民生保荐_证券要闻",
-      "d": "cnfol.com"
+      "t": "操纵股市获利0元，三人被罚800万",
+      "d": "ifeng.com"
     },
     {
-      "t": "破发股诚达药业跌8.11% 上市超募11亿光大证券保荐_证券要闻",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "破发股迈威生物跌4.78% 2022上市募34.8亿国泰海通保荐_证券要闻",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "股市“顶流”，收益大跌",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "美联储降息也难救中国楼市？高盛曾预测：房价真正底部在2027年？",
+      "t": "大缩量，港股早盘，科技股大跌！A50期指跳水！海外机构，最新关注这些个股",
       "d": "sohu.com"
     },
     {
-      "t": "晚报丨商务部：中美第八轮经贸磋商达成多项共识；美元指数升破101，10年期美债收",
+      "t": "港股开盘：恒生指数跌0.96% 恒生科技指数跌0.99%",
       "d": "eastmoney.com"
-    },
-    {
-      "t": "恒生科技指数下跌0.41%，零售股板块持续活跃｜港股收评",
-      "d": "21jingji.com"
     }
   ]
 }

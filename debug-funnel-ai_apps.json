@@ -1,50 +1,46 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 9,
+    "raw_dedup_junk": 28,
+    "trusted": 7,
     "non_trusted_top": {
-      "80aj.com": 4,
+      "sina.cn": 4,
       "sina.com.cn": 3,
-      "zhiding.cn": 3,
-      "sina.cn": 3,
-      "unite.ai": 2,
-      "icloudnews.net": 2,
-      "china.com": 2,
-      "hangzhou.com.cn": 2,
-      "yeeyi.com": 2,
-      "tradingview.com": 1
+      "womenofchina.com": 2,
+      "nweon.com": 2,
+      "cnfin.com": 1,
+      "donews.com": 1,
+      "lavx.hu": 1,
+      "unite.ai": 1,
+      "80aj.com": 1,
+      "fromgeek.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 1,
-    "relaxed_72h": 8,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 6,
+    "page_fresh": 4,
+    "relaxed_72h": 2,
+    "final": 6,
+    "cap": "不限同域"
   },
   "final": [
+    {
+      "t": "Meta推出2款AI工具，让用户在手机端直接构建游戏",
+      "d": "ifeng.com"
+    },
     {
       "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
       "d": "36kr.com"
     },
     {
-      "t": "从AI工具到AI驱动，阿里云重构企业生产力与组织边界",
-      "d": "sohu.com"
+      "t": "Meta发布Muse Personal Agent升级，引发国内AI从业者关注",
+      "d": "huxiu.com"
     },
     {
-      "t": "北方华创：积极推进AI工具在产品性能提升、管理体系优化等各方面应用",
-      "d": "sohu.com"
+      "t": "90后CEO首次亮相：陈宇森接掌千问办公后，带来了什么？",
+      "d": "thepaper.cn"
     },
     {
-      "t": "从“修古建”到“文化出海”，一场路演看AI如何重塑文化产业",
-      "d": "bjnews.com.cn"
-    },
-    {
-      "t": "云栖大会上，友盟+把服务了十六年的开发者工具箱重做了一遍",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "大厂的AI办公“补贴战”仍在继续",
-      "d": "eastmoney.com"
+      "t": "AI浪潮驱动算力需求高增，创业板算力ETF南方（158063）今日上市",
+      "d": "21jingji.com"
     },
     {
       "t": "华尔街聚焦：Muse能否成为Meta公司的“ChatGPT时刻”？",
