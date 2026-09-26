@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 38,
-    "trusted": 11,
+    "raw_dedup_junk": 48,
+    "trusted": 18,
     "non_trusted_top": {
-      "sina.cn": 7,
-      "vietnam.vn": 2,
-      "hk01.com": 2,
-      "china.com": 2,
-      "gz-cmc.com": 2,
-      "mk.co.kr": 1,
-      "westca.com": 1,
-      "on.cc": 1,
+      "sina.cn": 6,
+      "rediandf.com": 5,
+      "ttplus.cn": 2,
+      "bjd.com.cn": 2,
+      "sina.com.cn": 1,
       "yzwb.net": 1,
-      "epochtimes.com": 1
+      "indexbox.io": 1,
+      "hk01.com": 1,
+      "westca.com": 1,
+      "yeeyi.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 2,
-    "relaxed_72h": 9,
+    "fresh1_24h": 18,
+    "page_fresh": 18,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "不顾央媒警告顶风作案！明星扎堆开唱，演唱会“油水”到底有多大",
+      "t": "《港囧》首周末票房狂收6.8亿 口碑低于《泰囧》",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "2026电竞显示器品牌排行榜 爱攻跻身高端第一梯队",
       "d": "sohu.com"
     },
     {
-      "t": "小屏背后大天地",
-      "d": "ce.cn"
+      "t": "今晚开播！央视又一28集黑马大剧来袭，演员阵容不错，想不火都难！",
+      "d": "sohu.com"
     },
     {
-      "t": "全球影史票房亚军 今日重映！票房近4000万元领跑中秋档",
+      "t": "北京海淀中关村第四届“送你一朵小红花”音乐会举办",
+      "d": "stdaily.com"
+    },
+    {
+      "t": "《疼痛难免：弃业医生的秘密日记》| 每日一书",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "从“完成”到“准确”，《小郡之秋》再登曹禺剧场",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "《敦煌英雄》总票房破1000万元",
       "d": "eastmoney.com"
-    },
-    {
-      "t": "国家队拿下亚运电竞首金！“中国自研”闪耀世界电竞赛场",
-      "d": "sohu.com"
-    },
-    {
-      "t": "浙江横店：短剧融入节日元素 游客“入戏”过中秋",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "《兰香如故》和《周生如故》，甜和虐都在拿捏观众",
-      "d": "163.com"
-    },
-    {
-      "t": "《早春晴朗》引共鸣 两岸文艺界人士谈携手共创",
-      "d": "chinanews.com.cn"
     }
   ]
 }

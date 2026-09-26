@@ -2,28 +2,28 @@
   "type": "ai",
   "stages": {
     "raw_dedup_junk": 50,
-    "trusted": 16,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.cn": 8,
-      "sina.com.cn": 4,
-      "csdn.net": 2,
+      "sina.com.cn": 9,
+      "sina.cn": 9,
+      "icloudnews.net": 4,
+      "csdn.net": 3,
+      "tidenews.com.cn": 2,
       "ac.cn": 2,
-      "gz-cmc.com": 1,
-      "enanyang.my": 1,
-      "donews.com": 1,
-      "smarthey.com": 1,
-      "c114.net.cn": 1,
-      "cnbeta.com.tw": 1
+      "cnbeta.com.tw": 1,
+      "53ai.com": 1,
+      "com.sg": 1,
+      "ttplus.cn": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 5,
-    "relaxed_72h": 8,
+    "fresh1_24h": 9,
+    "page_fresh": 4,
+    "relaxed_72h": 3,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "马斯克：中国解决算力问题的速度，会比大多数人预想得更快",
+      "t": "OpenAI再曝大模型越界行为！",
       "d": "ifeng.com"
     },
     {
@@ -31,11 +31,7 @@
       "d": "people.com.cn"
     },
     {
-      "t": "第五届数贸会启幕 粤企亮出AI消费新装备",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "AI制药，正在被科技巨头“改写”",
+      "t": "奇想AI携手阿里云，深化AI创作能力在各大领域落地应用",
       "d": "sohu.com"
     },
     {
@@ -43,12 +39,16 @@
       "d": "36kr.com"
     },
     {
+      "t": "央视专访马斯克 回应中国市场、人工智能等热点问题",
+      "d": "eastmoney.com"
+    },
+    {
       "t": "全球首个！深圳AI辅助审判办案，超70万件案件",
       "d": "sohu.com"
     },
     {
-      "t": "AI批量生成虚拟恋爱对象诈骗老年人 两万五千人受骗",
-      "d": "huxiu.com"
+      "t": "AI失控警钟再响！OpenAI智能体入侵澳大利亚公共卫生服务网站",
+      "d": "cls.cn"
     }
   ]
 }

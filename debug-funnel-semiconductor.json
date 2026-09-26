@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 40,
-    "trusted": 20,
+    "raw_dedup_junk": 35,
+    "trusted": 21,
     "non_trusted_top": {
-      "indexbox.io": 4,
-      "sina.com.cn": 3,
-      "sina.cn": 2,
-      "kuai.media": 2,
+      "sina.cn": 3,
+      "china.com": 2,
       "chosun.com": 2,
+      "nai500.com": 1,
+      "voi.id": 1,
+      "moomoo.com": 1,
+      "indexbox.io": 1,
+      "ttplus.cn": 1,
       "haiwaiwai.com": 1,
-      "wenxuecity.com": 1,
-      "futunn.com": 1,
-      "eastmoney.com": 1,
-      "me.news": 1
+      "tradingkey.com": 1
     },
     "fresh1_24h": 17,
-    "page_fresh": 3,
-    "relaxed_72h": 8,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "突围！硅晶圆涨价，最高达40%，国产厂商能否接得住？",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "AI芯片、光模块带火硅电容，朗矽科技又融了2个亿，高瓴、东方富海都投了",
-      "d": "cls.cn"
-    },
-    {
-      "t": "16:06:18【美股盘前AI硬件股票几乎全线上涨】",
-      "d": "cls.cn"
-    },
-    {
-      "t": "荷兰安世牵手印度塔塔，谁能抢过谁？",
+      "t": "粤芯半导体（301660）公司亮点分析",
       "d": "ifeng.com"
     },
     {
-      "t": "存储接棒算力，AI时代下半场的半导体六大创新主线",
-      "d": "eet-china.com"
+      "t": "突然！芯片巨头，传出大动作",
+      "d": "ifeng.com"
     },
     {
-      "t": "中国芯片：一场没有爽文的“时间战争”",
+      "t": "聚焦细分技术与产业应用，湾芯展×半导体行业观察联合展区亮相",
       "d": "sohu.com"
     },
     {
-      "t": "深夜，半导体巨头大涨！黄金，直线跳水！",
-      "d": "10jqka.com.cn"
+      "t": "Meta Muse引爆AI新叙事：Agent带热CPU后，IC载板能否成为下一个",
+      "d": "cls.cn"
+    },
+    {
+      "t": "上海再次抢跑第四代半导体！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "中国大陆集成电路制造区域全面梳理！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "美股收盘：芯片指数，创5月以来周线最长连涨；苹果，创收盘历史新高",
+      "d": "21jingji.com"
     }
   ]
 }

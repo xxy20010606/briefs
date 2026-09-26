@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 30,
+  "total": 28,
   "samples": [
     {
-      "title": "微软发布新版Copilot应用：整合聊天、代码与AI代理",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakNfQTFHcGhoQUZSQ2lFeFBFU3doRUlkWXJlYkg3RTUyYWlmTlh3TW11ZFZSYW0zbjBUVGl2U1dmYW04TUt2Rmd",
-      "source_url": "https://www.digitaltoday.co.kr",
-      "source": "디지털투데이"
+      "title": "从响应信息到自主执行，AI Agent成智能新形态",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tT1ROTFhibmRVQnhzN2hfRGptek5sMUEtdFhVUmhQaXd3dHBFTjBIbm9fLVVhaWVsaVlGZFdZN2tPMTNOU2JvcG1",
+      "source_url": "https://tidenews.com.cn",
+      "source": "潮新闻客户端"
     },
     {
-      "title": "从文字中评估自杀风险-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTQ2ZkQko5UXhXNlAxOFlQeExtaHdfZEdSOGQ1VFhNOGZON0xjV3FUck1pTEREVlBNS1hyeklEN0J2X2owOU1RRWo",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "Meta发布AI游戏生成工具：一句话打造可玩的2D与3D游戏 直接接入Facebook和Instag",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iLVJLdFBfeUV2VGlCdVI0WWxHYW9TN1gybXVHcS1Ob2ZpLUYxODNkeVZEWHRVZWhrMW4xQXRBcUM5ZG13aWJMMjB",
+      "source_url": "https://www.cnbeta.com.tw",
+      "source": "cnBeta.COM"
     },
     {
-      "title": "Anthropic 为 Claude 插件开启目录提交门户",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1VORHcxaDNCaFh4d24xTndqTTdTYkhqVVp6RjVsVmhOSlFBLU1hQ2VOaVEyMnoyUXgySXRNdzdNY29jSXFFM1Q",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "奇想AI携手阿里云，深化AI创作能力在各大领域落地应用",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSERNRnQ1OURFRGduSkRiUkU0LXVEMzQ3S1FyMkd1aVVxcGN5UGlNQktKV3QyRUVIYUJYVG1DeURzOERzU0FBcGd",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "Randall Newman，CPTO兼Satisfi Labs联合创始人——访谈系列",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcEZnOE14QnhjUmxDS296Vm83clVOaFI3d3NnNDBNYW90cUpaM2t0cFBXWUt2THA2akQ5azE3NU9qVnc1b2tBU1h",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "英伟达获批 AI 工具专利：缩短游戏优化周期，让游戏体验更稳定",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUjJZeVRpSFhib19EbFBvTWNLTG56YWpzNFJCakowcFVPUzJqdi1YekctTW42SHE3ZjBvbGIzSEc3eDJEYXFQZGQ",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "用户实测Muse：AI智能体上云，Claude与Codex可在云端VM无人值守运行",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZ2VWa2hoNnQyZ1lRODhDbUlOY08yN2tBQlBTcF9jZVZMdWhBUzNlUHEycEpzSDZCY2xkTWhaaU83Z2syOWQ5MFV",
-      "source_url": "https://www.80aj.com",
-      "source": "80aj.com"
+      "title": "量子位编辑作者招聘",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rN3lrWHpGYWVGQm45blpaVUpFSHZQUFVQc3UtdHF0aUFDVmE4UlRoQklwNGMzaDExLXBuM3YxNTB6dUVhQ05HbzZ",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "28圈安装包：不只是工具，更是你数字生活的智能核心",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nWGs0cWsyVEVYSVNhNnRsV1ZEUC1lT29MY2xMbmVwLUtRdkNnNDhpLTNYSmtSZEVKOUlwemNwcGEzdFVnb2hZdGN",
-      "source_url": "https://m.ttplus.cn",
-      "source": "体坛"
+      "title": "文司潮涌丨小方同学“上岗打工”，像素绽放调教“数字员工”",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZTZGamxxaUJHWERPQ2ZNR29ITVY1azFYNFNNaWVqMmtJOV9zcE5KQV85OUpfanBHOFI2YzIyaVdiVnVTY29HR29",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     }
   ]
 }

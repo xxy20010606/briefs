@@ -1,54 +1,36 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 32,
-    "trusted": 9,
+    "raw_dedup_junk": 27,
+    "trusted": 3,
     "non_trusted_top": {
-      "autohome.com.cn": 6,
-      "indexbox.io": 4,
+      "autohome.com.cn": 8,
       "sina.com.cn": 4,
-      "sina.cn": 3,
-      "goalfore.cn": 1,
-      "orientaldaily.com.my": 1,
-      "mk.co.kr": 1,
-      "xcar.com.cn": 1,
-      "news18a.com": 1,
-      "voi.id": 1
+      "indexbox.io": 4,
+      "sina.cn": 2,
+      "seetao.com": 2,
+      "notebookcheck-cn.com": 2,
+      "qhdnews.com": 1,
+      "mk.co.kr": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 2,
-    "relaxed_72h": 7,
-    "final": 7,
-    "cap": "同域≤3条"
+    "fresh1_24h": 3,
+    "page_fresh": 3,
+    "relaxed_72h": 0,
+    "final": 3,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "新风光胡顺全：新能源与电网补位协同 穿越周期关键看技术、场景和商业化",
-      "d": "eastmoney.com"
+      "t": "突发！比亚迪新车纯电续航1100km打破纪录",
+      "d": "sohu.com"
     },
     {
       "t": "同时对标小米、保时捷、比亚迪？零跑这次卷疯了！",
       "d": "eet-china.com"
     },
     {
-      "t": "纷纷落地，九大能源央企集结雄安新区！",
+      "t": "总投资44亿元！华电500MW风电氢氨罐港一体化项目开工",
       "d": "sohu.com"
-    },
-    {
-      "t": "1.25亿！牵手北京国资，老牌组件商成立新公司",
-      "d": "sohu.com"
-    },
-    {
-      "t": "亮相第五届数贸会 麦田能源以AI数智力量领跑全球户储赛道",
-      "d": "sohu.com"
-    },
-    {
-      "t": "比亚迪明年将发布搭载全固态电池车型！行业高度关注",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "德国明确2045年前摆脱化石燃料，2030年绿电拟占八成",
-      "d": "thepaper.cn"
     }
   ]
 }

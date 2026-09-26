@@ -1,50 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 30,
-    "trusted": 7,
+    "raw_dedup_junk": 28,
+    "trusted": 8,
     "non_trusted_top": {
-      "unite.ai": 5,
-      "80aj.com": 2,
-      "sina.com.cn": 2,
-      "pasqualepillitteri.it": 2,
-      "digitaltoday.co.kr": 1,
-      "zhiding.cn": 1,
-      "ttplus.cn": 1,
-      "futunn.com": 1,
-      "pingwest.com": 1,
-      "tradingview.com": 1
+      "sina.com.cn": 4,
+      "sina.cn": 3,
+      "ttplus.cn": 3,
+      "unite.ai": 3,
+      "tidenews.com.cn": 1,
+      "cnbeta.com.tw": 1,
+      "stockstar.com": 1,
+      "icloudnews.net": 1,
+      "csdn.net": 1,
+      "digitaltoday.co.kr": 1
     },
     "fresh1_24h": 6,
-    "page_fresh": 1,
-    "relaxed_72h": 5,
-    "final": 6,
-    "cap": "不限同域"
+    "page_fresh": 5,
+    "relaxed_72h": 2,
+    "final": 7,
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "OpenAI称其模型可能干扰政府及高校网站 | 环球市场",
-      "d": "eastmoney.com"
+      "t": "奇想AI携手阿里云，深化AI创作能力在各大领域落地应用",
+      "d": "sohu.com"
     },
     {
-      "t": "YouTube在Studio应用中推出创作者AI新功能",
+      "t": "从模型上手机到让智能体落地，高通的AI时代新故事｜焦点分析",
+      "d": "36kr.com"
+    },
+    {
+      "t": "微软发布新版 Copilot“超级应用”：聊天、代码、智能体三合一，喊话“AI ",
       "d": "sohu.com"
+    },
+    {
+      "t": "【数智周报】 千问办公发布企业级Agent基础设施；谷歌推出Gemini 3.8",
+      "d": "sohu.com"
+    },
+    {
+      "t": "OpenAI称其模型可能干扰政府及高校网站 | 环球市场",
+      "d": "cls.cn"
     },
     {
       "t": "微软发布新版Copilot，引入Home、Code和Autopilot三大AI功",
       "d": "eastmoney.com"
     },
     {
-      "t": "Adobe工具接入Gemini与Claude，重塑AI工作流",
-      "d": "sohu.com"
-    },
-    {
-      "t": "Meta推出AI钥匙扣Muse Charm，引发AI硬件创业场景思考",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "Meta发布个人AI Agent产品Muse，扎克伯格称最先进公司不会超过十二家",
-      "d": "huxiu.com"
+      "t": "微软对Copilot进行全面升级 新增代码生成和代理式AI工具",
+      "d": "eastmoney.com"
     }
   ]
 }

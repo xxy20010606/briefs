@@ -1,12 +1,30 @@
 {
   "type": "entertainment",
-  "total": 38,
+  "total": 48,
   "samples": [
     {
-      "title": "吸引1692万名观众的票房佳作《与王同住的男人》,今日(26日)播出中秋特别电影",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJMVBUV0padjFFaW1TWjJpaUsxSXBBVFJDRXZjS2p6NjZETnZfWTdNay1Da0tWNGx4Qm9ObTR6bmFEY3IzajVMNV9",
-      "source_url": "https://www.mk.co.kr",
-      "source": "mk.co.kr"
+      "title": "全球影史票房亚军，今日重映，中秋档首日票房近4000万元",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14amptZkNJY1R2eXJUaUNmNmY2cFgwQzY5NVhoMUcwZEhWRk5obGdYXzdwcmNTTnZCUC1FVnQ2dHZCbjJRcHh6b0F",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "全球影史票房亚军重映！票房近4000万元领跑中秋档",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0MtaV9DYzFKY1BQSlU3V1FyTklBelVBRmlzMUlIaW1FaU1qSjd2Q1BhTFJsTzJZQlZmSTYwcHJQSm5MZkdNUkR",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "【票·数据】《奥德赛》韩国市场周末六连冠，《痴迷》逆袭《蜘蛛侠》升居亚军",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1icGtwcTloUHY0aUhhNEVJN2hkbDFGdEphWWlzR1RTUUhKYzhQRUR3NFFyaUI1ZHREbHBJeWhwQmc3dDVvODNTajZ",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "中秋档电影总票房破亿！超20部影片集中上新",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MV0ItYkVGU0tBdU9jYUxya015SnNrNE02MW9veEZGLUpzNkQ3WjZ5VF9sXzJsQkNNcTRHREFSLVJvT05RZ05qVm1",
+      "source_url": "https://www.yzwb.net",
+      "source": "紫牛新闻"
     },
     {
       "title": "中秋档票房破1.4亿元！7年前的《复联4》遥遥领先，上映46天的《龙餐馆》和上映70天的《八仙》分列",
@@ -15,28 +33,10 @@
       "source": "新浪财经"
     },
     {
-      "title": "电影 : 着名演员助力也没用 中共最新爱国电影0票房",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNcldROVdNdjY1cG9reFhuNmZpZl9BYkM3eTIxMTlUTHI0NEx1OS1IR1VvNFIyUkNVaGh5VDJ2ZlZPMDdoOUpiUG9",
-      "source_url": "https://www.westca.com",
-      "source": "加西网"
-    },
-    {
-      "title": "内地10月票房大战古天乐再晒招牌“港普”｜即时新闻｜缤FUN星网｜on.cc东网",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWJvTHVVTFhjOVJzekU4V0NfQ2VCVVpEbXBBcFc0TEZCLXp3QU1HM2lTeEtnZ0g5a2E5ZG01MlhfMWJzaWJVZnB",
-      "source_url": "https://hk.on.cc",
-      "source": "on.cc東網"
-    },
-    {
-      "title": "全球影史票房亚军 今日重映！票房近4000万元领跑中秋档",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PYkJiU0xjOWRUX3hDTGRFVXhBeUdJVW5XcER0Q2tRcUdhWWZjVThza2VNdUZzd1NYZ1BmamxBZ1dnLVZSeEd6NC1",
-      "source_url": "https://emwap.eastmoney.com",
-      "source": "东方财富"
-    },
-    {
-      "title": "中秋档电影总票房破亿！超20部影片集中上新",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6VzFsZGZvcWlYVGVaN1NONnBKdG4wcG5uNS1fUHN3UVJpdDlGMmtXOVg2MjJRQ2Ziakk2Q1psdTZNVk9QRU9MaHV",
-      "source_url": "https://www.yzwb.net",
-      "source": "紫牛新闻"
+      "title": "《港囧》首周末票房狂收6.8亿 口碑低于《泰囧》",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UaGRBRmZMd1NkOGZLSF9iTEtyZHpxR3FfRzA0dVR5a1RGalUwZzd2ZVZUMVJYWGFuZWp2NW9QQ0ZHSkVwRUJ3SXZ",
+      "source_url": "https://m.jiemian.com",
+      "source": "Jiemian.com"
     }
   ]
 }

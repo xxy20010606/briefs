@@ -1,41 +1,45 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 8,
+    "raw_dedup_junk": 41,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.com.cn": 5,
-      "sina.cn": 4,
-      "tradingkey.com": 3,
-      "moomoo.com": 3,
-      "ttplus.cn": 2,
+      "sina.cn": 6,
+      "moomoo.com": 5,
+      "sina.com.cn": 4,
+      "jin10.com": 3,
+      "jrj.com.cn": 2,
       "futunn.com": 2,
-      "aboluowang.com": 1,
+      "enanyang.my": 1,
+      "stockstar.com": 1,
       "newswav.com": 1,
-      "cnfin.com": 1,
-      "creaders.net": 1
+      "fx168news.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 0,
-    "relaxed_72h": 4,
-    "final": 4,
+    "fresh1_24h": 10,
+    "page_fresh": 3,
+    "relaxed_72h": 2,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "圣贝拉集团(02508)9月25日斥资38.79万港元回购13.1万股_股市直播",
+      "t": "全球市场：美股三大指数集体收涨存储芯片股普涨国际油价跌超2%_证券要闻",
       "d": "cnfol.com"
     },
     {
-      "t": "全球市场：美股三大指数收盘涨跌不一国际油价涨近3%_证券要闻",
+      "t": "债券市场过度锚定油价变动_期市动态",
       "d": "cnfol.com"
     },
     {
-      "t": "北京金融女博士重磅发声：A股如果迎来牛市，建议死磕4张\"藏宝图\"",
-      "d": "sohu.com"
+      "t": "澜起科技(06809)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
     },
     {
-      "t": "晚报丨商务部：中美第八轮经贸磋商达成多项共识；美元指数升破101，10年期美债收",
+      "t": "紧缩周期今年就到头了？华尔街“鸽声”渐起：美联储明年将转向降息！",
+      "d": "cls.cn"
+    },
+    {
+      "t": "港股走低！恒生科技指数跌幅扩大至2.5% 小米、阿里跌超3%",
       "d": "eastmoney.com"
     }
   ]
