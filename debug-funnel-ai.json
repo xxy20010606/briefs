@@ -1,54 +1,38 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 10,
+    "raw_dedup_junk": 29,
+    "trusted": 6,
     "non_trusted_top": {
-      "sina.com.cn": 9,
-      "sina.cn": 9,
-      "icloudnews.net": 4,
-      "csdn.net": 3,
-      "tidenews.com.cn": 2,
-      "ac.cn": 2,
-      "cnbeta.com.tw": 1,
-      "53ai.com": 1,
-      "com.sg": 1,
-      "ttplus.cn": 1
+      "sina.com.cn": 6,
+      "eastmoney.com": 3,
+      "ac.cn": 3,
+      "sina.cn": 2,
+      "crntt.com": 1,
+      "mastercard.com": 1,
+      "tradingkey.com": 1,
+      "yeeyi.com": 1,
+      "atvnewsonline.com": 1,
+      "mydrivers.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 4,
-    "relaxed_72h": 3,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 6,
+    "page_fresh": 3,
+    "relaxed_72h": 0,
+    "final": 3,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "OpenAI再曝大模型越界行为！",
-      "d": "ifeng.com"
+      "t": "AI 制药迎来质变时刻：Anthropic 自建湿实验室，干湿闭环打通产业最后一",
+      "d": "sohu.com"
     },
     {
-      "t": "​杭州加速打通人工智能生产力转化通道（“十五五”开好局起好步）",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "奇想AI携手阿里云，深化AI创作能力在各大领域落地应用",
+      "t": "大模型下半场，拼的不再是 GPU！DeepSeek 亮出 Agent 时代的底层",
       "d": "sohu.com"
     },
     {
       "t": "OpenAI突然收购，500万人Codex，永不下线",
       "d": "36kr.com"
-    },
-    {
-      "t": "央视专访马斯克 回应中国市场、人工智能等热点问题",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "全球首个！深圳AI辅助审判办案，超70万件案件",
-      "d": "sohu.com"
-    },
-    {
-      "t": "AI失控警钟再响！OpenAI智能体入侵澳大利亚公共卫生服务网站",
-      "d": "cls.cn"
     }
   ]
 }

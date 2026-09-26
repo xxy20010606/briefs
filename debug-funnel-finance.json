@@ -1,46 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 41,
-    "trusted": 11,
+    "raw_dedup_junk": 33,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.cn": 6,
-      "moomoo.com": 5,
-      "sina.com.cn": 4,
-      "jin10.com": 3,
-      "jrj.com.cn": 2,
-      "futunn.com": 2,
+      "sina.com.cn": 3,
+      "ttplus.cn": 3,
+      "stockstar.com": 2,
+      "sinchew.com.my": 2,
+      "moomoo.com": 2,
+      "jin10.com": 2,
+      "hk01.com": 1,
       "enanyang.my": 1,
-      "stockstar.com": 1,
-      "newswav.com": 1,
-      "fx168news.com": 1
+      "jkn.co.kr": 1,
+      "futunn.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 3,
-    "relaxed_72h": 2,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 11,
+    "page_fresh": 4,
+    "relaxed_72h": 4,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "全球市场：美股三大指数集体收涨存储芯片股普涨国际油价跌超2%_证券要闻",
-      "d": "cnfol.com"
+      "t": "A股：不用等下周沪指突破3900点了，又有信号传来，股市大概率将这样走",
+      "d": "163.com"
     },
     {
-      "t": "债券市场过度锚定油价变动_期市动态",
-      "d": "cnfol.com"
+      "t": "A股：不必等下周股市开盘，市场动向已明显，明后两天将毫无意外",
+      "d": "163.com"
     },
     {
-      "t": "澜起科技(06809)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "t": "腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告",
       "d": "xueqiu.com"
     },
     {
-      "t": "紧缩周期今年就到头了？华尔街“鸽声”渐起：美联储明年将转向降息！",
-      "d": "cls.cn"
+      "t": "MLCC龙头股，或遭清仓式减持",
+      "d": "21jingji.com"
     },
     {
-      "t": "港股走低！恒生科技指数跌幅扩大至2.5% 小米、阿里跌超3%",
-      "d": "eastmoney.com"
+      "t": "油市重磅：沙特9月出口量创7个月以来新高，环比飙升近80%",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "镜鉴1929：华尔街旧事，照见AI新时代| 《财经》书评",
+      "d": "sohu.com"
+    },
+    {
+      "t": "交通银行平顶山分行2项违规被罚贷款资金回流借款人等_银行业内动态",
+      "d": "cnfol.com"
     }
   ]
 }

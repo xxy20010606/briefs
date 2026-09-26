@@ -1,54 +1,23 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 28,
-    "trusted": 8,
+    "raw_dedup_junk": 20,
+    "trusted": 1,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "sina.cn": 3,
+      "pasqualepillitteri.it": 8,
       "ttplus.cn": 3,
-      "unite.ai": 3,
-      "tidenews.com.cn": 1,
-      "cnbeta.com.tw": 1,
-      "stockstar.com": 1,
-      "icloudnews.net": 1,
-      "csdn.net": 1,
-      "digitaltoday.co.kr": 1
+      "sina.com.cn": 3,
+      "digitaltoday.co.kr": 1,
+      "vietnam.vn": 1,
+      "beareyes.com.cn": 1,
+      "sina.cn": 1,
+      "eastmoney.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 5,
-    "relaxed_72h": 2,
-    "final": 7,
-    "cap": "同域≤3条"
+    "fresh1_24h": 1,
+    "page_fresh": 0,
+    "relaxed_72h": 0,
+    "final": 0,
+    "cap": "不限同域"
   },
-  "final": [
-    {
-      "t": "奇想AI携手阿里云，深化AI创作能力在各大领域落地应用",
-      "d": "sohu.com"
-    },
-    {
-      "t": "从模型上手机到让智能体落地，高通的AI时代新故事｜焦点分析",
-      "d": "36kr.com"
-    },
-    {
-      "t": "微软发布新版 Copilot“超级应用”：聊天、代码、智能体三合一，喊话“AI ",
-      "d": "sohu.com"
-    },
-    {
-      "t": "【数智周报】 千问办公发布企业级Agent基础设施；谷歌推出Gemini 3.8",
-      "d": "sohu.com"
-    },
-    {
-      "t": "OpenAI称其模型可能干扰政府及高校网站 | 环球市场",
-      "d": "cls.cn"
-    },
-    {
-      "t": "微软发布新版Copilot，引入Home、Code和Autopilot三大AI功",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "微软对Copilot进行全面升级 新增代码生成和代理式AI工具",
-      "d": "eastmoney.com"
-    }
-  ]
+  "final": []
 }

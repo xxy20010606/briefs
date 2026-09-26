@@ -1,54 +1,42 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 21,
+    "raw_dedup_junk": 29,
+    "trusted": 10,
     "non_trusted_top": {
+      "tradingkey.com": 3,
       "sina.cn": 3,
-      "china.com": 2,
+      "ttplus.cn": 3,
       "chosun.com": 2,
-      "nai500.com": 1,
-      "voi.id": 1,
+      "sina.com.cn": 1,
       "moomoo.com": 1,
-      "indexbox.io": 1,
-      "ttplus.cn": 1,
-      "haiwaiwai.com": 1,
-      "tradingkey.com": 1
+      "ua.news": 1,
+      "eastmoney.com": 1,
+      "bannedbook.org": 1,
+      "autohome.com.cn": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 12,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 10,
+    "page_fresh": 3,
+    "relaxed_72h": 1,
+    "final": 4,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "粤芯半导体（301660）公司亮点分析",
-      "d": "ifeng.com"
+      "t": "光子集成芯片厂商苏州易缆微完成数亿元A+++轮融资",
+      "d": "eet-china.com"
     },
     {
-      "t": "突然！芯片巨头，传出大动作",
-      "d": "ifeng.com"
+      "t": "湖北、浙江国资出手半导体先进封装创企",
+      "d": "eet-china.com"
     },
     {
-      "t": "聚焦细分技术与产业应用，湾芯展×半导体行业观察联合展区亮相",
+      "t": "高瓴、东方富海，押注AI芯片卖铲人！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "反超韩国三星、SK海力士：长鑫凭什么最赚钱？",
       "d": "sohu.com"
-    },
-    {
-      "t": "Meta Muse引爆AI新叙事：Agent带热CPU后，IC载板能否成为下一个",
-      "d": "cls.cn"
-    },
-    {
-      "t": "上海再次抢跑第四代半导体！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "中国大陆集成电路制造区域全面梳理！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "美股收盘：芯片指数，创5月以来周线最长连涨；苹果，创收盘历史新高",
-      "d": "21jingji.com"
     }
   ]
 }

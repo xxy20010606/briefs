@@ -1,36 +1,37 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 27,
-    "trusted": 3,
+    "raw_dedup_junk": 11,
+    "trusted": 4,
     "non_trusted_top": {
-      "autohome.com.cn": 8,
-      "sina.com.cn": 4,
-      "indexbox.io": 4,
-      "sina.cn": 2,
-      "seetao.com": 2,
-      "notebookcheck-cn.com": 2,
-      "qhdnews.com": 1,
-      "mk.co.kr": 1
+      "sina.com.cn": 3,
+      "sina.cn": 1,
+      "autohome.com.cn": 1,
+      "mydrivers.com": 1,
+      "indexbox.io": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 3,
-    "relaxed_72h": 0,
-    "final": 3,
+    "fresh1_24h": 4,
+    "page_fresh": 1,
+    "relaxed_72h": 3,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "突发！比亚迪新车纯电续航1100km打破纪录",
+      "t": "首个零碳AIDC项目来了！",
       "d": "sohu.com"
     },
     {
-      "t": "同时对标小米、保时捷、比亚迪？零跑这次卷疯了！",
-      "d": "eet-china.com"
+      "t": "10亿！三峡设立青海能源新平台，布局风光储大基地",
+      "d": "sohu.com"
     },
     {
-      "t": "总投资44亿元！华电500MW风电氢氨罐港一体化项目开工",
+      "t": "肇庆新区这家企业荣获重磅荣誉！成为肇庆市首家虚拟电厂运营商",
       "d": "sohu.com"
+    },
+    {
+      "t": "理想把电池自研推向15C超充与固态电池",
+      "d": "jiemian.com"
     }
   ]
 }

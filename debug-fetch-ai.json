@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 50,
+  "total": 29,
   "samples": [
     {
-      "title": "马斯克：中国解决算力问题的速度，会比大多数人预想得更快",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uS0JOOUVOeDA2MjQ4YlNSeHNoa3hiS0w3SmR2c2R5UWs0N2tvaFVDb25zZ25rc2xCUFJGUnFLY1Jtd0Vva1daal9",
-      "source_url": "http://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "智能经济何以塑造中国发展新优势",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nbEF5TFRBY2h3alFfWURfTDJxV09Qb2Z1SUg5WkM4MG1iQTFKeEZwbGFVSU1DSURwRzI4QWNYWDBwdFAyYjZCLWU",
+      "source_url": "https://news.sina.com.cn",
+      "source": "新浪新闻_手机新浪网"
     },
     {
-      "title": "工业AI赋能流程行业创新发展 浙江中智达亮相全球数贸会",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HeS1KTXYzNEducDVXUDJFTi15X2xlaHpJNnk5TWY3dW5sVUpjVktLdko1ZUZ0SC1NUmcySUJfTHNHTDI2NEdSUHp",
-      "source_url": "https://finance.sina.com.cn",
+      "title": "鄞州发布“带着AI上前线”12个场景清单 招募“AI合伙人”下场解真题",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FLUdDV1oyMzdlLUs0a1ZZSzFyaXZjelpxUWZWaDlNMU9scy1Vb0lUVzBwTVBtOGZCY0pBMHNNZ2pQekNaWnVHQ3d",
+      "source_url": "https://news.sina.com.cn",
+      "source": "新浪新闻_手机新浪网"
+    },
+    {
+      "title": "7天两场演讲，中国两大AI云撞了同一个爱迪生|人民日报社|云栖大会|Token|吴泳铭|大模型_手机",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVVpJSmNESmNWSHRMaExCOE96b3VwNUF4MV9RbVZTdHluc01XSlB5Z0p3a1FyQzlKcUVPSVNfcXcwZXFSSmlWbEM",
+      "source_url": "https://finance.sina.cn",
       "source": "新浪财经"
     },
     {
-      "title": "平均6天一个新旗舰大模型更新快到人类跟不上了- AI 人工智能",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zY3gtT2NuenJzWEFhY2d2dEstTjBXZ0tFR0JSZDJFa2RYY200bGRPZUI3MGt1dWtxT0JkdzNFbk1mMWNyRFVHWVo",
-      "source_url": "https://www.cnbeta.com.tw",
-      "source": "cnBeta.COM"
+      "title": "大模型千千万，背后撑腰的产业链是什么？一文读懂创业板人工智能（159363）",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORG1nUk5naW56dU1sY1hzQWVnZnV6bW9kUDF4ZWtCMWgtNUVDR3R1SFQwNDlMel93UkNBQ09rakdDMnhfSm56NUV",
+      "source_url": "https://caifuhao.eastmoney.com",
+      "source": "财富号"
     },
     {
-      "title": "从响应信息到自主执行，AI Agent成智能新形态",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tT1ROTFhibmRVQnhzN2hfRGptek5sMUEtdFhVUmhQaXd3dHBFTjBIbm9fLVVhaWVsaVlGZFdZN2tPMTNOU2JvcG1",
-      "source_url": "https://tidenews.com.cn",
-      "source": "潮新闻客户端"
+      "title": "“中国的魅力无以言表！”总台专访马斯克完整视频来了！回应中国市场、人工智能等热点问题",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOck9PdjloMFZkQjNQdXBGTG9Qa1czYTVteGFzWEJyRkR6Ujg1V1k0RE9yUE00UENibzlqdVJIUFFsb1c0dWVpbmR",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "IFA 2026中国参展商近半，AI产业发展方向正在清晰转变",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSWDY0Y29ac1VXcEJ5TGsybTJSMnBCc2hNRnB6bTZsR1ZCLXpzTmhiOEJxWWpFa1M4SXYzNHNhNHdWMlhVNE9sZmt",
-      "source_url": "https://tidenews.com.cn",
-      "source": "潮新闻客户端"
-    },
-    {
-      "title": "腾讯内测 Answerbit ，下场做 GEO",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TLWZSTXZNWUZJNTByU29aUnBfTDlOYTFFNTFEejRsY2hqM09QQXJvSDR2WEpIVk1HRmxpa1JqWEZOWWpTX3NpVjI",
-      "source_url": "https://www.53ai.com",
-      "source": "53AI"
+      "title": "AI 制药迎来质变时刻：Anthropic 自建湿实验室，干湿闭环打通产业最后一关",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzJ0OE9hRzBJYUZJV0RESURzekdOcHVfNTcxaWhUNS02UWVZd0dzQ1diZk43aEEwUjdXTHA3Q2JjeDM0Vk56VWE",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     }
   ]
 }

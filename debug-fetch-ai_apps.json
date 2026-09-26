@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 28,
+  "total": 20,
   "samples": [
     {
-      "title": "从响应信息到自主执行，AI Agent成智能新形态",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tT1ROTFhibmRVQnhzN2hfRGptek5sMUEtdFhVUmhQaXd3dHBFTjBIbm9fLVVhaWVsaVlGZFdZN2tPMTNOU2JvcG1",
-      "source_url": "https://tidenews.com.cn",
-      "source": "潮新闻客户端"
+      "title": "Meta AI代理应用Muse跻身应用商店前列，数万名员工参与内部测试迭代",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMklMMENCSWdVSmxhZVpGRHJZOURMbWZXTmJuZ2ZOckg5d09TVV9zS25SdWx4bmE5Q0RWaWhHVDNaRU00S1dWdVB",
+      "source_url": "https://www.digitaltoday.co.kr",
+      "source": "디지털투데이"
     },
     {
-      "title": "Meta发布AI游戏生成工具：一句话打造可玩的2D与3D游戏 直接接入Facebook和Instag",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iLVJLdFBfeUV2VGlCdVI0WWxHYW9TN1gybXVHcS1Ob2ZpLUYxODNkeVZEWHRVZWhrMW4xQXRBcUM5ZG13aWJMMjB",
-      "source_url": "https://www.cnbeta.com.tw",
-      "source": "cnBeta.COM"
+      "title": "苹果发布 LensVLM-9B, 一款读取压缩文档的模型",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1gwTmJ5eV81UFk1bXUwLVhfMnhZVjBMTjN2NjEzQ2ROOWY4U0twX2ltMFpZTTBocXVTWmFqeVFMNXZaWjlRRjV",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     },
     {
-      "title": "奇想AI携手阿里云，深化AI创作能力在各大领域落地应用",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSERNRnQ1OURFRGduSkRiUkU0LXVEMzQ3S1FyMkd1aVVxcGN5UGlNQktKV3QyRUVIYUJYVG1DeURzOERzU0FBcGd",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "电遇app下载：让AI能力在开发者手中释放更大价值",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nQlpfVTBIS3YxdW9UMGJ1RHFNc3NiaExncUhRNDRBSGhWaC1lQ3RKVVJQQ3ZkdlJ2WWRGYzNoLTlMUkM0M3pFRm9",
+      "source_url": "https://m.ttplus.cn",
+      "source": "体坛"
     },
     {
-      "title": "英伟达获批 AI 工具专利：缩短游戏优化周期，让游戏体验更稳定",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlUjJZeVRpSFhib19EbFBvTWNLTG56YWpzNFJCakowcFVPUzJqdi1YekctTW42SHE3ZjBvbGIzSEc3eDJEYXFQZGQ",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84dFE3Mmc3WS1jQVJmNUNBdkZ2UlhJUTAtaHdIZVB5NnNCQ1lmaGg5U0FGSXNGTUFnVG14eDFiYUh0d2ZoVUh4Yw?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "量子位编辑作者招聘",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rN3lrWHpGYWVGQm45blpaVUpFSHZQUFVQc3UtdHF0aUFDVmE4UlRoQklwNGMzaDExLXBuM3YxNTB6dUVhQ05HbzZ",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "微软股价，大幅拉升",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02QW85V2haZlpjVzhVYy1EVkxJbnN6YVdobGFYVnVBcjF4R2I0X3JXTDgxdzBuNnVtOWVwRXlBTWdmalo1ZnNjS2E",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "文司潮涌丨小方同学“上岗打工”，像素绽放调教“数字员工”",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZTZGamxxaUJHWERPQ2ZNR29ITVY1azFYNFNNaWVqMmtJOV9zcE5KQV85OUpfanBHOFI2YzIyaVdiVnVTY29HR29",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "Call for Me 登陆 Pixel 11, Gemini 替你给商店打电话",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOHRzaTdLTXRWOElzTVNiQ0JDM0I4aHRTbUxLZzZITXMzYkFTTDRFM0Z5WUhtc3gwUnVwVFZlMTRWNjlGUGQ0VUx",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     }
   ]
 }

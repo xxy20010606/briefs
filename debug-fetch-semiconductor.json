@@ -1,24 +1,24 @@
 {
   "type": "semiconductor",
-  "total": 35,
+  "total": 29,
   "samples": [
     {
-      "title": "英飞凌耗资14.4亿美元的泰国半导体工厂将于10月1日投产|泰铢|电动汽车|产业|德国|能源_手机新",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdHB1d0xURmpUN1VRZ3I0X2lFV3pMOV9xQTJjTnFoOGtJemllcTNnLUR4V29pNGtGek01UjJYcHd4UWxGcDBreVR",
-      "source_url": "https://finance.sina.cn",
+      "title": "光子集成芯片厂商苏州易缆微完成数亿元A+++轮融资",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uSVJzM01lc3JmcFctcXFZWmZIdlhCaV8wNTlTNE85THdZRlNWSksyWXBzT1V4UnN2NTlkMlNwZ1pNUlRKMEJGUzI",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "1500亿美元！美股半导体最大IPO",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUdFM5M1BoM25jQ3pnbER0NUJPMFYxOWlKZzdmTmthaG1IQmNCTVo2a0RQdHJDMTVzTnM0V2VZVHd5dDJWQlpobGJ",
+      "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "四大持仓股强劲上涨，iShares半导体ETF收获丰厚回报",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQVXliaUdPQ3RVR3hJczdkYVBTTHVRVDZfb2t0NC1leHpLRGpjWWxJMWctSlRVNEhPZXBHQnF3TVVXQUx5TXBtTVR",
-      "source_url": "https://nai500.com",
-      "source": "NAI500"
-    },
-    {
-      "title": "PERURI开设2026年芯片黑客马拉松，鼓励年轻人才开发技术创新",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9CbENOb3k1TnIxam12S00xelR0NjN4MWJuX1huNHZCaWp3SktaOTBGcjRqTHd0eVI1SmNzQTdaYWFjd9IBQkFVX3l",
-      "source_url": "https://voi.id",
-      "source": "VOI.ID"
+      "title": "费城半导体指数(.SOX)股票股价, 市值, 实时行情, 走势图, 财报",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QLUt1U2M2RU5fbTczZUJacGVna2RnMjNLUjJiSVZWdnRteWJnLWpNSXRyREx2bUZOOHAya2NQT0VLaFQzTjNiNm9",
+      "source_url": "https://www.moomoo.com",
+      "source": "moomoo.com"
     },
     {
       "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
@@ -27,16 +27,16 @@
       "source": "财联社"
     },
     {
-      "title": "芯片巨头拒当电网“债主”！韩电25万亿韩元电费预缴计划落空",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHNE9EQ0RZRnJsTWlfMzluMnVSZkVaQkc4MGxKTUZBakdaV2U4UXRaRXlESjFNcjNJcWpvMVZmMzVwcmlFZFIyUg?",
+      "title": "欧洲市值最高的企业，竟在欧洲本土“零销售”",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uQ3QzaUZRVmNWMTlmNXdvWGhGdUFwenZjRndCb0M1azctUjExUGUwYkt1SjdhYUZZblk1Tk9MYXAtRkVCX0JCTQ?",
       "source_url": "https://www.cls.cn",
       "source": "财联社"
     },
     {
-      "title": "费城半导体指数(.SOX)股票股价, 市值, 实时行情, 走势图, 财报",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QLUt1U2M2RU5fbTczZUJacGVna2RnMjNLUjJiSVZWdnRteWJnLWpNSXRyREx2bUZOOHAya2NQT0VLaFQzTjNiNm9",
-      "source_url": "https://www.moomoo.com",
-      "source": "Moomoo"
+      "title": "2026年全球七大存储巨头排名：铠侠、闪迪领涨，AI存储超级周期谁最强？",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEJDTzdJRFZiNVBhR003TTRGUW9wallITWNMVmJVazlQYTNIZXBFNkY0ZllqZmdlRThvNDNOdTFJTlNrTThMUHN",
+      "source_url": "https://www.tradingkey.com",
+      "source": "TradingKey"
     }
   ]
 }
