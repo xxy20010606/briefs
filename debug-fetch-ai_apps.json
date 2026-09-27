@@ -1,5 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 0,
-  "samples": []
+  "total": 44,
+  "samples": [
+    {
+      "title": "Meta全新Muse AI应用登顶榜单，收获好评如潮",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNandrSnFBTk91VDMzTHN0MXI2SldqUlpUNTE5eEdONURiTEVKQjdGNmNQTDhWY1VDR3QxVTViN3FPWDFWa1dDWlV",
+      "source_url": "https://www.moomoo.com",
+      "source": "Moomoo"
+    },
+    {
+      "title": "国家人工智能创新应用先导区认证：亚慱电竞中国登录荣获2026年度最佳体育AI解决方案",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BLXdjYUdIczM2RDBxMDRRalFMMDd0c0Z2OHZoRktLdVM4X1BGUlk2Z0ZkTXV2NXNzV081a2Z2MGRPUmczYTZZTVZ",
+      "source_url": "https://m.ttplus.cn",
+      "source": "体坛加"
+    },
+    {
+      "title": "IDC：百度网盘企业版与库库AI企业版构建\"企业数字资产管理+AI办公智能体\"体系",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vdnZ6T2N4YlFZQTNVMlp6cW5RNk5GN0E0TllkTkdSdGVlVGtvbHFDWFhQcVdnOHFBNUdocWdmLWJPdFNrLU9rc3Z",
+      "source_url": "https://life.china.com",
+      "source": "中华网生活"
+    },
+    {
+      "title": "QM 2026年5月AI应用周活榜：乐虎国际娱乐场以1200万周活跻身前五，领跑新锐阵营-体坛网_体",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSnJydTAxNHRHcjllR1VudV91Vk9vXzh1WHZ4ODRiOFFvek9Dd01uaGhPc3ZyTzFoTDdfNEFWal9BWU55U291QnN",
+      "source_url": "https://m.ttplus.cn",
+      "source": "体坛加"
+    },
+    {
+      "title": "iOS 27 更新中“照片”应用的所有新内容：人工智能革命和期待已久的功能 | iPhone Isl",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUh2MmNQTHVzWGY2MmN0ZS1mOElncW1NQVBxcWJwbjFmWWJTX1R3NHVyQXN0cHFwejFmYjRaQnZKcVdJRUZCZWl",
+      "source_url": "https://iphoneislam.com",
+      "source": "آي-فون إسلام"
+    },
+    {
+      "title": "“实习生”成“新同事” AI加速嵌入基金投研全链条",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvUzBRNkhEOWJMWGFoVEN0aENxSHItQzFOWC1ZQy1BNFJVaXQzeEZBNHR6ckE3TFNVb2xaanM3ZTltRlJUZEV3QVV",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.com.cn"
+    }
+  ]
 }

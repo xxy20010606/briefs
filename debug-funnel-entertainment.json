@@ -1,14 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 0,
-    "trusted": 0,
-    "non_trusted_top": {},
-    "fresh1_24h": 0,
-    "page_fresh": 0,
-    "relaxed_72h": 0,
-    "final": 0,
-    "cap": "不限同域"
+    "raw_dedup_junk": 59,
+    "trusted": 12,
+    "non_trusted_top": {
+      "sina.cn": 14,
+      "ttplus.cn": 8,
+      "bjd.com.cn": 5,
+      "sina.com.cn": 2,
+      "china.com": 2,
+      "scol.com.cn": 2,
+      "yzwb.net": 2,
+      "vietnam.vn": 1,
+      "mrjjxw.com": 1,
+      "vgtime.com": 1
+    },
+    "fresh1_24h": 10,
+    "page_fresh": 4,
+    "relaxed_72h": 8,
+    "final": 7,
+    "cap": "同域≤2条"
   },
-  "final": []
+  "final": [
+    {
+      "t": "当代公园的夜晚还能是什么样？“中湖金秋夜”带来多元体验",
+      "d": "china.com.cn"
+    },
+    {
+      "t": "中国-欧盟电影节关注跨文化传播和人工智能应用",
+      "d": "china.com.cn"
+    },
+    {
+      "t": "多家影视上市公司集中布局国庆档",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "百纳千成五年电影历险记：从高调入场到接近尾声",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "首部AI院线电影《三星堆：未来往事》定档10月23日",
+      "d": "sohu.com"
+    },
+    {
+      "t": "首部AI超写实院线电影《三星堆：未来往事》10月23日全国上映",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "月圆，梦也圆！总台2026年中秋晚会引发全球受众共鸣共情",
+      "d": "cctv.com"
+    }
+  ]
 }

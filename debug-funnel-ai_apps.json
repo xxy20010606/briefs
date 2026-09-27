@@ -1,14 +1,30 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 0,
-    "trusted": 0,
-    "non_trusted_top": {},
-    "fresh1_24h": 0,
-    "page_fresh": 0,
+    "raw_dedup_junk": 44,
+    "trusted": 4,
+    "non_trusted_top": {
+      "ttplus.cn": 14,
+      "pasqualepillitteri.it": 7,
+      "sina.com.cn": 4,
+      "sina.cn": 2,
+      "zhiding.cn": 2,
+      "moomoo.com": 1,
+      "china.com": 1,
+      "iphoneislam.com": 1,
+      "panewslab.com": 1,
+      "hurun.net": 1
+    },
+    "fresh1_24h": 4,
+    "page_fresh": 1,
     "relaxed_72h": 0,
-    "final": 0,
+    "final": 1,
     "cap": "不限同域"
   },
-  "final": []
+  "final": [
+    {
+      "t": "国企数科公司倒闭潮传闻不实，但生存挑战严峻",
+      "d": "huxiu.com"
+    }
+  ]
 }

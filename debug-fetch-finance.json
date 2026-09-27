@@ -1,5 +1,42 @@
 {
   "type": "finance",
-  "total": 0,
-  "samples": []
+  "total": 47,
+  "samples": [
+    {
+      "title": "四大证券报头版头条内容精华摘要_2026年9月28日_财经新闻",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaENJU0V3dF8xcWNYazRBczRFMVFjQ3dLWHdZczgzeGtSTHBIeVA5ZkxUUVVsZnNQekN3R1hoOTJCRGFsYWt4ZF9",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.com.cn"
+    },
+    {
+      "title": "股海导航_2026年9月28日_沪深股市公告与交易提示",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56RHB4eEpKTFVLdGMtd0NuZGE0VmM3STJPOUpsZDR5bjRPdURjSVBuaTU4U09WRmFfZUZ4S2VoeWgtSzI4R3dmZS1",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "finance.sina.com.cn"
+    },
+    {
+      "title": "【读财报】浪潮信息：拟定增募资90亿元加码AI基础设施 上半年净利润同比增长269.59%",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMGhsYjU2LTdDNXBkb3VZN0s3ZVBnbmxnTjNhQzJGSmxmVlM5X25FWF9odmxHdDlDLXlzZWJMS1F1Sk5yWVJ0X2h",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "鸿富诚(301716.SZ)股票将于9月29日在创业板上市 提供者 智通财经",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rb1gtbWI4c2ROd2xHQ1drN21tNUdNTHFRYTVlbWozbnVyOFlRTXNzd2VFYnFENkdsMzRhaGtZV3RBX1daS0lIWVh",
+      "source_url": "https://cn.investing.com",
+      "source": "英为财情 Investing.com"
+    },
+    {
+      "title": "浙江帕瓦新能源股份有限公司关于公司股票被实施其他风险警示的进展公告",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MT1dqTTV5aUdveDhBRWk0alFfTktfRnZPYjR2OUtSRWk3Ump0VURZSGpLRWh1UWtsS0ZIRloyandRazZ1TDZaSFR",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "finance.sina.com.cn"
+    },
+    {
+      "title": "对 2026年、2027年、2028–2030年及以后 Nvidia (NVDA) 股票价格的预测",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNU83R3JQd0xRa0pEWFI5Y3pRNXFPb3dsZmpKTVZXRkh3R3VlcVB3X2pZb1RmQ2ZfaDAzZjlBdERpMlhBTS0wTU5",
+      "source_url": "https://www.litefinance.org",
+      "source": "LiteFinance"
+    }
+  ]
 }

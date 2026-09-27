@@ -1,14 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 0,
-    "trusted": 0,
-    "non_trusted_top": {},
-    "fresh1_24h": 0,
-    "page_fresh": 0,
+    "raw_dedup_junk": 32,
+    "trusted": 13,
+    "non_trusted_top": {
+      "sina.cn": 5,
+      "sina.com.cn": 2,
+      "cnnb.com.cn": 1,
+      "vanpeople.com": 1,
+      "hk01.com": 1,
+      "tradingkey.com": 1,
+      "creaders.net": 1,
+      "chosun.com": 1,
+      "stockstar.com": 1,
+      "investing.com": 1
+    },
+    "fresh1_24h": 12,
+    "page_fresh": 7,
     "relaxed_72h": 0,
-    "final": 0,
-    "cap": "不限同域"
+    "final": 7,
+    "cap": "同域≤2条"
   },
-  "final": []
+  "final": [
+    {
+      "t": "资金大幅涌入，两大方向",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "一笔超百亿投资为何投向一块载板?",
+      "d": "sohu.com"
+    },
+    {
+      "t": "高收益与高溢价并存 QDII基金呼吁“保持谨慎”",
+      "d": "sohu.com"
+    },
+    {
+      "t": "公告全知道",
+      "d": "cls.cn"
+    },
+    {
+      "t": "【求是缘活动报道】把展台走成\"流动的产业课堂\"",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "芯报丨紫光国微：收购瑞能半导体100%股权方案合规无利益损害",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "【明日主题前瞻】部分涨价50%！分析师称半导体12英寸硅片已成为全球晶圆制造的绝",
+      "d": "cls.cn"
+    }
+  ]
 }

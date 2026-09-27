@@ -1,14 +1,42 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 0,
-    "trusted": 0,
-    "non_trusted_top": {},
-    "fresh1_24h": 0,
-    "page_fresh": 0,
-    "relaxed_72h": 0,
-    "final": 0,
+    "raw_dedup_junk": 46,
+    "trusted": 9,
+    "non_trusted_top": {
+      "sina.com.cn": 10,
+      "ttplus.cn": 7,
+      "sina.cn": 6,
+      "investing.com": 2,
+      "moomoo.com": 2,
+      "tradingkey.com": 2,
+      "futunn.com": 2,
+      "litefinance.org": 1,
+      "stockstar.com": 1,
+      "sfccn.com": 1
+    },
+    "fresh1_24h": 7,
+    "page_fresh": 1,
+    "relaxed_72h": 3,
+    "final": 4,
     "cap": "不限同域"
   },
-  "final": []
+  "final": [
+    {
+      "t": "【读财报】浪潮信息：拟定增募资90亿元加码AI基础设施 上半年净利润同比增长26",
+      "d": "sohu.com"
+    },
+    {
+      "t": "PCB行业定增潮：293亿元投向AI，扩产新周期开启",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "顶立科技终止北交所IPO 原拟募资7.04亿元西部证券保荐_证券要闻",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "管涛：复盘上世纪末美联储加息周期与互联网泡沫的破裂",
+      "d": "ifeng.com"
+    }
+  ]
 }

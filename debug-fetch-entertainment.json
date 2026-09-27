@@ -1,5 +1,42 @@
 {
   "type": "entertainment",
-  "total": 0,
-  "samples": []
+  "total": 61,
+  "samples": [
+    {
+      "title": "中秋档电影市场热度持续走高 为文旅消费注入新动能",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHdqMFc2SFpadUluTG5oeXpmdTB5ZmZVWjg3d0lKN2FHc3NiUG96R3BiYlVjNUhwTHkzTEk5MzlfUlVUMmtGWW9",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.com.cn"
+    },
+    {
+      "title": "中秋档票房丨今夕是何年？2019年老片竟成榜首",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oWFlXdnVWRXREUWlHSkFtTERUR3VKb1JzRzRoMlFXWE5WSkdFYjFRTUVMakZxU3dXbGdiZHEzYVc3VXYyS1dBZHh",
+      "source_url": "http://k.sina.com.cn",
+      "source": "k.sina.com.cn"
+    },
+    {
+      "title": "《复仇者联盟4：终局之战》重映版以2600万美元的票房成绩领跑榜首。",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNemJDak9NVE5lZEJrWVJlWlh2UjM3N20xalNLZUI0NlFpLW95S2cwY2lkdk9HTHhOY2szeUFqcXdRODlPTGV3bDB",
+      "source_url": "https://www.vietnam.vn",
+      "source": "Vietnam.vn"
+    },
+    {
+      "title": "《湮灭之潮》获2026金摇杆奖“最受期待游戏”提名；《我的世界》发行17年全球销量超4.25亿份｜游",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JUGFFQnpUZE5lX0JGRzNyaTZ0bnNHbFZqMnV1YkhEaGNwY3I4Vm5peUx0eldQd1VDMDV2Znp1aHkwLUdTRXRXNGd",
+      "source_url": "https://www.mrjjxw.com",
+      "source": "mrjjxw.com"
+    },
+    {
+      "title": "亚运会|oca|首届亚洲电子竞技及智力运动会_新浪新闻",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BUWd4QnRzWUcyLUs2RmlQaFlvUTNDalBiNHlJclRyYkczX0I0M1I2ZUtfeUhYc09FWlZSMzhYWnVham1kNGdMaGh",
+      "source_url": "https://www.sina.cn",
+      "source": "sina.cn"
+    },
+    {
+      "title": "电竞退出亚运会，2026 年爱知是最后一届，Faker 说会珍惜|亚奥理事会|科威特|菲律宾_新浪新",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90UGl4YXhPVktBZWlnTW9tOEZxaHNNYjRQVVNNWlVQZVZOV1RvWktMa2lTMU00eGxUUmIydm1EY0NUcHdkYVZJbU5",
+      "source_url": "https://www.sina.cn",
+      "source": "sina.cn"
+    }
+  ]
 }

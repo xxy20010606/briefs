@@ -1,14 +1,38 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 0,
-    "trusted": 0,
-    "non_trusted_top": {},
-    "fresh1_24h": 0,
-    "page_fresh": 0,
+    "raw_dedup_junk": 39,
+    "trusted": 4,
+    "non_trusted_top": {
+      "autohome.com.cn": 12,
+      "sina.com.cn": 5,
+      "wedoany.com": 5,
+      "sina.cn": 3,
+      "indexbox.io": 3,
+      "cfi.net.cn": 2,
+      "zhiding.cn": 1,
+      "bbtnews.com.cn": 1,
+      "mydrivers.com": 1,
+      "ttplus.cn": 1
+    },
+    "fresh1_24h": 4,
+    "page_fresh": 3,
     "relaxed_72h": 0,
-    "final": 0,
+    "final": 3,
     "cap": "不限同域"
   },
-  "final": []
+  "final": [
+    {
+      "t": "10亿！三峡成立新公司！",
+      "d": "sohu.com"
+    },
+    {
+      "t": "SST 市场到底有多大？2GW 在手、10GW 跟进，能否撑起千亿预期？",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "比亚迪2000座闪充站落成！宾利纯电SUV售价198万！岚图梦想家9、启境GX7",
+      "d": "eet-china.com"
+    }
+  ]
 }

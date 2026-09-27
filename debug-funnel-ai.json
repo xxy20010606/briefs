@@ -1,14 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 0,
-    "trusted": 0,
-    "non_trusted_top": {},
-    "fresh1_24h": 0,
-    "page_fresh": 0,
-    "relaxed_72h": 0,
-    "final": 0,
-    "cap": "不限同域"
+    "raw_dedup_junk": 49,
+    "trusted": 13,
+    "non_trusted_top": {
+      "sina.cn": 10,
+      "sina.com.cn": 8,
+      "stockstar.com": 3,
+      "ttplus.cn": 3,
+      "ebrun.com": 2,
+      "fx678.com": 1,
+      "mrjjxw.com": 1,
+      "scol.com.cn": 1,
+      "aboluowang.com": 1,
+      "ac.cn": 1
+    },
+    "fresh1_24h": 13,
+    "page_fresh": 4,
+    "relaxed_72h": 4,
+    "final": 7,
+    "cap": "同域≤3条"
   },
-  "final": []
+  "final": [
+    {
+      "t": "科技金融加速跟进人工智能赛道",
+      "d": "ce.cn"
+    },
+    {
+      "t": "没有杀手级场景的产品是很难大规模流行的",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "每天开300万个\"隔离小房间\"训AI？DeepSeek这篇论文，暴露了Agent",
+      "d": "sohu.com"
+    },
+    {
+      "t": "OpenAI突然收购，500万人Codex，永不下线",
+      "d": "36kr.com"
+    },
+    {
+      "t": "OpenAI再曝大模型越界行为！盖茨加入AI安全论战：足以导致“十亿人死亡”",
+      "d": "cls.cn"
+    },
+    {
+      "t": "北京发布“京彩智联”行动计划 银发文教成AI新赛道",
+      "d": "sohu.com"
+    },
+    {
+      "t": "晚报 | 9月28日主题前瞻",
+      "d": "sohu.com"
+    }
+  ]
 }

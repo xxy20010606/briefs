@@ -1,5 +1,42 @@
 {
   "type": "newenergy",
-  "total": 0,
-  "samples": []
+  "total": 39,
+  "samples": [
+    {
+      "title": "乐山市五通桥区：千年盐城 突围崛起",
+      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQYUp0aG40NGNBMk9oTkJLWVpGYjc4a0F0UExtS0hqWVcyMmRzMDBIN0JEVXNkQ3UxX2p1Rkp0VUxCLVJYRVA5WXB",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.com.cn"
+    },
+    {
+      "title": "10亿！三峡成立新公司！",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlgyMnZVMzFuWDltNnhxSVFxeHRKYTlPSFFodG5xc1F1X0c4ZWNsSy1ISFROTjZzQk1xUkpXdjBKTGdxUFlQWlV",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "36GW，中广核内蒙古三大新能源基地启动，配置储能/火电等",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEYlViWjJZRWRtdFdmdHFFd1Azalp4Ml96RGZMMVdQZjFCalRva20yUmd5LTBTVzJwUTEtLUFwUkNEMXlBX0pUV3N",
+      "source_url": "https://k.sina.com.cn",
+      "source": "k.sina.com.cn"
+    },
+    {
+      "title": "智利储能与可再生能源项目投资持续增长-能源电力",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2NG0tSHoyZmJfOFlkTjNteWRXZ0pBV256YUlwVUhjR2otMzNpWmJQMWxSYmFieGhId01qeTJmeGc0eUM3NXp1Zjd",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
+    },
+    {
+      "title": "SST 市场到底有多大？2GW 在手、10GW 跟进，能否撑起千亿预期？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nQ251WWgtWHVyNkNzcnBQa0k0eDBSVkg4aVZ0Z1BJSDI3TnFGZlZ5emltaDJESDNJYXZ0cW15NjVlVW40STBCTDh",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "加速掘金新兴产业，险资争当科创“耐心资本”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83ZE5nRXktNjJZNE9LQTZBUTVxV1FpY2dST0I1VVhHaDBfVnVXTXBBOXpYZFZJcWcyZFVsTk5wZUlaSjVVV21SRm1",
+      "source_url": "http://m.bbtnews.com.cn",
+      "source": "bbtnews.com.cn"
+    }
+  ]
 }
