@@ -1,42 +1,5 @@
 {
   "type": "semiconductor",
-  "total": 29,
-  "samples": [
-    {
-      "title": "光子集成芯片厂商苏州易缆微完成数亿元A+++轮融资",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uSVJzM01lc3JmcFctcXFZWmZIdlhCaV8wNTlTNE85THdZRlNWSksyWXBzT1V4UnN2NTlkMlNwZ1pNUlRKMEJGUzI",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
-    },
-    {
-      "title": "1500亿美元！美股半导体最大IPO",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUdFM5M1BoM25jQ3pnbER0NUJPMFYxOWlKZzdmTmthaG1IQmNCTVo2a0RQdHJDMTVzTnM0V2VZVHd5dDJWQlpobGJ",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "费城半导体指数(.SOX)股票股价, 市值, 实时行情, 走势图, 财报",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QLUt1U2M2RU5fbTczZUJacGVna2RnMjNLUjJiSVZWdnRteWJnLWpNSXRyREx2bUZOOHAya2NQT0VLaFQzTjNiNm9",
-      "source_url": "https://www.moomoo.com",
-      "source": "moomoo.com"
-    },
-    {
-      "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUlBkNVdaVGxNUG1fbEJ0YjhMYjZHZ3hleHY2aXI3MkRsNTNqVlZyWFJ6ZUMxcTBUT3Qyb3JRblZqTEdudzlWbQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "欧洲市值最高的企业，竟在欧洲本土“零销售”",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uQ3QzaUZRVmNWMTlmNXdvWGhGdUFwenZjRndCb0M1azctUjExUGUwYkt1SjdhYUZZblk1Tk9MYXAtRkVCX0JCTQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "2026年全球七大存储巨头排名：铠侠、闪迪领涨，AI存储超级周期谁最强？",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEJDTzdJRFZiNVBhR003TTRGUW9wallITWNMVmJVazlQYTNIZXBFNkY0ZllqZmdlRThvNDNOdTFJTlNrTThMUHN",
-      "source_url": "https://www.tradingkey.com",
-      "source": "TradingKey"
-    }
-  ]
+  "total": 0,
+  "samples": []
 }

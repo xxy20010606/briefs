@@ -1,42 +1,5 @@
 {
   "type": "ai_apps",
-  "total": 20,
-  "samples": [
-    {
-      "title": "Meta AI代理应用Muse跻身应用商店前列，数万名员工参与内部测试迭代",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMklMMENCSWdVSmxhZVpGRHJZOURMbWZXTmJuZ2ZOckg5d09TVV9zS25SdWx4bmE5Q0RWaWhHVDNaRU00S1dWdVB",
-      "source_url": "https://www.digitaltoday.co.kr",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "苹果发布 LensVLM-9B, 一款读取压缩文档的模型",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS1gwTmJ5eV81UFk1bXUwLVhfMnhZVjBMTjN2NjEzQ2ROOWY4U0twX2ltMFpZTTBocXVTWmFqeVFMNXZaWjlRRjV",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "电遇app下载：让AI能力在开发者手中释放更大价值",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nQlpfVTBIS3YxdW9UMGJ1RHFNc3NiaExncUhRNDRBSGhWaC1lQ3RKVVJQQ3ZkdlJ2WWRGYzNoLTlMUkM0M3pFRm9",
-      "source_url": "https://m.ttplus.cn",
-      "source": "体坛"
-    },
-    {
-      "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84dFE3Mmc3WS1jQVJmNUNBdkZ2UlhJUTAtaHdIZVB5NnNCQ1lmaGg5U0FGSXNGTUFnVG14eDFiYUh0d2ZoVUh4Yw?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "微软股价，大幅拉升",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02QW85V2haZlpjVzhVYy1EVkxJbnN6YVdobGFYVnVBcjF4R2I0X3JXTDgxdzBuNnVtOWVwRXlBTWdmalo1ZnNjS2E",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "Call for Me 登陆 Pixel 11, Gemini 替你给商店打电话",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOHRzaTdLTXRWOElzTVNiQ0JDM0I4aHRTbUxLZzZITXMzYkFTTDRFM0Z5WUhtc3gwUnVwVFZlMTRWNjlGUGQ0VUx",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    }
-  ]
+  "total": 0,
+  "samples": []
 }

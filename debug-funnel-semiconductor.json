@@ -1,42 +1,14 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 29,
-    "trusted": 10,
-    "non_trusted_top": {
-      "tradingkey.com": 3,
-      "sina.cn": 3,
-      "ttplus.cn": 3,
-      "chosun.com": 2,
-      "sina.com.cn": 1,
-      "moomoo.com": 1,
-      "ua.news": 1,
-      "eastmoney.com": 1,
-      "bannedbook.org": 1,
-      "autohome.com.cn": 1
-    },
-    "fresh1_24h": 10,
-    "page_fresh": 3,
-    "relaxed_72h": 1,
-    "final": 4,
+    "raw_dedup_junk": 0,
+    "trusted": 0,
+    "non_trusted_top": {},
+    "fresh1_24h": 0,
+    "page_fresh": 0,
+    "relaxed_72h": 0,
+    "final": 0,
     "cap": "不限同域"
   },
-  "final": [
-    {
-      "t": "光子集成芯片厂商苏州易缆微完成数亿元A+++轮融资",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "湖北、浙江国资出手半导体先进封装创企",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "高瓴、东方富海，押注AI芯片卖铲人！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "反超韩国三星、SK海力士：长鑫凭什么最赚钱？",
-      "d": "sohu.com"
-    }
-  ]
+  "final": []
 }

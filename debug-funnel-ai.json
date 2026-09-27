@@ -1,38 +1,14 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 29,
-    "trusted": 6,
-    "non_trusted_top": {
-      "sina.com.cn": 6,
-      "eastmoney.com": 3,
-      "ac.cn": 3,
-      "sina.cn": 2,
-      "crntt.com": 1,
-      "mastercard.com": 1,
-      "tradingkey.com": 1,
-      "yeeyi.com": 1,
-      "atvnewsonline.com": 1,
-      "mydrivers.com": 1
-    },
-    "fresh1_24h": 6,
-    "page_fresh": 3,
+    "raw_dedup_junk": 0,
+    "trusted": 0,
+    "non_trusted_top": {},
+    "fresh1_24h": 0,
+    "page_fresh": 0,
     "relaxed_72h": 0,
-    "final": 3,
+    "final": 0,
     "cap": "不限同域"
   },
-  "final": [
-    {
-      "t": "AI 制药迎来质变时刻：Anthropic 自建湿实验室，干湿闭环打通产业最后一",
-      "d": "sohu.com"
-    },
-    {
-      "t": "大模型下半场，拼的不再是 GPU！DeepSeek 亮出 Agent 时代的底层",
-      "d": "sohu.com"
-    },
-    {
-      "t": "OpenAI突然收购，500万人Codex，永不下线",
-      "d": "36kr.com"
-    }
-  ]
+  "final": []
 }

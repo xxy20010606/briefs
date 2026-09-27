@@ -1,37 +1,14 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 11,
-    "trusted": 4,
-    "non_trusted_top": {
-      "sina.com.cn": 3,
-      "sina.cn": 1,
-      "autohome.com.cn": 1,
-      "mydrivers.com": 1,
-      "indexbox.io": 1
-    },
-    "fresh1_24h": 4,
-    "page_fresh": 1,
-    "relaxed_72h": 3,
-    "final": 4,
+    "raw_dedup_junk": 0,
+    "trusted": 0,
+    "non_trusted_top": {},
+    "fresh1_24h": 0,
+    "page_fresh": 0,
+    "relaxed_72h": 0,
+    "final": 0,
     "cap": "不限同域"
   },
-  "final": [
-    {
-      "t": "首个零碳AIDC项目来了！",
-      "d": "sohu.com"
-    },
-    {
-      "t": "10亿！三峡设立青海能源新平台，布局风光储大基地",
-      "d": "sohu.com"
-    },
-    {
-      "t": "肇庆新区这家企业荣获重磅荣誉！成为肇庆市首家虚拟电厂运营商",
-      "d": "sohu.com"
-    },
-    {
-      "t": "理想把电池自研推向15C超充与固态电池",
-      "d": "jiemian.com"
-    }
-  ]
+  "final": []
 }

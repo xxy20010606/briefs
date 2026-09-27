@@ -1,19 +1,10 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 20,
-    "trusted": 1,
-    "non_trusted_top": {
-      "pasqualepillitteri.it": 8,
-      "ttplus.cn": 3,
-      "sina.com.cn": 3,
-      "digitaltoday.co.kr": 1,
-      "vietnam.vn": 1,
-      "beareyes.com.cn": 1,
-      "sina.cn": 1,
-      "eastmoney.com": 1
-    },
-    "fresh1_24h": 1,
+    "raw_dedup_junk": 0,
+    "trusted": 0,
+    "non_trusted_top": {},
+    "fresh1_24h": 0,
     "page_fresh": 0,
     "relaxed_72h": 0,
     "final": 0,

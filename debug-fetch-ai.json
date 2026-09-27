@@ -1,42 +1,5 @@
 {
   "type": "ai",
-  "total": 29,
-  "samples": [
-    {
-      "title": "智能经济何以塑造中国发展新优势",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nbEF5TFRBY2h3alFfWURfTDJxV09Qb2Z1SUg5WkM4MG1iQTFKeEZwbGFVSU1DSURwRzI4QWNYWDBwdFAyYjZCLWU",
-      "source_url": "https://news.sina.com.cn",
-      "source": "新浪新闻_手机新浪网"
-    },
-    {
-      "title": "鄞州发布“带着AI上前线”12个场景清单 招募“AI合伙人”下场解真题",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FLUdDV1oyMzdlLUs0a1ZZSzFyaXZjelpxUWZWaDlNMU9scy1Vb0lUVzBwTVBtOGZCY0pBMHNNZ2pQekNaWnVHQ3d",
-      "source_url": "https://news.sina.com.cn",
-      "source": "新浪新闻_手机新浪网"
-    },
-    {
-      "title": "7天两场演讲，中国两大AI云撞了同一个爱迪生|人民日报社|云栖大会|Token|吴泳铭|大模型_手机",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVVpJSmNESmNWSHRMaExCOE96b3VwNUF4MV9RbVZTdHluc01XSlB5Z0p3a1FyQzlKcUVPSVNfcXcwZXFSSmlWbEM",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "大模型千千万，背后撑腰的产业链是什么？一文读懂创业板人工智能（159363）",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORG1nUk5naW56dU1sY1hzQWVnZnV6bW9kUDF4ZWtCMWgtNUVDR3R1SFQwNDlMel93UkNBQ09rakdDMnhfSm56NUV",
-      "source_url": "https://caifuhao.eastmoney.com",
-      "source": "财富号"
-    },
-    {
-      "title": "“中国的魅力无以言表！”总台专访马斯克完整视频来了！回应中国市场、人工智能等热点问题",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOck9PdjloMFZkQjNQdXBGTG9Qa1czYTVteGFzWEJyRkR6Ujg1V1k0RE9yUE00UENibzlqdVJIUFFsb1c0dWVpbmR",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "AI 制药迎来质变时刻：Anthropic 自建湿实验室，干湿闭环打通产业最后一关",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzJ0OE9hRzBJYUZJV0RESURzekdOcHVfNTcxaWhUNS02UWVZd0dzQ1diZk43aEEwUjdXTHA3Q2JjeDM0Vk56VWE",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    }
-  ]
+  "total": 0,
+  "samples": []
 }

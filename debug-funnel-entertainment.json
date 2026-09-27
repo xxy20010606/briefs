@@ -1,54 +1,14 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 51,
-    "trusted": 11,
-    "non_trusted_top": {
-      "sina.cn": 7,
-      "rediandf.com": 5,
-      "hupu.com": 3,
-      "sina.com.cn": 2,
-      "ttplus.cn": 2,
-      "jfdaily.com.cn": 2,
-      "360.com": 2,
-      "bjd.com.cn": 2,
-      "vietnam.vn": 1,
-      "aboluowang.com": 1
-    },
-    "fresh1_24h": 8,
-    "page_fresh": 2,
-    "relaxed_72h": 9,
-    "final": 7,
-    "cap": "同域≤2条"
+    "raw_dedup_junk": 0,
+    "trusted": 0,
+    "non_trusted_top": {},
+    "fresh1_24h": 0,
+    "page_fresh": 0,
+    "relaxed_72h": 0,
+    "final": 0,
+    "cap": "不限同域"
   },
-  "final": [
-    {
-      "t": "光明日报艺萃版：墨写人生况味",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "中国儿艺原创舞台剧《十二生肖》亮相悉尼",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "耗资1亿上映2天就被判死刑，票房仅16.3万，沈腾接班人成一个笑话",
-      "d": "sohu.com"
-    },
-    {
-      "t": "日本11岁小学生成亚运史上最年轻冠军，呆萌表情抢镜",
-      "d": "sohu.com"
-    },
-    {
-      "t": "去世仅1天，人民日报对游本昌的称呼变了，六字之差释放强烈信号",
-      "d": "163.com"
-    },
-    {
-      "t": "《一饭封神2》主厨坐镇，广东首个米其林美食节再次启幕",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "从“完成”到“准确” 北京人艺《小郡之秋》二轮登台",
-      "d": "chinanews.com.cn"
-    }
-  ]
+  "final": []
 }

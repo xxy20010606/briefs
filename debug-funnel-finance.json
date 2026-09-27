@@ -1,54 +1,14 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 33,
-    "trusted": 14,
-    "non_trusted_top": {
-      "sina.com.cn": 3,
-      "ttplus.cn": 3,
-      "stockstar.com": 2,
-      "sinchew.com.my": 2,
-      "moomoo.com": 2,
-      "jin10.com": 2,
-      "hk01.com": 1,
-      "enanyang.my": 1,
-      "jkn.co.kr": 1,
-      "futunn.com": 1
-    },
-    "fresh1_24h": 11,
-    "page_fresh": 4,
-    "relaxed_72h": 4,
-    "final": 7,
-    "cap": "同域≤2条"
+    "raw_dedup_junk": 0,
+    "trusted": 0,
+    "non_trusted_top": {},
+    "fresh1_24h": 0,
+    "page_fresh": 0,
+    "relaxed_72h": 0,
+    "final": 0,
+    "cap": "不限同域"
   },
-  "final": [
-    {
-      "t": "A股：不用等下周沪指突破3900点了，又有信号传来，股市大概率将这样走",
-      "d": "163.com"
-    },
-    {
-      "t": "A股：不必等下周股市开盘，市场动向已明显，明后两天将毫无意外",
-      "d": "163.com"
-    },
-    {
-      "t": "腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "MLCC龙头股，或遭清仓式减持",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "油市重磅：沙特9月出口量创7个月以来新高，环比飙升近80%",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "镜鉴1929：华尔街旧事，照见AI新时代| 《财经》书评",
-      "d": "sohu.com"
-    },
-    {
-      "t": "交通银行平顶山分行2项违规被罚贷款资金回流借款人等_银行业内动态",
-      "d": "cnfol.com"
-    }
-  ]
+  "final": []
 }
