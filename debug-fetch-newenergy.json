@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 39,
+  "total": 55,
   "samples": [
     {
-      "title": "乐山市五通桥区：千年盐城 突围崛起",
-      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQYUp0aG40NGNBMk9oTkJLWVpGYjc4a0F0UExtS0hqWVcyMmRzMDBIN0JEVXNkQ3UxX2p1Rkp0VUxCLVJYRVA5WXB",
+      "title": "张振涛：二氧化碳储能，“十五五”有望迎来规模化商业化",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRDdkZG5MOWdWcFJ5dm9sQTFUbVQ5U3hSWWFYclJSbWtRWXc0eVRNSFdEZVc3U0dBS1NQYW8tcWxkTTRUVlUzT2R",
       "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
+      "source": "新浪财经"
     },
     {
-      "title": "10亿！三峡成立新公司！",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlgyMnZVMzFuWDltNnhxSVFxeHRKYTlPSFFodG5xc1F1X0c4ZWNsSy1ISFROTjZzQk1xUkpXdjBKTGdxUFlQWlV",
+      "title": "“毛细血管”里的千亿生意：阳光新能源唤醒商用光储市场",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00VnFvYmNpRWx3Vm1HWW1Kb0lxVnoyYk9CRVZUZk5VcWtLNkxHS0Z3UVZKSzFsbEpYZ1BTODUyWjRDY0F6MUswUWM",
+      "source_url": "https://m.tech.china.com",
+      "source": "tech.china.com"
+    },
+    {
+      "title": "InfoLink 数据：2026上半年蜂巢能源全球动力电芯出货第8、乘用车电芯第7，双榜跻身全球前1",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcUhRY2J0ci12dmtOOV91Wm42MG9OX05KcUNQdks5LUhqN0dCdW1CRXpUUjdmN1NFeXJ3b3JVd2Y3SzItYWUzYkp",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "36GW，中广核内蒙古三大新能源基地启动，配置储能/火电等",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEYlViWjJZRWRtdFdmdHFFd1Azalp4Ml96RGZMMVdQZjFCalRva20yUmd5LTBTVzJwUTEtLUFwUkNEMXlBX0pUV3N",
-      "source_url": "https://k.sina.com.cn",
-      "source": "k.sina.com.cn"
+      "title": "我国首个千万千瓦级“沙戈荒”基地取得关键进展，就在内蒙古",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DT2FhTERnaHlyMzNIT1lBLVhtbUpQTGxsS1dON2xZR3hDSWp3ckhHQ0I0YWdrOHZ1MTkyQ1AxVkNvdzhVTnd6S25",
+      "source_url": "https://tidenews.com.cn",
+      "source": "潮新闻客户端"
     },
     {
-      "title": "智利储能与可再生能源项目投资持续增长-能源电力",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2NG0tSHoyZmJfOFlkTjNteWRXZ0pBV256YUlwVUhjR2otMzNpWmJQMWxSYmFieGhId01qeTJmeGc0eUM3NXp1Zjd",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "星星充电发布场景微电网战略 加快拓展综合能源服务新未来",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcTBFYlZzNzY4SFU0UDNteGZzVEpJRW04dW45dFVkd21WNUtQSy13SjRPMGJQRWtTOGZSSmEwd0M5RnI3Y1Azdm5",
+      "source_url": "http://jjckb.xinhuanet.com",
+      "source": "经济参考报"
     },
     {
-      "title": "SST 市场到底有多大？2GW 在手、10GW 跟进，能否撑起千亿预期？",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nQ251WWgtWHVyNkNzcnBQa0k0eDBSVkg4aVZ0Z1BJSDI3TnFGZlZ5emltaDJESDNJYXZ0cW15NjVlVW40STBCTDh",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
-    },
-    {
-      "title": "加速掘金新兴产业，险资争当科创“耐心资本”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83ZE5nRXktNjJZNE9LQTZBUTVxV1FpY2dST0I1VVhHaDBfVnVXTXBBOXpYZFZJcWcyZFVsTk5wZUlaSjVVV21SRm1",
-      "source_url": "http://m.bbtnews.com.cn",
-      "source": "bbtnews.com.cn"
+      "title": "56亿合资落地！华能、宁德新公司落地西藏，布局风光水储",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4OUIzVlp2T1FEZ2FqcWZZeWZqTzd1YjdMNWdoZXVaZzF5bkxJRUtmVHJTRHlWd2RjekQ3RUxFd2E4b3dJaXhfMlh",
+      "source_url": "https://m.ne21.com",
+      "source": "世纪新能源网"
     }
   ]
 }

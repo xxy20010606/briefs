@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 13,
+    "raw_dedup_junk": 72,
+    "trusted": 25,
     "non_trusted_top": {
+      "sina.com.cn": 10,
       "sina.cn": 10,
-      "sina.com.cn": 8,
-      "stockstar.com": 3,
-      "ttplus.cn": 3,
-      "ebrun.com": 2,
-      "fx678.com": 1,
-      "mrjjxw.com": 1,
-      "scol.com.cn": 1,
-      "aboluowang.com": 1,
-      "ac.cn": 1
+      "csdn.net": 4,
+      "china.com": 2,
+      "ac.cn": 2,
+      "zhiding.cn": 2,
+      "caiwennews.com": 1,
+      "rmzxw.com.cn": 1,
+      "zjol.com.cn": 1,
+      "guandian.cn": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 4,
-    "relaxed_72h": 4,
+    "fresh1_24h": 25,
+    "page_fresh": 21,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "科技金融加速跟进人工智能赛道",
-      "d": "ce.cn"
+      "t": "数字政通“人和”大模型通过国家网信办生成式人工智能服务备案",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "没有杀手级场景的产品是很难大规模流行的",
+      "t": "AI从算力竞赛走向数据竞赛，闪迪携核心存储产品亮相云栖大会",
+      "d": "sohu.com"
+    },
+    {
+      "t": "米哈游拟三年内进入国产大模型第一梯队：千人千面体验",
+      "d": "sohu.com"
+    },
+    {
+      "t": "聚焦前沿 AI 三大方向，第七届中国人工智能大赛正式启动",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "OpenAI三个月内两次暂停AI智能体训练，面临多次自主越狱与网络入侵事件",
       "d": "huxiu.com"
     },
     {
-      "t": "每天开300万个\"隔离小房间\"训AI？DeepSeek这篇论文，暴露了Agent",
-      "d": "sohu.com"
+      "t": "数智驱动创新丨“AI＋新材料”亮点抢先看",
+      "d": "ifeng.com"
     },
     {
-      "t": "OpenAI突然收购，500万人Codex，永不下线",
-      "d": "36kr.com"
-    },
-    {
-      "t": "OpenAI再曝大模型越界行为！盖茨加入AI安全论战：足以导致“十亿人死亡”",
-      "d": "cls.cn"
-    },
-    {
-      "t": "北京发布“京彩智联”行动计划 银发文教成AI新赛道",
-      "d": "sohu.com"
-    },
-    {
-      "t": "晚报 | 9月28日主题前瞻",
-      "d": "sohu.com"
+      "t": "中美AI走向不同路径：美国资本定价，中国政策铺路",
+      "d": "huxiu.com"
     }
   ]
 }

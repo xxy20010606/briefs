@@ -1,38 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 39,
-    "trusted": 4,
+    "raw_dedup_junk": 55,
+    "trusted": 18,
     "non_trusted_top": {
-      "autohome.com.cn": 12,
+      "autohome.com.cn": 8,
+      "ne21.com": 5,
       "sina.com.cn": 5,
-      "wedoany.com": 5,
-      "sina.cn": 3,
-      "indexbox.io": 3,
-      "cfi.net.cn": 2,
-      "zhiding.cn": 1,
-      "bbtnews.com.cn": 1,
-      "mydrivers.com": 1,
-      "ttplus.cn": 1
+      "sina.cn": 2,
+      "seetao.com": 2,
+      "news18a.com": 2,
+      "indexbox.io": 2,
+      "china.com": 1,
+      "tidenews.com.cn": 1,
+      "in-en.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 3,
+    "fresh1_24h": 18,
+    "page_fresh": 18,
     "relaxed_72h": 0,
-    "final": 3,
-    "cap": "不限同域"
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "10亿！三峡成立新公司！",
+      "t": "InfoLink 数据：2026上半年蜂巢能源全球动力电芯出货第8、乘用车电芯第",
       "d": "sohu.com"
     },
     {
-      "t": "SST 市场到底有多大？2GW 在手、10GW 跟进，能否撑起千亿预期？",
-      "d": "eet-china.com"
+      "t": "星星充电发布场景微电网战略 加快拓展综合能源服务新未来",
+      "d": "xinhuanet.com"
     },
     {
-      "t": "比亚迪2000座闪充站落成！宾利纯电SUV售价198万！岚图梦想家9、启境GX7",
-      "d": "eet-china.com"
+      "t": "从“新能源产业化”到“产业新能源化”，中国新能源正迈入全新阶段",
+      "d": "sohu.com"
+    },
+    {
+      "t": "重磅签约!隆基绿能携手山东德缘电力，共启山东工商业光储融合新篇章",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "25.65MW、76 把充电枪！泰安首批5座国省道重卡充电示范站建成投用",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "国家光伏、储能实证实验平台（大庆基地）四期工程建设提速增效",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "比亚迪电池与营口、 辽阳签署零碳与新能源产业合作协议",
+      "d": "gasgoo.com"
     }
   ]
 }

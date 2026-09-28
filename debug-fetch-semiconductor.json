@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 32,
+  "total": 45,
   "samples": [
     {
-      "title": "资金大幅涌入，两大方向",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NRnd4NG4xQWJITEdfMnFiem41YXpNN2FMbi1uUEdtVHpTN09zbEQzYmhFZUtLQ1Vhd3RYTFVGQ3RELWx6X1Q2a05",
-      "source_url": "http://news.10jqka.com.cn",
-      "source": "同花顺财经"
+      "title": "RMCS V1.0：国产芯片注入军工制造能力，直面关节电机系统级挑战",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzZhR01LbWpnVHc1MnNzZDJzLTIxQkMtdklvckJCNVRVNDVsOXFzT2RoaVpfUXZlcUxmM0Y2clRhZE9QVlpLV3d",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "向“芯”突围！宁波泛半导体产业加速起势-新闻中心",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83NWwtaVhkUG50Rkhrb3B6bGhFNzRsc0VZb0hJbFY3Z183Q1doVHNTYWtFLWg5aVhZWnQ1WVFzS1gwNkRsZlJ2dlM",
-      "source_url": "http://news.cnnb.com.cn",
-      "source": "中国宁波网"
+      "title": "存储芯片巨头，正在签10年长约",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xMzZHSExzc0llRzZqTGxqTC1PckdBOHlmVlV2d0JqbV8ydWE4dVFxci1nNGNaaGlMNS1BaDYxLVdfeUZlTjVGMko",
+      "source_url": "https://wallstreetcn.com",
+      "source": "华尔街见闻"
     },
     {
-      "title": "摩根士丹利：资金正从芯片股轮动至AI云服务商 美股短期或难再创新高",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12ZmpfWGJZQ25kUXNudzE5akxfOXJrUHhqcDI3VTVZOW52a29ORmU5cy1sUlF6b0JtWWw5TXpOUklnOWduZmo3Vg?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "粤芯半导体披露IPO申购结果，网上中签率约0.0424%",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE52M1o1V0pyMGVId3hrNFVrQW9DX01ERW92WG80Y1VDczNoeVdzMEhWV0pfSTIySkFqU1hrNnB6UWcxSTQ?oc=5",
+      "source_url": "http://laoyaoba.com",
+      "source": "集微网"
     },
     {
-      "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94dWRHSUNMSGEyczRSS3ZHQ3JlMFY3cVRTcmpadkpmY0ZQQmRSb19rS1lzMlJaaTBqMXYyWlJHVVFHaTFCUGxTNQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "台积电参股公司VIS新加坡首座晶圆厂启用 良率至少99%",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rb3luNXQ5MjBpWXMxUTNfdE9YTWFxUDNRRXlSbkZXR19tTlQ4UEQ1NVN2NkE3cHdnd0Z6UC1KQmI4ZmRVU0FjWUx",
+      "source_url": "https://www.guandian.cn",
+      "source": "观点网"
     },
     {
-      "title": "“广州第一芯”，中签率公布",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sYXJWVVl3T1NvMEp3dmVQYzNROU1HRGFKTlZpY21jODlCajJQWWJydzk1STFHVy1SQmJUcEZSVEN2MEJxaVFjSlR",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
+      "title": "当封装变成晶圆工艺，安森美EPP如何打赢功率密度之战",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYMVl1WVRpcDZwS2lZdVQ2VXZWLTF3UHR3dS1tTHhId19wX0l4MWtGVnlVdVdOTXBFUUctcDdHY0o0N0l2MW4tMEN",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "中企难破三星美光SK海力士芯片三强格局",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yNkg3dllPbk5vVmdXeWNDY2xzbm9uMWF1ME1TRXFUYWVOME10VmlmdktYRFhJLUZ3UXJYVkZUbVE0NFhkM1ZCM0R",
-      "source_url": "https://info.vanpeople.com",
-      "source": "VanPeople"
+      "title": "300亿降税清单出炉，美国给的是止痛方绝非救命药，芯片半导体一分未动，关税大山仍压顶",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcm01ZkM5MFRfakp6eWs5OGdLd0FSeVNOaldReklFNE95VzVOQmQ2cjgxeGtlZnJEbVZuTm0xT1c5aF9tdGRWRGV",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     }
   ]
 }
