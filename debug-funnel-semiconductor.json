@@ -1,50 +1,53 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 26,
+    "raw_dedup_junk": 45,
+    "trusted": 27,
     "non_trusted_top": {
-      "sina.cn": 6,
-      "sina.com.cn": 4,
-      "stockstar.com": 2,
-      "cfi.net.cn": 2,
-      "mrjjxw.com": 1,
-      "chosun.com": 1,
-      "xhby.net": 1
+      "sina.cn": 3,
+      "sina.com.cn": 3,
+      "guandian.cn": 2,
+      "cnbeta.com.tw": 2,
+      "fx168news.com": 2,
+      "china.com": 1,
+      "stockstar.com": 1,
+      "asiae.co.kr": 1,
+      "icsmart.cn": 1,
+      "chosun.com": 1
     },
-    "fresh1_24h": 24,
-    "page_fresh": 10,
+    "fresh1_24h": 26,
+    "page_fresh": 22,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "神州股份冲刺科创板：上半年营收3.8亿，拟募资25亿，英特尔与长存是股东-36氪",
-      "d": "36kr.com"
+      "t": "国民技术：6000万元投资属于集成电路板块MCU生态链战略投资，投向Nor Fl",
+      "d": "sohu.com"
     },
     {
-      "t": "粤芯半导体，中签号出炉",
-      "d": "ifeng.com"
+      "t": "“项”上拼·“项”前进｜存储半导体晶圆测试探针卡项目在我区签约",
+      "d": "sohu.com"
     },
     {
-      "t": "美股芯片、光通信概念深夜重挫，高通跌超7%",
-      "d": "21jingji.com"
+      "t": "半导体ETF鹏华(159813)标的指数涨近1%，机构预估2027年存储器供应将",
+      "d": "eastmoney.com"
     },
     {
-      "t": "光通信概念深夜重挫，高通跌超7%，黄金白银大跌，加密货币超14万人被爆仓，特朗普",
-      "d": "10jqka.com.cn"
+      "t": "清溢光电55nm相移掩膜版产品完成交付",
+      "d": "ijiwei.com"
     },
     {
-      "t": "22:50:00【美股芯片股多数走低 ARM跌近10% 费城半导体指数跌3%】",
-      "d": "cls.cn"
+      "t": "又一12英寸晶圆厂启用!",
+      "d": "eet-china.com"
     },
     {
-      "t": "拟合计斥资349亿元！长鑫科技官宣投建两大新项目",
-      "d": "cls.cn"
+      "t": "三星、海力士三季报将至 AI存储需求增长迎来盈利验证",
+      "d": "eastmoney.com"
     },
     {
-      "t": "周刊丨半导体行业投融周动态（09.21—09.27）",
+      "t": "ST & Infineon专区丨现货促销，即时库存，下单即发！",
       "d": "eet-china.com"
     }
   ]

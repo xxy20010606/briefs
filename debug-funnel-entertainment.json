@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 75,
-    "trusted": 18,
+    "raw_dedup_junk": 58,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.cn": 11,
-      "rediandf.com": 6,
-      "china.com": 4,
-      "sina.com.cn": 3,
-      "pchome.net": 3,
-      "bjd.com.cn": 3,
-      "shangbaoindonesia.com": 2,
+      "sina.cn": 6,
+      "360.com": 4,
+      "sina.com.cn": 4,
+      "china.com": 3,
+      "westca.com": 2,
       "ttplus.cn": 2,
-      "360.com": 2,
-      "sortiraparis.com": 2
+      "gz-cmc.com": 2,
+      "tradingview.com": 1,
+      "kagit.kr": 1,
+      "ajudaily.com": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 6,
-    "relaxed_72h": 12,
+    "fresh1_24h": 12,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
+      "t": "股价异动博纳影业提醒：《三星堆：未来往事》尚未上映票房不确定，股东中信证投等完成",
+      "d": "sohu.com"
+    },
+    {
       "t": "从选手永久禁赛到网吧卸载，《绝地求生》越南赛事风波越闹越大",
       "d": "sohu.com"
     },
     {
-      "t": "首部AI院线电影《三星堆：未来往事》定档10.23 出品方博纳影业股票涨停",
-      "d": "sohu.com"
+      "t": "重大革命题材电视剧《征途》开播：千难万险间，他们凭什么踏出一条路",
+      "d": "cri.cn"
     },
     {
-      "t": "十五运会原班人马打造 《广秀——鳌·狮》11月9日首演",
-      "d": "21jingji.com"
+      "t": "老片重映递加新片预告：漫威用一场重映，为《复联5》提前“锁票”",
+      "d": "eastmoney.com"
     },
     {
-      "t": "国内首部AI院线电影《三星堆：未来往事》定档",
-      "d": "ce.cn"
+      "t": "“成都高新造”包揽中国动画影史票房前三",
+      "d": "cnr.cn"
     },
     {
-      "t": "风骨入舞 笔墨传神",
-      "d": "people.com.cn"
+      "t": "匠心演绎峥嵘岁月——重大革命题材剧《征途》全员演技获权威盛赞",
+      "d": "nbd.com.cn"
     },
     {
-      "t": "谢幕不散场——追忆表演艺术家游本昌",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "2026国庆档预售破2300万 无超级头部大片亲子片预售领先",
-      "d": "huxiu.com"
+      "t": "第五届华语纪录电影大会推优盛典闭幕 《劳途归巢》等获评推荐作品",
+      "d": "chinanews.com.cn"
     }
   ]
 }

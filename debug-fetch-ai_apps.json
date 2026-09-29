@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 72,
+  "total": 35,
   "samples": [
     {
-      "title": "挖来MongoDB CEO震惊华尔街，Meta高调进军企业AI业务",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWRNSFhUeWdFNG5RUEtJVHpIV2RKSzZpaldEOUhHMlFVVTBmWWZmOGdaU2hjdkpkSXFpai1ranVVTEJKdjc3Qkt",
+      "title": "从工具到“同事”！AI深入公募业务层面",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYY2ppUEFwYWhpdU92RXFMT1NJY3BGaU5YOC02TXFzQ2dzcUV5Z2pnYWdYcHpWeXRwR0V5Vk8yeXpZclYxZUFoZlp",
+      "source_url": "https://stock.stockstar.com",
+      "source": "证券之星"
+    },
+    {
+      "title": "Claude冲向资本之巅! AI应用爆发助营收跃升12倍瞄准2万亿美元估值的Anthropic欲问鼎",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOempZNnlfZFVtT0UzOUZrcVVicjVJVk1OS3UzVXpPbDZFblV2djh3eXBuTi1Ma1N0TmMxb3J4eG91TFBsbVBuZ2R",
+      "source_url": "https://www.moomoo.com",
+      "source": "Moomoo"
+    },
+    {
+      "title": "AI产业催化密集，国内AI指数“价值洼地”特征明显！科创创业人工智能ETF景顺(159142)或成布",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcFpTVXNQaUxnZXcxZWZMa3FvRldzZmlkOUc3U2NzWWhpeWFWYWczZzVScHBoV2ZOUWVnNHpfVFU4cDVFQmZ3bHF",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "全球一体化平台前15名公司作为服务(iPaaS)市场",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ1ZUWjNwbkd1cWRyXzZRUWlUdWRzcVN6NFM5Wml1LU40NVdWRmdwcjBfUVhZRDlNdEFpc3FSNzFyNDBUNE9GUmZ",
-      "source_url": "https://www.sphericalinsights.com",
-      "source": "Spherical Insights"
+      "title": "从模型堆砌到算力治理：连连智枢开启企业 AI 生产新阶段",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFFQNHFYT2hEUHJXWThlNE5XSFpuem8tVWQybU9tejV2dFBNZ05Rd3JLcE0yMXA0b0l0MVBHa0N3ZHZVaURiN25",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "AMD斥资82亿美元收购李飞飞的World Labs；SpaceX星舰首次进入地球轨道并完成“一箭2",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wZHl6UENZZ3B5TzBLc254RFZYQkMxN0x2SmxaY0ZfMGl3dXZSeWIzN0t6dEpTMnJNVWNqNE9JWVA5MmxTaEdsa2Z",
-      "source_url": "https://www.mrjjxw.com",
-      "source": "mrjjxw.com"
+      "title": "阿里Token制度全面改革，各BU自付AI使用成本",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUw4WTMycnU4dUoxS2liNFlWTmlQUDlJOVdIdWc4SGFsMC0xQlc5S3JwV1hQWkFqZzh6SjAtRXh5OE5RbmNqM1F",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "Liner发布Actions MCP：一次接入即可调用约1100款应用",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU25hYlY4UTFOZldWS0pXSGdobG1SM2kwbVZYZFZQTGZMb1IxaFJCelJLNzF5eEh4b3Q5NEc5TG9PNTA5UlVsbUF",
-      "source_url": "https://www.digitaltoday.co.kr",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "AMD 将以 $8.2B 全股票交易收购 AI 实验室 World Labs",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORjRsaXN4ZGdBcUwwcGdkclNvZVExXzdFOTl3ejJiQ1pvMU5nQXFuNmRIOFl5Y2xDNE5FYnJXOE5PdEIyQl8tbHJ",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "AI打平创业门槛之后，AI应用大爆发|Agent|WPS AI|飞书|数据|模型_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQeWw3T2FFTFoya3FiREpUdldIQ1BkR2RVaGc0MDduNjZMX1pMbkJfbXZhbmdUX0M5cnNsckRVREYtZXEyMmhWQU5",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
+      "title": "Gemini AI客服上线虚拟形象功能，引发不安-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IeW5hOEhLMEhpSXpQNi1adnEteHNGeGxNQk1QRVhNMTlDd3VTUXZPRUFUVXhpVWdaVkU2cHVZeGxGeFN6M3JBbUN",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
     }
   ]
 }

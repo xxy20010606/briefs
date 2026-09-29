@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 63,
+  "total": 54,
   "samples": [
     {
-      "title": "AMD以82亿美元收购李飞飞创立的AI公司World Labs",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5acEVIeTV6OENfdnc5ZFUwOElYNF83YWNVMHdGVUdweGVNSWpDTEpjcWJfeDJJRjNvamtZamk2aTlXTkE4dy13RUN",
+      "title": "AI正在重塑健康管理，谁能抓住“主动健康”的新场景？",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9rWkxaT1hyczBNS25ydUhuT0VLUmdYOUtDbFQ4S21MQ1ZUak16QmNnUkJOdThCS0wyZjBsaWNMMjNOTFNhcnRj?oc",
+      "source_url": "https://www.vbdata.cn",
+      "source": "动脉网"
+    },
+    {
+      "title": "我国开源大模型领跑全球 生成式AI用户规模突破7亿",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yX2t5c0h1dlN6b0FKd2dIZ1h4bm81MldLWGpMcXY1SmdCTTVPWHdKenZDUG5lS2ZURFVtdlpUMFc0bHo1V1VPalB",
       "source_url": "https://www.huxiu.com",
       "source": "虎嗅网"
     },
     {
-      "title": "AI保险首单落地 新型风险量化难",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xQXNieTFWN2Y3eExzOEcweGRuVU9NeHVjR0VveHBrdlU0V204dC1SS2pOM3JjOXo1UDlxUXVfbTVVTTV5NGZ4Uk1",
-      "source_url": "https://www.bbtnews.com.cn",
-      "source": "北京商报"
+      "title": "2026云栖大会：从大模型训练到本体实践，润和软件以精细化数据标注打造高质量评测集",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzJuTm1IczQ0bFg5T0NqdVNzVnZmR2wwM2JncDJUdkd0T2lzcUNJZW1IN3M5aktTUTJSQV9aQjFXTENsWjJSdkQ",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "银行拓展人工智能应用场景_银行业内动态",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkQlFiMmtScU8zSC1Fazk2S2lDMXFYd1l2QWpEeVp1bmhwbjJheUpicUJ4cXpqS1pXSEFEUmlDZU1OUGp2OWpBSWx",
-      "source_url": "http://bank.cnfol.com",
-      "source": "中金在线"
-    },
-    {
-      "title": "AI安全，正在成为下一个万亿级赛道？_公司新闻",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBbF80SDk1dTN5cFhCTjZFNllUS1o1bXFyeWY3WFItelhRczlqR2dFZ0t6OHplMVVUTC1fY2NtdmRwaWJnc3daaVZ",
-      "source_url": "http://stock.stockstar.com",
+      "title": "从工具到“同事”！AI深入公募业务层面",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYY2ppUEFwYWhpdU92RXFMT1NJY3BGaU5YOC02TXFzQ2dzcUV5Z2pnYWdYcHpWeXRwR0V5Vk8yeXpZclYxZUFoZlp",
+      "source_url": "https://stock.stockstar.com",
       "source": "证券之星"
     },
     {
-      "title": "《人工智能语料研究（英文）》（Data Express in AI Corpus）丨新刊推介",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iOHZjWmtuZDlHZklDYmtlY1prMG9oNEVwMmlycGl4MWNPREVZWmk2NXVVcU5yTWViRG9YWTVZVkYzZm9aeC1jNmI",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "从农业大模型到田间服务：2026世界农业科技创新大会期间农业人工智能系列活动举行",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40SWpzRlZQblBkYjV2ejFiY0hpUnk1QWdXYW96WGNjclZDYnNvampyM2JjeXBoTDlpQ1JDMVNrbHZZZG5QY2NETC1",
+      "source_url": "https://news.cau.edu.cn",
+      "source": "中国农业大学新闻网"
     },
     {
-      "title": "跨过万亿美元市值的AMD(AMD.US)开始争夺“算力定义权”! 官宣82亿美元鲸吞李飞飞创立的Wo",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51SzdOdks4c055TTZhWDRuZnZDaC1wLVlsNmp0RWhOdzlmSFRzZFFpUDI3SGlYM1FhYWpscGtHQ2tpc1RYQW1jR3k",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
+      "title": "AI安全之争何去何从？巨头招股书用80页阐述AI风险！三六零涨超2%，软件ETF汇添富(159590",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSdXo2QkJ6NkhyMkNySTVlc0J4ZWF5TXZrY0NZQlBfWVJfbEdkTFdEYW5ZaGNmSWVscVBZejZubnV5R2UwUE1Ga1p",
+      "source_url": "https://www.jiemian.com",
+      "source": "Jiemian.com"
     }
   ]
 }

@@ -1,46 +1,50 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 42,
-    "trusted": 13,
+    "raw_dedup_junk": 43,
+    "trusted": 12,
     "non_trusted_top": {
-      "stockstar.com": 4,
-      "jin10.com": 3,
-      "futunn.com": 3,
-      "sina.com.cn": 2,
-      "sina.cn": 2,
-      "on.cc": 2,
-      "moomoo.com": 2,
-      "capwhale.com": 2,
-      "atvnewsonline.com": 1,
-      "newswav.com": 1
+      "moomoo.com": 5,
+      "sina.com.cn": 4,
+      "futunn.com": 4,
+      "stockstar.com": 3,
+      "sina.cn": 3,
+      "odaily.news": 2,
+      "hstong.com": 2,
+      "tradingview.com": 1,
+      "jin10.com": 1,
+      "vtmarkets.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 2,
-    "relaxed_72h": 3,
-    "final": 5,
+    "fresh1_24h": 12,
+    "page_fresh": 6,
+    "relaxed_72h": 0,
+    "final": 6,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "9.29股市早8点丨大跌的主要原因“小长假”太长！_证券要闻",
-      "d": "cnfol.com"
+      "t": "日韩股市双双低开，芯片股拉升反弹",
+      "d": "21jingji.com"
     },
     {
-      "t": "下述为股票、债券及商品市场在2026年第39周（2026.09.21-2026.",
-      "d": "xueqiu.com"
+      "t": "A股：2个消息来临，股市，很可能要开启大级别的趋势了？",
+      "d": "163.com"
     },
     {
-      "t": "加息，加息，加息……央行各有各的“苦”",
+      "t": "岚目镜观｜任尔东西南北风：战火、利率与特朗普的边界",
       "d": "thepaper.cn"
     },
     {
-      "t": "港股今日分化：恒指逆势上扬，科技股拖累科技指数下滑",
+      "t": "美联储重启加息，如何影响香港股市、楼市与汇市",
+      "d": "caixin.com"
+    },
+    {
+      "t": "恒生科技指数下跌1.37%，房地产服务板块持续活跃｜港股午评",
       "d": "21jingji.com"
     },
     {
-      "t": "恒生中国企业指数上涨0.63%，家具板块涨幅居前｜港股收评",
-      "d": "21jingji.com"
+      "t": "胜宏科技(02476)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
     }
   ]
 }
