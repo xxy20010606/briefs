@@ -1,54 +1,51 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 25,
+    "raw_dedup_junk": 43,
+    "trusted": 26,
     "non_trusted_top": {
-      "sina.cn": 4,
-      "guandian.cn": 3,
-      "sina.com.cn": 2,
-      "csdn.net": 2,
-      "com.sg": 1,
-      "pedaily.cn": 1,
+      "sina.cn": 6,
+      "sina.com.cn": 4,
+      "stockstar.com": 2,
+      "cfi.net.cn": 2,
+      "mrjjxw.com": 1,
       "chosun.com": 1,
-      "chnfund.com": 1,
-      "jrj.com.cn": 1,
-      "digitaltoday.co.kr": 1
+      "xhby.net": 1
     },
-    "fresh1_24h": 25,
-    "page_fresh": 20,
+    "fresh1_24h": 24,
+    "page_fresh": 10,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "RMCS V1.0：国产芯片注入军工制造能力，直面关节电机系统级挑战",
-      "d": "sohu.com"
+      "t": "神州股份冲刺科创板：上半年营收3.8亿，拟募资25亿，英特尔与长存是股东-36氪",
+      "d": "36kr.com"
     },
     {
-      "t": "粤芯半导体披露IPO申购结果，网上中签率约0.0424%",
-      "d": "laoyaoba.com"
-    },
-    {
-      "t": "当封装变成晶圆工艺，安森美EPP如何打赢功率密度之战",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "300亿降税清单出炉，美国给的是止痛方绝非救命药，芯片半导体一分未动，关税大山仍",
-      "d": "sohu.com"
-    },
-    {
-      "t": "苏州易缆微数亿元A+++轮融资加速“中国光芯”崛起",
-      "d": "iccsz.com"
-    },
-    {
-      "t": "韩国两大存储芯片巨头，突然加速建厂",
+      "t": "粤芯半导体，中签号出炉",
       "d": "ifeng.com"
     },
     {
-      "t": "算力基建投资加码释放半导体材料需求，半导体设备ETF易方达（159558）半日获",
+      "t": "美股芯片、光通信概念深夜重挫，高通跌超7%",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "光通信概念深夜重挫，高通跌超7%，黄金白银大跌，加密货币超14万人被爆仓，特朗普",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "22:50:00【美股芯片股多数走低 ARM跌近10% 费城半导体指数跌3%】",
       "d": "cls.cn"
+    },
+    {
+      "t": "拟合计斥资349亿元！长鑫科技官宣投建两大新项目",
+      "d": "cls.cn"
+    },
+    {
+      "t": "周刊丨半导体行业投融周动态（09.21—09.27）",
+      "d": "eet-china.com"
     }
   ]
 }

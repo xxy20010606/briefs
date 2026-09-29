@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 41,
-    "trusted": 9,
+    "raw_dedup_junk": 72,
+    "trusted": 50,
     "non_trusted_top": {
-      "ttplus.cn": 5,
-      "china.com": 3,
-      "t.co": 3,
-      "stockstar.com": 2,
-      "pasqualepillitteri.it": 2,
-      "xhby.net": 1,
-      "sina.com.cn": 1,
-      "pedaily.cn": 1,
-      "baijing.cn": 1,
-      "sina.cn": 1
+      "unite.ai": 4,
+      "zhiding.cn": 3,
+      "icloudnews.net": 2,
+      "china.com": 2,
+      "sphericalinsights.com": 1,
+      "mrjjxw.com": 1,
+      "digitaltoday.co.kr": 1,
+      "sina.cn": 1,
+      "tidenews.com.cn": 1,
+      "stockstar.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 9,
-    "relaxed_72h": 0,
+    "fresh1_24h": 49,
+    "page_fresh": 45,
+    "relaxed_72h": 4,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "北京动画周亦庄会场开幕，AI动画行业新标准启动制定",
-      "d": "bjnews.com.cn"
-    },
-    {
-      "t": "AI时代需要什么样的安全人才？刘建伟谈人才实战能力培养",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "AI融入组织，深入场景：从云栖大会看盈康一生的AI实践",
+      "t": "挖来MongoDB CEO震惊华尔街，Meta高调进军企业AI业务",
       "d": "sohu.com"
     },
     {
-      "t": "为什么腾讯也来了？卓越睿新（2687.HK）拿下第四家AI头部大厂合作",
+      "t": "福布斯2025 AI 50榜单：AI Agent全面崛起，应用层才是2025真正",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "独家对话Lovart创始人陈冕：我们没有产品经理，只有设计师",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "面向 AI Agent 的搜索服务，小宿科技有机会成为百亿美金的新巨头吗？",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "OPPO Find X10 E正式发布 原生AI全能力覆盖影像办公全场景生产力",
       "d": "sohu.com"
     },
     {
-      "t": "AI Agent兴起重分配硬件红利：从GPU到CPU、内存与存储需求增长",
-      "d": "huxiu.com"
+      "t": "AI时代存储价值持续提升，这场创新峰会传递了什么信号？",
+      "d": "sohu.com"
     },
     {
-      "t": "日均Token调用超140万亿，算力公司抢滩“Token即服务”",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "光通信产业链价值重塑，AI指数成布局新抓手！借道科创创业人工智能ETF景顺(15",
-      "d": "jiemian.com"
+      "t": "2026外贸英语口语APP实测推荐：7款工具横评，首推高效练口语款",
+      "d": "ifeng.com"
     }
   ]
 }

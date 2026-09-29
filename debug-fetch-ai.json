@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 72,
+  "total": 63,
   "samples": [
     {
-      "title": "日均Token调用超140万亿，算力公司抢滩“Token即服务”",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhbVNob1I3TDhEY0Z5ZjZYb0huNldzX2drcFFrdjZCb2VjT0pTWUlSZVpIZUtLSTEwUko4bFhrNzlCaHBOdkFtZXN",
-      "source_url": "https://www.caiwennews.com",
-      "source": "caiwennews.com"
+      "title": "AMD以82亿美元收购李飞飞创立的AI公司World Labs",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5acEVIeTV6OENfdnc5ZFUwOElYNF83YWNVMHdGVUdweGVNSWpDTEpjcWJfeDJJRjNvamtZamk2aTlXTkE4dy13RUN",
+      "source_url": "https://www.huxiu.com",
+      "source": "虎嗅网"
     },
     {
-      "title": "数字政通“人和”大模型通过国家网信办生成式人工智能服务备案",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPczAwOUV0Q1FfbWVxbDJnU3ZrX1ktM2RwRjkxc2RRbTUxVWlkYUFYeUMzdlREWnR6UHJJc0RrWm9RdHRNVndjOVZ",
-      "source_url": "http://stock.10jqka.com.cn",
-      "source": "同花顺"
+      "title": "AI保险首单落地 新型风险量化难",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xQXNieTFWN2Y3eExzOEcweGRuVU9NeHVjR0VveHBrdlU0V204dC1SS2pOM3JjOXo1UDlxUXVfbTVVTTV5NGZ4Uk1",
+      "source_url": "https://www.bbtnews.com.cn",
+      "source": "北京商报"
     },
     {
-      "title": "AI从算力竞赛走向数据竞赛，闪迪携核心存储产品亮相云栖大会",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX1ZtYjBZWmh5cTVkZUNrUGtYN3ZBc01CMk1XdVlBQ3ZtRldHMTBCRS1NMTdVaWJrYmJzam90TGw0RFFUaktaQjd",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "银行拓展人工智能应用场景_银行业内动态",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkQlFiMmtScU8zSC1Fazk2S2lDMXFYd1l2QWpEeVp1bmhwbjJheUpicUJ4cXpqS1pXSEFEUmlDZU1OUGp2OWpBSWx",
+      "source_url": "http://bank.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "米哈游拟三年内进入国产大模型第一梯队：千人千面体验",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaFoyaVNCUzdZVEhHUGgzRTB0TnUydU5UYlhObklrTGZmNW5jT2wxbXlleFB3bW1lYTNraDZXV3BUNHcxZnRBVGx",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "AI安全，正在成为下一个万亿级赛道？_公司新闻",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBbF80SDk1dTN5cFhCTjZFNllUS1o1bXFyeWY3WFItelhRczlqR2dFZ0t6OHplMVVUTC1fY2NtdmRwaWJnc3daaVZ",
+      "source_url": "http://stock.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "聚焦前沿 AI 三大方向，第七届中国人工智能大赛正式启动",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SalpfYUtaY0JOVERJUzdRYmRyMl9mRFJmcWY4S1hOWmdPSkFyY3B1S2dfQWJJZU1qektuUHoyVENfM1F3cHlwYW5",
-      "source_url": "https://www.geekpark.net",
-      "source": "极客公园"
-    },
-    {
-      "title": "让AI惠及千行百业，华为如何破解五大难题？",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LWGxsM1NNcFFJM1Y2XzF5SlBLelB5MVF3Sk1obU52bV8yRG8yWUgxVWNmZlY5NXd4aDBkMTVMZTRJeDVtS25LVHZ",
+      "title": "《人工智能语料研究（英文）》（Data Express in AI Corpus）丨新刊推介",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iOHZjWmtuZDlHZklDYmtlY1prMG9oNEVwMmlycGl4MWNPREVZWmk2NXVVcU5yTWViRG9YWTVZVkYzZm9aeC1jNmI",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
+    },
+    {
+      "title": "跨过万亿美元市值的AMD(AMD.US)开始争夺“算力定义权”! 官宣82亿美元鲸吞李飞飞创立的Wo",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51SzdOdks4c055TTZhWDRuZnZDaC1wLVlsNmp0RWhOdzlmSFRzZFFpUDI3SGlYM1FhYWpscGtHQ2tpc1RYQW1jR3k",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
     }
   ]
 }

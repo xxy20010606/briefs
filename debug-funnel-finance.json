@@ -1,54 +1,46 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 60,
-    "trusted": 9,
+    "raw_dedup_junk": 42,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 10,
-      "sina.cn": 9,
-      "moomoo.com": 9,
-      "stockstar.com": 8,
-      "futunn.com": 5,
-      "hstong.com": 2,
-      "tradingview.com": 1,
-      "yeeyi.com": 1,
-      "sfccn.com": 1,
-      "jin10.com": 1
+      "stockstar.com": 4,
+      "jin10.com": 3,
+      "futunn.com": 3,
+      "sina.com.cn": 2,
+      "sina.cn": 2,
+      "on.cc": 2,
+      "moomoo.com": 2,
+      "capwhale.com": 2,
+      "atvnewsonline.com": 1,
+      "newswav.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 7,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 11,
+    "page_fresh": 2,
+    "relaxed_72h": 3,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "A股：没必要等跌破3800点了，明天，股市或将迎来关键拐点",
-      "d": "163.com"
+      "t": "9.29股市早8点丨大跌的主要原因“小长假”太长！_证券要闻",
+      "d": "cnfol.com"
     },
     {
-      "t": "股市必读：新宙邦新发布《关于发行境外上市股份（H股）获得中国证监会备案的公告》",
-      "d": "ifeng.com"
+      "t": "下述为股票、债券及商品市场在2026年第39周（2026.09.21-2026.",
+      "d": "xueqiu.com"
     },
     {
-      "t": "亲自提名美联储主席，不肯跟随白宫降息，特朗普选举悬了？",
-      "d": "sohu.com"
+      "t": "加息，加息，加息……央行各有各的“苦”",
+      "d": "thepaper.cn"
     },
     {
-      "t": "管涛：复盘上世纪末美联储加息周期与互联网泡沫的破裂",
-      "d": "sohu.com"
-    },
-    {
-      "t": "港股消费板块表现活跃，港股通消费ETF易方达（513070）标的指数早盘涨超1%",
-      "d": "nbd.com.cn"
-    },
-    {
-      "t": "恒生指数上涨0.64%，土壤修复板块涨幅居前｜港股午评",
+      "t": "港股今日分化：恒指逆势上扬，科技股拖累科技指数下滑",
       "d": "21jingji.com"
     },
     {
-      "t": "港股早报｜特朗普预计本周与伊朗谈判 中信证券建议关注电力等防御行业",
-      "d": "cls.cn"
+      "t": "恒生中国企业指数上涨0.63%，家具板块涨幅居前｜港股收评",
+      "d": "21jingji.com"
     }
   ]
 }
