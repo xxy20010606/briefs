@@ -1,42 +1,5 @@
 {
   "type": "ai",
-  "total": 61,
-  "samples": [
-    {
-      "title": "从1.3万亿到3000亿，市值蒸发万亿，智谱AI资本狂欢落幕？",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXpmeV93TVJkWFZnaERkM0Q5SW1oaDU2SU1NNHdXTXJ3M180aDRIWHk4ZEJnZTZmMTNzbExHa1ZHc1dhX0RDWG9",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "【今日主题前瞻】英伟达推出开放式AI代理安全平台，覆盖从测试到部署_市场测评_市场",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0eHRwWTJBdTBCc2RMSndQbmgxU2tiSDI0VmFFU28zdTZ6R1NXTmxDRzRFalVZanRIYWpySGViQklCNG1IbWlFZFJ",
-      "source_url": "http://sc.stock.cnfol.com",
-      "source": "中金在线"
-    },
-    {
-      "title": "人工智能培训，抢着上“船”",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0hPSzYwNlFIcEZ1S3VJTWpVWXdzbWpHZDk1ZHpUa2R4bGlpWWlwWElfMWR2ZklRWEUwVU0tWmg1cmpFeVN4N3A",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "Anthropic发布Sonnet 5.5模型，前沿大模型快速迭代丨盘前线索",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aNl9palFxMnNtemN4bFpNWXVwenBEaldpdTNjRkVMS2Z1Mkg4eGt3R0s3MElhYmpmLTZnS1ZVdFMzTktzVS12eFJ",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "上海发布AI金融应用十六条措施，将试点大模型直接面客",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWJQV0tqQnBUWkR5TGpKdnQyQXh2VlJ2VlphSVd5alJpamxZQmxoTGdGYk9OREVGV19aMGpqbkJIOXFrSW90ZjN",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "特朗普政府官员格比亚：全新AI驱动政府网站同时采用Gemini与Grok大模型",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQktYMXRXYjdxbERSU2RIYWw3NlJkaFVtQzIwYUxPV3F6aHo5aDliSFhrMF9wYXA0NENKLU10ZUt2Q1FFc1dTR2R",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    }
-  ]
+  "total": 0,
+  "samples": []
 }

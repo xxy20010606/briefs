@@ -1,54 +1,14 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 20,
-    "non_trusted_top": {
-      "sina.cn": 5,
-      "stockstar.com": 3,
-      "sina.com.cn": 2,
-      "cnbeta.com.tw": 1,
-      "mrjjxw.com": 1,
-      "moomoo.com": 1,
-      "yeeyi.com": 1,
-      "futunn.com": 1,
-      "cfi.net.cn": 1,
-      "cjn.cn": 1
-    },
-    "fresh1_24h": 19,
-    "page_fresh": 11,
+    "raw_dedup_junk": 0,
+    "trusted": 0,
+    "non_trusted_top": {},
+    "fresh1_24h": 0,
+    "page_fresh": 0,
     "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "final": 0,
+    "cap": "不限同域"
   },
-  "final": [
-    {
-      "t": "美股光通信概念爆发，Lumentum涨超5%，芯片股普涨，中概股走弱，国际油价大",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "盘中暴涨720%！华为投的深圳AI芯片材料商IPO了",
-      "d": "zhidx.com"
-    },
-    {
-      "t": "【热点】350亿！ 三星电机，扩产FC-BGA",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "全球首创技术！秋水半导体8英寸Micro-LED量产线通线",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "18:13:24【国产存储巨头加速扩产，半导体设备ETF易方达（159558）今",
-      "d": "cls.cn"
-    },
-    {
-      "t": "先导芯光通线，已承接海外400G光互连预研订单",
-      "d": "laoyaoba.com"
-    },
-    {
-      "t": "俄罗斯光刻机重大突破！",
-      "d": "sohu.com"
-    }
-  ]
+  "final": []
 }

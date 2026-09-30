@@ -1,54 +1,14 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 61,
-    "trusted": 22,
-    "non_trusted_top": {
-      "sina.cn": 11,
-      "sina.com.cn": 10,
-      "zhiding.cn": 4,
-      "mrjjxw.com": 3,
-      "techwalker.com": 2,
-      "tianjinwe.com": 1,
-      "stheadline.com": 1,
-      "ac.cn": 1,
-      "tradingview.com": 1,
-      "bjd.com.cn": 1
-    },
-    "fresh1_24h": 21,
-    "page_fresh": 6,
-    "relaxed_72h": 15,
-    "final": 7,
-    "cap": "同域≤2条"
+    "raw_dedup_junk": 0,
+    "trusted": 0,
+    "non_trusted_top": {},
+    "fresh1_24h": 0,
+    "page_fresh": 0,
+    "relaxed_72h": 0,
+    "final": 0,
+    "cap": "不限同域"
   },
-  "final": [
-    {
-      "t": "【今日主题前瞻】英伟达推出开放式AI代理安全平台，覆盖从测试到部署_市场测评_市",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "AMD收购李飞飞公司背后：AI芯片巨头开始“抢”AI定义权？",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "京东方蓝鲸显示大模型持续进化，引领显示行业 AI 规模化赋能",
-      "d": "geekpark.net"
-    },
-    {
-      "t": "DeepSeek 一天开 300 万个“房间”：Agent 时代的底层战争，不在",
-      "d": "sohu.com"
-    },
-    {
-      "t": "OpenAI推理之父最新访谈，数学只是多智能体时代的开胃菜-36氪",
-      "d": "36kr.com"
-    },
-    {
-      "t": "刚刚，OpenAI版Muse来了！GPT-6.1价格打骨折，被曝要融资超2000",
-      "d": "sohu.com"
-    },
-    {
-      "t": "深度解读添翼AI 3.0：医疗AI如何从技术能力走向业务价值",
-      "d": "10jqka.com.cn"
-    }
-  ]
+  "final": []
 }

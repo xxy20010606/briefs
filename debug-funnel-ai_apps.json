@@ -1,54 +1,14 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 31,
-    "trusted": 7,
-    "non_trusted_top": {
-      "unite.ai": 5,
-      "sina.cn": 3,
-      "zhiding.cn": 3,
-      "ua.news": 2,
-      "pasqualepillitteri.it": 1,
-      "on.cc": 1,
-      "hk01.com": 1,
-      "jingjiribao.cn": 1,
-      "venturesquare.net": 1,
-      "ac.cn": 1
-    },
-    "fresh1_24h": 6,
-    "page_fresh": 1,
-    "relaxed_72h": 6,
-    "final": 7,
-    "cap": "同域≤3条"
+    "raw_dedup_junk": 0,
+    "trusted": 0,
+    "non_trusted_top": {},
+    "fresh1_24h": 0,
+    "page_fresh": 0,
+    "relaxed_72h": 0,
+    "final": 0,
+    "cap": "不限同域"
   },
-  "final": [
-    {
-      "t": "Manus 回来了，可Agent 的战场已经挤满对手-36氪",
-      "d": "36kr.com"
-    },
-    {
-      "t": "国际劳工组织首席经济学家答一财：中企AI应用更具战略性，引领商业模式变革",
-      "d": "sohu.com"
-    },
-    {
-      "t": "AI深度扎根实体零售，丰宜科技把AI从工具变成决策者，重塑无人零售经营模式_产业",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "Meta与Manus在Personal Agent赛道正面交锋，Muse与Cue",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "豆包将推类似Muse的个人助理产品，4月已内测",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "Manus 2.0独立回归，直面大厂Agent竞争",
-      "d": "sohu.com"
-    },
-    {
-      "t": "大厂激战，字节、腾讯、阿里、百度集体“动刀子”",
-      "d": "sohu.com"
-    }
-  ]
+  "final": []
 }

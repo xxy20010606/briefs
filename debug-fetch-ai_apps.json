@@ -1,42 +1,5 @@
 {
   "type": "ai_apps",
-  "total": 31,
-  "samples": [
-    {
-      "title": "微软推倒自身AI数据壁垒",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb2lQTldlejk2amJMbXkxRGotSlQwWF9kRnA4Ni1mSl9aV1JnX19DZi1yN0k5MHFKZHY1cnVoOURSMG9GRXRhX28",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "OpenAI推出ChatGPT Space，团队与AI协同办公的新场所",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fbnUzb3g1SloyNmFzLV9EcUxqMWNTUjEzTDNySWRaVnNrX3dfME9FS0RScFRYbWMtN0VKekl4MjUxaExOUGx1OGl",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "OpenAI为ChatGPT扩展启动第三方应用的功能——TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbTMzLU9BNEVENHZtWFBWQjl0NlFZSVNDSy1ndmJORW1jb1BIRHVuNVRnM0p6RzR3RUNPNFowOWh1aU93aGh3QXN",
-      "source_url": "https://ua.news",
-      "source": "UA.NEWS"
-    },
-    {
-      "title": "Stibo Systems 推出用于受管 AI 代理的 AgentWorkx，面向主数据",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVpFdzdjMk1qREg0QkFwOEM0c2d5aFBnUUEtSGZ0RTVXd2lfZEhrS3BBSlItZEpOdHZZQ3ZPWXZQaGZ6bk1PODJ",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "Blackbaud 推出 Lantern，一款用于筹款的领域特定模型",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjJ1TTdZMFByZ1VQX2hVbTdZampGTDdaMW9mTmdzQnpFMWFGT3hyN3JIbVpiM1dEYlZTZkRPcUtNd2p6eEVjVS1",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "Omnissa 推出 Elara 权限层以实现企业 AI 治理",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTXU2SjJSRU9kTHJXQU9abmhMeWhzSHZOOWZBMTYwd19GMFFCaGJ2Vy1VcHBTRlNhVVVLZ3dJb05vYmt3RHc0ak1",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    }
-  ]
+  "total": 0,
+  "samples": []
 }

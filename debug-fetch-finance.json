@@ -1,42 +1,5 @@
 {
   "type": "finance",
-  "total": 51,
-  "samples": [
-    {
-      "title": "Robinhood(HOOD.US)再推创新产品：周末股票交易、业绩合约与加密永续期货_全球市场_财",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KdTN6aUx6c0ZlYUR3Vm9HYk1oTngxRjlPa2hEalhvbEtlLVJLRVM5NDlWeW9rT2hEWWhfZVZISEhWTmEtVUZRUXB",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "韩股去杠杆进行时",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNnp6YWpFa01OelV2MkpiSDlOOGdpd0hncjVnTGh1djVDSjZWWkUwVDhBUmlLaDZTczRXc3dvMDFKd3h0cWV5S2h",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
-    },
-    {
-      "title": "A股中做到世界第一的100家公司 #简单创造经典##原创##财经##a股##股市# ​",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yeE9qTGdDR3pGalE2bmNISjBjZEt3dzdXSFJ6bGk5SjlJeDVrNWZ2UnA2bXVHMExUaGZmZ3FxVlg3c1N1SDBDQ2t",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "四大证券报头版头条内容精华摘要_2026年9月29日_财经新闻",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXFRREdLU1JaQzEwRmtyQXRDZWVhVUYtLU94SURwX2NySjVZNG94OV9iNWZzclF1Q042VGpFcnZ2WkVGaWxRcnF",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "丽珠医药(01513)：A股股票交易异常波动 不存在应披露而未披露的重大事项-证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92N19MaDRIVVY5RDJXNGU5S0RBbzJzR2Z3dkpaTXdXSWh1aUYzWVRmcGlrQi1EZWFWWjFCdG50cXltbWRSUExtSUh",
-      "source_url": "https://hk.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "新华保险举牌中航科工H股股票",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVFSZ2ZoeUI3TVBqWUJLM0NrSmlzYjh1UExDa1JnMEFaM1M2TWVtM3g3MDlvTmZHcl9IWGt1STM1X1Z2cWpVX3J",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    }
-  ]
+  "total": 0,
+  "samples": []
 }

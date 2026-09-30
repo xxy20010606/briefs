@@ -1,30 +1,14 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 29,
-    "trusted": 1,
-    "non_trusted_top": {
-      "autohome.com.cn": 9,
-      "stockstar.com": 5,
-      "sina.com.cn": 5,
-      "mrjjxw.com": 2,
-      "fjsen.com": 1,
-      "chinapower.org.cn": 1,
-      "in-en.com": 1,
-      "sina.cn": 1,
-      "news18a.com": 1,
-      "fzu.edu.cn": 1
-    },
-    "fresh1_24h": 1,
+    "raw_dedup_junk": 0,
+    "trusted": 0,
+    "non_trusted_top": {},
+    "fresh1_24h": 0,
     "page_fresh": 0,
-    "relaxed_72h": 1,
-    "final": 1,
+    "relaxed_72h": 0,
+    "final": 0,
     "cap": "不限同域"
   },
-  "final": [
-    {
-      "t": "全国291座城市中198座将新能源纳入“十五五”重点赛道",
-      "d": "huxiu.com"
-    }
-  ]
+  "final": []
 }

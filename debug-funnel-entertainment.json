@@ -1,54 +1,14 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 40,
-    "trusted": 8,
-    "non_trusted_top": {
-      "sina.cn": 6,
-      "sina.com.cn": 4,
-      "bjd.com.cn": 3,
-      "pchome.net": 2,
-      "mk.co.kr": 1,
-      "yeeyi.com": 1,
-      "17173.com": 1,
-      "ntdtv.com": 1,
-      "mydrivers.com": 1,
-      "mrjjxw.com": 1
-    },
-    "fresh1_24h": 3,
-    "page_fresh": 1,
-    "relaxed_72h": 7,
-    "final": 7,
-    "cap": "同域≤2条"
+    "raw_dedup_junk": 0,
+    "trusted": 0,
+    "non_trusted_top": {},
+    "fresh1_24h": 0,
+    "page_fresh": 0,
+    "relaxed_72h": 0,
+    "final": 0,
+    "cap": "不限同域"
   },
-  "final": [
-    {
-      "t": "当前最火的6部电视剧：谭松韵兰香如故第1稳到离谱，赵今麦无可替代冲至第3",
-      "d": "sohu.com"
-    },
-    {
-      "t": "2026电竞显示器品牌排行榜：爱攻AGON重塑电竞显示新标杆",
-      "d": "sohu.com"
-    },
-    {
-      "t": "第十届平遥国际电影展各奖项揭晓",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "上海要把30天的艺术节变身城市消费引擎",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "时隔七年重映：漫威《复仇者联盟 4：终局之战（加码臻享版）》电影票房突破 1 亿",
-      "d": "ithome.com"
-    },
-    {
-      "t": "《神探之痕迹》预售票房破千万 猫眼娱乐多部新片将亮相国庆档",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "舞剧《楚河汉界》宿迁上演以舞为棋重构楚汉历史- 中国日报网",
-      "d": "chinadaily.com.cn"
-    }
-  ]
+  "final": []
 }
