@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 54,
+  "total": 61,
   "samples": [
     {
-      "title": "AI正在重塑健康管理，谁能抓住“主动健康”的新场景？",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9rWkxaT1hyczBNS25ydUhuT0VLUmdYOUtDbFQ4S21MQ1ZUak16QmNnUkJOdThCS0wyZjBsaWNMMjNOTFNhcnRj?oc",
-      "source_url": "https://www.vbdata.cn",
-      "source": "动脉网"
+      "title": "从1.3万亿到3000亿，市值蒸发万亿，智谱AI资本狂欢落幕？",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXpmeV93TVJkWFZnaERkM0Q5SW1oaDU2SU1NNHdXTXJ3M180aDRIWHk4ZEJnZTZmMTNzbExHa1ZHc1dhX0RDWG9",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "我国开源大模型领跑全球 生成式AI用户规模突破7亿",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yX2t5c0h1dlN6b0FKd2dIZ1h4bm81MldLWGpMcXY1SmdCTTVPWHdKenZDUG5lS2ZURFVtdlpUMFc0bHo1V1VPalB",
-      "source_url": "https://www.huxiu.com",
-      "source": "虎嗅网"
+      "title": "【今日主题前瞻】英伟达推出开放式AI代理安全平台，覆盖从测试到部署_市场测评_市场",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0eHRwWTJBdTBCc2RMSndQbmgxU2tiSDI0VmFFU28zdTZ6R1NXTmxDRzRFalVZanRIYWpySGViQklCNG1IbWlFZFJ",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "2026云栖大会：从大模型训练到本体实践，润和软件以精细化数据标注打造高质量评测集",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzJuTm1IczQ0bFg5T0NqdVNzVnZmR2wwM2JncDJUdkd0T2lzcUNJZW1IN3M5aktTUTJSQV9aQjFXTENsWjJSdkQ",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "人工智能培训，抢着上“船”",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT0hPSzYwNlFIcEZ1S3VJTWpVWXdzbWpHZDk1ZHpUa2R4bGlpWWlwWElfMWR2ZklRWEUwVU0tWmg1cmpFeVN4N3A",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "从工具到“同事”！AI深入公募业务层面",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYY2ppUEFwYWhpdU92RXFMT1NJY3BGaU5YOC02TXFzQ2dzcUV5Z2pnYWdYcHpWeXRwR0V5Vk8yeXpZclYxZUFoZlp",
-      "source_url": "https://stock.stockstar.com",
-      "source": "证券之星"
+      "title": "Anthropic发布Sonnet 5.5模型，前沿大模型快速迭代丨盘前线索",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aNl9palFxMnNtemN4bFpNWXVwenBEaldpdTNjRkVMS2Z1Mkg4eGt3R0s3MElhYmpmLTZnS1ZVdFMzTktzVS12eFJ",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "从农业大模型到田间服务：2026世界农业科技创新大会期间农业人工智能系列活动举行",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40SWpzRlZQblBkYjV2ejFiY0hpUnk1QWdXYW96WGNjclZDYnNvampyM2JjeXBoTDlpQ1JDMVNrbHZZZG5QY2NETC1",
-      "source_url": "https://news.cau.edu.cn",
-      "source": "中国农业大学新闻网"
+      "title": "上海发布AI金融应用十六条措施，将试点大模型直接面客",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWJQV0tqQnBUWkR5TGpKdnQyQXh2VlJ2VlphSVd5alJpamxZQmxoTGdGYk9OREVGV19aMGpqbkJIOXFrSW90ZjN",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "AI安全之争何去何从？巨头招股书用80页阐述AI风险！三六零涨超2%，软件ETF汇添富(159590",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSdXo2QkJ6NkhyMkNySTVlc0J4ZWF5TXZrY0NZQlBfWVJfbEdkTFdEYW5ZaGNmSWVscVBZejZubnV5R2UwUE1Ga1p",
-      "source_url": "https://www.jiemian.com",
-      "source": "Jiemian.com"
+      "title": "特朗普政府官员格比亚：全新AI驱动政府网站同时采用Gemini与Grok大模型",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQktYMXRXYjdxbERSU2RIYWw3NlJkaFVtQzIwYUxPV3F6aHo5aDliSFhrMF9wYXA0NENKLU10ZUt2Q1FFc1dTR2R",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     }
   ]
 }

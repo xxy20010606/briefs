@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 54,
-    "trusted": 20,
+    "raw_dedup_junk": 61,
+    "trusted": 22,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "sina.cn": 4,
-      "stockstar.com": 2,
-      "icloudnews.net": 2,
-      "zhiding.cn": 2,
-      "vbdata.cn": 1,
-      "cau.edu.cn": 1,
-      "hljnews.cn": 1,
-      "caiwennews.com": 1,
-      "hsw.cn": 1
+      "sina.cn": 11,
+      "sina.com.cn": 10,
+      "zhiding.cn": 4,
+      "mrjjxw.com": 3,
+      "techwalker.com": 2,
+      "tianjinwe.com": 1,
+      "stheadline.com": 1,
+      "ac.cn": 1,
+      "tradingview.com": 1,
+      "bjd.com.cn": 1
     },
-    "fresh1_24h": 19,
-    "page_fresh": 16,
-    "relaxed_72h": 0,
+    "fresh1_24h": 21,
+    "page_fresh": 6,
+    "relaxed_72h": 15,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "我国开源大模型领跑全球 生成式AI用户规模突破7亿",
-      "d": "huxiu.com"
+      "t": "【今日主题前瞻】英伟达推出开放式AI代理安全平台，覆盖从测试到部署_市场测评_市",
+      "d": "cnfol.com"
     },
     {
-      "t": "2026云栖大会：从大模型训练到本体实践，润和软件以精细化数据标注打造高质量评测",
+      "t": "AMD收购李飞飞公司背后：AI芯片巨头开始“抢”AI定义权？",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "京东方蓝鲸显示大模型持续进化，引领显示行业 AI 规模化赋能",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "DeepSeek 一天开 300 万个“房间”：Agent 时代的底层战争，不在",
       "d": "sohu.com"
     },
     {
-      "t": "AI安全之争何去何从？巨头招股书用80页阐述AI风险！三六零涨超2%，软件ETF",
-      "d": "jiemian.com"
+      "t": "OpenAI推理之父最新访谈，数学只是多智能体时代的开胃菜-36氪",
+      "d": "36kr.com"
     },
     {
-      "t": "我国生成式人工智能用户规模突破7亿人",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "【网经社AI科普】ChatGPT：旗舰级通用对话大模型",
+      "t": "刚刚，OpenAI版Muse来了！GPT-6.1价格打骨折，被曝要融资超2000",
       "d": "sohu.com"
     },
     {
-      "t": "中国科技巨头集体跳入物理AI深海，赛道进入万亿级风口",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "AI 驱动复杂业务漏洞挖掘：从业务规则建模到攻击路径验证｜QCon 上海",
-      "d": "infoq.cn"
+      "t": "深度解读添翼AI 3.0：医疗AI如何从技术能力走向业务价值",
+      "d": "10jqka.com.cn"
     }
   ]
 }

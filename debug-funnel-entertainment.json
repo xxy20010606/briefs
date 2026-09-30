@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 58,
-    "trusted": 12,
+    "raw_dedup_junk": 40,
+    "trusted": 8,
     "non_trusted_top": {
       "sina.cn": 6,
-      "360.com": 4,
       "sina.com.cn": 4,
-      "china.com": 3,
-      "westca.com": 2,
-      "ttplus.cn": 2,
-      "gz-cmc.com": 2,
-      "tradingview.com": 1,
-      "kagit.kr": 1,
-      "ajudaily.com": 1
+      "bjd.com.cn": 3,
+      "pchome.net": 2,
+      "mk.co.kr": 1,
+      "yeeyi.com": 1,
+      "17173.com": 1,
+      "ntdtv.com": 1,
+      "mydrivers.com": 1,
+      "mrjjxw.com": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 12,
-    "relaxed_72h": 0,
+    "fresh1_24h": 3,
+    "page_fresh": 1,
+    "relaxed_72h": 7,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "股价异动博纳影业提醒：《三星堆：未来往事》尚未上映票房不确定，股东中信证投等完成",
+      "t": "当前最火的6部电视剧：谭松韵兰香如故第1稳到离谱，赵今麦无可替代冲至第3",
       "d": "sohu.com"
     },
     {
-      "t": "从选手永久禁赛到网吧卸载，《绝地求生》越南赛事风波越闹越大",
+      "t": "2026电竞显示器品牌排行榜：爱攻AGON重塑电竞显示新标杆",
       "d": "sohu.com"
     },
     {
-      "t": "重大革命题材电视剧《征途》开播：千难万险间，他们凭什么踏出一条路",
-      "d": "cri.cn"
+      "t": "第十届平遥国际电影展各奖项揭晓",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "老片重映递加新片预告：漫威用一场重映，为《复联5》提前“锁票”",
+      "t": "上海要把30天的艺术节变身城市消费引擎",
       "d": "eastmoney.com"
     },
     {
-      "t": "“成都高新造”包揽中国动画影史票房前三",
-      "d": "cnr.cn"
+      "t": "时隔七年重映：漫威《复仇者联盟 4：终局之战（加码臻享版）》电影票房突破 1 亿",
+      "d": "ithome.com"
     },
     {
-      "t": "匠心演绎峥嵘岁月——重大革命题材剧《征途》全员演技获权威盛赞",
-      "d": "nbd.com.cn"
+      "t": "《神探之痕迹》预售票房破千万 猫眼娱乐多部新片将亮相国庆档",
+      "d": "eastmoney.com"
     },
     {
-      "t": "第五届华语纪录电影大会推优盛典闭幕 《劳途归巢》等获评推荐作品",
-      "d": "chinanews.com.cn"
+      "t": "舞剧《楚河汉界》宿迁上演以舞为棋重构楚汉历史- 中国日报网",
+      "d": "chinadaily.com.cn"
     }
   ]
 }

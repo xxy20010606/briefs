@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 13,
+    "raw_dedup_junk": 31,
+    "trusted": 7,
     "non_trusted_top": {
-      "zhiding.cn": 4,
-      "stockstar.com": 2,
-      "unite.ai": 2,
-      "moomoo.com": 1,
-      "sdnews.com.cn": 1,
-      "inform.kz": 1,
-      "sina.com.cn": 1,
-      "china.com": 1,
-      "chinapress.com.my": 1,
-      "mk.co.kr": 1
+      "unite.ai": 5,
+      "sina.cn": 3,
+      "zhiding.cn": 3,
+      "ua.news": 2,
+      "pasqualepillitteri.it": 1,
+      "on.cc": 1,
+      "hk01.com": 1,
+      "jingjiribao.cn": 1,
+      "venturesquare.net": 1,
+      "ac.cn": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 10,
-    "relaxed_72h": 1,
+    "fresh1_24h": 6,
+    "page_fresh": 1,
+    "relaxed_72h": 6,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "AI产业催化密集，国内AI指数“价值洼地”特征明显！科创创业人工智能ETF景顺(",
+      "t": "Manus 回来了，可Agent 的战场已经挤满对手-36氪",
+      "d": "36kr.com"
+    },
+    {
+      "t": "国际劳工组织首席经济学家答一财：中企AI应用更具战略性，引领商业模式变革",
       "d": "sohu.com"
     },
     {
-      "t": "从模型堆砌到算力治理：连连智枢开启企业 AI 生产新阶段",
-      "d": "sohu.com"
+      "t": "AI深度扎根实体零售，丰宜科技把AI从工具变成决策者，重塑无人零售经营模式_产业",
+      "d": "cnfol.com"
     },
     {
-      "t": "从智能获客到智能运营：信飞科技的AI全链路布局",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "每天都在改变世界！这绝对是 AI 史上最疯狂的一周",
-      "d": "geekpark.net"
-    },
-    {
-      "t": "AI学者代季峰二次创业，Naive.AI发布首个开源模型Naive-N0.5-F",
+      "t": "Meta与Manus在Personal Agent赛道正面交锋，Muse与Cue",
       "d": "huxiu.com"
     },
     {
-      "t": "【每日瞰AI】Manus发布2.0，新增独立个人智能体应用Cue；华为开源盘古2",
-      "d": "eet-china.com"
+      "t": "豆包将推类似Muse的个人助理产品，4月已内测",
+      "d": "jiemian.com"
     },
     {
-      "t": "AI算力拉动液冷订单火爆，创业板算力ETF天弘(158061)连续两日净流入超6",
-      "d": "jiemian.com"
+      "t": "Manus 2.0独立回归，直面大厂Agent竞争",
+      "d": "sohu.com"
+    },
+    {
+      "t": "大厂激战，字节、腾讯、阿里、百度集体“动刀子”",
+      "d": "sohu.com"
     }
   ]
 }

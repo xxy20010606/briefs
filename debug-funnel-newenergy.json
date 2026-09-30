@@ -1,54 +1,30 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 57,
-    "trusted": 11,
+    "raw_dedup_junk": 29,
+    "trusted": 1,
     "non_trusted_top": {
-      "autohome.com.cn": 17,
-      "ne21.com": 6,
+      "autohome.com.cn": 9,
+      "stockstar.com": 5,
       "sina.com.cn": 5,
-      "in-en.com": 3,
-      "stockstar.com": 2,
-      "news18a.com": 2,
-      "fxbaogao.com": 1,
-      "solarzoom.com": 1,
-      "hxnews.com": 1,
-      "gessey.com": 1
+      "mrjjxw.com": 2,
+      "fjsen.com": 1,
+      "chinapower.org.cn": 1,
+      "in-en.com": 1,
+      "sina.cn": 1,
+      "news18a.com": 1,
+      "fzu.edu.cn": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 11,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 1,
+    "page_fresh": 0,
+    "relaxed_72h": 1,
+    "final": 1,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "阿布扎比计划2035年实现15GW储能容量，AIDC成重要驱动力",
-      "d": "sohu.com"
-    },
-    {
-      "t": "蓄能向新 万亿产业之上常州作答新能源产业“未来之题”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "台区储能解决方案全方位解读：从技术选型到品牌对比",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "220MWh！ 德国混合储能项目来了",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "告别“内部粮票”： 动力总成的半独立突围",
+      "t": "全国291座城市中198座将新能源纳入“十五五”重点赛道",
       "d": "huxiu.com"
-    },
-    {
-      "t": "ETF收评：地产ETF领涨6.53%，港股通汽车ETF领跌2.69%",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "事关新型电池产业发展，七部门联合发布！国轩高科涨停，拟投资126亿建三大海外电芯",
-      "d": "jiemian.com"
     }
   ]
 }

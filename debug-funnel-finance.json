@@ -1,50 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 43,
+    "raw_dedup_junk": 51,
     "trusted": 12,
     "non_trusted_top": {
-      "moomoo.com": 5,
-      "sina.com.cn": 4,
+      "moomoo.com": 9,
+      "sina.com.cn": 6,
+      "sina.cn": 4,
       "futunn.com": 4,
-      "stockstar.com": 3,
-      "sina.cn": 3,
-      "odaily.news": 2,
-      "hstong.com": 2,
-      "tradingview.com": 1,
-      "jin10.com": 1,
-      "vtmarkets.com": 1
+      "stockstar.com": 2,
+      "jin10.com": 2,
+      "orientaldaily.com.my": 1,
+      "cnfin.com": 1,
+      "caus.com": 1,
+      "528btc.com": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 6,
-    "relaxed_72h": 0,
-    "final": 6,
-    "cap": "不限同域"
+    "fresh1_24h": 10,
+    "page_fresh": 4,
+    "relaxed_72h": 3,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "日韩股市双双低开，芯片股拉升反弹",
+      "t": "韩股去杠杆进行时",
       "d": "21jingji.com"
     },
     {
-      "t": "A股：2个消息来临，股市，很可能要开启大级别的趋势了？",
-      "d": "163.com"
+      "t": "特立独行的澳洲会成为债券的避风港么？",
+      "d": "gelonghui.com"
     },
     {
-      "t": "岚目镜观｜任尔东西南北风：战火、利率与特朗普的边界",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "美联储重启加息，如何影响香港股市、楼市与汇市",
-      "d": "caixin.com"
-    },
-    {
-      "t": "恒生科技指数下跌1.37%，房地产服务板块持续活跃｜港股午评",
-      "d": "21jingji.com"
+      "t": "力勤资源上市价格预估丨美股三大指数均小幅收跌 AI硬件股普涨 美油跌近4%丨指数",
+      "d": "sohu.com"
     },
     {
       "t": "胜宏科技(02476)股票股价_股价行情_讨论_资讯_财报_数据报告",
       "d": "xueqiu.com"
+    },
+    {
+      "t": "什么信号？美债收益率飙至20年高点之际 债市老将六年来首度空翻多",
+      "d": "cls.cn"
+    },
+    {
+      "t": "美股盘前要点｜“大空头”警告AI泡沫破裂或早于预期！Anthropic IPO招",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "港股低迷调整 恒生科技指数创年内新低 说好的秋季行情呢？",
+      "d": "nbd.com.cn"
     }
   ]
 }
