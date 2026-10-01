@@ -1,5 +1,42 @@
 {
   "type": "newenergy",
-  "total": 0,
-  "samples": []
+  "total": 26,
+  "samples": [
+    {
+      "title": "山西5.18GW风、光项目废止：涉及大唐、山西国际能源集团、申能集团、中国电建、中国中信、三峡等",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zeFlIV2JjM2FUQ0R5cElOeGoxVFNPY1dmVVdQUHJKajBoRWs4dml1VGNLU1NVZGpmOEdJT0xVTmNUc3ZlTjl0aGJ",
+      "source_url": "https://solar.in-en.com",
+      "source": "国际太阳能光伏网"
+    },
+    {
+      "title": "常高新集团：聚力绿色转型，共筑零碳未来",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NMDdkU2FTNllLMUY0YXMweE94ak1QSHFFLXlnWmp2UjRfWVp6SEFiaWlTdktIYXU2QldmN2tOd1pPVDdtMElmVWJ",
+      "source_url": "http://js.news.cn",
+      "source": "新华网江苏频道"
+    },
+    {
+      "title": "硬核通关！阳光电源完成东南亚大规模黑启动全维验证",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CX1E2dlhERG1xZ2h6MjgyLTY5OWZIWWlMMExHRVVCRUNZaUxLYVVJenZlbEpUa0h5X0FQSlF2R0xRN2FtMEhacHN",
+      "source_url": "https://www.ne21.com",
+      "source": "世纪新能源网"
+    },
+    {
+      "title": "一场重塑每个人生活的能源革命，正在悄然发生（57分钟音频完整解析）",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MaDFSV0g2bEh4M0lRenlGX1RkTjhFR3UxMXNSWGxNV3Vjd3R0MmRnOG11eWpIY0FxaDhTekVULTFEVnk1QVNJd25",
+      "source_url": "https://www.ne21.com",
+      "source": "世纪新能源网"
+    },
+    {
+      "title": "三友联众拟发行可转债募资不超6.6亿元 加码光伏、储能及算力领域继电器扩产",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS2RzTWdNb2dRTm94VlNSMnFnMWg3STd6UHFpS2JOaVlSQVNpU0cyOXdhbDhrZm54TG1PQktNenFIMU1qaS1oOXF",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "充电站配储设备供应商怎么选？2026年权威推荐与深度解析",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hOVRFbHVidXBwdV80ejd2ODRpMUc0bGtzdGJIaF8xazlsbC02bkx0SVoybzZqenBZS05BVjE2QTVibnpIZHQxX3J",
+      "source_url": "https://mcn.solarbe.com",
+      "source": "碳索储能网"
+    }
+  ]
 }

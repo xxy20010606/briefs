@@ -1,5 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 0,
-  "samples": []
+  "total": 41,
+  "samples": [
+    {
+      "title": "国内首条3D先进封装量产线正式通线",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14OVJYSC1PQXUycXdPRzRJaFRXdUlBQThmV0dVcTlFYUlxZi1ucm5McnNmWXpvQ285LUJEa0l6R1NqRXhWNF9jajd",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
+    },
+    {
+      "title": "新思科技与OpenAI达成芯片设计AI合作，股价一度涨超7%",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0J1aXZZbGtERTMzZHlnUE5SYk9ENUdzQWRwOUpwUmlFaW9NbnQtNmQxVVlwNW1LV1dETGtQVU1hNi1STHE3a2h",
+      "source_url": "https://news.futunn.com",
+      "source": "富途牛牛"
+    },
+    {
+      "title": "新思科技与OpenAI达成多年期芯片设计模型框架合作",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03VjNHLVlOM01zRTQ2VklNbVFVMzl2LUFZSHlHM0FLTW1GdE1Qczgzak1TY081MW9aN2tNRENJNFhsTzRGUXRjVzB",
+      "source_url": "https://awtmt.com",
+      "source": "awtmt.com"
+    },
+    {
+      "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94dWRHSUNMSGEyczRSS3ZHQ3JlMFY3cVRTcmpadkpmY0ZQQmRSb19rS1lzMlJaaTBqMXYyWlJHVVFHaTFCUGxTNQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "OpenAI与新思科技合作开发芯片设计AI模型GPT-Synopsys",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xQzlkWDBvRWhJNzhXeDloQ0pNTVVCUUJpcWZ2NGw5RU5LeUNCVnFHa2Y5SndoR29FS1Z3UzQxaU9QeEtHMzdxZ0F",
+      "source_url": "https://es.tradingview.com",
+      "source": "TradingView"
+    },
+    {
+      "title": "美股科技巨头普涨，谷歌、苹果、亚马逊涨超2%，中国资产深夜集体上涨，芯片股走势分化，金银走低",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0c1Y0hneklWSENsdkxXYlU5dXY3eHhfekoxS2tQaWFyWUt4d3dodU1KQXJSTGZ4NllISTFqTlRxTTdoUW96cHI",
+      "source_url": "https://k.sina.com.cn",
+      "source": "k.sina.com.cn"
+    }
+  ]
 }

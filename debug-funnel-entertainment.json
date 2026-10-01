@@ -1,14 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 0,
-    "trusted": 0,
-    "non_trusted_top": {},
-    "fresh1_24h": 0,
-    "page_fresh": 0,
-    "relaxed_72h": 0,
-    "final": 0,
-    "cap": "不限同域"
+    "raw_dedup_junk": 52,
+    "trusted": 14,
+    "non_trusted_top": {
+      "360.com": 7,
+      "rediandf.com": 5,
+      "sina.cn": 4,
+      "china.com": 2,
+      "voc.com.cn": 2,
+      "cqnews.net": 1,
+      "aboluowang.com": 1,
+      "vietnam.vn": 1,
+      "hebccw.cn": 1,
+      "yeeyi.com": 1
+    },
+    "fresh1_24h": 12,
+    "page_fresh": 4,
+    "relaxed_72h": 7,
+    "final": 7,
+    "cap": "同域≤2条"
   },
-  "final": []
+  "final": [
+    {
+      "t": "三年之后，亚运电竞不再“一票难求”",
+      "d": "36kr.com"
+    },
+    {
+      "t": "电影市场\"极限定档\"现象加剧 国庆档预售低迷引发行业反思",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "第35届“飞天奖”和第29届“星光奖”提名作品名单公布",
+      "d": "china.com.cn"
+    },
+    {
+      "t": "刘欢离世后留下特别礼物：结清尾款、不办追悼，给独女和女婿留下体面",
+      "d": "sohu.com"
+    },
+    {
+      "t": "脸都打肿了！2.69亿中秋档惨案：中秋档票房一出，整个电影圈集体沉默，16部新片",
+      "d": "sohu.com"
+    },
+    {
+      "t": "“从长江到亚马逊”音乐会在巴西举行",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "2026年9月票房13.68亿",
+      "d": "eastmoney.com"
+    }
+  ]
 }

@@ -1,5 +1,42 @@
 {
   "type": "entertainment",
-  "total": 0,
-  "samples": []
+  "total": 52,
+  "samples": [
+    {
+      "title": "中秋档《敦煌》《老江湖》《死亡禁区》票房遇冷难过四千万",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaVDRTN0pPYmxEeU1KOXF0VGlwRThsbVFCVVpsMlZBUml6NXF2elBPZU90eUtBWVRQVUdEY2Zqck1leDI0c3B1NzF",
+      "source_url": "https://yule.360.com",
+      "source": "360娱乐"
+    },
+    {
+      "title": "国内首部AI电影长片将上映，博纳涨停背后：市场在赌AI电影？",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zdnlCN0dtdG9TaU5WVE1qVGpFQjFnaEtyM2ZpaldvV1VhQ3I3a2lHZk1XRE9tUFhScmRhRTJVczBhcFp1U3lLcXc",
+      "source_url": "https://www.cqnews.net",
+      "source": "华龙网"
+    },
+    {
+      "title": "大陆中秋档票房2.7亿跌回2013年 有新片零票房",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WanJXZnAxNXR3YjRhNzUzR1pCUmg2ak5IVDBJOEpMeUxQaHE3SEJkOHh1S1Fma1dIN3luVVBoMWtJd0ZrTzlOcEp",
+      "source_url": "https://www.aboluowang.com",
+      "source": "aboluowang.com"
+    },
+    {
+      "title": "脸都打肿了！2.69亿中秋档惨案：中秋档票房一出，整个电影圈集体沉默，16部新片扎堆上映，票房前3全",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTRjQVEtaXkyOVhIdTNpZDlFa0U4dVM4M2NMLWNTVVlpd01Za3BVSkQ4cEtmNm9qTXNhNV9DeTlyeG5EcGhERFF",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "电影《数到三》票房突破1000万",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FSjNVTlhNQWlnTGVWZXVLOWFDSlhoc2RLczVHVXk3bTVYWHpxWmVubkJERUNaTzY5TTVuaWp4Rnh1eGx2Z3YzZzZ",
+      "source_url": "https://timeline.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "他从小住在寺庙里，靠在动物园打工为生，如今已成为一名年收入数千亿越南盾的导演，追随陈清和邓泰玄的脚步",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc19VSXBoZnFGdkhuckxGaVM5RXR0bHNVdFAxQlVmM1NYaVg2UGtSaDRMeDNfS09SeHpQVWRqUUJRRUtiei0wVFp",
+      "source_url": "https://www.vietnam.vn",
+      "source": "Vietnam.vn"
+    }
+  ]
 }

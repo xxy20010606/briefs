@@ -1,14 +1,48 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 0,
-    "trusted": 0,
-    "non_trusted_top": {},
-    "fresh1_24h": 0,
-    "page_fresh": 0,
-    "relaxed_72h": 0,
-    "final": 0,
+    "raw_dedup_junk": 26,
+    "trusted": 6,
+    "non_trusted_top": {
+      "sina.com.cn": 6,
+      "autohome.com.cn": 5,
+      "in-en.com": 2,
+      "ne21.com": 2,
+      "sina.cn": 2,
+      "nengyuanjie.net": 1,
+      "seetao.com": 1,
+      "ichaoqi.com": 1
+    },
+    "fresh1_24h": 4,
+    "page_fresh": 2,
+    "relaxed_72h": 4,
+    "final": 6,
     "cap": "不限同域"
   },
-  "final": []
+  "final": [
+    {
+      "t": "比亚迪把“5分钟充好”铺上2000座高速站，纯电最后“一道坎”被推倒",
+      "d": "sohu.com"
+    },
+    {
+      "t": "王传福管技术，她管世界",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "常高新集团：聚力绿色转型，共筑零碳未来",
+      "d": "news.cn"
+    },
+    {
+      "t": "三友联众拟发行可转债募资不超6.6亿元 加码光伏、储能及算力领域继电器扩产",
+      "d": "sohu.com"
+    },
+    {
+      "t": "充电站配储设备供应商怎么选？2026年权威推荐与深度解析",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "70亿元电池项目投产，比亚迪与西安进入下半场",
+      "d": "sohu.com"
+    }
+  ]
 }

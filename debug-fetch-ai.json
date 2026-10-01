@@ -1,5 +1,42 @@
 {
   "type": "ai",
-  "total": 0,
-  "samples": []
+  "total": 48,
+  "samples": [
+    {
+      "title": "广深跻身AI算力城市前五",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYlRKeDJvVGdodXlmUGtaeDFZdTZsT2NTa1BUcnppMGxHd0w2Z3JBUGVaV1pra05VN0s3YUxtTDZrajZfVUtLMmp",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "中文在线：拟定增募资不超28.33亿元 投向数字版权及AI大模型等项目",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03UjVwMHpFMFFSb2NzeDBwWjNMSWhFV3RJOS0tdWxQaUI2WTRTYlFxejRQU3dpNzdMemxtYS13TmZkWDRGT0hEMlQ",
+      "source_url": "http://stock.10jqka.com.cn",
+      "source": "同花顺"
+    },
+    {
+      "title": "青枫智算完成种子轮融资：端侧智能迎来新玩家",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWFWVWRvRGRMRmZ1Vk9XYnViQjhMMnF2NmtLaFNJVm9sbXZ4dDdhekpoTVZtc25hMVprbWYyOEI4cW9RbV80dVl",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "尼日利亚媒体：非洲如何才能抓住AI机遇？",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONEcyRGw0STN5bFgxbC1laFVYWHp1ZVJnajRQOVJOVHMzQVRyZ0ZRMWs4NVlwVEJaalJKLV9JRFZfS05GNUdBVGF",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.com.cn"
+    },
+    {
+      "title": "广州AI大区，要把算力卫星送上天|商业航天|广州市|酒泉市|太空|广东省_手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd3RWVWtEQ1B5NW1uRUJ2LVIyRTRXR2o3aGdLNjhtcFcxQXIxOXluWXdwcTlVVm5QT2RVODlBOFRld0pZTGFsWlh",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.com.cn"
+    },
+    {
+      "title": "AI时代设计学科面临重塑，这场重量级论坛聚焦设计如何与智能共生",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWxJTGdBUkhNYWN2anlvQWNHR2U5Mnc2MUhaMXRib0NUUTdHbTJIN3ozOG5hTGwwbTltNVF2TFhhUlBEa2R0MDh",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.com.cn"
+    }
+  ]
 }

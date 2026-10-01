@@ -1,14 +1,50 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 0,
-    "trusted": 0,
-    "non_trusted_top": {},
-    "fresh1_24h": 0,
-    "page_fresh": 0,
-    "relaxed_72h": 0,
-    "final": 0,
+    "raw_dedup_junk": 31,
+    "trusted": 7,
+    "non_trusted_top": {
+      "pasqualepillitteri.it": 4,
+      "sina.cn": 3,
+      "unite.ai": 3,
+      "80aj.com": 2,
+      "sina.com.cn": 2,
+      "sfccn.com": 1,
+      "qianjia.com": 1,
+      "zaochenbao.com": 1,
+      "528btc.com": 1,
+      "mydrivers.com": 1
+    },
+    "fresh1_24h": 6,
+    "page_fresh": 1,
+    "relaxed_72h": 5,
+    "final": 6,
     "cap": "不限同域"
   },
-  "final": []
+  "final": [
+    {
+      "t": "电商 AI 会计落地产业带，搭建企业数字化决策体系，解决电商财报和财税难题",
+      "d": "36kr.com"
+    },
+    {
+      "t": "特写 | 年销2000万双袜子 一位义乌老板娘的外贸“AI转身”",
+      "d": "nbd.com.cn"
+    },
+    {
+      "t": "《千问办公律师行业AI应用白皮书》发布 法律AI下半场是信任与责任",
+      "d": "sohu.com"
+    },
+    {
+      "t": "AI降低内容生产成本，日化美妆行业竞争转向判断力",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "OpenAI发布全天候Agent dots，AI Agent市场竞争升温",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "Muse爆火，dots入场：Personal Agent开始和互联网平台抢入口",
+      "d": "leiphone.com"
+    }
+  ]
 }

@@ -1,14 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 0,
-    "trusted": 0,
-    "non_trusted_top": {},
-    "fresh1_24h": 0,
-    "page_fresh": 0,
-    "relaxed_72h": 0,
-    "final": 0,
-    "cap": "不限同域"
+    "raw_dedup_junk": 48,
+    "trusted": 19,
+    "non_trusted_top": {
+      "sina.com.cn": 8,
+      "sina.cn": 7,
+      "myzaker.com": 2,
+      "80aj.com": 2,
+      "eurekalert.org": 1,
+      "mrjjxw.com": 1,
+      "guandian.cn": 1,
+      "bandao.cn": 1,
+      "sfccn.com": 1,
+      "beijing.gov.cn": 1
+    },
+    "fresh1_24h": 15,
+    "page_fresh": 4,
+    "relaxed_72h": 13,
+    "final": 7,
+    "cap": "同域≤2条"
   },
-  "final": []
+  "final": [
+    {
+      "t": "广深跻身AI算力城市前五",
+      "d": "sohu.com"
+    },
+    {
+      "t": "中文在线：拟定增募资不超28.33亿元 投向数字版权及AI大模型等项目",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "青枫智算完成种子轮融资：端侧智能迎来新玩家",
+      "d": "sohu.com"
+    },
+    {
+      "t": "AI算力9月报：OpenAI新模型API价格腰斩，Muse智能体爆火出圈",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "AIGC 驱动的内容生产力变革 --Vidu 多模态大模型的创新与实践｜QCon",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "聚焦AI 中国科协“新天工开物”科技成就发布“立知”和“材华”大模型",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "AI赋能大设计上海交大亮相2026世界设计之都大会-中新社上海",
+      "d": "chinanews.com.cn"
+    }
+  ]
 }

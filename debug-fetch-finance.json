@@ -1,5 +1,42 @@
 {
   "type": "finance",
-  "total": 0,
-  "samples": []
+  "total": 41,
+  "samples": [
+    {
+      "title": "史上仅出现过两次！标普500等权重指数本周料录得七周连跌_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NYk9yUzZ5Q0E2cS1BbUpGa1RWWU9UbkFxeEtmNTVGM281OEtwTmdpMksyVV9oY2hFNDJFMjJ4ZzI2R1RUVTR4Wm1",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
+    },
+    {
+      "title": "韩国存储双雄杠杆ETF价格上窜下跳 政府周四将开会讨论对策",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QWEtic2EyTlZuVnpPdXRza0FQb0Q3UWJmNzZER0k2TW9XejBLcURRcEdGTWtrTjlsc1FMcGhuOGZTWWVzdUFjbQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "南方财经 世纪经济报道记者胡慧茵报道",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xb3JKcm9YTllHQjFyXzFmcVdId0tPQzB6Z0RKanNIQ1NKLV9mcXp0dmhDcWlDX0E2VWVJcTBsdlRKZEhsTUE0bTd",
+      "source_url": "https://www.sfccn.com",
+      "source": "南方财经"
+    },
+    {
+      "title": "曹操出行(02643)9月30日斥资92.3万港元回购7.63万股_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oNUFXWUhSck1paTh3dS1LeTd3d21HdWpZTTMwcjEteXltTk9zcjhlMkNsZnBRUU1UcTlTVmo2LUpuM3FhQTZZVjR",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
+    },
+    {
+      "title": "思考乐教育(01769)：受托人根据股份奖励计划购买11.7万股_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rQU95MUdPMXlBTkl2cmR4cGVJc0lLbUN4alpKMFpJamp6cmg0LUV4ZHl1dkFLMGNpXzRiV3RPTWFrVGwtdTZOTkh",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
+    },
+    {
+      "title": "今日财经│ASTRO、威铖、马股9月挫75点、东南亚股市全军覆没 - 财经",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Qb0d5aGVvemVDS0tCVTc4MG4tT1Bmd1pDMVVSRk1hZHlEczRmMXloTXpwX1FUQzRfVkpidzcwUGg1SjliSGlsNWN",
+      "source_url": "https://www.sinchew.com.my",
+      "source": "焦点财经"
+    }
+  ]
 }

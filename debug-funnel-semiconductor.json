@@ -1,14 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 0,
-    "trusted": 0,
-    "non_trusted_top": {},
-    "fresh1_24h": 0,
-    "page_fresh": 0,
-    "relaxed_72h": 0,
-    "final": 0,
-    "cap": "不限同域"
+    "raw_dedup_junk": 41,
+    "trusted": 20,
+    "non_trusted_top": {
+      "sina.cn": 4,
+      "sina.com.cn": 3,
+      "futunn.com": 1,
+      "awtmt.com": 1,
+      "tradingview.com": 1,
+      "cfi.net.cn": 1,
+      "mrjjxw.com": 1,
+      "zhiding.cn": 1,
+      "stockstar.com": 1,
+      "c114.net.cn": 1
+    },
+    "fresh1_24h": 20,
+    "page_fresh": 8,
+    "relaxed_72h": 8,
+    "final": 7,
+    "cap": "同域≤2条"
   },
-  "final": []
+  "final": [
+    {
+      "t": "国内首条3D先进封装量产线正式通线",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "20:21:19【半导体产业链整体回调，半导体设备ETF易方达（159558）逆",
+      "d": "cls.cn"
+    },
+    {
+      "t": "2亿元！这家UWB芯片公司完成新一轮融资！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "里程碑突破！中国团队拿下全球首款安培级氧化镓垂直MOSFET",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "300亿独角兽被疯抢，广州的反击才刚开始-36氪",
+      "d": "36kr.com"
+    },
+    {
+      "t": "2026H1半导体封测板块：14家营收775.57亿，百亿规模竞速扩产",
+      "d": "sohu.com"
+    },
+    {
+      "t": "美股开盘丨纳指涨0.36% 存储芯片板块上涨",
+      "d": "sohu.com"
+    }
+  ]
 }
