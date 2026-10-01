@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 52,
-    "trusted": 14,
+    "raw_dedup_junk": 47,
+    "trusted": 24,
     "non_trusted_top": {
-      "360.com": 7,
-      "rediandf.com": 5,
-      "sina.cn": 4,
-      "china.com": 2,
-      "voc.com.cn": 2,
-      "cqnews.net": 1,
-      "aboluowang.com": 1,
+      "bjd.com.cn": 2,
+      "360.com": 2,
+      "sina.cn": 2,
+      "yule.com.cn": 2,
       "vietnam.vn": 1,
-      "hebccw.cn": 1,
-      "yeeyi.com": 1
+      "epochtimes.com": 1,
+      "starnewskorea.com": 1,
+      "pchome.net": 1,
+      "rediandf.com": 1,
+      "stheadline.com": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 4,
-    "relaxed_72h": 7,
+    "fresh1_24h": 24,
+    "page_fresh": 17,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "三年之后，亚运电竞不再“一票难求”",
-      "d": "36kr.com"
+      "t": "电影国庆档首日，平均票价同比下降，大盘有望稳步走高",
+      "d": "sohu.com"
     },
     {
-      "t": "电影市场\"极限定档\"现象加剧 国庆档预售低迷引发行业反思",
+      "t": "国庆档，已破亿！",
+      "d": "sohu.com"
+    },
+    {
+      "t": "日月谭天丨又一部陆剧火爆台湾，照见民进党“去中国化”纯属无用功",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "2026年国庆档票房预测同比再跌12%，小成本恐怖片与AI短剧成行业新变量",
       "d": "huxiu.com"
     },
     {
-      "t": "第35届“飞天奖”和第29届“星光奖”提名作品名单公布",
-      "d": "china.com.cn"
+      "t": "央地共创 电视剧《中国1927》举办开机发布活动",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "刘欢离世后留下特别礼物：结清尾款、不办追悼，给独女和女婿留下体面",
-      "d": "sohu.com"
+      "t": "《伟大的长征》全景式展现长征全貌 六万五千里征程首次荧屏还原",
+      "d": "huxiu.com"
     },
     {
-      "t": "脸都打肿了！2.69亿中秋档惨案：中秋档票房一出，整个电影圈集体沉默，16部新片",
-      "d": "sohu.com"
-    },
-    {
-      "t": "“从长江到亚马逊”音乐会在巴西举行",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "2026年9月票房13.68亿",
-      "d": "eastmoney.com"
+      "t": "李思潼人民日报撰文：南枝赋予我的勇气，会长久留在我的生命里",
+      "d": "thepaper.cn"
     }
   ]
 }

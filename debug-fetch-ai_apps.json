@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 31,
+  "total": 26,
   "samples": [
+    {
+      "title": "日本游戏业AI渗透率达85.8%，制度化应用成新趋势",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1duOWRPYjdKNnhyaDhrNFJtb0VZc1lhQllBSWVzaTFubUU2ZzZPQ0dVUFgzWmpXcHExWWdkUktrTjJ4N2VSUnE",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "WorkBuddy企业版升级：让个人提效，变成组织生产力",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ieUJ2NHdpRGRJU1RsQUd1U3JWY1VuRnVoRlFlenlsbk90SGdsYlF1ejZHaUlTdFl2T2FZUG9FTEF3T2stTDlTaWg",
+      "source_url": "https://timeline.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "10令吉起学AI！太平开50人AI班 不会电脑也能学ChatGPT、做图剪片 | 霹雳 | 地方",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfanh1RVpFRVpKVUN6SGhrNTU1ZjU1bWVXeTJfdFRvaE5vOFdyVDQtOGhxRElCcE5NMWJrUkdESGhYVjVKbDFxcVh",
+      "source_url": "https://www.orientaldaily.com.my",
+      "source": "orientaldaily.com.my"
+    },
+    {
+      "title": "OpenAI正面迎战Meta Muse",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOWJtZHByTDFDX2hNYVUzZnBTTUR0N1JqeGt4T0xJNmY3TkFJekV5eTEtWWxQV2VmVWNCTTE4Z3RPcmhsVk5SSTR",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
     {
       "title": "智谱发上亿Token，能挽回开发者的信任吗？",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZTlGUHpEbmNWNk92TkFBZFR2MEQtRUlpWXk2TnFYNU9EZUc3ejFxVXlQTlZLcHdFQ2RObERZMHNtWnB3QUU2NjR",
       "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
+      "source": "新浪财经"
     },
     {
-      "title": "DeepSeek和华为发布TileLang支持昇腾芯片,挑战CUDA",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaUk0cENHWmY2dTA3c1V6azNKaWFhN3hvd3hMM2gzZTl4UTEwWC1mbGdPblRWUXRlbFUxUkJOSVNVOWk5LUVlenJ",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "Anthropic重启AI意愿调查，访谈内容可选择公开",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSlU2LXBfdS1yWDZSem9JTWwyTGhvamgwM0NhN2ZzVFlXbnhMVldsdHI1NElKSG5aaVhkeGRmTXJiOTVNVmFGUnp",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "开源Mac智能会议录音工具Parrot：本地模型优先，AI副驾实时答疑",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GMXZ6SWRId2EtSU5xQkVZdUFvUXFxX1FTaGQ5aEE4U3NyV1h0QUR2WXR4TGZHUU4xaHYzWlEzMzdoUXN3ZkNidUp",
-      "source_url": "https://www.80aj.com",
-      "source": "80aj.com"
-    },
-    {
-      "title": "AI Agent 不是聊天机器人：从 Prompt 走向 Runtime",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xeGR0cnBjNUo4SlV1VmJoUnE2TW0tOUk0TlNGWTBBMWRZLTJzazlNU01sSjU1NjBnSXhLR2V6eVRVZHFwR0dVcE1",
-      "source_url": "https://www.80aj.com",
-      "source": "80aj.com"
-    },
-    {
-      "title": "Coderblock.ai宣布向公众开放，一条提示词即可生成完整应用",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdHhEeXZhdDk1U3dDVTdpenZ5allpVmozVW1QbE9WWlR6d2RUd0d4d3V6X3gyMk8wRkFZVk9SbERLams5SzVzeFh",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "国信证券:《Meta Horizon Create/Studio及国内AI游戏产业生态｜投资分析》",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92YkJZTUkwRFJyUVNXM3BMcjBEZmtlOG9VT2JjblBXNnVDV1pEeThlV1hDX2kxbkR6RTMza2VjVHh3V2VXM0ZmUXp",
+      "source_url": "https://www.fxbaogao.com",
+      "source": "发现报告"
     }
   ]
 }

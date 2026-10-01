@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 41,
-    "trusted": 20,
+    "raw_dedup_junk": 45,
+    "trusted": 23,
     "non_trusted_top": {
-      "sina.cn": 4,
       "sina.com.cn": 3,
-      "futunn.com": 1,
-      "awtmt.com": 1,
-      "tradingview.com": 1,
-      "cfi.net.cn": 1,
-      "mrjjxw.com": 1,
-      "zhiding.cn": 1,
-      "stockstar.com": 1,
-      "c114.net.cn": 1
+      "caiwennews.com": 2,
+      "stockstar.com": 2,
+      "sina.cn": 2,
+      "klsescreener.com": 1,
+      "nai500.com": 1,
+      "china.com": 1,
+      "mydrivers.com": 1,
+      "hk01.com": 1,
+      "digitimes.com.tw": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 8,
-    "relaxed_72h": 8,
+    "fresh1_24h": 22,
+    "page_fresh": 11,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "国内首条3D先进封装量产线正式通线",
+      "t": "利好传来，存储芯片巨头集体拉升",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "台积电巩固Foundry 2.0市场主导地位",
+      "d": "sohu.com"
+    },
+    {
+      "t": "美股夜盘芯片股集体走强 SOXL三倍做多半导体ETF-Direxion涨超9%",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "韬定律芯片领衔，黑科技王者登场：读懂华为Mate 90系列升级亮点",
       "d": "ifeng.com"
     },
     {
-      "t": "20:21:19【半导体产业链整体回调，半导体设备ETF易方达（159558）逆",
-      "d": "cls.cn"
-    },
-    {
-      "t": "2亿元！这家UWB芯片公司完成新一轮融资！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "里程碑突破！中国团队拿下全球首款安培级氧化镓垂直MOSFET",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "300亿独角兽被疯抢，广州的反击才刚开始-36氪",
-      "d": "36kr.com"
-    },
-    {
-      "t": "2026H1半导体封测板块：14家营收775.57亿，百亿规模竞速扩产",
+      "t": "华为Mate90正式发布！余承东：Mate90系列，是中国半导体发展史的答卷",
       "d": "sohu.com"
     },
     {
-      "t": "美股开盘丨纳指涨0.36% 存储芯片板块上涨",
-      "d": "sohu.com"
+      "t": "绝境突围的麒麟芯片",
+      "d": "guancha.cn"
+    },
+    {
+      "t": "从晶圆到模组：存储产业链的价值之旅",
+      "d": "10jqka.com.cn"
     }
   ]
 }

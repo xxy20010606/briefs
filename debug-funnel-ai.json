@@ -1,30 +1,34 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 48,
-    "trusted": 19,
+    "raw_dedup_junk": 45,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "sina.cn": 7,
-      "myzaker.com": 2,
+      "sina.cn": 10,
+      "sina.com.cn": 7,
+      "csdn.net": 3,
+      "techwalker.com": 2,
+      "ichaoqi.com": 2,
       "80aj.com": 2,
-      "eurekalert.org": 1,
-      "mrjjxw.com": 1,
-      "guandian.cn": 1,
-      "bandao.cn": 1,
-      "sfccn.com": 1,
-      "beijing.gov.cn": 1
+      "worldjournal.com": 1,
+      "ac.cn": 1,
+      "crntt.com": 1,
+      "ttplus.cn": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 4,
-    "relaxed_72h": 13,
+    "fresh1_24h": 12,
+    "page_fresh": 5,
+    "relaxed_72h": 3,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "广深跻身AI算力城市前五",
-      "d": "sohu.com"
+      "t": "智聚天下才 潮起AI杭州——杭州国际人才大会面向全球开展AI创新合作对接",
+      "d": "gmw.cn"
+    },
+    {
+      "t": "清华大学携手新玑璇权衡联合攻关自进化AI体系优化",
+      "d": "stdaily.com"
     },
     {
       "t": "中文在线：拟定增募资不超28.33亿元 投向数字版权及AI大模型等项目",
@@ -35,20 +39,16 @@
       "d": "sohu.com"
     },
     {
-      "t": "AI算力9月报：OpenAI新模型API价格腰斩，Muse智能体爆火出圈",
-      "d": "eet-china.com"
+      "t": "从数据到智能，再到进化：Agent正在重写AI基础设施",
+      "d": "geekpark.net"
     },
     {
-      "t": "AIGC 驱动的内容生产力变革 --Vidu 多模态大模型的创新与实践｜QCon",
-      "d": "infoq.cn"
+      "t": "OpenAI开发者大会大批更新；CPU交货期再度拉长",
+      "d": "21jingji.com"
     },
     {
-      "t": "聚焦AI 中国科协“新天工开物”科技成就发布“立知”和“材华”大模型",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "AI赋能大设计上海交大亮相2026世界设计之都大会-中新社上海",
-      "d": "chinanews.com.cn"
+      "t": "智能体AI时代，英特尔至强凭什么重回C位？",
+      "d": "sohu.com"
     }
   ]
 }

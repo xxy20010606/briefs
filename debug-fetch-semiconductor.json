@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 41,
+  "total": 45,
   "samples": [
     {
-      "title": "国内首条3D先进封装量产线正式通线",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14OVJYSC1PQXUycXdPRzRJaFRXdUlBQThmV0dVcTlFYUlxZi1ucm5McnNmWXpvQ285LUJEa0l6R1NqRXhWNF9jajd",
-      "source_url": "https://tech.ifeng.com",
-      "source": "凤凰网科技"
+      "title": "利好传来，存储芯片巨头集体拉升",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LMXRMRXlOYWVaN0N1UnRTSmJ4QVlTeWRpU3Z1VVlYNHpuc1R3bGxEXzVqb25ySDdIaFJYeTJmZlQ5SksxUlVmN2V",
+      "source_url": "https://news.10jqka.com.cn",
+      "source": "news.10jqka.com.cn"
     },
     {
-      "title": "新思科技与OpenAI达成芯片设计AI合作，股价一度涨超7%",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0J1aXZZbGtERTMzZHlnUE5SYk9ENUdzQWRwOUpwUmlFaW9NbnQtNmQxVVlwNW1LV1dETGtQVU1hNi1STHE3a2h",
-      "source_url": "https://news.futunn.com",
-      "source": "富途牛牛"
+      "title": "华为Mate 90系列发布：逻辑折叠芯片破局，高端旗舰竞争进入体系化深水区",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KbUIzc2hGWlphekhZWlNpdXJFZEtTMjN4dTd2QXYtaUYzVFAxdHoyNmhBVDQ4a3ExbE96Yk5PVkFOaHI4dm9kWjR",
+      "source_url": "https://www.caiwennews.com",
+      "source": "caiwennews.com"
     },
     {
-      "title": "新思科技与OpenAI达成多年期芯片设计模型框架合作",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03VjNHLVlOM01zRTQ2VklNbVFVMzl2LUFZSHlHM0FLTW1GdE1Qczgzak1TY081MW9aN2tNRENJNFhsTzRGUXRjVzB",
-      "source_url": "https://awtmt.com",
-      "source": "awtmt.com"
+      "title": "台积电巩固Foundry 2.0市场主导地位",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVmgyWWk0VldVdUNvQmxEanZvWVF2TkJEZGx6dGRJempTSnV4OEtGQjRVaGFaWUlXdU1ER2luR3BaTUdwVVAyTlR",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94dWRHSUNMSGEyczRSS3ZHQ3JlMFY3cVRTcmpadkpmY0ZQQmRSb19rS1lzMlJaaTBqMXYyWlJHVVFHaTFCUGxTNQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "AI芯片需求激增 韩国9月出口年增逾80%",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWHpXUnlvN3ZNLWpGVDJ3STk5d1d1TlBhSFRnUjliOWtpWGRmSDVOc1N5dEt5VXZ4T3BtRTBXVzJ1NW04UUNHQnV",
+      "source_url": "https://www.klsescreener.com",
+      "source": "klsescreener.com"
     },
     {
-      "title": "OpenAI与新思科技合作开发芯片设计AI模型GPT-Synopsys",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xQzlkWDBvRWhJNzhXeDloQ0pNTVVCUUJpcWZ2NGw5RU5LeUNCVnFHa2Y5SndoR29FS1Z3UzQxaU9QeEtHMzdxZ0F",
-      "source_url": "https://es.tradingview.com",
-      "source": "TradingView"
+      "title": "存储超级周期来了？美股夜盘芯片股集体走强，巨头称：存储缺货看不到尽头",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wMVFpbHk5aWZubEVDUkwyMkljdlp0MkdzeFBCWTlfOTBzdHNmRGxmdnUtTzJYSTJKOGlLRjJmY09RNmozWEVjV0h",
+      "source_url": "https://www.caiwennews.com",
+      "source": "caiwennews.com"
     },
     {
-      "title": "美股科技巨头普涨，谷歌、苹果、亚马逊涨超2%，中国资产深夜集体上涨，芯片股走势分化，金银走低",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0c1Y0hneklWSENsdkxXYlU5dXY3eHhfekoxS2tQaWFyWUt4d3dodU1KQXJSTGZ4NllISTFqTlRxTTdoUW96cHI",
-      "source_url": "https://k.sina.com.cn",
-      "source": "k.sina.com.cn"
+      "title": "美股夜盘芯片股集体走强 SOXL三倍做多半导体ETF-Direxion涨超9%",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3RIR3FOYlNmNWEwbk5aVTNTVTdPVDhWREI0YWdMaUMzbl9rczR1RjUwSHFDa2UyUTNiT0Eta1ZhbGtEdENRbUh",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
     }
   ]
 }

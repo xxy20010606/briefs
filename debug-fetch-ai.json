@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 48,
+  "total": 45,
   "samples": [
     {
-      "title": "广深跻身AI算力城市前五",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYlRKeDJvVGdodXlmUGtaeDFZdTZsT2NTa1BUcnppMGxHd0w2Z3JBUGVaV1pra05VN0s3YUxtTDZrajZfVUtLMmp",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "中文在线：拟定增募资不超28.33亿元 投向数字版权及AI大模型等项目",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03UjVwMHpFMFFSb2NzeDBwWjNMSWhFV3RJOS0tdWxQaUI2WTRTYlFxejRQU3dpNzdMemxtYS13TmZkWDRGT0hEMlQ",
-      "source_url": "http://stock.10jqka.com.cn",
-      "source": "同花顺"
-    },
-    {
-      "title": "青枫智算完成种子轮融资：端侧智能迎来新玩家",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWFWVWRvRGRMRmZ1Vk9XYnViQjhMMnF2NmtLaFNJVm9sbXZ4dDdhekpoTVZtc25hMVprbWYyOEI4cW9RbV80dVl",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "尼日利亚媒体：非洲如何才能抓住AI机遇？",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONEcyRGw0STN5bFgxbC1laFVYWHp1ZVJnajRQOVJOVHMzQVRyZ0ZRMWs4NVlwVEJaalJKLV9JRFZfS05GNUdBVGF",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
-    },
-    {
       "title": "广州AI大区，要把算力卫星送上天|商业航天|广州市|酒泉市|太空|广东省_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd3RWVWtEQ1B5NW1uRUJ2LVIyRTRXR2o3aGdLNjhtcFcxQXIxOXluWXdwcTlVVm5QT2RVODlBOFRld0pZTGFsWlh",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTGx2c0VUNXREWnJpMGpSNTJZXzB3RkVhaEFnX05rc1R2NU4xVjFSenRxbVN6TXNXb1pubjRkUDQ5RjcwdlpWMmM",
       "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
+      "source": "新浪财经"
     },
     {
-      "title": "AI时代设计学科面临重塑，这场重量级论坛聚焦设计如何与智能共生",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWxJTGdBUkhNYWN2anlvQWNHR2U5Mnc2MUhaMXRib0NUUTdHbTJIN3ozOG5hTGwwbTltNVF2TFhhUlBEa2R0MDh",
+      "title": "智聚天下才 潮起AI杭州——杭州国际人才大会面向全球开展AI创新合作对接",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiRm9VYm9BZDNtZGNzMzU5UGtQR0pEaDlOSXRjbkhHQ3hCSzFaMndaSU5jSWpISmVmRkdndDhyRl85eVVQaWgzSXk",
+      "source_url": "https://difang.gmw.cn",
+      "source": "difang.gmw.cn"
+    },
+    {
+      "title": "词元为北京智能经济锻造新引擎",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzV3X1A1c1BjNXp1Yk10STQtbVJreW0xQjhXQ3VzWVJmUzl3R1U0VmNMUlBMdlRqdnp2NXhNVUZNTm1sTkhYb18",
       "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
+      "source": "新浪财经"
+    },
+    {
+      "title": "日常幫手 中國生成式AI用戶 突破7億人 普及率超過50%",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qN0pkM0gtLVYtTTM2SEs4ZWZPLXV2R1VVTWpid0IxNWg3bEJlcFJHRUlGMWloSVduTGY4VXF0cE9NQ2tCODJac08",
+      "source_url": "https://www.worldjournal.com",
+      "source": "世界新聞網"
+    },
+    {
+      "title": "清华大学携手新玑璇权衡联合攻关自进化AI体系优化",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiUGVXZllKOWNtNVBnbnNJXzg0TDVUNHBpcHF0dWJkTnM1Ti13LW42Qm9WaDNCekx0XzJFOTlDcW55QllKVGY2bmJ",
+      "source_url": "https://www.stdaily.com",
+      "source": "中国科技网"
+    },
+    {
+      "title": "给AI视频出一道完形填空题，它考砸了",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05ZEVOYmpiVFJQUkw5Q1A0Tk1ZZGlTc1pOSUlBOEVyMG5MTkkwWFpmZUxmdlNaWUlKX3ZMS25lNVQ1U1pkaDViR3d",
+      "source_url": "https://www.techwalker.com",
+      "source": "科技行者"
     }
   ]
 }

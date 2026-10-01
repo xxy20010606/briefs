@@ -1,25 +1,25 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 41,
-    "trusted": 21,
+    "raw_dedup_junk": 33,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "sina.cn": 3,
-      "moomoo.com": 3,
-      "jin10.com": 2,
-      "sfccn.com": 1,
-      "sinchew.com.my": 1,
-      "klsescreener.com": 1,
-      "fx678.com": 1,
-      "epochtimes.com": 1,
-      "binance.com": 1
+      "moomoo.com": 5,
+      "sina.com.cn": 2,
+      "enanyang.my": 1,
+      "fx168news.com": 1,
+      "ttplus.cn": 1,
+      "jwview.com": 1,
+      "nai500.com": 1,
+      "orientaldaily.com.my": 1,
+      "jin10.com": 1,
+      "fx678.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 2,
-    "relaxed_72h": 14,
+    "fresh1_24h": 14,
+    "page_fresh": 5,
+    "relaxed_72h": 3,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
@@ -27,19 +27,19 @@
       "d": "cnfol.com"
     },
     {
-      "t": "中概股上涨，存储巨头业绩大增",
+      "t": "现在美国加息已经没什么用了，体系继续衰败",
+      "d": "guancha.cn"
+    },
+    {
+      "t": "零跑9月全球交付105656台，同比增长59%，连续三月破10万",
       "d": "ifeng.com"
     },
     {
-      "t": "曹操出行(02643)9月30日斥资92.3万港元回购7.63万股_股市直播_市",
-      "d": "cnfol.com"
+      "t": "美国加息，只有中国敢降息！底气来自哪里？",
+      "d": "xueqiu.com"
     },
     {
-      "t": "思考乐教育(01769)：受托人根据股份奖励计划购买11.7万股_股市直播_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "常达控股：股票继续暂停买卖",
+      "t": "昨夜，美股尾盘“变脸”",
       "d": "eastmoney.com"
     },
     {
@@ -47,8 +47,8 @@
       "d": "wallstreetcn.com"
     },
     {
-      "t": "重要指数低于预期，美股全线上涨",
-      "d": "eastmoney.com"
+      "t": "什么信号？美债收益率飙至20年高点之际 债市老将六年来首度空翻多",
+      "d": "cls.cn"
     }
   ]
 }
