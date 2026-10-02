@@ -1,37 +1,33 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 32,
-    "trusted": 5,
+    "raw_dedup_junk": 25,
+    "trusted": 3,
     "non_trusted_top": {
-      "unite.ai": 11,
-      "pasqualepillitteri.it": 3,
+      "unite.ai": 6,
+      "pasqualepillitteri.it": 5,
       "epochtimes.com": 2,
-      "sina.cn": 2,
-      "ac.cn": 2,
+      "528btc.com": 1,
       "sina.com.cn": 1,
       "vbdata.cn": 1,
       "eeo.com.cn": 1,
       "digitimes.com.tw": 1,
+      "sina.cn": 1,
       "yeeyi.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 1,
-    "relaxed_72h": 2,
-    "final": 3,
+    "fresh1_24h": 3,
+    "page_fresh": 2,
+    "relaxed_72h": 0,
+    "final": 2,
     "cap": "不限同域"
   },
   "final": [
     {
+      "t": "“超级个体”如何走向商业落地？工信部在上海办了场推介会",
+      "d": "thepaper.cn"
+    },
+    {
       "t": "当AI 开始替你行动， 界面开始不再像界面",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "京东Aidol创造营S2冒险季正式启动 为AI创意提供更多展示和落地机会",
-      "d": "sohu.com"
-    },
-    {
-      "t": "Meta发布智能代理Muse引爆个人Agent市场：需求验证但商业模式待解",
       "d": "huxiu.com"
     }
   ]

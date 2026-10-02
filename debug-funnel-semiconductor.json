@@ -1,49 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 23,
-    "trusted": 10,
+    "raw_dedup_junk": 39,
+    "trusted": 17,
     "non_trusted_top": {
-      "indexbox.io": 3,
-      "sina.cn": 2,
-      "kuai.media": 2,
-      "epochtimes.com": 1,
-      "digitimes.com.tw": 1,
-      "tradingkey.com": 1,
-      "investing.com": 1,
-      "sina.com.cn": 1,
-      "chosun.com": 1
+      "sina.cn": 5,
+      "sina.com.cn": 4,
+      "chosun.com": 2,
+      "tradingkey.com": 2,
+      "indexbox.io": 2,
+      "vietnam.vn": 1,
+      "tradingview.com": 1,
+      "klsescreener.com": 1,
+      "asiae.co.kr": 1,
+      "epochtimes.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 3,
-    "relaxed_72h": 3,
-    "final": 6,
-    "cap": "不限同域"
+    "fresh1_24h": 17,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "国际油价狂飙超6%，美股光通信、芯片股大涨，SK海力士涨超5%",
-      "d": "sohu.com"
-    },
-    {
-      "t": "美芯片巨头，夜盘集体拉升",
-      "d": "gelonghui.com"
-    },
-    {
-      "t": "中国4年能做出先进光刻机，黄仁勋的预测为何这么乐观？",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "美股夜盘芯片股集体走强 SOXL三倍做多半导体ETF-Direxion涨超9%",
+      "t": "亚马逊探索“表外”融资：拟将80亿美元英伟达芯片剥离至SPV再租回",
       "d": "cls.cn"
     },
     {
-      "t": "大湾区 12 英寸晶圆底座：粤芯半年报解读，硅光与车规的双重期待",
+      "t": "半年2798亿颗！平均每天产15亿颗！卡脖这些年，中国芯走到哪一步",
+      "d": "sohu.com"
+    },
+    {
+      "t": "美国又绷不住了？三星、SK海力士存储芯片产能，30%+在中国",
+      "d": "sohu.com"
+    },
+    {
+      "t": "Intel Fellow 揭秘先进封装如何把芯片从\"平房\"盖成\"摩天楼\"",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "读懂盛合晶微中报：别只看增速放缓，看懂中段先进封装的产业卡位",
       "d": "ifeng.com"
     },
     {
-      "t": "AI 拉动半导体需求暴涨，韩国 9 月出口创历史新高",
-      "d": "10jqka.com.cn"
+      "t": "西安奕材、沪硅、中欣晶圆、金瑞泓、中环领先、合晶、超硅、晶升股份等齐聚【第九届半",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "绝境突围的麒麟芯片",
+      "d": "cyol.com"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 40,
-    "trusted": 11,
+    "raw_dedup_junk": 49,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 5,
-      "moomoo.com": 5,
+      "moomoo.com": 9,
+      "sina.com.cn": 7,
+      "futunn.com": 4,
       "sina.cn": 3,
-      "tradingkey.com": 3,
-      "sinchew.com.my": 2,
-      "futunn.com": 2,
-      "stockstar.com": 1,
+      "orientaldaily.com.my": 2,
+      "newswav.com": 2,
+      "t.co": 2,
+      "on.cc": 2,
       "enanyang.my": 1,
-      "jkn.co.kr": 1,
-      "chinapress.com.my": 1
+      "okx.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 4,
-    "relaxed_72h": 4,
+    "fresh1_24h": 13,
+    "page_fresh": 9,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "知乎-W(02390)9月30日斥资22.4万美元回购18.46万股_股市直播_",
+      "t": "港股航空股全线下跌，东航、国航跌超5%_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "知乎-W(02390.HK)9月30日耗资22.4万美元回购18.5万股_股市直",
+      "t": "圣贝拉集团(02508)9月30日斥资19.31万港元回购7万股_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "新秀丽(01910)：完成收购B?IS,LLC_股市直播_市场",
-      "d": "cnfol.com"
+      "t": "【贵金属季报】货币政策主导 贵金属仍将调整",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "美股盘前要点｜10年期美债收益率创2002年来新高！美光CEO称明后年供需继续偏",
-      "d": "cnfol.com"
+      "t": "港股大跌！这股却飙涨！华为赛力斯复合，冲上热搜！美股AI涨疯了，“大空头”伯里：",
+      "d": "sohu.com"
     },
     {
-      "t": "和黄医药(00013)：从跟随板块到跑赢板块，基本面确认后何时开启新一轮行情？_",
-      "d": "cnfol.com"
+      "t": "港股调整！美联储加息突变，黄金白银新动向——",
+      "d": "sohu.com"
     },
     {
-      "t": "刚刚，猛烈抛售！欧洲“大风暴”，席卷股市债市！",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "特朗普：如果鲍威尔不辞职，美国政府就应该以“腐败或无能”为由起诉他",
+      "t": "港股医药、地产、科技集体杀跌，原因找到了",
       "d": "ifeng.com"
+    },
+    {
+      "t": "港股早报｜特朗普警告或加大力度打击伊朗 隔夜美股光通信及存储概念走强",
+      "d": "cls.cn"
     }
   ]
 }

@@ -1,42 +1,50 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 23,
-    "trusted": 6,
+    "raw_dedup_junk": 41,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.com.cn": 5,
-      "sina.cn": 3,
-      "bjd.com.cn": 2,
+      "sina.com.cn": 7,
+      "sina.cn": 5,
+      "hk01.com": 2,
+      "jfdaily.com.cn": 1,
+      "pedaily.cn": 1,
+      "aboluowang.com": 1,
+      "mezha.net": 1,
       "creaders.net": 1,
-      "caus.com": 1,
-      "dialogue.earth": 1,
-      "hk01.com": 1,
-      "quasa.io": 1,
-      "ac.cn": 1,
-      "tikr.com": 1
+      "csdn.net": 1,
+      "bjd.com.cn": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 1,
-    "relaxed_72h": 3,
-    "final": 4,
+    "fresh1_24h": 11,
+    "page_fresh": 5,
+    "relaxed_72h": 1,
+    "final": 6,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "美国设下“鸿门宴”，没想到中国拿下史诗级战果美国想换赛道晚了",
+      "t": "瞄准数字内容生态升级，中文在线拟定增募资不超28.33亿元，提示版权采集价格上涨",
       "d": "sohu.com"
     },
     {
-      "t": "首次！中国大模型进入OpenAI企业“采购单”",
-      "d": "guancha.cn"
+      "t": "全球最大预印本平台arXiv全面限投，每人每月仅限2篇，AI论文暴增6 倍压垮人",
+      "d": "huxiu.com"
     },
     {
-      "t": "OpenAI、Meta、Manus同时下注，智能体 2.0 来了",
-      "d": "thepaper.cn"
+      "t": "AI入局，奏响浙江文化“三重奏”",
+      "d": "cnr.cn"
     },
     {
-      "t": "OpenAI目标新融资300亿美元，估值1.4万亿美元",
-      "d": "sohu.com"
+      "t": "综述丨前沿模型能力加速跃升 AI治理迎来新考验——9月全球人工智能发展盘点",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "AI“砸饭碗”担忧暂缓！埃森哲845亿年订单创纪录、指引超预期，股价盘中暴涨超2",
+      "d": "wallstreetcn.com"
     }
   ]
 }

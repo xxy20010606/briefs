@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 32,
+  "total": 25,
   "samples": [
+    {
+      "title": "Cloudflare推出Clef，向Jev发起AI决策模型的挑战",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oOXF2cXAyM1U5WWkxRXZjUTM5SDk4ZDhyRFNKN1NlQk90QmN4UUloZW01djQtLU1JdUNxNk84RUc3VFJkRURKU09",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
+    },
+    {
+      "title": "Upbit推出AI工具分析加密市场动态",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByT3hsVGlFWFFMYlhnUUJ6bEpCWV9FZEk1eUROODVGVFRVZzBsMU5Md1dLbHowT3J3bGJvQm05NEt3SHR6TDZhUmw",
+      "source_url": "https://www.528btc.com",
+      "source": "币界网"
+    },
+    {
+      "title": "Claude Code迎来Mod，重写代理行为的插件",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qa3VEd29CX3hTek5kMkVFNEtCclR3QkRrdVJ3WVM0R1BUdjFqYmlrSkljeGV0TzJYRjVtTlJVN1BBNzZPaVduX2Z",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
+    },
+    {
+      "title": "假装卸载ChatGPT的视频收获1400万次播放",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yWUlfQk4yOEQyOXFpRjNmSzBHNU10OFVLRng4ODc2RkFad1lOLUJWUEpuSlZuNVRESHhkTU9XVzRaUEJ1R2VhZTl",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
+    },
+    {
+      "title": "“超级个体”如何走向商业落地？工信部在上海办了场推介会",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VOXU1VTVBVVFsVVh0c3NscnBCVWtOUjhyejktMVJQR204Z05iVnpULW1uczlwNGVaaGstUG5qa05pX3FJUzVkb0d",
+      "source_url": "https://www.thepaper.cn",
+      "source": "thepaper.cn"
+    },
     {
       "title": "分学段划定AI“红线” 北京发布2026版《指南》",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BX2hId1BqeS0yV1k5SmJ1ckh4Vm5yVEZYT2hSMzh1XzI4Z2ljcTNQYnBYcjFielJtbjRTLVNiUnNXTms5YmEweFR",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
-    },
-    {
-      "title": "AI独立化浪潮来袭，MNC集体押注！",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51bU9PcDJvQlozamg5a1FpTGZVSnNDbUQzUVV4djZOMjRqMVpLaE1sTXBYQjdCZVI3N0xUMGJ6b2piWGJ4VThv?oc",
-      "source_url": "https://www.vbdata.cn",
-      "source": "动脉网"
-    },
-    {
-      "title": "獨家：AI寫作檢測可靠嗎？三款熱門工具實測",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vcFJwV3RzY2c3U0FFM2ZpT3RXYnhTVjMxWDRXeGhZbkdLUm4wVXlUOERJM2l4ZW5YcnBrVHVpSXRwQ1cwOTY5dVN",
-      "source_url": "https://www.epochtimes.com",
-      "source": "大紀元新聞網"
-    },
-    {
-      "title": "专为竞彩爱好者打造的高效预测工具：竞彩ai大数据预测app正式发布",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MHR2UW1acGc3a2wzX3NYWm9VUTJnZkVhLWJ1MThmWDRkWmpGRUlEWDljRFg3RHVkS0tCdzgweC1qT2duOXhKT0h",
-      "source_url": "https://www.eeo.com.cn",
-      "source": "eeo.com.cn"
-    },
-    {
-      "title": "从数据痛点出发 台新新光金控以黑客松探索AI金融应用",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGpNQ2xGTXItUEMxc3Y2dDU5RnBiX2dkeTdrcDNNZ1RrOUJUMS1fOGRaY0VmWnVSa2dGazY3ZEZrOVhuZHFDSU9",
-      "source_url": "https://gb-www.digitimes.com.tw",
-      "source": "DIGITIMES"
-    },
-    {
-      "title": "如何在Mac上安装ComfyUI以在本地生成AI图像",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oYTF1UDM2TEpqdnFzUjZlMF9lRnUzQUJ0Ym9KV1otSVlSdWVRVFVwVk4xNmRNYk1MbTh1eXBfRG9BZXA3bU15VEZ",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "pasqualepillitteri.it"
     }
   ]
 }

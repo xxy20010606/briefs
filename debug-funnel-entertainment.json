@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 46,
-    "trusted": 15,
+    "raw_dedup_junk": 58,
+    "trusted": 25,
     "non_trusted_top": {
-      "sina.cn": 4,
-      "china.com": 4,
-      "pchome.net": 3,
-      "wenxuecity.com": 2,
-      "sina.com.cn": 2,
-      "pconline.com.cn": 2,
-      "ctdsb.net": 2,
-      "vietnam.vn": 1,
-      "ichaoqi.com": 1,
-      "indexbox.io": 1
+      "sina.cn": 5,
+      "sina.com.cn": 4,
+      "360.com": 4,
+      "vietnam.vn": 2,
+      "pchome.net": 2,
+      "yzwb.net": 2,
+      "bjd.com.cn": 2,
+      "hunantoday.cn": 2,
+      "yeeyi.com": 1,
+      "mk.co.kr": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 2,
-    "relaxed_72h": 13,
+    "fresh1_24h": 24,
+    "page_fresh": 23,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "奔赴林间新程，带着爱意，杭州相见",
+      "t": "文化观察丨从银幕到展馆 眺望成都动漫产业的远方",
       "d": "sohu.com"
     },
     {
-      "t": "多地“电影+”新玩法上线 假期文化消费持续升温",
-      "d": "cyol.com"
-    },
-    {
-      "t": "2026国庆档总票房破2亿 《神探之痕迹》领跑",
+      "t": "仅上映1天，就票房第一，不愧是你们盼了一整年的黑马片！",
       "d": "sohu.com"
     },
     {
-      "t": "国庆档中小电影扎堆 多元化是出路 但爆款仍待观察",
+      "t": "电影《八仙！》累计票房破20亿，位列中国影史国产动画电影票房第三",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "陈思诚、小沈阳、小猪佩奇，谁能撑起国庆档？",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "《八仙》破20亿！“成都高新造”包揽中国动画影史票房前三",
       "d": "eastmoney.com"
     },
     {
-      "t": "电影《神探之痕迹》黑龙江首映式在哈尔滨举行",
+      "t": "国庆档票房破3亿元！“电影+”玩法上新 文化消费升温",
       "d": "cnr.cn"
     },
     {
-      "t": "法国纪念印象派绘画大师莫奈逝世100周年",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "又一部陆剧火爆台湾，照见民进党“去中国化”纯属无用功",
-      "d": "cyol.com"
+      "t": "从米其林到黑珍珠，“吃在罗湖”背后的流量经",
+      "d": "21jingji.com"
     }
   ]
 }

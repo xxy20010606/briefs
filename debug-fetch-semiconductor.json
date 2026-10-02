@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 23,
+  "total": 39,
   "samples": [
     {
-      "title": "国际油价狂飙超6%，美股光通信、芯片股大涨，SK海力士涨超5%",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWkxTXEtN2NIV1VOYlY0Q2doVGJuZk9MVVZKNUFGZUtqN01penJDZExUZDZmN3QtSGNHTzNOZ0YtQlB4UHpoa3J",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "峰岹科技拟收购荷兰半导体传感器企业Sciosense",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA1R1lobTExUVhSRXUySGhxN240UWFvaXloYmMxLWhoUS1LYWw2OURpdW8xQ01VSFRTYm5La2wxbmdMdk0?oc=5",
+      "source_url": "http://laoyaoba.com",
+      "source": "集微网"
+    },
+    {
+      "title": "核心通胀2.8%粘性未消、出口1209亿美元创纪录，韩国央行11月加息预期升温",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sbGlpeGRCNjlvZ3pEZlJaQ1BCUjJaQTQ1SWUyZ2RoNGlpdWtuWEp1SkVkV2FidDhQdW5wanJ5TnFFLVpydk5zR0x",
+      "source_url": "https://wallstreetcn.com",
+      "source": "华尔街见闻"
+    },
+    {
+      "title": "搁浅电力，AI数据中心新痛点",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YYnpNSVhuRjFrN1piNlFrN1ItZDV4RGdXYVY4Z1BmVC1hUVhiVzJuUkxCQ0lpd2kwdFdGaWJrWm5VYTJPYVVIdjJ",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
       "title": "花旗分析师：十月适宜布局存储芯片股|SK海力士|美光科技|三星电子|份额|李彼得_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNbW9xTV9VeTdpUE8xVFRNUFY0bnFROUM3dnZ2YjA1YnVyaTBYTXdHNnpmalQwZDd1WlB6MV9oMm5CTGFELXdBUUl",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2Z6dl9ZQTl2X1RQaEpzU0xsMUdnWnR0ZEZmcUVBNHhEYVBqUjY3MW9ic2k1UUhTYktWTDVRTEsxT3B1ajNyaFN",
       "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "source": "finance.sina.com.cn"
     },
     {
-      "title": "韓國警告：中共挖角 盯上80芯片相關研究員",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EWmltY041VXluUV9sRXBXbm00bjMzajZ3eVJZaFlmM2JBU083a0NETnZzR1ZaN3lPUnFyMUxqS1ZfV19aTGhxUF9",
-      "source_url": "https://www.epochtimes.com",
-      "source": "大紀元新聞網"
+      "title": "亚马逊探索“表外”融资：拟将80亿美元英伟达芯片剥离至SPV再租回",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81OU5aQ0Nrei1IS1pnbl9xam9KdngtcjVKVTR4Sk44d0dKY0hESFh6RjZRS1I5dFZtWWlBTFJKV3RrQXhuN1U3MQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "麒麟十三年，大圣归来",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tMEQ4U1JiMGtMNjY3ZEZlUk9pem4yVFlQakN3SDRTSlN2VVEweEFhQ3ZrWVRNblJZUG52YWxScUZKdWxlTnloc0d",
-      "source_url": "https://user.guancha.cn",
-      "source": "风闻"
-    },
-    {
-      "title": "寒武纪前CTO天价索偿 中国半导体高层人事变动受瞩",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZIbnZhRl9fLW1wbUVXU1N2MTZsUW5waXk0bDQ4TGR0ZkJScjlxc0FfcEFhQ1FIbHJITWRXbzNKOTM5a2pDNnd",
-      "source_url": "https://gb-www.digitimes.com.tw",
-      "source": "DIGITIMES"
-    },
-    {
-      "title": "Tower Semiconductor Ltd(TSEM)股票10月1日盘中上涨7.46%：真相来了",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2xHYkhnanBZUmVEQm5wZjZiNWl3SjE2UXNueDJfdngzSGRLTlRtR2FkU3JMWXlybEhVYXFwMDRhTGdVRnNPZXd",
-      "source_url": "https://www.tradingkey.com",
-      "source": "TradingKey"
+      "title": "越南和韩国推进半导体、人工智能和核能领域的联合研究。",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb2pINC1aZjltSkVSdkFST2RUS2xrNlJQSVY2M2wyRU9XVFJXWURFdWNwMk1BVi1Sd3B4VGxibnFqdVRKR280UUI",
+      "source_url": "https://www.vietnam.vn",
+      "source": "vietnam.vn"
     }
   ]
 }

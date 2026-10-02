@@ -1,34 +1,30 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 18,
-    "trusted": 3,
+    "raw_dedup_junk": 22,
+    "trusted": 1,
     "non_trusted_top": {
-      "autohome.com.cn": 5,
-      "sina.com.cn": 4,
+      "sina.com.cn": 8,
       "sina.cn": 3,
-      "wedoany.com": 1,
-      "ua.news": 1,
-      "news18a.com": 1
+      "wedoany.com": 2,
+      "autohome.com.cn": 2,
+      "mydrivers.com": 1,
+      "mnewstv.com": 1,
+      "inform.kz": 1,
+      "asiae.co.kr": 1,
+      "highmotor.com": 1,
+      "ua.news": 1
     },
-    "fresh1_24h": 2,
+    "fresh1_24h": 1,
     "page_fresh": 1,
-    "relaxed_72h": 2,
-    "final": 3,
+    "relaxed_72h": 0,
+    "final": 1,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "18:20:08【比亚迪9月新能源汽车销量46.36万辆 同比增长16.99%】",
-      "d": "cls.cn"
-    },
-    {
-      "t": "在建在用规模世界第一，光热发展提速：青海再添百万千瓦级电站",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "国内首个储算一体化项目暨词元工厂在包头市昆都仑区开工建设",
-      "d": "cnr.cn"
+      "t": "金九银十购车季：10-20万预算怎么选？",
+      "d": "sohu.com"
     }
   ]
 }
