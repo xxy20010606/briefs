@@ -1,53 +1,48 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 23,
+    "raw_dedup_junk": 23,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "caiwennews.com": 2,
-      "stockstar.com": 2,
+      "indexbox.io": 3,
       "sina.cn": 2,
-      "klsescreener.com": 1,
-      "nai500.com": 1,
-      "china.com": 1,
-      "mydrivers.com": 1,
-      "hk01.com": 1,
-      "digitimes.com.tw": 1
+      "kuai.media": 2,
+      "epochtimes.com": 1,
+      "digitimes.com.tw": 1,
+      "tradingkey.com": 1,
+      "investing.com": 1,
+      "sina.com.cn": 1,
+      "chosun.com": 1
     },
-    "fresh1_24h": 22,
-    "page_fresh": 11,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 9,
+    "page_fresh": 3,
+    "relaxed_72h": 3,
+    "final": 6,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "利好传来，存储芯片巨头集体拉升",
-      "d": "10jqka.com.cn"
+      "t": "国际油价狂飙超6%，美股光通信、芯片股大涨，SK海力士涨超5%",
+      "d": "sohu.com"
     },
     {
-      "t": "台积电巩固Foundry 2.0市场主导地位",
-      "d": "sohu.com"
+      "t": "美芯片巨头，夜盘集体拉升",
+      "d": "gelonghui.com"
+    },
+    {
+      "t": "中国4年能做出先进光刻机，黄仁勋的预测为何这么乐观？",
+      "d": "cnfol.com"
     },
     {
       "t": "美股夜盘芯片股集体走强 SOXL三倍做多半导体ETF-Direxion涨超9%",
-      "d": "21jingji.com"
+      "d": "cls.cn"
     },
     {
-      "t": "韬定律芯片领衔，黑科技王者登场：读懂华为Mate 90系列升级亮点",
+      "t": "大湾区 12 英寸晶圆底座：粤芯半年报解读，硅光与车规的双重期待",
       "d": "ifeng.com"
     },
     {
-      "t": "华为Mate90正式发布！余承东：Mate90系列，是中国半导体发展史的答卷",
-      "d": "sohu.com"
-    },
-    {
-      "t": "绝境突围的麒麟芯片",
-      "d": "guancha.cn"
-    },
-    {
-      "t": "从晶圆到模组：存储产业链的价值之旅",
+      "t": "AI 拉动半导体需求暴涨，韩国 9 月出口创历史新高",
       "d": "10jqka.com.cn"
     }
   ]

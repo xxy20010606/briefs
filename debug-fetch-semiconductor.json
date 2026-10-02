@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 45,
+  "total": 23,
   "samples": [
     {
-      "title": "利好传来，存储芯片巨头集体拉升",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LMXRMRXlOYWVaN0N1UnRTSmJ4QVlTeWRpU3Z1VVlYNHpuc1R3bGxEXzVqb25ySDdIaFJYeTJmZlQ5SksxUlVmN2V",
-      "source_url": "https://news.10jqka.com.cn",
-      "source": "news.10jqka.com.cn"
-    },
-    {
-      "title": "华为Mate 90系列发布：逻辑折叠芯片破局，高端旗舰竞争进入体系化深水区",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KbUIzc2hGWlphekhZWlNpdXJFZEtTMjN4dTd2QXYtaUYzVFAxdHoyNmhBVDQ4a3ExbE96Yk5PVkFOaHI4dm9kWjR",
-      "source_url": "https://www.caiwennews.com",
-      "source": "caiwennews.com"
-    },
-    {
-      "title": "台积电巩固Foundry 2.0市场主导地位",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVmgyWWk0VldVdUNvQmxEanZvWVF2TkJEZGx6dGRJempTSnV4OEtGQjRVaGFaWUlXdU1ER2luR3BaTUdwVVAyTlR",
+      "title": "国际油价狂飙超6%，美股光通信、芯片股大涨，SK海力士涨超5%",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWkxTXEtN2NIV1VOYlY0Q2doVGJuZk9MVVZKNUFGZUtqN01penJDZExUZDZmN3QtSGNHTzNOZ0YtQlB4UHpoa3J",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "AI芯片需求激增 韩国9月出口年增逾80%",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWHpXUnlvN3ZNLWpGVDJ3STk5d1d1TlBhSFRnUjliOWtpWGRmSDVOc1N5dEt5VXZ4T3BtRTBXVzJ1NW04UUNHQnV",
-      "source_url": "https://www.klsescreener.com",
-      "source": "klsescreener.com"
+      "title": "花旗分析师：十月适宜布局存储芯片股|SK海力士|美光科技|三星电子|份额|李彼得_手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNbW9xTV9VeTdpUE8xVFRNUFY0bnFROUM3dnZ2YjA1YnVyaTBYTXdHNnpmalQwZDd1WlB6MV9oMm5CTGFELXdBUUl",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "存储超级周期来了？美股夜盘芯片股集体走强，巨头称：存储缺货看不到尽头",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wMVFpbHk5aWZubEVDUkwyMkljdlp0MkdzeFBCWTlfOTBzdHNmRGxmdnUtTzJYSTJKOGlLRjJmY09RNmozWEVjV0h",
-      "source_url": "https://www.caiwennews.com",
-      "source": "caiwennews.com"
+      "title": "韓國警告：中共挖角 盯上80芯片相關研究員",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EWmltY041VXluUV9sRXBXbm00bjMzajZ3eVJZaFlmM2JBU083a0NETnZzR1ZaN3lPUnFyMUxqS1ZfV19aTGhxUF9",
+      "source_url": "https://www.epochtimes.com",
+      "source": "大紀元新聞網"
     },
     {
-      "title": "美股夜盘芯片股集体走强 SOXL三倍做多半导体ETF-Direxion涨超9%",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3RIR3FOYlNmNWEwbk5aVTNTVTdPVDhWREI0YWdMaUMzbl9rczR1RjUwSHFDa2UyUTNiT0Eta1ZhbGtEdENRbUh",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
+      "title": "麒麟十三年，大圣归来",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tMEQ4U1JiMGtMNjY3ZEZlUk9pem4yVFlQakN3SDRTSlN2VVEweEFhQ3ZrWVRNblJZUG52YWxScUZKdWxlTnloc0d",
+      "source_url": "https://user.guancha.cn",
+      "source": "风闻"
+    },
+    {
+      "title": "寒武纪前CTO天价索偿 中国半导体高层人事变动受瞩",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZIbnZhRl9fLW1wbUVXU1N2MTZsUW5waXk0bDQ4TGR0ZkJScjlxc0FfcEFhQ1FIbHJITWRXbzNKOTM5a2pDNnd",
+      "source_url": "https://gb-www.digitimes.com.tw",
+      "source": "DIGITIMES"
+    },
+    {
+      "title": "Tower Semiconductor Ltd(TSEM)股票10月1日盘中上涨7.46%：真相来了",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2xHYkhnanBZUmVEQm5wZjZiNWl3SjE2UXNueDJfdngzSGRLTlRtR2FkU3JMWXlybEhVYXFwMDRhTGdVRnNPZXd",
+      "source_url": "https://www.tradingkey.com",
+      "source": "TradingKey"
     }
   ]
 }

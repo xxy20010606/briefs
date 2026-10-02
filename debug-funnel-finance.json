@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 33,
-    "trusted": 15,
+    "raw_dedup_junk": 40,
+    "trusted": 11,
     "non_trusted_top": {
+      "sina.com.cn": 5,
       "moomoo.com": 5,
-      "sina.com.cn": 2,
+      "sina.cn": 3,
+      "tradingkey.com": 3,
+      "sinchew.com.my": 2,
+      "futunn.com": 2,
+      "stockstar.com": 1,
       "enanyang.my": 1,
-      "fx168news.com": 1,
-      "ttplus.cn": 1,
-      "jwview.com": 1,
-      "nai500.com": 1,
-      "orientaldaily.com.my": 1,
-      "jin10.com": 1,
-      "fx678.com": 1
+      "jkn.co.kr": 1,
+      "chinapress.com.my": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 5,
-    "relaxed_72h": 3,
+    "fresh1_24h": 8,
+    "page_fresh": 4,
+    "relaxed_72h": 4,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "史上仅出现过两次！标普500等权重指数本周料录得七周连跌_股市直播_市场",
+      "t": "知乎-W(02390)9月30日斥资22.4万美元回购18.46万股_股市直播_",
       "d": "cnfol.com"
     },
     {
-      "t": "现在美国加息已经没什么用了，体系继续衰败",
-      "d": "guancha.cn"
+      "t": "知乎-W(02390.HK)9月30日耗资22.4万美元回购18.5万股_股市直",
+      "d": "cnfol.com"
     },
     {
-      "t": "零跑9月全球交付105656台，同比增长59%，连续三月破10万",
+      "t": "新秀丽(01910)：完成收购B?IS,LLC_股市直播_市场",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "美股盘前要点｜10年期美债收益率创2002年来新高！美光CEO称明后年供需继续偏",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "和黄医药(00013)：从跟随板块到跑赢板块，基本面确认后何时开启新一轮行情？_",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "刚刚，猛烈抛售！欧洲“大风暴”，席卷股市债市！",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "特朗普：如果鲍威尔不辞职，美国政府就应该以“腐败或无能”为由起诉他",
       "d": "ifeng.com"
-    },
-    {
-      "t": "美国加息，只有中国敢降息！底气来自哪里？",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "昨夜，美股尾盘“变脸”",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "特朗普称鲍威尔应该辞任美联储理事",
-      "d": "wallstreetcn.com"
-    },
-    {
-      "t": "什么信号？美债收益率飙至20年高点之际 债市老将六年来首度空翻多",
-      "d": "cls.cn"
     }
   ]
 }

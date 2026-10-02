@@ -1,53 +1,41 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 13,
+    "raw_dedup_junk": 23,
+    "trusted": 6,
     "non_trusted_top": {
-      "sina.cn": 10,
-      "sina.com.cn": 7,
-      "csdn.net": 3,
-      "techwalker.com": 2,
-      "ichaoqi.com": 2,
-      "80aj.com": 2,
-      "worldjournal.com": 1,
+      "sina.com.cn": 5,
+      "sina.cn": 3,
+      "bjd.com.cn": 2,
+      "creaders.net": 1,
+      "caus.com": 1,
+      "dialogue.earth": 1,
+      "hk01.com": 1,
+      "quasa.io": 1,
       "ac.cn": 1,
-      "crntt.com": 1,
-      "ttplus.cn": 1
+      "tikr.com": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 5,
+    "fresh1_24h": 5,
+    "page_fresh": 1,
     "relaxed_72h": 3,
-    "final": 7,
-    "cap": "同域≤2条"
+    "final": 4,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "智聚天下才 潮起AI杭州——杭州国际人才大会面向全球开展AI创新合作对接",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "清华大学携手新玑璇权衡联合攻关自进化AI体系优化",
-      "d": "stdaily.com"
-    },
-    {
-      "t": "中文在线：拟定增募资不超28.33亿元 投向数字版权及AI大模型等项目",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "青枫智算完成种子轮融资：端侧智能迎来新玩家",
+      "t": "美国设下“鸿门宴”，没想到中国拿下史诗级战果美国想换赛道晚了",
       "d": "sohu.com"
     },
     {
-      "t": "从数据到智能，再到进化：Agent正在重写AI基础设施",
-      "d": "geekpark.net"
+      "t": "首次！中国大模型进入OpenAI企业“采购单”",
+      "d": "guancha.cn"
     },
     {
-      "t": "OpenAI开发者大会大批更新；CPU交货期再度拉长",
-      "d": "21jingji.com"
+      "t": "OpenAI、Meta、Manus同时下注，智能体 2.0 来了",
+      "d": "thepaper.cn"
     },
     {
-      "t": "智能体AI时代，英特尔至强凭什么重回C位？",
+      "t": "OpenAI目标新融资300亿美元，估值1.4万亿美元",
       "d": "sohu.com"
     }
   ]

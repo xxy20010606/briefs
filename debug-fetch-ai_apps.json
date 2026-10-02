@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 26,
+  "total": 32,
   "samples": [
     {
-      "title": "日本游戏业AI渗透率达85.8%，制度化应用成新趋势",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1duOWRPYjdKNnhyaDhrNFJtb0VZc1lhQllBSWVzaTFubUU2ZzZPQ0dVUFgzWmpXcHExWWdkUktrTjJ4N2VSUnE",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "分学段划定AI“红线” 北京发布2026版《指南》",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BX2hId1BqeS0yV1k5SmJ1ckh4Vm5yVEZYT2hSMzh1XzI4Z2ljcTNQYnBYcjFielJtbjRTLVNiUnNXTms5YmEweFR",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "WorkBuddy企业版升级：让个人提效，变成组织生产力",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ieUJ2NHdpRGRJU1RsQUd1U3JWY1VuRnVoRlFlenlsbk90SGdsYlF1ejZHaUlTdFl2T2FZUG9FTEF3T2stTDlTaWg",
-      "source_url": "https://timeline.sohu.com",
-      "source": "搜狐网"
+      "title": "AI独立化浪潮来袭，MNC集体押注！",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51bU9PcDJvQlozamg5a1FpTGZVSnNDbUQzUVV4djZOMjRqMVpLaE1sTXBYQjdCZVI3N0xUMGJ6b2piWGJ4VThv?oc",
+      "source_url": "https://www.vbdata.cn",
+      "source": "动脉网"
     },
     {
-      "title": "10令吉起学AI！太平开50人AI班 不会电脑也能学ChatGPT、做图剪片 | 霹雳 | 地方",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfanh1RVpFRVpKVUN6SGhrNTU1ZjU1bWVXeTJfdFRvaE5vOFdyVDQtOGhxRElCcE5NMWJrUkdESGhYVjVKbDFxcVh",
-      "source_url": "https://www.orientaldaily.com.my",
-      "source": "orientaldaily.com.my"
+      "title": "獨家：AI寫作檢測可靠嗎？三款熱門工具實測",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vcFJwV3RzY2c3U0FFM2ZpT3RXYnhTVjMxWDRXeGhZbkdLUm4wVXlUOERJM2l4ZW5YcnBrVHVpSXRwQ1cwOTY5dVN",
+      "source_url": "https://www.epochtimes.com",
+      "source": "大紀元新聞網"
     },
     {
-      "title": "OpenAI正面迎战Meta Muse",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOWJtZHByTDFDX2hNYVUzZnBTTUR0N1JqeGt4T0xJNmY3TkFJekV5eTEtWWxQV2VmVWNCTTE4Z3RPcmhsVk5SSTR",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "专为竞彩爱好者打造的高效预测工具：竞彩ai大数据预测app正式发布",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01MHR2UW1acGc3a2wzX3NYWm9VUTJnZkVhLWJ1MThmWDRkWmpGRUlEWDljRFg3RHVkS0tCdzgweC1qT2duOXhKT0h",
+      "source_url": "https://www.eeo.com.cn",
+      "source": "eeo.com.cn"
     },
     {
-      "title": "智谱发上亿Token，能挽回开发者的信任吗？",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZTlGUHpEbmNWNk92TkFBZFR2MEQtRUlpWXk2TnFYNU9EZUc3ejFxVXlQTlZLcHdFQ2RObERZMHNtWnB3QUU2NjR",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "从数据痛点出发 台新新光金控以黑客松探索AI金融应用",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGpNQ2xGTXItUEMxc3Y2dDU5RnBiX2dkeTdrcDNNZ1RrOUJUMS1fOGRaY0VmWnVSa2dGazY3ZEZrOVhuZHFDSU9",
+      "source_url": "https://gb-www.digitimes.com.tw",
+      "source": "DIGITIMES"
     },
     {
-      "title": "国信证券:《Meta Horizon Create/Studio及国内AI游戏产业生态｜投资分析》",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92YkJZTUkwRFJyUVNXM3BMcjBEZmtlOG9VT2JjblBXNnVDV1pEeThlV1hDX2kxbkR6RTMza2VjVHh3V2VXM0ZmUXp",
-      "source_url": "https://www.fxbaogao.com",
-      "source": "发现报告"
+      "title": "如何在Mac上安装ComfyUI以在本地生成AI图像",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oYTF1UDM2TEpqdnFzUjZlMF9lRnUzQUJ0Ym9KV1otSVlSdWVRVFVwVk4xNmRNYk1MbTh1eXBfRG9BZXA3bU15VEZ",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "pasqualepillitteri.it"
     }
   ]
 }

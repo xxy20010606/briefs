@@ -1,54 +1,34 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 25,
-    "trusted": 9,
+    "raw_dedup_junk": 18,
+    "trusted": 3,
     "non_trusted_top": {
+      "autohome.com.cn": 5,
       "sina.com.cn": 4,
-      "seetao.com": 2,
-      "sina.cn": 2,
-      "autohome.com.cn": 2,
-      "jingjiribao.cn": 1,
-      "china.com": 1,
-      "in-en.com": 1,
-      "notebookcheck-cn.com": 1,
+      "sina.cn": 3,
       "wedoany.com": 1,
-      "stockstar.com": 1
+      "ua.news": 1,
+      "news18a.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 7,
-    "relaxed_72h": 0,
-    "final": 7,
+    "fresh1_24h": 2,
+    "page_fresh": 1,
+    "relaxed_72h": 2,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "我国首个三塔光热基地正式亮相",
-      "d": "stdaily.com"
+      "t": "18:20:08【比亚迪9月新能源汽车销量46.36万辆 同比增长16.99%】",
+      "d": "cls.cn"
     },
     {
-      "t": "喜报丨国润储能成功签订内蒙古二连浩特全钒液流储能项目合同",
-      "d": "solarbe.com"
+      "t": "在建在用规模世界第一，光热发展提速：青海再添百万千瓦级电站",
+      "d": "thepaper.cn"
     },
     {
-      "t": "新疆阿勒泰地区最大单体储能电站——布尔津300MW/1200MWh构网型储能项目",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "福建光伏“两个细则”到底怎么考？配了储能为什么还会被扣费？",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "1亿千瓦的“绿色加速度”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "11.5亿“清仓”湖北恩捷，亿纬锂能加速“瘦身”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "详解动力电池TOP10客户图谱 3家前五大客户占比超九成",
-      "d": "solarbe.com"
+      "t": "国内首个储算一体化项目暨词元工厂在包头市昆都仑区开工建设",
+      "d": "cnr.cn"
     }
   ]
 }

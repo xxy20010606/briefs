@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 47,
-    "trusted": 24,
+    "raw_dedup_junk": 46,
+    "trusted": 15,
     "non_trusted_top": {
-      "bjd.com.cn": 2,
-      "360.com": 2,
-      "sina.cn": 2,
-      "yule.com.cn": 2,
+      "sina.cn": 4,
+      "china.com": 4,
+      "pchome.net": 3,
+      "wenxuecity.com": 2,
+      "sina.com.cn": 2,
+      "pconline.com.cn": 2,
+      "ctdsb.net": 2,
       "vietnam.vn": 1,
-      "epochtimes.com": 1,
-      "starnewskorea.com": 1,
-      "pchome.net": 1,
-      "rediandf.com": 1,
-      "stheadline.com": 1
+      "ichaoqi.com": 1,
+      "indexbox.io": 1
     },
-    "fresh1_24h": 24,
-    "page_fresh": 17,
-    "relaxed_72h": 0,
+    "fresh1_24h": 10,
+    "page_fresh": 2,
+    "relaxed_72h": 13,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "电影国庆档首日，平均票价同比下降，大盘有望稳步走高",
+      "t": "奔赴林间新程，带着爱意，杭州相见",
       "d": "sohu.com"
     },
     {
-      "t": "国庆档，已破亿！",
+      "t": "多地“电影+”新玩法上线 假期文化消费持续升温",
+      "d": "cyol.com"
+    },
+    {
+      "t": "2026国庆档总票房破2亿 《神探之痕迹》领跑",
       "d": "sohu.com"
     },
     {
-      "t": "日月谭天丨又一部陆剧火爆台湾，照见民进党“去中国化”纯属无用功",
-      "d": "ifeng.com"
+      "t": "国庆档中小电影扎堆 多元化是出路 但爆款仍待观察",
+      "d": "eastmoney.com"
     },
     {
-      "t": "2026年国庆档票房预测同比再跌12%，小成本恐怖片与AI短剧成行业新变量",
-      "d": "huxiu.com"
+      "t": "电影《神探之痕迹》黑龙江首映式在哈尔滨举行",
+      "d": "cnr.cn"
     },
     {
-      "t": "央地共创 电视剧《中国1927》举办开机发布活动",
+      "t": "法国纪念印象派绘画大师莫奈逝世100周年",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "《伟大的长征》全景式展现长征全貌 六万五千里征程首次荧屏还原",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "李思潼人民日报撰文：南枝赋予我的勇气，会长久留在我的生命里",
-      "d": "thepaper.cn"
+      "t": "又一部陆剧火爆台湾，照见民进党“去中国化”纯属无用功",
+      "d": "cyol.com"
     }
   ]
 }

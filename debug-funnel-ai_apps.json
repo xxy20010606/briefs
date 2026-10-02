@@ -1,33 +1,38 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 26,
-    "trusted": 7,
+    "raw_dedup_junk": 32,
+    "trusted": 5,
     "non_trusted_top": {
-      "80aj.com": 5,
-      "pasqualepillitteri.it": 5,
-      "sina.cn": 3,
-      "orientaldaily.com.my": 1,
-      "fxbaogao.com": 1,
-      "unite.ai": 1,
-      "china.com": 1,
-      "ac.cn": 1,
-      "ichaoqi.com": 1
+      "unite.ai": 11,
+      "pasqualepillitteri.it": 3,
+      "epochtimes.com": 2,
+      "sina.cn": 2,
+      "ac.cn": 2,
+      "sina.com.cn": 1,
+      "vbdata.cn": 1,
+      "eeo.com.cn": 1,
+      "digitimes.com.tw": 1,
+      "yeeyi.com": 1
     },
-    "fresh1_24h": 7,
+    "fresh1_24h": 5,
     "page_fresh": 1,
-    "relaxed_72h": 1,
-    "final": 2,
+    "relaxed_72h": 2,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "日本游戏业AI渗透率达85.8%，制度化应用成新趋势",
+      "t": "当AI 开始替你行动， 界面开始不再像界面",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "京东Aidol创造营S2冒险季正式启动 为AI创意提供更多展示和落地机会",
       "d": "sohu.com"
     },
     {
-      "t": "WorkBuddy企业版升级：让个人提效，变成组织生产力",
-      "d": "sohu.com"
+      "t": "Meta发布智能代理Muse引爆个人Agent市场：需求验证但商业模式待解",
+      "d": "huxiu.com"
     }
   ]
 }
