@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 39,
+  "total": 33,
   "samples": [
     {
-      "title": "峰岹科技拟收购荷兰半导体传感器企业Sciosense",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA1R1lobTExUVhSRXUySGhxN240UWFvaXloYmMxLWhoUS1LYWw2OURpdW8xQ01VSFRTYm5La2wxbmdMdk0?oc=5",
+      "title": "688525投资45亿加码晶圆级先进封测",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUlnNnlZZkJqX0NIYzNYc0RDVlVUblNFQkJkc0VMNUlhSHRIMEdUcWlnV0ZRUmFFaUZYdUlIR21VU1dRUkZzWU1",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "华为押注“制程之外”的芯片创新 逻辑折叠引领新方向",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qRmVPclp2RmUzRTByTEQ1R1VDbzFnSTRpbHFQMW5DUTlXX2w3Rlp2LXRTLXpRSEpybS1pd0w1cWtYTkFXdm9wMDM",
+      "source_url": "https://news.china.com",
+      "source": "news.china.com"
+    },
+    {
+      "title": "华为余承东：Mate 90系列是中国半导体行业的答卷",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9YUWtQUDI3dnBCTGNvUml6N0h2ck9SNW1MU3FJeTdya3g5UUhOSTJvV2xOd21IMUxpcUNkNFJPT3c1N00?oc=5",
       "source_url": "http://laoyaoba.com",
       "source": "集微网"
     },
     {
-      "title": "核心通胀2.8%粘性未消、出口1209亿美元创纪录，韩国央行11月加息预期升温",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sbGlpeGRCNjlvZ3pEZlJaQ1BCUjJaQTQ1SWUyZ2RoNGlpdWtuWEp1SkVkV2FidDhQdW5wanJ5TnFFLVpydk5zR0x",
-      "source_url": "https://wallstreetcn.com",
-      "source": "华尔街见闻"
+      "title": "中芯国际表示最新工艺“超越了英特尔”，审视其性能仍存在明显的局限",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRHNVazhYaVBrQnNnZXJDSzFRUjFKbThhaF9ibnZrUXFyYmwyTGRScEJnTGtjS1o1WUtuU0wzSTZacDNHNDZtWWg",
+      "source_url": "https://cnnews.chosun.com",
+      "source": "朝鮮日報中文版"
     },
     {
-      "title": "搁浅电力，AI数据中心新痛点",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YYnpNSVhuRjFrN1piNlFrN1ItZDV4RGdXYVY4Z1BmVC1hUVhiVzJuUkxCQ0lpd2kwdFdGaWJrWm5VYTJPYVVIdjJ",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "花旗分析师：十月适宜布局存储芯片股|SK海力士|美光科技|三星电子|份额|李彼得_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2Z6dl9ZQTl2X1RQaEpzU0xsMUdnWnR0ZEZmcUVBNHhEYVBqUjY3MW9ic2k1UUhTYktWTDVRTEsxT3B1ajNyaFN",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
+      "title": "花旗分析师：十月适宜布局存储芯片股",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yOGtwUHYweVhCNC1JcVdvSWFCYmpZWUduUm9oS2xIbVNiMGRyYUNIM2hnZEwySzIxVW1IekFTSzNJTkZhNk9uVUV",
+      "source_url": "https://wap.cj.sina.cn",
+      "source": "新浪财经"
     },
     {
       "title": "亚马逊探索“表外”融资：拟将80亿美元英伟达芯片剥离至SPV再租回",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81OU5aQ0Nrei1IS1pnbl9xam9KdngtcjVKVTR4Sk44d0dKY0hESFh6RjZRS1I5dFZtWWlBTFJKV3RrQXhuN1U3MQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "越南和韩国推进半导体、人工智能和核能领域的联合研究。",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb2pINC1aZjltSkVSdkFST2RUS2xrNlJQSVY2M2wyRU9XVFJXWURFdWNwMk1BVi1Sd3B4VGxibnFqdVRKR280UUI",
-      "source_url": "https://www.vietnam.vn",
-      "source": "vietnam.vn"
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CZ1BIVU94X1U5ZUdpem1YMXhsS1pJX25KU1Q5WjVNSlRRWTdfWHI2MGJycjJWZUJMZmM1OXNxWDBzUFBNQVhLaTF",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     }
   ]
 }

@@ -1,54 +1,46 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 13,
+    "raw_dedup_junk": 33,
+    "trusted": 9,
     "non_trusted_top": {
-      "moomoo.com": 9,
-      "sina.com.cn": 7,
-      "futunn.com": 4,
-      "sina.cn": 3,
-      "orientaldaily.com.my": 2,
-      "newswav.com": 2,
-      "t.co": 2,
-      "on.cc": 2,
-      "enanyang.my": 1,
-      "okx.com": 1
+      "moomoo.com": 6,
+      "sina.com.cn": 4,
+      "futunn.com": 3,
+      "china.com": 2,
+      "idnfinancials.com": 2,
+      "kuai.media": 1,
+      "atvnewsonline.com": 1,
+      "orientaldaily.com.my": 1,
+      "newswav.com": 1,
+      "epochtimes.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 9,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 6,
+    "page_fresh": 2,
+    "relaxed_72h": 3,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "港股航空股全线下跌，东航、国航跌超5%_股市直播_市场",
+      "t": "伦敦股市2日上涨",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "港股收评：恒指失守24000点大关！科技、大金融、内房股齐跌",
+      "d": "gelonghui.com"
+    },
+    {
+      "t": "太美医疗科技(02576)10月2日斥资9.36万港元回购2万股_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "圣贝拉集团(02508)9月30日斥资19.31万港元回购7万股_股市直播_市场",
+      "t": "美股异动| 大型科技股普涨特斯拉(TSLA.US)涨超5%_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "【贵金属季报】货币政策主导 贵金属仍将调整",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "港股大跌！这股却飙涨！华为赛力斯复合，冲上热搜！美股AI涨疯了，“大空头”伯里：",
-      "d": "sohu.com"
-    },
-    {
-      "t": "港股调整！美联储加息突变，黄金白银新动向——",
-      "d": "sohu.com"
-    },
-    {
-      "t": "港股医药、地产、科技集体杀跌，原因找到了",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "港股早报｜特朗普警告或加大力度打击伊朗 隔夜美股光通信及存储概念走强",
-      "d": "cls.cn"
+      "t": "亦辰集团(08365)：根据协议发行代价股份1000万股_股市直播_市场",
+      "d": "cnfol.com"
     }
   ]
 }

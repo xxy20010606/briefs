@@ -1,30 +1,42 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 22,
-    "trusted": 1,
+    "raw_dedup_junk": 32,
+    "trusted": 4,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "sina.cn": 3,
-      "wedoany.com": 2,
-      "autohome.com.cn": 2,
-      "mydrivers.com": 1,
-      "mnewstv.com": 1,
-      "inform.kz": 1,
-      "asiae.co.kr": 1,
-      "highmotor.com": 1,
-      "ua.news": 1
+      "autohome.com.cn": 9,
+      "sina.com.cn": 6,
+      "sina.cn": 4,
+      "in-en.com": 1,
+      "nai500.com": 1,
+      "icloudnews.net": 1,
+      "yeeyi.com": 1,
+      "aboluowang.com": 1,
+      "com.sg": 1,
+      "ebiotrade.com": 1
     },
-    "fresh1_24h": 1,
+    "fresh1_24h": 3,
     "page_fresh": 1,
-    "relaxed_72h": 0,
-    "final": 1,
+    "relaxed_72h": 3,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "金九银十购车季：10-20万预算怎么选？",
+      "t": "2026年9月汽车业十大语录折射行业利益冲突与现实压力",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "中电建青海1GW“光伏+光热” 项目并网！",
       "d": "sohu.com"
+    },
+    {
+      "t": "注资超22亿！深圳能源成立新能源公司",
+      "d": "sohu.com"
+    },
+    {
+      "t": "全球媒体聚焦︱英媒：中国在储能电池领域处于领先地位",
+      "d": "cri.cn"
     }
   ]
 }

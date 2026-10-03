@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 25,
+  "total": 34,
   "samples": [
     {
-      "title": "Cloudflare推出Clef，向Jev发起AI决策模型的挑战",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oOXF2cXAyM1U5WWkxRXZjUTM5SDk4ZDhyRFNKN1NlQk90QmN4UUloZW01djQtLU1JdUNxNk84RUc3VFJkRURKU09",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "Upbit推出AI工具分析加密市场动态",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByT3hsVGlFWFFMYlhnUUJ6bEpCWV9FZEk1eUROODVGVFRVZzBsMU5Md1dLbHowT3J3bGJvQm05NEt3SHR6TDZhUmw",
-      "source_url": "https://www.528btc.com",
-      "source": "币界网"
-    },
-    {
-      "title": "Claude Code迎来Mod，重写代理行为的插件",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qa3VEd29CX3hTek5kMkVFNEtCclR3QkRrdVJ3WVM0R1BUdjFqYmlrSkljeGV0TzJYRjVtTlJVN1BBNzZPaVduX2Z",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "假装卸载ChatGPT的视频收获1400万次播放",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yWUlfQk4yOEQyOXFpRjNmSzBHNU10OFVLRng4ODc2RkFad1lOLUJWUEpuSlZuNVRESHhkTU9XVzRaUEJ1R2VhZTl",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "“超级个体”如何走向商业落地？工信部在上海办了场推介会",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VOXU1VTVBVVFsVVh0c3NscnBCVWtOUjhyejktMVJQR204Z05iVnpULW1uczlwNGVaaGstUG5qa05pX3FJUzVkb0d",
-      "source_url": "https://www.thepaper.cn",
-      "source": "thepaper.cn"
-    },
-    {
-      "title": "分学段划定AI“红线” 北京发布2026版《指南》",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BX2hId1BqeS0yV1k5SmJ1ckh4Vm5yVEZYT2hSMzh1XzI4Z2ljcTNQYnBYcjFielJtbjRTLVNiUnNXTms5YmEweFR",
+      "title": "从投资人最看好的48个AI应用，我看到了这两个趋势",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVREdfUHN5bG1IOGR2QWpROVJYNEZTajhJZkpWbWNpVjRfSTRoeXUzbE5mdXNOREpTUFA0anVTTXNNZWthR1dxUmN",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
+    },
+    {
+      "title": "Meta开源Muse智能体硬件方案 普通开发板也能打造自己的AI设备",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAySTk2Z3E4OUkzV2xGNGdqdkpGSXVOQkJSQlZiWUkxSFB6dEREeFZZODNzeGUxd3RxOWl0RWlIdFFfLW15d0M4bkx",
+      "source_url": "https://www.cnbeta.com.tw",
+      "source": "cnBeta.COM"
+    },
+    {
+      "title": "Decagon 成为 OpenAI B2B Marketplace 的首发合作伙伴",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNckQ2OUlIdjl4QjhBT1VuRU1nN2pzLUprX3MtVFNTdmhnVXdGb2hOTjVWS2h5VGlTT1ByN2VmTS1GdGhwNjZZSzU",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
+    },
+    {
+      "title": "Meta 开源 Muse Gadget SDK，供 DIY AI 硬件设备使用",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRndiTDBHQUFyTmUzQ1QyX3hDLVF0R1pDS2c3Y1lOVTlBTTc3Z1VYVVNxcTJnck1rcTBYNUI5RmpUai1mVk1hNlN",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
+    },
+    {
+      "title": "苹果收紧macOS全盘访问权限：AI智能体时代隐私防线升级",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wWG9LR0szZlZZdl80MUhFMS0wX1N1cEFSUlFLVWg0dlN3aUQyX29XbTNQNUdtWTRzb2duazFfSkZ5X1VqNTAwVzR",
+      "source_url": "https://www.80aj.com",
+      "source": "80aj.com"
+    },
+    {
+      "title": "PewDiePie推出无审查AI Ajax反遭OpenAI两次封号",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qUjhJWTZwNzJaWW9VZmtDc3luVkpodlhJaS1ZNGZvYWhwWnJvQ3FVNjMtWGxfaXlZREtYNGp6SEl6UmhIVzZEaVI",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     }
   ]
 }

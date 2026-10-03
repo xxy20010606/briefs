@@ -1,42 +1,42 @@
 {
   "type": "entertainment",
-  "total": 58,
+  "total": 38,
   "samples": [
     {
-      "title": "文化观察丨从银幕到展馆 眺望成都动漫产业的远方",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjZ5R2lvX0F0OXd4c1doY3FSQ3I4bG5Lc3VRQmFVaDhmUUU5QzJxSGlGQTZsV2JQbnhLLTNIZXNpZTZFMmdEdG0",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "国庆档能否跑出票房黑马 多类型影片角逐激烈",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tM3NwNkhSR2x0aTBCZGlFQVBCU29MVmo5YnJYMVloQTAyWHhUbVgyelN6UXpVYk9WQXI2M0tHYVhrR3pRWUgwYlN",
+      "source_url": "https://news.china.com",
+      "source": "news.china.com"
     },
     {
-      "title": "赠送 3000 张电影《人口贩卖营》的免费门票。",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQzJ0RWpERTFPUFlFVWh1NHE2czRWRWg3VFNHYVlQcXlHYjRDbGZyd3ZhVDVFNUdJMVVHbmNfd0wySGRteWlMQVh",
-      "source_url": "https://www.vietnam.vn",
-      "source": "vietnam.vn"
+      "title": "从一块银幕到多元场景！国庆档电影消费解锁新体验",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OQUpkNmd6MHJTUG9KSDhSVGFselQyenRJSm1BNHRUM0NyTWlYaTI1ZUxjOEQ4Nk5mSUotNV9tcmh5aUpWWXRXd05",
+      "source_url": "https://www.yuanxian1.com",
+      "source": "yuanxian1.com"
     },
     {
-      "title": "仅上映1天，就票房第一，不愧是你们盼了一整年的黑马片！",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnp2a0dOMGQwRDZJRzZkbW9yU2RVaElyb2JIM0Y4blJ2dS13VnV3blVUVFY0MVhjOFNYWXNVeEtHbHdMOEVoOEh",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "2026国庆档首日大盘1.8亿",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YZVVXLXZtQ1dfSVBRZVl3SWVXLW03NjdkbF9fSjQ3WmtwTTIzMjhKYUdQbW9wbjVNMlhMMUFlQ1NWeER2R0hNSUR",
+      "title": "上映 77 天电影《八仙！》累计票房破 20 亿，位列中国影史国产动画电影票房第三",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbHVSMmFYdl9JaFFvRWlFQnNKeEQzMzVLLXF0YWMyaEJMNWpsTVVoQ3U0UE5QQW0wMy1VaDlrcm4xRGhzMUpIMEd",
       "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
+      "source": "新浪财经"
     },
     {
-      "title": "导演姜玉：“电影市场太残酷了”",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNWFQVm9melQtZmIxTkx2dGJBd2xvU3kwYU5zendzVGJyQnpTUVVmb3BPa2VZbVBEYlBTTHJoY3pGaXFRUGV3TDN",
-      "source_url": "https://www.vietnam.vn",
-      "source": "vietnam.vn"
+      "title": "上映两天，分账票房不足100万，《寻秦记》之后，古天乐又扑一部",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnZXpaaEtudWE1TGRCaHBmS2ZvMm1UODJSTDRGa1VFb0lQX3BHWTR4eVJyOGRLTnItanpvNkZwQ1Y5UWdVb2s0RG5",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "国庆档第一天大盘缩水超2000万，陈思诚、小沈阳加起来不足1.2亿-yeeyi",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BTUdGaTQyUnV5ME40ZGF0ZHI1QnZHSER6aXlHV053Z2dITWxTZDFKU3dPdmJzWnlVRkFGSnFvV2k0cTBSbDNnZFF",
-      "source_url": "https://www.yeeyi.com",
-      "source": "yeeyi"
+      "title": "《神探之痕迹》上映首日领跑国庆档 阅文旗下新丽出品",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWpMbFhlV1AzenFmS3ZOX0FUQmc3SXlQMi1qUGdMdFAtaGNTaUt4MWU4WHJjTmMyVEpZN2p3MTU5OXVuUlgyNWp",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "国庆档票房突破3.5亿元！《神探之痕迹》领跑，新片明日上新",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xRnFHaUxTc2dhaVpvZDVTczROMHZPZm5nUHJRc1hsV2o4WU84U2wwRnFoeEhQRlJsTlNQcXNSREREOXVGakdFMDF",
+      "source_url": "http://k.sina.com.cn",
+      "source": "手机新浪网"
     }
   ]
 }

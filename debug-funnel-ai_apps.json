@@ -1,34 +1,25 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 25,
-    "trusted": 3,
+    "raw_dedup_junk": 34,
+    "trusted": 1,
     "non_trusted_top": {
-      "unite.ai": 6,
-      "pasqualepillitteri.it": 5,
-      "epochtimes.com": 2,
-      "528btc.com": 1,
-      "sina.com.cn": 1,
-      "vbdata.cn": 1,
-      "eeo.com.cn": 1,
-      "digitimes.com.tw": 1,
-      "sina.cn": 1,
-      "yeeyi.com": 1
+      "pasqualepillitteri.it": 11,
+      "unite.ai": 9,
+      "80aj.com": 3,
+      "sina.com.cn": 2,
+      "cnbeta.com.tw": 2,
+      "wenxuecity.com": 1,
+      "foshanplus.com": 1,
+      "epochtimes.com": 1,
+      "ichaoqi.com": 1,
+      "on.cc": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 2,
+    "fresh1_24h": 1,
+    "page_fresh": 0,
     "relaxed_72h": 0,
-    "final": 2,
+    "final": 0,
     "cap": "不限同域"
   },
-  "final": [
-    {
-      "t": "“超级个体”如何走向商业落地？工信部在上海办了场推介会",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "当AI 开始替你行动， 界面开始不再像界面",
-      "d": "huxiu.com"
-    }
-  ]
+  "final": []
 }

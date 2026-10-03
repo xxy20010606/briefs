@@ -1,54 +1,50 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 39,
-    "trusted": 17,
+    "raw_dedup_junk": 33,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.cn": 5,
-      "sina.com.cn": 4,
+      "sina.cn": 9,
       "chosun.com": 2,
+      "moomoo.com": 2,
       "tradingkey.com": 2,
-      "indexbox.io": 2,
-      "vietnam.vn": 1,
-      "tradingview.com": 1,
-      "klsescreener.com": 1,
-      "asiae.co.kr": 1,
-      "epochtimes.com": 1
+      "china.com": 1,
+      "sina.com.cn": 1,
+      "mydrivers.com": 1,
+      "eeo.com.cn": 1,
+      "sfccn.com": 1,
+      "cryptorank.io": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 12,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 9,
+    "page_fresh": 2,
+    "relaxed_72h": 4,
+    "final": 6,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "亚马逊探索“表外”融资：拟将80亿美元英伟达芯片剥离至SPV再租回",
-      "d": "cls.cn"
-    },
-    {
-      "t": "半年2798亿颗！平均每天产15亿颗！卡脖这些年，中国芯走到哪一步",
+      "t": "688525投资45亿加码晶圆级先进封测",
       "d": "sohu.com"
     },
     {
-      "t": "美国又绷不住了？三星、SK海力士存储芯片产能，30%+在中国",
+      "t": "日本半导体专家坦言：以目前日本企业的水平来看，让日企跟华为一样独立研发芯片做手机",
       "d": "sohu.com"
     },
     {
-      "t": "Intel Fellow 揭秘先进封装如何把芯片从\"平房\"盖成\"摩天楼\"",
-      "d": "eet-china.com"
+      "t": "顶层规划重点提及！集成电路迎技术+景气度双重共振，这些滞涨股估值有望修复",
+      "d": "21jingji.com"
     },
     {
-      "t": "读懂盛合晶微中报：别只看增速放缓，看懂中段先进封装的产业卡位",
+      "t": "前瞻市盈率有望大幅下降的集成电路产业滞涨股梳理",
       "d": "ifeng.com"
     },
     {
-      "t": "西安奕材、沪硅、中欣晶圆、金瑞泓、中环领先、合晶、超硅、晶升股份等齐聚【第九届半",
-      "d": "eet-china.com"
+      "t": "美股讯号 | 博通拟筹集600亿美元AI芯片融资，助力行业发展 ｜#美股资讯# ",
+      "d": "sohu.com"
     },
     {
-      "t": "绝境突围的麒麟芯片",
-      "d": "cyol.com"
+      "t": "美股讯号 | 博通拟筹集600亿美元AI芯片融资，行业前景看好 ｜#美股资讯# ",
+      "d": "sohu.com"
     }
   ]
 }

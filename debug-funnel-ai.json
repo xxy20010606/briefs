@@ -1,50 +1,38 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 41,
-    "trusted": 11,
+    "raw_dedup_junk": 28,
+    "trusted": 6,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "sina.cn": 5,
-      "hk01.com": 2,
-      "jfdaily.com.cn": 1,
-      "pedaily.cn": 1,
-      "aboluowang.com": 1,
-      "mezha.net": 1,
-      "creaders.net": 1,
-      "csdn.net": 1,
-      "bjd.com.cn": 1
+      "sina.cn": 4,
+      "sina.com.cn": 3,
+      "eastmoney.com": 2,
+      "quasa.io": 2,
+      "cqnews.net": 1,
+      "uschinews.com": 1,
+      "techwalker.com": 1,
+      "china.com": 1,
+      "orientaldaily.com.my": 1,
+      "vanpeople.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 5,
-    "relaxed_72h": 1,
-    "final": 6,
+    "fresh1_24h": 6,
+    "page_fresh": 1,
+    "relaxed_72h": 2,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "瞄准数字内容生态升级，中文在线拟定增募资不超28.33亿元，提示版权采集价格上涨",
+      "t": "重磅！OpenAI 牵手 EDA 巨头开发芯片设计大模型，芯片设计要变天？",
       "d": "sohu.com"
     },
     {
-      "t": "全球最大预印本平台arXiv全面限投，每人每月仅限2篇，AI论文暴增6 倍压垮人",
-      "d": "huxiu.com"
+      "t": "谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗",
+      "d": "sohu.com"
     },
     {
-      "t": "AI入局，奏响浙江文化“三重奏”",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "综述丨前沿模型能力加速跃升 AI治理迎来新考验——9月全球人工智能发展盘点",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "AI“砸饭碗”担忧暂缓！埃森哲845亿年订单创纪录、指引超预期，股价盘中暴涨超2",
-      "d": "wallstreetcn.com"
+      "t": "全球光模块收入TOP5：中国企业占据4席，榜首年收入达到375亿元",
+      "d": "sohu.com"
     }
   ]
 }
