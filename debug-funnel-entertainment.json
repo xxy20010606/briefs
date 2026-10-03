@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 38,
-    "trusted": 11,
+    "raw_dedup_junk": 36,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.cn": 4,
-      "sina.com.cn": 3,
-      "china.com": 2,
-      "360.com": 2,
-      "bjd.com.cn": 2,
-      "yuanxian1.com": 1,
-      "mydrivers.com": 1,
+      "starnewskorea.com": 1,
+      "mediafine.co.kr": 1,
+      "jinantimes.com.cn": 1,
       "wenxuecity.com": 1,
-      "epochtimes.com": 1,
-      "pchome.net": 1
+      "mk.co.kr": 1,
+      "vietnam.vn": 1,
+      "yuanxian1.com": 1,
+      "pchome.net": 1,
+      "17173.com": 1,
+      "yeeyi.com": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 3,
-    "relaxed_72h": 8,
+    "fresh1_24h": 10,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "啊！工作五十年了…… | 奚美娟",
+      "t": "笑掉大牙！日票房仅97万，古天乐这部耗资过亿的大片，恐血本无归",
       "d": "sohu.com"
     },
     {
-      "t": "国庆档票房破3亿！“电影+”玩法上新 文化消费升温",
-      "d": "china.com.cn"
-    },
-    {
-      "t": "鼓浪屿钢琴艺术周正式启幕",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "大湾区开启“全城游戏时刻” ，深圳数字创意力量集中亮相",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "CICF×AGF观察丨扶持一年后，广东游戏电竞交出了什么答卷？",
+      "t": "全城联动，CICF×AGF广州动漫游戏盛典国庆启幕！",
       "d": "sohu.com"
     },
     {
-      "t": "“成都高新造”包揽中国动画影史票房前三",
+      "t": "从“北方好莱坞”到“电影之都” 中国影视出海掀起新浪潮",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "2026 年度电影总票房突破 300 亿元，《飞驰人生 3》《功夫女足》《欢迎来",
+      "d": "ithome.com"
+    },
+    {
+      "t": "《光明日报》关注成都：“成都造”包揽国产动画影史票房榜前三",
+      "d": "nbd.com.cn"
+    },
+    {
+      "t": "大地为幕 声入梯田！贵州“大地指纹”音乐会奏响山野乐章",
       "d": "cnr.cn"
     },
     {
-      "t": "追剧游福州！跟着《交锋》打卡百年洋房，邂逅复古时光- 中国日报网",
-      "d": "chinadaily.com.cn"
+      "t": "国庆档首日广东电影票房领跑全国",
+      "d": "cnr.cn"
     }
   ]
 }

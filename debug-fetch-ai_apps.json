@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 34,
+  "total": 39,
   "samples": [
     {
-      "title": "从投资人最看好的48个AI应用，我看到了这两个趋势",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVREdfUHN5bG1IOGR2QWpROVJYNEZTajhJZkpWbWNpVjRfSTRoeXUzbE5mdXNOREpTUFA0anVTTXNNZWthR1dxUmN",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "AI手机想替你「办事」，可APP生态还没准备好",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hWTlJQ3VWclVDbnFpUWgxdUZqWTJGVWxKWU10N2hNWWdtQ3JJWERiS2tOQjgyUGIyUGxoMnZwRzFfeFkzV1FmTg?",
+      "source_url": "https://haiwaiwai.com",
+      "source": "haiwaiwai.com"
     },
     {
-      "title": "Meta开源Muse智能体硬件方案 普通开发板也能打造自己的AI设备",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAySTk2Z3E4OUkzV2xGNGdqdkpGSXVOQkJSQlZiWUkxSFB6dEREeFZZODNzeGUxd3RxOWl0RWlIdFFfLW15d0M4bkx",
-      "source_url": "https://www.cnbeta.com.tw",
-      "source": "cnBeta.COM"
-    },
-    {
-      "title": "Decagon 成为 OpenAI B2B Marketplace 的首发合作伙伴",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNckQ2OUlIdjl4QjhBT1VuRU1nN2pzLUprX3MtVFNTdmhnVXdGb2hOTjVWS2h5VGlTT1ByN2VmTS1GdGhwNjZZSzU",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "Meta 开源 Muse Gadget SDK，供 DIY AI 硬件设备使用",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRndiTDBHQUFyTmUzQ1QyX3hDLVF0R1pDS2c3Y1lOVTlBTTc3Z1VYVVNxcTJnck1rcTBYNUI5RmpUai1mVk1hNlN",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "苹果收紧macOS全盘访问权限：AI智能体时代隐私防线升级",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wWG9LR0szZlZZdl80MUhFMS0wX1N1cEFSUlFLVWg0dlN3aUQyX29XbTNQNUdtWTRzb2duazFfSkZ5X1VqNTAwVzR",
-      "source_url": "https://www.80aj.com",
-      "source": "80aj.com"
-    },
-    {
-      "title": "PewDiePie推出无审查AI Ajax反遭OpenAI两次封号",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qUjhJWTZwNzJaWW9VZmtDc3luVkpodlhJaS1ZNGZvYWhwWnJvQ3FVNjMtWGxfaXlZREtYNGp6SEl6UmhIVzZEaVI",
+      "title": "苹果漏洞导致 Proton Mail 在 Mac 上无法打开",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX2lwd0h6VTdLZ1RZQkJtb3NTaGdzczN5Q0Vhb3JXMmZHdkhWbWNLWEJtSFAxdVR2Ul96elBvdk8zdU9wZmN1Rnh",
       "source_url": "https://pasqualepillitteri.it",
       "source": "Pasquale Pillitteri"
+    },
+    {
+      "title": "AI“入戏”！中国视频工具进入好莱坞制作链",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NaXVKUVVDZDRFMWdUM0V5NExGZGQyYjdmTXdSWGN1azVaUUxxMl9fS3FyclVWYXFrUEFaUjJJSnFTb0dlN2QxT3p",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "finance.sina.com.cn"
+    },
+    {
+      "title": "AI智能体点燃云计算第二增长曲线! 华尔街大行拆解IaaS扩容潮与PaaS价值重估 谁赚走Token",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Yejgyc3dMS3JmcHNBUnJQV2lyY0hoXzg2bjRnZDUzT0R5LUd1bi1LQ0p6cUVFRkxkNWRBcGJ6alBrUTY4aUkzNmd",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
+    },
+    {
+      "title": "苹果调整 macOS 隐私设置，限制第三方通过全磁盘访问读取 Messages 历史 ｜#AI资讯#",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZzdsRTlKRzg2WFJCei1udElFeTBrZDRfR1BQc0J5NDA5U0d6T1cySTM3Y3RVR2hfanlVRFdUN1Z1M2NKM2dHZFl",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "谷歌Viewer登场：定位Googlebook首个全能媒体编辑应用_手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm8xaDJ2T3QwLTBZanlCdHF4NnBhQjJBOEdBUnBndEtBUmMtYXkwUGFxNUZaVUdYbGR5d29XVUFLUy1YOHQ3NjM",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.com.cn"
     }
   ]
 }

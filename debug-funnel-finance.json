@@ -1,46 +1,34 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 33,
-    "trusted": 9,
+    "raw_dedup_junk": 28,
+    "trusted": 6,
     "non_trusted_top": {
-      "moomoo.com": 6,
-      "sina.com.cn": 4,
-      "futunn.com": 3,
+      "sina.com.cn": 7,
+      "moomoo.com": 2,
       "china.com": 2,
-      "idnfinancials.com": 2,
-      "kuai.media": 1,
-      "atvnewsonline.com": 1,
-      "orientaldaily.com.my": 1,
+      "jrj.com.cn": 2,
+      "futunn.com": 2,
+      "stockstar.com": 1,
+      "cnfin.com": 1,
+      "sina.cn": 1,
       "newswav.com": 1,
       "epochtimes.com": 1
     },
     "fresh1_24h": 6,
     "page_fresh": 2,
-    "relaxed_72h": 3,
-    "final": 5,
+    "relaxed_72h": 0,
+    "final": 2,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "伦敦股市2日上涨",
-      "d": "21jingji.com"
+      "t": "加息预期骤变！美联储官员鹰派立场软化 又一大行“撕报告”",
+      "d": "ifeng.com"
     },
     {
-      "t": "港股收评：恒指失守24000点大关！科技、大金融、内房股齐跌",
-      "d": "gelonghui.com"
-    },
-    {
-      "t": "太美医疗科技(02576)10月2日斥资9.36万港元回购2万股_股市直播_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "美股异动| 大型科技股普涨特斯拉(TSLA.US)涨超5%_股市直播_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "亦辰集团(08365)：根据协议发行代价股份1000万股_股市直播_市场",
-      "d": "cnfol.com"
+      "t": "纳指盘中再创新高，美股科技股大涨，西部数据、希捷科技跳水超10%",
+      "d": "eastmoney.com"
     }
   ]
 }

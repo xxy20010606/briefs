@@ -1,38 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 28,
-    "trusted": 6,
+    "raw_dedup_junk": 45,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.cn": 4,
       "sina.com.cn": 3,
-      "eastmoney.com": 2,
+      "eastmoney.com": 3,
+      "sina.cn": 3,
+      "techwalker.com": 2,
       "quasa.io": 2,
-      "cqnews.net": 1,
-      "uschinews.com": 1,
-      "techwalker.com": 1,
-      "china.com": 1,
-      "orientaldaily.com.my": 1,
-      "vanpeople.com": 1
+      "80aj.com": 2,
+      "pedaily.cn": 1,
+      "stockstar.com": 1,
+      "gongshunews.com": 1,
+      "ichaoqi.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 1,
-    "relaxed_72h": 2,
-    "final": 3,
-    "cap": "不限同域"
+    "fresh1_24h": 15,
+    "page_fresh": 11,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "重磅！OpenAI 牵手 EDA 巨头开发芯片设计大模型，芯片设计要变天？",
+      "t": "Hinton 联合20多位AI 大牛警告：“智能爆炸” 时代要来了",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "从算力到产线，2026人工智能产业大会上的“山东适配度”",
       "d": "sohu.com"
     },
     {
-      "t": "谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗",
+      "t": "词元经济离大众消费还有多远",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "德勤书院｜商业人工智能专家认证项目首期课程精彩回顾！",
       "d": "sohu.com"
     },
     {
-      "t": "全球光模块收入TOP5：中国企业占据4席，榜首年收入达到375亿元",
-      "d": "sohu.com"
+      "t": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+      "d": "qbitai.com"
+    },
+    {
+      "t": "奋进十五五，豫商勇担当⑬｜阿帕斯：AI赋能中原，创新连接世界",
+      "d": "163.com"
+    },
+    {
+      "t": "北京经开区：构建全链条人才引育留用体系",
+      "d": "gmw.cn"
     }
   ]
 }

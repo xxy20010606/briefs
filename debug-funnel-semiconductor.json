@@ -1,50 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 33,
-    "trusted": 10,
+    "raw_dedup_junk": 37,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "chosun.com": 2,
-      "moomoo.com": 2,
-      "tradingkey.com": 2,
-      "china.com": 1,
-      "sina.com.cn": 1,
-      "mydrivers.com": 1,
-      "eeo.com.cn": 1,
-      "sfccn.com": 1,
-      "cryptorank.io": 1
+      "tradingkey.com": 3,
+      "mydrivers.com": 2,
+      "eastmoney.com": 2,
+      "sina.com.cn": 2,
+      "sina.cn": 2,
+      "indexbox.io": 2,
+      "jin10.com": 1,
+      "sharesinfo4u.com": 1,
+      "stockstar.com": 1,
+      "asiae.co.kr": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 2,
-    "relaxed_72h": 4,
-    "final": 6,
-    "cap": "不限同域"
+    "fresh1_24h": 16,
+    "page_fresh": 11,
+    "relaxed_72h": 1,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "688525投资45亿加码晶圆级先进封测",
+      "t": "从亚利桑那到得州：台积电北美制造版图的新变量",
       "d": "sohu.com"
     },
     {
-      "t": "日本半导体专家坦言：以目前日本企业的水平来看，让日企跟华为一样独立研发芯片做手机",
+      "t": "“争气机”换更强“争气芯”：全系韬芯片之华为 Mate 90 发布，央视报道称走",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "不靠EUV、不卷制程！前台积电副总预言成真：中国7nm硬打出5nm实力",
       "d": "sohu.com"
     },
     {
-      "t": "顶层规划重点提及！集成电路迎技术+景气度双重共振，这些滞涨股估值有望修复",
-      "d": "21jingji.com"
+      "t": "功率半导体：不抢算力风头，却管着算力的电",
+      "d": "eet-china.com"
     },
     {
-      "t": "前瞻市盈率有望大幅下降的集成电路产业滞涨股梳理",
-      "d": "ifeng.com"
+      "t": "西安奕材、沪硅、中欣晶圆、金瑞泓、中环领先、合晶、超硅、晶升股份等齐聚【第九届半",
+      "d": "eet-china.com"
     },
     {
-      "t": "美股讯号 | 博通拟筹集600亿美元AI芯片融资，助力行业发展 ｜#美股资讯# ",
-      "d": "sohu.com"
+      "t": "2026年半导体车间湿度不足？纯水加湿器来解决",
+      "d": "163.com"
     },
     {
-      "t": "美股讯号 | 博通拟筹集600亿美元AI芯片融资，行业前景看好 ｜#美股资讯# ",
-      "d": "sohu.com"
+      "t": "费城半导体指数涨3%，ARM涨超4%",
+      "d": "eastmoney.com"
     }
   ]
 }

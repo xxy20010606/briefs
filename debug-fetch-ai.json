@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 28,
+  "total": 45,
   "samples": [
     {
-      "title": "大模型私有化部署推荐|数商云：企业智能化转型的合规与效率解决方案",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TdmRwMzR1T1ZKNV9Uc3h1b2xRNTBMZjFqQ1J2dEJBa29HWG5DMEVYQlBEZm5BWkxLMXI4cEdsdEQxay1XQnRHWDZ",
-      "source_url": "https://caifuhao.eastmoney.com",
-      "source": "财富号"
+      "title": "AI开始造AI，智能爆炸逼近",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DcmVzVHRXWVVfOUpOOXQwMkFtbmsyNms4RFp1cmI1d3lPU0l5OG1kaEJZdGxMVllJRWJCcEZMV3M1T0dzV3dBckx",
+      "source_url": "https://news.pedaily.cn",
+      "source": "投资界"
     },
     {
-      "title": "大模型私有化部署服务商推荐|数商云：构建企业AI自主可控的核心竞争力",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WdGJjVWJRN3NHU2podm9pOXgzZXhSUXhTbWdmRVc2Qmo0cDVnZS1aYlhGLXlKZS1ublBsMldSVGJJWVQ3RFpYTnh",
-      "source_url": "https://caifuhao.eastmoney.com",
-      "source": "财富号"
+      "title": "AI智能体点燃云计算第二增长曲线! 华尔街大行拆解IaaS扩容潮与PaaS价值重估 谁赚走Token",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Yejgyc3dMS3JmcHNBUnJQV2lyY0hoXzg2bjRnZDUzT0R5LUd1bi1LQ0p6cUVFRkxkNWRBcGJ6alBrUTY4aUkzNmd",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "重磅！OpenAI 牵手 EDA 巨头开发芯片设计大模型，芯片设计要变天？",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNjBwZVh2Yjh3ek92NXotSEhJOVIxNFJQNjZXbkltNzdmVGhsRGpSWElfX0hicVpiMF9JWVptTUpCSjVsZ2lWZHF",
+      "title": "Hinton 联合20多位AI 大牛警告：“智能爆炸” 时代要来了",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZSldoMGlnVVNUaDF3TGVNejZXZk5IMHJUTzlmMU8xVHQ5bERFajVEd1hNbmgxM2dqdHZmc1NtU0ZtOWdVSzBxQ2N",
+      "source_url": "https://www.huxiu.com",
+      "source": "虎嗅网"
+    },
+    {
+      "title": "AIIC2026丨万亿规模下，这场大会助力AI与产业双向赋能",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUp4amNHaGc2Nk11eVVyQjY5UFdIVUJsRFVEYVd1RTExQjN2ZEJZRWlTZl83UmR0b2o2enFSNkdzRU9WQTAxOFR",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "从算力到产线，2026人工智能产业大会上的“山东适配度”",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1BILTlhdzVTYm4tRG5xZ3BkNFV0cGVwNXFqTVVkbVQtbXB3cTlTUko0dFZlWThzeFFtWXVLR3dzVHBVMmk2alh",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "词元经济离大众消费还有多远",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ycHRxdGdWR1NwLTFTbEFWaGJOcFRSTExRbUVHS3FZZ3BlSTVHUWhxVjVMVDhQQ0R3Rmx2NHZueFd2cHdoVTY0MUs",
-      "source_url": "https://www.cqnews.net",
-      "source": "cqnews.net"
-    },
-    {
-      "title": "Cleanlab – 面向机器学习与大语言模型的数据质量与 AI 可靠性层",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LYl9RaktzeU1kYkFWR2NLMmNNSWJ3V1lGazJKdE9EbVR5OXN3cUJVZkpySFBNYjNLeTcxVXZJNzRVdE16V3U1aTB",
-      "source_url": "https://quasa.io",
-      "source": "quasa.io"
-    },
-    {
-      "title": "北京经开区：构建全链条人才引育留用体系",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2hxemRVbzVGTTQyV0F3VTItODFMTnBfajlNNFFiM040dzhlMzJmUVBWS0t3VGh2UmFmLXNmd1NvUnBOZUxYRnl",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "​经济大省挑大梁丨做精做强制造业 杭州“转”出集群效应",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BZXpCQkdEaFM0Ym1BRlZ3ZFNUb2ZtQzRmS2dTcVFDNGZ3dnlCYzBqdnJkcmNZOVVRdzhrbnhYb2d6ZUpJaExCbG4",
+      "source_url": "https://www.gongshunews.com",
+      "source": "gongshunews.com"
     }
   ]
 }

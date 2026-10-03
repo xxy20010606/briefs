@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 33,
+  "total": 37,
   "samples": [
     {
-      "title": "688525投资45亿加码晶圆级先进封测",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUlnNnlZZkJqX0NIYzNYc0RDVlVUblNFQkJkc0VMNUlhSHRIMEdUcWlnV0ZRUmFFaUZYdUlIR21VU1dRUkZzWU1",
+      "title": "从亚利桑那到得州：台积电北美制造版图的新变量",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmxnSEtTelAxOWtmRHlDQWtOUmxmVlVVWGpVYmNubDVNRmZVWWdvWU4yREMwOE9yMERwc0VFdkEwU2taY0FNREN",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "华为押注“制程之外”的芯片创新 逻辑折叠引领新方向",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qRmVPclp2RmUzRTByTEQ1R1VDbzFnSTRpbHFQMW5DUTlXX2w3Rlp2LXRTLXpRSEpybS1pd0w1cWtYTkFXdm9wMDM",
-      "source_url": "https://news.china.com",
-      "source": "news.china.com"
+      "title": "“争气机”换更强“争气芯”：全系韬芯片之华为 Mate 90 发布，央视报道称走出世界半导体的新路",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRVGpFME1NTUQ4UU5kWlpJMVI1Y3c0VEZCZjBoRXZCZ3ZZOWNPeXc0eGtUSUt6S2p0TjFQWUFKUGNsRndHc2FXUFM",
+      "source_url": "https://news.10jqka.com.cn",
+      "source": "同花顺财经"
     },
     {
-      "title": "华为余承东：Mate 90系列是中国半导体行业的答卷",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9YUWtQUDI3dnBCTGNvUml6N0h2ck9SNW1MU3FJeTdya3g5UUhOSTJvV2xOd21IMUxpcUNkNFJPT3c1N00?oc=5",
-      "source_url": "http://laoyaoba.com",
-      "source": "集微网"
+      "title": "AI热潮推高韩国出口：9月达1209亿美元，芯片贡献近半",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE14WFJVNzJLREExcGFCTGF1Uk93VHZWZktaaWdFSGVnLVBMVElOZG1QMm5fVTltWk1TUjBNenFfZDdadw?oc=5",
+      "source_url": "https://ijiwei.com",
+      "source": "ijiwei.com"
     },
     {
-      "title": "中芯国际表示最新工艺“超越了英特尔”，审视其性能仍存在明显的局限",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRHNVazhYaVBrQnNnZXJDSzFRUjFKbThhaF9ibnZrUXFyYmwyTGRScEJnTGtjS1o1WUtuU0wzSTZacDNHNDZtWWg",
-      "source_url": "https://cnnews.chosun.com",
-      "source": "朝鮮日報中文版"
+      "title": "不靠EUV、不卷制程！前台积电副总预言成真：中国7nm硬打出5nm实力",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHBZRFZMOVJoaVZ1eS1lMTdVUUhKZlNNekpYR0JqTHc4NHhiOGl2Zm9HSlp3MjhnbGV0a3lRRDI1bXlGZVRYdlF",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "花旗分析师：十月适宜布局存储芯片股",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yOGtwUHYweVhCNC1JcVdvSWFCYmpZWUduUm9oS2xIbVNiMGRyYUNIM2hnZEwySzIxVW1IekFTSzNJTkZhNk9uVUV",
-      "source_url": "https://wap.cj.sina.cn",
-      "source": "新浪财经"
+      "title": "绕开先进EUV光刻机！央视赞华为Mate 90争气机 这底气是381款芯片给的",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04Y0xuZmc0SU02WmgtYV93Rm03ZVJ3RDRfWU1Zck5jbnhUaUI3NUNVcExGQnJ0UGxrRVR3dzdFd1hnalJKYlE2TnR",
+      "source_url": "https://news.mydrivers.com",
+      "source": "驱动之家"
     },
     {
-      "title": "亚马逊探索“表外”融资：拟将80亿美元英伟达芯片剥离至SPV再租回",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CZ1BIVU94X1U5ZUdpem1YMXhsS1pJX25KU1Q5WjVNSlRRWTdfWHI2MGJycjJWZUJMZmM1OXNxWDBzUFBNQVhLaTF",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "功率半导体：不抢算力风头，却管着算力的电",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsQzdoZXRhbERnNlN2QnFEZ2ltdkV3Y2hCc0FyRWRsUlpMVzdQeEhrMjZGMlhRWWZKclIxczhWUVp5ZHNGaGFtUXN",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     }
   ]
 }
