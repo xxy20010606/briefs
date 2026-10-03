@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 45,
+  "total": 33,
   "samples": [
     {
-      "title": "AI开始造AI，智能爆炸逼近",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DcmVzVHRXWVVfOUpOOXQwMkFtbmsyNms4RFp1cmI1d3lPU0l5OG1kaEJZdGxMVllJRWJCcEZMV3M1T0dzV3dBckx",
-      "source_url": "https://news.pedaily.cn",
-      "source": "投资界"
-    },
-    {
-      "title": "AI智能体点燃云计算第二增长曲线! 华尔街大行拆解IaaS扩容潮与PaaS价值重估 谁赚走Token",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Yejgyc3dMS3JmcHNBUnJQV2lyY0hoXzg2bjRnZDUzT0R5LUd1bi1LQ0p6cUVFRkxkNWRBcGJ6alBrUTY4aUkzNmd",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "Hinton 联合20多位AI 大牛警告：“智能爆炸” 时代要来了",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZSldoMGlnVVNUaDF3TGVNejZXZk5IMHJUTzlmMU8xVHQ5bERFajVEd1hNbmgxM2dqdHZmc1NtU0ZtOWdVSzBxQ2N",
-      "source_url": "https://www.huxiu.com",
-      "source": "虎嗅网"
-    },
-    {
-      "title": "AIIC2026丨万亿规模下，这场大会助力AI与产业双向赋能",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUp4amNHaGc2Nk11eVVyQjY5UFdIVUJsRFVEYVd1RTExQjN2ZEJZRWlTZl83UmR0b2o2enFSNkdzRU9WQTAxOFR",
+      "title": "“人工智能+”赋能新旧动能转换系列报道｜AI驱动，打造绿色建筑“好房子”",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaMUVyd1YtdkQ4SlN5TU12QmxCRF9pQnRNMUI0UlZXd3k2eUphZ3diYW53UDEtQVEzbHJsVWcyS1YyUTd3V0ljaWl",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "从算力到产线，2026人工智能产业大会上的“山东适配度”",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1BILTlhdzVTYm4tRG5xZ3BkNFV0cGVwNXFqTVVkbVQtbXB3cTlTUko0dFZlWThzeFFtWXVLR3dzVHBVMmk2alh",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "刚刚，Muse迎来了一次大更新！",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNVF0WVdnVGJmWTliRzJOTG5wZ3oySTBjYmJBbHp2cVVsOUEzeE10MUI2NlNPbEFtMUxwajdXNWFHZkhzYVRZU0V",
+      "source_url": "https://www.53ai.com",
+      "source": "53AI"
     },
     {
-      "title": "​经济大省挑大梁丨做精做强制造业 杭州“转”出集群效应",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BZXpCQkdEaFM0Ym1BRlZ3ZFNUb2ZtQzRmS2dTcVFDNGZ3dnlCYzBqdnJkcmNZOVVRdzhrbnhYb2d6ZUpJaExCbG4",
-      "source_url": "https://www.gongshunews.com",
-      "source": "gongshunews.com"
+      "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1obDJWZWFFTFFHazhCcU5feE1wdUs5YjdFWWdNVzEzNDZHZDd3MHYwWHBwLXhlcDEyQ0pvR2xXZVJTSWFGc3ZneA?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "从算力到产线，2026人工智能产业大会上的“山东适配度”",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tWHVzLXMzTDJobDZPSGcxcmNUeS1vYlpMM2NHTjFPRndhbWFsNHpiSHdBQ3kyWkJBMzZJdjBRQm1SSzRvV3Q3Y3l",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "拧紧智能体支付应用“安全阀”",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53Vk1haE5NQmctSUFyTEJFTnd0RnhLbWE0MXctbnpCSEJObUt0RlFfeWhlMFFrb24ySTB6RGpqNlo5dTEyNDlidnA",
+      "source_url": "https://news.sina.com.cn",
+      "source": "新浪新闻_手机新浪网"
+    },
+    {
+      "title": "泼冷水！英伟达RTX Spark确实强，但不是Agent理想方案|Windows PC|笔记本电脑|",
+      "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNN0xlVlZoQ0NSVDVFRnM0US02dG5WMTVrYi1fV0RzemFLcHhZX3RWTzc1dHpnSDF4RjR3NWhuajNDeEVtcWZhOTA",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.cn"
     }
   ]
 }

@@ -1,54 +1,34 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 15,
+    "raw_dedup_junk": 33,
+    "trusted": 4,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "eastmoney.com": 3,
-      "sina.cn": 3,
-      "techwalker.com": 2,
-      "quasa.io": 2,
+      "sina.com.cn": 8,
+      "sina.cn": 7,
+      "icloudnews.net": 3,
       "80aj.com": 2,
-      "pedaily.cn": 1,
+      "smartcity.team": 2,
+      "ebrun.com": 2,
+      "53ai.com": 1,
+      "on.cc": 1,
       "stockstar.com": 1,
-      "gongshunews.com": 1,
-      "ichaoqi.com": 1
+      "aboluowang.com": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 11,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 3,
+    "page_fresh": 1,
+    "relaxed_72h": 1,
+    "final": 2,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "Hinton 联合20多位AI 大牛警告：“智能爆炸” 时代要来了",
+      "t": "AI产业发展需平衡快慢节奏 底层投入与场景渗透并重",
       "d": "huxiu.com"
     },
     {
-      "t": "从算力到产线，2026人工智能产业大会上的“山东适配度”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "词元经济离大众消费还有多远",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "德勤书院｜商业人工智能专家认证项目首期课程精彩回顾！",
-      "d": "sohu.com"
-    },
-    {
-      "t": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-      "d": "qbitai.com"
-    },
-    {
-      "t": "奋进十五五，豫商勇担当⑬｜阿帕斯：AI赋能中原，创新连接世界",
-      "d": "163.com"
-    },
-    {
-      "t": "北京经开区：构建全链条人才引育留用体系",
-      "d": "gmw.cn"
+      "t": "AI进化速递｜谷歌搭载AI芯片测试卫星发射升空",
+      "d": "eastmoney.com"
     }
   ]
 }

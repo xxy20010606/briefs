@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 37,
-    "trusted": 17,
+    "raw_dedup_junk": 32,
+    "trusted": 18,
     "non_trusted_top": {
-      "tradingkey.com": 3,
-      "mydrivers.com": 2,
-      "eastmoney.com": 2,
-      "sina.com.cn": 2,
-      "sina.cn": 2,
-      "indexbox.io": 2,
+      "sina.com.cn": 3,
+      "klsescreener.com": 2,
+      "tradingkey.com": 2,
+      "aboluowang.com": 1,
+      "icsmart.cn": 1,
+      "chosun.com": 1,
+      "mydrivers.com": 1,
+      "sinchew.com.my": 1,
       "jin10.com": 1,
-      "sharesinfo4u.com": 1,
-      "stockstar.com": 1,
-      "asiae.co.kr": 1
+      "indexbox.io": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 11,
-    "relaxed_72h": 1,
+    "fresh1_24h": 18,
+    "page_fresh": 8,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "从亚利桑那到得州：台积电北美制造版图的新变量",
+      "t": "台积电探讨与马斯克 Terafab 项目开展合作",
       "d": "sohu.com"
     },
     {
-      "t": "“争气机”换更强“争气芯”：全系韬芯片之华为 Mate 90 发布，央视报道称走",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "不靠EUV、不卷制程！前台积电副总预言成真：中国7nm硬打出5nm实力",
-      "d": "sohu.com"
-    },
-    {
-      "t": "功率半导体：不抢算力风头，却管着算力的电",
+      "t": "马斯克证实：与台积电谈上了",
       "d": "eet-china.com"
     },
     {
-      "t": "西安奕材、沪硅、中欣晶圆、金瑞泓、中环领先、合晶、超硅、晶升股份等齐聚【第九届半",
+      "t": "芯片制造扩产带动上游，硅片市场2030年或达217亿美元",
+      "d": "laoyaoba.com"
+    },
+    {
+      "t": "台积电15日开业绩说明会，2027年资本开支、A14、CoPoS等成焦点",
+      "d": "laoyaoba.com"
+    },
+    {
+      "t": "同样半导体封测，为什么通富微电利润暴涨316%，太极实业却营收下滑15%？",
       "d": "eet-china.com"
     },
     {
-      "t": "2026年半导体车间湿度不足？纯水加湿器来解决",
-      "d": "163.com"
+      "t": "长江存储粤芯半导体规模领跑A股排队IPO十大半导体企业",
+      "d": "ifeng.com"
     },
     {
-      "t": "费城半导体指数涨3%，ARM涨超4%",
-      "d": "eastmoney.com"
+      "t": "长江存储科创板IPO拟募资330亿，武汉芯片产业二十年布局迎来兑现",
+      "d": "huxiu.com"
     }
   ]
 }

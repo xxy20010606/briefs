@@ -1,50 +1,38 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 39,
-    "trusted": 6,
+    "raw_dedup_junk": 19,
+    "trusted": 3,
     "non_trusted_top": {
-      "pasqualepillitteri.it": 10,
-      "unite.ai": 6,
-      "sina.com.cn": 4,
-      "80aj.com": 4,
-      "sina.cn": 2,
-      "haiwaiwai.com": 1,
-      "stockstar.com": 1,
-      "blockweeks.com": 1,
-      "tgbus.com": 1,
-      "eeo.com.cn": 1
+      "pasqualepillitteri.it": 6,
+      "hurun.net": 2,
+      "ttplus.cn": 1,
+      "cnbeta.com.tw": 1,
+      "pchome.net": 1,
+      "arch-web.com.tw": 1,
+      "ichaoqi.com": 1,
+      "chinapress.com.my": 1,
+      "sina.cn": 1,
+      "icswb.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 6,
+    "fresh1_24h": 3,
+    "page_fresh": 3,
     "relaxed_72h": 0,
-    "final": 6,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "苹果调整 macOS 隐私设置，限制第三方通过全磁盘访问读取 Messages ",
-      "d": "sohu.com"
+      "t": "中大纺织城一则档口招聘启事走红社交平台 纺织商圈招工 会用AI成加分项",
+      "d": "eastmoney.com"
     },
     {
-      "t": "中国AI视频工具进入好莱坞：影视出海从“讲故事”转向“造工具”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "AI助手Instinct两个月估值翻四倍 资本押注下一代AI应用",
+      "t": "AI产业发展需平衡快慢节奏 底层投入与场景渗透并重",
       "d": "huxiu.com"
     },
     {
-      "t": "AI技术普及或加剧认知分层：判断力与真实经验成新稀缺资源",
+      "t": "Personal Agent与Coding Agent的本质区别：主动行动与To",
       "d": "huxiu.com"
-    },
-    {
-      "t": "刚刚，Meta开源Muse Gadgets，让全球开发者自己「造AI外设」",
-      "d": "36kr.com"
-    },
-    {
-      "t": "Muse狂飙，龙虾退潮",
-      "d": "thepaper.cn"
     }
   ]
 }

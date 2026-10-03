@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 25,
+  "total": 35,
   "samples": [
     {
-      "title": "“10分钟补能圈”告别“找桩焦虑”，济南能源织密“补能网”",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcTFQYUhDN1lObjJ2U3plRFI0MllpQlRrNHE3OWpKV2w0NnY2cm9uakRjZVR5MlBpWFY5ZE9RQkhnSUg0Um1PSlc",
+      "title": "比风电更稳，比水电更猛，中国正解锁地球上1种“隐藏能源”！",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcWtpNzhtYlhTLUI2bG9XU2dOeldrNE04dzZBRE1HNG9waGZGaUpwUFQzcXRuQ3pud2xITzNCcVp2N21IUlB6VU9",
+      "source_url": "https://c.m.163.com",
+      "source": "网易新闻客户端"
+    },
+    {
+      "title": "富镍电池废料市场2035年预测：电动汽车需求与回收法规驱动增长",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOVJxeDF4MDJid0ZRdFBlSFZIWkp5WlVVdGd5WEg0UXBqbFlfMFpxLWxYOWpDU0RmVUUzdmVCbGJ5OHFrNXpoSW9",
+      "source_url": "https://www.indexbox.io",
+      "source": "新闻和统计"
+    },
+    {
+      "title": "内蒙古包头“十五五”：储能装机7.5GW，推动中航锂电/永臻科技/西部国轩等储能电站建设，力争26年",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qNzg4NVpkWllTYVBaRVdvOXJUV3BncVFieW1PZ0JpM2lZMXg3ZTRBUmNPRmhnOTM2bmtGNXhjTTZRMHZlU3BfanY",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "云南25GW风电指标：央企、用电大户、装备企业入局！一个传统水电大省，为什么开始押注风电？",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vTExienByaUpqTjFtbGNfaXBkSkdxQ1dsdlpsSlJZS3BWRE1yRHdiRlFrUVFsdUJoMmQ1ZF9MY0I4ajh3R2dUTmp",
-      "source_url": "https://wind.in-en.com",
-      "source": "国际风力发电网"
-    },
-    {
-      "title": "浙江绍兴：织密绿色补能网络 护航国庆低碳出行",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCTDZHVm5LcGZJWXJzMnU4WG5EWndwaDhYVDRCUERUZ2NucG9YTWFZeS1wam9BWk9HVGl2NGhQUTdoazFweVVJd1l",
-      "source_url": "https://csj.news.cn",
-      "source": "新华网"
-    },
-    {
-      "title": "全国首个百万千瓦级光伏光热项目并网发电",
-      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQVElLN1ZIaXdmeWdzYWF4dUhNRFk1TGt4T1ZwTklTNmFpdHZTLXluZUtOemdkOHpvZXZmNm5vVU9kX1hKZGVZdWd",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
-    },
-    {
-      "title": "深圳探索建立产业链首席质量官协同联动机制",
-      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNelFjT3k1WjVlU2NVZGk5LVZlby05X28tLUdyWGRZczMzVTZ5eklHdjI1YnE0RVo5S1p5NG15blQxNjBYZUszYlV",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
-    },
-    {
-      "title": "超快充技术对电动车电池寿命有何影响？",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15ZV9QSXlmNVNneEdKYXVQTWhjMm9KLUg5eTN3ZzB1RUhIMzByRnJBQ1YzY19QYzNkU0s1cDNZbFlWTWxDZ0lodHB",
+      "title": "以崖教育：打造面向全国的成人终身学习平台 构建″AI+教育″新模式",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xVnFsMUtKWi1Nd1VKSWRUWUYzMHZlT1M5QnVvbkNIcjNVOF91Rjh1QldHMDhiYTllSW9vVmxFVVRnSEZEUEc5dUE",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
+    },
+    {
+      "title": "焦点访谈｜新征程新长征 我国新能源走出独立自主的发展道路",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54aFZTV3R0UmNEY25mWGJkS1RJc014M2ZyeDhxWU1jcjV3VHR4TG5UaDdsTlM1WE9YNENseXAyOWdYYjFCcWc0MFB",
+      "source_url": "https://news.cctv.com",
+      "source": "央视网"
+    },
+    {
+      "title": "131.25MW/525MWh，新疆昌吉储能电站EPC招标",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXJ1ckJwdVlpcHRoTWo2Szd2eUNYWXgtMFJDQXFQZWtpUlc0Tm1IOFl5Qkk0bUpuV252SmsxU2xJYWNSMllFbC1",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     }
   ]
 }

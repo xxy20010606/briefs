@@ -1,21 +1,21 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 28,
-    "trusted": 6,
+    "raw_dedup_junk": 38,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "moomoo.com": 2,
-      "china.com": 2,
-      "jrj.com.cn": 2,
-      "futunn.com": 2,
-      "stockstar.com": 1,
+      "sina.com.cn": 11,
+      "sinchew.com.my": 4,
+      "sina.cn": 3,
+      "litefinance.org": 2,
+      "tradingkey.com": 2,
+      "stheadline.com": 1,
+      "jkn.co.kr": 1,
+      "sfccn.com": 1,
       "cnfin.com": 1,
-      "sina.cn": 1,
-      "newswav.com": 1,
-      "epochtimes.com": 1
+      "okx.com": 1
     },
-    "fresh1_24h": 6,
+    "fresh1_24h": 7,
     "page_fresh": 2,
     "relaxed_72h": 0,
     "final": 2,
@@ -23,12 +23,12 @@
   },
   "final": [
     {
-      "t": "加息预期骤变！美联储官员鹰派立场软化 又一大行“撕报告”",
-      "d": "ifeng.com"
+      "t": "渤海租赁(000415)：Avolon 拟出售33架飞机飞机资产交易保持活跃_股",
+      "d": "cnfol.com"
     },
     {
-      "t": "纳指盘中再创新高，美股科技股大涨，西部数据、希捷科技跳水超10%",
-      "d": "eastmoney.com"
+      "t": "金融界的首个Muse，来了！",
+      "d": "cnfol.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 39,
+  "total": 19,
   "samples": [
     {
-      "title": "AI手机想替你「办事」，可APP生态还没准备好",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hWTlJQ3VWclVDbnFpUWgxdUZqWTJGVWxKWU10N2hNWWdtQ3JJWERiS2tOQjgyUGIyUGxoMnZwRzFfeFkzV1FmTg?",
-      "source_url": "https://haiwaiwai.com",
-      "source": "haiwaiwai.com"
+      "title": "中大纺织城一则档口招聘启事走红社交平台 纺织商圈招工 会用AI成加分项",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tYm4zTnF0bjFHQVpBLU4zTG9DX2d3eWtwMExTb1hZWDVWX0cxRXYxbmRZeHBfekZtRExxUFRvd2hldUVZQTBNM3d",
+      "source_url": "https://emwap.eastmoney.com",
+      "source": "emwap.eastmoney.com"
     },
     {
-      "title": "苹果漏洞导致 Proton Mail 在 Mac 上无法打开",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX2lwd0h6VTdLZ1RZQkJtb3NTaGdzczN5Q0Vhb3JXMmZHdkhWbWNLWEJtSFAxdVR2Ul96elBvdk8zdU9wZmN1Rnh",
+      "title": "谷歌收紧 Gemini, 10 月 9 日起免费用户失去 Flash, AI Plus 失去 Pro",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFJsZXYxemNiNUlwSVNDWXY4eEo1bFdSVjRueVllVnVkVmdaZmZMaGozZ3pEb0tWTF9DeDdzN1JNV3FKQ3BhNVZ",
       "source_url": "https://pasqualepillitteri.it",
       "source": "Pasquale Pillitteri"
     },
     {
-      "title": "AI“入戏”！中国视频工具进入好莱坞制作链",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NaXVKUVVDZDRFMWdUM0V5NExGZGQyYjdmTXdSWGN1azVaUUxxMl9fS3FyclVWYXFrUEFaUjJJSnFTb0dlN2QxT3p",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "finance.sina.com.cn"
+      "title": "新巴黎人官网网址启动“巅峰对决”赛季，以AI模型赋能开发者，赢取万元奖金",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94WmlxdUMxUkYzSERzbktTeDFZRTVwZ3R4MlFfRDFWblZCMm1TTU9vTVg3VGFISzhKdjlPNzFsdVJ6Q211Mk5UNQ?",
+      "source_url": "https://www.ttplus.cn",
+      "source": "体坛"
     },
     {
-      "title": "AI智能体点燃云计算第二增长曲线! 华尔街大行拆解IaaS扩容潮与PaaS价值重估 谁赚走Token",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Yejgyc3dMS3JmcHNBUnJQV2lyY0hoXzg2bjRnZDUzT0R5LUd1bi1LQ0p6cUVFRkxkNWRBcGJ6alBrUTY4aUkzNmd",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
+      "title": "ChatGPT正在变成“软件入口” 用户以后可能不再主动寻找App",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3ZkdrTDdDNzVwN1RNT3J0akxDQzQ1TDA2YUVlamRRUF9wQ09JdXJSLXZqbUdaT0VuWHA0Q093MmtIdGxKQVphMGk",
+      "source_url": "https://www.cnbeta.com.tw",
+      "source": "cnBeta.COM"
     },
     {
-      "title": "苹果调整 macOS 隐私设置，限制第三方通过全磁盘访问读取 Messages 历史 ｜#AI资讯#",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZzdsRTlKRzg2WFJCei1udElFeTBrZDRfR1BQc0J5NDA5U0d6T1cySTM3Y3RVR2hfanlVRFdUN1Z1M2NKM2dHZFl",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "谷歌Viewer上架Play：定位Googlebook首个全能媒体编辑应用",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40andCWEhlRDBuMWJYZHpGV2EyeFhFUEkydE9Ub0Q5T2Q1WXlTOTdMcVB2YzJUNWEwUHNubHdIb0lOcGhfelV3Uy1",
+      "source_url": "https://article.pchome.net",
+      "source": "article.pchome.net"
     },
     {
-      "title": "谷歌Viewer登场：定位Googlebook首个全能媒体编辑应用_手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm8xaDJ2T3QwLTBZanlCdHF4NnBhQjJBOEdBUnBndEtBUmMtYXkwUGFxNUZaVUdYbGR5d29XVUFLUy1YOHQ3NjM",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
+      "title": "Claude Opus 5.5 登陆 Antigravity,但仅限付费 Pro 和 Ultra 用",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcjNvZGJoTXpOOFIxdlZBRjhHRnItcXBrVjNPSmVuenBiMDBHLTFGT2xhLWdhLXpYdkJKNUhTVjJYQVotRGE3WUI",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     }
   ]
 }

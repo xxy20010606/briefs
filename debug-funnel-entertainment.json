@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 36,
-    "trusted": 10,
+    "raw_dedup_junk": 43,
+    "trusted": 14,
     "non_trusted_top": {
-      "starnewskorea.com": 1,
-      "mediafine.co.kr": 1,
-      "jinantimes.com.cn": 1,
-      "wenxuecity.com": 1,
-      "mk.co.kr": 1,
-      "vietnam.vn": 1,
-      "yuanxian1.com": 1,
-      "pchome.net": 1,
-      "17173.com": 1,
-      "yeeyi.com": 1
+      "sina.cn": 5,
+      "pchome.net": 4,
+      "bjd.com.cn": 3,
+      "sina.com.cn": 2,
+      "gz-cmc.com": 2,
+      "360.com": 1,
+      "52hrtt.com": 1,
+      "zaochenbao.com": 1,
+      "gdtv.cn": 1,
+      "jfdaily.com.cn": 1
     },
     "fresh1_24h": 10,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
+    "page_fresh": 5,
+    "relaxed_72h": 9,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "笑掉大牙！日票房仅97万，古天乐这部耗资过亿的大片，恐血本无归",
+      "t": "小沈阳夫妇逆袭国庆档：谁也没想到的票房黑马",
       "d": "sohu.com"
     },
     {
-      "t": "全城联动，CICF×AGF广州动漫游戏盛典国庆启幕！",
+      "t": "国庆档票房遇冷：三天5.3亿，冠军《神探之痕迹》2.1亿，七天恐不足10亿",
       "d": "sohu.com"
     },
     {
-      "t": "从“北方好莱坞”到“电影之都” 中国影视出海掀起新浪潮",
+      "t": "“全民追更”，追的是好故事——第16届中国金鹰电视艺术节扫描",
+      "d": "gmw.cn"
+    },
+    {
+      "t": "总票房破300亿！合家欢影片成为国庆档观影亮点",
+      "d": "china.com.cn"
+    },
+    {
+      "t": "国庆假期 浙江横店影视城吸引中外游客打卡",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "2026 年度电影总票房突破 300 亿元，《飞驰人生 3》《功夫女足》《欢迎来",
-      "d": "ithome.com"
+      "t": "《神探之痕迹》领跑国庆档，背后上市公司浮出水面",
+      "d": "eastmoney.com"
     },
     {
-      "t": "《光明日报》关注成都：“成都造”包揽国产动画影史票房榜前三",
-      "d": "nbd.com.cn"
-    },
-    {
-      "t": "大地为幕 声入梯田！贵州“大地指纹”音乐会奏响山野乐章",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "国庆档首日广东电影票房领跑全国",
-      "d": "cnr.cn"
+      "t": "刘欢中秋病逝，两套房产全写妻子名，父母感叹儿子替别人生的！",
+      "d": "163.com"
     }
   ]
 }
