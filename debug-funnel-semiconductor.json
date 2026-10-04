@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 32,
-    "trusted": 18,
+    "raw_dedup_junk": 24,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "klsescreener.com": 2,
-      "tradingkey.com": 2,
-      "aboluowang.com": 1,
-      "icsmart.cn": 1,
+      "tradingkey.com": 4,
+      "wedoany.com": 1,
+      "sina.com.cn": 1,
+      "vietnam.vn": 1,
+      "eastmoney.com": 1,
       "chosun.com": 1,
+      "sina.cn": 1,
       "mydrivers.com": 1,
-      "sinchew.com.my": 1,
-      "jin10.com": 1,
+      "enanyang.my": 1,
       "indexbox.io": 1
     },
-    "fresh1_24h": 18,
+    "fresh1_24h": 11,
     "page_fresh": 8,
-    "relaxed_72h": 8,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "台积电探讨与马斯克 Terafab 项目开展合作",
+      "t": "光刻掩膜版，奔向12英寸",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "余承东：华为已量产381款τ芯片 覆盖手机、AI、智能汽车等领域",
       "d": "sohu.com"
     },
     {
-      "t": "马斯克证实：与台积电谈上了",
+      "t": "AI耳机蓄势，芯片厂商待发",
+      "d": "guancha.cn"
+    },
+    {
+      "t": "贯通半导体全链！2026湾区半导体大会系列技术论坛一览",
+      "d": "sohu.com"
+    },
+    {
+      "t": "《电源管理IC市场与技术趋势-2026版》",
       "d": "eet-china.com"
     },
     {
-      "t": "芯片制造扩产带动上游，硅片市场2030年或达217亿美元",
-      "d": "laoyaoba.com"
-    },
-    {
-      "t": "台积电15日开业绩说明会，2027年资本开支、A14、CoPoS等成焦点",
-      "d": "laoyaoba.com"
-    },
-    {
-      "t": "同样半导体封测，为什么通富微电利润暴涨316%，太极实业却营收下滑15%？",
+      "t": "ICEPT 2026 玻璃要\"接管\"芯片封装了？Intel 和 TSMC 都已下",
       "d": "eet-china.com"
     },
     {
-      "t": "长江存储粤芯半导体规模领跑A股排队IPO十大半导体企业",
+      "t": "造芯片的核心工具：尹志尧带领中微打破海外刻蚀设备垄断",
       "d": "ifeng.com"
-    },
-    {
-      "t": "长江存储科创板IPO拟募资330亿，武汉芯片产业二十年布局迎来兑现",
-      "d": "huxiu.com"
     }
   ]
 }

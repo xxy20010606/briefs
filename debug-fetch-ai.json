@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 33,
+  "total": 40,
   "samples": [
     {
-      "title": "“人工智能+”赋能新旧动能转换系列报道｜AI驱动，打造绿色建筑“好房子”",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaMUVyd1YtdkQ4SlN5TU12QmxCRF9pQnRNMUI0UlZXd3k2eUphZ3diYW53UDEtQVEzbHJsVWcyS1YyUTd3V0ljaWl",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "刚刚，Muse迎来了一次大更新！",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNVF0WVdnVGJmWTliRzJOTG5wZ3oySTBjYmJBbHp2cVVsOUEzeE10MUI2NlNPbEFtMUxwajdXNWFHZkhzYVRZU0V",
-      "source_url": "https://www.53ai.com",
-      "source": "53AI"
-    },
-    {
-      "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1obDJWZWFFTFFHazhCcU5feE1wdUs5YjdFWWdNVzEzNDZHZDd3MHYwWHBwLXhlcDEyQ0pvR2xXZVJTSWFGc3ZneA?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "从算力到产线，2026人工智能产业大会上的“山东适配度”",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tWHVzLXMzTDJobDZPSGcxcmNUeS1vYlpMM2NHTjFPRndhbWFsNHpiSHdBQ3kyWkJBMzZJdjBRQm1SSzRvV3Q3Y3l",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "拧紧智能体支付应用“安全阀”",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53Vk1haE5NQmctSUFyTEJFTnd0RnhLbWE0MXctbnpCSEJObUt0RlFfeWhlMFFrb24ySTB6RGpqNlo5dTEyNDlidnA",
-      "source_url": "https://news.sina.com.cn",
-      "source": "新浪新闻_手机新浪网"
-    },
-    {
-      "title": "泼冷水！英伟达RTX Spark确实强，但不是Agent理想方案|Windows PC|笔记本电脑|",
-      "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNN0xlVlZoQ0NSVDVFRnM0US02dG5WMTVrYi1fV0RzemFLcHhZX3RWTzc1dHpnSDF4RjR3NWhuajNDeEVtcWZhOTA",
+      "title": "大模型在屏幕上连续输出了近50组“我是个耻辱”的文字……美AI巨头被爆猛料！",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcFpuNGtmeGxMRklhT3FjVXJIemtIWXRnTVBsSXdTUXFiUXQ1eUlGV2FTMnkyOWpZX21VQVF2ZjBZaWJoVENWX1l",
       "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
+      "source": "新浪财经"
+    },
+    {
+      "title": "AI帮你规划十一假期，但别让算法替你定义“怎么花钱”",
+      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNbDdqZUxGX3VZSWZkV3FEdEhUNmNHV1RRZDNhN3FEWGpfeEpXUEdKeEZoUl8tNHdUMmx0UVF0RE1DZE9QbFlYRTd",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "AIIC2026丨安全治理论坛开启报名，共探AI治理新路径",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkd1U2M1aWthOXZ1ODNYWktabzdRYWIyVmN6Z0dQS3RhMXVwQWczT21qOUZqQWZVX1JLcVM3YzVEQVZaNU1XeG9",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "前沿科技产品、趣味人工智能互动齐聚，上海静安首个AI主题市集开进永源路",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ITVlaU21WNTZMRU9BNGwwcGdPZE04bHdjRjV6N1J0emhFVk9fQnB2Ui1XVHI2eHpFU2pLdVFGOVh4ZTk5RmRCMk5",
+      "source_url": "http://www.jingjiribao.cn",
+      "source": "jingjiribao.cn"
+    },
+    {
+      "title": "AI“香港仔”来了：识港人港语，懂市井民生",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpSDdIcnYxOWdXMS04Q0JWXy12b3p5N25MYzJLeTVaX1RTUUYwZ0ZEckdGSmd6aGR4ZE9nekd2R1BNOXN4UEt1SGd",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "【数智周报】中国大模型首次进入OpenAI企业付费结算体系；AMD斥资82亿美元收购李飞飞世界模型公",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qQnQzckVfTzMyUzg4a3VvUmtwRjlfU0s4R2tUNVNvWXluUXlIZHN1ZXdRdXJyblNZcXVvaUNwMDRkRHd2MEg4RU5",
+      "source_url": "https://www.ichaoqi.com",
+      "source": "潮起网"
     }
   ]
 }

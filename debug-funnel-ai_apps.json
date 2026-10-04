@@ -1,37 +1,45 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 19,
-    "trusted": 3,
+    "raw_dedup_junk": 26,
+    "trusted": 6,
     "non_trusted_top": {
       "pasqualepillitteri.it": 6,
-      "hurun.net": 2,
-      "ttplus.cn": 1,
-      "cnbeta.com.tw": 1,
-      "pchome.net": 1,
-      "arch-web.com.tw": 1,
-      "ichaoqi.com": 1,
-      "chinapress.com.my": 1,
-      "sina.cn": 1,
-      "icswb.com": 1
+      "sina.cn": 5,
+      "80aj.com": 2,
+      "newswav.com": 1,
+      "hk01.com": 1,
+      "vietnam.vn": 1,
+      "eeo.com.cn": 1,
+      "fxbaogao.com": 1,
+      "yellow.com": 1,
+      "cnbeta.com.tw": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 3,
+    "fresh1_24h": 6,
+    "page_fresh": 5,
     "relaxed_72h": 0,
-    "final": 3,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "中大纺织城一则档口招聘启事走红社交平台 纺织商圈招工 会用AI成加分项",
-      "d": "eastmoney.com"
+      "t": "铁智擎，起风了！",
+      "d": "sohu.com"
     },
     {
-      "t": "AI产业发展需平衡快慢节奏 底层投入与场景渗透并重",
+      "t": "助力厦企“数改智转”提质升级 “央媒话厦门”聚焦前沿AI赋能千行百业",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "OpenAI DevDay 2026：AI 不再只是“回答问题”，而是开始“接管",
+      "d": "sohu.com"
+    },
+    {
+      "t": "AI办公终局推演：从效率工具到数智员工，责任守恒是关键",
       "d": "huxiu.com"
     },
     {
-      "t": "Personal Agent与Coding Agent的本质区别：主动行动与To",
+      "t": "李飞飞创办的World Labs被AMD以82亿美元收购",
       "d": "huxiu.com"
     }
   ]

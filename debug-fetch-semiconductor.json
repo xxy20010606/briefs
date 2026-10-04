@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 32,
+  "total": 24,
   "samples": [
     {
-      "title": "报告：中共囤积ASML光刻机美应全面禁出口＊ 阿波罗新闻网",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EZjg3RmY2N2V6NGMwN1pSejZ3Qndzb2Y2X2oxbHlaZDB2UzZFaS1XclRnemEzQ0JjZVAwMndrRXU0cEJCbFQzRnQ",
-      "source_url": "https://www.aboluowang.com",
-      "source": "aboluowang.com"
+      "title": "光刻掩膜版，奔向12英寸",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jVURKQ1A3SFdBbGFxcm4yNjF4d1JpMm1QYnNtV1VobXdMbk9HcllqdzlvV3FodUpMT0dvSFJkRmlEQjB5V1gwS1d",
+      "source_url": "https://news.10jqka.com.cn",
+      "source": "同花顺"
     },
     {
-      "title": "台积电探讨与马斯克 Terafab 项目开展合作",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaEpjdDMxWUdrTmxZNFRzT1I2ZWdCZEM3X1RMajlndzZVTGtoT2lrVWdGc2VJbDFIRGlpdXBWb2dVTy1CYTFiTnQ",
+      "title": "世界先进与恩智浦考虑在新加坡建设第二座12英寸芯片厂",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfS0Y2SzZIMjA1NXZFb0dLS0x1S1pXbzF2aDZXZ3NpSHdYZWtjby1IMDFtdnFmQ2hMRFpCdHpRQmR1Wld5eGJkRGN",
+      "source_url": "https://www.wedoany.com",
+      "source": "维度网"
+    },
+    {
+      "title": "余承东：华为已量产381款τ芯片 覆盖手机、AI、智能汽车等领域",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVNwRENWdDVSZFk4aFhSYUlyR20wOUZTLUxrTE54U0tfcWJ0N0dQYTlvaDYwMGNjRlkwbXdCUGZ1Q0N5NF8wNVV",
       "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "source": "sohu.com"
     },
     {
-      "title": "台积电拟携手马斯克 推动美国先进半导体制造",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNY0otQnRCNGwwQlQwQmY5QXQxQ2FxSl9sdWVuZTNfQURoQW5BTmE0MjhPc2FBdFNlZnNrUDZmc1NoQlFpOXhnZEU",
-      "source_url": "https://www.klsescreener.com",
-      "source": "klsescreener.com"
+      "title": "余承东：华为半导体已在手机、AI、智能汽车等领域成功设计并量产381款τ芯片",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02OThjNjNRbE1wbkVpRHZXRndMU0YtTlNXMjFyQkNjMlhaV1VhWmRrbUprNWNRUm1WbTdkckU3TUljdDB3RXVwWW5",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "长江存储粤芯半导体规模领跑A股排队IPO十大半导体企业",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VQk5pVHBsSUNGWTJqWnNGVFBqX2tsVlFiY3JMSHpNLUpjQ2Nqdm85dWRKVkk1dXdwaURGdnRaV1BCU0VVMTc1YlF",
-      "source_url": "https://finance.ifeng.com",
-      "source": "凤凰网财经"
+      "title": "AI耳机蓄势，芯片厂商待发",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUWlNRT0ZtNk5veE9mUmVhRy02QnFibGhQeFowRnQzZjRmak05VklxZ2VHaXZoYnJhQTREMnlvYUtZeHdibGV0TTJ",
+      "source_url": "https://user.guancha.cn",
+      "source": "风闻"
     },
     {
-      "title": "黄仁勋执锹现身！英伟达投资的磷化铟工厂奠基了",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VYkhxSVo1czFHMFV0TWdHT3pnU01Hd09mNGNqR3hJcVNiRnV1LXhoNGhLRDg5R3NrczF3RkVsMnZhNFc0Vy0wcA?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUlBkNVdaVGxNUG1fbEJ0YjhMYjZHZ3hleHY2aXI3MkRsNTNqVlZyWFJ6ZUMxcTBUT3Qyb3JRblZqTEdudzlWbQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "越南和日本促进芯片试点生产和越南语人工智能开发方面的合作。",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa09IQlVvdGI5OUhiQ3gzWXkyLTNiLVdVNk5xS2c0YWhVZ1RFQ1BaNkp5SjN1ZEZJRjBPV1lDby0xWTVvN3c0LWI",
+      "source_url": "https://www.vietnam.vn",
+      "source": "Vietnam.vn"
     }
   ]
 }

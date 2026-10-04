@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 19,
+  "total": 28,
   "samples": [
     {
-      "title": "中大纺织城一则档口招聘启事走红社交平台 纺织商圈招工 会用AI成加分项",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tYm4zTnF0bjFHQVpBLU4zTG9DX2d3eWtwMExTb1hZWDVWX0cxRXYxbmRZeHBfekZtRExxUFRvd2hldUVZQTBNM3d",
-      "source_url": "https://emwap.eastmoney.com",
-      "source": "emwap.eastmoney.com"
-    },
-    {
-      "title": "谷歌收紧 Gemini, 10 月 9 日起免费用户失去 Flash, AI Plus 失去 Pro",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFJsZXYxemNiNUlwSVNDWXY4eEo1bFdSVjRueVllVnVkVmdaZmZMaGozZ3pEb0tWTF9DeDdzN1JNV3FKQ3BhNVZ",
+      "title": "亚利桑那州撤销量刑判决，庭审播放受害人AI视频，定罪维持",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaU05djVDeEZwLTNjcFRPRFVHcjZkNG1pdEhwRGcxUlIxTi1EdFJrYWdrVUd5WHZOWlJ3WHc4SmFSbzNxbXFIMmY",
       "source_url": "https://pasqualepillitteri.it",
       "source": "Pasquale Pillitteri"
     },
     {
-      "title": "新巴黎人官网网址启动“巅峰对决”赛季，以AI模型赋能开发者，赢取万元奖金",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94WmlxdUMxUkYzSERzbktTeDFZRTVwZ3R4MlFfRDFWblZCMm1TTU9vTVg3VGFISzhKdjlPNzFsdVJ6Q211Mk5UNQ?",
-      "source_url": "https://www.ttplus.cn",
-      "source": "体坛"
-    },
-    {
-      "title": "ChatGPT正在变成“软件入口” 用户以后可能不再主动寻找App",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3ZkdrTDdDNzVwN1RNT3J0akxDQzQ1TDA2YUVlamRRUF9wQ09JdXJSLXZqbUdaT0VuWHA0Q093MmtIdGxKQVphMGk",
-      "source_url": "https://www.cnbeta.com.tw",
-      "source": "cnBeta.COM"
-    },
-    {
-      "title": "谷歌Viewer上架Play：定位Googlebook首个全能媒体编辑应用",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40andCWEhlRDBuMWJYZHpGV2EyeFhFUEkydE9Ub0Q5T2Q1WXlTOTdMcVB2YzJUNWEwUHNubHdIb0lOcGhfelV3Uy1",
-      "source_url": "https://article.pchome.net",
-      "source": "article.pchome.net"
-    },
-    {
-      "title": "Claude Opus 5.5 登陆 Antigravity,但仅限付费 Pro 和 Ultra 用",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcjNvZGJoTXpOOFIxdlZBRjhHRnItcXBrVjNPSmVuenBiMDBHLTFGT2xhLWdhLXpYdkJKNUhTVjJYQVotRGE3WUI",
+      "title": "Aleph Alpha 发布 Kolibri-1，780亿参数开放权重模型，上下文达100万",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmx0UXpKWlRPOUZtcS1aVVlwRGhDLVBsdWpheGtDaHBSaGxQS1VDLWxCaWF3dDlNV0hZbFNWdF9ya3hTVDJxb3F",
       "source_url": "https://pasqualepillitteri.it",
       "source": "Pasquale Pillitteri"
+    },
+    {
+      "title": "ChatGPT Wallet 是 OpenAI dots 缺少的那块拼图",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2U4cmlkQXAzdk92NmhUMUlaZ3pXTmNHTVZzNVA5YU9aTkJiZV80cGZSVUduWlJSQjFvN2huU3RiVTQ5TXg2M3d",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
+    },
+    {
+      "title": "如何在 Mac 和 Windows 上本地安装 uncensored 模型",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnlYYlc4ZTNCU1ROcTdQdzgxTjNYT3pqMXF1THNIQ3NyV3d0eTBua3N6Mi1na2NPY24tdDNvNFFRZ2c1c08yLUp",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
+    },
+    {
+      "title": "免费开源版 dots 来了, OpenDots 上线, 但模型仍要付费",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNVJXbFVDeTU2T1FiZVEtMWtzTjVObkc1RW5VaG81TFNtRkdFV1FlbEpMR0plZTdmeVJiSFVFUXNkdC1aOWQ5b1F",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
+    },
+    {
+      "title": "铁智擎，起风了！",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaEFnMlg0RkJGLTRwcmdRVkJ0ZkxmMy1HXzc1bm9KQmMxSVd4Si13d0JCVGZRTERNSHhFbW1LY2N6Rnp6c2tSOXV",
+      "source_url": "https://m.sohu.com",
+      "source": "sohu.com"
     }
   ]
 }

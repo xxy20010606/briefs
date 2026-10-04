@@ -1,51 +1,34 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 8,
+    "raw_dedup_junk": 28,
+    "trusted": 2,
     "non_trusted_top": {
-      "autohome.com.cn": 10,
-      "sina.com.cn": 7,
-      "sina.cn": 5,
+      "sina.cn": 8,
+      "sina.com.cn": 3,
+      "autohome.com.cn": 3,
+      "seetao.com": 2,
       "indexbox.io": 2,
-      "wedoany.com": 1,
-      "vietnam.vn": 1,
-      "yeeyi.com": 1
+      "ebiotrade.com": 1,
+      "qinghai.gov.cn": 1,
+      "news18a.com": 1,
+      "yeeyi.com": 1,
+      "vietnam.vn": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 3,
-    "relaxed_72h": 5,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 2,
+    "page_fresh": 2,
+    "relaxed_72h": 0,
+    "final": 2,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "比风电更稳，比水电更猛，中国正解锁地球上1种“隐藏能源”！",
+      "t": "元鼎证券观察：新能源产业链出现新信号，四季度制造业景气值得关注",
       "d": "163.com"
     },
     {
-      "t": "扒一扒思格新能源（06656.HK）高管及个人简历",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "电力电子顶级985、211毕业生就业去了哪儿？",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "焦点访谈｜新征程新长征 我国新能源走出独立自主的发展道路",
-      "d": "cctv.com"
-    },
-    {
-      "t": "131.25MW/525MWh，新疆昌吉储能电站EPC招标",
+      "t": "零碳转型 港口“各显身手”",
       "d": "sohu.com"
-    },
-    {
-      "t": "比亚迪今年前9月销售下降4%，全球电动车王座还能坐多久？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "盖世周报 | 吉利入股蔚来能源； 华为与赛力斯敲定新五年合作",
-      "d": "gasgoo.com"
     }
   ]
 }

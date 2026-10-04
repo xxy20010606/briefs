@@ -1,42 +1,42 @@
 {
   "type": "entertainment",
-  "total": 43,
+  "total": 48,
   "samples": [
+    {
+      "title": "本以为是烂片，结果上映就票房大卖，小沈阳又把喜剧片拍成了爆款！",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZmNLdnpTRG9mNkpaV2dtT3d4LXoydkdreGdVY2hwcmhCY3NkRUVfZ1kxSzRMclN4X1RlRjI5UTNOakdTOEVRbE5",
+      "source_url": "https://m.sohu.com",
+      "source": "sohu.com"
+    },
+    {
+      "title": "电影《小猪佩奇·完美假期》总票房破4000万",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVBRSE5XYVpUaVc0a09ZUmd5cUhTVDRreWVudmFQaEM1NEE3ejl5c1BpUktTeXBFdzhkQTMxdkNuTDIyc3JDQkx",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "2026年度电影总票房突破300亿！“电影+”新玩法助力观影热潮|IMAX|影厅|影片|特效|影院_",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WLXZGQW8tVDBpdUdwNFVhbTg4NWRLelcxQkVCa1dBUnFUcnFUY002eDRKeXRHc2gzWlRJa0czVGhyQlRPSlNFaDN",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "上映3天逆跌68万，轻松轰下两亿票房后，陈思诚也没想到国庆档一个能打的都没有-yeeyi",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CT1E2SVRuZXo4bjNKb0pGTmJjN1dSczdBU2RBNktOa2lsYU9DM3hVWnU5M3VUUFp5V0lSN0FmR19ENi0zX3VxcUI",
+      "source_url": "https://www.yeeyi.com",
+      "source": "yeeyi"
+    },
+    {
+      "title": "3天破5亿元，国庆档考验才刚开始",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdk5xZjZHMElxYnkzZWZJZW1fbVZWYU0xdEpGakJoUmFtcFg1UjVsOEZ0akxjX2puN1plT2dwQ0RVa2xwZWt1ZkF",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
     {
       "title": "小沈阳夫妇赌上家底拍戏，预估10万票房却狂揽3.28亿，沈春阳首执导筒逆袭国庆档，全网破防",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zM1FHaUlTRVNSMXBZV0RqemVqVEFYR3VubVR4X2xpVDRSc0pqSlZDQkljNl9lajhzMHlMYmlmbU8ySjlnODBRM0F",
       "source_url": "https://yule.360.com",
       "source": "360娱乐"
-    },
-    {
-      "title": "电影《八仙！》上映三天票房超3亿元 只要做对的事，谁说凡人不能成仙",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1lsWVl2dGhFNU9PRW1ZVkVoR2Z0ZmstUDZaVjZGZ0xlaWxNalhFSGZyTm4tLUNFMW1SSUt1ekxIUkhSb1p4aUl",
-      "source_url": "https://www.52hrtt.com",
-      "source": "华人头条"
-    },
-    {
-      "title": "2026年中国电影年度票房突破300亿元",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0xIWFItOHk4YjNaTy10TDVLNXNiSEJSdmVMY04zeDJJcWtnUEZ0SklYMEZ3Q3NRcW9LVy1mMDNyOFpXUmVmbWh",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
-    },
-    {
-      "title": "仅上映1天，就拿下票房第一，不愧是你们盼了一整年的黑马片！",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LTTdQdDFYOEdHV3J2RzlTZWIyU1RGNnN4LWZjWTZVN0ljYkhJcjBNbTVTYnptQnJmeVhaa3B1TUd1YU1femZON05",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "北美夺冠，海外票房破13.4亿！陈思诚国庆档冠军的对手来了？",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR1B0U3BkYlFQY2pFT3BkOGtZRHJ4bVVPYTc3OTlKSEVLTm12MjF0U1JjUzdwQ293OV9NdGp0c0dfNGg2NjVoWTF",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "小沈阳夫妇逆袭成国庆档票房黑马：口碑发酵，网友直呼没想到",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1FqNHdUaC1FZVk1THFsamdncV93VWpubU5pd2hFTml3emFIUHo3SGs5dWduVFk1VnhJaGJNSmluX2RBQTg0T2t",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
     }
   ]
 }
