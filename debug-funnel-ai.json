@@ -1,54 +1,40 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 40,
-    "trusted": 11,
+    "raw_dedup_junk": 20,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "sina.com.cn": 8,
-      "ichaoqi.com": 2,
-      "csdn.net": 2,
-      "jingjiribao.cn": 1,
-      "wenxuecity.com": 1,
-      "nwsuaf.edu.cn": 1,
-      "stockstar.com": 1,
-      "chosun.com": 1,
-      "53ai.com": 1
+      "sina.com.cn": 4,
+      "sina.cn": 3,
+      "guanhai.com.cn": 1,
+      "stheadline.com": 1,
+      "ikanchai.com": 1,
+      "creaders.net": 1,
+      "ichaoqi.com": 1,
+      "zaochenbao.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 8,
+    "fresh1_24h": 7,
+    "page_fresh": 4,
     "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "final": 4,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "香港首研大模型HKGAI：懂本土暖民生，拟启出海战略",
+      "t": "中国AI算力城市榜洗牌：北京继续第一，深圳反超上海杀回前三",
       "d": "sohu.com"
     },
     {
-      "t": "都在接DeepSeek、WorkBuddy，券商AI最终靠什么拉开差距？",
+      "t": "收权、换将、重记账：阿里AI三年重组实录",
+      "d": "sohu.com"
+    },
+    {
+      "t": "Jev 之后，中国团队开始深挖 AI 的「直觉层」",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "推理支出2026年首超训练：\"Token工厂\"崛起 AI基础设施投资逻辑生变｜深",
       "d": "cls.cn"
-    },
-    {
-      "t": "助力厦企“数改智转”提质升级 “央媒话厦门”聚焦前沿AI赋能千行百业",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "AI驱动，打造绿色建筑“好房子”",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "庞 华 武嘉龙 朱玉廷︱从智能鸿沟到普惠共享：大语言模型驱动下全球南方传播主体性",
-      "d": "sohu.com"
-    },
-    {
-      "t": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon 上",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "OpenAI突然收购，500万人Codex，永不下线",
-      "d": "36kr.com"
     }
   ]
 }

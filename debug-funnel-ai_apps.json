@@ -1,46 +1,49 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 26,
-    "trusted": 6,
+    "raw_dedup_junk": 30,
+    "trusted": 7,
     "non_trusted_top": {
-      "pasqualepillitteri.it": 6,
-      "sina.cn": 5,
-      "80aj.com": 2,
-      "newswav.com": 1,
-      "hk01.com": 1,
-      "vietnam.vn": 1,
-      "eeo.com.cn": 1,
-      "fxbaogao.com": 1,
+      "pasqualepillitteri.it": 8,
+      "sina.com.cn": 4,
+      "sina.cn": 4,
+      "unite.ai": 2,
+      "x.com": 1,
+      "enanyang.my": 1,
       "yellow.com": 1,
-      "cnbeta.com.tw": 1
+      "chinapress.com.my": 1,
+      "ttplus.cn": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 5,
-    "relaxed_72h": 0,
-    "final": 5,
+    "fresh1_24h": 7,
+    "page_fresh": 4,
+    "relaxed_72h": 2,
+    "final": 6,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "铁智擎，起风了！",
+      "t": "鸟搞逼逼视频官方版-鸟搞逼逼视频2026最新版v.110.59.892.452 ",
+      "d": "tmtpost.com"
+    },
+    {
+      "t": "星连资本被投企业 Kando AI 完成数千万元种子轮融资，要做“决策领域的Cu",
+      "d": "36kr.com"
+    },
+    {
+      "t": "推理支出2026年首超训练：\"Token工厂\"崛起 AI基础设施投资逻辑生变｜深",
+      "d": "cls.cn"
+    },
+    {
+      "t": "阿里，把AI交给了90后",
+      "d": "36kr.com"
+    },
+    {
+      "t": "Meta新AI代理Muse登顶榜首，被指数据收集远超同行",
       "d": "sohu.com"
     },
     {
-      "t": "助力厦企“数改智转”提质升级 “央媒话厦门”聚焦前沿AI赋能千行百业",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "OpenAI DevDay 2026：AI 不再只是“回答问题”，而是开始“接管",
+      "t": "4个12岁男生拿下一等奖，48小时，216名青年创客在学军中学“造”了什么？",
       "d": "sohu.com"
-    },
-    {
-      "t": "AI办公终局推演：从效率工具到数智员工，责任守恒是关键",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "李飞飞创办的World Labs被AMD以82亿美元收购",
-      "d": "huxiu.com"
     }
   ]
 }

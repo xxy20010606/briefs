@@ -1,50 +1,34 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 46,
-    "trusted": 10,
+    "raw_dedup_junk": 29,
+    "trusted": 6,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "moomoo.com": 7,
-      "stockstar.com": 5,
+      "sina.com.cn": 12,
       "sina.cn": 3,
-      "tradingkey.com": 3,
-      "eastmoney.com": 2,
-      "panewslab.com": 1,
-      "kuai.media": 1,
-      "com.sg": 1,
-      "stheadline.com": 1
+      "stockstar.com": 1,
+      "jkn.co.kr": 1,
+      "fx168news.com": 1,
+      "eastmoney.com": 1,
+      "futunn.com": 1,
+      "on.cc": 1,
+      "moomoo.com": 1,
+      "tradingkey.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 6,
-    "relaxed_72h": 0,
-    "final": 6,
+    "fresh1_24h": 5,
+    "page_fresh": 0,
+    "relaxed_72h": 2,
+    "final": 2,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "国信证券：9月以来外资流出港股互联网规模靠前_市场分析",
+      "t": "金茂源环保(06805.HK)10月2日耗资142.58万港元回购49万股_股市",
       "d": "cnfol.com"
     },
     {
-      "t": "招商基金10只主动权益基金9月跌超10% 两基金经理霸榜_股市聚焦_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "9月机构调研股票数量超600只 朱少醒、邓晓峰等明星基金经理盯上这些股",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "最新，朱少醒、邓晓峰等明星基金经理盯上这些股",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "江沐洋：10.4国庆后现货黄金白银走势会涨吗，下周行情解读",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "电子牛股频出，怎会没有规律可循？",
-      "d": "cnfol.com"
+      "t": "终于有人把股市说清楚了:散户的钱到底都被谁赚走了？太透彻了",
+      "d": "sohu.com"
     }
   ]
 }

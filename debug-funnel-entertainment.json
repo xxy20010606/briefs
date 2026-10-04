@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 48,
-    "trusted": 12,
+    "raw_dedup_junk": 60,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.cn": 9,
+      "sina.cn": 8,
+      "hupu.com": 5,
+      "360.com": 4,
       "sina.com.cn": 4,
-      "eeo.com.cn": 2,
-      "china.com": 2,
+      "yzwb.net": 3,
       "bjd.com.cn": 2,
-      "yeeyi.com": 1,
-      "360.com": 1,
-      "52hrtt.com": 1,
-      "tgbus.com": 1,
-      "pchome.net": 1
+      "mediafine.co.kr": 1,
+      "rediandf.com": 1,
+      "shobserver.cn": 1,
+      "china.com": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 12,
-    "relaxed_72h": 0,
+    "fresh1_24h": 13,
+    "page_fresh": 0,
+    "relaxed_72h": 17,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "本以为是烂片，结果上映就票房大卖，小沈阳又把喜剧片拍成了爆款！",
-      "d": "sohu.com"
-    },
-    {
-      "t": "2026电竞显示器品牌排行榜：技术派领跑高端市场",
-      "d": "sohu.com"
-    },
-    {
-      "t": "“从长江到亚马逊”音乐会在巴西圣保罗收官演出",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "国庆档票房破6亿！“电影+”激发消费新增量",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "“规矩不能坏” 刷屏背后：AI 正在拆掉内容产业的 “代议制”",
+      "t": "《敦煌英雄》上映遇冷，联合出品方华文映像私募爆雷百亿",
       "d": "huxiu.com"
     },
     {
-      "t": "首届阿斯塔纳人工智能电影节落幕 中国创作者团队获“最佳故事”奖",
+      "t": "《牛来》第二次延期上映，盈利超2100万，但导演格局太小了",
+      "d": "sohu.com"
+    },
+    {
+      "t": "《什么意思夫妇》票房突破1.47亿元，成国庆档黑马",
+      "d": "sohu.com"
+    },
+    {
+      "t": "CICF×AGF广州动漫游戏盛典在穗开幕",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "突然火了！小沈阳夫妇电影票房逆袭，冲上热搜",
-      "d": "stcn.com"
+      "t": "中外剧作家在沪谈AI：可辅助创作，难以替代舞台艺术",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "时隔九年重返内地大银幕，《生化危机：爆发夜》游改真人电影明日上映",
+      "d": "ithome.com"
+    },
+    {
+      "t": "《山歌万里》音乐会深圳首演圆满落幕",
+      "d": "people.com.cn"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 24,
+  "total": 29,
   "samples": [
     {
-      "title": "光刻掩膜版，奔向12英寸",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jVURKQ1A3SFdBbGFxcm4yNjF4d1JpMm1QYnNtV1VobXdMbk9HcllqdzlvV3FodUpMT0dvSFJkRmlEQjB5V1gwS1d",
+      "title": "华为首款“韬定律逻辑折叠”芯片海思麒麟9050 Pro裸片显微照首曝：晶体管密度提升55%而面积小于",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KOHc3djBTWTRqSUFaVlI4eEJ0bUE5dVVoNkZ2amNZTE9TdUt5WFh4MllBUk8zelZxVUczS3FfUVRZN1loUlNRa3R",
+      "source_url": "https://www.yeeyi.com",
+      "source": "yeeyi.com"
+    },
+    {
+      "title": "亚马逊探索“表外”融资：拟将80亿美元英伟达芯片剥离至SPV再租回",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81OU5aQ0Nrei1IS1pnbl9xam9KdngtcjVKVTR4Sk44d0dKY0hESFh6RjZRS1I5dFZtWWlBTFJKV3RrQXhuN1U3MQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "新“封锁”来临 中国疯狂囤货",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vSFJHSWFWeEs2ZnppZUN0WlFTckN2d2RySGdSbzhjcXQ4UzRmTjZkaFJNN0VNeFJoOEwtVTJGcFgtTHhYNjJvZl9",
+      "source_url": "https://news.creaders.net",
+      "source": "焦点新闻"
+    },
+    {
+      "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94dWRHSUNMSGEyczRSS3ZHQ3JlMFY3cVRTcmpadkpmY0ZQQmRSb19rS1lzMlJaaTBqMXYyWlJHVVFHaTFCUGxTNQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "华为余承东不藏了！381款τ芯片公开，麒麟9050逻辑折叠揭秘",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04cnZqQXp1azdiSXlKaHcxR01ET1h5Y1B3Q01ZcDg0a3ZLY3l2MFU3VV9yVDZHQm9PMWJ3TVNMM1Y3UHpfVWxrcDl",
       "source_url": "https://news.10jqka.com.cn",
       "source": "同花顺"
     },
     {
-      "title": "世界先进与恩智浦考虑在新加坡建设第二座12英寸芯片厂",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfS0Y2SzZIMjA1NXZFb0dLS0x1S1pXbzF2aDZXZ3NpSHdYZWtjby1IMDFtdnFmQ2hMRFpCdHpRQmR1Wld5eGJkRGN",
-      "source_url": "https://www.wedoany.com",
-      "source": "维度网"
-    },
-    {
-      "title": "余承东：华为已量产381款τ芯片 覆盖手机、AI、智能汽车等领域",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVNwRENWdDVSZFk4aFhSYUlyR20wOUZTLUxrTE54U0tfcWJ0N0dQYTlvaDYwMGNjRlkwbXdCUGZ1Q0N5NF8wNVV",
-      "source_url": "https://m.sohu.com",
-      "source": "sohu.com"
-    },
-    {
-      "title": "余承东：华为半导体已在手机、AI、智能汽车等领域成功设计并量产381款τ芯片",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02OThjNjNRbE1wbkVpRHZXRndMU0YtTlNXMjFyQkNjMlhaV1VhWmRrbUprNWNRUm1WbTdkckU3TUljdDB3RXVwWW5",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "AI耳机蓄势，芯片厂商待发",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUWlNRT0ZtNk5veE9mUmVhRy02QnFibGhQeFowRnQzZjRmak05VklxZ2VHaXZoYnJhQTREMnlvYUtZeHdibGV0TTJ",
-      "source_url": "https://user.guancha.cn",
-      "source": "风闻"
-    },
-    {
-      "title": "越南和日本促进芯片试点生产和越南语人工智能开发方面的合作。",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa09IQlVvdGI5OUhiQ3gzWXkyLTNiLVdVNk5xS2c0YWhVZ1RFQ1BaNkp5SjN1ZEZJRjBPV1lDby0xWTVvN3c0LWI",
-      "source_url": "https://www.vietnam.vn",
-      "source": "Vietnam.vn"
+      "title": "報告：中共囤積DUV光刻機 美應全面禁出口",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZOUlUVGlzSFVLYkQ3WDYtRU1YbWlxQTcwNmREb1haNzZORGhKR09BdEF6NWt0bS1heU9EVXBJblFIS1V0Rkd2dEJ",
+      "source_url": "https://www.ntdtv.com",
+      "source": "新唐人電視台"
     }
   ]
 }
