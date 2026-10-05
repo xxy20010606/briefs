@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 30,
+  "total": 29,
   "samples": [
     {
-      "title": "OSIRIS AI LIVE，引发争议的开源 OSINT 仪表盘",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVRQUGhmSTcwS19ZbEtvU3d1Qml5XzdzZzc5YVBueU1YMkJzZFlycThNemxvekdvR21TSFNlYXFqd2dXd2s3RHp",
+      "title": "Qwen-Image-2.1无审查版来了，但并未移除任何过滤器",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SYzRnNEw0TE04UmJJWFBXRjI0TE91aWRBT0VmRW1McC1hc3hoak5KLUdVbmtBYlFZM1ZxR2laMktlSS1iTUc1R2V",
       "source_url": "https://pasqualepillitteri.it",
       "source": "Pasquale Pillitteri"
     },
     {
-      "title": "欧盟自12月2日起禁止脱衣类AI应用，委员会确认不设过渡期",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPclFEbGozOU5SS2F3MVdBQ0FBYlJqVjhDVEUxbUJITldYcHFWdGxlV2lJeDlFeDR5TGpiSWdxWDFOemJaUHVKYTI",
+      "title": "Gemini 测试 Mac 完全访问权限，苹果宣布收紧",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHlHX19FT05sVXBiZEswTC1ROHVVNVZUNndsN19YZGprUkljVWlhMVNOWUw4Y3pGaWctQmlsOERpclZEV3FnSDh",
       "source_url": "https://pasqualepillitteri.it",
       "source": "Pasquale Pillitteri"
     },
     {
-      "title": "涂黑不当，谷歌林肯数据中心的用水用电数据被泄露",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVi1teEhsOFFpVW9fT0t3UGhZTW81c3ZfMTFibU1ESzhwT0VMRnh1WXZkVTZyWGtyM3dPQjd0NkNmekphUVhqOGp",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "明星背的奢侈品同款怎么查？3步法+避坑指南+FAQ|小红书|淘宝|关键词|APP|AI_新浪新闻",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbExSWmFmMnpyS014UWQ2RkhRbTFUV2g3NXpncnhFMnFxcXpZX0dXLUE4MTFPVy1GZnlMV3RIcHlFWjZYNUs1OGN",
-      "source_url": "https://cj.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "善用人工智能技术赋能红色文化传播",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BSC1qMG9md3VHcEJHTEs5MlYtR25sRmMwZGUxOUlMRUtaVHp4Q1o2VlBWRTlYZWdpWHM5a2Uzd1hBeDVtMWxlTkp",
+      "title": "美国等17国支持《京都愿景》：扩大科研AI与算力使用，推动科研资助改革",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMVB0OWwwNW54WDVxaTUxeXRUYU0zY2NyT0stb3gzSjhNbWlWcGpHV0J0b1BidVZIbzM2QVpMMHBtT1M2aGY1Zk4",
       "source_url": "https://finance.sina.cn",
       "source": "新浪财经"
     },
     {
-      "title": "特朗普宣布由四位官员领导的超级智能部队",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON3FOR1F2QXlBTHFWTW11MFhPOEVVWUhyOFdQRkptOF9XZXh5OFp3cTVHSjJlMWt6LUNLRlNETG1ncWo2UnZOSkN",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "“全球大模型第一股”，大涨",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TcHJjUHV2NzJqWllzOHBlQ09vM1hfcUN5MUoyWWpGa2htS1l4MnFnZXV1X0FCaF9makJ2Nm5wSWhfQlVsWkhtTzF",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "沪滇协作上新 上海“最潮”老年AI课开进云南师宗",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPRlBRSGFGaTM2M1VPMlJ2MXpGU0o2TmpqSnJwWVBxaElFRlIyNnlPVjFEQmhZSkgxVkhDeXhGZ3JyNEptOUVaemV",
+      "source_url": "https://www.shyp.gov.cn",
+      "source": "shyp.gov.cn"
+    },
+    {
+      "title": "大语言模型时代数学建模的思考｜AI for Math读书会第二季第2期",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vckIyWlNJSTIza1VsNmpOdnliNUxVbzdYU2tJekxkMi0xNHNkMG5fT05MZFF6c1V6d04yMUJacHVvNC1ScHZFSg?",
+      "source_url": "https://hub.baai.ac.cn",
+      "source": "hub.baai.ac.cn"
     }
   ]
 }

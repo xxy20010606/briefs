@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 29,
-    "trusted": 14,
+    "raw_dedup_junk": 41,
+    "trusted": 20,
     "non_trusted_top": {
       "tradingkey.com": 3,
-      "chosun.com": 3,
-      "yeeyi.com": 1,
-      "creaders.net": 1,
-      "ntdtv.com": 1,
-      "c114.net.cn": 1,
-      "aboluowang.com": 1,
-      "china.com": 1,
-      "sina.cn": 1,
-      "sina.com.cn": 1
+      "sina.cn": 2,
+      "guandian.cn": 2,
+      "sina.com.cn": 1,
+      "guangming.com.my": 1,
+      "klsescreener.com": 1,
+      "autohome.com.cn": 1,
+      "seehua.com": 1,
+      "cacnews.ca": 1,
+      "moomoo.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 1,
-    "relaxed_72h": 9,
+    "fresh1_24h": 19,
+    "page_fresh": 16,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "【光电集成】芯片半导体种类大汇总",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "亚马逊探索“表外”融资：拟将80亿美元英伟达芯片剥离至SPV再租回",
-      "d": "cls.cn"
-    },
-    {
-      "t": "华为余承东不藏了！381款τ芯片公开，麒麟9050逻辑折叠揭秘",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "从造船到半导体，韩国专家早已清楚：中国已在核心技术上全面超越",
+      "t": "俄罗斯豪掷千亿入股中国芯片厂，不为控制权，它想要什么",
       "d": "sohu.com"
     },
     {
-      "t": "新华社记者采访深圳4家四位机器人企业创始人，发现一个有意思的现象；余承东：华为已",
+      "t": "涨价利好催化全球半导体情绪回潮 港股芯片股再度反弹走强",
       "d": "sohu.com"
     },
     {
-      "t": "国庆特辑 国产半导体设备IPO：从龙头再融资到撤 拆解五大核心风险",
+      "t": "麒麟9050 Pro拆开后完整展示韬定律：华为竟用2颗相同芯垂直堆叠而成",
       "d": "ifeng.com"
     },
     {
-      "t": "余承东称华为已量产381款τ芯片，覆盖手机、AI、智能汽车等领域",
-      "d": "sohu.com"
+      "t": "房地产、创新药相关ETF涨超20%，而买芯片的却已哭晕",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "别光顾着玩！全球股市两极大分化，节后基金怎么走？",
+      "d": "stcn.com"
+    },
+    {
+      "t": "西安奕材、沪硅、中欣晶圆、金瑞泓、中环领先、合晶、超硅、晶升股份等齐聚【第九届半",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "几毛钱，撑得起安全芯片的未来吗？",
+      "d": "thepaper.cn"
     }
   ]
 }

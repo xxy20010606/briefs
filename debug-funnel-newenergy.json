@@ -2,45 +2,53 @@
   "type": "newenergy",
   "stages": {
     "raw_dedup_junk": 28,
-    "trusted": 5,
+    "trusted": 9,
     "non_trusted_top": {
-      "sina.com.cn": 6,
+      "sina.com.cn": 4,
       "autohome.com.cn": 4,
-      "sina.cn": 3,
-      "indexbox.io": 3,
+      "sina.cn": 2,
+      "indexbox.io": 2,
       "9shares.my": 1,
-      "epochtimes.com": 1,
+      "qycz.org": 1,
       "ebiotrade.com": 1,
-      "wedoany.com": 1,
-      "goalfore.cn": 1,
-      "qctt.cn": 1
+      "mk.co.kr": 1,
+      "hk01.com": 1,
+      "yeeyi.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 1,
-    "relaxed_72h": 4,
-    "final": 5,
+    "fresh1_24h": 9,
+    "page_fresh": 8,
+    "relaxed_72h": 1,
+    "final": 7,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "三季度光伏股价图鉴：指数跑输沪深300，个股涨跌幅差距接近百点",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "全国首个百万千瓦级光伏光热项目并网发电",
+      "t": "“风光”无限绿潮涌——张家口可再生能源示范区建设发展纪实",
       "d": "sohu.com"
     },
     {
-      "t": "美日韩氢能\"凉了\"？中国已碾压式超越!正复制下一个\"宁德时代\"",
+      "t": "逾45万颗电芯！亿纬锂能首个200MW/400MWh独立共享储能电站并网",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "国家能源集团在河北新设一家公司",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "东营国瓷硫化物固态电解质产线落成，山东加速布局固态电池赛道",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "398万元！日照莒县古城储能建设工程招标",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "又一国产高端汽车品牌进军印度！",
       "d": "sohu.com"
     },
     {
-      "t": "新型储能迎来政策利好 低PE+高增长潜力股出炉",
-      "d": "stcn.com"
-    },
-    {
-      "t": "AI需求打开新空间，新型储能迎来政策利好！低PE+高增长潜力股出炉",
-      "d": "stcn.com"
+      "t": "丰田在中国偷偷干大事：用比亚迪电池、华为座舱，反向偷师",
+      "d": "sohu.com"
     }
   ]
 }

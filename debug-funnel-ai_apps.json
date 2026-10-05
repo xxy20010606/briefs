@@ -1,49 +1,46 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 30,
-    "trusted": 7,
+    "raw_dedup_junk": 29,
+    "trusted": 6,
     "non_trusted_top": {
-      "pasqualepillitteri.it": 8,
-      "sina.com.cn": 4,
-      "sina.cn": 4,
-      "unite.ai": 2,
-      "x.com": 1,
-      "enanyang.my": 1,
-      "yellow.com": 1,
-      "chinapress.com.my": 1,
-      "ttplus.cn": 1
+      "pasqualepillitteri.it": 5,
+      "sina.cn": 5,
+      "sina.com.cn": 3,
+      "shyp.gov.cn": 1,
+      "ac.cn": 1,
+      "hstong.com": 1,
+      "ebiotrade.com": 1,
+      "moomoo.com": 1,
+      "wublock123.com": 1,
+      "stockstar.com": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 4,
-    "relaxed_72h": 2,
-    "final": 6,
+    "fresh1_24h": 6,
+    "page_fresh": 5,
+    "relaxed_72h": 0,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "鸟搞逼逼视频官方版-鸟搞逼逼视频2026最新版v.110.59.892.452 ",
+      "t": "91啦稀缺资源㊙️精品泄密官方版-91啦稀缺资源㊙️精品泄密2026最新版v.6",
       "d": "tmtpost.com"
     },
     {
-      "t": "星连资本被投企业 Kando AI 完成数千万元种子轮融资，要做“决策领域的Cu",
+      "t": "一周要闻·阿联酋&卡塔尔｜中信建投证券落户迪拜国际金融中心；卡塔尔发行30亿美元",
       "d": "36kr.com"
     },
     {
-      "t": "推理支出2026年首超训练：\"Token工厂\"崛起 AI基础设施投资逻辑生变｜深",
-      "d": "cls.cn"
-    },
-    {
-      "t": "阿里，把AI交给了90后",
+      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
       "d": "36kr.com"
     },
     {
-      "t": "Meta新AI代理Muse登顶榜首，被指数据收集远超同行",
-      "d": "sohu.com"
+      "t": "王缉慈｜以AI推动包容性增长：未来强县要看能否构建智能协同网络",
+      "d": "thepaper.cn"
     },
     {
-      "t": "4个12岁男生拿下一等奖，48小时，216名青年创客在学军中学“造”了什么？",
-      "d": "sohu.com"
+      "t": "Rabbit 创始人吕骋：人不该为 Agent 改变思考方式",
+      "d": "36kr.com"
     }
   ]
 }

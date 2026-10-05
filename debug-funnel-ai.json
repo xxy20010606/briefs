@@ -1,40 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 20,
-    "trusted": 7,
+    "raw_dedup_junk": 45,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "sina.cn": 3,
-      "guanhai.com.cn": 1,
-      "stheadline.com": 1,
-      "ikanchai.com": 1,
-      "creaders.net": 1,
-      "ichaoqi.com": 1,
-      "zaochenbao.com": 1
+      "sina.com.cn": 7,
+      "sina.cn": 6,
+      "ac.cn": 3,
+      "techwalker.com": 3,
+      "stockstar.com": 2,
+      "pedaily.cn": 1,
+      "zqrb.cn": 1,
+      "crntt.com": 1,
+      "hk01.com": 1,
+      "on.cc": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 4,
+    "fresh1_24h": 10,
+    "page_fresh": 8,
     "relaxed_72h": 0,
-    "final": 4,
-    "cap": "不限同域"
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "中国AI算力城市榜洗牌：北京继续第一，深圳反超上海杀回前三",
+      "t": "能干活的机器人来了，珞石多款产品亮剑2026人工智能产业大会",
       "d": "sohu.com"
     },
     {
-      "t": "收权、换将、重记账：阿里AI三年重组实录",
-      "d": "sohu.com"
+      "t": "马斯克率先为AI改名，SpaceXAI官宣更名SpaceXSI",
+      "d": "163.com"
     },
     {
-      "t": "Jev 之后，中国团队开始深挖 AI 的「直觉层」",
-      "d": "geekpark.net"
-    },
-    {
-      "t": "推理支出2026年首超训练：\"Token工厂\"崛起 AI基础设施投资逻辑生变｜深",
+      "t": "全球大模型第一股，大涨",
       "d": "cls.cn"
+    },
+    {
+      "t": "深度｜百亿美金AI法律Harvey联创：应用公司不必与大模型比拼资金和算力，但要",
+      "d": "sohu.com"
+    },
+    {
+      "t": "OpenAI突然收购，500万人Codex，永不下线",
+      "d": "36kr.com"
+    },
+    {
+      "t": "DataAgent",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+      "d": "36kr.com"
     }
   ]
 }

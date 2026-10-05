@@ -1,53 +1,53 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 60,
+    "raw_dedup_junk": 63,
     "trusted": 17,
     "non_trusted_top": {
-      "sina.cn": 8,
-      "hupu.com": 5,
-      "360.com": 4,
-      "sina.com.cn": 4,
-      "yzwb.net": 3,
-      "bjd.com.cn": 2,
-      "mediafine.co.kr": 1,
-      "rediandf.com": 1,
-      "shobserver.cn": 1,
-      "china.com": 1
+      "pchome.net": 6,
+      "sina.com.cn": 5,
+      "sina.cn": 5,
+      "china.com": 4,
+      "vietnam.vn": 2,
+      "360.com": 2,
+      "hupu.com": 2,
+      "hk01.com": 2,
+      "youth.cn": 2,
+      "hangzhou.com.cn": 2
     },
-    "fresh1_24h": 13,
-    "page_fresh": 0,
-    "relaxed_72h": 17,
+    "fresh1_24h": 17,
+    "page_fresh": 17,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "《敦煌英雄》上映遇冷，联合出品方华文映像私募爆雷百亿",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "《牛来》第二次延期上映，盈利超2100万，但导演格局太小了",
+      "t": "《牛来》后遗症还在，连续四部电影票房为零，国庆档总票房惨败",
       "d": "sohu.com"
     },
     {
-      "t": "《什么意思夫妇》票房突破1.47亿元，成国庆档黑马",
+      "t": "电影《生化危机：爆发夜》上映1天总票房破4000万，该片是《生化危机》系列时隔九",
       "d": "sohu.com"
     },
     {
-      "t": "CICF×AGF广州动漫游戏盛典在穗开幕",
-      "d": "chinanews.com.cn"
+      "t": "元鼎证券观察：国庆档票房突破7亿元，文化消费为A股打开新观察窗口",
+      "d": "163.com"
+    },
+    {
+      "t": "《征途》：于艰难困顿中顾全大局 在危难征途上聚力同行 守住心中微光 终可穿越至暗",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "融了4000万美金的AI音乐产品，做出的歌到底啥样？",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "电视剧《兰香如故》热播 观众喊话：多发掘本土特色",
+      "d": "21jingji.com"
     },
     {
       "t": "中外剧作家在沪谈AI：可辅助创作，难以替代舞台艺术",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "时隔九年重返内地大银幕，《生化危机：爆发夜》游改真人电影明日上映",
-      "d": "ithome.com"
-    },
-    {
-      "t": "《山歌万里》音乐会深圳首演圆满落幕",
       "d": "people.com.cn"
     }
   ]
