@@ -1,25 +1,38 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 22,
-    "trusted": 0,
+    "raw_dedup_junk": 20,
+    "trusted": 4,
     "non_trusted_top": {
-      "unite.ai": 5,
-      "80aj.com": 4,
-      "sina.cn": 3,
-      "quasa.io": 2,
-      "digitimes.com.tw": 1,
-      "hurun.net": 1,
-      "pasqualepillitteri.it": 1,
+      "sina.cn": 4,
+      "pasqualepillitteri.it": 2,
+      "hk01.com": 2,
+      "unite.ai": 2,
+      "stockstar.com": 1,
       "moomoo.com": 1,
-      "odaily.news": 1,
-      "ua.news": 1
+      "jiaoyujie365.com": 1,
+      "longbridge.com": 1,
+      "hurun.net": 1,
+      "80aj.com": 1
     },
-    "fresh1_24h": 0,
-    "page_fresh": 0,
+    "fresh1_24h": 4,
+    "page_fresh": 3,
     "relaxed_72h": 0,
-    "final": 0,
+    "final": 3,
     "cap": "不限同域"
   },
-  "final": []
+  "final": [
+    {
+      "t": "AMD锐龙AI Max详解：本地跑3200亿参数模型",
+      "d": "sohu.com"
+    },
+    {
+      "t": "“聚力AI赋能 扩大宣传声量” 浦发银行太原分行承办“山西银行业大讲堂”第十七期",
+      "d": "sohu.com"
+    },
+    {
+      "t": "TypeSafe AI估值十天飙涨50倍，新模型Jev引发投资热潮",
+      "d": "huxiu.com"
+    }
+  ]
 }

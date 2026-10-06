@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 25,
+  "total": 24,
   "samples": [
     {
-      "title": "卡位智能体，英特尔开打翻身仗了|AI智能|大模型|GPU|Agent|产业",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVHVTTHh3N3NGYmttU1UxdG83NlI5cWx3UVNiRXVVRlJCbDlBbzNybFBmWmItbXNzTmZUTnpBRjJDaFRMaS03VFB",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
+      "title": "一批北大和清华博士，从字节和腾讯拿到数百万年薪",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kUV9pZHdROFJuUDVxclk5aEU3R25wZzRfc0Z3amVIaTJ3dmNzazd2Z2h6QjNzSXRZWVVWdFNPNERRVkJXZ0hEeF9",
+      "source_url": "https://www.yicai.com",
+      "source": "第一财经"
     },
     {
-      "title": "新浪网·",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wOUQ2S0JsZ3RKLXRpcTlvOG1iQUFmcWxOVHI5dG8yNVlSdW1DQ25YWmdHZGVoNDVGbFdNVDlOOFRJRHh4RkVValZ",
-      "source_url": "https://www.sina.cn",
-      "source": "手机新浪网"
+      "title": "AMD锐龙AI Max详解：本地跑3200亿参数模型",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMWlVaG5ZU0tRSHM2NmRxWFBxR1IxaGNPdmtJUXJqODJzVVZ0WWJ5SVJjMXhONTdUbmFQSFFoLV92WmhiaFF4Z1J",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1obDJWZWFFTFFHazhCcU5feE1wdUs5YjdFWWdNVzEzNDZHZDd3MHYwWHBwLXhlcDEyQ0pvR2xXZVJTSWFGc3ZneA?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "不er，咋陶哲轩也成AI减速派了？？",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ndll3VFAwakV1Q2lRcDktcGhDZjA1SFBJc3lGNS02c0hRcjRaS2stTl9RMWhaV0ZjdndWUFJKWjdDell6aVRqSlF",
+      "source_url": "https://www.qbitai.com",
+      "source": "量子位 QbitAI"
     },
     {
-      "title": "全球大模型第一股，大涨",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zQjEyNGZUWG53blk5MHM4NUZMOS1ZUkJza3k5TFA4SVhwWlAzcDNGQUpHOUE5NEFoRjNnNVN2TjBHNnRJVWl2VA?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "钟义信、戈峻、吴小莉共话“戈·局”：知料科技被重点推荐",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XSjlOaFhfNFdrNndPdGJweTB4bWxLUFJPQndJT09ST0d6Tmp1amtWcXdJWDU3U2Y0ckFMOWlXR0xVUXpmYmxZaFh",
+      "source_url": "https://sd.ifeng.com",
+      "source": "凤凰网山东"
     },
     {
-      "title": "科大讯飞携全栈AI亮相哈萨克斯坦展会 持续拓展中亚数字化应用",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tR3BNNGJiWHV5QmFsSmlwUzB4Q3RWUVU2MFVHQ0ZPU1h2eVM5c2c3UEluelAxN3cxNjcxc0VUd0t3SlNmZTN2dWJ",
-      "source_url": "https://news.mydrivers.com",
-      "source": "驱动之家"
+      "title": "全球AI都在新高，港A在纠结啥？",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03OGY0RWctaExMblNRdjVRQl9IN1hpaTlfd3pmWjF3OVo4UjBQWFJOTndBTFVHanllQjZBUTJmUlBXUkU4LXhiQWQ",
+      "source_url": "https://stock.jrj.com.cn",
+      "source": "金融界"
     },
     {
-      "title": "“大模型第一股”智谱大涨 高盛上调评级至买入",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MZlo1eGVfSGpKQTk3dU81STU4M05qVXEyek51V3VwVXVhemF6ME1HVnpRQXlXZERxSmNmTXBsZzJNV2wya2Q4NDk",
-      "source_url": "https://news.china.com",
-      "source": "中华网"
+      "title": "韩国拟推4.7万亿韩元专项计划，明年3月起研发前沿AI大模型",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RWkx3RnBrRTFfWncxMnFFa2xpaEc3SEdqRXlQVXZyYmlSYmJyM29adG8wRVBUaHhKNThDYW9iUTVkZTlBaVhaSmV",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
     }
   ]
 }

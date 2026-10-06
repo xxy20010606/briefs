@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 30,
+  "total": 36,
   "samples": [
     {
-      "title": "港股前三季度IPO募资额达3855亿港元，“A+H”股占近七成",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjljMi0xWnpOZ0l1TkRvdVRiTnEwajZ5R1NGRDdVWlNOUGlwVi1lOExILXQ0SFhXVjI4WXdSenBYSm9WS0JMeDB",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "2nm芯片设计费48亿，说句实话，国内有这钱的企业，真不多！",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZjJZbFB0aXRHNjBTQmhxQjdwc3VJdWh0eFFTVC1kdXdQMXJsTzdqYVg5aHYySGJENWd1VE1TMUg5NTFjTGZQUFZ",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "全球市值最大的公司（2026年9月）：英伟达5.56万亿美元居首，Meta大涨29%反超博通",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdTBKaFFLbmFpQWgzSHVtb2dlOW9HNV8wXzY0VDdSdFFiTzZOU1VEa2VEVnV2S3VwMEJiTTJiVnVadmNSa2Itb0o",
-      "source_url": "https://www.tradingkey.com",
-      "source": "TradingKey"
+      "title": "国产半导体一哥换人：新王长鑫收入暴涨9倍 远超中芯国际",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ER1dxSVZLYjBtVm1VZUlNZVVJOEkwZXNOdjZ3WFVBMTdCMjZ3bi1XRGRNWVEwMFVHSXFTd0FLa2I3VDNRRjdnZWx",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
     },
     {
-      "title": "台湾外长林佳龙访问亚利桑那州出席驻凤凰城办事处揭牌仪式",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdklHSk5NdVVVYmJydHhmZERjT0xyUkN1TjdoUFVIblhTUG5ra294SHI1emxlNG9Md1lneDZTcElCQjA5OTNDOFl",
-      "source_url": "https://www.voachinese.com",
-      "source": "美国之音"
+      "title": "英镑引发的半导体价格多米诺骨牌上调预告...台积电明年将把代工单价上调10%",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TUjJza1BsTWZaVTFaQ21jS0k2ME9mUHI1M21IazhpYm1FMUJKU0VSZ3ZvUXV5eDByM0pSR3JJSDBUd1BBckpvTWg",
+      "source_url": "https://www.mk.co.kr",
+      "source": "매일경제"
     },
     {
-      "title": "冰火两重天！三季度房地产、创新药相关ETF涨超20%，而买芯片的却已哭晕",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkktclctZzZqS3U1bDZoV21nQXRKa00zMTZOeEdiNksxamkyQ2E2VEcxT2dEMlh6U2dRSXh0WS1vMDBIOW5oeHR",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "78亿美元落地新加坡：台积电不亲自去，却悄悄拿下了AI芯片的命门",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelNwRmFqNEFDd3ZLcHhRYjNlU0JyUXNGTU9MSndwMTFDTF9iNXdMYVh5Y3NuNDB2QnNRYTlpOGMtQVpZeGdvdW5",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "美国芯片巨头向华为付费，获得逻辑折叠专利",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wd2FSR1hkVXYyYUU1M0hhTXV6NjRxanUtSUNOZDBpSmNvdF92b29tczZOUkhFdlc3YUYxcTFVYk1Cb3hfZUNRU0N",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUlBkNVdaVGxNUG1fbEJ0YjhMYjZHZ3hleHY2aXI3MkRsNTNqVlZyWFJ6ZUMxcTBUT3Qyb3JRblZqTEdudzlWbQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "高通正式官宣：将向华为购买逻辑折叠芯片授权技术",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAxLXg1cWJZYUlRQ090MDluZXpUcWxORU4tcWpaN0J3cUxKeTQ3cGtzZFg4TVNEMFhnSWRCMUZ3bWVSUFhF?oc=5",
-      "source_url": "https://cacnews.ca",
-      "source": "加拿大新闻网"
+      "title": "AMD首席执行官：未来数年芯片需求将“非常高”_7x24快讯_新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YMEluN0Q5OFA0Q2FUdWVsRzlMemNhNXBFZUVRZkJuVGtNQ19wcjI5aVJpYTVMcjhMVzBkLU84SkpXU0JPZVRac1h",
+      "source_url": "https://wap.cj.sina.cn",
+      "source": "新浪财经"
     }
   ]
 }

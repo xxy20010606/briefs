@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 46,
-    "trusted": 11,
+    "raw_dedup_junk": 59,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.cn": 8,
-      "pchome.net": 6,
-      "360.com": 5,
-      "hk01.com": 2,
-      "sina.com.cn": 2,
-      "hupu.com": 2,
-      "china.com": 2,
+      "sina.cn": 10,
+      "360.com": 4,
+      "pchome.net": 3,
+      "yzwb.net": 3,
+      "on.cc": 2,
+      "bjd.com.cn": 2,
+      "weibo.com": 1,
       "vietnam.vn": 1,
-      "mydrivers.com": 1,
-      "anhuinews.com": 1
+      "mk.co.kr": 1,
+      "seehua.com": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 4,
-    "relaxed_72h": 7,
+    "fresh1_24h": 17,
+    "page_fresh": 17,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "惨淡收场!古天乐主演电影《侦战》上映5天突然撤档,票房不足500万",
+      "t": "2026电竞显示器品牌排行榜揭晓高端梯队格局",
       "d": "sohu.com"
     },
     {
-      "t": "那英悼念刘欢事态升级！官方介入，恐步入郭德纲后尘？",
+      "t": "60集电视剧《伟大的长征》10月9日央视一套黄金档开播",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "新作国庆档“遥遥领先”，陈思诚这次真进步了？",
       "d": "163.com"
     },
     {
-      "t": "国庆档电影票房超9亿！光影文旅双向奔赴",
-      "d": "china.com.cn"
+      "t": "电影《生化危机：爆发夜》 上映 2 天，总票房破 1 亿",
+      "d": "ithome.com"
     },
     {
-      "t": "从“电子榨菜”到院线电影：AI影视缺的不是技术，是好故事",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "小沈阳又翻车？新片票房破亿，综艺舞台难听，女儿沈佳润也被波及",
-      "d": "sohu.com"
-    },
-    {
-      "t": "广电总局：首部互动剧正式备案",
+      "t": "刘欢：2套房产都写妻子的名字，生前曾被父母误解",
       "d": "163.com"
     },
     {
-      "t": "京剧名家李宝春将携台北新剧团《戏里戏外》赴大陆巡演",
+      "t": "舞剧《楚河汉界》中国首演 于“棋局”之中重塑楚汉故事",
       "d": "chinanews.com.cn"
+    },
+    {
+      "t": "贵州大地指纹音乐会最新预约提示",
+      "d": "sohu.com"
     }
   ]
 }

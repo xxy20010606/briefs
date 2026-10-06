@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 24,
+  "total": 27,
   "samples": [
     {
       "title": "喜报集结！国庆假期，一批大国重器与重点工程迎来新突破",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXVvN0FSSEpjd3l5eXE5N2RVcllFWE95MEpVNzVoX3FWM3cyRTI3cFJxd0M1b0YwMDJkNkNIRWNJMzBteExiOFZ",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEdIOVl1SVhnUEZWaExrMXQ3S3hkVVdLdy14ZDFRakxqMWlxSmlvbHNOcV9MUGxFNXVYNnBmQndudVh2WjZpTTk",
+      "source_url": "https://news.sina.com.cn",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "400亿+万亩园区！盐城再添重磅项目",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ONWZ2WEMtcWhUNWNiNWlOQk1JbXJ6eFlHTnRqQmM1Wkx3UnBPbWoxV1ZOWlRhOFNyZXQ0LVlKMW15eWllMEIzVmF",
+      "source_url": "https://www.seetao.com",
+      "source": "见道网"
+    },
+    {
+      "title": "“风光”无限绿潮涌——张家口可再生能源示范区建设发展纪实",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFb3F2TThKb0JNNVpHWWxHMzdXSDI2Q3QwaU5DMkkwczdYSHl2VGd4M2ZpTUV0V0xEdWJrQWJPOUUwMTFLRjBLdE9",
+      "source_url": "http://www.zjknews.com",
+      "source": "zjknews.com"
     },
     {
       "title": "“电力稳定了，生产生活都更方便”",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNFdTN2ZfRERwVE5DUi00U2RRZ2diVW8yQy1rMzF1SktYNmFLXzBFZ2x1bUxlcTBGX3JEbFN6c0NSSGVUT0pSTmF",
       "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
+      "source": "新浪财经"
     },
     {
-      "title": "混合太阳能风能储能市场展望至2035年：柴油替代与全天候清洁电力需求驱动增长",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT3R6QldYdXRrZVE3LXpYU29FNU9mZTdsMFRTMlpZenQ3c1QyLURnc2VUdlB0WUJiVkdzVUo0RVlxWWplSk5rWUJ",
-      "source_url": "https://www.indexbox.io",
-      "source": "新闻和统计"
+      "title": "530km续航/宁德电池！广汽新车只要8万",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xSjRJcGkyMy1WRUFySEJ3ekZhRER2X1NoVUtQc21nS1lNd0Y5Qy1BRklsZnQtUHRjRjhwdEliM0J2Rmt1V3JVTGk",
+      "source_url": "https://chejiahao.autohome.com.cn",
+      "source": "汽车之家"
     },
     {
-      "title": "开工！嘉定这家企业把储能方案扎根沙特沙漠|上观新闻|高温|电力|风沙|光伏",
-      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNazVPS0plYWdnTktodHBjQnBrTnA4SzRfVDRzNHljLUVfV0c5VnE5bXFJRkM3R19RRmZHVmZPRlZhRlRaamR1dlg",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.cn"
-    },
-    {
-      "title": "【光电智造】第三代半导体迎来产业化兑现期，超宽禁带材料开启后硅时代新赛道",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wRy1YenhZQ2xTZnEteldzdzNzYUhETENMS2J1UVd5TUthMFRTTjlrRmNmM0hEejJIaUwwazQxQzRTWTJwMEFfeUE",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
-    },
-    {
-      "title": "比亚迪海獭登陆日本：一场瞄准K-Car腹地的精",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWZExlT2VfaGl0Rl9oSFR2cFBJSFlrUERULXBLZUdubktzeUtLa1lucGlDc2Y2SVh1QTdMV0NnbzJPTEVYOGRJMUh",
-      "source_url": "https://chejiahao.m.autohome.com.cn",
-      "source": "车家号"
+      "title": "高速通勤选什么车？20万内纯电中型轿车深度对比",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRV2ZoOEZKTEZkZjVFcmNBbjl2amJSSnRoSVUxSE5MeUtvcXpFdk8zcVNENkJ1YWltSU54ZzA0QnlkZ0FGaVhJYXZ",
+      "source_url": "https://auto.news18a.com",
+      "source": "网通社"
     }
   ]
 }

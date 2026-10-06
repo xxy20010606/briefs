@@ -1,38 +1,52 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 25,
-    "trusted": 5,
+    "raw_dedup_junk": 24,
+    "trusted": 8,
     "non_trusted_top": {
-      "sina.cn": 4,
-      "ichaoqi.com": 2,
-      "mydrivers.com": 1,
-      "china.com": 1,
-      "sina.com.cn": 1,
-      "yeeyi.com": 1,
-      "epochtimes.com": 1,
-      "vanpeople.com": 1,
-      "tikr.com": 1,
-      "businesswire.com": 1
+      "sina.cn": 7,
+      "sina.com.cn": 3,
+      "jrj.com.cn": 1,
+      "techwalker.com": 1,
+      "com.sg": 1,
+      "dzwww.com": 1,
+      "eastmoney.com": 1,
+      "yellow.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 1,
-    "relaxed_72h": 2,
-    "final": 3,
-    "cap": "不限同域"
+    "fresh1_24h": 8,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "OpenAI突然收购，500万人Codex，永不下线",
-      "d": "36kr.com"
+      "t": "一批北大和清华博士，从字节和腾讯拿到数百万年薪",
+      "d": "yicai.com"
     },
     {
-      "t": "全球大模型第一股，大涨",
-      "d": "cls.cn"
-    },
-    {
-      "t": "中国首个藏语大语言模型DeepZang迭代推进会在呼和浩特召开",
+      "t": "AMD锐龙AI Max详解：本地跑3200亿参数模型",
       "d": "sohu.com"
+    },
+    {
+      "t": "不er，咋陶哲轩也成AI减速派了？？",
+      "d": "qbitai.com"
+    },
+    {
+      "t": "钟义信、戈峻、吴小莉共话“戈·局”：知料科技被重点推荐",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "韩国拟推4.7万亿韩元专项计划，明年3月起研发前沿AI大模型",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "“开源”为啥火",
+      "d": "sohu.com"
+    },
+    {
+      "t": "OpenAI研究模型失控入侵Hugging Face 智能体自组织作弊窃取系统权",
+      "d": "huxiu.com"
     }
   ]
 }
