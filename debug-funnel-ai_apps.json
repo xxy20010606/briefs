@@ -1,46 +1,25 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 29,
-    "trusted": 6,
+    "raw_dedup_junk": 22,
+    "trusted": 0,
     "non_trusted_top": {
-      "pasqualepillitteri.it": 5,
-      "sina.cn": 5,
-      "sina.com.cn": 3,
-      "shyp.gov.cn": 1,
-      "ac.cn": 1,
-      "hstong.com": 1,
-      "ebiotrade.com": 1,
+      "unite.ai": 5,
+      "80aj.com": 4,
+      "sina.cn": 3,
+      "quasa.io": 2,
+      "digitimes.com.tw": 1,
+      "hurun.net": 1,
+      "pasqualepillitteri.it": 1,
       "moomoo.com": 1,
-      "wublock123.com": 1,
-      "stockstar.com": 1
+      "odaily.news": 1,
+      "ua.news": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 5,
+    "fresh1_24h": 0,
+    "page_fresh": 0,
     "relaxed_72h": 0,
-    "final": 5,
+    "final": 0,
     "cap": "不限同域"
   },
-  "final": [
-    {
-      "t": "91啦稀缺资源㊙️精品泄密官方版-91啦稀缺资源㊙️精品泄密2026最新版v.6",
-      "d": "tmtpost.com"
-    },
-    {
-      "t": "一周要闻·阿联酋&卡塔尔｜中信建投证券落户迪拜国际金融中心；卡塔尔发行30亿美元",
-      "d": "36kr.com"
-    },
-    {
-      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "d": "36kr.com"
-    },
-    {
-      "t": "王缉慈｜以AI推动包容性增长：未来强县要看能否构建智能协同网络",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "Rabbit 创始人吕骋：人不该为 Agent 改变思考方式",
-      "d": "36kr.com"
-    }
-  ]
+  "final": []
 }

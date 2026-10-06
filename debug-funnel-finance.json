@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 64,
-    "trusted": 18,
+    "raw_dedup_junk": 38,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.com.cn": 10,
-      "sina.cn": 9,
-      "moomoo.com": 8,
-      "newswav.com": 5,
-      "stockstar.com": 3,
-      "futunn.com": 3,
-      "worldjournal.com": 1,
-      "enanyang.my": 1,
-      "orientaldaily.com.my": 1,
-      "chinapress.com.my": 1
+      "sina.cn": 6,
+      "sina.com.cn": 5,
+      "sinchew.com.my": 2,
+      "futunn.com": 2,
+      "stockstar.com": 1,
+      "newswav.com": 1,
+      "jrj.com.cn": 1,
+      "atvnewsonline.com": 1,
+      "tradingkey.com": 1,
+      "investing.com": 1
     },
-    "fresh1_24h": 18,
-    "page_fresh": 16,
-    "relaxed_72h": 0,
+    "fresh1_24h": 8,
+    "page_fresh": 1,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "招金矿业(01818.HK)拟10月15日举行董事会会议审批季度业绩_股市直播_",
+      "t": "快手-W(01024)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
+    },
+    {
+      "t": "国药科技股份(08156)恢复公众持股量_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "胜华波、华龙证券等11家企业上交所IPO审核状态变更为“中止(财报更新)”_股市",
+      "t": "康圣环球(09960)10月5日斥资1.23万港元回购1.35万股_股市直播_市",
       "d": "cnfol.com"
     },
     {
-      "t": "今天，外围又涨疯了",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "日股高开！存储巨头，快速跳水",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "港股尾盘翻红，日股盘中突破7万点，欧股回落，美股期指集体下跌",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "港股芯片、PCB、光通信产业链全线走强，英伟达新高点燃半导体行情？",
+      "t": "一位上海财经女博士坦言：如果手中有20万，建议死啃这两条线！",
       "d": "sohu.com"
     },
     {
-      "t": "别光顾着玩！全球股市两极大分化",
-      "d": "ifeng.com"
+      "t": "港股尾盘翻红，日股盘中突破7万点，欧股回落，美股期指集体下跌",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "港股红了 PCB龙头上演翻倍行情好戏 张忆东最新观点：10月有望先抑后扬",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "港股，尾盘异动！两大板块爆发！",
+      "d": "stcn.com"
     }
   ]
 }

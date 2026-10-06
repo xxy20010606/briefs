@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 63,
-    "trusted": 17,
+    "raw_dedup_junk": 46,
+    "trusted": 11,
     "non_trusted_top": {
+      "sina.cn": 8,
       "pchome.net": 6,
-      "sina.com.cn": 5,
-      "sina.cn": 5,
-      "china.com": 4,
-      "vietnam.vn": 2,
-      "360.com": 2,
-      "hupu.com": 2,
+      "360.com": 5,
       "hk01.com": 2,
-      "youth.cn": 2,
-      "hangzhou.com.cn": 2
+      "sina.com.cn": 2,
+      "hupu.com": 2,
+      "china.com": 2,
+      "vietnam.vn": 1,
+      "mydrivers.com": 1,
+      "anhuinews.com": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 17,
-    "relaxed_72h": 0,
+    "fresh1_24h": 7,
+    "page_fresh": 4,
+    "relaxed_72h": 7,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "《牛来》后遗症还在，连续四部电影票房为零，国庆档总票房惨败",
+      "t": "惨淡收场!古天乐主演电影《侦战》上映5天突然撤档,票房不足500万",
       "d": "sohu.com"
     },
     {
-      "t": "电影《生化危机：爆发夜》上映1天总票房破4000万，该片是《生化危机》系列时隔九",
-      "d": "sohu.com"
-    },
-    {
-      "t": "元鼎证券观察：国庆档票房突破7亿元，文化消费为A股打开新观察窗口",
+      "t": "那英悼念刘欢事态升级！官方介入，恐步入郭德纲后尘？",
       "d": "163.com"
     },
     {
-      "t": "《征途》：于艰难困顿中顾全大局 在危难征途上聚力同行 守住心中微光 终可穿越至暗",
-      "d": "ifeng.com"
+      "t": "国庆档电影票房超9亿！光影文旅双向奔赴",
+      "d": "china.com.cn"
     },
     {
-      "t": "融了4000万美金的AI音乐产品，做出的歌到底啥样？",
-      "d": "ifeng.com"
+      "t": "从“电子榨菜”到院线电影：AI影视缺的不是技术，是好故事",
+      "d": "eet-china.com"
     },
     {
-      "t": "电视剧《兰香如故》热播 观众喊话：多发掘本土特色",
-      "d": "21jingji.com"
+      "t": "小沈阳又翻车？新片票房破亿，综艺舞台难听，女儿沈佳润也被波及",
+      "d": "sohu.com"
     },
     {
-      "t": "中外剧作家在沪谈AI：可辅助创作，难以替代舞台艺术",
-      "d": "people.com.cn"
+      "t": "广电总局：首部互动剧正式备案",
+      "d": "163.com"
+    },
+    {
+      "t": "京剧名家李宝春将携台北新剧团《戏里戏外》赴大陆巡演",
+      "d": "chinanews.com.cn"
     }
   ]
 }

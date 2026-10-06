@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 41,
-    "trusted": 20,
+    "raw_dedup_junk": 30,
+    "trusted": 11,
     "non_trusted_top": {
-      "tradingkey.com": 3,
-      "sina.cn": 2,
-      "guandian.cn": 2,
-      "sina.com.cn": 1,
-      "guangming.com.my": 1,
-      "klsescreener.com": 1,
-      "autohome.com.cn": 1,
-      "seehua.com": 1,
+      "sina.com.cn": 3,
+      "sina.cn": 3,
+      "tradingkey.com": 2,
+      "voachinese.com": 1,
       "cacnews.ca": 1,
-      "moomoo.com": 1
+      "cnbeta.com.tw": 1,
+      "hstong.com": 1,
+      "indexbox.io": 1,
+      "yeeyi.com": 1,
+      "seehua.com": 1
     },
-    "fresh1_24h": 19,
-    "page_fresh": 16,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 5,
+    "relaxed_72h": 2,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "俄罗斯豪掷千亿入股中国芯片厂，不为控制权，它想要什么",
+      "t": "华为与高通达成长期广泛专利许可协议，涵盖5G、AI等多领域并涉及逻辑折叠芯片技术",
       "d": "sohu.com"
     },
     {
-      "t": "涨价利好催化全球半导体情绪回潮 港股芯片股再度反弹走强",
-      "d": "sohu.com"
-    },
-    {
-      "t": "麒麟9050 Pro拆开后完整展示韬定律：华为竟用2颗相同芯垂直堆叠而成",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "房地产、创新药相关ETF涨超20%，而买芯片的却已哭晕",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "别光顾着玩！全球股市两极大分化，节后基金怎么走？",
-      "d": "stcn.com"
-    },
-    {
-      "t": "西安奕材、沪硅、中欣晶圆、金瑞泓、中环领先、合晶、超硅、晶升股份等齐聚【第九届半",
+      "t": "余承东宣布，华为量产381款τ系列芯片，并与高通达成多年期专利许可协议！",
       "d": "eet-china.com"
     },
     {
-      "t": "几毛钱，撑得起安全芯片的未来吗？",
-      "d": "thepaper.cn"
+      "t": "晶圆厂算错了？12英寸晶圆从过剩走向短缺，2028缺口或达24%！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "【光电智造】第三代半导体迎来产业化兑现期，超宽禁带材料开启后硅时代新赛道",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "【光电集成】光电封装范式革命！英特尔联手友达落地玻璃基CPO，开启算力互连新周期",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "“广州版长鑫科技”！粤芯半导体登上“2026全球独角兽榜”",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "高通与华为达成逻辑折叠芯片技术相关专利授权，韬定律加速出海",
+      "d": "ifeng.com"
     }
   ]
 }

@@ -1,54 +1,38 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 10,
+    "raw_dedup_junk": 25,
+    "trusted": 5,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "sina.cn": 6,
-      "ac.cn": 3,
-      "techwalker.com": 3,
-      "stockstar.com": 2,
-      "pedaily.cn": 1,
-      "zqrb.cn": 1,
-      "crntt.com": 1,
-      "hk01.com": 1,
-      "on.cc": 1
+      "sina.cn": 4,
+      "ichaoqi.com": 2,
+      "mydrivers.com": 1,
+      "china.com": 1,
+      "sina.com.cn": 1,
+      "yeeyi.com": 1,
+      "epochtimes.com": 1,
+      "vanpeople.com": 1,
+      "tikr.com": 1,
+      "businesswire.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 8,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 5,
+    "page_fresh": 1,
+    "relaxed_72h": 2,
+    "final": 3,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "能干活的机器人来了，珞石多款产品亮剑2026人工智能产业大会",
-      "d": "sohu.com"
-    },
-    {
-      "t": "马斯克率先为AI改名，SpaceXAI官宣更名SpaceXSI",
-      "d": "163.com"
+      "t": "OpenAI突然收购，500万人Codex，永不下线",
+      "d": "36kr.com"
     },
     {
       "t": "全球大模型第一股，大涨",
       "d": "cls.cn"
     },
     {
-      "t": "深度｜百亿美金AI法律Harvey联创：应用公司不必与大模型比拼资金和算力，但要",
+      "t": "中国首个藏语大语言模型DeepZang迭代推进会在呼和浩特召开",
       "d": "sohu.com"
-    },
-    {
-      "t": "OpenAI突然收购，500万人Codex，永不下线",
-      "d": "36kr.com"
-    },
-    {
-      "t": "DataAgent",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "d": "36kr.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 64,
+  "total": 38,
   "samples": [
     {
-      "title": "招金矿业(01818.HK)拟10月15日举行董事会会议审批季度业绩_股市直播_市场",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LUUNPWDBKT1VYZ3pVVXFGd2JMYVRWVzFRUG0xVFh3VmVlRDhHYmMzOVJUMWtPaWRyWDZ6LVpTRS16blBXc01iVEJ",
-      "source_url": "http://sc.stock.cnfol.com",
-      "source": "中金在线"
-    },
-    {
-      "title": "胜华波、华龙证券等11家企业上交所IPO审核状态变更为“中止(财报更新)”_股市直播_市场",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOa0NWRDRWb3dsY3ltb3VxRUNWYWRTNlA3enM5VW14cVI2SlhPWHR1M2c0NXd3dnlzLVVEWTZIX2p5eVBBd2hneUR",
-      "source_url": "http://sc.stock.cnfol.com",
-      "source": "中金在线"
-    },
-    {
-      "title": "A股持续震荡行情，大家都说没赚钱，那钱都被谁赚走了？看完恍然大悟",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oeVVQNjBvTkRGTFg0d1lqUUluQ2JxdElMU1ZXdk9rLUdibmhNZjdDQ0Y2MF9mYm9oeGp4Ykh6QVpZUGpQWFY5Vll",
+      "title": "这三张图表，有望重新点燃投资者对股市的信心",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNENWWlRjbnplSUpCZnZsUFBiUkpZdzVWekxjQXFxU2x6a2lQOHdCOVM5cjJQNHFxOWdYVkxmLWtVR09tV3A1ZHd",
       "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "source": "finance.sina.com.cn"
     },
     {
-      "title": "摩根士丹利：美股工业股吸引力上升三季度盈利预增27%_公司新闻_财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2Y205U3ZiMk1OWncxRy05S1ptNVE4WnpOa2hXb2tRWnRuMkttYlJrbkF2VWRIN2c5bUVxZTVmWklwd1NuNWp6RFF",
+      "title": "欧洲股市受大宗商品股提振 英国对中国电动车关税报道推升汽车股",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3pobDVOMEVRU0drRzN6U2I5ekllMHluTXZfMms4VDFMU0ZuRk5rUlF4ZjhEUVFEWWpmcTYtTVpaYWV3S2p6WTU",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "finance.sina.com.cn"
+    },
+    {
+      "title": "韩国存储双雄杠杆ETF价格上窜下跳 政府周四将开会讨论对策",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QWEtic2EyTlZuVnpPdXRza0FQb0Q3UWJmNzZER0k2TW9XejBLcURRcEdGTWtrTjlsc1FMcGhuOGZTWWVzdUFjbQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "突变！油价直线飙升，欧股重挫！美伊，大消息",
+      "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxQWUM0NDhyVnlYa3AybFNvS21HSW5ZcWU5VUtMakprWkQ5ZHM1UkFXZkJEeEVjaVFVMTJEenMwb2I1Z1B0NE1jMnM",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.cn"
+    },
+    {
+      "title": "国药科技股份(08156)恢复公众持股量_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGajd3eTFrU3BMRm1QRjRsdE9GWU9YV0FBUkxqVFJZUDh5T0F4ejFxbHFWMUFFSS1QZ2NVQTAyMVUyU1dFajdzczl",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
+    },
+    {
+      "title": "欧洲主权债拉响警报但股市依然坚挺！法德利差创逾30年最大单周升幅 德银警告背离局面或难持续",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CT1lTQ3RxckU1MUI1ZFRDT0VKYUljb3Nlc1VQMmNqaGJTdi1LS2x4SENTVmxPLUZXV25Kam5iczc3T0duXzFCUzV",
       "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "港股异动 | 兑吧(01753)涨近12% AI短剧业务展现强劲增长势头 人才资本支撑AI驱动高增长",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mdDhKSTRaeUZ4M05qdEJ3M2hyMVE5cmpBWFUtS3JFdThzYV9MSTBQZ0dxT19maTRaZlJCVnpXTG1rc2xGRWR3ZjB",
-      "source_url": "http://sc.stock.cnfol.com",
-      "source": "中金在线"
-    },
-    {
-      "title": "【环球财经】东京股市5日上涨 日经股指盘中一度突破7万点",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1NOSXpBU2pvUE5TMkpqNGduVmVMWFI2eGZzZk9sRjBpT3g5QjdkcDkxSHZINTM0dlFJbEROZldsWVRyQWhZbHJ",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "source": "stockstar.com"
     }
   ]
 }

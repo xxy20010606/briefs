@@ -1,42 +1,42 @@
 {
   "type": "entertainment",
-  "total": 63,
+  "total": 46,
   "samples": [
     {
-      "title": "上映仅5天票房443万元，古天乐、此沙主演《侦战》宣布撤档",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nWjlmNUw4V0FnMkozV1ZHUVQ0c0I2S01EY1UweVl1SzQ3b3RtSTZJbWJ5Ri1ublNBWDNTMDYxeHVJMUljNjItaUF",
-      "source_url": "http://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "上映仅5天 电影《侦战》撤档 港片困境再现",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MdjRDMmpzMUdvWVNpZUEwQzBERWdqdXJXNGtJY0RxZ3RsYXNFendLSk5FVXMzMGZmNlRLSm8tby1ocnVEekcxRk1",
-      "source_url": "https://ent.china.com",
-      "source": "中华网娱乐"
-    },
-    {
-      "title": "《牛来》后遗症还在，连续四部电影票房为零，国庆档总票房惨败",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUkV6VmN2MFRsdjlzTkVNR3FkaHBZY0FVTU12THktRmpBbjVFemhpbzc4dmNLYzBHbEpjLWR2RUhNSzlIRFlnYjd",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "电影《生化危机：爆发夜》上映1天总票房破4000万，该片是《生化危机》系列时隔九年重返内地院线",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa2MwSEU1cVhGNmdqbkJGMzIyelVRV21MQUQzV1pkQmZMYkxJcklKX1NpUjZxZEZnSVdzb0pkTG51TFRhajRsS2J",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
       "title": "古天乐、此沙、任达华主演电影《侦战》宣布撤档，上映5天票房仅443万元，后续将择期重启公映",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zSzVKaThmNU14UmMwT3FidEhKZktIRU9uaHJ4THRsYTQ4TURMcDVhOU9GZEo2eElpZUZjV2ZGRC1LY29IalhHUkd",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNMVZPLXZTTmRRajNnT2NQcFVsc0pXcHE1RHFyaTczR0V4LTY0VFJDWENWOEJXdDF1NFhBWGFadzNiZ3VRTkZDajl",
       "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "source": "finance.sina.cn"
     },
     {
-      "title": "《人口贩卖营》上映10天票房达2900亿越南盾，仍胜过《红雨》和《Mai》",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZV9MZU1VdnBOYzVVamxYOG9NQlNiODcxUDVSN20zT2VWUlVKVWY1dlQzU2YtWVJvaWhsS1RpbGhXdGRZeHI5M0N",
+      "title": "小沈阳零片酬力挺妻子，自掏5000万拍电影，票房破3.28亿，打脸所有看衰的人",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tSURfZFphQTZGNXd2NjlFdTI0QlJIVXJkemY5Z0dsVFRZVWdxRUhrMXBGOFFneWtrcERaUWNRNDdwejdvOGlSRjd",
+      "source_url": "https://m.yule.360.com",
+      "source": "yule.360.com"
+    },
+    {
+      "title": "惨淡收场!古天乐主演电影《侦战》上映5天突然撤档,票房不足500万",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUV5UjVwMXFKbm16THd3aHpFcGxBemV3djlqV0I3NWxSblpCbzhaeVdudG8tU3lVRnpKcHBibFhNdHFzMHAtVlh",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "“人口贩卖营”收入超过3000亿越南盾。",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0R4VEFhWFdNRVByaUFZQXlTcE14RUpBaXBnUm16TXVybzY3aGxMdWpzZkNFTTVtLVdETl9FYVU0UzNTRU40cko",
       "source_url": "https://www.vietnam.vn",
       "source": "Vietnam.vn"
+    },
+    {
+      "title": "《敦煌英雄》：被低估的动作大片，投资2亿，预测票房仅1818.9万",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aUWNXS2V6Z0kteFRTcXF0OFluZFVSaUc1UmdXZ0R4bG9ma3RCRVpRTzE1VFRlZkdqcnFXdnNsVE5EZklDZW5ocDd",
+      "source_url": "https://m.yule.360.com",
+      "source": "yule.360.com"
+    },
+    {
+      "title": "《侦战》内地上映5天票房惨淡撤档 孔令政坚信：关关难过关关过",
+      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOdVUtTlVGOFVienVGeWVmcjNNRTBnekZuUWhyWmVKOFZsaGo0aklqZWRrdzR0VjZkSWtUUDZBVVpYSUR2MXkzb3N",
+      "source_url": "https://global.hk01.com",
+      "source": "香港01"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 29,
+  "total": 22,
   "samples": [
     {
-      "title": "Qwen-Image-2.1无审查版来了，但并未移除任何过滤器",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SYzRnNEw0TE04UmJJWFBXRjI0TE91aWRBT0VmRW1McC1hc3hoak5KLUdVbmtBYlFZM1ZxR2laMktlSS1iTUc1R2V",
+      "title": "从“回答问题”到“替用户办事”：AI手机竞速进入深水区|MagicOS|大模型|荣耀|AgentCP",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLU9OSUlEUlh2d3NTeDBudnVBcmkzd1NucThhRHkxLTNsNExCd0tEaEZ6M3JzcmxESF85aTBZT0FCUU42MXRXT0d",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.cn"
+    },
+    {
+      "title": "贴近客户应用需求 撷发打造软硬件兼具的Edge AI开发平台",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS01OdVdfOHJJLWFLcklVaFg0Y0luMmhkNVY2UnhEUHE3ZGpHUWVzSDlqUmFYZGU3dkN0Yms3c3E4R1BBRC1rZkp",
+      "source_url": "https://gb-www.digitimes.com.tw",
+      "source": "DIGITIMES"
+    },
+    {
+      "title": "纲手裸乳被❌出白浆向上-纲手裸乳被❌出白浆向上2026最新版vv8.4.0 iphone版-2265",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tWVo0Q3BmcFh0UjBlOXUyNjFUTm1YUTJDRlNVYW9QZlBHQ3R3MHEwcktQUUVjd2pweWJzdk1qanVCOWgzWk1BRGI",
+      "source_url": "https://hurun.net",
+      "source": "胡润百富"
+    },
+    {
+      "title": "Cowork新任务10月6日起转向云端，Pro和Max用户须知",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLaFVyS3Y1R0dmMFUwb0F0TmRELWRYSGJ0TEhuYjNPeW9NMHh4TXhUaGNaQjNiX0lZWnNEMWFOTnZWTWFmMjRBeV9",
       "source_url": "https://pasqualepillitteri.it",
       "source": "Pasquale Pillitteri"
     },
     {
-      "title": "Gemini 测试 Mac 完全访问权限，苹果宣布收紧",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHlHX19FT05sVXBiZEswTC1ROHVVNVZUNndsN19YZGprUkljVWlhMVNOWUw4Y3pGaWctQmlsOERpclZEV3FnSDh",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "FDA批准AIRS Medical的AI MRI工具用于体成分分析",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNlppOS1yd2dMRzljZm8wWVlLdUFlWDM0bGhkaW1HLUhtczhjRmg2VV9FTnFFcHAzNm1LWUhUaVJyMlVsMllwWWx",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "美国等17国支持《京都愿景》：扩大科研AI与算力使用，推动科研资助改革",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMVB0OWwwNW54WDVxaTUxeXRUYU0zY2NyT0stb3gzSjhNbWlWcGpHV0J0b1BidVZIbzM2QVpMMHBtT1M2aGY1Zk4",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "“全球大模型第一股”，大涨",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TcHJjUHV2NzJqWllzOHBlQ09vM1hfcUN5MUoyWWpGa2htS1l4MnFnZXV1X0FCaF9makJ2Nm5wSWhfQlVsWkhtTzF",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "沪滇协作上新 上海“最潮”老年AI课开进云南师宗",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPRlBRSGFGaTM2M1VPMlJ2MXpGU0o2TmpqSnJwWVBxaElFRlIyNnlPVjFEQmhZSkgxVkhDeXhGZ3JyNEptOUVaemV",
-      "source_url": "https://www.shyp.gov.cn",
-      "source": "shyp.gov.cn"
-    },
-    {
-      "title": "大语言模型时代数学建模的思考｜AI for Math读书会第二季第2期",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vckIyWlNJSTIza1VsNmpOdnliNUxVbzdYU2tJekxkMi0xNHNkMG5fT05MZFF6c1V6d04yMUJacHVvNC1ScHZFSg?",
-      "source_url": "https://hub.baai.ac.cn",
-      "source": "hub.baai.ac.cn"
+      "title": "Numeric – AI 财务结账平台与会计自动化工具",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uYnRvVXlZTV9leEF4X3ByQ0QyVnRUN2dpWW1pUEVCVUFpNkkwVGpwNk1JTUx4Zi1hQ3JJSEJ1ZTRMVHpKcGdaeFB",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
     }
   ]
 }

@@ -1,54 +1,29 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 28,
-    "trusted": 9,
+    "raw_dedup_junk": 24,
+    "trusted": 1,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "autohome.com.cn": 4,
-      "sina.cn": 2,
-      "indexbox.io": 2,
-      "9shares.my": 1,
-      "qycz.org": 1,
-      "ebiotrade.com": 1,
-      "mk.co.kr": 1,
-      "hk01.com": 1,
-      "yeeyi.com": 1
+      "indexbox.io": 8,
+      "sina.cn": 4,
+      "autohome.com.cn": 3,
+      "sina.com.cn": 2,
+      "yeeyi.com": 2,
+      "atvnewsonline.com": 1,
+      "news18a.com": 1,
+      "epochtimes.com": 1,
+      "in-en.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 8,
-    "relaxed_72h": 1,
-    "final": 7,
+    "fresh1_24h": 1,
+    "page_fresh": 1,
+    "relaxed_72h": 0,
+    "final": 1,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "“风光”无限绿潮涌——张家口可再生能源示范区建设发展纪实",
-      "d": "sohu.com"
-    },
-    {
-      "t": "逾45万颗电芯！亿纬锂能首个200MW/400MWh独立共享储能电站并网",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "国家能源集团在河北新设一家公司",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "东营国瓷硫化物固态电解质产线落成，山东加速布局固态电池赛道",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "398万元！日照莒县古城储能建设工程招标",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "又一国产高端汽车品牌进军印度！",
-      "d": "sohu.com"
-    },
-    {
-      "t": "丰田在中国偷偷干大事：用比亚迪电池、华为座舱，反向偷师",
-      "d": "sohu.com"
+      "t": "【光电智造】第三代半导体迎来产业化兑现期，超宽禁带材料开启后硅时代新赛道",
+      "d": "eet-china.com"
     }
   ]
 }

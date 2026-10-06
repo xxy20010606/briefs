@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 45,
+  "total": 25,
   "samples": [
     {
-      "title": "31岁罗福莉晋升，雷军重仓了她",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yajY1bmhYMVdHQ2NScE9yalYydHY3NVAwWkhpYk1uR2YtSzV0VV84aHlBZzlzYjZyWklUU0d1X2tpYVlpUFNlNUR",
-      "source_url": "https://news.pedaily.cn",
-      "source": "投资界"
-    },
-    {
-      "title": "能干活的机器人来了，珞石多款产品亮剑2026人工智能产业大会",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeEFtSFBIblFPRUV0Ym9Jdk81MUNlVG0tODUwY25fWkhldE1LeEpDR1BUbWNnMUtOV0ZNOWh0aFJFSVFzcXRPcXJ",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "马斯克率先为AI改名，SpaceXAI官宣更名SpaceXSI",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tdjZDRkhVdFZ1enAwbXNzX0VyeEs2RWRYTW5zNW1iVk4wbXF1cGxjRFJRVWlwalNYUTFnU3hfMkJONGdpVGxZXzF",
-      "source_url": "https://www.163.com",
-      "source": "手机网易网"
-    },
-    {
-      "title": "“全球大模型第一股”，大涨",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TcHJjUHV2NzJqWllzOHBlQ09vM1hfcUN5MUoyWWpGa2htS1l4MnFnZXV1X0FCaF9makJ2Nm5wSWhfQlVsWkhtTzF",
+      "title": "卡位智能体，英特尔开打翻身仗了|AI智能|大模型|GPU|Agent|产业",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVHVTTHh3N3NGYmttU1UxdG83NlI5cWx3UVNiRXVVRlJCbDlBbzNybFBmWmItbXNzTmZUTnpBRjJDaFRMaS03VFB",
       "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "source": "finance.sina.cn"
     },
     {
-      "title": "大语言模型时代数学建模的思考｜AI for Math读书会第二季第2期",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vckIyWlNJSTIza1VsNmpOdnliNUxVbzdYU2tJekxkMi0xNHNkMG5fT05MZFF6c1V6d04yMUJacHVvNC1ScHZFSg?",
-      "source_url": "https://hub.baai.ac.cn",
-      "source": "hub.baai.ac.cn"
+      "title": "新浪网·",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wOUQ2S0JsZ3RKLXRpcTlvOG1iQUFmcWxOVHI5dG8yNVlSdW1DQ25YWmdHZGVoNDVGbFdNVDlOOFRJRHh4RkVValZ",
+      "source_url": "https://www.sina.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "GLM-5.3海外翻红 智谱股价涨近5%",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZbTRJRDRSZXlKWXhSMXN4RkJmc1RNdHBUeEk1V05rejBXTldhRkhLMTdxbzR0SlExLVFSRHBGWWRCUUU3OTRWb1d",
-      "source_url": "http://www.zqrb.cn",
-      "source": "zqrb.cn"
+      "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1obDJWZWFFTFFHazhCcU5feE1wdUs5YjdFWWdNVzEzNDZHZDd3MHYwWHBwLXhlcDEyQ0pvR2xXZVJTSWFGc3ZneA?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "全球大模型第一股，大涨",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zQjEyNGZUWG53blk5MHM4NUZMOS1ZUkJza3k5TFA4SVhwWlAzcDNGQUpHOUE5NEFoRjNnNVN2TjBHNnRJVWl2VA?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "科大讯飞携全栈AI亮相哈萨克斯坦展会 持续拓展中亚数字化应用",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tR3BNNGJiWHV5QmFsSmlwUzB4Q3RWUVU2MFVHQ0ZPU1h2eVM5c2c3UEluelAxN3cxNjcxc0VUd0t3SlNmZTN2dWJ",
+      "source_url": "https://news.mydrivers.com",
+      "source": "驱动之家"
+    },
+    {
+      "title": "“大模型第一股”智谱大涨 高盛上调评级至买入",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MZlo1eGVfSGpKQTk3dU81STU4M05qVXEyek51V3VwVXVhemF6ME1HVnpRQXlXZERxSmNmTXBsZzJNV2wya2Q4NDk",
+      "source_url": "https://news.china.com",
+      "source": "中华网"
     }
   ]
 }
