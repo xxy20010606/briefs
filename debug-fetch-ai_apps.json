@@ -1,7 +1,31 @@
 {
   "type": "ai_apps",
-  "total": 36,
+  "total": 33,
   "samples": [
+    {
+      "title": "10月新一轮！现面向广东开启“AI营养师”学习人员招募！20周岁以上市民均可参与",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4OXR2bEJjRDUtcllpVEg2SjBRUEl0NU9tZVdLajRmRkQtZlZIUUFNOG5ac21Sdkc5WHMwVnhkcXJ1Vkl0XzQ4ZXA",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "Lisa Su：游戏仍是AMD核心业务，AI应用将进一步加码",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2pDZ1RVSkV3d0tsbzcxdTI2aWQxdkJ3Y2pYUmptcm15eUFmVTE4MURJV195T0xiaXVyazdJUTg5UHRIZ0JocjZ",
+      "source_url": "https://www.digitaltoday.co.kr",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "Anthropic 推出全新网络安全验证计划Cyber Verification Program，M",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTRjUGgzb2VNMzRHZXM1cGtxbnFhTHFvOXRUemo3VFA3WGliV3lIRmNKUkV4MUVLMGRpYTdmRlNmUlItS1pfZTB",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
+    },
+    {
+      "title": "Reddit因AI爬虫终止RSS订阅和公共API",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51Y3prbVhrN1BPek5tNkVQdU5GTlJCYm9adERxek9iR2NRTkhJTmF4ei1JSDlHWGx0MlYtVGJTSWU3dk1LQUlGbml",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
+    },
     {
       "title": "基于双钻模型解析生成式AI在设计流程中的整合机制研究",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55STl4NlpndXViMnFVUnlhbGJadGpUVXduT2tHZy1LTFlSN1pWX3hVUm0tWk5JVHMxaDloYmRzQ2E1NGVrQ25OcW1",
@@ -9,34 +33,10 @@
       "source": "生物通"
     },
     {
-      "title": "Anthropic重启AI意愿调查，访谈内容可选择公开",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSlU2LXBfdS1yWDZSem9JTWwyTGhvamgwM0NhN2ZzVFlXbnhMVldsdHI1NElKSG5aaVhkeGRmTXJiOTVNVmFGUnp",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "OPC创新创业方向全球征集：软件须交可运行Demo",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWtaaFc1YjVXUHVPODNWSGVmLVI1UE0yaFRTb3B1bVBEbmRsSEhGOVlLYUI4RkVqQk1pS0pYVk1rZXlRLXRLSnB",
-      "source_url": "https://quasa.io",
-      "source": "quasa.io"
-    },
-    {
-      "title": "AI这么火，为什么95%的人还是不肯掏钱？",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tTjJlS3M3UVhhYjZnV3VvYXQyNm5hVmNhNVdidEwxdHRuWjFpM2VYelVDYWFnSDE5S1lkNTM5TU83WmZYWi1qTFl",
-      "source_url": "https://www.wenxuecity.com",
-      "source": "文学城"
-    },
-    {
-      "title": "星连资本被投企业 Kando AI 完成数千万元种子轮融资，要做“决策领域的Cursor”",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUVlF4UEhVV1ZlZWk1d2pjdkRpT2pSQU4tdk1ETmhob2tGd0lvS3AtS3pmaUw3Nll6V3NtSk9ZVm5PUFc5SzVuc05",
-      "source_url": "https://m.36kr.com",
-      "source": "36Kr"
-    },
-    {
-      "title": "S&P Global 在 Capital IQ Pro 研究工作流中扩展 ChatIQ AI",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNREhIMDZQTmllenJ6Qk82UkFtZXlBUTJyMEJHUnFEU0dqb3NiSTJ6a3JoMFhSQjRIMThXUG9hdG9KT0swMENJenh",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "国金证券:《计算机行业研究：AI安全评估｜投资分析》",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxcUdTRG8xU25sSkt3c1dMWjFoOHo1X3owaXk3MHRPNDJOV0RrTUVVUmVJQTZjTWRNOTFCdDhxd2ZpMjlSajd1cUQ",
+      "source_url": "https://www.fxbaogao.com",
+      "source": "发现报告"
     }
   ]
 }

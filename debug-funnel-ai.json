@@ -1,50 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 39,
-    "trusted": 10,
+    "raw_dedup_junk": 46,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.cn": 6,
-      "sina.com.cn": 4,
-      "techwalker.com": 3,
+      "digitaltoday.co.kr": 5,
+      "techwalker.com": 4,
+      "sina.com.cn": 3,
+      "sina.cn": 3,
+      "zaochenbao.com": 3,
       "unite.ai": 3,
-      "cnbeta.com.tw": 2,
-      "moomoo.com": 2,
-      "ebiotrade.com": 1,
-      "chinacpc.com.cn": 1,
-      "com.sg": 1,
-      "mk.co.kr": 1
+      "stockstar.com": 2,
+      "ac.cn": 1,
+      "icloudnews.net": 1,
+      "ichaoqi.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 2,
-    "relaxed_72h": 4,
-    "final": 6,
-    "cap": "不限同域"
+    "fresh1_24h": 11,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "不讲PPT，让AI直接干活：深圳湾芯展，我们搞一场“生产力智能体沙龙”",
-      "d": "eet-china.com"
+      "t": "DeepSeek新一轮融资或达千亿，“豪赌”国产算力预训练",
+      "d": "21jingji.com"
     },
     {
-      "t": "英媒称保险公司正准备应对因AI代理“失控”而引发的数百万美元索赔",
+      "t": "这个假期，嘉善的他们24小时没有停！",
       "d": "sohu.com"
     },
     {
-      "t": "《自然》揭秘：假总部、假院士、真收钱，大模型时代的新型学术骗局",
+      "t": "国庆黄金周AI巨头动态：OpenAI旗舰模型延期，Agent产品补位，Anthr",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "从尝鲜走向买单，能把吃喝玩乐都交给AI吗？丨双节专题",
       "d": "sohu.com"
     },
     {
-      "t": "场景开放、资本对接、标准引领，人工智能产业大会议程抢先看！",
-      "d": "sohu.com"
+      "t": "假期重点速递 | A股节前避险回落，长假后或迎修复窗口；券商热议固态电池节点明确",
+      "d": "163.com"
     },
     {
-      "t": "共建数智新生态！四川“AI超市”正式开启入驻招募",
-      "d": "sohu.com"
+      "t": "OpenAI发布前沿大模型的全新数学能力测试成果‌",
+      "d": "36kr.com"
     },
     {
-      "t": "朱民：智能支付、国际金融基础设施治理和中国战略",
-      "d": "sohu.com"
+      "t": "厦门点面结合布局AI应用 赋能千行百业转型升级",
+      "d": "chinanews.com.cn"
     }
   ]
 }

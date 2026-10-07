@@ -1,53 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 31,
+    "raw_dedup_junk": 34,
     "trusted": 15,
     "non_trusted_top": {
-      "sina.cn": 6,
-      "tradingkey.com": 2,
-      "sphericalinsights.com": 2,
-      "kuai.media": 1,
-      "investing.com": 1,
-      "cnbeta.com.tw": 1,
-      "moomoo.com": 1,
-      "unite.ai": 1,
-      "sina.com.cn": 1
+      "sina.cn": 3,
+      "t.co": 2,
+      "digitaltoday.co.kr": 1,
+      "mydrivers.com": 1,
+      "tmgm.com": 1,
+      "wenxuecity.com": 1,
+      "chosun.com": 1,
+      "asiae.co.kr": 1,
+      "stockstar.com": 1,
+      "sfccn.com": 1
     },
     "fresh1_24h": 15,
-    "page_fresh": 5,
-    "relaxed_72h": 3,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
+      "t": "英特尔CEO陈立武：将继续参与马斯克Terafab芯片项目",
+      "d": "ifeng.com"
+    },
+    {
       "t": "日本半导体设备制造商TOWA计划建设芯片制造设备工厂 以强化日本半导体供应链",
       "d": "eastmoney.com"
     },
     {
-      "t": "AMD CEO苏姿丰：计划2027年大幅扩充AI芯片供应",
+      "t": "半导体设计与制造协同创新高端论坛正式启动，聚焦“设计—制造”关键链路",
       "d": "sohu.com"
     },
     {
-      "t": "估值300亿！粤芯上榜2026全球独角兽，广州诞生本土晶圆制造巨头",
-      "d": "ifeng.com"
+      "t": "AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能",
+      "d": "cls.cn"
     },
     {
-      "t": "直播预约 | 从晶圆制造到AI算力，大湾区半导体正在发生什么？",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "【光电集成】通俗拆解GPU造芯全流程！从硅棒到成品芯片，看懂半导体核心工艺",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "11个9纯度、国内占50%：徐州经开区鑫华半导体",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "美股讯号 | 高通回应华为专利协议，否认“韬芯片授权”说法 ｜#美股资讯# #高",
+      "t": "三星电机斥资近50亿美元在韩越扩产半导体基板",
       "d": "sohu.com"
+    },
+    {
+      "t": "华为余承东：Mate 90系列是中国半导体行业的答卷",
+      "d": "ijiwei.com"
+    },
+    {
+      "t": "代工与后端制造成本上涨，芯片设计公司面临新一轮涨价压力",
+      "d": "ijiwei.com"
     }
   ]
 }

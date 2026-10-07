@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 14,
+    "raw_dedup_junk": 59,
+    "trusted": 12,
     "non_trusted_top": {
-      "moomoo.com": 6,
-      "stockstar.com": 4,
-      "sina.cn": 4,
-      "atvnewsonline.com": 1,
+      "moomoo.com": 10,
+      "sina.cn": 8,
+      "stockstar.com": 5,
+      "eastmoney.com": 5,
+      "sina.com.cn": 3,
+      "futunn.com": 3,
+      "on.cc": 2,
       "sinchew.com.my": 1,
-      "sina.com.cn": 1,
-      "cnfin.com": 1,
-      "jin10.com": 1,
-      "on.cc": 1,
-      "cfi.net.cn": 1
+      "orientaldaily.com.my": 1,
+      "atvnewsonline.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 1,
-    "relaxed_72h": 8,
+    "fresh1_24h": 12,
+    "page_fresh": 6,
+    "relaxed_72h": 1,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "港股反弹！基金经理：估值洼地已在眼前",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "极兔速递-W(01519.HK)10月6日耗资3142.3万港元回购353万股_",
+      "t": "港股异动| 心玮医疗-B(06609)尾盘涨近9% A股IPO进程稳步推进有望提",
       "d": "cnfol.com"
     },
     {
-      "t": "新鸿基公司(00086.HK)10月6日耗资7.5万港元回购1.9万股_股市直播",
+      "t": "泰凌医药(01011)存仓市值总计8135.16万港元股东将1.98亿股股票存入",
       "d": "cnfol.com"
     },
     {
-      "t": "叮当健康(09886)10月6日斥资12.94万港元回购15.5万股_股市直播_",
+      "t": "港股午评：恒指、恒科齐跌",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "金融产业日报(10.06) : 股债分化",
+      "d": "sohu.com"
+    },
+    {
+      "t": "港股午评|恒生指数早盘跌0.53% 恒生生物科技指数跌2.73%_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "纽约证券业利润剑指900 亿美元！高盛(GS.US)连破三次季度纪录，华尔街奖金",
-      "d": "cnfol.com"
+      "t": "美股创新高，黄金石油震荡，节后A股如何走？",
+      "d": "bjnews.com.cn"
     },
     {
-      "t": "周黑鸭(01458.HK)10月6日耗资22.15万港元回购21.4万股_股市直",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "玖方数智(08238)完成发行本金总额为1392万港元的可换股债券_股市直播_市",
-      "d": "cnfol.com"
+      "t": "港股千亿市值股，大涨！",
+      "d": "stcn.com"
     }
   ]
 }

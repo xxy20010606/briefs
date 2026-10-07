@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 10,
+    "raw_dedup_junk": 50,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.cn": 21,
-      "sina.com.cn": 2,
-      "vietnam.vn": 2,
-      "iqilu.com": 2,
-      "cqnews.net": 2,
-      "360.com": 1,
-      "on.cc": 1,
-      "fjsen.com": 1,
-      "bjd.com.cn": 1,
-      "shobserver.com": 1
+      "sina.cn": 4,
+      "sina.com.cn": 3,
+      "voc.com.cn": 3,
+      "hupu.com": 2,
+      "pchome.net": 2,
+      "jingjiribao.cn": 2,
+      "vietnam.vn": 1,
+      "52hrtt.com": 1,
+      "digitaltoday.co.kr": 1,
+      "china.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 2,
-    "relaxed_72h": 7,
+    "fresh1_24h": 14,
+    "page_fresh": 14,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
+    {
+      "t": "2026国庆档电影票房破11亿！多部影片官宣海外上映",
+      "d": "sohu.com"
+    },
+    {
+      "t": "国庆档电影票房破11亿！多部影片官宣海外上映计划",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "电影上映后撤档现象频发：四年数十次撤离仅一次成功重映",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "周星驰《功夫女足》23.4亿，被沈腾《欢迎来龙餐馆》23.5亿超越！",
+      "d": "163.com"
+    },
     {
       "t": "奔赴专属的精神大陆，许魏洲PROME「第八大洲」上海演唱会官宣",
       "d": "sohu.com"
     },
     {
-      "t": "39岁李治廷：娶小5岁圈外混血美女，如今婚姻生活很幸福",
-      "d": "163.com"
-    },
-    {
-      "t": "2026国庆档电影票房破10亿！《神探之痕迹》领跑，超10部中外影片集中上映",
-      "d": "sohu.com"
-    },
-    {
-      "t": "45万人次进馆、票根经济辐射100万人次，2026 CICF×AGF落幕",
-      "d": "sohu.com"
-    },
-    {
-      "t": "电影《神探之痕迹》观影人次破1000万",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "取代四大电视网“轮播模式”，亚马逊 Prime Video 拿下艾美奖全球独家直",
+      "t": "AI 短剧爆火：制作成本仅为真人剧 1/10，平均每 36 秒诞生 1 部",
       "d": "ithome.com"
     },
     {
-      "t": "票房突破2.05亿元！《什么意思夫妇》凭什么成为国庆档黑马？",
-      "d": "163.com"
+      "t": "《只此青绿》观演体验不佳惹争议 中国东方演艺集团致歉并公布退票方案",
+      "d": "xinhuanet.com"
     }
   ]
 }

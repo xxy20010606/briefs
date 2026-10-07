@@ -1,40 +1,40 @@
 {
   "type": "ai",
-  "total": 39,
+  "total": 46,
   "samples": [
     {
-      "title": "Jev一夜爆红：一个只会做选择题的AI模型，怎么就火了2170个项目",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MOURadjdkZVRfSU13ZkxveFl6NWhUT2RHRU5NVWlWaFdtWF9tc3VjQndZN3ZLdzhiclhqUXlNZWhGREgzamhzTzJ",
+      "title": "DeepSeek新一轮融资或达千亿，“豪赌”国产算力预训练",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUo5UWdkSHl0VTNETzJvSUNzQjZXQzQ4NUJfSjdtMTdEOG5iZjZPT0ZmS2l0NFU5MUJKdlFuRk1OZUk1Y3NTV1l",
+      "source_url": "https://m.21jingji.com",
+      "source": "21财经"
+    },
+    {
+      "title": "不er，咋陶哲轩也成AI减速派了？？",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41LWpjeDdKekRqSjRIUWx6enJ0RUx4RFFiWlpMdlhQYUN2UTAwODBQekc4UFZvMVFSaVpfRk1uNXowRjFYZEdyeQ?",
+      "source_url": "https://hub.baai.ac.cn",
+      "source": "智源社区"
+    },
+    {
+      "title": "这个假期，嘉善的他们24小时没有停！",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObnRTOTdNTlJxR2JoMTNNYmdqMWNuNjAydThoZEJpN2tLX1NmUTBueGoyR3ZCNWpRekpZU2ZZcEFxdjNKWGNXLUh",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "AI智能体做长任务时为什么会\"失忆\"？这篇论文给出了一种新解法",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LSDRGdDZtWmRxTmtRRy1PNHVPalI1ei1iVzhzbG9LM1JQQmtOOS12aXloSU9qZHhnMmJndEhuX0dmM1d0YVpvNUp",
       "source_url": "https://www.techwalker.com",
       "source": "科技行者"
     },
     {
-      "title": "基准驱动的人工智能选择对推理语言模型认识论能力的影响",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96V1NGWmFIZHJFLWM3YlBBdjdZcWhJbXBDTy0wemVoRXBuQ2dWNjU0Z1Y2ZUstV0xVcHhFTmFhM3Jaa095ZjBRcF8",
-      "source_url": "https://www.ebiotrade.com",
-      "source": "生物通"
+      "title": "场景淬炼技术，共建产业生态，Soul张璐团队亮相华为全联接大会2026",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kQ1J3elpObFJaNHcwSUZxQ0ZNbGNsT21BVGYtUmRWRVdtLWFZR1MyZmd1TFlXeDMzNVBxYkNsUGVrZVJvb1oyT0h",
+      "source_url": "https://www.icloudnews.net",
+      "source": "www.icloudnews.net"
     },
     {
-      "title": "华为与美国高通达成多年专利许可协议，涵盖5G、AI等核心领域",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1JaclVQODJXODlfY3FTcHBUX1BsTjhhVXNJV3VzS2ZBU2V0UDdzS2lLakZRQWxLOUdXLXRTdlBrZThyb3NlbHd",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "Anthropic扩大先进AI模型访问权限允许特定机构开展网络安全测试- AI 人工智能",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HbnJFRmJKNDNiSkxQZmZwVDRMOUJkVXlvM0RnMXprRFlNY3BueWxfNDRjM2cwQ1VhTzZFSDVSVmRzZFdDX05QdU1",
-      "source_url": "https://www.cnbeta.com.tw",
-      "source": "cnBeta.COM"
-    },
-    {
-      "title": "贝森特|美国财长|联邦赤字|市场策略师_新浪新闻",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iaU9URVJrTlpGemU2VXFqUEtFNnVWcDh3S2lzQUlMdE5lSjZOeVRydnNWNVhFNzFEM3ZXUy1HMV8tMTk2SXVlRG5",
-      "source_url": "https://www.sina.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "无问芯穹被传秘密递表港交所，AI算力中间层独角兽冲刺港股",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWElhWlUyTVNVRC11eGxFdFRSM1pBN19VcVJTbjctelliX29IV25oOGpralhrcG00NmNBM3pGdl90Y2RfLTJOVVU",
+      "title": "10月新一轮！现面向广东开启“AI营养师”学习人员招募！20周岁以上市民均可参与",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4OXR2bEJjRDUtcllpVEg2SjBRUEl0NU9tZVdLajRmRkQtZlZIUUFNOG5ac21Sdkc5WHMwVnhkcXJ1Vkl0XzQ4ZXA",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
     }

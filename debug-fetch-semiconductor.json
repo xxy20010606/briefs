@@ -1,18 +1,18 @@
 {
   "type": "semiconductor",
-  "total": 31,
+  "total": 34,
   "samples": [
     {
-      "title": "华为余承东：Mate 90系列是中国半导体行业的答卷",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE12UDFWMDRkV2Q5b282NXlKU05LWk10cU1ibXZNU0pUWlVOQU9jZEtZc3lhMzRfM1VHYzlqamFLaEdGY00?oc=5",
-      "source_url": "http://laoyaoba.com",
-      "source": "集微网"
+      "title": "Rapidus CORE宣告成立：支持尖端半导体开发与大规模生产|EDA|客户|生态系统|超能|东芝",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0I0TkZaYmlSLXJDMHNocEF6UTZXRnlJYTdXb1NQdjJuN2VKVnhxS3dnTFktaU94Y1Ftb21DdWtXcURBeHVVWWp",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.com.cn"
     },
     {
-      "title": "石油与AI芯片进口推动，美国8月贸易逆差扩至1056亿美元，创17个月新高",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vMmdmLVFwaWNxbktLd21hbnp6RVpoQ1pfX3M3aG9wTURrU1hLWVZKcDRWamh1eUNfYV82cExuU1BQRUZCNkhuM3N",
-      "source_url": "https://wallstreetcn.com",
-      "source": "华尔街见闻"
+      "title": "英特尔CEO陈立武：将继续参与马斯克Terafab芯片项目",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTRVJ5ajUwMkJ4aElETWVRNUEzSkZhdGpMaFBIT0Y0aHY5R1lJdTE0WVpOOXRic1JVQThnZ0RqTUl3ZkZJWWxXX0d",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
     },
     {
       "title": "粤芯半导体明日上会 近3年累亏超65亿",
@@ -21,22 +21,22 @@
       "source": "财联社"
     },
     {
+      "title": "研究报告：若浸没式DUVi持续对华出口，美国及盟友AI芯片优势或在5至10年内缩小甚至消失",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR3Q4Z3FMVENMcW1jMWtlNmlGU0xqSG1vSl9VLVVkUTE0R0JnanBVcHlWaWxWVzQzOEhmUDBkV0FWc3RMWmxWNWt",
+      "source_url": "https://www.digitaltoday.co.kr",
+      "source": "디지털투데이"
+    },
+    {
       "title": "日本半导体设备制造商TOWA计划建设芯片制造设备工厂 以强化日本半导体供应链",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03TmpsQ3pmSHFCRVgtYUFlX1RKUHFVZlQ4RVFyei1DRmtialFpUWkxSDgwcVY4X2ZjQ0daREF2VUpJbmxfbEpSSnJ",
-      "source_url": "https://wap.eastmoney.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1USVZtb2htcjJxS2luLWlpaTNXTE5xV081STRvX2xud1VfcUlLLWpOdGgtdksxOEVyeEw2VzFCWGE1Wk53UzVFZHB",
+      "source_url": "https://emwap.eastmoney.com",
       "source": "东方财富"
     },
     {
-      "title": "美股直播10/06[复盘] 半导体率先走弱, 大盘回调要来了吗? 明天FOMC怎么看? 周二美股新闻",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDaFZhTDBoallycG1aeXUzQklOeEYzTmQzRkNwY2VXcTBfajYtY2J4SUV2akQxS29qY3ppNUNSVG9ubmJ1aHZWSlB",
-      "source_url": "https://www.kuai.media",
-      "source": "Kuai.Media"
-    },
-    {
-      "title": "AMD CEO苏姿丰：计划2027年大幅扩充AI芯片供应",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDBHZ05EZUVJdkNiWjg3ZXI1RmRWTVJWaDlFOFBaUUZWS2kxUUtfckZKZFBUZ3VFOEQtQ0hUSW1EcGR0SExhOXN",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUlBkNVdaVGxNUG1fbEJ0YjhMYjZHZ3hleHY2aXI3MkRsNTNqVlZyWFJ6ZUMxcTBUT3Qyb3JRblZqTEdudzlWbQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }
