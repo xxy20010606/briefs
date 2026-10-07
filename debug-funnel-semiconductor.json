@@ -1,53 +1,52 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 36,
-    "trusted": 12,
+    "raw_dedup_junk": 31,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.cn": 5,
-      "tradingkey.com": 3,
-      "chosun.com": 2,
-      "t.co": 2,
-      "mk.co.kr": 1,
-      "china.com": 1,
-      "enanyang.my": 1,
-      "528btc.com": 1,
-      "worldjournal.com": 1,
-      "icsmart.cn": 1
+      "sina.cn": 6,
+      "tradingkey.com": 2,
+      "sphericalinsights.com": 2,
+      "kuai.media": 1,
+      "investing.com": 1,
+      "cnbeta.com.tw": 1,
+      "moomoo.com": 1,
+      "unite.ai": 1,
+      "sina.com.cn": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 9,
-    "relaxed_72h": 0,
+    "fresh1_24h": 15,
+    "page_fresh": 5,
+    "relaxed_72h": 3,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2nm芯片设计费48亿，说句实话，国内有这钱的企业，真不多！",
+      "t": "日本半导体设备制造商TOWA计划建设芯片制造设备工厂 以强化日本半导体供应链",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "AMD CEO苏姿丰：计划2027年大幅扩充AI芯片供应",
       "d": "sohu.com"
     },
     {
-      "t": "国产半导体一哥换人：新王长鑫收入暴涨9倍 远超中芯国际",
+      "t": "估值300亿！粤芯上榜2026全球独角兽，广州诞生本土晶圆制造巨头",
       "d": "ifeng.com"
     },
     {
-      "t": "78亿美元落地新加坡：台积电不亲自去，却悄悄拿下了AI芯片的命门",
-      "d": "sohu.com"
-    },
-    {
-      "t": "AI功耗缺口冲击芯片链，英伟达博通“独善其身”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "聚焦光互连GPU超节点，壁仞科技丁云帆亮相第二届工业算力芯引擎研讨会",
-      "d": "sohu.com"
-    },
-    {
-      "t": "东京电子副总裁讲透\"用 AI 制造 AI 芯片\"的完整闭环逻辑",
+      "t": "直播预约 | 从晶圆制造到AI算力，大湾区半导体正在发生什么？",
       "d": "eet-china.com"
     },
     {
-      "t": "NOR Flash的僵局，正在被打破",
+      "t": "【光电集成】通俗拆解GPU造芯全流程！从硅棒到成品芯片，看懂半导体核心工艺",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "11个9纯度、国内占50%：徐州经开区鑫华半导体",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "美股讯号 | 高通回应华为专利协议，否认“韬芯片授权”说法 ｜#美股资讯# #高",
       "d": "sohu.com"
     }
   ]

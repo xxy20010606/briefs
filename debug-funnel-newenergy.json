@@ -1,38 +1,34 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 27,
+    "raw_dedup_junk": 28,
     "trusted": 3,
     "non_trusted_top": {
-      "sina.com.cn": 5,
+      "sina.com.cn": 6,
+      "sina.cn": 4,
       "autohome.com.cn": 4,
-      "indexbox.io": 4,
+      "indexbox.io": 3,
+      "nengyuanjie.net": 2,
+      "chinacpc.com.cn": 1,
+      "wedoany.com": 1,
       "seetao.com": 1,
-      "zjknews.com": 1,
-      "sina.cn": 1,
-      "news18a.com": 1,
-      "starnewskorea.com": 1,
-      "co.nz": 1,
-      "hk01.com": 1
+      "yeeyi.com": 1,
+      "ua.news": 1
     },
     "fresh1_24h": 3,
-    "page_fresh": 3,
+    "page_fresh": 2,
     "relaxed_72h": 0,
-    "final": 3,
+    "final": 2,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "比亚迪要去印度卖车了！首批两款车曝光，80万卢比起",
-      "d": "sohu.com"
-    },
-    {
-      "t": "16GWh 超级工厂投产！比亚迪补齐西北新能源产业关键拼图",
+      "t": "逆变器市场，闯进一头“公牛”",
       "d": "eet-china.com"
     },
     {
-      "t": "【网通社快报】铃木首款电动K-car e-Sky预计下月在日本上市，起售价212",
-      "d": "ifeng.com"
+      "t": "低至 0.2 元 / Wh！聚阴离子钠电，重塑储能成本天花板",
+      "d": "eet-china.com"
     }
   ]
 }

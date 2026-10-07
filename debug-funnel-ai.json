@@ -1,52 +1,50 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 24,
-    "trusted": 8,
+    "raw_dedup_junk": 39,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.cn": 7,
-      "sina.com.cn": 3,
-      "jrj.com.cn": 1,
-      "techwalker.com": 1,
+      "sina.cn": 6,
+      "sina.com.cn": 4,
+      "techwalker.com": 3,
+      "unite.ai": 3,
+      "cnbeta.com.tw": 2,
+      "moomoo.com": 2,
+      "ebiotrade.com": 1,
+      "chinacpc.com.cn": 1,
       "com.sg": 1,
-      "dzwww.com": 1,
-      "eastmoney.com": 1,
-      "yellow.com": 1
+      "mk.co.kr": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 8,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 10,
+    "page_fresh": 2,
+    "relaxed_72h": 4,
+    "final": 6,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "一批北大和清华博士，从字节和腾讯拿到数百万年薪",
-      "d": "yicai.com"
+      "t": "不讲PPT，让AI直接干活：深圳湾芯展，我们搞一场“生产力智能体沙龙”",
+      "d": "eet-china.com"
     },
     {
-      "t": "AMD锐龙AI Max详解：本地跑3200亿参数模型",
+      "t": "英媒称保险公司正准备应对因AI代理“失控”而引发的数百万美元索赔",
       "d": "sohu.com"
     },
     {
-      "t": "不er，咋陶哲轩也成AI减速派了？？",
-      "d": "qbitai.com"
-    },
-    {
-      "t": "钟义信、戈峻、吴小莉共话“戈·局”：知料科技被重点推荐",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "韩国拟推4.7万亿韩元专项计划，明年3月起研发前沿AI大模型",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "“开源”为啥火",
+      "t": "《自然》揭秘：假总部、假院士、真收钱，大模型时代的新型学术骗局",
       "d": "sohu.com"
     },
     {
-      "t": "OpenAI研究模型失控入侵Hugging Face 智能体自组织作弊窃取系统权",
-      "d": "huxiu.com"
+      "t": "场景开放、资本对接、标准引领，人工智能产业大会议程抢先看！",
+      "d": "sohu.com"
+    },
+    {
+      "t": "共建数智新生态！四川“AI超市”正式开启入驻招募",
+      "d": "sohu.com"
+    },
+    {
+      "t": "朱民：智能支付、国际金融基础设施治理和中国战略",
+      "d": "sohu.com"
     }
   ]
 }

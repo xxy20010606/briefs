@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 55,
+  "total": 35,
   "samples": [
     {
-      "title": "谷歌Googlebook解锁BL指南上线，Magisk适配确认",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxUWNiLUdCWmlyV3lJYkxmNC1BSlpucGNSTmx1c0NIMGZydTZTeVVKUk9ycThDZ2FpN2NUc3VySUR5TF9EYjhLNkN",
-      "source_url": "https://t.cj.sina.cn",
-      "source": "t.cj.sina.cn"
+      "title": "美股科技股泡沫风险升温？美银：纳指100上涨过度依赖少数AI巨头可通过期权捕捉机会_滚动新闻_财经",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vRTJKNklBclZkTVRrVk1OS05BVkpBSDhGd1FzazRvRHNGd1JXS0o4UHl4QmhLY3RSY1Rjek5fT1ZBam1XeEU5OFd",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "美银证券：PCB用CCL规格升级朝2027/28年推进 价格有上行空间 重申“买入”建滔积层板(01",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wNEpLdjdhbVRnMFVKTnVrUkpwREY0MFlBbzRZRXMzd2pPN1lIdmtxZmdBYlpNeC1BcEhWdDd4dHNWRXpJNmRXVTd",
-      "source_url": "http://sc.stock.cnfol.com",
-      "source": "中金在线"
+      "title": "韩国存储双雄杠杆ETF价格上窜下跳 政府周四将开会讨论对策",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QWEtic2EyTlZuVnpPdXRza0FQb0Q3UWJmNzZER0k2TW9XejBLcURRcEdGTWtrTjlsc1FMcGhuOGZTWWVzdUFjbQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "美股太貴、AI持股太集中 大型退休基金紛紛減碼",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45SkJNS2FORXIxR1ptbVF1NlBGNmMtdDhhNUpOS1l0YXRvdVMybjJkc0hRYnlSV00yTmxGUmJVTk1jckNzWE5aSWN",
-      "source_url": "https://www.worldjournal.com",
-      "source": "世界新聞網"
+      "title": "日经225 (.N225)讨论区- 股票评论- 股吧交流社区",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPNHlFYlhDSzd6TlBTeldMcGN4NEdjSDlocTB1ejlncGQ4MXRpWFZvODlSay1GTk4yOTI5YmtGOTE3eXlaM0JxSEx",
+      "source_url": "https://www.moomoo.com",
+      "source": "Moomoo"
     },
     {
-      "title": "港股午评|恒生指数早盘涨0.78% 恒生生物科技指数创年内新高_股市直播_市场",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qdEc0WVplTVM4eXZuY1FnbDVHaGhkYUx4dEVEczdwa0p6SEFRanp3STJJOWRHUzRBOUh1TTNrV3ZMWUZlWk9XVDh",
-      "source_url": "http://sc.stock.cnfol.com",
-      "source": "中金在线"
+      "title": "历史新高！今夜，沸腾！欧美股债“齐飞”",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd0dvSmktTS0wM0FuNVE0dmVpNmRtb0ZkWEI2Qk01akNLbWpja0t3aDIwa2kwM2QtVlJEZ09NZ05sOXF0cGJMbGQ",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "科技股推动三大指数上涨 亚洲股市接棒上涨",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPZnhRRWd6UDVwSE1Xa2ZWVGVuVTFEelhVUjhwR0pnZTE1VFlJWnJSeHloeERpQTlhNkVXZkdlY1hBNVhrbXhuZVZ",
-      "source_url": "https://atvnewsonline.com",
-      "source": "亚洲电视新闻"
+      "title": "美股异动| Netlist(NLST.US)一度涨18% 美光(MU.US)斥资6亿美元获五年专利授",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81MzZpOWxTSE1UM09yNnBRZUg1M2tFYmRKWEdrcmFLOGFyTk1jcEtjY1NKSkdNSXlJaVJ5LXpMT2x5cXdxU0UweW5",
+      "source_url": "https://finance.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "马股半天涨5.49点 种植科技股走高 - 财经",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XbGFINUpkajRtTFVsY0d3eW0yV1p5b2xwQ2MwdnY2SEVieWRRbXlFSnQ0Z1JRX3RmZThjM2J0Ul83OG83VC1ONEM",
-      "source_url": "https://www.sinchew.com.my",
-      "source": "即时财经"
+      "title": "熊市跑赢ETH 731 基点：BitMine(BMNR.US) 回购策略揭秘_滚动新闻",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wNWxfZ2w5cFpzcjNuRzJRTURtV3JNX1ExYzM1aE0zMFBuekR4RjM2clpoN3FYbHFTcWQ4UmhBTm1LbGF1ZnFTOWc",
+      "source_url": "https://finance.stockstar.com",
+      "source": "证券之星"
     }
   ]
 }

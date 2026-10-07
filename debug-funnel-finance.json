@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 55,
-    "trusted": 16,
+    "raw_dedup_junk": 35,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "sina.com.cn": 8,
-      "moomoo.com": 3,
-      "newswav.com": 2,
-      "cnfin.com": 2,
-      "eastmoney.com": 2,
-      "worldjournal.com": 1,
+      "moomoo.com": 6,
+      "stockstar.com": 4,
+      "sina.cn": 4,
       "atvnewsonline.com": 1,
       "sinchew.com.my": 1,
-      "orientaldaily.com.my": 1
+      "sina.com.cn": 1,
+      "cnfin.com": 1,
+      "jin10.com": 1,
+      "on.cc": 1,
+      "cfi.net.cn": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 11,
-    "relaxed_72h": 0,
+    "fresh1_24h": 6,
+    "page_fresh": 1,
+    "relaxed_72h": 8,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "美银证券：PCB用CCL规格升级朝2027/28年推进 价格有上行空间 重申“买",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "港股午评|恒生指数早盘涨0.78% 恒生生物科技指数创年内新高_股市直播_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "瑞银：利率飙升之后--标普500的估值重构与后市路径",
-      "d": "sohu.com"
-    },
-    {
-      "t": "ESMO年会催化港股生物医药股走强 逾30项国产药物研究将登台",
+      "t": "港股反弹！基金经理：估值洼地已在眼前",
       "d": "eastmoney.com"
     },
     {
-      "t": "元鼎证券观察：假期市场出现新线索，A股节后关注全球风险偏好变化",
-      "d": "163.com"
+      "t": "极兔速递-W(01519.HK)10月6日耗资3142.3万港元回购353万股_",
+      "d": "cnfol.com"
     },
     {
-      "t": "元鼎证券观察：港股率先走强释放信号，A股节后重启迎来内外联动",
-      "d": "163.com"
+      "t": "新鸿基公司(00086.HK)10月6日耗资7.5万港元回购1.9万股_股市直播",
+      "d": "cnfol.com"
     },
     {
-      "t": "港股早报 | 中国金龙指数涨超1.7% 华为与高通宣布达成长期专利交叉许可",
-      "d": "21jingji.com"
+      "t": "叮当健康(09886)10月6日斥资12.94万港元回购15.5万股_股市直播_",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "纽约证券业利润剑指900 亿美元！高盛(GS.US)连破三次季度纪录，华尔街奖金",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "周黑鸭(01458.HK)10月6日耗资22.15万港元回购21.4万股_股市直",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "玖方数智(08238)完成发行本金总额为1392万港元的可换股债券_股市直播_市",
+      "d": "cnfol.com"
     }
   ]
 }

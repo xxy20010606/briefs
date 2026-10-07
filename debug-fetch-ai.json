@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 24,
+  "total": 39,
   "samples": [
     {
-      "title": "一批北大和清华博士，从字节和腾讯拿到数百万年薪",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kUV9pZHdROFJuUDVxclk5aEU3R25wZzRfc0Z3amVIaTJ3dmNzazd2Z2h6QjNzSXRZWVVWdFNPNERRVkJXZ0hEeF9",
-      "source_url": "https://www.yicai.com",
-      "source": "第一财经"
+      "title": "Jev一夜爆红：一个只会做选择题的AI模型，怎么就火了2170个项目",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MOURadjdkZVRfSU13ZkxveFl6NWhUT2RHRU5NVWlWaFdtWF9tc3VjQndZN3ZLdzhiclhqUXlNZWhGREgzamhzTzJ",
+      "source_url": "https://www.techwalker.com",
+      "source": "科技行者"
     },
     {
-      "title": "AMD锐龙AI Max详解：本地跑3200亿参数模型",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMWlVaG5ZU0tRSHM2NmRxWFBxR1IxaGNPdmtJUXJqODJzVVZ0WWJ5SVJjMXhONTdUbmFQSFFoLV92WmhiaFF4Z1J",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "基准驱动的人工智能选择对推理语言模型认识论能力的影响",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96V1NGWmFIZHJFLWM3YlBBdjdZcWhJbXBDTy0wemVoRXBuQ2dWNjU0Z1Y2ZUstV0xVcHhFTmFhM3Jaa095ZjBRcF8",
+      "source_url": "https://www.ebiotrade.com",
+      "source": "生物通"
     },
     {
-      "title": "不er，咋陶哲轩也成AI减速派了？？",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ndll3VFAwakV1Q2lRcDktcGhDZjA1SFBJc3lGNS02c0hRcjRaS2stTl9RMWhaV0ZjdndWUFJKWjdDell6aVRqSlF",
-      "source_url": "https://www.qbitai.com",
-      "source": "量子位 QbitAI"
+      "title": "华为与美国高通达成多年专利许可协议，涵盖5G、AI等核心领域",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1JaclVQODJXODlfY3FTcHBUX1BsTjhhVXNJV3VzS2ZBU2V0UDdzS2lLakZRQWxLOUdXLXRTdlBrZThyb3NlbHd",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "钟义信、戈峻、吴小莉共话“戈·局”：知料科技被重点推荐",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XSjlOaFhfNFdrNndPdGJweTB4bWxLUFJPQndJT09ST0d6Tmp1amtWcXdJWDU3U2Y0ckFMOWlXR0xVUXpmYmxZaFh",
-      "source_url": "https://sd.ifeng.com",
-      "source": "凤凰网山东"
+      "title": "Anthropic扩大先进AI模型访问权限允许特定机构开展网络安全测试- AI 人工智能",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HbnJFRmJKNDNiSkxQZmZwVDRMOUJkVXlvM0RnMXprRFlNY3BueWxfNDRjM2cwQ1VhTzZFSDVSVmRzZFdDX05QdU1",
+      "source_url": "https://www.cnbeta.com.tw",
+      "source": "cnBeta.COM"
     },
     {
-      "title": "全球AI都在新高，港A在纠结啥？",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03OGY0RWctaExMblNRdjVRQl9IN1hpaTlfd3pmWjF3OVo4UjBQWFJOTndBTFVHanllQjZBUTJmUlBXUkU4LXhiQWQ",
-      "source_url": "https://stock.jrj.com.cn",
-      "source": "金融界"
+      "title": "贝森特|美国财长|联邦赤字|市场策略师_新浪新闻",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iaU9URVJrTlpGemU2VXFqUEtFNnVWcDh3S2lzQUlMdE5lSjZOeVRydnNWNVhFNzFEM3ZXUy1HMV8tMTk2SXVlRG5",
+      "source_url": "https://www.sina.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "韩国拟推4.7万亿韩元专项计划，明年3月起研发前沿AI大模型",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RWkx3RnBrRTFfWncxMnFFa2xpaEc3SEdqRXlQVXZyYmlSYmJyM29adG8wRVBUaHhKNThDYW9iUTVkZTlBaVhaSmV",
-      "source_url": "https://tech.ifeng.com",
-      "source": "凤凰网科技"
+      "title": "无问芯穹被传秘密递表港交所，AI算力中间层独角兽冲刺港股",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWElhWlUyTVNVRC11eGxFdFRSM1pBN19VcVJTbjctelliX29IV25oOGpralhrcG00NmNBM3pGdl90Y2RfLTJOVVU",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     }
   ]
 }

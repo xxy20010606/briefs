@@ -1,38 +1,38 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 20,
-    "trusted": 4,
+    "raw_dedup_junk": 36,
+    "trusted": 3,
     "non_trusted_top": {
-      "sina.cn": 4,
-      "pasqualepillitteri.it": 2,
-      "hk01.com": 2,
-      "unite.ai": 2,
-      "stockstar.com": 1,
+      "unite.ai": 13,
+      "pasqualepillitteri.it": 6,
+      "quasa.io": 2,
+      "ebiotrade.com": 1,
+      "wenxuecity.com": 1,
+      "80aj.com": 1,
+      "digitimes.com.tw": 1,
+      "2firsts.com": 1,
       "moomoo.com": 1,
-      "jiaoyujie365.com": 1,
-      "longbridge.com": 1,
-      "hurun.net": 1,
-      "80aj.com": 1
+      "newswav.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 3,
-    "relaxed_72h": 0,
+    "fresh1_24h": 2,
+    "page_fresh": 1,
+    "relaxed_72h": 2,
     "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "AMD锐龙AI Max详解：本地跑3200亿参数模型",
+      "t": "星连资本被投企业 Kando AI 完成数千万元种子轮融资，要做“决策领域的Cu",
+      "d": "36kr.com"
+    },
+    {
+      "t": "macOS 27 AI模型难删？开源工具一键清理释放12GB空间",
       "d": "sohu.com"
     },
     {
-      "t": "“聚力AI赋能 扩大宣传声量” 浦发银行太原分行承办“山西银行业大讲堂”第十七期",
-      "d": "sohu.com"
-    },
-    {
-      "t": "TypeSafe AI估值十天飙涨50倍，新模型Jev引发投资热潮",
-      "d": "huxiu.com"
+      "t": "亚游体育最新官网APP下载最新动态：版本升级与核心功能深度解析",
+      "d": "ijiwei.com"
     }
   ]
 }

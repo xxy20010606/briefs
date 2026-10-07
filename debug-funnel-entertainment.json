@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 59,
-    "trusted": 17,
+    "raw_dedup_junk": 49,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.cn": 10,
-      "360.com": 4,
-      "pchome.net": 3,
-      "yzwb.net": 3,
-      "on.cc": 2,
-      "bjd.com.cn": 2,
-      "weibo.com": 1,
-      "vietnam.vn": 1,
-      "mk.co.kr": 1,
-      "seehua.com": 1
+      "sina.cn": 21,
+      "sina.com.cn": 2,
+      "vietnam.vn": 2,
+      "iqilu.com": 2,
+      "cqnews.net": 2,
+      "360.com": 1,
+      "on.cc": 1,
+      "fjsen.com": 1,
+      "bjd.com.cn": 1,
+      "shobserver.com": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 17,
-    "relaxed_72h": 0,
+    "fresh1_24h": 9,
+    "page_fresh": 2,
+    "relaxed_72h": 7,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "2026电竞显示器品牌排行榜揭晓高端梯队格局",
+      "t": "奔赴专属的精神大陆，许魏洲PROME「第八大洲」上海演唱会官宣",
       "d": "sohu.com"
     },
     {
-      "t": "60集电视剧《伟大的长征》10月9日央视一套黄金档开播",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "新作国庆档“遥遥领先”，陈思诚这次真进步了？",
+      "t": "39岁李治廷：娶小5岁圈外混血美女，如今婚姻生活很幸福",
       "d": "163.com"
     },
     {
-      "t": "电影《生化危机：爆发夜》 上映 2 天，总票房破 1 亿",
+      "t": "2026国庆档电影票房破10亿！《神探之痕迹》领跑，超10部中外影片集中上映",
+      "d": "sohu.com"
+    },
+    {
+      "t": "45万人次进馆、票根经济辐射100万人次，2026 CICF×AGF落幕",
+      "d": "sohu.com"
+    },
+    {
+      "t": "电影《神探之痕迹》观影人次破1000万",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "取代四大电视网“轮播模式”，亚马逊 Prime Video 拿下艾美奖全球独家直",
       "d": "ithome.com"
     },
     {
-      "t": "刘欢：2套房产都写妻子的名字，生前曾被父母误解",
+      "t": "票房突破2.05亿元！《什么意思夫妇》凭什么成为国庆档黑马？",
       "d": "163.com"
-    },
-    {
-      "t": "舞剧《楚河汉界》中国首演 于“棋局”之中重塑楚汉故事",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "贵州大地指纹音乐会最新预约提示",
-      "d": "sohu.com"
     }
   ]
 }
