@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 33,
+  "total": 39,
   "samples": [
     {
-      "title": "10月新一轮！现面向广东开启“AI营养师”学习人员招募！20周岁以上市民均可参与",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4OXR2bEJjRDUtcllpVEg2SjBRUEl0NU9tZVdLajRmRkQtZlZIUUFNOG5ac21Sdkc5WHMwVnhkcXJ1Vkl0XzQ4ZXA",
+      "title": "AI应用不能逾越学术伦理底线",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWTTZydGlncGg0UHJ6U1RFTU50X1E3ZVdYeHhaTG01QnZPdmhlY1pjbV94UzAwOUw3c2ExbWRDTXB5enJad1Y2RzA",
+      "source_url": "https://tidenews.com.cn",
+      "source": "潮新闻客户端"
+    },
+    {
+      "title": "2026年AI搜索手机怎么选？三大路线实测，这3款闭眼入+FAQ",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQzlSb0hyUG9oUW9RQV9RcDFLd2ZybzhxSklmbVdPUDdabDJMbjhMWFQ1eXItQWhqd3VYOU8zblNNejBOMUEyalo",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
     },
     {
-      "title": "Lisa Su：游戏仍是AMD核心业务，AI应用将进一步加码",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2pDZ1RVSkV3d0tsbzcxdTI2aWQxdkJ3Y2pYUmptcm15eUFmVTE4MURJV195T0xiaXVyazdJUTg5UHRIZ0JocjZ",
-      "source_url": "https://www.digitaltoday.co.kr",
-      "source": "디지털투데이"
+      "title": "基于大语言模型的工具市场展望2035：企业自动化需求驱动扩张",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVVQ0c2hxOVl0a2llaFlFVVJjZ2JfSDdfYmlEaVppMGd4d0x0Q0IwaTZSNFloMkdTcnU4R1V6YWFOOTFza2ZSUGV",
+      "source_url": "https://www.indexbox.io",
+      "source": "新闻和统计"
     },
     {
-      "title": "Anthropic 推出全新网络安全验证计划Cyber Verification Program，M",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUTRjUGgzb2VNMzRHZXM1cGtxbnFhTHFvOXRUemo3VFA3WGliV3lIRmNKUkV4MUVLMGRpYTdmRlNmUlItS1pfZTB",
+      "title": "规模五年翻倍至4万亿元，App Store生态观察：中国开发者加速走向全球",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iRGpOUTdVVVplOThEalAyWURxMEVqdzNvUzRXUlN2dGxhQnBONjZ1TmxiUnJPZFlYdUo1aFRLTnpDSDRTaFpsYU5",
+      "source_url": "http://www.cctime.com",
+      "source": "飞象网"
+    },
+    {
+      "title": "全球最大智能体支付协同网络在上海启动，AI让银行卡与电子钱包统一语言",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15Wl9QMm1nRFJYb0NDdjFCTi1lQ2YteWxZZ05EbEUxSTc3MXJ6dk1qbWVtanpmQ0hRY09keWtQSHJZN2x6eFl4dXh",
+      "source_url": "https://www.jfdaily.com",
+      "source": "上观新闻"
+    },
+    {
+      "title": "Windows 宣布 DeepSeek V4 Flash 与 Nemotron 可本地运行, lla",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjJLdnZHZ3ZJMUFHODJuTDBQRkVDbUxPRk5kZ1VjUEhmNFRNdTZtTVhveUdxS29JNGJoMGRIZ0lDWktMT0I1N2N",
       "source_url": "https://pasqualepillitteri.it",
       "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "Reddit因AI爬虫终止RSS订阅和公共API",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51Y3prbVhrN1BPek5tNkVQdU5GTlJCYm9adERxek9iR2NRTkhJTmF4ei1JSDlHWGx0MlYtVGJTSWU3dk1LQUlGbml",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
-    },
-    {
-      "title": "基于双钻模型解析生成式AI在设计流程中的整合机制研究",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55STl4NlpndXViMnFVUnlhbGJadGpUVXduT2tHZy1LTFlSN1pWX3hVUm0tWk5JVHMxaDloYmRzQ2E1NGVrQ25OcW1",
-      "source_url": "https://www.ebiotrade.com",
-      "source": "生物通"
-    },
-    {
-      "title": "国金证券:《计算机行业研究：AI安全评估｜投资分析》",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxcUdTRG8xU25sSkt3c1dMWjFoOHo1X3owaXk3MHRPNDJOV0RrTUVVUmVJQTZjTWRNOTFCdDhxd2ZpMjlSajd1cUQ",
-      "source_url": "https://www.fxbaogao.com",
-      "source": "发现报告"
     }
   ]
 }

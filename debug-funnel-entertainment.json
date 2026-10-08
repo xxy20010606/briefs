@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 14,
+    "raw_dedup_junk": 39,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.cn": 4,
-      "sina.com.cn": 3,
-      "voc.com.cn": 3,
+      "sina.cn": 8,
+      "360.com": 3,
       "hupu.com": 2,
-      "pchome.net": 2,
-      "jingjiribao.cn": 2,
-      "vietnam.vn": 1,
-      "52hrtt.com": 1,
-      "digitaltoday.co.kr": 1,
-      "china.com": 1
+      "yzwb.net": 2,
+      "aboluowang.com": 1,
+      "ttplus.cn": 1,
+      "pedaily.cn": 1,
+      "jfdaily.com": 1,
+      "hangzhou.com.cn": 1,
+      "iqilu.com": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 14,
-    "relaxed_72h": 0,
+    "fresh1_24h": 13,
+    "page_fresh": 7,
+    "relaxed_72h": 6,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2026国庆档电影票房破11亿！多部影片官宣海外上映",
+      "t": "20多亿元《八仙！》之后成都还有多少“八仙”？",
       "d": "sohu.com"
     },
     {
-      "t": "国庆档电影票房破11亿！多部影片官宣海外上映计划",
-      "d": "chinanews.com.cn"
+      "t": "从消费外流到文旅顶流 泸州音乐节做对了什么？",
+      "d": "people.com.cn"
     },
     {
-      "t": "电影上映后撤档现象频发：四年数十次撤离仅一次成功重映",
-      "d": "huxiu.com"
+      "t": "影视剧出海，让世界感悟中国人的生活哲学",
+      "d": "ce.cn"
     },
     {
-      "t": "周星驰《功夫女足》23.4亿，被沈腾《欢迎来龙餐馆》23.5亿超越！",
-      "d": "163.com"
+      "t": "歌手李玉刚宣布一个重要决定",
+      "d": "guancha.cn"
     },
     {
-      "t": "奔赴专属的精神大陆，许魏洲PROME「第八大洲」上海演唱会官宣",
+      "t": "从小爱到大爱的升华（创作谈）",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "清单请收好！10月，浙江多场精彩演出等你来",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "2026国庆档的三点变化",
       "d": "sohu.com"
-    },
-    {
-      "t": "AI 短剧爆火：制作成本仅为真人剧 1/10，平均每 36 秒诞生 1 部",
-      "d": "ithome.com"
-    },
-    {
-      "t": "《只此青绿》观演体验不佳惹争议 中国东方演艺集团致歉并公布退票方案",
-      "d": "xinhuanet.com"
     }
   ]
 }

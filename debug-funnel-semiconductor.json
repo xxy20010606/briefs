@@ -1,54 +1,50 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 34,
-    "trusted": 15,
+    "raw_dedup_junk": 36,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.cn": 3,
-      "t.co": 2,
-      "digitaltoday.co.kr": 1,
-      "mydrivers.com": 1,
-      "tmgm.com": 1,
-      "wenxuecity.com": 1,
+      "sina.cn": 4,
+      "sina.com.cn": 3,
+      "indexbox.io": 3,
+      "sphericalinsights.com": 2,
       "chosun.com": 1,
-      "asiae.co.kr": 1,
-      "stockstar.com": 1,
-      "sfccn.com": 1
+      "eastmoney.com": 1,
+      "tradingkey.com": 1,
+      "17173.com": 1,
+      "stnn.cc": 1,
+      "stockstar.com": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 8,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 13,
+    "page_fresh": 5,
+    "relaxed_72h": 1,
+    "final": 6,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "英特尔CEO陈立武：将继续参与马斯克Terafab芯片项目",
+      "t": "行业领军丨胜科纳米：“自研+AI”双轮驱动 打造芯片检测“全科医院”",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "高盛：半导体板块大跌背后，三季度业绩有望全面反弹",
+      "d": "sohu.com"
+    },
+    {
+      "t": "超170亿元，半导体设备龙头大秀订单",
       "d": "ifeng.com"
     },
     {
-      "t": "日本半导体设备制造商TOWA计划建设芯片制造设备工厂 以强化日本半导体供应链",
-      "d": "eastmoney.com"
+      "t": "西安奕材、沪硅、中欣晶圆、金瑞泓、中环领先、合晶、超硅、晶升股份等齐聚【第九届半",
+      "d": "eet-china.com"
     },
     {
-      "t": "半导体设计与制造协同创新高端论坛正式启动，聚焦“设计—制造”关键链路",
+      "t": "全球新材 品牌招募—FINE2027，抢滩AI算力与高端装备材料大市场",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "英国拿600万英镑专门培养芯片博士：博士名额开始跟着技术短板走",
       "d": "sohu.com"
-    },
-    {
-      "t": "AI芯片测试需求旺 矽格确认涨价 已有存储客户加价锁产能",
-      "d": "cls.cn"
-    },
-    {
-      "t": "三星电机斥资近50亿美元在韩越扩产半导体基板",
-      "d": "sohu.com"
-    },
-    {
-      "t": "华为余承东：Mate 90系列是中国半导体行业的答卷",
-      "d": "ijiwei.com"
-    },
-    {
-      "t": "代工与后端制造成本上涨，芯片设计公司面临新一轮涨价压力",
-      "d": "ijiwei.com"
     }
   ]
 }

@@ -1,50 +1,38 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 31,
-    "trusted": 6,
+    "raw_dedup_junk": 17,
+    "trusted": 5,
     "non_trusted_top": {
-      "sina.com.cn": 6,
+      "sina.com.cn": 4,
       "sina.cn": 3,
-      "indexbox.io": 3,
-      "autohome.com.cn": 3,
-      "news18a.com": 3,
-      "wedoany.com": 1,
-      "mydrivers.com": 1,
-      "nikkei.com": 1,
-      "digitaltoday.co.kr": 1,
-      "caus.com": 1
+      "indexbox.io": 2,
+      "starnewskorea.com": 1,
+      "autohome.com.cn": 1,
+      "china.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 6,
-    "relaxed_72h": 0,
-    "final": 6,
+    "fresh1_24h": 5,
+    "page_fresh": 2,
+    "relaxed_72h": 2,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "喜报集结！国庆假期，一批大国重器与重点工程迎来新突破",
-      "d": "cyol.com"
-    },
-    {
-      "t": "总投资4.3亿元！临沂200MW/400MWh独立储能项目获环评批复",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "拟布局威海等五地！威海金宏与天津城建集团签约100GWh固态电池项目",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "非洲单体最大！国轩高科埃及独立储能项目首批交付！",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "“十五五”新图景 | 从“缺电”到“送电” 微电网支撑“近零碳海岛”",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "低至 0.2 元 / Wh！聚阴离子钠电，重塑储能成本天花板",
+      "t": "2026“电力电子”学科排名：中国4校入围全球十强，东南大学跻身前五",
       "d": "eet-china.com"
+    },
+    {
+      "t": "【图】充电速度≈加油速度 一文概括比亚迪第二代刀片电池+闪充站技术",
+      "d": "autohome.com.cn"
+    },
+    {
+      "t": "又一家日系汽车大厂采用地平线智驾芯片",
+      "d": "sohu.com"
+    },
+    {
+      "t": "内蒙古2026年第四批独立储能清单印发，华能/远景能源/利星能项目入选",
+      "d": "sohu.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 59,
+  "total": 60,
   "samples": [
     {
-      "title": "财政部注资保险央企最新进展",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aYTV2ZmZuYTVnVVd2ZUFfa3A4WWtkV0oyNmZWRXVCY3loNHE2VzAySmk3X3JSdGRIbFdyTVM0REtNUzJEdVRZc1l",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "港股异动| 心玮医疗-B(06609)尾盘涨近9% A股IPO进程稳步推进有望提升公司股票流动性_股",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KXzZlRHFsM2JUOHQxdE1UZkJKbWZMdlc4aXJrMWxqZlQwLWNtQjJRSkZZTVhHSklKbllaTVdsdlN3S3FWVWYyZ25",
+      "title": "中金：节后A股或迎来“开门红”_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoaU5NclpreVVKSWYzSDVWU0wtVjlTOU5wRWsxbUJvYVR6aTVaS2E0RmZHV21rdHB1Sm9RN0d1cUlqb0gxS0hSRU1",
       "source_url": "http://sc.stock.cnfol.com",
       "source": "中金在线"
     },
     {
-      "title": "GUM:首三季人均赚20,287港元_公司新闻_财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LWHJUWUhHU0R5U01HZ3VUdm9wd0pMeUg1Skt6VGs3b1RheF9BNXl0UTV6aW9xeVpyb2lYTzhjV3lIR2IwcGdQdlJ",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "股市 | 星洲网 Sin Chew Daily Malaysia Latest News and H",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9taDE2UDBmRU1tMUFYZVRZTGcyTHMyR21VdERoWllBb1JFMFZzVVpNUndnTlhrY25TWGxJNFdGdFQ3MFRBUkZmUER",
-      "source_url": "https://www.sinchew.com.my",
-      "source": "Sin Chew Daily"
-    },
-    {
-      "title": "半天急跌至9个月新低 马股成亚洲“重灾区”",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ucGNkVkJRajJucWlBYVZrTHVBZjBCb3RaU2VyUG8zc1RCQ3BlcnR5cUpUU2pad3B0a2JESC00SWhqNXRxX0hKZGl",
-      "source_url": "https://www.orientaldaily.com.my",
-      "source": "马来西亚东方日报"
-    },
-    {
-      "title": "节后股市怎么走？近5年数据这么说|上证指数|深证成指|国庆节|资金|交易日",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjlWaW83X2Joa2RqaUdza3IwUXlTWTJwcmFUUTMyMXRHVVpVaGRxRWpOclFrTEdidVlMMWRMcjdabTBDbl8zdTR",
+      "title": "四大证券报头版头条内容精华摘要_2026年10月8日_财经新闻",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1RrSmtuengwSzdwSmlPUkRjNUVkNVJYX0pXMHByWEU1dUF4cHY2eW9ISmd3LWVUTGJiLWNtSGJ5UTNlVGxJVXJ",
       "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
+      "source": "新浪财经"
+    },
+    {
+      "title": "美联储加息预期升温！欧美股市集体收跌，半导体股多数下跌，白银跌破60美元，加密货币超12万人被爆仓",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXLW9wVklUR0pZSEM2b2FoRFZ5YUJlR2EwcUNnemZxM2lpNVJLcFRuU2FPTEs1VWl5alF6VkhDWGltYWxiSjhtMVl",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "10月8日隔夜要闻：美股收跌美光涨超4% 欧元区股市触及四个月低点美联储纪要显示9月升息获一致支持",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VSmE5SUp4aE9ROUQ3aU11ZTZQcUtMWXE1NFlBYWZ5dmtidFJlV3VpMFBoVEVlQmxuMUdaSTR5bGxNVEthUXl3U1d",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "【环球财经】日本东证股指成分股将大幅减少",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tMkRwQWt3TXc5cHAwa1FRdEFma1BJeFpfSkFOQ3NwMF85aFdLUHF6TTBLeVhYblZ3VWJqQmRxSzFReXR3TEpRXzR",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "全世界都在针对A 公子？放假外围涨，上班就暴跌|a公子|股债双杀_新浪新闻",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12aVBydU1waDNLMFNDTDgybkRoT2JZYnY2dUNfUWtFSVJNaUhFN2pyc2oxNWtXeTFWY013RTFrX1MxelB4WGdfU2E",
+      "source_url": "https://www.sina.cn",
+      "source": "手机新浪网"
     }
   ]
 }

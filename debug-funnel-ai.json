@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 46,
-    "trusted": 11,
+    "raw_dedup_junk": 43,
+    "trusted": 12,
     "non_trusted_top": {
-      "digitaltoday.co.kr": 5,
-      "techwalker.com": 4,
-      "sina.com.cn": 3,
+      "sina.com.cn": 5,
       "sina.cn": 3,
-      "zaochenbao.com": 3,
-      "unite.ai": 3,
-      "stockstar.com": 2,
-      "ac.cn": 1,
-      "icloudnews.net": 1,
-      "ichaoqi.com": 1
+      "com.sg": 3,
+      "techwalker.com": 2,
+      "unite.ai": 2,
+      "80aj.com": 2,
+      "csdn.net": 1,
+      "creaders.net": 1,
+      "bbtnews.com.cn": 1,
+      "worldjournal.com": 1
     },
     "fresh1_24h": 11,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
+    "page_fresh": 5,
+    "relaxed_72h": 5,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "DeepSeek新一轮融资或达千亿，“豪赌”国产算力预训练",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "这个假期，嘉善的他们24小时没有停！",
+      "t": "大模型里的“制造车间”：奇智孔明造出一群工业智能体",
       "d": "sohu.com"
     },
     {
-      "t": "国庆黄金周AI巨头动态：OpenAI旗舰模型延期，Agent产品补位，Anthr",
+      "t": "工业大省有“模”力｜大模型里的“制造车间”：奇智孔明造出一群工业智能体",
+      "d": "sohu.com"
+    },
+    {
+      "t": "大模型推理成本加速下降 AI应用端渗透有望迎来提速",
+      "d": "cls.cn"
+    },
+    {
+      "t": "调教AI，这份新职业有点潮",
+      "d": "sohu.com"
+    },
+    {
+      "t": "AI算准车流，车道随“峰”而变",
+      "d": "stdaily.com"
+    },
+    {
+      "t": "字节、腾讯、阿里、百度激战AI办公助手，Agent成为新同事",
       "d": "huxiu.com"
     },
     {
-      "t": "从尝鲜走向买单，能把吃喝玩乐都交给AI吗？丨双节专题",
-      "d": "sohu.com"
-    },
-    {
-      "t": "假期重点速递 | A股节前避险回落，长假后或迎修复窗口；券商热议固态电池节点明确",
-      "d": "163.com"
-    },
-    {
-      "t": "OpenAI发布前沿大模型的全新数学能力测试成果‌",
-      "d": "36kr.com"
-    },
-    {
-      "t": "厦门点面结合布局AI应用 赋能千行百业转型升级",
-      "d": "chinanews.com.cn"
+      "t": "Agent PC会成为AI硬件交易的新变量吗？",
+      "d": "ifeng.com"
     }
   ]
 }

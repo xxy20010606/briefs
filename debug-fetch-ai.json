@@ -1,40 +1,40 @@
 {
   "type": "ai",
-  "total": 46,
+  "total": 43,
   "samples": [
     {
-      "title": "DeepSeek新一轮融资或达千亿，“豪赌”国产算力预训练",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUo5UWdkSHl0VTNETzJvSUNzQjZXQzQ4NUJfSjdtMTdEOG5iZjZPT0ZmS2l0NFU5MUJKdlFuRk1OZUk1Y3NTV1l",
-      "source_url": "https://m.21jingji.com",
-      "source": "21财经"
-    },
-    {
-      "title": "不er，咋陶哲轩也成AI减速派了？？",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41LWpjeDdKekRqSjRIUWx6enJ0RUx4RFFiWlpMdlhQYUN2UTAwODBQekc4UFZvMVFSaVpfRk1uNXowRjFYZEdyeQ?",
-      "source_url": "https://hub.baai.ac.cn",
-      "source": "智源社区"
-    },
-    {
-      "title": "这个假期，嘉善的他们24小时没有停！",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObnRTOTdNTlJxR2JoMTNNYmdqMWNuNjAydThoZEJpN2tLX1NmUTBueGoyR3ZCNWpRekpZU2ZZcEFxdjNKWGNXLUh",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "AI智能体做长任务时为什么会\"失忆\"？这篇论文给出了一种新解法",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LSDRGdDZtWmRxTmtRRy1PNHVPalI1ei1iVzhzbG9LM1JQQmtOOS12aXloSU9qZHhnMmJndEhuX0dmM1d0YVpvNUp",
+      "title": "AI模型之间悄悄传递的\"小纸条\"，可能什么都没说",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51MWpGQ0pfUUstaXVHNU01V3p2bm03blM0Rk82UzRqSWtIYVdzdE1wMDJrS0hpaXpieGJVVE11RnpKU3dhYjcwSHZ",
       "source_url": "https://www.techwalker.com",
       "source": "科技行者"
     },
     {
-      "title": "场景淬炼技术，共建产业生态，Soul张璐团队亮相华为全联接大会2026",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kQ1J3elpObFJaNHcwSUZxQ0ZNbGNsT21BVGYtUmRWRVdtLWFZR1MyZmd1TFlXeDMzNVBxYkNsUGVrZVJvb1oyT0h",
-      "source_url": "https://www.icloudnews.net",
-      "source": "www.icloudnews.net"
+      "title": "谷歌：让大模型在示例学习中更省显存",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zY3htdWdUWUZmXzh6RzdUTkZ5UF9md2hNeDNueG1IZDE5ejhnMkZpel9CNXk0ZW9XQ1BxSlJBRUg4ZW42MkdxeGp",
+      "source_url": "https://blog.csdn.net",
+      "source": "CSDN博客"
     },
     {
-      "title": "10月新一轮！现面向广东开启“AI营养师”学习人员招募！20周岁以上市民均可参与",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4OXR2bEJjRDUtcllpVEg2SjBRUEl0NU9tZVdLajRmRkQtZlZIUUFNOG5ac21Sdkc5WHMwVnhkcXJ1Vkl0XzQ4ZXA",
+      "title": "大模型里的“制造车间”：奇智孔明造出一群工业智能体",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3c1Z29mRDV4Yzd6Y205aXZ4RU1jMl9DbnpUMDN6UmpzMWxFQzlDNkNKNjdfUFVzTmRsZDV3VTkzUWZySVg4dlR",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "工业大省有“模”力｜大模型里的“制造车间”：奇智孔明造出一群工业智能体",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmQ2a09pX2ROXzRBQUlkbmpadk05SmxySkt6YjkxcWpKMmplTDNxV1pYLWF4cjRQMUtYUEFETVZtWlpSWkdtZy1",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "大模型推理成本加速下降 AI应用端渗透有望迎来提速",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Sb2dTLWRUZC1oV0JDbjRfWk5YS0FrV053dS1tRTZfYXp6TGJCa3pJSVBRa2pTblk5UzljSTNzSUtxT3VpMTd0WQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "五角大楼用AI测谎，被质疑“不靠谱”",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX3VfNE1HdF9rak50NjlvR0ZkQW9mYjROQ2hIQkxld2dQVV9UM3R2QmZZcXNpbEFURV84dkZDWG1ZRlNjVjAwV01",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
     }
