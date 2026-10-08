@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 39,
-    "trusted": 13,
+    "raw_dedup_junk": 82,
+    "trusted": 26,
     "non_trusted_top": {
-      "sina.cn": 8,
-      "360.com": 3,
-      "hupu.com": 2,
+      "sina.cn": 17,
+      "360.com": 4,
+      "sina.com.cn": 3,
+      "hupu.com": 3,
+      "china.com": 3,
+      "rediandf.com": 2,
+      "ttplus.cn": 2,
       "yzwb.net": 2,
-      "aboluowang.com": 1,
-      "ttplus.cn": 1,
-      "pedaily.cn": 1,
-      "jfdaily.com": 1,
-      "hangzhou.com.cn": 1,
-      "iqilu.com": 1
+      "bjd.com.cn": 2,
+      "voc.com.cn": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 7,
-    "relaxed_72h": 6,
+    "fresh1_24h": 26,
+    "page_fresh": 26,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "20多亿元《八仙！》之后成都还有多少“八仙”？",
+      "t": "7天11.65亿元！国庆档票房遇冷背后，行业底层逻辑生变？",
       "d": "sohu.com"
     },
     {
-      "t": "从消费外流到文旅顶流 泸州音乐节做对了什么？",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "影视剧出海，让世界感悟中国人的生活哲学",
-      "d": "ce.cn"
-    },
-    {
-      "t": "歌手李玉刚宣布一个重要决定",
-      "d": "guancha.cn"
-    },
-    {
-      "t": "从小爱到大爱的升华（创作谈）",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "清单请收好！10月，浙江多场精彩演出等你来",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "2026国庆档的三点变化",
+      "t": "2026电竞显示器品牌排行榜高端梯队深度解读",
       "d": "sohu.com"
+    },
+    {
+      "t": "国产动画电影《三国第一部：争洛阳》重新定档10月17日：豆瓣评分8.0，曾上映1",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "电影《三国第一部：争洛阳》重新定档于10月17日全国上映",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "2026济南演唱会靠谱购票指南｜周华健、叶世荣、Ella、洛天依等接连开唱",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "通州消防前置执勤，驻点、巡查、宣传三位一体护航大运河音乐节",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "哈尔滨市建工小学校第33届校园艺术节圆满闭幕",
+      "d": "xinhuanet.com"
     }
   ]
 }

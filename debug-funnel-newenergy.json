@@ -1,37 +1,45 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 17,
-    "trusted": 5,
+    "raw_dedup_junk": 61,
+    "trusted": 6,
     "non_trusted_top": {
+      "ne21.com": 12,
+      "autohome.com.cn": 10,
       "sina.com.cn": 4,
+      "gessey.com": 3,
+      "in-en.com": 3,
       "sina.cn": 3,
-      "indexbox.io": 2,
-      "starnewskorea.com": 1,
-      "autohome.com.cn": 1,
-      "china.com": 1
+      "voi.id": 3,
+      "sxcoal.com": 2,
+      "gdshe.org": 1,
+      "seetao.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 2,
-    "relaxed_72h": 2,
-    "final": 4,
+    "fresh1_24h": 6,
+    "page_fresh": 5,
+    "relaxed_72h": 0,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "2026“电力电子”学科排名：中国4校入围全球十强，东南大学跻身前五",
-      "d": "eet-china.com"
+      "t": "天合光能亮相亚洲数据中心展， 加速布局全球AIDC市场",
+      "d": "solarbe.com"
     },
     {
-      "t": "【图】充电速度≈加油速度 一文概括比亚迪第二代刀片电池+闪充站技术",
+      "t": "金秋迎华诞 实干谱新篇 | 东方旭能沂源鲁村苏帕200MW/400MWh独立储能",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "比亚迪面向日本开发的微型电动车将登陆其他市场",
+      "d": "gasgoo.com"
+    },
+    {
+      "t": "电动汽车电池售后保障有哪些关键点？",
       "d": "autohome.com.cn"
     },
     {
-      "t": "又一家日系汽车大厂采用地平线智驾芯片",
-      "d": "sohu.com"
-    },
-    {
-      "t": "内蒙古2026年第四批独立储能清单印发，华能/远景能源/利星能项目入选",
+      "t": "回顾：中国科学家研发比锂电池便宜80倍、寿命可达16年的铁基电池",
       "d": "sohu.com"
     }
   ]

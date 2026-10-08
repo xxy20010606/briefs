@@ -1,50 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 36,
-    "trusted": 13,
+    "raw_dedup_junk": 43,
+    "trusted": 26,
     "non_trusted_top": {
-      "sina.cn": 4,
       "sina.com.cn": 3,
-      "indexbox.io": 3,
-      "sphericalinsights.com": 2,
-      "chosun.com": 1,
-      "eastmoney.com": 1,
-      "tradingkey.com": 1,
-      "17173.com": 1,
-      "stnn.cc": 1,
-      "stockstar.com": 1
+      "jrj.com.cn": 2,
+      "stockstar.com": 1,
+      "guandian.cn": 1,
+      "donews.com": 1,
+      "futunn.com": 1,
+      "gz-cmc.com": 1,
+      "sina.cn": 1,
+      "ofweek.com": 1,
+      "enanyang.my": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 5,
-    "relaxed_72h": 1,
-    "final": 6,
-    "cap": "不限同域"
+    "fresh1_24h": 26,
+    "page_fresh": 23,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "行业领军丨胜科纳米：“自研+AI”双轮驱动 打造芯片检测“全科医院”",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "高盛：半导体板块大跌背后，三季度业绩有望全面反弹",
+      "t": "三星或停止为汽车生产Exynos芯片 专注高利润领域",
       "d": "sohu.com"
     },
     {
-      "t": "超170亿元，半导体设备龙头大秀订单",
+      "t": "“芯片上车”不赚钱，消息称三星将退出车载应用处理器业务",
+      "d": "sohu.com"
+    },
+    {
+      "t": "TI芯片火了！TI、ST、TDK等热门芯片料号鉴定",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "A股收评：超3700只个股飘绿，三大指数集体收跌，科创50跌超4%；半导体、通信",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "晶圆制造的' 眼睛 ' 被海外垄断50% 以上：晶智芯瞄准5-8 纳米节点，想造",
+      "d": "36kr.com"
+    },
+    {
+      "t": "紫荆半导体车规芯片出货破千万，RISC-V又过一关",
+      "d": "gasgoo.com"
+    },
+    {
+      "t": "【网通社快报】紫荆半导体车规芯片出货量突破千万颗",
       "d": "ifeng.com"
-    },
-    {
-      "t": "西安奕材、沪硅、中欣晶圆、金瑞泓、中环领先、合晶、超硅、晶升股份等齐聚【第九届半",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "全球新材 品牌招募—FINE2027，抢滩AI算力与高端装备材料大市场",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "英国拿600万英镑专门培养芯片博士：博士名额开始跟着技术短板走",
-      "d": "sohu.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 60,
+  "total": 45,
   "samples": [
     {
-      "title": "中金：节后A股或迎来“开门红”_股市直播_市场",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoaU5NclpreVVKSWYzSDVWU0wtVjlTOU5wRWsxbUJvYVR6aTVaS2E0RmZHV21rdHB1Sm9RN0d1cUlqb0gxS0hSRU1",
-      "source_url": "http://sc.stock.cnfol.com",
+      "title": "股债配置即将大逆转？美银发出罕见信号：债券数十年来首次与股票“抢钱”，标普未来十年回报或不足5%",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyTWZ0VHI4SDdOR2gxVzc5allxZm1meDVXQmpIaW5yN0RlM2JXaTRZM1RqX0Y1ZC0xdVphODhydzk0ZmNoVVkzVjl",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
+    },
+    {
+      "title": "长假后首日不跟外围股市涨，双创板领跌大盘放量冲高回落_证券要闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02MmYzeDE5MlVBOWZ5NG9XSUYxMGZDSm9nZHVaOFlSdUpldzFSbHdyWXdLWTI3aDc3M1BsTm10cmYzZk52Q1ZtaXk",
+      "source_url": "http://news.cnfol.com",
       "source": "中金在线"
     },
     {
-      "title": "四大证券报头版头条内容精华摘要_2026年10月8日_财经新闻",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1RrSmtuengwSzdwSmlPUkRjNUVkNVJYX0pXMHByWEU1dUF4cHY2eW9ISmd3LWVUTGJiLWNtSGJ5UTNlVGxJVXJ",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "帮主解盘：科创50跌4%",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDhnMExiemJTRlphOWJ4ZmtoUUxSWUVhTDQyU0xxODdudGQ2TnpXS3RhOXZHT1RyNU16ektIR1RIOHQxOUxkVHF",
+      "source_url": "https://cj.sina.com.cn",
+      "source": "finance.sina.com.cn"
     },
     {
-      "title": "美联储加息预期升温！欧美股市集体收跌，半导体股多数下跌，白银跌破60美元，加密货币超12万人被爆仓",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXLW9wVklUR0pZSEM2b2FoRFZ5YUJlR2EwcUNnemZxM2lpNVJLcFRuU2FPTEs1VWl5alF6VkhDWGltYWxiSjhtMVl",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "亚股早盘普遍下跌 三星电子股价仍下行",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVzRqZjhLaG15S1hGVWxXRUxOSURVSGZqZlZlSmdwNXI4QXQwQWVJNVJuR3Jpbm1qS0twZ0dHdHltOXlyRHJDVzV",
+      "source_url": "https://atvnewsonline.com",
+      "source": "亚洲电视新闻"
     },
     {
-      "title": "10月8日隔夜要闻：美股收跌美光涨超4% 欧元区股市触及四个月低点美联储纪要显示9月升息获一致支持",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VSmE5SUp4aE9ROUQ3aU11ZTZQcUtMWXE1NFlBYWZ5dmtidFJlV3VpMFBoVEVlQmxuMUdaSTR5bGxNVEthUXl3U1d",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "亚洲股市一片红海 新加坡跌势最严重！",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjRm4zYWpTYTc5dWpaZ1lHdTVKSHBYRzV2eDdlRXNmdG9JdGNSdDdkX29UQjBzbG9sOWF6Qm9sbnViN2t0TEFoOFl",
+      "source_url": "https://www.orientaldaily.com.my",
+      "source": "马来西亚东方日报"
     },
     {
-      "title": "【环球财经】日本东证股指成分股将大幅减少",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tMkRwQWt3TXc5cHAwa1FRdEFma1BJeFpfSkFOQ3NwMF85aFdLUHF6TTBLeVhYblZ3VWJqQmRxSzFReXR3TEpRXzR",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "全世界都在针对A 公子？放假外围涨，上班就暴跌|a公子|股债双杀_新浪新闻",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12aVBydU1waDNLMFNDTDgybkRoT2JZYnY2dUNfUWtFSVJNaUhFN2pyc2oxNWtXeTFWY013RTFrX1MxelB4WGdfU2E",
-      "source_url": "https://www.sina.cn",
-      "source": "手机新浪网"
+      "title": "节后大消息：银行股吹响冲锋号，创历史新高！",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ29UdnhfMG4zN2h2cHdIMEUwQnhXdDczbTlBVkpLRVVaUGZFekFmX0MxaktJUklyRGtKOEdqNnl6V1h2eThkN1p",
+      "source_url": "https://cj.sina.com.cn",
+      "source": "finance.sina.com.cn"
     }
   ]
 }

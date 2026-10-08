@@ -1,54 +1,46 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 60,
-    "trusted": 16,
+    "raw_dedup_junk": 45,
+    "trusted": 8,
     "non_trusted_top": {
-      "sina.com.cn": 11,
-      "sina.cn": 8,
+      "sina.com.cn": 9,
+      "stockstar.com": 4,
+      "sina.cn": 4,
       "moomoo.com": 4,
-      "eastmoney.com": 4,
-      "stockstar.com": 2,
-      "or100.cc": 2,
-      "tradingkey.com": 1,
-      "sinchew.com.my": 1,
-      "com.sg": 1,
-      "atvnewsonline.com": 1
+      "fx168news.com": 2,
+      "ttplus.cn": 2,
+      "futunn.com": 2,
+      "atvnewsonline.com": 1,
+      "orientaldaily.com.my": 1,
+      "tradingview.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 1,
-    "relaxed_72h": 9,
-    "final": 7,
+    "fresh1_24h": 8,
+    "page_fresh": 5,
+    "relaxed_72h": 0,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "中金：节后A股或迎来“开门红”_股市直播_市场",
+      "t": "长假后首日不跟外围股市涨，双创板领跌大盘放量冲高回落_证券要闻",
       "d": "cnfol.com"
     },
     {
-      "t": "美股异动| 微牛(BULL.US)大跌近20% 应用程序下载量已超过5000万次",
+      "t": "10.8股市早8点丨假日里金融市场发生的大事",
       "d": "cnfol.com"
     },
     {
-      "t": "极兔速递-W(01519.HK)10月7日耗资1581.7万港元回购175万股_",
-      "d": "cnfol.com"
+      "t": "AI到底是通胀的解药，还是新一轮通胀的制造者？",
+      "d": "huxiu.com"
     },
     {
-      "t": "日股领涨美股屡创新高！假期大类资产表现一览_期市动态",
-      "d": "cnfol.com"
+      "t": "美联储加息未终结黄金牛市，定价机制正脱离单一货币周期",
+      "d": "huxiu.com"
     },
     {
-      "t": "PACIFIC LEGEND(08547.HK)拟发行3300万港元可换股债_股",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "移卡(09923)10月7日斥资19.9万港元回购5.12万股_股市直播_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "宝尊电商-W(09991)10月6日斥资5.13万美元回购4.5万股_股市直播_",
-      "d": "cnfol.com"
+      "t": "9月股票ETF逆势回流451亿，资金不是没方向，是在换方向",
+      "d": "163.com"
     }
   ]
 }

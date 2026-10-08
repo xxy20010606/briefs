@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 39,
+  "total": 54,
   "samples": [
     {
-      "title": "AI应用不能逾越学术伦理底线",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWTTZydGlncGg0UHJ6U1RFTU50X1E3ZVdYeHhaTG01QnZPdmhlY1pjbV94UzAwOUw3c2ExbWRDTXB5enJad1Y2RzA",
-      "source_url": "https://tidenews.com.cn",
-      "source": "潮新闻客户端"
+      "title": "一副眼镜卖断货，吴嘉让夸克长出了新物种",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zZ211dXZnb1hkTHdyMmc2NWJlbFMxTDRyV21WOFp3T0tZT0pnZTlsQjZ6MmZRUmc1Ymhuejd3VUl0eFZYeWJQaW4",
+      "source_url": "https://www.ichaoqi.com",
+      "source": "潮起网"
     },
     {
-      "title": "2026年AI搜索手机怎么选？三大路线实测，这3款闭眼入+FAQ",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQzlSb0hyUG9oUW9RQV9RcDFLd2ZybzhxSklmbVdPUDdabDJMbjhMWFQ1eXItQWhqd3VYOU8zblNNejBOMUEyalo",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "AI重塑消费决策方式，营销模式亟需转型升级-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53U1hmbEpGX3luSFlNeGpJM09XdEttUC13Y0lqWi1uYzJYQ1pkTnI0QVdKUjh2dTJfbXhhZHBFMzkxYU9BZXJwZXB",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
     },
     {
-      "title": "基于大语言模型的工具市场展望2035：企业自动化需求驱动扩张",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVVQ0c2hxOVl0a2llaFlFVVJjZ2JfSDdfYmlEaVppMGd4d0x0Q0IwaTZSNFloMkdTcnU4R1V6YWFOOTFza2ZSUGV",
-      "source_url": "https://www.indexbox.io",
-      "source": "新闻和统计"
+      "title": "国产GPU龙头壁仞科技拟配售1.3亿股新H股，募资40.40亿港元",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fNWVabVB2Y3BnUUdJZl81cTFjZHhlUk1IYmlYRDRDRm5lREgzbXpPcURnQV9FNWJCRHpfNHZpMzdGT0hZVWVCb1o",
+      "source_url": "https://news.mysteel.com",
+      "source": "我的钢铁"
     },
     {
-      "title": "规模五年翻倍至4万亿元，App Store生态观察：中国开发者加速走向全球",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iRGpOUTdVVVplOThEalAyWURxMEVqdzNvUzRXUlN2dGxhQnBONjZ1TmxiUnJPZFlYdUo1aFRLTnpDSDRTaFpsYU5",
-      "source_url": "http://www.cctime.com",
-      "source": "飞象网"
+      "title": "洪恩2026年Q2营收1.73亿元，通过“俩喵”IP强化英语素养生态",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iWF82OVRvYkVWS3NHSlJXaHR2dnVOdl9kV0FTci13cHBBMVFQeG1HUXVES3oxTGxvU2NkU2QyaGd5Nm5CR0lKTFR",
+      "source_url": "http://www.duozhi.com",
+      "source": "多知网"
     },
     {
-      "title": "全球最大智能体支付协同网络在上海启动，AI让银行卡与电子钱包统一语言",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15Wl9QMm1nRFJYb0NDdjFCTi1lQ2YteWxZZ05EbEUxSTc3MXJ6dk1qbWVtanpmQ0hRY09keWtQSHJZN2x6eFl4dXh",
-      "source_url": "https://www.jfdaily.com",
-      "source": "上观新闻"
+      "title": "Duzon Bizon谈AX：关键不在引入AI工具，而在重塑企业运营标准",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMjJUdEItaTRzcTR6bGpHZzdpQ3dsYjJ2SFZwaVpyQWdGSDdRTDAwWk5HRktTa1ZsSEYtaExkODJFYldzTmNPNDN",
+      "source_url": "https://www.digitaltoday.co.kr",
+      "source": "디지털투데이"
     },
     {
-      "title": "Windows 宣布 DeepSeek V4 Flash 与 Nemotron 可本地运行, lla",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVjJLdnZHZ3ZJMUFHODJuTDBQRkVDbUxPRk5kZ1VjUEhmNFRNdTZtTVhveUdxS29JNGJoMGRIZ0lDWktMT0I1N2N",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "ChatGPT迎来GPT-6与全新智能界面：回答不再只是文字还能直接生成可交互工具- AI 人工智能",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CdERnSTg1TVJwZFZKYmdsd2EwSTQ2S3dBaEFrMWFtWExndUFZUFV6ejBncHpUV3BsMk56Nk4yeUlwVmozU0g4dFN",
+      "source_url": "https://www.cnbeta.com.tw",
+      "source": "cnBeta.COM"
     }
   ]
 }

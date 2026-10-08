@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 36,
+  "total": 43,
   "samples": [
     {
-      "title": "行业领军丨胜科纳米：“自研+AI”双轮驱动 打造芯片检测“全科医院”",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLVZpektSNWtkd21nRmxYWTFEWnV4QVBCUnpaWVhydU5DS0pUN1hha0JBaURpSUlXbDdveEVtQ0dmRjVMWFB3bHl",
-      "source_url": "http://jjckb.xinhuanet.com",
-      "source": "经济参考报"
+      "title": "科创50跌近5%，光芯片重挫，长鑫大跌超7%，工行、中行等创新高，恒科指跌逾2%，科网股集体低迷",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6LVg3ZzVzVzBOcFd3bXFoWUVuZk9IQTNuUHhiY3Y4ZHJXQ29rZkN4cWFYWGs1d1lMbUNidk41X3p5M2NMcUdSZkU",
+      "source_url": "https://wallstreetcn.com",
+      "source": "华尔街见闻"
     },
     {
-      "title": "高盛：半导体板块大跌背后，三季度业绩有望全面反弹",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGlOWC1TQnctbnl5Y0l3cVRMRllaMDFJYUZPMDBLamJlTF9HMTgyWGp1NENhTjFaZGF5M0E5NTc5Qmp1WThvN08",
+      "title": "三星或停止为汽车生产Exynos芯片 专注高利润领域",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0Q4cmxLb3lPWFc1YXk0d0tMeUpwOWZQeU1xemY4QXFXLUdRemI4NU1lLUhtX1Zfei15ZzVuQ0VEZ2o0YVU3cE9",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "超170亿元，半导体设备龙头大秀订单",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwQ0lTVlR1MVZsdExsTkFiYTNBQThET1VaN2pPSElmUDd5QXRKSlVGWWd5OXNVQ1ozTHdlemR5NmtVeEFkUGkxOE5",
-      "source_url": "https://finance.ifeng.com",
-      "source": "凤凰网"
+      "title": "“芯片上车”不赚钱，消息称三星将退出车载应用处理器业务",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGU4SXBJMHh5empoVzhBZkhoSWhqS2l0WXUyR3IwYlBUSUgxMGM4ampHMjZhREM2bFVLdFVzS3VzcE10XzlvamI",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "华为余承东面向海外媒体交流纪要：在芯片、鸿蒙、AI、折叠屏以及海外市场方面的最新进展（附全文）",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPN2lWeER5UW5LSTJvcmxMRXNOVG5GVHdXVEtPVGpaZ2dxX0k4MjF3UEhycnhZTTNBcXM4UmRlaVFzbG5WYlhNSDF",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "收盘｜创业板指跌3.15% 半导体产业链调整",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXZDbU5zSElfUXVtMDJacnR4M3gwNEd3M0ZyaXNwVFh3VmFzbmtpdlN3OU5rOVc1SE0zY3RWRXNtNkFwbE9PVlF",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "中国长鑫存储为腾讯供应价值200亿元人民币的DRAM",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWM4STlIR01xM1JvdjB0TEJNM0M1UXlBNXNsMEFTWlgwYUpsc3JaNkVEeUNFQlVDSmpna0lqNkYwdnp2V0E3a2x",
-      "source_url": "https://cnnews.chosun.com",
-      "source": "朝鮮日報中文版"
+      "title": "存储芯片短缺致混合键合技术采用前景蒙阴！荷兰半导体设备供应商Besi股价较峰值几近腰斩_滚动新闻_财",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuUTlMME15bFhyNjFIeElDRzZvSTQwc3F4LUVvUXRjQi1nMjBVTGVQM2F4MGxaY18wUkpvcXRjSEtEVnRrRW1fVTR",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "新浪网·",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GNUxpRGo4LTJrb051REdDeDR2OUR1M0JqMFJ0Q2Q0UjJQc3N5bWJyT1lNMXlGTjhndkV2S0tiYWdUc2tFTFRfNmZ",
-      "source_url": "https://www.sina.cn",
-      "source": "手机新浪网"
+      "title": "国家大基金三期旗下基金等入股无锡华虹宏力三期半导体",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05U1VzVGVKejB1bF9NLVhwV3lrUmhlTm5CU3M3MHc5Tk1fVEtpa1lVbnphSUZnWVFGMjRrMmNKeHBxRWtORXlrZTV",
+      "source_url": "https://www.guandian.cn",
+      "source": "观点网"
     }
   ]
 }

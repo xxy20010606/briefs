@@ -1,46 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 39,
-    "trusted": 6,
+    "raw_dedup_junk": 54,
+    "trusted": 17,
     "non_trusted_top": {
-      "unite.ai": 8,
-      "indexbox.io": 3,
-      "pasqualepillitteri.it": 3,
-      "sina.com.cn": 2,
-      "80aj.com": 2,
-      "tidenews.com.cn": 1,
-      "cctime.com": 1,
-      "jfdaily.com": 1,
-      "17173.com": 1,
-      "bannedbook.org": 1
+      "cnbeta.com.tw": 4,
+      "pasqualepillitteri.it": 4,
+      "zhiding.cn": 3,
+      "sina.com.cn": 3,
+      "80aj.com": 3,
+      "digitaltoday.co.kr": 2,
+      "unite.ai": 2,
+      "itopmarketing.com": 2,
+      "53ai.com": 2,
+      "ichaoqi.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 4,
-    "relaxed_72h": 1,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 17,
+    "page_fresh": 14,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "厦门点面结合布局AI应用，赋能千行百业转型升级",
+      "t": "AMD 为嵌入式设计与开发全周期注入 Agentic AI 强大能力",
       "d": "sohu.com"
     },
     {
-      "t": "14人团队估值百亿美元：AI Agent公司Instinct如何让用户交出信用卡",
-      "d": "huxiu.com"
+      "t": "AI狂飙，阿里云为企业落地破题",
+      "d": "sohu.com"
     },
     {
-      "t": "字节、腾讯、阿里、百度激战AI办公助手，Agent成为新同事",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "交大师姐，估值700亿",
+      "t": "GPT-6全面开放，AI直接把答案做成了App，还能边思考边回话",
       "d": "36kr.com"
     },
     {
-      "t": "为迎接 iPhone Duo，iOS 开发者需要对应用做出哪些调整",
+      "t": "代码交给 AI，心流却回来了：Codex 负责人不再怀念手写时代",
       "d": "infoq.cn"
+    },
+    {
+      "t": "Manus母公司蝴蝶效应完成超5亿美元融资，原创始团队重新掌权",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "从科研到现实，2026 DEMO CHINA&数贸创投日看见下一批科技创新力量",
+      "d": "zhidx.com"
+    },
+    {
+      "t": "AI办公刚刚来到1972年",
+      "d": "36kr.com"
     }
   ]
 }

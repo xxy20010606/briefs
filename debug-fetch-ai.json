@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 43,
+  "total": 73,
   "samples": [
     {
-      "title": "AI模型之间悄悄传递的\"小纸条\"，可能什么都没说",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51MWpGQ0pfUUstaXVHNU01V3p2bm03blM0Rk82UzRqSWtIYVdzdE1wMDJrS0hpaXpieGJVVE11RnpKU3dhYjcwSHZ",
-      "source_url": "https://www.techwalker.com",
-      "source": "科技行者"
+      "title": "科创50跌近5%，光芯片重挫，长鑫大跌超7%，工行、中行等创新高，恒科指跌逾2%，科网股集体低迷",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6LVg3ZzVzVzBOcFd3bXFoWUVuZk9IQTNuUHhiY3Y4ZHJXQ29rZkN4cWFYWGs1d1lMbUNidk41X3p5M2NMcUdSZkU",
+      "source_url": "https://wallstreetcn.com",
+      "source": "华尔街见闻"
     },
     {
-      "title": "谷歌：让大模型在示例学习中更省显存",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zY3htdWdUWUZmXzh6RzdUTkZ5UF9md2hNeDNueG1IZDE5ejhnMkZpel9CNXk0ZW9XQ1BxSlJBRUg4ZW42MkdxeGp",
-      "source_url": "https://blog.csdn.net",
-      "source": "CSDN博客"
-    },
-    {
-      "title": "大模型里的“制造车间”：奇智孔明造出一群工业智能体",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3c1Z29mRDV4Yzd6Y205aXZ4RU1jMl9DbnpUMDN6UmpzMWxFQzlDNkNKNjdfUFVzTmRsZDV3VTkzUWZySVg4dlR",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "工业大省有“模”力｜大模型里的“制造车间”：奇智孔明造出一群工业智能体",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmQ2a09pX2ROXzRBQUlkbmpadk05SmxySkt6YjkxcWpKMmplTDNxV1pYLWF4cjRQMUtYUEFETVZtWlpSWkdtZy1",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "大模型推理成本加速下降 AI应用端渗透有望迎来提速",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Sb2dTLWRUZC1oV0JDbjRfWk5YS0FrV053dS1tRTZfYXp6TGJCa3pJSVBRa2pTblk5UzljSTNzSUtxT3VpMTd0WQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "五角大楼用AI测谎，被质疑“不靠谱”",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX3VfNE1HdF9rak50NjlvR0ZkQW9mYjROQ2hIQkxld2dQVV9UM3R2QmZZcXNpbEFURV84dkZDWG1ZRlNjVjAwV01",
+      "title": "技术落脚业务场景，平安银行让AI真正好用又省钱",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1pzZkV0ejhJcmRxTDJzenRJc2J6LTdMa2k3S3drN3QycmZMS05qOUYxdTRyOVJGQlBfaDNpWEhhMllFbzFTa1M",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
+    },
+    {
+      "title": "Claude最强迷你模型登场，价格暴降90%，直逼DeepSeek？",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UeVlPTkMxTmN0c01Ldmo0bG16MU5KZkV4OGlfT0NyLTFGVnpQand5dlNHbW1TRkg1dmFrQkVFZHlQM1lxWlE?oc=",
+      "source_url": "https://zhidx.com",
+      "source": "智东西"
+    },
+    {
+      "title": "【网经社AI科普】Meta AI：全球开源旗舰大模型 引领开源社区创新",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWZlVFp3RjFWeWdWLVQ2YjVKM0Jmc01zVE9yRUhtVGJXSk5iOUJIV2MxekR0U3AtR0Q5c3ZjZTJKOVl2aTRNWkt",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "用AI研判舆情风险，天枢·社会情绪认知大模型获软件著作权",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlRvSzVTUFg1Mm4tRWNkWXlUQUdnUlp2M3U5cFBNTTNzbjJILUswODBtT3I1eWdrYWloV3pDZmxyQ0lkdmlTWXh",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "安世亚太“精智iGPT”工业大模型通过国家网信办备案",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkEzN21CNWNQSU5uejNGbTJpUVVKS2VuNFh1UnQ3OXZfYzdkWUdWN3RRWjJUR3F2ZXdqZ3hlWHBLV1poa3I5SGt",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     }
   ]
 }
