@@ -1,41 +1,41 @@
 {
   "type": "ai",
-  "total": 73,
+  "total": 66,
   "samples": [
     {
-      "title": "科创50跌近5%，光芯片重挫，长鑫大跌超7%，工行、中行等创新高，恒科指跌逾2%，科网股集体低迷",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6LVg3ZzVzVzBOcFd3bXFoWUVuZk9IQTNuUHhiY3Y4ZHJXQ29rZkN4cWFYWGs1d1lMbUNidk41X3p5M2NMcUdSZkU",
-      "source_url": "https://wallstreetcn.com",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "技术落脚业务场景，平安银行让AI真正好用又省钱",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1pzZkV0ejhJcmRxTDJzenRJc2J6LTdMa2k3S3drN3QycmZMS05qOUYxdTRyOVJGQlBfaDNpWEhhMllFbzFTa1M",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "Claude最强迷你模型登场，价格暴降90%，直逼DeepSeek？",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UeVlPTkMxTmN0c01Ldmo0bG16MU5KZkV4OGlfT0NyLTFGVnpQand5dlNHbW1TRkg1dmFrQkVFZHlQM1lxWlE?oc=",
-      "source_url": "https://zhidx.com",
-      "source": "智东西"
-    },
-    {
-      "title": "【网经社AI科普】Meta AI：全球开源旗舰大模型 引领开源社区创新",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWZlVFp3RjFWeWdWLVQ2YjVKM0Jmc01zVE9yRUhtVGJXSk5iOUJIV2MxekR0U3AtR0Q5c3ZjZTJKOVl2aTRNWkt",
+      "title": "超30亿美元疯狂涌入！物理AI正在捅破AI制药天花板",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0hEamRwX25UOWQxT0FxX3Q1eUREbGw1ZWNOdVphc1BZSGNzT0RNRVlRRHdKei1YY1hoM2ZaQU5xalB6OVgyUTh",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "用AI研判舆情风险，天枢·社会情绪认知大模型获软件著作权",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlRvSzVTUFg1Mm4tRWNkWXlUQUdnUlp2M3U5cFBNTTNzbjJILUswODBtT3I1eWdrYWloV3pDZmxyQ0lkdmlTWXh",
+      "title": "推动人工智能赋能人力资源服务 重庆这样干",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYmVPY2FLdkl4LXZSSXc2OEowUVJzc0owOUpGb3pFZUFSclRVZ3NUTmdOSW5OTmlMTHNJTUlja2hsQzZEWS0yZTJ",
+      "source_url": "https://www.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "大模型产业新变局：参数规模继续升级，服务性能进步迅猛",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sS0ItZ2Y3MW5MRkNPUWRoTkkxcDBqUlhRMEF6azJkai10UzROT3BfeHZfcmNtWktkWnlUNkRxM1p6bi1oM3hsVi1",
+      "source_url": "http://www.cctime.com",
+      "source": "飞象网"
+    },
+    {
+      "title": "AI博士陈亮，为什么选择济南海归小镇？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb2tQZlI2UUhFTDdXUnU4UlAwcnpTb1pnQjdLNmtGWmlqRkRnazNPSHEyb20tNWlYdUthbTJQNFo4QUtCbzRleW1",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "安世亚太“精智iGPT”工业大模型通过国家网信办备案",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkEzN21CNWNQSU5uejNGbTJpUVVKS2VuNFh1UnQ3OXZfYzdkWUdWN3RRWjJUR3F2ZXdqZ3hlWHBLV1poa3I5SGt",
-      "source_url": "https://m.sohu.com",
+      "title": "工业大省有“模”力｜浪潮海若词元工厂让行业大模型走出“对话框”、走进“产业端”",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTlCX3hEZ3ZhRE9uMkR6Um0wdXZTN1pvX2w4SGZRSGJBVklJeDJVeE9GekpoMnloSTZHYnF5Ymk3Q21EZ0JZUmd",
+      "source_url": "https://www.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "浪潮海若词元工厂让行业大模型走出“对话框”、走进“产业端”",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVERMeGctaHFLcm9DbE1pZmlTNjk3bkI2UHlCNElFN3pFVmh6WmFwN2ctNDFzWi04ZU9WVm0tZzcxYjFhelJrdmc",
+      "source_url": "https://www.sohu.com",
       "source": "搜狐网"
     }
   ]

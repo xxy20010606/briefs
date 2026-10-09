@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 73,
-    "trusted": 27,
+    "raw_dedup_junk": 66,
+    "trusted": 25,
     "non_trusted_top": {
-      "sina.com.cn": 6,
+      "sina.com.cn": 7,
       "sina.cn": 6,
-      "techwalker.com": 3,
-      "cnbeta.com.tw": 2,
-      "zhiding.cn": 2,
-      "locpg.gov.cn": 1,
+      "techwalker.com": 4,
+      "zhiding.cn": 3,
+      "techflowpost.com": 2,
+      "cctime.com": 1,
+      "qianjia.com": 1,
       "stockstar.com": 1,
-      "ichaoqi.com": 1,
-      "digitaltoday.co.kr": 1,
-      "iqilu.com": 1
+      "iqilu.com": 1,
+      "e23.cn": 1
     },
-    "fresh1_24h": 27,
-    "page_fresh": 24,
+    "fresh1_24h": 23,
+    "page_fresh": 15,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "Claude最强迷你模型登场，价格暴降90%，直逼DeepSeek？",
-      "d": "zhidx.com"
-    },
-    {
-      "t": "【网经社AI科普】Meta AI：全球开源旗舰大模型 引领开源社区创新",
+      "t": "超30亿美元疯狂涌入！物理AI正在捅破AI制药天花板",
       "d": "sohu.com"
     },
     {
-      "t": "用AI研判舆情风险，天枢·社会情绪认知大模型获软件著作权",
+      "t": "推动人工智能赋能人力资源服务 重庆这样干",
       "d": "sohu.com"
     },
     {
-      "t": "为什么越来越多品牌开始通过GEO软文发稿平台布局AI搜索流量？",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "阶跃大模型智能体手机STEPX Neo定档10月13日发布",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "一个抢入口一个拼低价 两大模型厂商同日上新",
+      "t": "月之暗面冲刺港股，智谱、MiniMax深度回调，大模型的“稀缺性溢价”还能撑多久",
       "d": "eastmoney.com"
     },
     {
-      "t": "首款RTX Spark电脑，开卖！可跑1200亿参数大模型",
+      "t": "搭载英伟达RTX Spark N1X超级芯片：联想YOGA Pro 15开启盲约",
       "d": "zhidx.com"
+    },
+    {
+      "t": "39只智能体概念股获机构积极评级-36氪",
+      "d": "36kr.com"
+    },
+    {
+      "t": "谷歌云发布Gemini Agent 机构称智能体产业链进入确定性成长期",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "AI智能体迭代提速 三十九只概念股获机构积极评级",
+      "d": "21jingji.com"
     }
   ]
 }

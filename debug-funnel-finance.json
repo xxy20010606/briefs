@@ -1,46 +1,41 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 45,
+    "raw_dedup_junk": 30,
     "trusted": 8,
     "non_trusted_top": {
-      "sina.com.cn": 9,
-      "stockstar.com": 4,
-      "sina.cn": 4,
-      "moomoo.com": 4,
-      "fx168news.com": 2,
-      "ttplus.cn": 2,
+      "stockstar.com": 6,
+      "sina.com.cn": 6,
+      "on.cc": 2,
+      "moomoo.com": 2,
       "futunn.com": 2,
+      "rthk.hk": 1,
+      "sina.cn": 1,
       "atvnewsonline.com": 1,
-      "orientaldaily.com.my": 1,
-      "tradingview.com": 1
+      "528btc.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 5,
-    "relaxed_72h": 0,
-    "final": 5,
+    "fresh1_24h": 6,
+    "page_fresh": 1,
+    "relaxed_72h": 3,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "长假后首日不跟外围股市涨，双创板领跌大盘放量冲高回落_证券要闻",
-      "d": "cnfol.com"
+      "t": "【环球财经】人工智能权重股拖累 纽约股市三大股指8日涨跌不一",
+      "d": "21jingji.com"
     },
     {
-      "t": "10.8股市早8点丨假日里金融市场发生的大事",
-      "d": "cnfol.com"
+      "t": "达利欧警告：股市抵御债券收益率上行的缓冲空间正在收窄",
+      "d": "sohu.com"
     },
     {
-      "t": "AI到底是通胀的解药，还是新一轮通胀的制造者？",
-      "d": "huxiu.com"
+      "t": "海外资金，大举撤离韩国股市",
+      "d": "21jingji.com"
     },
     {
-      "t": "美联储加息未终结黄金牛市，定价机制正脱离单一货币周期",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "9月股票ETF逆势回流451亿，资金不是没方向，是在换方向",
-      "d": "163.com"
+      "t": "美股芯片股盘前集体下跌，ARM跌超2%，港股大模型“双雄”大跌，MINIMAX跌",
+      "d": "21jingji.com"
     }
   ]
 }

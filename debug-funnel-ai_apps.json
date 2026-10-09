@@ -1,19 +1,19 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 54,
+    "raw_dedup_junk": 49,
     "trusted": 17,
     "non_trusted_top": {
-      "cnbeta.com.tw": 4,
-      "pasqualepillitteri.it": 4,
+      "pasqualepillitteri.it": 6,
+      "sina.com.cn": 4,
       "zhiding.cn": 3,
-      "sina.com.cn": 3,
-      "80aj.com": 3,
-      "digitaltoday.co.kr": 2,
-      "unite.ai": 2,
-      "itopmarketing.com": 2,
-      "53ai.com": 2,
-      "ichaoqi.com": 1
+      "unite.ai": 3,
+      "528btc.com": 3,
+      "80aj.com": 1,
+      "cnbeta.com.tw": 1,
+      "donews.com": 1,
+      "x.com": 1,
+      "ua.news": 1
     },
     "fresh1_24h": 17,
     "page_fresh": 14,
@@ -23,32 +23,32 @@
   },
   "final": [
     {
-      "t": "AMD 为嵌入式设计与开发全周期注入 Agentic AI 强大能力",
+      "t": "太敢玩了！谷歌推出办公AI同事，连竞品Claude都能调用？",
       "d": "sohu.com"
     },
     {
-      "t": "AI狂飙，阿里云为企业落地破题",
-      "d": "sohu.com"
+      "t": "2026 爱分析·Data+AI应用实践报告｜爱分析报告",
+      "d": "eet-china.com"
     },
     {
-      "t": "GPT-6全面开放，AI直接把答案做成了App，还能边思考边回话",
+      "t": "星连资本被投企业 Kando AI 完成数千万元种子轮融资，要做“决策领域的Cu",
       "d": "36kr.com"
     },
     {
-      "t": "代码交给 AI，心流却回来了：Codex 负责人不再怀念手写时代",
-      "d": "infoq.cn"
+      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+      "d": "36kr.com"
     },
     {
-      "t": "Manus母公司蝴蝶效应完成超5亿美元融资，原创始团队重新掌权",
+      "t": "27家影视上市公司AI布局盘点：2家梭哈、21家观望、4家裸泳",
       "d": "huxiu.com"
     },
     {
-      "t": "从科研到现实，2026 DEMO CHINA&数贸创投日看见下一批科技创新力量",
-      "d": "zhidx.com"
+      "t": "观智潮｜5亿美元到账，Manus重回AI牌桌, 前员工回忆那段“打了鸡血”的日子",
+      "d": "sohu.com"
     },
     {
-      "t": "AI办公刚刚来到1972年",
-      "d": "36kr.com"
+      "t": "FDE不是软件公司的救命稻草，而是致命的陷阱",
+      "d": "huxiu.com"
     }
   ]
 }

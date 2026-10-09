@@ -1,45 +1,41 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 61,
-    "trusted": 6,
+    "raw_dedup_junk": 35,
+    "trusted": 4,
     "non_trusted_top": {
-      "ne21.com": 12,
       "autohome.com.cn": 10,
-      "sina.com.cn": 4,
-      "gessey.com": 3,
-      "in-en.com": 3,
-      "sina.cn": 3,
-      "voi.id": 3,
-      "sxcoal.com": 2,
-      "gdshe.org": 1,
-      "seetao.com": 1
+      "sina.com.cn": 9,
+      "stockstar.com": 3,
+      "indexbox.io": 2,
+      "news18a.com": 1,
+      "nikkei.com": 1,
+      "idnfinancials.com": 1,
+      "ua.news": 1,
+      "vietnam.vn": 1,
+      "sina.cn": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 5,
-    "relaxed_72h": 0,
-    "final": 5,
+    "fresh1_24h": 3,
+    "page_fresh": 1,
+    "relaxed_72h": 3,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "天合光能亮相亚洲数据中心展， 加速布局全球AIDC市场",
-      "d": "solarbe.com"
+      "t": "固态电池真来了！比亚迪抢跑，明年装车1000台",
+      "d": "sohu.com"
     },
     {
-      "t": "金秋迎华诞 实干谱新篇 | 东方旭能沂源鲁村苏帕200MW/400MWh独立储能",
-      "d": "solarbe.com"
+      "t": "南疆首个光伏治沙与绿电直连项目加速建设- 中国日报网",
+      "d": "chinadaily.com.cn"
     },
     {
-      "t": "比亚迪面向日本开发的微型电动车将登陆其他市场",
-      "d": "gasgoo.com"
+      "t": "300599，宣布重要收购！近期股价大涨",
+      "d": "stcn.com"
     },
     {
-      "t": "电动汽车电池售后保障有哪些关键点？",
-      "d": "autohome.com.cn"
-    },
-    {
-      "t": "回顾：中国科学家研发比锂电池便宜80倍、寿命可达16年的铁基电池",
+      "t": "1-8月全球动力电池成绩单出炉：宁德时代份额抬升，瑞浦兰钧增速领跑前十",
       "d": "sohu.com"
     }
   ]

@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 26,
+    "raw_dedup_junk": 42,
+    "trusted": 20,
     "non_trusted_top": {
+      "sina.cn": 6,
       "sina.com.cn": 3,
-      "jrj.com.cn": 2,
-      "stockstar.com": 1,
-      "guandian.cn": 1,
-      "donews.com": 1,
       "futunn.com": 1,
-      "gz-cmc.com": 1,
-      "sina.cn": 1,
-      "ofweek.com": 1,
-      "enanyang.my": 1
+      "stockstar.com": 1,
+      "zhiding.cn": 1,
+      "news18a.com": 1,
+      "voi.id": 1,
+      "vanpeople.com": 1,
+      "mydrivers.com": 1,
+      "indexbox.io": 1
     },
-    "fresh1_24h": 26,
-    "page_fresh": 23,
+    "fresh1_24h": 18,
+    "page_fresh": 9,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "三星或停止为汽车生产Exynos芯片 专注高利润领域",
+      "t": "马斯克造芯片不带台积电，澄清Terafab芯片工厂只考虑被台积电租用，而不是参与",
       "d": "sohu.com"
     },
     {
-      "t": "“芯片上车”不赚钱，消息称三星将退出车载应用处理器业务",
-      "d": "sohu.com"
+      "t": "浙江鸿粤半导体， 陷入破产审查",
+      "d": "huxiu.com"
     },
     {
-      "t": "TI芯片火了！TI、ST、TDK等热门芯片料号鉴定",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "A股收评：超3700只个股飘绿，三大指数集体收跌，科创50跌超4%；半导体、通信",
+      "t": "美股成交额前20：存储芯片集体重挫 美光科技跌超4%",
       "d": "eastmoney.com"
     },
     {
-      "t": "晶圆制造的' 眼睛 ' 被海外垄断50% 以上：晶智芯瞄准5-8 纳米节点，想造",
-      "d": "36kr.com"
+      "t": "余承东：未来肯定会有更多华为手机采用基于韬定律的逻辑折叠芯片",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "紫荆半导体车规芯片出货破千万，RISC-V又过一关",
-      "d": "gasgoo.com"
+      "t": "国内首例BAW滤波器侵权案宣判 这家“小巨人”企业获赔150万元 侵权产品主要销",
+      "d": "cls.cn"
     },
     {
-      "t": "【网通社快报】紫荆半导体车规芯片出货量突破千万颗",
-      "d": "ifeng.com"
+      "t": "涉及磷化铟，120亿化合物半导体项目，正式通线！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "超百亿融资！Wolfspeed推进 GaN‑on‑SiC射频外延晶圆技术",
+      "d": "eet-china.com"
     }
   ]
 }
