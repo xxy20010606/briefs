@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 30,
+  "total": 37,
   "samples": [
     {
-      "title": "日本股市，跳水！芯片巨头集体走低",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05Z0ppVnVzVVBtMHluWHF0UTVUemFHbXZULVlfNHhYYWJQRV9UTmpObW5GMVRfRERuT1RBTG9jb3g5a3dlaEhycW5",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
+      "title": "破发股*ST卓然跌6.48% A股共募13亿IPO国投证券保荐_股市聚焦_市场",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zbS15cUpUTk56OEtQUkpVTEt5YXRoaGxYSnlFMWVTdlQtNkpEVFBwM2J2Z09IdGlQLUZKZk94RGtTcFpMeHRWbGp",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "【环球财经】人工智能权重股拖累 纽约股市三大股指8日涨跌不一",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXVQWXpKMkJxMzNncGprMUtfMGlNcVF1NV9VTllHOWh1VW9rajRhZ3JXZ0RUbmxWa3hhOTZQOXB2Vm5HdU1wLTd",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
-    },
-    {
-      "title": "黄伟豪：内地股市短期欠催化剂壁仞科技(6082)及剑桥科技(6166)配股/熊丽萍分析汇控(0005",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVTY4UkRkVFRfWTk2ZkxGYl9BbDZkZ0FwSjlBd3R1UnNEZGo2bDMyMkt6YS1ramNjWVcxRjdGU0Z4dDFvaEVSUGt",
-      "source_url": "https://gbcode.rthk.hk",
-      "source": "RTHK"
-    },
-    {
-      "title": "17天！1元生死线前，岭南股份只剩3天",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0lybXBFVk0zSEFTbmg5NHJmb0hFd0NyZEV5U1Q2SlVMaDVhRzlzRHZmSGk4SEtoLVNKakE1LVZ2M3NWYXBSQjI",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "进一步完善制度，校正股市供需平衡",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1c5blBKUHRMbzdjRi1LVEFXUEhSQ1Y2dlp6Qm5XZ0tndGFjek5WZk9yVG9vRE1ZYVE4THhNQlhHOXpLUmE4QWF",
+      "title": "A股收报：近3300只个股飘红，三大指数集体收涨！文化传媒爆发，贵金属、农业大涨",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42aHdmZjUtQTNpbzdjSW9sbXVQamUzMW5CS1ZZZnZkVTlSQVVobjZMb2xNRXktYjcyeS0tWThDNDRiU3lPa0hod2J",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "达利欧警告：股市抵御债券收益率上行的缓冲空间正在收窄",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcDIza2M0ZXZvelBmUlRJdW9fTGdxMlROazdBTWxxaERRMjljZGVzY3FiRFRTTHN5b2dsSU9IVm9ZTXQ5NHBoaDQ",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "从机票到菜价，从债市到股市，油价冲击如何一路传导到你的钱包？_期市动态",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wVnlieDlha0IzNUlFRmRqVlhPRlVNSWdYalVPcHVQSjY5SmJWb2JraFRpYzcydzFKUDB4Mjg5dEpvMW16T0YzeUx",
+      "source_url": "http://futures.cnfol.com",
+      "source": "中金在线"
+    },
+    {
+      "title": "3D打印材料供应商Amaero(AMRO.US)重启美股IPO 筹资额骤降60%至2000万美元_股",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yc1F1VVNjc3VwTzJOclBGU2JvOGNIRVZGTXZNX2hrVENIZXQ3eVZ2QzBpTFZqM2NSbHl4WGNYTDQyWGN4SzVJSkZ",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
+    },
+    {
+      "title": "小分子生物技术公司Iambic Therapeutics(IAM.US)IPO定价15-17美元/股",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jMGt2Q3lSNlFTNXRJSzE0eVF2SnVpV21kVU1BMDZ1Q3VOOVdqeXVfYl9EQXpmOWlUeTlLWEJZYU4xM0JOWFlZR05",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
+    },
+    {
+      "title": "2026年10月09日[AI应用]涨停板金字塔",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0dVajcyZVROWkhBYWdIWkVtVzVWclZIVFROcXNlTGp1dkxfUE52M2pHUVU0b3lCckNyVVNYdHZFd0FlM2tBaXV",
+      "source_url": "https://cj.sina.com.cn",
+      "source": "finance.sina.com.cn"
     }
   ]
 }

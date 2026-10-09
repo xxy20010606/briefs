@@ -1,11 +1,29 @@
 {
   "type": "entertainment",
-  "total": 55,
+  "total": 66,
   "samples": [
     {
+      "title": "近12亿元收官！连续7天每日票房破亿元！国庆档领跑影片哪部打动了你？",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOFpxR1BhdmFGQlJualJXOHRmYklPbTFhTmdDOXp4dGFhbGExU2k5WWNJLS16Smhmc1BRSUhrUS1hbVpvaGNxbEJ",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.com.cn"
+    },
+    {
+      "title": "国庆档票房惨案，居然是古天乐！陈思诚4亿，小沈阳2亿，他才400万-yeeyi",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YNHhtT1BlUlN2SEE5Q2xQLWNILUM1VmhNaHctaUxLeW1WLUpweW9IN3h3OHF2ZWJ6TGVtTHN0Y3BLMXVPZ2ZiUWV",
+      "source_url": "https://www.yeeyi.com",
+      "source": "yeeyi"
+    },
+    {
+      "title": "上映一周仅5万人……连韩国也不买账的汤姆·克鲁斯《Digger》[MK电影]",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLbWdCZ2toSVJKNU8yS283Z1BELWRMMGhsMUpFS0ZvMEpPakRrNF9yMDRiSzRmY1VablBEYTdMeTNPU2dxYm5hdmp",
+      "source_url": "https://www.mk.co.kr",
+      "source": "매일경제"
+    },
+    {
       "title": "七嘴八舌｜票房回落并非因为“没人看”，电影市场正在发生结构性变化",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1QUZlNzllbFktRGJOUkpFSXV0QlIwRzFfTWpLTUpWS3pSZVVZNkNKTng5SW4tZnM1d3haZmJ1azNzRFhPNnRENm5",
-      "source_url": "https://m.thepaper.cn",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ROXdfVGR1Qk5GS2RJZTBETnJSSlB2V1g2OUI3ODlyb3QtN09YTVlFdUdfZHhpTWVCcHNSeTU2M2RJX1VBelpZRkx",
+      "source_url": "https://www.thepaper.cn",
       "source": "ThePaper.cn"
     },
     {
@@ -15,28 +33,10 @@
       "source": "搜狐网"
     },
     {
-      "title": "《复仇者联盟4》票房破44亿 冲刺中国电影票房TOP10",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqQ3BORVpoM29mckxBYUZhSzd4a3dlc3liS1A4bENHZ2RwSm1yNmtaUVJiMDl4d0NCSm1qMXZ3T3Z5a0Q0ZmpFMk5",
-      "source_url": "https://news.mydrivers.com",
-      "source": "驱动之家"
-    },
-    {
-      "title": "国庆档票房录得11.65亿元，《欢迎来龙餐馆》将代表中国内地角逐奥斯卡",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTem9jOGxSams1U182bkZtbVlCTkc3b0RDVU05MDFFZUdyX19zN0w3WEpDRlBkWkZ6LXpmekhKUzcyMl9sSGMtSHh",
-      "source_url": "https://www.yicai.com",
-      "source": "第一财经"
-    },
-    {
-      "title": "国庆档助力全年电影票房突破300亿元 《神探之痕迹》夺得档期票房冠军",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkdSZnpBUEpqa0VCdVdncXVlWWlZRzlXQWcwUEJua2ZCa1NYb0xqR256cWVqMnVkN3BEaDFGYjZRajJJWEtodlB",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "2026年国庆档电影票房11.65亿元 多部影片官宣海外上映计划",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRUxHX3lHS2hrWGpwRlkyc1dLdnhLRHVOOXVSN0lEbXY3WTJGckRRWHNQd3A5bUwyZGhkaTltd1E3Z3JFdFBOdE1",
-      "source_url": "https://news.sina.com.cn",
-      "source": "新浪新闻"
+      "title": "9日，据电影振兴委员会电影院入场券综合电算网统计，截至当天上午7时，《暗杀者》累计观影人数达到258",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EWU9FcFRBMHFGTlRRVUpkVGVubXZadTY4MDB2b1d0VURLcWdnV0xrLXdoTkNUbEdnYkF4SVFGdzR3d1NRb0dyUTJ",
+      "source_url": "https://www.mk.co.kr",
+      "source": "매일경제"
     }
   ]
 }

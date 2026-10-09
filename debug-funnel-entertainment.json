@@ -1,23 +1,23 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 55,
-    "trusted": 16,
+    "raw_dedup_junk": 66,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "sina.com.cn": 5,
+      "sina.cn": 8,
+      "sina.com.cn": 6,
+      "hupu.com": 5,
       "ttplus.cn": 3,
-      "360.com": 2,
-      "mydrivers.com": 1,
-      "hupu.com": 1,
-      "stheadline.com": 1,
-      "shobserver.cn": 1,
-      "pedaily.cn": 1,
-      "china.com": 1
+      "china.com": 3,
+      "mk.co.kr": 2,
+      "yule.com.cn": 2,
+      "hangzhou.com.cn": 2,
+      "yzwb.net": 2,
+      "yeeyi.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 6,
-    "relaxed_72h": 8,
+    "fresh1_24h": 14,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
@@ -31,24 +31,24 @@
       "d": "sohu.com"
     },
     {
-      "t": "电视剧《伟大的长征》央视一套开播",
+      "t": "2026年6000元玩PC游戏，iQOO 16表现如何？",
       "d": "sohu.com"
     },
     {
-      "t": "引吭圆梦 传统新生",
-      "d": "people.com.cn"
+      "t": "电视剧《伟大的长征》央视一套开播",
+      "d": "cri.cn"
     },
     {
-      "t": "大戏看北京·2026北京国际戏剧展演季启动",
-      "d": "people.com.cn"
+      "t": "定格动画电影《小羊肖恩3怪兽来袭》定档10月24日内地上映",
+      "d": "ifeng.com"
     },
     {
-      "t": "国庆档票房录得11.65亿元，《欢迎来龙餐馆》将代表中国内地角逐奥斯卡",
-      "d": "yicai.com"
+      "t": "演唱会如何为文旅助力？华晨宇演唱会解锁新方式",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "11.65亿元收官，国庆档如何守住基本盘？",
-      "d": "jiemian.com"
+      "t": "《此处通往繁星》首播，清一色好评，较为严肃的剧，故事性略差",
+      "d": "163.com"
     }
   ]
 }

@@ -1,41 +1,53 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 30,
-    "trusted": 8,
+    "raw_dedup_junk": 37,
+    "trusted": 10,
     "non_trusted_top": {
-      "stockstar.com": 6,
-      "sina.com.cn": 6,
-      "on.cc": 2,
-      "moomoo.com": 2,
+      "sina.com.cn": 10,
+      "moomoo.com": 6,
+      "sina.cn": 4,
       "futunn.com": 2,
-      "rthk.hk": 1,
-      "sina.cn": 1,
       "atvnewsonline.com": 1,
-      "528btc.com": 1
+      "rthk.hk": 1,
+      "528btc.com": 1,
+      "on.cc": 1,
+      "hstong.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 1,
-    "relaxed_72h": 3,
-    "final": 4,
+    "fresh1_24h": 10,
+    "page_fresh": 7,
+    "relaxed_72h": 0,
+    "final": 7,
     "cap": "不限同域"
   },
   "final": [
+    {
+      "t": "破发股*ST卓然跌6.48% A股共募13亿IPO国投证券保荐_股市聚焦_市场",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "从机票到菜价，从债市到股市，油价冲击如何一路传导到你的钱包？_期市动态",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "3D打印材料供应商Amaero(AMRO.US)重启美股IPO 筹资额骤降60%",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "小分子生物技术公司Iambic Therapeutics(IAM.US)IPO定",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "名创优品(09896)10月8日斥资约23.53万美元回购约10.5万股_股市直",
+      "d": "cnfol.com"
+    },
     {
       "t": "【环球财经】人工智能权重股拖累 纽约股市三大股指8日涨跌不一",
       "d": "21jingji.com"
     },
     {
-      "t": "达利欧警告：股市抵御债券收益率上行的缓冲空间正在收窄",
-      "d": "sohu.com"
-    },
-    {
-      "t": "海外资金，大举撤离韩国股市",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "美股芯片股盘前集体下跌，ARM跌超2%，港股大模型“双雄”大跌，MINIMAX跌",
-      "d": "21jingji.com"
+      "t": "股市面面观丨本月11家A股公司发布三季报预告 上游能源原材料等方向景气度高企",
+      "d": "eastmoney.com"
     }
   ]
 }

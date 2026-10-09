@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 49,
+  "total": 59,
   "samples": [
     {
-      "title": "太敢玩了！谷歌推出办公AI同事，连竞品Claude都能调用？",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMExTU1hEM3hINktpdWdOUndzaFM2dUl6Z0R5N2padklob1BBejFRUEZiZnBpU1JHVDFPalZuZzBsVW9rcGlpbEt",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "新专业说·商业人工智能应用③｜走进企业AI 落地现场：FDE 为何成为商业AI 人才培养的关键支点？",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PWXRBWXBfV3NOU2lZeVIxc2JxZzRJbHFROFJELUxVZzNyMjZySlBzbDlaNG9vclh5dk5ibkJ4VzhjMXlBblNzbzV",
+      "source_url": "http://stock.10jqka.com.cn",
+      "source": "同花顺财经"
     },
     {
-      "title": "2026 爱分析·Data+AI应用实践报告｜爱分析报告",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oamZOZXBCWDFMU01RbTNnM2p4cXoyRi1NTGdzRVFESTlfc3NPZ2lXNDl5QUkxOWhsbzJyTlBZME9QUEIyYjJlbTE",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "将AI虚拟恋人异化为批量制黄工具，6人被判刑",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ST1VuSEtaeUVROXJEQ19QdHZDT1Y2bUhSdzk5NjBCVTRZZm9QcXNQdkR2NnZPLTlmZlJCaUY2OW9OVkxmaGY2a3d",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "LightCraft 指南，用 Rust 编写的免费开源 Lightroom 替代品",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWJWZTZfUVdLTENqLXVpSTg5SUp4SnotdEdHd1AyUHpPQ2pXdGVyZE1KV045Z0tHcEZTSndFbGFueG5MLUFhWW9",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "从华为全联接大会2026看 HarmonyOS 7：鸿蒙正在把体验、AI 和开发工具连成闭环",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14Q2lrOUxUS1o5SHpGWEJUVWNvWHFIWWZMWDhLNDloc3VTaFU4Q0VkNXN2YmpRQWR1X1dLTXUwRGdTa0hzOWFSSHl",
+      "source_url": "https://www.oschina.net",
+      "source": "OSCHINA"
     },
     {
-      "title": "用AI缓解数据中心日益严峻的环境问题-AI基础设施",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IS2JhbC1tSmhJeFNsWUJidTVpSjZMcUpGNGNKZ21idm9wZ0ZtZ3g3UnZqUE1KQjhYYlJLeEtmZU1CTExjZmpEQUN",
+      "title": "2026学英语口语的AI测评：哪款APP最值得选",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NdzlxUXMtV21jWm9DYVVhS056bnpaTWl2c2NkbmxjWXpEWC1XMVFVcWdPNndvN204WHRkVGpXalZMd1FXWUp4UW1",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
+    },
+    {
+      "title": "5亿美元砸向Manus；黄仁勋批AI末日论是胡扯 丨 AI周报",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOThhM0xvUnh5T1YzWlI5enFWSm5XdldPNGVDUWxybEZuOUlqcnFXSklqWUJsMm82ZkVSM3ZOeDJwd1lOajZQUXB",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
+    },
+    {
+      "title": "Sean Parker重塑Stability AI，聚焦音乐领域-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sbHRWQjdjX0M3U1l0dFphS2FQMEZWTmR1MHIwS0dRZnd4SDlpMkwwWndhVG03enh6T3hJcjUtWmxOSHQtOEZZMkk",
       "source_url": "https://www.zhiding.cn",
       "source": "至顶网"
-    },
-    {
-      "title": "负责任的AI:5个真实失败案例,附判决与数字",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01c19ER2ZFQnJvZEMyZngxSjM3SlVGRklwUGdmX20zQngtUXBncVlCSFlTekExS1Y3YTdlQXdscDEtSHB2YXlWZ09",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "开发者发布iPhone SSH终端Pocketty：AI Agent受阻自动推送提醒",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KT2ZYb0RtNHJhbDU3ZVZCRnd5YmtGYzFSWllOSmxrdldCRnBHTENObGdUdnZKRjNmYWZVc3B5SmZBNTAtQVA0OGd",
-      "source_url": "https://www.80aj.com",
-      "source": "https://www.80aj.com/"
     }
   ]
 }

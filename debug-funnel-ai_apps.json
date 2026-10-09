@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 17,
+    "raw_dedup_junk": 59,
+    "trusted": 16,
     "non_trusted_top": {
-      "pasqualepillitteri.it": 6,
-      "sina.com.cn": 4,
-      "zhiding.cn": 3,
-      "unite.ai": 3,
-      "528btc.com": 3,
-      "80aj.com": 1,
-      "cnbeta.com.tw": 1,
-      "donews.com": 1,
-      "x.com": 1,
-      "ua.news": 1
+      "zhiding.cn": 7,
+      "pasqualepillitteri.it": 7,
+      "aibase.com": 4,
+      "sina.com.cn": 3,
+      "csdn.net": 2,
+      "caiwennews.com": 2,
+      "oschina.net": 1,
+      "moomoo.com": 1,
+      "jianhuadaily.com": 1,
+      "tom.com": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 14,
+    "fresh1_24h": 16,
+    "page_fresh": 15,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "太敢玩了！谷歌推出办公AI同事，连竞品Claude都能调用？",
+      "t": "新专业说·商业人工智能应用③｜走进企业AI 落地现场：FDE 为何成为商业AI ",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "2026学英语口语的AI测评：哪款APP最值得选",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "5亿美元砸向Manus；黄仁勋批AI末日论是胡扯 丨 AI周报",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "全球最大独立 AI 原生影视公司，开始打破工具与制片厂的边界",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "2026云栖大会英特尔探展：新一代至强、AI GPU与可信计算集中亮相",
       "d": "sohu.com"
     },
     {
-      "t": "2026 爱分析·Data+AI应用实践报告｜爱分析报告",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "星连资本被投企业 Kando AI 完成数千万元种子轮融资，要做“决策领域的Cu",
+      "t": "微软给Agent立规矩，Windows要管AI了",
       "d": "36kr.com"
     },
     {
-      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "d": "36kr.com"
-    },
-    {
-      "t": "27家影视上市公司AI布局盘点：2家梭哈、21家观望、4家裸泳",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "观智潮｜5亿美元到账，Manus重回AI牌桌, 前员工回忆那段“打了鸡血”的日子",
-      "d": "sohu.com"
-    },
-    {
-      "t": "FDE不是软件公司的救命稻草，而是致命的陷阱",
-      "d": "huxiu.com"
+      "t": "2026年雅思口语APP实测评测：三款人气应用深度对决",
+      "d": "ifeng.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 42,
+  "total": 45,
   "samples": [
     {
-      "title": "芯片预期，两万亿！分析师：别太乐观",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56QWxzc29SQmg4UkdYZUhKcE9PTWVYMkNldFltQ0JuTGo0WVFtaTliZHIzWjFWeVJQWHRVZ29RUmtpSzNYRmJVQlV",
-      "source_url": "https://news.futunn.com",
-      "source": "富途牛牛"
-    },
-    {
-      "title": "马斯克造芯片不带台积电，澄清Terafab芯片工厂只考虑被台积电租用，而不是参与运营",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1FKUGdUdzBab2dtdWVOOEVRVWphdURHU1JKT0FIWEsxak4teVBHWDFxTDFZYmR5WElIeFY2MlpsbzM5VHF2LTM",
-      "source_url": "https://www.sohu.com",
+      "title": "美国首次打通AI芯片封装关键环节：格芯与台积电联手，本土硅中介层供应链落地",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVdfWllUR0NCZUtOWHZZZzE1OFRRbkM5cEY5ZWFXNGF3RFR2VUtmYmg0NEVPNlVGd0hMQlMxUTJQeFdXNGhZMmx",
+      "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "浙江鸿粤半导体， 陷入破产审查",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJUFBjY1dXamJNREVMc1JfS3B6bUVYa0pJZUpBcUlPa2RZM25RQ0FGS214aFlZQTJCa0tPQkh1SU5teGdEVWpIekN",
-      "source_url": "https://www.huxiu.com",
-      "source": "虎嗅网"
+      "title": "三星拟退出车载应用处理器业务 资源转向图像传感器、移动端芯片",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00b29JX01SQ3B5YmZXaVpjUVdOdW1IdnU3VkxuZ21FWWhQVENtSTVSeUNNRzBwZFl0YmpTbnZ1WGY5akoyYzZYYVl",
+      "source_url": "https://news.mydrivers.com",
+      "source": "驱动之家"
     },
     {
-      "title": "10月8日半导体龙头ETF工银基金份额增加200万份，重仓股兆易创新、寒武纪、北方华创_基金提醒_雷",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1RUMwNXR4TmpZVGNfYVQ5Q3c4Mk11WmtWeU05T1ZuU29WQW0wRmpLbF91ZjR6Q1M3amVxNkswTlFOZWM5eDg3eTZ",
-      "source_url": "https://stock.stockstar.com",
-      "source": "证券之星"
+      "title": "聚焦玻璃基TGV与光电集成 | 第三届MLED显示暨CPO光互联大会将于12月在天津举办",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EckxEX2JJQm9IMThxWDhVQWJ3Y1VhLVFjNy1sS2tmYVdRQkFzU1FDNWtaVlpVZEU1YlJSMHF3cnNLMGh6bzJJbnV",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "芯片制程提升的故事要讲不下去了",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xX1dBT19KVXVEdVRwV3BHdmlDb3FzUU0zYVJVTHl0QVg5TW1taW55N1AwZFBXU1BMR1Q3dWNGRmg3czNPZ2wzb0p",
-      "source_url": "https://user.guancha.cn",
-      "source": "风闻"
+      "title": "GMIF2026｜摩根士丹利颜志天：AI下一波，从算力到记忆体创新",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmemg3c29nQ1BoYWVVYXE3TnlsYkNPZUN4V2dSMXlGR1BYYzNlT2FRQ0ItcTNjS3RUM2ZnaEJYVEQ1U2hqQldIYUs",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "“芯片上车”不赚钱，消息称三星将退出车载应用处理器业务",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tVy1PQmU1eG5CM3NraEh1aWdHcFRoNjN5MllzcU1EY08tNXdDeHBBa2w0S3ZLTUhhMW03NnNtWEZqVGZkOUpFVzJ",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "探路者等共同持股的武汉探路芯存科技成立 经营范围含集成电路芯片设计制造",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XdENISWd1d0l4MVdmWUQzYWtlZ1NZZ2V2ZUNmNVZOYldlOUV6a2FHZEFkYi1SZS12a1JOcFlpUjFFRl9zdVdkQUN",
+      "source_url": "https://www.guandian.cn",
+      "source": "观点网"
+    },
+    {
+      "title": "美国格芯与中国台积电签署20亿美元硅中介层制造协议",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HWFRqakdaeTRJVmFodDhvUUpoMjhiSUxRYVphb0JpU3MwQy1oeVhsNEhjQlVDa2pVcC1vengzM2t3LVUyRXJfLUl",
+      "source_url": "https://www.wedoany.com",
+      "source": "维度网"
     }
   ]
 }

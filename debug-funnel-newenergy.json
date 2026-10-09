@@ -1,42 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 4,
+    "raw_dedup_junk": 51,
+    "trusted": 13,
     "non_trusted_top": {
-      "autohome.com.cn": 10,
-      "sina.com.cn": 9,
+      "autohome.com.cn": 8,
+      "ne21.com": 6,
+      "sina.com.cn": 5,
+      "in-en.com": 4,
       "stockstar.com": 3,
-      "indexbox.io": 2,
-      "news18a.com": 1,
-      "nikkei.com": 1,
-      "idnfinancials.com": 1,
-      "ua.news": 1,
-      "vietnam.vn": 1,
-      "sina.cn": 1
+      "mysteel.com": 2,
+      "wedoany.com": 2,
+      "scol.com.cn": 1,
+      "sz.gov.cn": 1,
+      "sxcoal.com": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 1,
-    "relaxed_72h": 3,
-    "final": 4,
-    "cap": "不限同域"
+    "fresh1_24h": 13,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "固态电池真来了！比亚迪抢跑，明年装车1000台",
+      "t": "国庆假期浙江虚拟电厂填谷响应负荷规模刷新国内纪录",
       "d": "sohu.com"
     },
     {
-      "t": "南疆首个光伏治沙与绿电直连项目加速建设- 中国日报网",
-      "d": "chinadaily.com.cn"
+      "t": "市值跌掉180亿，艾罗能源为何难续往日辉煌？",
+      "d": "cnfol.com"
     },
     {
-      "t": "300599，宣布重要收购！近期股价大涨",
-      "d": "stcn.com"
+      "t": "协合新能源(00182)美国清洁能源项目组合完成4亿美元融资关闭_股市直播_市场",
+      "d": "cnfol.com"
     },
     {
-      "t": "1-8月全球动力电池成绩单出炉：宁德时代份额抬升，瑞浦兰钧增速领跑前十",
+      "t": "内蒙古阿荣旗：风光变电能清洁能源点亮绿色发展",
       "d": "sohu.com"
+    },
+    {
+      "t": "中湘资本新能源公司首座110千伏电网侧独立储能项目正式转入商业运行",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "100MW/200MWh！阿特斯储能斩获澳大利亚大型光储项目订单",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "一线调研：跳出硬件堆叠误区 储能行业换挡升级",
+      "d": "cs.com.cn"
     }
   ]
 }
