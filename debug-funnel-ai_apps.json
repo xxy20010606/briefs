@@ -2,52 +2,48 @@
   "type": "ai_apps",
   "stages": {
     "raw_dedup_junk": 32,
-    "trusted": 7,
+    "trusted": 6,
     "non_trusted_top": {
-      "zhiding.cn": 5,
-      "sina.com.cn": 5,
-      "ac.cn": 3,
-      "pasqualepillitteri.it": 2,
-      "wicinternet.org": 1,
-      "newswav.com": 1,
-      "unite.ai": 1,
-      "jiaoyujie365.com": 1,
-      "haiwaiwai.com": 1,
-      "fxbaogao.com": 1
+      "sina.cn": 4,
+      "zhiding.cn": 3,
+      "sina.com.cn": 3,
+      "prnasia.com": 2,
+      "unite.ai": 2,
+      "itopmarketing.com": 1,
+      "ikanchai.com": 1,
+      "thaiheadlines.com": 1,
+      "baijing.cn": 1,
+      "80aj.com": 1
     },
     "fresh1_24h": 6,
-    "page_fresh": 1,
-    "relaxed_72h": 6,
-    "final": 7,
-    "cap": "同域≤2条"
+    "page_fresh": 6,
+    "relaxed_72h": 0,
+    "final": 6,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "星连资本被投企业 Kando AI 完成数千万元种子轮融资，要做“决策领域的Cu",
-      "d": "36kr.com"
-    },
-    {
-      "t": "全球最大独立 AI 原生影视公司，开始打破工具与制片厂的边界",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "AI降低App开发门槛，Codeway、HubX与杭州睿琪等App工厂以矩阵化产",
+      "t": "美图公司2026年股价较高点跌超50%，AI影像转型面临竞争与算力成本压力",
       "d": "huxiu.com"
     },
     {
-      "t": "新专业说·商业人工智能应用③｜走进企业AI 落地现场：FDE 为何成为商业AI ",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "Manus完成超5亿美元融资，恢复独立运营后估值约40亿美元",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "深度丨原 TRAE 负责人石扬离职创业，联手前字节数据安全负责人傅越做 AI 办",
+      "t": "我省推出“AI造物”系列赛事三大赛事 激活创新创业动能",
       "d": "sohu.com"
     },
     {
-      "t": "成立两个月已被副总统接见：一家中国AI公司的“全球贸易野心”",
+      "t": "京东Aidol创造营S2冒险季正式启动 为AI创意提供更多展示和落地机会",
+      "d": "36kr.com"
+    },
+    {
+      "t": "重磅利好，AI相关产业规模剑指10万亿！超跌+业绩高增长概念股揭晓",
+      "d": "stcn.com"
+    },
+    {
+      "t": "Manus融资5亿美元，一天收到上千份简历，ARR一年翻4倍",
+      "d": "sohu.com"
+    },
+    {
+      "t": "全员Agent时代，「SaaS死讯」传早了",
       "d": "sohu.com"
     }
   ]

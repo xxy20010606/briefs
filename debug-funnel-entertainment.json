@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 44,
-    "trusted": 14,
+    "raw_dedup_junk": 53,
+    "trusted": 7,
     "non_trusted_top": {
+      "sina.com.cn": 6,
       "sina.cn": 4,
-      "sina.com.cn": 3,
-      "scol.com.cn": 3,
-      "hupu.com": 2,
-      "yuanxian1.com": 1,
-      "yeeyi.com": 1,
-      "ttplus.cn": 1,
-      "3dmgame.com": 1,
-      "vietnam.vn": 1,
-      "hk01.com": 1
+      "hupu.com": 3,
+      "ttplus.cn": 3,
+      "pedaily.cn": 2,
+      "china.com": 2,
+      "iqilu.com": 2,
+      "mediafine.co.kr": 1,
+      "mk.co.kr": 1,
+      "yuanxian1.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 5,
-    "relaxed_72h": 8,
+    "fresh1_24h": 7,
+    "page_fresh": 7,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
+    {
+      "t": "进口影片《生化危机：爆发夜》票房突破2亿元",
+      "d": "sohu.com"
+    },
+    {
+      "t": "上映7天0票房0观众！比打不过就跑路还离谱，国庆档最惨电影诞生",
+      "d": "163.com"
+    },
     {
       "t": "国庆档电影票房破亿：2026年影市的精彩与挑战",
       "d": "sohu.com"
     },
     {
-      "t": "00后“戒断”AI短剧：一个月卸载了5次",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "国庆档票房超11.65亿元 “电影+”新玩法带火假日新消费",
-      "d": "china.com.cn"
-    },
-    {
-      "t": "2026北京人艺国际戏剧邀请展开幕",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "第35届电视剧“飞天奖”、第29届电视文艺“星光奖”颁奖典礼在山东烟台举行",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "古天乐新戏《侦战》内地票房惨淡 一度宣布撤档！导演孔令政强调香港10月8日如期上",
+      "t": "猫咪拯救人类不开心！《戴帽子的猫》定档11月6日",
       "d": "sohu.com"
     },
     {
-      "t": "电视剧《伟大的长征》9日开播 全景式构建长征影像志",
-      "d": "chinanews.com.cn"
+      "t": "烦恼拜拜！华纳兄弟动画开山力作《戴帽子的猫》定档11月6日",
+      "d": "sohu.com"
+    },
+    {
+      "t": "以歌为媒！《CMG金秋歌会》唱响南沙",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "张智霖否认儿子休学传闻 称借巡演帮孩子积累经验",
+      "d": "ifeng.com"
     }
   ]
 }

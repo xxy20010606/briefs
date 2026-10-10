@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 46,
+  "total": 64,
   "samples": [
     {
-      "title": "青岛港的AI突围：全国首个港口大模型诞生记_国内经济",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kNEU4bG9qTTlSR0I2NFV0dENMSUJHZFp5RVRINEkzWmEyOC1fUHFwc1JBOV9Vckl4dXBYZmdQWG1XeFpuMmlxa2t",
-      "source_url": "https://finance.stockstar.com",
-      "source": "证券之星"
+      "title": "RSI「出圈」背后：AI自我进化，卡在了哪里？",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HOEhUUVgwaW9sZFI0Nkw3dTV3cjhpT3NnSFl5VUw3c0x4aFI2anVFOWppQ1VxWDJGTlh6SDlwWE1ibzJWTWtnYkt",
+      "source_url": "https://news.pedaily.cn",
+      "source": "投资界"
     },
     {
-      "title": "【企业风采】百思大模型通过国家备案，百分点科技持续夯实政企AI合规基础",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02VEVpdUpKRk5Ea3U1S1diRFItNVkxblZ0dDBGNkhTeS1STDBsYTNiSUV3N1VVaS1WNW9XNzk1MG9JTTU4MWt2RzJ",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "又出事了！美国AI巨头Anthropic旗下大模型，自主向警方网站提交虚假凶杀案线索",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqQzVHSDNRbkllX1lJRFllVkJyMjlYNTBUM2NJQjNCcld3Ykxpb0hCSHo2SC1YT00wMHRfTFRmQkdQT3ZqWkV2YUZ",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "工业大省有“模”力｜星港大模型进驻港口长出干活的“手”和“脚”_山东新闻",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SMFFaSWtWbGhoRzZ6SXE2M2RlNnNlUC11a0NHa2R6T3hnRk1Pcnd0WkZHWE5KcHQyMDhZME9IdVY4ZG1GV2FuM3N",
-      "source_url": "https://sd.dzwww.com",
-      "source": "大众网"
+      "title": "比改教科书更阴！日本右翼直接往AI大模型里\"喂毒\"，外交部：用心险恶",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT21TVjduRlFhNklMTDM1SVRuTzVvcTB4Y0ptc1hZUmgxSHY5Q2RRVlozV2F2akNiS0JHQW9KLVBsNFpRRjNUNVJ",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "大普微10月9日回应AI算力话题：在手订单充足，加快PCIe 6.0等前沿产品研发_公司新闻",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96T1pIa19SYUkwa0tlWTJHaDFJQ1FkbnowbnZpS2ltb2RQME5qdlpCVWV4NTY3YXdseHVuQTVDNGMzdjFBeUVFa1V",
-      "source_url": "https://stock.stockstar.com",
-      "source": "证券之星"
+      "title": "远景能源发布《AI风储一体机白皮书》",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaVNhQU9uR1VNLXdSdXlUakg0UG1HSWFYVnU0TlA5Qy1wNlRVbHdfSXFtUGVFS2ROaWd0RE9ZQnBHYkVpVkhKNVJ",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "算法、算力、场景 “人工智能+”西安往哪“+”？",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NQldFWk5XZWQ1bjZkSlN3SzFFWTRDZktfUXdJUVk1bk9VLUJQTnE2eDhKbzdJdnBmaXhqU0hic0VabGJoVzE3T1V",
-      "source_url": "https://news.hsw.cn",
-      "source": "华商网"
+      "title": "OpenAI再次叫停前沿模型开发 AI+网络安全成国家级战略重点方向",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XcEhsbEZkZ1NUNUVOT0FvUzRfSTlpSjE3Z3BtQms1c3VKeGpIdU9BTFM1LXNvUkdyT3ZFeE9DVG05Rlg5c2tyRA?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "大模型要“读懂”科学需要怎样的科技语料？",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MUXNHRGZaNDc3aGhNd2I3UzF6UlVqYW9DN0M4TjBPdm1YNlUxLTJVdUNEN1RXSWx5S3g4V0MyRWl3alNZeGVRTkx",
-      "source_url": "https://www.chinanews.com.cn",
-      "source": "中国新闻网"
+      "title": "马化腾与姚顺雨罕见同框，座谈会现场相邻而坐|广东省|深圳市|黄坤明|腾讯|人工智能",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc0VKdHZfUFJWTFdXMmxoUkg1SjFKeXBEc0htZjdtd1E3TkFfX2ZsTFkyWDBzaU52VFpxbnFJMFZQcmN6ZHhCMlp",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     }
   ]
 }

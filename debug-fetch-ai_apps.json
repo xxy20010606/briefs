@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 32,
+  "total": 33,
   "samples": [
     {
-      "title": "Meta前合作方推出智能体平台对标Meta Muse-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56b3lrb2hET1pCamhsRl9ZSHJkODlFTG9CeHI3Z0h5cDZDVF9HV2x1RUJUbXFSOGtRQ2RUV0RxNTN1MkZkaXVFcEM",
+      "title": "Splice CEO：AI写的邮件正在扼杀真实对话-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUY2lyTzFvVklpd3JpNEJoaW9sUnVlWF9lcG1oeWJjdmotTkl0S0hPb0wydjdrSm1sT2stRUh5NVBHMGkzNzhCTzB",
       "source_url": "https://www.zhiding.cn",
       "source": "至顶网"
     },
     {
-      "title": "AI或使软件工程师生产力提升32.6%-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DNEpqOElwTlNDcmpvMFQ2cnMtLWRuQ1BqTHBHRWQwT0Zzc0hnRHJSckQwMzJSSExjRWlDVXZ1Sk5ZVHRXVmJzUlF",
+      "title": "AI Agent时代就在眼前。 各家厂商的Agent都具备了自主规划、调用工具、跨应用操作的能力，",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00ZHdkQzhiSkEtakctNXowdDhuc2ZWNWlpMHlEem1BZHpzd1l0c3RVMF9SSnN6ME5wMm9ZRXZqczEzd21NMkVtSm5",
+      "source_url": "https://www.itopmarketing.com",
+      "source": "https://www.itopmarketing.com/"
+    },
+    {
+      "title": "布莱恩·切斯基谈AI：智能体需要专属操作系统-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MY0xIdVhiNjN5dDN6bGdWa3Rpb2VVTDBlOWJhY01ZZ0hUTl9IRUx1aGMyM284b0FJYUJTQlpLZjVrQlBMZzNQVjk",
       "source_url": "https://www.zhiding.cn",
       "source": "至顶网"
     },
     {
-      "title": "谷歌云推出Gemini智能体，重塑企业工作方式-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oNEd3WkJDNHVacjRZcHdpZjRxbnYyYVRMR09hNlZOWU1tblYwZURGTElmWGhlM3h4Z1c2X2NJOUtMbzdfcC1HREV",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "天气通MCP累计调用量突破1100万，登顶阿里百炼MCP全品类第一",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uR2h5NGRsV0FxTV9UN0ZYeFI4amNtd3Z1aDBUM2pRM09lUWJ1d3d5NWtyd3hCZF80LVdZRS02RlhhQlV3NWxkOEl",
+      "source_url": "https://news.ikanchai.com",
+      "source": "砍柴网"
     },
     {
-      "title": "华为鸿蒙电脑9月体验报告发布：全新沉浸光感、图库AI修图、小艺任务模式等",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xV1hveUF5Z000bEp3MkZ3RU9tWGlYU0pBWmppYVg4d3lic24zWDE4ZnppdWF5UmIwZ1RMTUFaUUpfbWI5d0pCdEx",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "工业3D打印的下一场竞争，联泰科技把AI 放进制造流程",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96REVvb0xLUTI5U3ZhSUo3X2VfdVNjbkdkekJpRFRNQ1ZJU3c4djFhZWxnWFRWSE9FQTNRZU9qc1B5ckdncDR4NU9",
+      "source_url": "https://www.prnasia.com",
+      "source": "美通社"
     },
     {
-      "title": "OpenAI收入低于预期，《金融时报》称年化收入约500亿美元而非700亿",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1pfOXRwbTloX0diYmg5aWhwX3laYnd5V3NLTlNPZzdLeWtQOXR2MUdHOEE5b3pCQkg0ai1nMFZheVhRck12eG1",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "全球最大独立 AI 原生影视公司，开始打破工具与制片厂的边界",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83VGZBS2NXdl9uOGJsRVlvT1RqSlNuakFpS3hEX1F0QmR1azgwQmoxVUZ2UDNvMmJFMUZrY0V4WldrdlF5NmkxOEJ",
-      "source_url": "https://www.infoq.cn",
-      "source": "InfoQ-CN"
+      "title": "Underdog AI发布Saluki 27B模型：2-bit量化Qwen3.8-27B，7.89G",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTBLa0tUaUJwWnZSWVVZcVVGMTl6Nm9QOWU3QWZ3eGhZM3JSb0Y2b3NCT1lKcEdqWGdvakRZRkhxX0J5amUtekt",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     }
   ]
 }

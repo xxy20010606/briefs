@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 39,
-    "trusted": 19,
+    "raw_dedup_junk": 49,
+    "trusted": 22,
     "non_trusted_top": {
-      "indexbox.io": 4,
-      "stockstar.com": 2,
-      "futunn.com": 2,
-      "sina.cn": 2,
-      "sina.com.cn": 2,
+      "sina.cn": 6,
+      "caiwennews.com": 3,
+      "indexbox.io": 3,
+      "newswav.com": 2,
       "guandian.cn": 2,
-      "mk.co.kr": 2,
-      "nikkei.com": 1,
-      "vietnam.vn": 1,
-      "c114.net.cn": 1
+      "cnmo.com": 1,
+      "enanyang.my": 1,
+      "dailyqd.com": 1,
+      "cnbeta.com.tw": 1,
+      "worldjournal.com": 1
     },
-    "fresh1_24h": 18,
-    "page_fresh": 7,
-    "relaxed_72h": 8,
+    "fresh1_24h": 22,
+    "page_fresh": 17,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "SK会长：只要条件允许，就尽快建厂！",
+      "t": "338亿港元收盘！奕斯伟计算，港交所挂牌上市",
       "d": "eet-china.com"
     },
     {
-      "t": "主频5GHz麒麟不远了！余承东：韬定律芯片会逐步下放",
+      "t": "西安奕材、沪硅、中欣晶圆、金瑞泓、中环领先、合晶、超硅、晶升股份等齐聚【第九届半",
       "d": "eet-china.com"
     },
     {
-      "t": "氮化镓激光芯片“新锐”，年内累计融资上亿元",
-      "d": "eet-china.com"
+      "t": "专家认为马斯克通过Terafab高效生产芯片的难度要大于将火箭送往火星",
+      "d": "sohu.com"
     },
     {
-      "t": "半导体设备ETF易方达（159558）逆势获超2亿份净申购，机构预测A股半导体公",
+      "t": "东微半导可转债申请获上交所受理，拟募资14.36亿元加码功率半导体",
+      "d": "sohu.com"
+    },
+    {
+      "t": "*ST闻泰在无锡成立半导体公司",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "重磅官宣永成股份获首尔半导体授权，“中国首尔芯片应用实验室”正式设立",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "统一涨价10%！光刻机巨头上调在韩零部件报价 三星、SK海力士已“买单”",
       "d": "cls.cn"
-    },
-    {
-      "t": "奕斯伟上市开盘即破发！",
-      "d": "sohu.com"
-    },
-    {
-      "t": "长鑫利润远超中芯国际！",
-      "d": "sohu.com"
-    },
-    {
-      "t": "美股深夜，半导体、芯片走低；中国资产大涨，理想汽车涨超7%，阿里、网易、小鹏涨超",
-      "d": "21jingji.com"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 46,
-    "trusted": 21,
+    "raw_dedup_junk": 64,
+    "trusted": 24,
     "non_trusted_top": {
+      "sina.cn": 10,
       "sina.com.cn": 6,
-      "stockstar.com": 2,
-      "sina.cn": 2,
-      "dzwww.com": 1,
-      "hsw.cn": 1,
-      "futunn.com": 1,
-      "awtmt.com": 1,
-      "on.cc": 1,
-      "sfccn.com": 1,
+      "eastmoney.com": 4,
+      "china.com": 2,
+      "csdn.net": 2,
+      "pedaily.cn": 1,
+      "stheadline.com": 1,
+      "bjd.com.cn": 1,
+      "sipac.gov.cn": 1,
       "ikanchai.com": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 5,
-    "relaxed_72h": 13,
+    "fresh1_24h": 24,
+    "page_fresh": 20,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "大模型要“读懂”科学需要怎样的科技语料？",
-      "d": "chinanews.com.cn"
+      "t": "比改教科书更阴！日本右翼直接往AI大模型里\"喂毒\"，外交部：用心险恶",
+      "d": "sohu.com"
     },
     {
-      "t": "AI能否真正超过人类——专访中国社会科学院学部委员、哲学研究所研究员赵汀阳",
-      "d": "gmw.cn"
+      "t": "远景能源发布《AI风储一体机白皮书》",
+      "d": "sohu.com"
     },
     {
-      "t": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
-      "d": "zhidx.com"
+      "t": "从备案到出海，横琴为AI大模型安全合规“开课”",
+      "d": "21jingji.com"
     },
     {
-      "t": "极视角(06636)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "@ 一下就能派活？谷歌推出办公 Agent，拥有独立账号、能够创建子 Agent",
+      "t": "10 秒视频很惊艳，为什么 AI 做一部短剧还是这么难？",
       "d": "infoq.cn"
     },
     {
-      "t": "大模型推理成本加速下降 AI应用端渗透有望迎来提速",
-      "d": "cls.cn"
+      "t": "想看AI芯片下一步往哪里走？没来上海峰会的人，看这篇就够了",
+      "d": "eet-china.com"
     },
     {
-      "t": "一个抢入口一个拼低价，两大模型厂商同日上新",
-      "d": "yicai.com"
+      "t": "杭州国际人才大会面向全球开展AI创新合作对接",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "英伟达计划投资AI推理芯片竞争对手d-Matrix，推动“解耦推理”兼容生态",
+      "d": "eet-china.com"
     }
   ]
 }

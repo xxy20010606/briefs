@@ -1,53 +1,53 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 10,
+    "raw_dedup_junk": 50,
+    "trusted": 14,
     "non_trusted_top": {
-      "autohome.com.cn": 6,
+      "sina.com.cn": 8,
       "stockstar.com": 3,
-      "sina.cn": 3,
-      "ttplus.cn": 2,
+      "gessey.com": 2,
       "ne21.com": 2,
-      "sina.com.cn": 2,
-      "wenxuan.news": 1,
-      "gessey.com": 1,
-      "51.ca": 1,
-      "voi.id": 1
+      "sina.cn": 2,
+      "caiwennews.com": 1,
+      "zqrb.cn": 1,
+      "seetao.com": 1,
+      "in-en.com": 1,
+      "ttplus.cn": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 3,
-    "relaxed_72h": 7,
+    "fresh1_24h": 14,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "固德威近几年离职的高管现状，离职、换届、内部调岗？",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "前8月全球动力电池装车量TOP10：宁德时代独占4 成 一中企增速翻倍",
-      "d": "gasgoo.com"
-    },
-    {
-      "t": "同比涨1.8倍，1-9月储能签单量已超去年全年",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "股票行情快报：神雾节能（000820）10月9日主力资金净卖出358.62万元",
+      "t": "青岛地铁闲置屋顶及空地资源开展光伏建设再入选国家级典型案例",
       "d": "sohu.com"
     },
     {
-      "t": "股票行情快报：英威腾（002334）10月9日主力资金净卖出129.38万元",
+      "t": "追风逐光向绿而行｜“高质量发展在吕梁”采访团走进岚县探访新能源产业发展",
       "d": "sohu.com"
     },
     {
-      "t": "高速公路企业加速布局绿电业务，山东高速2025年绿电收入达8113.6万元",
-      "d": "huxiu.com"
+      "t": "热财经｜全国首个百万千瓦级光伏光热项目并网发电",
+      "d": "21jingji.com"
     },
     {
-      "t": "公牛GONEO亮相意大利太阳能暨储能展，展示光储充一体化解决方案",
+      "t": "首秀意大利国际能源展，昱能科技携全场景光储方案加速南欧市场拓展",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "“绿电”新解法，离网方案再拓展｜恒羲光伏光储动力舱批量发货，移动微电网加速落地",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "比亚迪第15万辆商用车下线",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "比亚迪第15万辆新能源商用车下线",
       "d": "ifeng.com"
     }
   ]
