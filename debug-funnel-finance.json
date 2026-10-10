@@ -1,52 +1,53 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 37,
-    "trusted": 10,
+    "raw_dedup_junk": 45,
+    "trusted": 25,
     "non_trusted_top": {
-      "sina.com.cn": 10,
-      "moomoo.com": 6,
-      "sina.cn": 4,
+      "sina.com.cn": 8,
+      "sina.cn": 2,
+      "moomoo.com": 2,
       "futunn.com": 2,
-      "atvnewsonline.com": 1,
-      "rthk.hk": 1,
-      "528btc.com": 1,
-      "on.cc": 1,
-      "hstong.com": 1
+      "sfccn.com": 1,
+      "cngold.com.cn": 1,
+      "wenxuecity.com": 1,
+      "fx678.com": 1,
+      "aboluowang.com": 1,
+      "investing.com": 1
     },
     "fresh1_24h": 10,
-    "page_fresh": 7,
-    "relaxed_72h": 0,
+    "page_fresh": 3,
+    "relaxed_72h": 19,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "破发股*ST卓然跌6.48% A股共募13亿IPO国投证券保荐_股市聚焦_市场",
+      "t": "标普500创新高背后暗藏风险！多数成分股表现疲弱高油价与美债收益率攀升加剧市场分",
       "d": "cnfol.com"
     },
     {
-      "t": "从机票到菜价，从债市到股市，油价冲击如何一路传导到你的钱包？_期市动态",
+      "t": "美股异动| Trex Bio(TRXB.US)登陆美股市场开盘后跌超1.3%_股",
       "d": "cnfol.com"
     },
     {
-      "t": "3D打印材料供应商Amaero(AMRO.US)重启美股IPO 筹资额骤降60%",
-      "d": "cnfol.com"
+      "t": "瑞银：黄金短期或测试4000美元支撑位 回调即是加仓机会",
+      "d": "cls.cn"
     },
     {
-      "t": "小分子生物技术公司Iambic Therapeutics(IAM.US)IPO定",
-      "d": "cnfol.com"
+      "t": "不解决这几个问题，中国股市就很难有大牛市",
+      "d": "sohu.com"
     },
     {
-      "t": "名创优品(09896)10月8日斥资约23.53万美元回购约10.5万股_股市直",
-      "d": "cnfol.com"
+      "t": "倒逼美联储快速降息？白宫继续推动罢免理事库克",
+      "d": "jiemian.com"
     },
     {
-      "t": "【环球财经】人工智能权重股拖累 纽约股市三大股指8日涨跌不一",
-      "d": "21jingji.com"
+      "t": "美银策略师：美联储降息前持币趋势难改",
+      "d": "sohu.com"
     },
     {
-      "t": "股市面面观丨本月11家A股公司发布三季报预告 上游能源原材料等方向景气度高企",
+      "t": "中国资产深夜爆发，小米ADR狂飙11%，美股芯片、光通信股跳水",
       "d": "eastmoney.com"
     }
   ]

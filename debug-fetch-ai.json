@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 59,
+  "total": 46,
   "samples": [
     {
-      "title": "新思科技拟寻求与中国AI实验室合作！",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80ajVLUFNIR0xIMkpic0tTR3lRTS1pdnVHZURLdER1eHF6aWhLUjBJcUZpT054MnFWWVQ0V2FsVkN0eFRZOUJOQkV",
+      "title": "青岛港的AI突围：全国首个港口大模型诞生记_国内经济",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kNEU4bG9qTTlSR0I2NFV0dENMSUJHZFp5RVRINEkzWmEyOC1fUHFwc1JBOV9Vckl4dXBYZmdQWG1XeFpuMmlxa2t",
+      "source_url": "https://finance.stockstar.com",
+      "source": "证券之星"
+    },
+    {
+      "title": "【企业风采】百思大模型通过国家备案，百分点科技持续夯实政企AI合规基础",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02VEVpdUpKRk5Ea3U1S1diRFItNVkxblZ0dDBGNkhTeS1STDBsYTNiSUV3N1VVaS1WNW9XNzk1MG9JTTU4MWt2RzJ",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
     },
     {
-      "title": "《通用大模型人气周榜TOP20》NO.2：ChatGPT断层领先 盘古大模型 百川智能 腾讯元宝跌出",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWlkUU5aRE1sY1BEZUM4aGtmY0NoTHpGZUhTWV9xZ2N5cFB6RklEcUdVWTRwaDh2VHZnVElLTVd5cXBhWmNUTTh",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "工业大省有“模”力｜星港大模型进驻港口长出干活的“手”和“脚”_山东新闻",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SMFFaSWtWbGhoRzZ6SXE2M2RlNnNlUC11a0NHa2R6T3hnRk1Pcnd0WkZHWE5KcHQyMDhZME9IdVY4ZG1GV2FuM3N",
+      "source_url": "https://sd.dzwww.com",
+      "source": "大众网"
     },
     {
-      "title": "给AI装个账本：为什么聪明的模型也会在复杂任务里越问越糊涂",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lWnZHMUFsWTJMNHdlLTZfdDZubk8yUVB3RDRsdklTUElIQklCSi1uUFoyOFRRX1NDRnpfbUZ2NUtfemtBa0JCWFU",
-      "source_url": "https://www.techwalker.com",
-      "source": "科技行者"
+      "title": "大普微10月9日回应AI算力话题：在手订单充足，加快PCIe 6.0等前沿产品研发_公司新闻",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96T1pIa19SYUkwa0tlWTJHaDFJQ1FkbnowbnZpS2ltb2RQME5qdlpCVWV4NTY3YXdseHVuQTVDNGMzdjFBeUVFa1V",
+      "source_url": "https://stock.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "日本右翼向AI大模型“投毒”篡改历史，外交部：用心险恶的暗箱操作",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92VFllUF9nTlRReGxBVlhtaVB2UDlCRVdYWndlQ1pYMTgyX2xVMDFUakhORTV4YUdxaGpOWVhFQWszYUg5WjF4VnF",
-      "source_url": "https://www.thepaper.cn",
-      "source": "ThePaper.cn"
+      "title": "算法、算力、场景 “人工智能+”西安往哪“+”？",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NQldFWk5XZWQ1bjZkSlN3SzFFWTRDZktfUXdJUVk1bk9VLUJQTnE2eDhKbzdJdnBmaXhqU0hic0VabGJoVzE3T1V",
+      "source_url": "https://news.hsw.cn",
+      "source": "华商网"
     },
     {
-      "title": "AI问答获客时代，企业如何选型靠谱生成式引擎优化团队",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlhWYWs5TnowaWdNWWhYRElMTl9ZNEYySXNVSjJDcGdsQzNFV01kRHBKZS11V1l2aTRUbWJSeDJkWEZnWnlCZUp",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "三大智能体亮相2026世界制造业大会 AI加速下沉能源核心场景",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd0NHOUxYNmhWb2RMUTh5a2IyLXJuVnFEaU5nMXNLTXJCQUZ6Nk11MjhyUFpMWmsxOTljek5WTnZpS19vUFZCdnF",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "大模型要“读懂”科学需要怎样的科技语料？",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MUXNHRGZaNDc3aGhNd2I3UzF6UlVqYW9DN0M4TjBPdm1YNlUxLTJVdUNEN1RXSWx5S3g4V0MyRWl3alNZeGVRTkx",
+      "source_url": "https://www.chinanews.com.cn",
+      "source": "中国新闻网"
     }
   ]
 }

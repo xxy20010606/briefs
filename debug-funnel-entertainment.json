@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 66,
+    "raw_dedup_junk": 44,
     "trusted": 14,
     "non_trusted_top": {
-      "sina.cn": 8,
-      "sina.com.cn": 6,
-      "hupu.com": 5,
-      "ttplus.cn": 3,
-      "china.com": 3,
-      "mk.co.kr": 2,
-      "yule.com.cn": 2,
-      "hangzhou.com.cn": 2,
-      "yzwb.net": 2,
-      "yeeyi.com": 1
+      "sina.cn": 4,
+      "sina.com.cn": 3,
+      "scol.com.cn": 3,
+      "hupu.com": 2,
+      "yuanxian1.com": 1,
+      "yeeyi.com": 1,
+      "ttplus.cn": 1,
+      "3dmgame.com": 1,
+      "vietnam.vn": 1,
+      "hk01.com": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 13,
+    "page_fresh": 5,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "七嘴八舌｜票房回落并非因为“没人看”，电影市场正在发生结构性变化",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "国庆档总票房11亿，中外修复电影展周六将启幕",
+      "t": "国庆档电影票房破亿：2026年影市的精彩与挑战",
       "d": "sohu.com"
     },
     {
-      "t": "2026年6000元玩PC游戏，iQOO 16表现如何？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "电视剧《伟大的长征》央视一套开播",
-      "d": "cri.cn"
-    },
-    {
-      "t": "定格动画电影《小羊肖恩3怪兽来袭》定档10月24日内地上映",
+      "t": "00后“戒断”AI短剧：一个月卸载了5次",
       "d": "ifeng.com"
     },
     {
-      "t": "演唱会如何为文旅助力？华晨宇演唱会解锁新方式",
-      "d": "chinanews.com.cn"
+      "t": "国庆档票房超11.65亿元 “电影+”新玩法带火假日新消费",
+      "d": "china.com.cn"
     },
     {
-      "t": "《此处通往繁星》首播，清一色好评，较为严肃的剧，故事性略差",
-      "d": "163.com"
+      "t": "2026北京人艺国际戏剧邀请展开幕",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "第35届电视剧“飞天奖”、第29届电视文艺“星光奖”颁奖典礼在山东烟台举行",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "古天乐新戏《侦战》内地票房惨淡 一度宣布撤档！导演孔令政强调香港10月8日如期上",
+      "d": "sohu.com"
+    },
+    {
+      "t": "电视剧《伟大的长征》9日开播 全景式构建长征影像志",
+      "d": "chinanews.com.cn"
     }
   ]
 }

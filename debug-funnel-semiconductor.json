@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 23,
+    "raw_dedup_junk": 39,
+    "trusted": 19,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "sina.cn": 3,
-      "mydrivers.com": 2,
+      "indexbox.io": 4,
+      "stockstar.com": 2,
+      "futunn.com": 2,
+      "sina.cn": 2,
+      "sina.com.cn": 2,
       "guandian.cn": 2,
-      "wedoany.com": 2,
-      "zhiding.cn": 1,
-      "voi.id": 1,
-      "jrj.com.cn": 1,
-      "ikanchai.com": 1,
-      "wenxuecity.com": 1
+      "mk.co.kr": 2,
+      "nikkei.com": 1,
+      "vietnam.vn": 1,
+      "c114.net.cn": 1
     },
-    "fresh1_24h": 23,
-    "page_fresh": 21,
-    "relaxed_72h": 0,
+    "fresh1_24h": 18,
+    "page_fresh": 7,
+    "relaxed_72h": 8,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "美国首次打通AI芯片封装关键环节：格芯与台积电联手，本土硅中介层供应链落地",
-      "d": "sohu.com"
-    },
-    {
-      "t": "聚焦玻璃基TGV与光电集成 | 第三届MLED显示暨CPO光互联大会将于12月在",
+      "t": "SK会长：只要条件允许，就尽快建厂！",
       "d": "eet-china.com"
     },
     {
-      "t": "成立仅3年，良率93%！安徽IC载板黑马 完成超亿元A轮融资",
+      "t": "主频5GHz麒麟不远了！余承东：韬定律芯片会逐步下放",
       "d": "eet-china.com"
     },
     {
-      "t": "英特尔战略奏效：英伟达或将采用其Foveros封装技术",
+      "t": "氮化镓激光芯片“新锐”，年内累计融资上亿元",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "半导体设备ETF易方达（159558）逆势获超2亿份净申购，机构预测A股半导体公",
       "d": "cls.cn"
     },
     {
-      "t": "港股“RISC-V第一股”来了，盘中跌超11%",
-      "d": "zhidx.com"
-    },
-    {
-      "t": "全线重挫！创指跌破3000点，科技何时能反攻？",
+      "t": "奕斯伟上市开盘即破发！",
       "d": "sohu.com"
     },
     {
-      "t": "无锡华虹宏力三期半导体公司增资至41.7亿美元",
-      "d": "10jqka.com.cn"
+      "t": "长鑫利润远超中芯国际！",
+      "d": "sohu.com"
+    },
+    {
+      "t": "美股深夜，半导体、芯片走低；中国资产大涨，理想汽车涨超7%，阿里、网易、小鹏涨超",
+      "d": "21jingji.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 59,
+  "total": 32,
   "samples": [
     {
-      "title": "新专业说·商业人工智能应用③｜走进企业AI 落地现场：FDE 为何成为商业AI 人才培养的关键支点？",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PWXRBWXBfV3NOU2lZeVIxc2JxZzRJbHFROFJELUxVZzNyMjZySlBzbDlaNG9vclh5dk5ibkJ4VzhjMXlBblNzbzV",
-      "source_url": "http://stock.10jqka.com.cn",
-      "source": "同花顺财经"
+      "title": "Meta前合作方推出智能体平台对标Meta Muse-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56b3lrb2hET1pCamhsRl9ZSHJkODlFTG9CeHI3Z0h5cDZDVF9HV2x1RUJUbXFSOGtRQ2RUV0RxNTN1MkZkaXVFcEM",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
     },
     {
-      "title": "将AI虚拟恋人异化为批量制黄工具，6人被判刑",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ST1VuSEtaeUVROXJEQ19QdHZDT1Y2bUhSdzk5NjBCVTRZZm9QcXNQdkR2NnZPLTlmZlJCaUY2OW9OVkxmaGY2a3d",
+      "title": "AI或使软件工程师生产力提升32.6%-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DNEpqOElwTlNDcmpvMFQ2cnMtLWRuQ1BqTHBHRWQwT0Zzc0hnRHJSckQwMzJSSExjRWlDVXZ1Sk5ZVHRXVmJzUlF",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
+    },
+    {
+      "title": "谷歌云推出Gemini智能体，重塑企业工作方式-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oNEd3WkJDNHVacjRZcHdpZjRxbnYyYVRMR09hNlZOWU1tblYwZURGTElmWGhlM3h4Z1c2X2NJOUtMbzdfcC1HREV",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
+    },
+    {
+      "title": "华为鸿蒙电脑9月体验报告发布：全新沉浸光感、图库AI修图、小艺任务模式等",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xV1hveUF5Z000bEp3MkZ3RU9tWGlYU0pBWmppYVg4d3lic24zWDE4ZnppdWF5UmIwZ1RMTUFaUUpfbWI5d0pCdEx",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
     },
     {
-      "title": "从华为全联接大会2026看 HarmonyOS 7：鸿蒙正在把体验、AI 和开发工具连成闭环",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14Q2lrOUxUS1o5SHpGWEJUVWNvWHFIWWZMWDhLNDloc3VTaFU4Q0VkNXN2YmpRQWR1X1dLTXUwRGdTa0hzOWFSSHl",
-      "source_url": "https://www.oschina.net",
-      "source": "OSCHINA"
+      "title": "OpenAI收入低于预期，《金融时报》称年化收入约500亿美元而非700亿",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1pfOXRwbTloX0diYmg5aWhwX3laYnd5V3NLTlNPZzdLeWtQOXR2MUdHOEE5b3pCQkg0ai1nMFZheVhRck12eG1",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     },
     {
-      "title": "2026学英语口语的AI测评：哪款APP最值得选",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NdzlxUXMtV21jWm9DYVVhS056bnpaTWl2c2NkbmxjWXpEWC1XMVFVcWdPNndvN204WHRkVGpXalZMd1FXWUp4UW1",
-      "source_url": "https://tech.ifeng.com",
-      "source": "凤凰网科技"
-    },
-    {
-      "title": "5亿美元砸向Manus；黄仁勋批AI末日论是胡扯 丨 AI周报",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOThhM0xvUnh5T1YzWlI5enFWSm5XdldPNGVDUWxybEZuOUlqcnFXSklqWUJsMm82ZkVSM3ZOeDJwd1lOajZQUXB",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
-    },
-    {
-      "title": "Sean Parker重塑Stability AI，聚焦音乐领域-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sbHRWQjdjX0M3U1l0dFphS2FQMEZWTmR1MHIwS0dRZnd4SDlpMkwwWndhVG03enh6T3hJcjUtWmxOSHQtOEZZMkk",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "全球最大独立 AI 原生影视公司，开始打破工具与制片厂的边界",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83VGZBS2NXdl9uOGJsRVlvT1RqSlNuakFpS3hEX1F0QmR1azgwQmoxVUZ2UDNvMmJFMUZrY0V4WldrdlF5NmkxOEJ",
+      "source_url": "https://www.infoq.cn",
+      "source": "InfoQ-CN"
     }
   ]
 }

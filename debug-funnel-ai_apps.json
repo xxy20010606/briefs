@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 59,
-    "trusted": 16,
+    "raw_dedup_junk": 32,
+    "trusted": 7,
     "non_trusted_top": {
-      "zhiding.cn": 7,
-      "pasqualepillitteri.it": 7,
-      "aibase.com": 4,
-      "sina.com.cn": 3,
-      "csdn.net": 2,
-      "caiwennews.com": 2,
-      "oschina.net": 1,
-      "moomoo.com": 1,
-      "jianhuadaily.com": 1,
-      "tom.com": 1
+      "zhiding.cn": 5,
+      "sina.com.cn": 5,
+      "ac.cn": 3,
+      "pasqualepillitteri.it": 2,
+      "wicinternet.org": 1,
+      "newswav.com": 1,
+      "unite.ai": 1,
+      "jiaoyujie365.com": 1,
+      "haiwaiwai.com": 1,
+      "fxbaogao.com": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 15,
-    "relaxed_72h": 0,
+    "fresh1_24h": 6,
+    "page_fresh": 1,
+    "relaxed_72h": 6,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "新专业说·商业人工智能应用③｜走进企业AI 落地现场：FDE 为何成为商业AI ",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "2026学英语口语的AI测评：哪款APP最值得选",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "5亿美元砸向Manus；黄仁勋批AI末日论是胡扯 丨 AI周报",
-      "d": "21jingji.com"
+      "t": "星连资本被投企业 Kando AI 完成数千万元种子轮融资，要做“决策领域的Cu",
+      "d": "36kr.com"
     },
     {
       "t": "全球最大独立 AI 原生影视公司，开始打破工具与制片厂的边界",
       "d": "infoq.cn"
     },
     {
-      "t": "2026云栖大会英特尔探展：新一代至强、AI GPU与可信计算集中亮相",
+      "t": "AI降低App开发门槛，Codeway、HubX与杭州睿琪等App工厂以矩阵化产",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "新专业说·商业人工智能应用③｜走进企业AI 落地现场：FDE 为何成为商业AI ",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "Manus完成超5亿美元融资，恢复独立运营后估值约40亿美元",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "深度丨原 TRAE 负责人石扬离职创业，联手前字节数据安全负责人傅越做 AI 办",
       "d": "sohu.com"
     },
     {
-      "t": "微软给Agent立规矩，Windows要管AI了",
-      "d": "36kr.com"
-    },
-    {
-      "t": "2026年雅思口语APP实测评测：三款人气应用深度对决",
-      "d": "ifeng.com"
+      "t": "成立两个月已被副总统接见：一家中国AI公司的“全球贸易野心”",
+      "d": "sohu.com"
     }
   ]
 }
