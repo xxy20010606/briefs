@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 64,
+  "total": 51,
   "samples": [
     {
-      "title": "RSI「出圈」背后：AI自我进化，卡在了哪里？",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HOEhUUVgwaW9sZFI0Nkw3dTV3cjhpT3NnSFl5VUw3c0x4aFI2anVFOWppQ1VxWDJGTlh6SDlwWE1ibzJWTWtnYkt",
-      "source_url": "https://news.pedaily.cn",
-      "source": "投资界"
+      "title": "政策鼓励智慧家庭应用创新 Token经营助推家庭AI普及",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYVZLRzdmR3c1MjJaYzVETkRibk83QW1rSU16M19vRGp6cWxiTXNRQU4xXzdiMjNsZTV2VlA2ejVIbGF6WTdEbnN",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "又出事了！美国AI巨头Anthropic旗下大模型，自主向警方网站提交虚假凶杀案线索",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqQzVHSDNRbkllX1lJRFllVkJyMjlYNTBUM2NJQjNCcld3Ykxpb0hCSHo2SC1YT00wMHRfTFRmQkdQT3ZqWkV2YUZ",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "比改教科书更阴！日本右翼直接往AI大模型里\"喂毒\"，外交部：用心险恶",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT21TVjduRlFhNklMTDM1SVRuTzVvcTB4Y0ptc1hZUmgxSHY5Q2RRVlozV2F2akNiS0JHQW9KLVBsNFpRRjNUNVJ",
+      "title": "工业大省有“模”力｜全国200多家企业请这个AI下井干活",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEtnc0RydUY1bUZ2eWNINUNfUHNYRlRfai1jbDBVcE9EcXBIZUI5MXEydnNUbDR3ZFViZXUyemRBbEhGT3lqZ3V",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "远景能源发布《AI风储一体机白皮书》",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaVNhQU9uR1VNLXdSdXlUakg0UG1HSWFYVnU0TlA5Qy1wNlRVbHdfSXFtUGVFS2ROaWd0RE9ZQnBHYkVpVkhKNVJ",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "Vapi – 语音 AI 开发者平台、实时语音智能体与电话基础设施",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CZjlhWEI1TlljNU5FNnozNDBTZi1UOFJpWmswSnpteFVMZHlkT1Z2NDVIRVFOZlRNa3pBQkoxYmlTcHUzVk1WRw?",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
     },
     {
-      "title": "OpenAI再次叫停前沿模型开发 AI+网络安全成国家级战略重点方向",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XcEhsbEZkZ1NUNUVOT0FvUzRfSTlpSjE3Z3BtQms1c3VKeGpIdU9BTFM1LXNvUkdyT3ZFeE9DVG05Rlg5c2tyRA?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "马化腾与姚顺雨罕见同框，座谈会现场相邻而坐|广东省|深圳市|黄坤明|腾讯|人工智能",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc0VKdHZfUFJWTFdXMmxoUkg1SjFKeXBEc0htZjdtd1E3TkFfX2ZsTFkyWDBzaU52VFpxbnFJMFZQcmN6ZHhCMlp",
+      "title": "银行AI治理迈向制度化如何平衡技术创新与风险防控？|平安银行|银行业务|数字化转型|数据安全|上市银",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPakV1SHVNcGIwR3FldFU5SzNOVzlZbi1zRXB0OTJxZUw5VnAtRGxITGxCSEhDWnZ1VklGTVVLQUJ1aktmaTJEdGY",
       "source_url": "https://finance.sina.cn",
       "source": "新浪财经"
+    },
+    {
+      "title": "合肥工业大学发布“心智大模型” 为机器人装上一颗“情感大脑”",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NZHRSRFdUUDBtVklZc3hsVll0QlBaa0prSXN5LUtHM183SzczV1BoX0JKb2xuaERGUlRvZnNFYkNtdzZtM2FuV0t",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "2026工业AI平台价值投资指南",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLWtiSl9xbmVfaUdqUWlHVEg2enE3TkFMV2hrcmEtbm9peVJDSWgyNEdVOW1rbHF6VVpZVEcxZ0JHbEY1VGtTazB",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.com.cn"
     }
   ]
 }

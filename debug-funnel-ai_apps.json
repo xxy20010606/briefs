@@ -2,49 +2,53 @@
   "type": "ai_apps",
   "stages": {
     "raw_dedup_junk": 32,
-    "trusted": 6,
+    "trusted": 9,
     "non_trusted_top": {
-      "sina.cn": 4,
-      "zhiding.cn": 3,
       "sina.com.cn": 3,
-      "prnasia.com": 2,
-      "unite.ai": 2,
-      "itopmarketing.com": 1,
-      "ikanchai.com": 1,
-      "thaiheadlines.com": 1,
-      "baijing.cn": 1,
-      "80aj.com": 1
+      "sina.cn": 3,
+      "zhiding.cn": 3,
+      "csdn.net": 3,
+      "shobserver.cn": 1,
+      "games.gg": 1,
+      "mos.ru": 1,
+      "mydrivers.com": 1,
+      "china.com": 1,
+      "rmzxw.com.cn": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 6,
-    "relaxed_72h": 0,
-    "final": 6,
-    "cap": "不限同域"
+    "fresh1_24h": 7,
+    "page_fresh": 0,
+    "relaxed_72h": 9,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "美图公司2026年股价较高点跌超50%，AI影像转型面临竞争与算力成本压力",
+      "t": "鸿蒙PC版DevEco“三件套”集体公测，鸿蒙开发体验迈上新台阶",
+      "d": "sohu.com"
+    },
+    {
+      "t": "Agentic开发时代到来！鸿蒙PC三大原生开发工具公测，补齐国产操作系统生态关",
+      "d": "sohu.com"
+    },
+    {
+      "t": "土耳其DeePix AI旗下Shots借TikTok舞蹈热点登美国App Sto",
       "d": "huxiu.com"
     },
     {
-      "t": "我省推出“AI造物”系列赛事三大赛事 激活创新创业动能",
-      "d": "sohu.com"
+      "t": "北京市教委发文“小学生不建议独自使用AI工具”",
+      "d": "163.com"
     },
     {
-      "t": "京东Aidol创造营S2冒险季正式启动 为AI创意提供更多展示和落地机会",
-      "d": "36kr.com"
+      "t": "最新财新周刊｜AI重塑金融",
+      "d": "caixin.com"
     },
     {
-      "t": "重磅利好，AI相关产业规模剑指10万亿！超跌+业绩高增长概念股揭晓",
-      "d": "stcn.com"
+      "t": "模型开放之后，AI 能力为什么仍难以复用？",
+      "d": "infoq.cn"
     },
     {
-      "t": "Manus融资5亿美元，一天收到上千份简历，ARR一年翻4倍",
-      "d": "sohu.com"
-    },
-    {
-      "t": "全员Agent时代，「SaaS死讯」传早了",
-      "d": "sohu.com"
+      "t": "最新封面报道｜抢占办公室",
+      "d": "caixin.com"
     }
   ]
 }

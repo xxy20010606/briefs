@@ -1,54 +1,53 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 22,
+    "raw_dedup_junk": 30,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.cn": 6,
-      "caiwennews.com": 3,
-      "indexbox.io": 3,
-      "newswav.com": 2,
-      "guandian.cn": 2,
-      "cnmo.com": 1,
-      "enanyang.my": 1,
-      "dailyqd.com": 1,
-      "cnbeta.com.tw": 1,
-      "worldjournal.com": 1
+      "sina.cn": 5,
+      "stockstar.com": 2,
+      "chosun.com": 2,
+      "yeeyi.com": 1,
+      "indexbox.io": 1,
+      "cyzone.cn": 1,
+      "klsescreener.com": 1,
+      "frostchina.com": 1,
+      "chinapress.com.my": 1
     },
-    "fresh1_24h": 22,
-    "page_fresh": 17,
-    "relaxed_72h": 0,
+    "fresh1_24h": 15,
+    "page_fresh": 4,
+    "relaxed_72h": 10,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "338亿港元收盘！奕斯伟计算，港交所挂牌上市",
+      "t": "AI算力破局之道！MEMS光互联全产业链亮相China MEMS制造大会",
       "d": "eet-china.com"
     },
     {
-      "t": "西安奕材、沪硅、中欣晶圆、金瑞泓、中环领先、合晶、超硅、晶升股份等齐聚【第九届半",
+      "t": "金刚石散热，到底卡在哪一步？电子科大×联合微电子中心联合综述分析",
       "d": "eet-china.com"
     },
     {
-      "t": "专家认为马斯克通过Terafab高效生产芯片的难度要大于将火箭送往火星",
-      "d": "sohu.com"
+      "t": "新思科技携手OpenAI发布GPT-Synopsys，以前沿智能重塑芯片设计",
+      "d": "laoyaoba.com"
     },
     {
-      "t": "东微半导可转债申请获上交所受理，拟募资14.36亿元加码功率半导体",
-      "d": "sohu.com"
-    },
-    {
-      "t": "*ST闻泰在无锡成立半导体公司",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "重磅官宣永成股份获首尔半导体授权，“中国首尔芯片应用实验室”正式设立",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "统一涨价10%！光刻机巨头上调在韩零部件报价 三星、SK海力士已“买单”",
+      "t": "长鑫科技官宣！4F² DRAM架构取得进展 专利数量超过海外厂商 年底将推出相关",
       "d": "cls.cn"
+    },
+    {
+      "t": "内存涨价挤压下游利润 三星手机计划四季度最高减产30%",
+      "d": "cls.cn"
+    },
+    {
+      "t": "002077一纸公告，透露小米加码半导体封装？最新消息！",
+      "d": "stcn.com"
+    },
+    {
+      "t": "极端环境正将芯片推向性能极限",
+      "d": "sohu.com"
     }
   ]
 }

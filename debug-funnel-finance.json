@@ -1,35 +1,38 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 26,
-    "trusted": 5,
+    "raw_dedup_junk": 25,
+    "trusted": 6,
     "non_trusted_top": {
-      "sina.cn": 8,
-      "sina.com.cn": 6,
-      "moomoo.com": 3,
-      "jpchinapress.com": 1,
-      "stockstar.com": 1,
-      "cngold.com.cn": 1,
-      "futunn.com": 1
+      "sina.com.cn": 7,
+      "sina.cn": 7,
+      "sinchew.com.my": 2,
+      "or100.cc": 1,
+      "futunn.com": 1,
+      "moomoo.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 3,
-    "relaxed_72h": 0,
-    "final": 3,
+    "fresh1_24h": 4,
+    "page_fresh": 1,
+    "relaxed_72h": 3,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "企查查终止上交所主板IPO 原拟募15亿元中信证券保荐_股市聚焦_市场",
+      "t": "倒逼美联储快速降息？白宫继续推动罢免理事库克",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "标普500的平静，全靠十只股票和一个AI信仰？",
+      "d": "sohu.com"
+    },
+    {
+      "t": "破除行业壁垒顽疾优化市场竞争格局_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "中环洁终止北交所IPO 原拟募资6亿元招商证券保荐_股市直播_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "关税成本全反噬美国！特朗普政策如何对冲美联储降息？",
-      "d": "163.com"
+      "t": "敢当时评丨读懂中央文件里的“不能”，才能读懂新质生产力的“能”",
+      "d": "eastmoney.com"
     }
   ]
 }

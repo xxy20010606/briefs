@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 64,
-    "trusted": 24,
+    "raw_dedup_junk": 51,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.cn": 10,
-      "sina.com.cn": 6,
-      "eastmoney.com": 4,
-      "china.com": 2,
-      "csdn.net": 2,
-      "pedaily.cn": 1,
-      "stheadline.com": 1,
-      "bjd.com.cn": 1,
-      "sipac.gov.cn": 1,
-      "ikanchai.com": 1
+      "sina.com.cn": 14,
+      "sina.cn": 9,
+      "ichaoqi.com": 2,
+      "quasa.io": 1,
+      "baoanone.com": 1,
+      "voc.com.cn": 1,
+      "iqilu.com": 1,
+      "xiaguangshe.com": 1,
+      "on.cc": 1,
+      "chinabyte.com": 1
     },
-    "fresh1_24h": 24,
-    "page_fresh": 20,
-    "relaxed_72h": 0,
+    "fresh1_24h": 9,
+    "page_fresh": 2,
+    "relaxed_72h": 7,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "比改教科书更阴！日本右翼直接往AI大模型里\"喂毒\"，外交部：用心险恶",
+      "t": "工业大省有“模”力｜全国200多家企业请这个AI下井干活",
       "d": "sohu.com"
     },
     {
-      "t": "远景能源发布《AI风储一体机白皮书》",
+      "t": "2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "工业大省有“模”力｜星港大模型进驻港口，长出干活的“手”和“脚”",
       "d": "sohu.com"
     },
     {
-      "t": "从备案到出海，横琴为AI大模型安全合规“开课”",
+      "t": "微软推出Decision-1专用决策模型，面向企业业务判断场景",
+      "d": "sohu.com"
+    },
+    {
+      "t": "最快1分钟出结果，“广东造”病理大模型预筛实现肺癌靶向基因全覆盖！",
       "d": "21jingji.com"
     },
     {
-      "t": "10 秒视频很惊艳，为什么 AI 做一部短剧还是这么难？",
-      "d": "infoq.cn"
+      "t": "谷歌推动Agent混战升级 AI算力架构有望重塑",
+      "d": "cls.cn"
     },
     {
-      "t": "想看AI芯片下一步往哪里走？没来上海峰会的人，看这篇就够了",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "杭州国际人才大会面向全球开展AI创新合作对接",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "英伟达计划投资AI推理芯片竞争对手d-Matrix，推动“解耦推理”兼容生态",
-      "d": "eet-china.com"
+      "t": "字节、腾讯紧跟Meta Muse 急推个人AI智能体",
+      "d": "caixin.com"
     }
   ]
 }
