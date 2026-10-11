@@ -1,42 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 42,
-    "trusted": 6,
+    "raw_dedup_junk": 35,
+    "trusted": 9,
     "non_trusted_top": {
-      "sina.cn": 6,
-      "rediandf.com": 6,
-      "sina.com.cn": 4,
-      "hupu.com": 4,
-      "17173.com": 2,
-      "xhby.net": 2,
-      "yzwb.net": 2,
-      "jinantimes.com.cn": 1,
-      "bbtnews.com.cn": 1,
-      "hk01.com": 1
+      "sina.cn": 5,
+      "sina.com.cn": 2,
+      "hupu.com": 2,
+      "pchome.net": 2,
+      "china.com": 2,
+      "mk.co.kr": 1,
+      "arch-web.com.tw": 1,
+      "yule.com.cn": 1,
+      "360.com": 1,
+      "17173.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 1,
-    "relaxed_72h": 3,
-    "final": 4,
-    "cap": "不限同域"
+    "fresh1_24h": 9,
+    "page_fresh": 7,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "电影《欢迎来龙餐馆》登陆北美院线",
-      "d": "ce.cn"
-    },
-    {
-      "t": "香港票房仅94万，收手吧古天乐，不要让百亿影帝成一个笑话",
+      "t": "出海图志丨国产电影出海 不止于票房与榜单",
       "d": "sohu.com"
     },
     {
-      "t": "票房暴跌至1800元，《牛来》被观众彻底抛弃，陈思诚可以松口气了",
+      "t": "好莱坞霸榜，《生化危机：爆发夜》给国产电影上了四堂课",
       "d": "sohu.com"
     },
     {
-      "t": "2026北京人艺国际戏剧邀请展开幕",
-      "d": "chinanews.com.cn"
+      "t": "从旱地冰壶到视障电竞，北京残疾人运动会展现多样赛场",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "马上评｜为什么说《伟大的长征》特别值得当代青年观看",
+      "d": "sohu.com"
+    },
+    {
+      "t": "瓯江潮声里，全民开唱：一场“瓯K”如何唱热一座城？",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "连续4天单日破亿！2026国庆档电影票房已超7亿",
+      "d": "cyol.com"
+    },
+    {
+      "t": "第二十九届北京国际音乐节在京启幕",
+      "d": "news.cn"
     }
   ]
 }

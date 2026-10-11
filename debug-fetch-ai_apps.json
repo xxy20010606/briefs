@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 32,
+  "total": 22,
   "samples": [
     {
-      "title": "亚马逊云科技向姚明发起的姚基金捐赠100万美元现金及云+ AI资源，目标培养AI +体育复合型人才",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yeW9OaVNiUDNfeXlRbXU4OElEdlhWMGVvZ05BU3NpRjRTVnV5WlJIWnY0UU9XOGpSS1I4YzVDeFd6dVJ5RGJKdkh",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "美图秀秀领涨国内AI应用排名 高盛称美图产品具备更高付费意愿",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQenpEeFY1LUNtOGV1NWlpWE45ejBWVTkzbkI2bzFValNLOTItVWpXMHJyeVBOV0JfUGo2X0JpQzFrYU5uSEdlRDd",
+      "source_url": "http://m.zqrb.cn",
+      "source": "zqrb.cn"
     },
     {
-      "title": "AI培训热，能否缓解技术焦虑",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tS1VVQ09HQ0p1aFJVWUZ2N1EzNThSb2JhM29vaV9RQ000Vi0yNDhVVXdQb1EyUzkxMWhaTF81U3NSR3J5THRyZFF",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "分学段划定AI“红线”，如何培养孩子不被AI替代的能力|教育新观察",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UQnV2M3JNWHVjMWFHeXhOR2pvcjIwVGVKV0JDSUpLcnc3WGV3LVBvQ2FlaEhxMUdHVC00bWhhSmJ3Zll6a0ZISmh",
-      "source_url": "https://www.shobserver.cn",
+      "title": "71岁爷叔用AI拍短剧入围国际影展，上海开大AI课程让普通市民圆梦",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TX0F1SmJOUWJWa3dyaF9BTU9zQW1DS29TMm0xd25ZeG14cEpnSlNHZUVxaC1YeFRzUmZfeXNqLXF1WjJ1d29WMXJ",
+      "source_url": "https://www.jfdaily.com",
       "source": "上观新闻"
     },
     {
-      "title": "亚马逊云科技向姚基金捐赠100万美元现金及云+AI资源，姚明：有幸携手同行|AI技术|体育|人才|教",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQV2dka1FLRXBrT2dvOTBablYyUi1ibnoyTHZ3dVFQeVRZYWU2cnhMMUluYlB4MVhNTUQtRjhpVmFCNkczOXBnTGF",
+      "title": "实体书混入AI提示语：人机协同，人的把关不可缺位丨时评",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JaDJDWkZiWk1Qc2hVU2FSVE5FT1VrXzNRcG5BX2JVMXp2V0RBRjRxdjlUUkg0WWZvYUNMdFZfdDc3UXU3TXh4Yk1",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "导演范越福：人工智能是一种工具，电影制作人才是创作主体。",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjdlNk1QaDNWbTFrMDdFMTYwLXhYdEI0ZFppWGFGZUJzaGY4bEdpbzhFdFFZS3prcFM5QUNZRU14LVUzSXpIa2F",
+      "source_url": "https://www.vietnam.vn",
+      "source": "Vietnam.vn"
+    },
+    {
+      "title": "开源Mac工具Clipori：AI剪贴板自动记忆，忘了复制过什么直接问AI",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PS1U1NjRhWDB1dnZUY1M4UVVsZVpKMjdNLWtIenJhYnRoSkpXOXJGTHhKWHN4S21PZFVrRHNmM2VNNnJZNkxfaWl",
+      "source_url": "https://www.80aj.com",
+      "source": "https://www.80aj.com/"
+    },
+    {
+      "title": "刚刚，AI圈爆出王炸！实现「万物共脑」，连大脑带具身越狱到现实",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ21LMmt0NnozeVh1WlByODFlbldDRVR0QmlYV25DUVAtdEl1ak1CZWFiMncxMDkxSmMyZzdZSE1FbzZ3WjhVbzJ",
       "source_url": "https://finance.sina.cn",
       "source": "新浪财经"
-    },
-    {
-      "title": "绘制复杂立法关系图：RAND推出代码分析工具-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyZkFmQTlrbVhGY0xaN1lQa1JtOXhhazljdWJ5dFh0Rm1lSWhDcXhPaFYycjFyTGgxaTdTcjVsYW9tRTNxRmZkaU9",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
-    },
-    {
-      "title": "生成式AI如何变革游戏开发：从代码辅助到NPC创新",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRE94QmJFMm9yc0E2V0ZIZWEycmVIWVNRSU1NNklSbDBXUlVhRE92bU1xUmMxR3ExSVdhcDJnMHdWODFVS1ZHVzV",
-      "source_url": "https://games.gg",
-      "source": "games.gg"
     }
   ]
 }

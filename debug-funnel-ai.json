@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 51,
-    "trusted": 11,
+    "raw_dedup_junk": 47,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.com.cn": 14,
       "sina.cn": 9,
-      "ichaoqi.com": 2,
-      "quasa.io": 1,
-      "baoanone.com": 1,
-      "voc.com.cn": 1,
-      "iqilu.com": 1,
-      "xiaguangshe.com": 1,
-      "on.cc": 1,
-      "chinabyte.com": 1
+      "sina.com.cn": 7,
+      "stockstar.com": 3,
+      "ac.cn": 2,
+      "csdn.net": 2,
+      "jfdaily.com.cn": 1,
+      "pjtime.com": 1,
+      "sdxc.gov.cn": 1,
+      "autohome.com.cn": 1,
+      "iqilu.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 2,
-    "relaxed_72h": 7,
+    "fresh1_24h": 12,
+    "page_fresh": 11,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "工业大省有“模”力｜全国200多家企业请这个AI下井干活",
+      "t": "2026人工智能产业大会|已服务150余家大中型能源企业，云鼎矿山行业大模型跑出",
       "d": "sohu.com"
     },
     {
-      "t": "2026年9月AI办公厂商密集整合入口，竞争从模型转向生态与工作流",
-      "d": "huxiu.com"
+      "t": "下架8个月，GPT-4o的拯救行动居然还在继续",
+      "d": "qbitai.com"
     },
     {
-      "t": "工业大省有“模”力｜星港大模型进驻港口，长出干活的“手”和“脚”",
+      "t": "人工智能产业日报(10.10) : AI行业动态",
       "d": "sohu.com"
     },
     {
-      "t": "微软推出Decision-1专用决策模型，面向企业业务判断场景",
-      "d": "sohu.com"
+      "t": "从“失控入侵”到“擅自行动”，人工智能为何频频“闯祸”？",
+      "d": "stdaily.com"
     },
     {
-      "t": "最快1分钟出结果，“广东造”病理大模型预筛实现肺癌靶向基因全覆盖！",
-      "d": "21jingji.com"
+      "t": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon 上海",
+      "d": "infoq.cn"
     },
     {
-      "t": "谷歌推动Agent混战升级 AI算力架构有望重塑",
-      "d": "cls.cn"
+      "t": "AI手机入口战：华为做深，阿里做广，字节做精，腾讯做巧",
+      "d": "thepaper.cn"
     },
     {
-      "t": "字节、腾讯紧跟Meta Muse 急推个人AI智能体",
-      "d": "caixin.com"
+      "t": "不讲PPT，让AI直接干活：深圳湾芯展，我们搞一场“生产力智能体沙龙”",
+      "d": "eet-china.com"
     }
   ]
 }

@@ -1,38 +1,27 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 25,
-    "trusted": 6,
+    "raw_dedup_junk": 32,
+    "trusted": 4,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "sina.cn": 7,
-      "sinchew.com.my": 2,
-      "or100.cc": 1,
-      "futunn.com": 1,
-      "moomoo.com": 1
+      "sina.com.cn": 18,
+      "moomoo.com": 3,
+      "sina.cn": 2,
+      "sfccn.com": 2,
+      "stockstar.com": 1,
+      "jkn.co.kr": 1,
+      "futunn.com": 1
     },
     "fresh1_24h": 4,
     "page_fresh": 1,
-    "relaxed_72h": 3,
-    "final": 4,
+    "relaxed_72h": 0,
+    "final": 1,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "倒逼美联储快速降息？白宫继续推动罢免理事库克",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "标普500的平静，全靠十只股票和一个AI信仰？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "破除行业壁垒顽疾优化市场竞争格局_股市直播_市场",
+      "t": "兴发集团(600141.SH)：2026年度向特定对象发行A股股票有关事项获得宜",
       "d": "cnfol.com"
-    },
-    {
-      "t": "敢当时评丨读懂中央文件里的“不能”，才能读懂新质生产力的“能”",
-      "d": "eastmoney.com"
     }
   ]
 }

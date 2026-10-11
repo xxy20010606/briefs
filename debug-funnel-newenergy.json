@@ -1,46 +1,34 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 34,
-    "trusted": 7,
+    "raw_dedup_junk": 35,
+    "trusted": 3,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "autohome.com.cn": 4,
-      "sina.cn": 3,
+      "autohome.com.cn": 8,
+      "sina.cn": 5,
+      "sina.com.cn": 4,
+      "seetao.com": 2,
+      "voi.id": 2,
       "news18a.com": 2,
+      "baotounews.com.cn": 1,
+      "hunantoday.cn": 1,
       "wedoany.com": 1,
-      "gessey.com": 1,
-      "rfidworld.com.cn": 1,
-      "voi.id": 1,
-      "xcar.com.cn": 1,
-      "ebiotrade.com": 1
+      "gessey.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 0,
-    "relaxed_72h": 5,
-    "final": 5,
+    "fresh1_24h": 2,
+    "page_fresh": 1,
+    "relaxed_72h": 1,
+    "final": 2,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "“风电+光伏+储能”概念：最正宗的20家公司（附名单）",
+      "t": "韩方求了两次，中国大使终于露面，救命盘有人接，青瓦台松了口气",
       "d": "sohu.com"
     },
     {
-      "t": "美国电价五年涨约45% 家庭节能需求推动智能温控与户用储能市场增长",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "2026年中国硅业大会暨光储协同高质量发展研讨会在包头开幕",
-      "d": "sohu.com"
-    },
-    {
-      "t": "“从源到芯”解决方案推荐与盘点：阳光电源全链绿色供电架构",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "能源矿产产业日报(10.09) : 能源新突破",
-      "d": "sohu.com"
+      "t": "土地稀缺、绿电不足？看北京经开区如何破解国家级零碳园区难题",
+      "d": "21jingji.com"
     }
   ]
 }

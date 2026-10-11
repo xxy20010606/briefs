@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 30,
+  "total": 37,
   "samples": [
     {
-      "title": "AI算力破局之道！MEMS光互联全产业链亮相China MEMS制造大会",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52cVhpZllXSWZ6Ql9RMmFMaGxsTXkwN3RpOUEtVkdRdHNKRmdIdWNZTDE4Ny1EQ2NTMzB6bzF6VlVVY0xPallqOUt",
+      "title": "3.苏科斯完成4000万元A轮融资，系半导体湿制程设备供应商；",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBXZlhoZXBzMVBiZ2ZvZ3MyczZ6Wm5lUG03UTBJejVad3lPa3diYmhFdGxDQVBlSV9pUm1YUnZ2NVdiZVk?oc=5",
+      "source_url": "http://laoyaoba.com",
+      "source": "集微网"
+    },
+    {
+      "title": "上海合晶硅材料股份有限公司的首席技术官李文中将介绍《应用导向的特色芯片—AI的算力与电力、半导体的材",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Oa091emZ5ZkkzdmVMaU1wZTBveXBDMk8zbzdacl8yU3prUzJNSW5wYnJjemZkVlVQZ3ZnN08xdXA0MFI1dG9ZS19",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "马斯克：Terrafab芯片工厂未来生产效率有望超越竞争对手，但可能需要数年时间",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTlZLMVc2MzB5V1h3WG5rMEpNUkt1c1dPbU5DdHJHMTZzVWZvcEJwQWpvVTFpQ0R5WWxNazFpSHpBMzludTF1cVJ",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "上海超硅 胡浩 博士 将作《AI 赋能晶体生长与硅片制造：应用实践与挑战》精彩报告",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWjQxYVJJVmM0OFRCRHhTNHg1VEduY25xMlVuZzR2SlRGb0NuZVZVb1RIU3dpclpSdWNrcE9nTGtVdmh3cW5kTzh",
       "source_url": "https://www.eet-china.com",
       "source": "电子工程专辑"
     },
     {
-      "title": "晶盛机电10月10日回应半导体设备话题：海外专利与知识产权布局_公司新闻",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NYm1WVTlfcC1WUXJpOEF5OGR0ZmtndnNtUGl1ZmdNQkVFNGNRZlhEb1l3YVJGcU1Bc3FmMHk3X2tBU3hBVGlDQ09",
-      "source_url": "https://stock.stockstar.com",
-      "source": "证券之星"
+      "title": "西安奕材、沪硅、中欣晶圆、金瑞泓、中环领先、合晶、超硅、晶升股份等齐聚【第九届半导体大硅片论坛202",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3cGVPR3RFaWJsZlB0ZTc0YV9jaDVWbUw3TEdObE5DNVUybHhlYVE3dHIzWjdsM24zQXozYmtsb0YtX2JNQ2FIVGp",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "TCL中环10月10日回应半导体硅片业务情况_公司新闻",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4YjNUOXdBVkxteWtaTk1ZQkllVjZWVTg3WFlrTzY4VmV4clhfZThqNUFsVjFGN25CaXpzSldDakN0NGJoNWZlamM",
-      "source_url": "http://stock.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "被制裁逼出来的！俄罗斯宣布做出100%国产芯片：基于40年前的RS-485协议|莫斯科|索比亚宁|产",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQODUzNEp1dDFaaGlKelpaUHM4X24wb19XRnZjYkctTHpXQjZKaExTNDR4b2M4MmJTX2pWYndwTXhiX1lleEJJSzh",
+      "title": "芯片专家试图劝退马斯克：Terafab芯片项目比发射星舰火箭更难",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMk9EV1ZfemFERlJ5NFZKM2p4NERNNFBHcDNMZVRfOENLTnN2bGlZaFZEUVJqTHdqajhic3FidnRZTGNxOEFoR1p",
       "source_url": "https://finance.sina.cn",
       "source": "新浪财经"
-    },
-    {
-      "title": "TCL中环：半导体材料业务经营规模及盈利能力行业领先|存储芯片|子公司|董秘|客户|涨价",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ1Npdi1uTF9UcmJIbk1tY1dlQjVMQVFBdnBZRTU5YWpYLS1WNnVQVUhaS192NWQtNlRyaXZsNnFpWFc2WngySG5",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "台积电营收暴涨55%，为什么还是救不了AI芯片股？-yeeyi",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KdnVJRmNRZVplYWdTWjZDejNPVjFYWXRwN0RlcERWX2xrM2MyWlV4VXNqX05iRGlhQlRuNUZmWFBnRl9VY0VuTTZ",
-      "source_url": "https://www.yeeyi.com",
-      "source": "yeeyi"
     }
   ]
 }

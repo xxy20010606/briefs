@@ -1,53 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 30,
-    "trusted": 15,
+    "raw_dedup_junk": 37,
+    "trusted": 16,
     "non_trusted_top": {
       "sina.cn": 5,
-      "stockstar.com": 2,
-      "chosun.com": 2,
-      "yeeyi.com": 1,
-      "indexbox.io": 1,
-      "cyzone.cn": 1,
-      "klsescreener.com": 1,
-      "frostchina.com": 1,
-      "chinapress.com.my": 1
+      "indexbox.io": 4,
+      "sina.com.cn": 3,
+      "stockstar.com": 3,
+      "sfccn.com": 1,
+      "investing.com": 1,
+      "enanyang.my": 1,
+      "tradingkey.com": 1,
+      "ua.news": 1,
+      "chosun.com": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 4,
-    "relaxed_72h": 10,
+    "fresh1_24h": 16,
+    "page_fresh": 8,
+    "relaxed_72h": 1,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "AI算力破局之道！MEMS光互联全产业链亮相China MEMS制造大会",
+      "t": "上海超硅 胡浩 博士 将作《AI 赋能晶体生长与硅片制造：应用实践与挑战》精彩报",
       "d": "eet-china.com"
     },
     {
-      "t": "金刚石散热，到底卡在哪一步？电子科大×联合微电子中心联合综述分析",
+      "t": "西安奕材、沪硅、中欣晶圆、金瑞泓、中环领先、合晶、超硅、晶升股份等齐聚【第九届半",
       "d": "eet-china.com"
     },
     {
-      "t": "新思科技携手OpenAI发布GPT-Synopsys，以前沿智能重塑芯片设计",
-      "d": "laoyaoba.com"
-    },
-    {
-      "t": "长鑫科技官宣！4F² DRAM架构取得进展 专利数量超过海外厂商 年底将推出相关",
-      "d": "cls.cn"
-    },
-    {
-      "t": "内存涨价挤压下游利润 三星手机计划四季度最高减产30%",
-      "d": "cls.cn"
-    },
-    {
-      "t": "002077一纸公告，透露小米加码半导体封装？最新消息！",
-      "d": "stcn.com"
-    },
-    {
-      "t": "极端环境正将芯片推向性能极限",
+      "t": "以专业连接产业，半导体行业观察持续推动产业深度协同",
       "d": "sohu.com"
+    },
+    {
+      "t": "总投资125亿！奕斯伟武汉半导体材料基地重大进展",
+      "d": "sohu.com"
+    },
+    {
+      "t": "直播预约 | 从晶圆制造到AI算力，大湾区半导体正在发生什么？",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "x86、Arm、RISC-V在工业边缘正面相遇",
+      "d": "sohu.com"
+    },
+    {
+      "t": "下周！两份财报必须关注",
+      "d": "21jingji.com"
     }
   ]
 }

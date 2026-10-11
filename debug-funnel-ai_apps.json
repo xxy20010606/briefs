@@ -1,54 +1,34 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 32,
-    "trusted": 9,
+    "raw_dedup_junk": 22,
+    "trusted": 2,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "sina.cn": 3,
-      "zhiding.cn": 3,
-      "csdn.net": 3,
+      "sina.cn": 6,
+      "80aj.com": 4,
+      "sina.com.cn": 2,
+      "zqrb.cn": 1,
+      "jfdaily.com": 1,
+      "vietnam.vn": 1,
+      "stockstar.com": 1,
       "shobserver.cn": 1,
-      "games.gg": 1,
-      "mos.ru": 1,
-      "mydrivers.com": 1,
-      "china.com": 1,
-      "rmzxw.com.cn": 1
+      "zhiding.cn": 1,
+      "co.nz": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 0,
-    "relaxed_72h": 9,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 2,
+    "page_fresh": 2,
+    "relaxed_72h": 0,
+    "final": 2,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "鸿蒙PC版DevEco“三件套”集体公测，鸿蒙开发体验迈上新台阶",
+      "t": "从“失控入侵”到“擅自行动”，人工智能为何频频“闯祸”？",
+      "d": "stdaily.com"
+    },
+    {
+      "t": "亚马逊云科技向姚明发起的姚基金捐赠100万美元现金及云+ AI资源，目标培养AI",
       "d": "sohu.com"
-    },
-    {
-      "t": "Agentic开发时代到来！鸿蒙PC三大原生开发工具公测，补齐国产操作系统生态关",
-      "d": "sohu.com"
-    },
-    {
-      "t": "土耳其DeePix AI旗下Shots借TikTok舞蹈热点登美国App Sto",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "北京市教委发文“小学生不建议独自使用AI工具”",
-      "d": "163.com"
-    },
-    {
-      "t": "最新财新周刊｜AI重塑金融",
-      "d": "caixin.com"
-    },
-    {
-      "t": "模型开放之后，AI 能力为什么仍难以复用？",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "最新封面报道｜抢占办公室",
-      "d": "caixin.com"
     }
   ]
 }

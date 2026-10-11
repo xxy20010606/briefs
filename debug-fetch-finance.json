@@ -1,41 +1,41 @@
 {
   "type": "finance",
-  "total": 25,
+  "total": 32,
   "samples": [
     {
-      "title": "韩国存储双雄杠杆ETF价格上窜下跳 政府周四将开会讨论对策",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QWEtic2EyTlZuVnpPdXRza0FQb0Q3UWJmNzZER0k2TW9XejBLcURRcEdGTWtrTjlsc1FMcGhuOGZTWWVzdUFjbQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "兴发集团(600141.SH)：2026年度向特定对象发行A股股票有关事项获得宜昌市国资委批复_股市",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FSVM1SmR2aVQydmZxOVpHdzhiYW1wRElZWk5KRG9BUXM1eW4tWUpZaC1idV9oSHFHa1NGend4R1FMT1A1MjRRU2R",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "好消息，大涨……",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYkNYaW15Q2NjYlh0Mmp1THBYWjNLanp5TmR6VTd1V0VMaWYtbDFhUFEwazZyU0RSXzBUVlAwM081ZU85TXZWSWl",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "标普500的平静，全靠十只股票和一个AI信仰？",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWFdnM1pid2c1a3p4VWp3ZTRUZWp5S1NTNkcxcGoxZTZ5RG9PMHhUbmxZQklUNmo2QWs3OUNPTGFzZzhFUHR5MV9",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "这是实现金融强国的必经之路，（叶宏伟讲财经管理）",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFJvOE82MlVKQjZIVTByYzBpbF9zWjhLUk1lUWJpV2h6aFJwM3U4RlRnYWpNSFljV3ZRYUJTb0twb1hvLTNKOFF",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeDBQWTBMOFFwTENBMkdXUWREazlvV25TMW9tcWJqeHMydEpJTkEtanU5aG1CVzlncGM3OXVkdlQ1aFhXa2Rqb3R",
+      "title": "我武生物：人脐带间充质干细胞二型注射液获临床试验批准",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNblNiWmZnWTkwMGROczlWbThfTU8xX0xQZTJMVzlfNUtETDFqWWc2QmVPbG5VeVFDeVYzVExrR0ZiN1BoUjdydXV",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "从新加坡到越南、马来西亚，东南亚银行股为何全线下跌？",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ta1FyVUMxaVdnNXJtQW5DWVR4ZV9DdnZlbkt4QmZrUVVCRTdLUy1VMXZtalRWVEZfS3Bvb0dEVFNUbEJxaGprLU5",
-      "source_url": "https://cj.sina.cn",
+      "title": "江淮汽车市值蒸发百亿！葛卫东家族、基金经理们还能坚守吗？",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVDB5dXRYaXZDeklUUnBLUlhpWFVzZmo3UGxKWnRKSDRiNXdWLTE5dzBIRmZDckItRkhNQWZya2JlSzF3NmpfNVZ",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "雄韬股份临时股东会审议通过两项员工持股计划相关修订议案 总同意率均超99.90%",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHhVYnVOV2Y2NEwxR0hDaU13ek12aFJlalRFQWxoLXZQcHRtVFNsSnNyT2ExT1FyaU1nTWZpblEzZVc2WU5Kcmh",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "高盛讨论会：AI交易从硬件转向应用，市场迫切渴望“下一个AI故事”_滚动新闻_财经",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40RHZKNmdSckk4RXBfOG9iTFpOaUdyRFE2WXlFdV9GZUhVTHpVejZjMElDeERwMjEtb2x4NVc2Yng1VmpLeVRIbkJ",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
+    },
+    {
+      "title": "视频 | “泡椒凤爪第一股”有友食品进口冷冻鸡脚因感官检验不合格被拒绝入境山姆是其产品重要销售渠道",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XTlpBdzYyZmVXdFlFbGgyR2tqRXlSd3pISHZMdDBqTFdrMVoycWdoZHc0X2I5bDUzcEdiYTdfMzNJSHZSNFl2YVp",
+      "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     }
   ]
