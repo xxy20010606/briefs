@@ -1,51 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 19,
-    "trusted": 10,
+    "raw_dedup_junk": 43,
+    "trusted": 27,
     "non_trusted_top": {
-      "sina.cn": 3,
-      "enanyang.my": 1,
-      "cfi.net.cn": 1,
+      "sina.cn": 6,
       "mydrivers.com": 1,
-      "stockstar.com": 1,
+      "sina.com.cn": 1,
       "chosun.com": 1,
-      "sina.com.cn": 1
+      "hk01.com": 1,
+      "china.com": 1,
+      "ofweek.com": 1,
+      "infoobs.com": 1,
+      "yeeyi.com": 1,
+      "qdxin.cn": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 5,
-    "relaxed_72h": 3,
+    "fresh1_24h": 27,
+    "page_fresh": 19,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "航天线缆第一股，今日打新！2家芯片产业链企业，本周IPO上会",
+      "t": "韩国团队找到二维半导体生长控制方法 为未来芯片铺路",
       "d": "sohu.com"
     },
     {
-      "t": "公告全知道",
+      "t": "马斯克宣布Terafab芯片工厂目标年产1太瓦算力，半导体专家称实现稳定良率难度",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "助力捕捉国产芯片设计核心龙头，科创芯片设计ETF华泰柏瑞10月12日起发售",
+      "d": "sohu.com"
+    },
+    {
+      "t": "华芯半导体光通信激光芯片技术：引领未来光通信的关键力量",
+      "d": "iccsz.com"
+    },
+    {
+      "t": "13:47:12【半导体板块冲高回落，半导体设备ETF易方达（159558）上一",
       "d": "cls.cn"
     },
     {
-      "t": "马斯克，瞄准芯片制造新高地",
+      "t": "功率半导体再现强强合作",
       "d": "eet-china.com"
     },
     {
-      "t": "俄罗斯宣布做出100%全国产芯片！基于40年前老协议",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "8年亏掉80亿，订单却排到明年！粤芯半导体上市，这事不简单",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "马斯克造芯片，比把星舰送上火星还难？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "下周5家上会丨2家IPO企业皆属半导体领域，合计拟募资27.54亿元",
-      "d": "ifeng.com"
+      "t": "【半导体突发】ASML，全线提价10%！半导体设备ETF招商(561980)盘中",
+      "d": "jiemian.com"
     }
   ]
 }

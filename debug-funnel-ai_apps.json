@@ -1,41 +1,45 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 29,
-    "trusted": 5,
+    "raw_dedup_junk": 43,
+    "trusted": 6,
     "non_trusted_top": {
-      "pasqualepillitteri.it": 8,
-      "sina.cn": 4,
+      "sina.com.cn": 10,
+      "digitaltoday.co.kr": 4,
+      "sina.cn": 3,
+      "zhiding.cn": 2,
       "stockstar.com": 2,
       "80aj.com": 2,
-      "sina.com.cn": 2,
-      "digitaltoday.co.kr": 1,
-      "csdn.net": 1,
-      "microsoft.com": 1,
-      "ichaoqi.com": 1,
-      "caiwennews.com": 1
+      "baijing.cn": 2,
+      "pedaily.cn": 1,
+      "shobserver.com": 1,
+      "moomoo.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 3,
-    "relaxed_72h": 1,
-    "final": 4,
+    "fresh1_24h": 5,
+    "page_fresh": 5,
+    "relaxed_72h": 0,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "打卡跟练、大数据定制食谱……AI成职场人“减重搭子”",
-      "d": "chinanews.com.cn"
+      "t": "新质生产力意见落地！海内外AI应用催化共振行业商业化落地有望加速_市场测评_市场",
+      "d": "cnfol.com"
     },
     {
-      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "d": "36kr.com"
+      "t": "又一短剧应用海外爆火！AI漫剧概念走强，德才股份4天3板",
+      "d": "21jingji.com"
     },
     {
-      "t": "23岁00后押中AI风口 14人团队干出670亿商业奇迹",
-      "d": "36kr.com"
+      "t": "字节飞书发布豆包工作伙伴，四大巨头竞逐AI办公智能体与企业工作流",
+      "d": "huxiu.com"
     },
     {
-      "t": "晚报 | 10月12日主题前瞻",
+      "t": "Manus被AI大厂重新定价",
+      "d": "sohu.com"
+    },
+    {
+      "t": "9月人工智能：智谱完成50亿美元融资 可灵获14亿元融资 广电总局严禁AI魔改",
       "d": "sohu.com"
     }
   ]

@@ -1,42 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 27,
-    "trusted": 4,
+    "raw_dedup_junk": 75,
+    "trusted": 20,
     "non_trusted_top": {
-      "sina.cn": 5,
+      "sina.cn": 9,
+      "sina.com.cn": 7,
+      "china.com": 4,
+      "rediandf.com": 3,
       "bjd.com.cn": 3,
-      "yzwb.net": 2,
-      "sina.com.cn": 2,
-      "china.com": 2,
-      "jingjiribao.cn": 2,
-      "hupu.com": 1,
-      "pchome.net": 1,
-      "enanyang.my": 1,
-      "voc.com.cn": 1
+      "mydrivers.com": 2,
+      "hupu.com": 2,
+      "hizh.cn": 2,
+      "vietnam.vn": 1,
+      "starnewskorea.com": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 2,
-    "relaxed_72h": 2,
-    "final": 4,
-    "cap": "不限同域"
+    "fresh1_24h": 20,
+    "page_fresh": 20,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2026第五届苏州金鸡湖中法文化艺术周启幕",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "话剧《非穷尽列举》登陆厦门",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "猫咪为人类清除烦恼！《戴帽子的猫》定档11月6日",
+      "t": "每日开行20趟列车、辐射11个省市……亦庄号智能复兴号观赛专列点亮电竞季",
       "d": "sohu.com"
     },
     {
-      "t": "央媒看高新《动画接力跑》",
+      "t": "北京市第十二届残疾人运动会落幕",
       "d": "cnr.cn"
+    },
+    {
+      "t": "爱奇艺《伟大的长征》10月9日开播 以全景叙事重现长征精神",
+      "d": "sohu.com"
+    },
+    {
+      "t": "《姜饼人》动画大电影定档2029年：庆祝IP 20周年，前派拉蒙联席CEO公司操",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "影视概念爆发！首部AI超写实院线电影上映在即， 机构建议布局这些主线丨行业风口",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "国台办回应《兰香如故》在台爆火",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "国产动画电影《八仙！》三轮密钥延期至 11 月 17 日，票房破 20 亿",
+      "d": "ithome.com"
     }
   ]
 }

@@ -1,40 +1,53 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 32,
-    "trusted": 7,
+    "raw_dedup_junk": 60,
+    "trusted": 16,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "sina.cn": 6,
-      "moomoo.com": 4,
-      "stockstar.com": 2,
-      "worldjournal.com": 1,
-      "stheadline.com": 1,
-      "eastmoney.com": 1,
-      "tradingview.com": 1,
-      "futunn.com": 1
+      "moomoo.com": 11,
+      "sina.com.cn": 7,
+      "stockstar.com": 7,
+      "futunn.com": 6,
+      "sina.cn": 4,
+      "sfccn.com": 1,
+      "fx168news.com": 1,
+      "hk01.com": 1,
+      "jin10.com": 1,
+      "vtmarkets.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 2,
-    "relaxed_72h": 2,
-    "final": 4,
+    "fresh1_24h": 16,
+    "page_fresh": 11,
+    "relaxed_72h": 1,
+    "final": 7,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "中信建投：TLVR芯片电感单位价值量提升行业空间极速扩容_股市直播_市场",
+      "t": "永丰金证券：料港股第四季维持区间震荡企业盈利表现更受资金关注_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "贝壳-W(02423.HK)10月9日耗资350万美元回购42.33万股_股市直",
+      "t": "Simwon America(SWA.US)申请纳斯达克IPO，拟募资至多500",
       "d": "cnfol.com"
     },
     {
-      "t": "机构：关税扰动主导，铜价高位剧震",
-      "d": "sohu.com"
+      "t": "宏利基金8只基金9月份跌超10% 宏利新能源股票累亏1成_证券要闻",
+      "d": "cnfol.com"
     },
     {
-      "t": "中信证券：Q3美股盈利或延续高增长港股基本面预期已进入触底阶段_市场分析",
+      "t": "AI重塑中国股市结构高盛：中国AI企业盈利优势显著外资仍低配_市场分析",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "破发连亏3年半股金迪克20CM跌停 2021上市中信证券保荐_证券要闻",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "A股午评：超4000股下跌！创业板指跌1.27%，文化传媒、银行股逆势上涨_股市",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "破发股浩辰软件限售股解禁上市超募3亿元中信建投保荐_证券要闻",
       "d": "cnfol.com"
     }
   ]

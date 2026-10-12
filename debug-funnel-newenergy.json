@@ -1,42 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 34,
-    "trusted": 5,
+    "raw_dedup_junk": 54,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.com.cn": 9,
-      "autohome.com.cn": 9,
+      "autohome.com.cn": 10,
+      "ne21.com": 7,
+      "sina.com.cn": 5,
+      "in-en.com": 3,
       "sina.cn": 3,
-      "creaders.net": 1,
-      "caiwennews.com": 1,
-      "gz-cmc.com": 1,
-      "scol.com.cn": 1,
-      "cacnews.ca": 1,
-      "news18a.com": 1,
-      "xcar.com.cn": 1
+      "stockstar.com": 2,
+      "gdshe.org": 2,
+      "cpem.org.cn": 1,
+      "donews.com": 1,
+      "ditan.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 0,
-    "relaxed_72h": 4,
-    "final": 4,
-    "cap": "不限同域"
+    "fresh1_24h": 12,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "机构：9月储能采招高增，坚定看好锂电固态",
+      "t": "10月12日鑫宏业涨16.36%，中欧量化动力混合A基金重仓该股",
       "d": "sohu.com"
     },
     {
-      "t": "新能源重卡变身“移动储能” 浙江开展重卡与电网互动响应",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "特斯拉新绿能巨舰：亚利桑那沙漠的450MW太阳能+储能项目",
+      "t": "【涨停直击】逆变器龙头，“20CM”直线涨停",
       "d": "sohu.com"
     },
     {
-      "t": "机构：9月储能EPC中标持续景气，国内海风多项目进展推进",
-      "d": "sohu.com"
+      "t": "低碳宁德 绿意满城",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "签约！ 日本AEJ Nozu储能项目EPC合同",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "混动出口被“减半”， 中国车企的欧洲路怎么走",
+      "d": "gasgoo.com"
+    },
+    {
+      "t": "双重利好提振港股电池股 宁德时代H股重上500港元大关",
+      "d": "cls.cn"
+    },
+    {
+      "t": "碳酸锂价格暴跌近90%，动力电池回收行业进入洗牌深水区",
+      "d": "huxiu.com"
     }
   ]
 }

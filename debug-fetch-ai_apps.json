@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 29,
+  "total": 43,
   "samples": [
     {
-      "title": "以AI重塑投研基因，这家基金公司从“工具赋能”迈向“价值创造”深水区_中国基金报_媒体广场_财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84T0Q0cmk4R2FER1J6YjlYM3ZZdDh1T1pRWXVHekxFbkF0OXpVR25TWTZZcW9DWXJxekkxNU42Rk0xT1RDSEZMVEh",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
+      "title": "模型长出交互界面，「手搓」AI应用要全面退潮了？",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZlBKMEx4ekdnNk5LYVc0VEZWeW8yRURTYU9XakxHb2UtdjZPNUpwYVBEb2luR01lQktVYm93ZlpTYnRnOFh6R3Z",
+      "source_url": "https://news.pedaily.cn",
+      "source": "投资界"
     },
     {
-      "title": "美国软件开发者招聘信息逆势回升，Claude Code发布后增约15%",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORk1wblNNZ2d3NEw5MUdOdzZwUzk4THNkbFpmdlNwZEJ2YTg5ZzVJNzZTcWc5aDNxcTA5THFBWVU2TUJ2NnV3SF9",
-      "source_url": "https://www.digitaltoday.co.kr",
-      "source": "디지털투데이"
+      "title": "新质生产力意见落地！海内外AI应用催化共振行业商业化落地有望加速_市场测评_市场",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FU25ZbWRZd2xWV3h3UnNPRW4wWDM4bmlfaVBkNmluekU4aU5sb2hvOEdmZUZ5M0ZaeVdGbVhPajJKNkc1M0JzZTN",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "打卡跟练、大数据定制食谱……AI成职场人“减重搭子”",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfQk01RFQ3UUlaUnhINlIyWE1ydWhqMWNSYUdSTmRzbFh2d0gyelBzdk4wakpjNmxrY1A0NFNCdDZueFN6aWtGUlR",
-      "source_url": "https://www.chinanews.com.cn",
-      "source": "中国新闻网"
+      "title": "一周 10 万星，AI「逆向一切」，但大家不要过于兴奋",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BaS1JeW5tcHk5U0cwUERnVTBnZEVoTWhtQXlsLVVzX2dCTFIxMnkyd1IxcUlPOE4tZWxXTTFYdXppOWVKS0ZvOE1",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "Dify遇上讯飞星火：模型聚合这波操作，到底有多香？",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yYU8wbGtPUlZXclczMTI1U2FIcm4yT0luVVdDUkVvM1cycEVNZmo3VWtEZjhpYTdBN1N5WWM3Z3RZR0JlaGJCcUx",
-      "source_url": "https://www.csdn.net",
-      "source": "CSDN"
+      "title": "人工智能为何频频“闯祸”？",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yNDVDYmliSlRxS19LM3YtcWlxWEpmNUVtWlQ1NzRybnlaRkFwTDE2YXhjLThMSl96djRsQXFpOC15algzM2syOUc",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "ChatGPT 水印检测器不会用于检查作业和论文，OpenAI 确认",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRjgzazBZRTgwRUE1YktyajRqS3oyZGowZlN4SWhoMUxVUjNSb0tJa243RDJCUmdwTTVsd2ZfckI1b3huUGg2eDJ",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "前程无忧：AI正在从辅助工具逐渐成为企业管理的重要能力",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjNsV2hyTm1ocHFISkxOZkYxcUdGU2NSV2NQSHVtQVROVndodHdsT2E4cnNJRGVmaW1ucTdCb053LWhqUUxmaUh",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.com.cn"
     },
     {
-      "title": "如何在 OpenAI API 中开启 textGrain（以及为什么代码更难被标记）",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTNzUkxzTjlXbmxaU0RHU3VVRThEQ244RldoNnlqeDVjVXRzYlQzQnBiZWJOZFBhZlVqbXFkbXNPbE9ZOWttSTh",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "前程无忧发布2026年度典范雇主榜单，AI、人才与组织连接成为三大关键词",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vSnVhNXVZZUhGeTdzLWNQanFqWHJLTWZSbHk2QnZON215NUZmRnJGVkNyeFkzOU5BSEd5d1V4YXJJdTZ6XzdlNUQ",
+      "source_url": "https://www.shobserver.com",
+      "source": "上观新闻"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 12,
+    "raw_dedup_junk": 62,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.com.cn": 11,
-      "80aj.com": 7,
+      "sina.com.cn": 12,
+      "techwalker.com": 5,
+      "stockstar.com": 3,
       "sina.cn": 3,
-      "stockstar.com": 2,
-      "techwalker.com": 1,
-      "voc.com.cn": 1,
-      "ebiotrade.com": 1,
-      "guan.media": 1,
-      "scol.com.cn": 1,
-      "autohome.com.cn": 1
+      "china.com": 2,
+      "icloudnews.net": 2,
+      "cnmo.com": 2,
+      "eeo.com.cn": 2,
+      "csdn.net": 2,
+      "80aj.com": 2
     },
     "fresh1_24h": 11,
-    "page_fresh": 7,
-    "relaxed_72h": 4,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "数据堂：做人工智能时代的“面粉加工厂”│2026寻找新质生产力领跑者案例",
-      "d": "sohu.com"
+      "t": "车载业务占比超五成，复合增速超50%，高新兴走出业绩低谷",
+      "d": "21jingji.com"
     },
     {
-      "t": "词元：智能经济的价值底座——从词元看智能经济崛起（上）",
-      "d": "sohu.com"
-    },
-    {
-      "t": "文化中国行·科技赋能典型案例丨三层服务体系、海量数据底座、七大AI智能体……大模",
-      "d": "stdaily.com"
-    },
-    {
-      "t": "拓宽大模型商业化落地路径",
-      "d": "ce.cn"
-    },
-    {
-      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "d": "36kr.com"
-    },
-    {
-      "t": "丘成桐数学与人工智能实验室联盟成立，千人推进数学与AI融合",
-      "d": "bjnews.com.cn"
-    },
-    {
-      "t": "星际大模型｜山东人工智能垂域大模型之星火燎原",
+      "t": "“AI教父”杨立昆：下一代AI须理解现实世界",
       "d": "ifeng.com"
+    },
+    {
+      "t": "山东人工智能垂域大模型：假如你是车间主任 你愿意用AI去炼钢吗？",
+      "d": "sohu.com"
+    },
+    {
+      "t": "智能体落地+1！用友金融助力国内头部城商行搭建财务智审智能体",
+      "d": "sohu.com"
+    },
+    {
+      "t": "曼朗语径大模型完成备案，合规+专业让AI更好服务自我理解",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "国产算力迈入“从1到N”放量期 科创板AI产业链业绩加速兑现",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+      "d": "zhidx.com"
     }
   ]
 }

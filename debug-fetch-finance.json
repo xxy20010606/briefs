@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 32,
+  "total": 60,
   "samples": [
     {
-      "title": "中信建投：TLVR芯片电感单位价值量提升行业空间极速扩容_股市直播_市场",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04UllIOXNoTThkcXVrcld6WDFCSHZPbXY3UzNtN0JXRWhxOFd0dlF5Q0R2OXdfOU9zODlxTmhYN2N5eWEwdDZ6VkN",
-      "source_url": "http://sc.stock.cnfol.com",
-      "source": "中金在线"
+      "title": "成交额暴跌、散户退场，上半年全球表现最好的股市要凉凉？",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXlHMk5tM1laV0JJb0Z0V2tTem1GQ0d5WGhrWVRpMFpJNE1xd2x2T2NncUZWdklGREY5ZVpSTWhNWURKTGR4S0E",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "操盘必读：影响股市利好或利空消息_2026年10月12日_财经新闻",
-      "link": "https://news.google.com/rss/articles/CBMigAVBVV95cUxOZThFUDY2V1BrNFk3cmtkTXBKQUR4WnFIbWx1NThhQldWc0NVbnhLb2ZSVWlPckJCRDNKbWV3Sy1sV1Zmb0hPMWl",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "贝壳-W(02423.HK)10月9日耗资350万美元回购42.33万股_股市直播_市场",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44Mm4xSkZZMUxwMnJ6VXNIZ21LRnkwVlNraGh3YU8yc3dKUWlsLTI2N0J5aVJVUENGdjNqTG5Ka1pIVUFLLXE3SkV",
-      "source_url": "http://sc.stock.cnfol.com",
-      "source": "中金在线"
-    },
-    {
-      "title": "企業購併與股票上市減緩 為美股再添警訊",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EOHNpUXBLeWhrWHIwUHYzNGhXajJHaFppbXpQT1kxVzA0cHVjWWQ0bVFnN1Uwb1ctNUxRV0NMR1dFWm8yTk43NHR",
-      "source_url": "https://www.worldjournal.com",
-      "source": "世界新聞網"
-    },
-    {
-      "title": "韩股成交高位暴跌70% 万亿外资撤退",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRkdFc3lUdDZGMGJvSTBJcDZ4VFYwM2p6TFJTWEFzLTVjS25zZ3Q2dkI0VGloM2hCTWNSSUtCa0Mwc2ZYRDNzak9",
-      "source_url": "https://www.stheadline.com",
-      "source": "星島頭條"
-    },
-    {
-      "title": "锡业股份A股股东户数增加97户增幅0.05%，流通A股户均持股9250.81股降幅0.05%，户均持",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWkNqTEdWd3BUV1lvWXdvbGRvWUdkTmRRTmNmZVY3TjNwWWUyemZJQ1dXVlRJQTNnWEtWdmtnUjc1eVp2OERvT0J",
+      "title": "【环球财经】土耳其基金风波冲击市场 内需与信心面临考验",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14WnRWUWJnSEMzM0M5NkZOUE9PUHQtRUFGMnVsUkFxdjNfMXVIT1lYc1YxNFl1c0VXNmRwcGRhYnZUVnFLZnhCWXJ",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
+    },
+    {
+      "title": "永丰金证券：料港股第四季维持区间震荡企业盈利表现更受资金关注_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92Q21HOTVfSjJQdXNfNE5CNTJXYmxDcjRZYUpnV1p2ZU5JRC04YThhbUs4RW56ckJBQTRSUjFrOVhMRUZPMEEtM0d",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
+    },
+    {
+      "title": "Simwon America(SWA.US)申请纳斯达克IPO，拟募资至多5000万美元_股市直播_",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01NVc0clJkaW5QWGxIYTlYTmJhb2JyM0ZDRkdlMG16SDM0UTNNMWxSYktPbGZpRmplNWc3OFRQWEZZcUxVRW85QnM",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
+    },
+    {
+      "title": "宏利基金8只基金9月份跌超10% 宏利新能源股票累亏1成_证券要闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSmMtMDBIQjVFTFpudWlqNUtITF9sVERsU2M0cDJmN2FRX0w3YXkwb3hWc3A1TUltSTgzZ3NZS1gtY3NhTWMxVlF",
+      "source_url": "http://news.cnfol.com",
+      "source": "中金在线"
+    },
+    {
+      "title": "AI重塑中国股市结构高盛：中国AI企业盈利优势显著外资仍低配_市场分析",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pNVoySzhuOEtkTHJ4VlA1UlgzZjdmOHJYLXI5UGI3M09ucUNYS1NqZjg0eU12Y2ZVbFg1c011OVFsVjViMnkyYXl",
+      "source_url": "http://hkstock.cnfol.com",
+      "source": "中金在线"
     }
   ]
 }
