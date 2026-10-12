@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 47,
+    "raw_dedup_junk": 49,
     "trusted": 12,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "sina.com.cn": 7,
-      "stockstar.com": 3,
-      "ac.cn": 2,
-      "csdn.net": 2,
-      "jfdaily.com.cn": 1,
-      "pjtime.com": 1,
-      "sdxc.gov.cn": 1,
-      "autohome.com.cn": 1,
-      "iqilu.com": 1
+      "sina.com.cn": 11,
+      "80aj.com": 7,
+      "sina.cn": 3,
+      "stockstar.com": 2,
+      "techwalker.com": 1,
+      "voc.com.cn": 1,
+      "ebiotrade.com": 1,
+      "guan.media": 1,
+      "scol.com.cn": 1,
+      "autohome.com.cn": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 11,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 7,
+    "relaxed_72h": 4,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2026人工智能产业大会|已服务150余家大中型能源企业，云鼎矿山行业大模型跑出",
+      "t": "数据堂：做人工智能时代的“面粉加工厂”│2026寻找新质生产力领跑者案例",
       "d": "sohu.com"
     },
     {
-      "t": "下架8个月，GPT-4o的拯救行动居然还在继续",
-      "d": "qbitai.com"
-    },
-    {
-      "t": "人工智能产业日报(10.10) : AI行业动态",
+      "t": "词元：智能经济的价值底座——从词元看智能经济崛起（上）",
       "d": "sohu.com"
     },
     {
-      "t": "从“失控入侵”到“擅自行动”，人工智能为何频频“闯祸”？",
+      "t": "文化中国行·科技赋能典型案例丨三层服务体系、海量数据底座、七大AI智能体……大模",
       "d": "stdaily.com"
     },
     {
-      "t": "AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon 上海",
-      "d": "infoq.cn"
+      "t": "拓宽大模型商业化落地路径",
+      "d": "ce.cn"
     },
     {
-      "t": "AI手机入口战：华为做深，阿里做广，字节做精，腾讯做巧",
-      "d": "thepaper.cn"
+      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+      "d": "36kr.com"
     },
     {
-      "t": "不讲PPT，让AI直接干活：深圳湾芯展，我们搞一场“生产力智能体沙龙”",
-      "d": "eet-china.com"
+      "t": "丘成桐数学与人工智能实验室联盟成立，千人推进数学与AI融合",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "星际大模型｜山东人工智能垂域大模型之星火燎原",
+      "d": "ifeng.com"
     }
   ]
 }

@@ -1,34 +1,42 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 3,
+    "raw_dedup_junk": 34,
+    "trusted": 5,
     "non_trusted_top": {
-      "autohome.com.cn": 8,
-      "sina.cn": 5,
-      "sina.com.cn": 4,
-      "seetao.com": 2,
-      "voi.id": 2,
-      "news18a.com": 2,
-      "baotounews.com.cn": 1,
-      "hunantoday.cn": 1,
-      "wedoany.com": 1,
-      "gessey.com": 1
+      "sina.com.cn": 9,
+      "autohome.com.cn": 9,
+      "sina.cn": 3,
+      "creaders.net": 1,
+      "caiwennews.com": 1,
+      "gz-cmc.com": 1,
+      "scol.com.cn": 1,
+      "cacnews.ca": 1,
+      "news18a.com": 1,
+      "xcar.com.cn": 1
     },
-    "fresh1_24h": 2,
-    "page_fresh": 1,
-    "relaxed_72h": 1,
-    "final": 2,
+    "fresh1_24h": 4,
+    "page_fresh": 0,
+    "relaxed_72h": 4,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "韩方求了两次，中国大使终于露面，救命盘有人接，青瓦台松了口气",
+      "t": "机构：9月储能采招高增，坚定看好锂电固态",
       "d": "sohu.com"
     },
     {
-      "t": "土地稀缺、绿电不足？看北京经开区如何破解国家级零碳园区难题",
-      "d": "21jingji.com"
+      "t": "新能源重卡变身“移动储能” 浙江开展重卡与电网互动响应",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "特斯拉新绿能巨舰：亚利桑那沙漠的450MW太阳能+储能项目",
+      "d": "sohu.com"
+    },
+    {
+      "t": "机构：9月储能EPC中标持续景气，国内海风多项目进展推进",
+      "d": "sohu.com"
     }
   ]
 }

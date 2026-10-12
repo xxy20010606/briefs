@@ -1,54 +1,51 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 37,
-    "trusted": 16,
+    "raw_dedup_junk": 19,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.cn": 5,
-      "indexbox.io": 4,
-      "sina.com.cn": 3,
-      "stockstar.com": 3,
-      "sfccn.com": 1,
-      "investing.com": 1,
+      "sina.cn": 3,
       "enanyang.my": 1,
-      "tradingkey.com": 1,
-      "ua.news": 1,
-      "chosun.com": 1
+      "cfi.net.cn": 1,
+      "mydrivers.com": 1,
+      "stockstar.com": 1,
+      "chosun.com": 1,
+      "sina.com.cn": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 8,
-    "relaxed_72h": 1,
+    "fresh1_24h": 10,
+    "page_fresh": 5,
+    "relaxed_72h": 3,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "上海超硅 胡浩 博士 将作《AI 赋能晶体生长与硅片制造：应用实践与挑战》精彩报",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "西安奕材、沪硅、中欣晶圆、金瑞泓、中环领先、合晶、超硅、晶升股份等齐聚【第九届半",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "以专业连接产业，半导体行业观察持续推动产业深度协同",
+      "t": "航天线缆第一股，今日打新！2家芯片产业链企业，本周IPO上会",
       "d": "sohu.com"
     },
     {
-      "t": "总投资125亿！奕斯伟武汉半导体材料基地重大进展",
-      "d": "sohu.com"
+      "t": "公告全知道",
+      "d": "cls.cn"
     },
     {
-      "t": "直播预约 | 从晶圆制造到AI算力，大湾区半导体正在发生什么？",
+      "t": "马斯克，瞄准芯片制造新高地",
       "d": "eet-china.com"
     },
     {
-      "t": "x86、Arm、RISC-V在工业边缘正面相遇",
+      "t": "俄罗斯宣布做出100%全国产芯片！基于40年前老协议",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "8年亏掉80亿，订单却排到明年！粤芯半导体上市，这事不简单",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "马斯克造芯片，比把星舰送上火星还难？",
       "d": "sohu.com"
     },
     {
-      "t": "下周！两份财报必须关注",
-      "d": "21jingji.com"
+      "t": "下周5家上会丨2家IPO企业皆属半导体领域，合计拟募资27.54亿元",
+      "d": "ifeng.com"
     }
   ]
 }

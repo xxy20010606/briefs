@@ -2,25 +2,39 @@
   "type": "finance",
   "stages": {
     "raw_dedup_junk": 32,
-    "trusted": 4,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 18,
-      "moomoo.com": 3,
-      "sina.cn": 2,
-      "sfccn.com": 2,
-      "stockstar.com": 1,
-      "jkn.co.kr": 1,
+      "sina.com.cn": 8,
+      "sina.cn": 6,
+      "moomoo.com": 4,
+      "stockstar.com": 2,
+      "worldjournal.com": 1,
+      "stheadline.com": 1,
+      "eastmoney.com": 1,
+      "tradingview.com": 1,
       "futunn.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 1,
-    "relaxed_72h": 0,
-    "final": 1,
+    "fresh1_24h": 6,
+    "page_fresh": 2,
+    "relaxed_72h": 2,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "兴发集团(600141.SH)：2026年度向特定对象发行A股股票有关事项获得宜",
+      "t": "中信建投：TLVR芯片电感单位价值量提升行业空间极速扩容_股市直播_市场",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "贝壳-W(02423.HK)10月9日耗资350万美元回购42.33万股_股市直",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "机构：关税扰动主导，铜价高位剧震",
+      "d": "sohu.com"
+    },
+    {
+      "t": "中信证券：Q3美股盈利或延续高增长港股基本面预期已进入触底阶段_市场分析",
       "d": "cnfol.com"
     }
   ]
