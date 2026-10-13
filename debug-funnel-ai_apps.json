@@ -1,46 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 6,
+    "raw_dedup_junk": 36,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 10,
-      "digitaltoday.co.kr": 4,
+      "unite.ai": 4,
       "sina.cn": 3,
-      "zhiding.cn": 2,
-      "stockstar.com": 2,
-      "80aj.com": 2,
-      "baijing.cn": 2,
-      "pedaily.cn": 1,
-      "shobserver.com": 1,
-      "moomoo.com": 1
+      "sina.com.cn": 1,
+      "ajudaily.com": 1,
+      "swjtu.edu.cn": 1,
+      "xiongan.gov.cn": 1,
+      "digitaltoday.co.kr": 1,
+      "528btc.com": 1,
+      "quasa.io": 1,
+      "zhiding.cn": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 5,
-    "relaxed_72h": 0,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 12,
+    "page_fresh": 6,
+    "relaxed_72h": 4,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "新质生产力意见落地！海内外AI应用催化共振行业商业化落地有望加速_市场测评_市场",
-      "d": "cnfol.com"
+      "t": "Meta眼镜工具包1.0存在摄像头画面冻结问题",
+      "d": "sohu.com"
     },
     {
-      "t": "又一短剧应用海外爆火！AI漫剧概念走强，德才股份4天3板",
+      "t": "Meta推出前沿级Muse Wonder模型，AI大模型迭代速度加快丨盘前线索",
       "d": "21jingji.com"
     },
     {
-      "t": "字节飞书发布豆包工作伙伴，四大巨头竞逐AI办公智能体与企业工作流",
+      "t": "“AI挂在嘴边，实际一事无成”，年轻人正在被“AI登” 逼疯",
       "d": "huxiu.com"
     },
     {
-      "t": "Manus被AI大厂重新定价",
+      "t": "Ghost 获 a16z 领投 1100 万美元融资，推出无屏私人 AI 电脑 ",
       "d": "sohu.com"
     },
     {
-      "t": "9月人工智能：智谱完成50亿美元融资 可灵获14亿元融资 广电总局严禁AI魔改",
-      "d": "sohu.com"
+      "t": "曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "麦当劳AI定价工具惹来诉讼 业界争论是否要引入动态定价？",
+      "d": "cls.cn"
+    },
+    {
+      "t": "Manus母公司蝴蝶效应完成超5亿美元融资，按报道目标估值40亿美元，刷新国内A",
+      "d": "huxiu.com"
     }
   ]
 }

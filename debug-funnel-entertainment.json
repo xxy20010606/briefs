@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 75,
-    "trusted": 20,
+    "raw_dedup_junk": 53,
+    "trusted": 22,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "sina.com.cn": 7,
-      "china.com": 4,
+      "sina.cn": 8,
       "rediandf.com": 3,
-      "bjd.com.cn": 3,
-      "mydrivers.com": 2,
-      "hupu.com": 2,
-      "hizh.cn": 2,
-      "vietnam.vn": 1,
-      "starnewskorea.com": 1
+      "hupu.com": 3,
+      "sina.com.cn": 3,
+      "yule.com.cn": 1,
+      "starnewskorea.com": 1,
+      "on.cc": 1,
+      "epochtimes.com": 1,
+      "youth.cn": 1,
+      "cjn.cn": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 20,
+    "fresh1_24h": 21,
+    "page_fresh": 12,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "每日开行20趟列车、辐射11个省市……亦庄号智能复兴号观赛专列点亮电竞季",
+      "t": "陈思诚执导电影《神探之痕迹》上映12天累计票房破5亿 累计观影人次1399.8万",
       "d": "sohu.com"
     },
     {
-      "t": "北京市第十二届残疾人运动会落幕",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "爱奇艺《伟大的长征》10月9日开播 以全景叙事重现长征精神",
+      "t": "性能赛道再破局，一加16重构旗舰竞争范式",
       "d": "sohu.com"
     },
     {
-      "t": "《姜饼人》动画大电影定档2029年：庆祝IP 20周年，前派拉蒙联席CEO公司操",
-      "d": "ifeng.com"
+      "t": "话剧《北京法源寺》开启新一轮演出 将迎来百场纪念演出",
+      "d": "xinhuanet.com"
     },
     {
-      "t": "影视概念爆发！首部AI超写实院线电影上映在即， 机构建议布局这些主线丨行业风口",
+      "t": "中信证券：看好AI影视与AI+IP两条主线",
       "d": "21jingji.com"
     },
     {
-      "t": "国台办回应《兰香如故》在台爆火",
-      "d": "chinanews.com.cn"
+      "t": "《伟大的长征》收视第一，全景求“真”",
+      "d": "xinhuanet.com"
     },
     {
-      "t": "国产动画电影《八仙！》三轮密钥延期至 11 月 17 日，票房破 20 亿",
-      "d": "ithome.com"
+      "t": "在江夏，回望中国电影的第一帧",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "华泰证券：AI有望重塑影视生产成本与IP开发模式",
+      "d": "eastmoney.com"
     }
   ]
 }

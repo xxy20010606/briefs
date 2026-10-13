@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 60,
-    "trusted": 16,
+    "raw_dedup_junk": 49,
+    "trusted": 17,
     "non_trusted_top": {
-      "moomoo.com": 11,
-      "sina.com.cn": 7,
-      "stockstar.com": 7,
-      "futunn.com": 6,
-      "sina.cn": 4,
-      "sfccn.com": 1,
-      "fx168news.com": 1,
-      "hk01.com": 1,
-      "jin10.com": 1,
-      "vtmarkets.com": 1
+      "moomoo.com": 9,
+      "sina.cn": 3,
+      "futunn.com": 3,
+      "hstong.com": 2,
+      "on.cc": 2,
+      "longbridge.com": 2,
+      "investing.com": 1,
+      "stockstar.com": 1,
+      "epochtimes.com": 1,
+      "cryptopolitan.com": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 11,
-    "relaxed_72h": 1,
+    "fresh1_24h": 13,
+    "page_fresh": 9,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "永丰金证券：料港股第四季维持区间震荡企业盈利表现更受资金关注_股市直播_市场",
+      "t": "港股开盘| 恒指低开0.41% 医药及科技股走低_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "Simwon America(SWA.US)申请纳斯达克IPO，拟募资至多500",
+      "t": "10.13股市早8点丨银行股呱呱叫·科技牛嗷嗷叫_证券要闻",
       "d": "cnfol.com"
     },
     {
-      "t": "宏利基金8只基金9月份跌超10% 宏利新能源股票累亏1成_证券要闻",
-      "d": "cnfol.com"
+      "t": "日韩股市开盘跳水",
+      "d": "21jingji.com"
     },
     {
-      "t": "AI重塑中国股市结构高盛：中国AI企业盈利优势显著外资仍低配_市场分析",
-      "d": "cnfol.com"
+      "t": "10月12日美股三大指数收盘涨跌不一，存储光通信板块走弱丨美股复盘",
+      "d": "eastmoney.com"
     },
     {
-      "t": "破发连亏3年半股金迪克20CM跌停 2021上市中信证券保荐_证券要闻",
-      "d": "cnfol.com"
+      "t": "美股存储、光通信暴跌 中概股多数下跌",
+      "d": "eastmoney.com"
     },
     {
-      "t": "A股午评：超4000股下跌！创业板指跌1.27%，文化传媒、银行股逆势上涨_股市",
-      "d": "cnfol.com"
+      "t": "港股早报｜新能源汽车增值税出口退税率将下调 热门中概股多数走低",
+      "d": "cls.cn"
     },
     {
-      "t": "破发股浩辰软件限售股解禁上市超募3亿元中信建投保荐_证券要闻",
-      "d": "cnfol.com"
+      "t": "私募大佬梁宏开炮：某些险资巨头追涨杀跌，为啥要放这狠话？",
+      "d": "cls.cn"
     }
   ]
 }

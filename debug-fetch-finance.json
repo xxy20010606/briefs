@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 60,
+  "total": 49,
   "samples": [
     {
-      "title": "成交额暴跌、散户退场，上半年全球表现最好的股市要凉凉？",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXlHMk5tM1laV0JJb0Z0V2tTem1GQ0d5WGhrWVRpMFpJNE1xd2x2T2NncUZWdklGREY5ZVpSTWhNWURKTGR4S0E",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "港股开盘| 恒指低开0.41% 医药及科技股走低_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFNG9BQ2pVdHhPZ0JxZ2VhTEswN29XdFVNQ01tOFp4YWZuUGhPeGlUNVdHZVQwNEtnTk04Nm1KendubURaR2NJTjd",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "【环球财经】土耳其基金风波冲击市场 内需与信心面临考验",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14WnRWUWJnSEMzM0M5NkZOUE9PUHQtRUFGMnVsUkFxdjNfMXVIT1lYc1YxNFl1c0VXNmRwcGRhYnZUVnFLZnhCWXJ",
-      "source_url": "https://finance.sina.com.cn",
+      "title": "ETF异动 | 韩股ETF今早重挫 韩国股市暴跌熔断 英特尔、博通CEO表态引发担忧 提供者 智通财",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2RWNHMGVPcTM4Nzc3S2o2OG80VDB5ZjBFTG9CQ2VCakZfRFVhTkpoWTd2c1V0LU9LT1NEOGtxc1E5ZVdRVHdpYjN",
+      "source_url": "https://cn.investing.com",
+      "source": "英为财情 Investing.com"
+    },
+    {
+      "title": "资金面与股市资金流向日评20261013",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhX3pyRWZjX18wZFhybm03VDVwcGU1QjlmSksydnpCcWllMjdNa1F2WXJiTnozMzhycmw5UHJ5aEpmSWp3cTNka2h",
+      "source_url": "https://cj.sina.cn",
       "source": "新浪财经"
     },
     {
-      "title": "永丰金证券：料港股第四季维持区间震荡企业盈利表现更受资金关注_股市直播_市场",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92Q21HOTVfSjJQdXNfNE5CNTJXYmxDcjRZYUpnV1p2ZU5JRC04YThhbUs4RW56ckJBQTRSUjFrOVhMRUZPMEEtM0d",
-      "source_url": "http://sc.stock.cnfol.com",
-      "source": "中金在线"
+      "title": "美联储，突发大消息！日韩股市早盘双双大跌",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wUjUxdG1FMUU2SHI0aHJsVzFrcXVfcGNhOXBzM3BCQldJZWhjLVpTTjl4SXpXOGtLY0JYeGpPUXNObTNPSmJ3aFN",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "Simwon America(SWA.US)申请纳斯达克IPO，拟募资至多5000万美元_股市直播_",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01NVc0clJkaW5QWGxIYTlYTmJhb2JyM0ZDRkdlMG16SDM0UTNNMWxSYktPbGZpRmplNWc3OFRQWEZZcUxVRW85QnM",
-      "source_url": "http://sc.stock.cnfol.com",
-      "source": "中金在线"
-    },
-    {
-      "title": "宏利基金8只基金9月份跌超10% 宏利新能源股票累亏1成_证券要闻",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XSmMtMDBIQjVFTFpudWlqNUtITF9sVERsU2M0cDJmN2FRX0w3YXkwb3hWc3A1TUltSTgzZ3NZS1gtY3NhTWMxVlF",
+      "title": "10.13股市早8点丨银行股呱呱叫·科技牛嗷嗷叫_证券要闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14SXNkdWhCeGZzaEhMZzkzUEpfWThta1hUcjVoRENhU2lOMnFXbDcxSVl3Q1Bfa0tQMVl0SWJKdjluTFNibFVVakJ",
       "source_url": "http://news.cnfol.com",
       "source": "中金在线"
     },
     {
-      "title": "AI重塑中国股市结构高盛：中国AI企业盈利优势显著外资仍低配_市场分析",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pNVoySzhuOEtkTHJ4VlA1UlgzZjdmOHJYLXI5UGI3M09ucUNYS1NqZjg0eU12Y2ZVbFg1c011OVFsVjViMnkyYXl",
-      "source_url": "http://hkstock.cnfol.com",
-      "source": "中金在线"
+      "title": "利空突袭！日韩股市跳水，存储巨头集体大跌",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByT1pwTmhoSGwtNlhxZG14b2dDb1IwTi1YbkE3blJqN0ZJTXpTNm1XcjYzRFYweXdURjJpeUgwRkVyWEt1Y1VpQkQ",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经"
     }
   ]
 }

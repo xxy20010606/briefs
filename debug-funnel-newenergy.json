@@ -1,54 +1,50 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 54,
-    "trusted": 12,
+    "raw_dedup_junk": 30,
+    "trusted": 11,
     "non_trusted_top": {
-      "autohome.com.cn": 10,
-      "ne21.com": 7,
-      "sina.com.cn": 5,
-      "in-en.com": 3,
-      "sina.cn": 3,
+      "sina.com.cn": 7,
+      "autohome.com.cn": 7,
       "stockstar.com": 2,
-      "gdshe.org": 2,
-      "cpem.org.cn": 1,
-      "donews.com": 1,
-      "ditan.com": 1
+      "qinghai.gov.cn": 1,
+      "jrj.com.cn": 1,
+      "voi.id": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 12,
-    "relaxed_72h": 0,
+    "fresh1_24h": 8,
+    "page_fresh": 8,
+    "relaxed_72h": 3,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "10月12日鑫宏业涨16.36%，中欧量化动力混合A基金重仓该股",
-      "d": "sohu.com"
-    },
-    {
-      "t": "【涨停直击】逆变器龙头，“20CM”直线涨停",
-      "d": "sohu.com"
-    },
-    {
-      "t": "低碳宁德 绿意满城",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "签约！ 日本AEJ Nozu储能项目EPC合同",
+      "t": "山东烟台分布式光伏+储能产业投资项目EPC工程总承包招标项目招标公告发布",
       "d": "solarbe.com"
     },
     {
-      "t": "混动出口被“减半”， 中国车企的欧洲路怎么走",
-      "d": "gasgoo.com"
+      "t": "一文读懂构网型储能：从诞生由来到应用价值全解析（内附昱能方案）",
+      "d": "solarbe.com"
     },
     {
-      "t": "双重利好提振港股电池股 宁德时代H股重上500港元大关",
-      "d": "cls.cn"
+      "t": "新旧不对立，发展需接力（现场评论）",
+      "d": "people.com.cn"
     },
     {
-      "t": "碳酸锂价格暴跌近90%，动力电池回收行业进入洗牌深水区",
-      "d": "huxiu.com"
+      "t": "三面围剿之下，阳光电源凭什么还能活？",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "奇瑞汽车、比亚迪、上汽集团等都在抓紧研发，固态电池“上车”提速",
+      "d": "36kr.com"
+    },
+    {
+      "t": "5000 元！比亚迪 7660 杀入高端电摩电池赛道",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "国网青海电力：超级充电示范站“刷新”绿色出行新体验",
+      "d": "cpnn.com.cn"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 43,
+  "total": 36,
   "samples": [
     {
-      "title": "模型长出交互界面，「手搓」AI应用要全面退潮了？",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jZlBKMEx4ekdnNk5LYVc0VEZWeW8yRURTYU9XakxHb2UtdjZPNUpwYVBEb2luR01lQktVYm93ZlpTYnRnOFh6R3Z",
-      "source_url": "https://news.pedaily.cn",
-      "source": "投资界"
+      "title": "Meta眼镜工具包1.0存在摄像头画面冻结问题",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjJZQ2tlRkpVSmRUbEpWRmFobl9LU05uMWZJbjVOMzVJMFVIMFo1MFVseEpSWmVDaXRQRHlhYUdBeVhKRlZUaWl",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
     },
     {
-      "title": "新质生产力意见落地！海内外AI应用催化共振行业商业化落地有望加速_市场测评_市场",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FU25ZbWRZd2xWV3h3UnNPRW4wWDM4bmlfaVBkNmluekU4aU5sb2hvOEdmZUZ5M0ZaeVdGbVhPajJKNkc1M0JzZTN",
-      "source_url": "http://sc.stock.cnfol.com",
-      "source": "中金在线"
-    },
-    {
-      "title": "一周 10 万星，AI「逆向一切」，但大家不要过于兴奋",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BaS1JeW5tcHk5U0cwUERnVTBnZEVoTWhtQXlsLVVzX2dCTFIxMnkyd1IxcUlPOE4tZWxXTTFYdXppOWVKS0ZvOE1",
+      "title": "消息称OpenAI计划“复活”Sora：换赛道进军AI影视工具",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94U0NqbUxETkcyUDZCTFpiSl9jeHg2bzVrdmVDODc3T0ZSMUxvRzFJZnljWDNwTW15RHRFc2JXdHhsMUFCWFU2NGo",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
     },
     {
-      "title": "人工智能为何频频“闯祸”？",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yNDVDYmliSlRxS19LM3YtcWlxWEpmNUVtWlQ1NzRybnlaRkFwTDE2YXhjLThMSl96djRsQXFpOC15algzM2syOUc",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "AI时代的转变：无缝集成AI技术的扩展",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1za3BnU1p0al92Vl95Z21qRjlrNXlSNUFVN0RVOEZUbDhfTnJhVVNCUlNLTUhSeDlqZ3Fodks0UGEwYWp2Uy1IX3R",
+      "source_url": "https://www.ajudaily.com",
+      "source": "亚洲日报"
     },
     {
-      "title": "前程无忧：AI正在从辅助工具逐渐成为企业管理的重要能力",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjNsV2hyTm1ocHFISkxOZkYxcUdGU2NSV2NQSHVtQVROVndodHdsT2E4cnNJRGVmaW1ucTdCb053LWhqUUxmaUh",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
+      "title": "Meta推出前沿级Muse Wonder模型，AI大模型迭代速度加快丨盘前线索",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeloxS04yU1FLaDRaTlZnYzgtdjFqNFUtVWpHdUlmRnBCSHNjREdsZEhsX0dlRXQ5WnU2bGI5c1dLZFg0Z3loaG9",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
     },
     {
-      "title": "前程无忧发布2026年度典范雇主榜单，AI、人才与组织连接成为三大关键词",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vSnVhNXVZZUhGeTdzLWNQanFqWHJLTWZSbHk2QnZON215NUZmRnJGVkNyeFkzOU5BSEd5d1V4YXJJdTZ6XzdlNUQ",
-      "source_url": "https://www.shobserver.com",
-      "source": "上观新闻"
+      "title": "“AI挂在嘴边，实际一事无成”，年轻人正在被“AI登” 逼疯",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxRDlGTVQ0dDJJU3lSVmZNQXk0d1ZxM0RMNjhQTF9MWVlwTnhlMmZIcWRPSjBidXcyV1ZvWlJJcy1zMU9hRUVEcTE",
+      "source_url": "https://www.huxiu.com",
+      "source": "虎嗅网"
+    },
+    {
+      "title": "西南交大教师走进字节跳动探索教育协同创新",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtUnBPTG9FUExxOXJuUTJwcTlWdnFid0lTejBwM1o1emlHUWs3LVdUUEtfd2hjVzdJXzlVWXY3UGxZTzVaWFpLVlB",
+      "source_url": "https://news.swjtu.edu.cn",
+      "source": "西南交通大学新闻网"
     }
   ]
 }

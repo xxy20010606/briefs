@@ -2,53 +2,53 @@
   "type": "ai",
   "stages": {
     "raw_dedup_junk": 62,
-    "trusted": 11,
+    "trusted": 24,
     "non_trusted_top": {
-      "sina.com.cn": 12,
-      "techwalker.com": 5,
-      "stockstar.com": 3,
-      "sina.cn": 3,
+      "sina.com.cn": 10,
+      "pedaily.cn": 2,
       "china.com": 2,
-      "icloudnews.net": 2,
-      "cnmo.com": 2,
-      "eeo.com.cn": 2,
+      "techwalker.com": 2,
+      "mrjjxw.com": 2,
       "csdn.net": 2,
-      "80aj.com": 2
+      "ebiotrade.com": 2,
+      "sdxc.gov.cn": 1,
+      "sinopecnews.com.cn": 1,
+      "iqilu.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 10,
+    "fresh1_24h": 23,
+    "page_fresh": 17,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "车载业务占比超五成，复合增速超50%，高新兴走出业绩低谷",
-      "d": "21jingji.com"
+      "t": "工博会观察：AI从屏幕走向产线，工业大模型与机器人大脑同台竞技",
+      "d": "yicai.com"
     },
     {
-      "t": "“AI教父”杨立昆：下一代AI须理解现实世界",
-      "d": "ifeng.com"
+      "t": "AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发",
+      "d": "36kr.com"
     },
     {
-      "t": "山东人工智能垂域大模型：假如你是车间主任 你愿意用AI去炼钢吗？",
+      "t": "警惕大语言模型的“说服轰炸”",
+      "d": "36kr.com"
+    },
+    {
+      "t": "从一块GPU到一个AI应用 Token助人工智能走进千行百业",
       "d": "sohu.com"
     },
     {
-      "t": "智能体落地+1！用友金融助力国内头部城商行搭建财务智审智能体",
-      "d": "sohu.com"
-    },
-    {
-      "t": "曼朗语径大模型完成备案，合规+专业让AI更好服务自我理解",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "国产算力迈入“从1到N”放量期 科创板AI产业链业绩加速兑现",
+      "t": "DeepSeek将完成1000亿元融资",
       "d": "21jingji.com"
     },
     {
-      "t": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
-      "d": "zhidx.com"
+      "t": "28岁姚顺雨坐马化腾身旁，“AI大战”核心圈挤满90后",
+      "d": "sohu.com"
+    },
+    {
+      "t": "Meta推出前沿级Muse Wonder模型，AI大模型迭代速度加快丨盘前线索",
+      "d": "21jingji.com"
     }
   ]
 }

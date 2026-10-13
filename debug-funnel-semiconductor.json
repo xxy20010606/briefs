@@ -2,53 +2,53 @@
   "type": "semiconductor",
   "stages": {
     "raw_dedup_junk": 43,
-    "trusted": 27,
+    "trusted": 23,
     "non_trusted_top": {
-      "sina.cn": 6,
+      "moomoo.com": 3,
+      "sina.com.cn": 3,
+      "guandian.cn": 1,
+      "sinopecnews.com.cn": 1,
+      "jwview.com": 1,
+      "sina.cn": 1,
       "mydrivers.com": 1,
-      "sina.com.cn": 1,
-      "chosun.com": 1,
-      "hk01.com": 1,
-      "china.com": 1,
-      "ofweek.com": 1,
-      "infoobs.com": 1,
-      "yeeyi.com": 1,
-      "qdxin.cn": 1
+      "caus.com": 1,
+      "stockstar.com": 1,
+      "digitaltoday.co.kr": 1
     },
-    "fresh1_24h": 27,
-    "page_fresh": 19,
+    "fresh1_24h": 21,
+    "page_fresh": 18,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "韩国团队找到二维半导体生长控制方法 为未来芯片铺路",
+      "t": "开盘大涨275%，“广州第一芯”市值破千亿",
       "d": "sohu.com"
     },
     {
-      "t": "马斯克宣布Terafab芯片工厂目标年产1太瓦算力，半导体专家称实现稳定良率难度",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "助力捕捉国产芯片设计核心龙头，科创芯片设计ETF华泰柏瑞10月12日起发售",
+      "t": "全球芯片重挫！AI迈入财报高峰期，业绩验证制约科技行情，后市怎么看？",
       "d": "sohu.com"
     },
     {
-      "t": "华芯半导体光通信激光芯片技术：引领未来光通信的关键力量",
-      "d": "iccsz.com"
+      "t": "粤芯半导体成功登陆创业板：资本市场再添晶圆制造优质标的",
+      "d": "163.com"
     },
     {
-      "t": "13:47:12【半导体板块冲高回落，半导体设备ETF易方达（159558）上一",
-      "d": "cls.cn"
+      "t": "A股低开，半导体芯片领跌",
+      "d": "21jingji.com"
     },
     {
-      "t": "功率半导体再现强强合作",
-      "d": "eet-china.com"
+      "t": "华虹牵手设备四龙头！集成电路国产化提速 多股业绩倍增可期(名单)",
+      "d": "eastmoney.com"
     },
     {
-      "t": "【半导体突发】ASML，全线提价10%！半导体设备ETF招商(561980)盘中",
-      "d": "jiemian.com"
+      "t": "存储芯片巨头，跌超9%",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "半导体持续扩张，高端分析检测迎来哪些机会？",
+      "d": "10jqka.com.cn"
     }
   ]
 }
