@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 36,
+  "total": 50,
   "samples": [
     {
-      "title": "Meta眼镜工具包1.0存在摄像头画面冻结问题",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjJZQ2tlRkpVSmRUbEpWRmFobl9LU05uMWZJbjVOMzVJMFVIMFo1MFVseEpSWmVDaXRQRHlhYUdBeVhKRlZUaWl",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "消息称OpenAI计划“复活”Sora：换赛道进军AI影视工具",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94U0NqbUxETkcyUDZCTFpiSl9jeHg2bzVrdmVDODc3T0ZSMUxvRzFJZnljWDNwTW15RHRFc2JXdHhsMUFCWFU2NGo",
+      "title": "模型长出交互界面，“手搓”AI应用要全面退潮了？",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXcVBKdU0wMmJZTnh5QzZLWTlkRW5aYWpTV1UtanMwTWxsLTBHbDVuZmRNUVA5anBaRjdEQzNaX01FMm4xY1NqYml",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
     },
     {
-      "title": "AI时代的转变：无缝集成AI技术的扩展",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1za3BnU1p0al92Vl95Z21qRjlrNXlSNUFVN0RVOEZUbDhfTnJhVVNCUlNLTUhSeDlqZ3Fodks0UGEwYWp2Uy1IX3R",
-      "source_url": "https://www.ajudaily.com",
-      "source": "亚洲日报"
+      "title": "工具越来越多，会用的人没变多：AIWW 上线 'AI 使用助手 '，一句话需求直接换成工具、步骤和提",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lbjZkZFViZGp3cWQtM2MxcDJOUU1YVzRpTHFhNUZ2andHaTFJVXdaVnI5U1dwa3cycHJvTEs4Um1yenlVRzFiZm9",
+      "source_url": "https://36kr.com",
+      "source": "36 Kr"
     },
     {
-      "title": "Meta推出前沿级Muse Wonder模型，AI大模型迭代速度加快丨盘前线索",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeloxS04yU1FLaDRaTlZnYzgtdjFqNFUtVWpHdUlmRnBCSHNjREdsZEhsX0dlRXQ5WnU2bGI5c1dLZFg0Z3loaG9",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
+      "title": "计算机行业点评报告：谷歌发布通用工作智能体Gemini Agent，大厂密集切入智能体赛道_行业研究",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fcnllWEZPMWotRnhDaEhDNndkY1g4eHYtN2NJVXB2OVNuT0FxRG1jOGZpUFJ1dC1keWpwUlNnWWVTZG4zbENaLWx",
+      "source_url": "https://stock.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "“AI挂在嘴边，实际一事无成”，年轻人正在被“AI登” 逼疯",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxRDlGTVQ0dDJJU3lSVmZNQXk0d1ZxM0RMNjhQTF9MWVlwTnhlMmZIcWRPSjBidXcyV1ZvWlJJcy1zMU9hRUVEcTE",
-      "source_url": "https://www.huxiu.com",
-      "source": "虎嗅网"
+      "title": "最新财新周刊｜AI重塑金融",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wN19ndkhKVEhWdkJEZ1F5V2NNVmp2a0lVNlNtYVl2Wjg0d3JBRjZaN3ZISnpNekRHMGQ2ZUthY3Rkc2xCdmY4Nl9",
+      "source_url": "https://weekly.caixin.com",
+      "source": "财新周刊"
     },
     {
-      "title": "西南交大教师走进字节跳动探索教育协同创新",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtUnBPTG9FUExxOXJuUTJwcTlWdnFid0lTejBwM1o1emlHUWs3LVdUUEtfd2hjVzdJXzlVWXY3UGxZTzVaWFpLVlB",
-      "source_url": "https://news.swjtu.edu.cn",
-      "source": "西南交通大学新闻网"
+      "title": "DXC Technology携手LangChain，推动受治理AI智能体规模化应用",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWZlSWZTVDdoRDFYOEJNdGNmUWVzMlo5dndUazFwRERMRUZVSkdlOTRYWFVrVms2WVdKZXc0VEZibmxJSkkwaHR",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
+    },
+    {
+      "title": "企业级AI离深度应用还有很多路要走丨ToB产业观察",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lSXlySUhBWHlzRUN1VXQ3Yy0xb09TTEEwaEZKREdXRUpWR1R6bnJNTjc4aC1QaUpPblFGZGhlYjRRZS1oUnlzRnB",
+      "source_url": "https://finance.ifeng.com",
+      "source": "凤凰网财经"
     }
   ]
 }

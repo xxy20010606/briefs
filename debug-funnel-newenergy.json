@@ -1,50 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 30,
-    "trusted": 11,
+    "raw_dedup_junk": 50,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "autohome.com.cn": 7,
+      "autohome.com.cn": 13,
+      "sina.com.cn": 5,
+      "jrj.com.cn": 4,
+      "ne21.com": 4,
+      "in-en.com": 2,
+      "wedoany.com": 2,
       "stockstar.com": 2,
-      "qinghai.gov.cn": 1,
-      "jrj.com.cn": 1,
-      "voi.id": 1
+      "gessey.com": 1,
+      "sxcoal.com": 1,
+      "qinghai.gov.cn": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 8,
-    "relaxed_72h": 3,
+    "fresh1_24h": 12,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
+      "t": "Grenergy在智利获得了大约4.6亿美元的太阳能和储能融资",
+      "d": "sohu.com"
+    },
+    {
+      "t": "629项重点工程、2.4万亿投资，山西在忙什么？",
+      "d": "sohu.com"
+    },
+    {
+      "t": "国有产业资本集体入股，碳化硅企业获超亿元融资",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "阳光电源绿灰白区方案落地，AI园区供电分区治理新范式",
+      "d": "solarbe.com"
+    },
+    {
       "t": "山东烟台分布式光伏+储能产业投资项目EPC工程总承包招标项目招标公告发布",
       "d": "solarbe.com"
     },
     {
-      "t": "一文读懂构网型储能：从诞生由来到应用价值全解析（内附昱能方案）",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "新旧不对立，发展需接力（现场评论）",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "三面围剿之下，阳光电源凭什么还能活？",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "奇瑞汽车、比亚迪、上汽集团等都在抓紧研发，固态电池“上车”提速",
-      "d": "36kr.com"
+      "t": "【国际快讯】欧中车企在巴黎车展密集推出新品；欧盟协议推动中国车企加速欧洲本土建厂",
+      "d": "gasgoo.com"
     },
     {
       "t": "5000 元！比亚迪 7660 杀入高端电摩电池赛道",
       "d": "eet-china.com"
-    },
-    {
-      "t": "国网青海电力：超级充电示范站“刷新”绿色出行新体验",
-      "d": "cpnn.com.cn"
     }
   ]
 }

@@ -1,40 +1,40 @@
 {
   "type": "semiconductor",
-  "total": 43,
+  "total": 46,
   "samples": [
     {
-      "title": "开盘大涨275%，“广州第一芯”市值破千亿",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbW54Zmh5UlRvVkZJM3JLVlQ0OGpSSlhXb3hIeFBjNUJ4MWo5Tk04QWNhd21COXVzTmdPaHZBS1JENGFxeWtBNGI",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "title": "创业板迎来“广州第一芯”，粤芯半导体上市首日涨超223%，“阿里系”浮盈超4亿元",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYXJldUdyZENybmVmekZXTkIxTGNLNXVoYTF3VFVkZU13TTF0ZWF6MXYtRFlDNzR1QWNob09nLUFuVGk1M3BWd1B",
+      "source_url": "https://www.tfcaijing.com",
+      "source": "时代财经"
     },
     {
-      "title": "全球芯片重挫！AI迈入财报高峰期，业绩验证制约科技行情，后市怎么看？",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2pBUFRGRUsyakVHZWxlSlk0NFNzMVJDWlZlRmRScnFnOVpkRWJZaGpmLU90S2NHaWc5OWFYQTdKQ1JQUzd1VjF",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "title": "麒麟归来三年，华为终端发货破亿",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LMkNuMmlIa3loNTJEMlFTOXQ3U1ZyNDBzSUNxS3dZSm5PUFp1RzRwVnpza1owN25tZ1B5Ri1CX19PR0tWc0c5T0R",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
     },
     {
-      "title": "“广州第一芯”开盘大涨，中一签最多赚超1.6万元",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOczhHak5MR2t6ell4eDdFWTlMYlZIeUY1Qmc3T1E4QXRFR0tGR0kweUFCTnk5YWVSZk1uV0xLT0RXcFdQT2wtYVJ",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "title": "“广州第一芯”！广汽参投企业粤芯半导体成功上市",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GRGVwWjhaQ1ZLTGtndmw5amJ0dVY1bXBNTlkzQ1V0WWlTUmh6MFF4Y1lEOEZmeHNlNzljZ3pZNG1mVGszakZQWWZ",
+      "source_url": "https://news.10jqka.com.cn",
+      "source": "同花顺财经"
     },
     {
-      "title": "粤芯半导体成功登陆创业板：资本市场再添晶圆制造优质标的",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5WWlwcDNneW5abW5xSWN0NTZhRlU2OExTekRPVjI0NG5NWEQ0NW8yWW1jeHZYU3RfVDFNRnJDR3dBQVBLbjlfYWV",
-      "source_url": "https://www.163.com",
-      "source": "手机网易网"
+      "title": "工博会现场！算力、存力、边缘计算，听到哪些信号？",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2anZJUFZ0UmFMbmgyMWlkb1JuT0dJVkpKUUJTZVlSMkUxQS1XR1pvdEdWeVY3YkUxQ2VwZi0tNmJPUVRkOG1QTUN",
+      "source_url": "https://user.guancha.cn",
+      "source": "风闻"
     },
     {
-      "title": "A股低开，半导体芯片领跌",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbkJqdGtwYUZGWUFRRVVpaVV0aUJpMlhLamtQbi1KN1gxQ3AzMUNSaTlJVUZUeDcxaUVLWE9YOTFUSExBTGRNcTV",
+      "title": "华为透露下一代麒麟芯片进度符合预期，现场展示逻辑折叠实现路径",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdjVzRHpTWGdQeXZGY1pTQWdyb25zeUVqQ3BKcDVaUllLVDh6NnpJeDhWcTZPSEtwS1BVaGcwS2Rkb0h2ak1nNFk",
       "source_url": "https://www.21jingji.com",
       "source": "21财经"
     },
     {
-      "title": "粤芯半导体创业板上市 开盘涨274.69%报45元",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JMDVOS3VyVFlfR3hkS09MREtva3pmSDRSWUxHaFRDWkVLaHlPbi1VaG5ZUlpVZ1Mxckk4cEVzdVFrV3Q5S01ueGx",
+      "title": "华微电子：业绩说明会上表示未来五年聚焦功率半导体及相关产业",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yM0NsbVNMR0huLUZpWmZaRkRHdm9odnJUSTVtWlJYak9oY1E0UmdLNzFVSFAzQzNrWGpKVVRtWjFRbEQyRjg1czh",
       "source_url": "https://www.guandian.cn",
       "source": "观点网"
     }

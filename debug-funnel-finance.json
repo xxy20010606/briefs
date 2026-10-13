@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 17,
+    "raw_dedup_junk": 62,
+    "trusted": 32,
     "non_trusted_top": {
-      "moomoo.com": 9,
-      "sina.cn": 3,
-      "futunn.com": 3,
-      "hstong.com": 2,
-      "on.cc": 2,
-      "longbridge.com": 2,
+      "moomoo.com": 11,
+      "sina.cn": 4,
+      "futunn.com": 4,
+      "sina.com.cn": 1,
+      "orientaldaily.com.my": 1,
       "investing.com": 1,
-      "stockstar.com": 1,
+      "kuai.media": 1,
       "epochtimes.com": 1,
-      "cryptopolitan.com": 1
+      "stnn.cc": 1,
+      "dahecube.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 9,
+    "fresh1_24h": 31,
+    "page_fresh": 27,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "港股开盘| 恒指低开0.41% 医药及科技股走低_股市直播_市场",
+      "t": "破发股君实生物跌4.27% 国泰海通保荐上市2募资共86亿_证券要闻",
       "d": "cnfol.com"
     },
     {
-      "t": "10.13股市早8点丨银行股呱呱叫·科技牛嗷嗷叫_证券要闻",
+      "t": "破发股华大智造跌4.93% 2022年上市募36亿中信证券保荐_股市聚焦_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "日韩股市开盘跳水",
+      "t": "高盛：AI改写中国股市格局",
       "d": "21jingji.com"
     },
     {
-      "t": "10月12日美股三大指数收盘涨跌不一，存储光通信板块走弱丨美股复盘",
-      "d": "eastmoney.com"
+      "t": "多家知名外资机构，一致发声看好A股",
+      "d": "21jingji.com"
     },
     {
-      "t": "美股存储、光通信暴跌 中概股多数下跌",
-      "d": "eastmoney.com"
+      "t": "A股：大家做好准备了，3800点位置，股市很可能有大变盘！",
+      "d": "163.com"
     },
     {
-      "t": "港股早报｜新能源汽车增值税出口退税率将下调 热门中概股多数走低",
-      "d": "cls.cn"
+      "t": "美股讯号 | 沃尔玛股价超越奢侈品股，反映消费者预算收紧趋势 ｜#美股资讯# #",
+      "d": "sohu.com"
     },
     {
-      "t": "私募大佬梁宏开炮：某些险资巨头追涨杀跌，为啥要放这狠话？",
-      "d": "cls.cn"
+      "t": "美股讯号 | 沃尔玛衰退信号引发美联储降息预期 ｜#美股资讯# #沃尔玛# #市",
+      "d": "sohu.com"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 62,
-    "trusted": 24,
+    "raw_dedup_junk": 72,
+    "trusted": 23,
     "non_trusted_top": {
-      "sina.com.cn": 10,
-      "pedaily.cn": 2,
-      "china.com": 2,
-      "techwalker.com": 2,
-      "mrjjxw.com": 2,
-      "csdn.net": 2,
-      "ebiotrade.com": 2,
-      "sdxc.gov.cn": 1,
-      "sinopecnews.com.cn": 1,
-      "iqilu.com": 1
+      "sina.com.cn": 12,
+      "techwalker.com": 5,
+      "stockstar.com": 5,
+      "icloudnews.net": 3,
+      "ac.cn": 2,
+      "mydrivers.com": 2,
+      "dzwww.com": 1,
+      "nengyuanjie.net": 1,
+      "sfccn.com": 1,
+      "e23.cn": 1
     },
-    "fresh1_24h": 23,
-    "page_fresh": 17,
+    "fresh1_24h": 22,
+    "page_fresh": 20,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "工博会观察：AI从屏幕走向产线，工业大模型与机器人大脑同台竞技",
-      "d": "yicai.com"
+      "t": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "d": "qbitai.com"
     },
     {
-      "t": "AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发",
-      "d": "36kr.com"
-    },
-    {
-      "t": "警惕大语言模型的“说服轰炸”",
-      "d": "36kr.com"
-    },
-    {
-      "t": "从一块GPU到一个AI应用 Token助人工智能走进千行百业",
+      "t": "AI重塑会展新业态，丞华会展大模型亮相AIIC2026助交易",
       "d": "sohu.com"
     },
     {
-      "t": "DeepSeek将完成1000亿元融资",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "28岁姚顺雨坐马化腾身旁，“AI大战”核心圈挤满90后",
+      "t": "当AI走进诊室与养老院，社保体系如何接住这场“大考”？",
       "d": "sohu.com"
     },
     {
-      "t": "Meta推出前沿级Muse Wonder模型，AI大模型迭代速度加快丨盘前线索",
-      "d": "21jingji.com"
+      "t": "“人工智能+农业”赋能乡村振兴，浪潮智慧科技亮相2026山东（国际）农产品交易会",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+      "d": "zhidx.com"
+    },
+    {
+      "t": "AI人工智能ETF平安(512930)邀你开锦囊答题分红包，国产算力商业化提速，",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "金珵科技完成A轮融资，上海交大教授李金金重新定义工业AI",
+      "d": "thepaper.cn"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "type": "entertainment",
-  "total": 53,
+  "total": 59,
   "samples": [
+    {
+      "title": "一部越南电影票房惨淡，最终票房惨败。",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RSC1vVjJFMmFhMkJsV0JveUxVd19mSU02b1l6LUtodXlwY1R1QU9UZ3NYRTJlcEJYNldyYUxyTUxieXVudFN5MTB",
+      "source_url": "https://www.vietnam.vn",
+      "source": "Vietnam.vn"
+    },
+    {
+      "title": "《刺客（们）》上映第4周仍居榜首……跨越争议实现长期票房佳绩【Star Issue】",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OOWRTclhEQmpjMEM2RE5IQlVOSmJzalcycVlOUXVJSUZYVjdlWkZ4RUg3a1hvSG0xRXRudTM5ZkYzT1NTZWFPdW5",
+      "source_url": "https://www.starnewskorea.com",
+      "source": "스타뉴스"
+    },
+    {
+      "title": "《功夫女足》开始票房分红，周星驰到手2.4亿，着手开发续集",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX1RlY3dpTnFjQ01DRHB4QU5ZTm5rVGNINl9hZjduS0JXRUI5MFNMTG5zQURnc3FzYVEwNVByRGNZTnBwTHhXRXV",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
+    },
+    {
+      "title": "历史争议难挡票房热度 《暗杀者（们）》重登韩国票房榜首",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBORHdFMGVvMHBHY0NJQ2ZDQmY0UjJrZkRPZjJjRk1WMl8td1g3UGdCcllqcllqVjBZaEtfaGJvWFYxYTFwMGhTMzF",
+      "source_url": "https://www.ajudaily.com",
+      "source": "亚洲日报"
+    },
     {
       "title": "陈思诚执导电影《神探之痕迹》上映12天累计票房破5亿 累计观影人次1399.8万",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVFGRWVsZ3c2RVpaNDFzWGp5VWpocThNS2I1YnJwQXBwVlg1OVRWajlGd0ExRHFBUGxtSDY0bXh6amFKdkZ6b3R",
@@ -13,30 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMMXM4X3c5QVZ6cE9JYUVEb0RSSTdUNVNPMTM4ckVFNE85dEptUWR2VERDamZwTmZyellBNEtpcW1FRGd3SE9GaDB",
       "source_url": "http://www.yule.com.cn",
       "source": "中国娱乐网"
-    },
-    {
-      "title": "\"亲眼观看并自行判断\"争议后观众增加，《暗杀者（们）》实际观影观众评分亦上升 [Star Issue",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PVEgtQkZ1X2NGVTdrb1o4d0o3ZXhRYVNvTE1Pc2oyNGlKYmNkYmVqT1hzUDhrREg1eVV3TzJhWkFOZVprWFY2X2p",
-      "source_url": "https://www.starnewskorea.com",
-      "source": "스타뉴스"
-    },
-    {
-      "title": "#挖掘者亏损#《综艺》报道：汤姆·克鲁斯主演、伊纳里图导演新片《挖掘者》如今院线上映亏损预估达到2.",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PYXk5Rjd3NXhoUXNLdHBHRTJYUlQ3VUYtakVEbUZ0YU95ZktwbEp4YlU4QXJsT3dzV0k3c0RTTGQxWmp4M0VYTHp",
-      "source_url": "https://www.sina.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "《街霸》即将公映掀电视游戏拍摄真人版热潮历年来边部最收得？｜即时新闻｜缤FUN星网｜on.cc东网",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMllQWjRfdGkxT09XYUd6TUlPTWRzZzRjdEpxMEVDZ0JSbGdjUUtWSXZPX2tkNW0tajVlWURpN3UyblR6UEhJa0V",
-      "source_url": "https://hk.on.cc",
-      "source": "on.cc東網"
-    },
-    {
-      "title": "《挖掘者》虧損估2.45億美元 或成今年最慘票房",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2WDJjdVhRdExxUkVSM0k3RWhrS0RPR0RVLWVnVkFkdlpvaThLUW1VSVJhZmVJTW5kMWE4ZGlnbTFrSVNTZlZuNl9",
-      "source_url": "https://www.epochtimes.com",
-      "source": "大紀元"
     }
   ]
 }

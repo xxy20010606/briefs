@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 62,
+  "total": 72,
   "samples": [
     {
-      "title": "工博会观察：AI从屏幕走向产线，工业大模型与机器人大脑同台竞技",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6d2NqYTBNOUNGLU9jT3Zwc0JtdXJXVUtRRF9JaHE2XzJ1d2ZrSnVoU3F4bk90THp3QW5oZkk2U0w0TWpHUjc2SnN",
-      "source_url": "https://www.yicai.com",
-      "source": "第一财经"
+      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9falZZLVY1VlNpWGJ0MEF1UnVYWks4YTJvWU42blFkQlh4TENjUXRQMkFHTnpWMHJVUlRhbVlnSFRuUGhCNzdIVi0",
+      "source_url": "https://www.qbitai.com",
+      "source": "量子位"
     },
     {
-      "title": "AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsRjRqbm9HRnNkMnJSSzVVZEFPa1dGNEFzRXNMTlo1V1V3NEMyWUVsbTlfN2pxX1RmdnlxcGVfMlFSVmh3TTZ0U0p",
-      "source_url": "https://www.36kr.com",
-      "source": "36 Kr"
-    },
-    {
-      "title": "警惕大语言模型的“说服轰炸”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ObUVDc2xfNWE0eTZjMUlRTl9hMmN1N0dITklRaUlMUVRDNExMUHM3SFQzTmFUemxhOEZnR19vZ3BHUmRfVVZ3Mnl",
-      "source_url": "https://www.36kr.com",
-      "source": "36 Kr"
-    },
-    {
-      "title": "在数字浪潮中赓续中华文脉",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02Q3RhcWR2emo3VG05akJlMDdKOG0wdWFTNWxvNEt6dlI4QjhUSmw4T1pnd29wd01aYWttZGxHYy1NOFlGankyMEt",
-      "source_url": "http://www.sdxc.gov.cn",
-      "source": "山东宣传网"
-    },
-    {
-      "title": "智赋油气田 数启新范式",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMkFhZ2cxTlBqb014ZnozMmNTb3psTG81cDgzUE84cUhmRVM0Y0dReGxFbFFDVUtxRGxlV0F4dlhCLWdqQkhLMm5",
-      "source_url": "http://www.sinopecnews.com.cn",
-      "source": "中国石化新闻网"
-    },
-    {
-      "title": "从一块GPU到一个AI应用 Token助人工智能走进千行百业",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmdKUmJ0b0NaSVBpTmdMZUU3LUw4MG1WX3ppTy1CaHpTLVhqTXl5d1VZYnlZSW5tVl9SMFNqQmlCWXczY29nUDR",
+      "title": "AI重塑会展新业态，丞华会展大模型亮相AIIC2026助交易",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2pYdXFCMHpFc1FMLVZwMml3eFRxVmxldS1jWktiN2lqX0xDcWk1eW5iTVBrWXBwZnBVRGI0TWIyLURxZjcxdUd",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
+    },
+    {
+      "title": "当AI学会\"该说的说，该省的省\"：一场关于思维压缩的几何实验",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxaVhkZmlQcE96WVJLSWY3VnY2VzN4Vk1yek1LOF95a19fbnNTWmlBdk5BNkstNDZpTGtiajhTemkzNTFrZDBKa0J",
+      "source_url": "https://www.techwalker.com",
+      "source": "科技行者"
+    },
+    {
+      "title": "综合得分全国第一 成都武侯企业登顶医疗大模型榜单",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04Qm44MG04YWtQbmdkWWFJSUI5NHlqM3ZxaVdyT3lfd1BmSUlYRkFKY1N0NkdWdGZHcDVfZU1DVjdnaUxhdmJheDN",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "山东的大模型有点“轴”_山东新闻",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05SG8wWDQ4N3VCMEpJcE9QOHJnQkNwSVZZbHFDRTVfcGVPVWRPbDJlZGRQd2ViUnRoeVlNOHRYbXdEM1FxTjlmbF9",
+      "source_url": "https://sd.dzwww.com",
+      "source": "大众网"
+    },
+    {
+      "title": "大江奔流有AI：数智赋能“美丽澜沧江电力大走廊”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5peVF5TktHTUl4QndlOFNKRzFyZ2xGdkVEQmllbHdLaXh6dllvbXVmaDhpcExTSVF6eVRrNVNfNlYxM2ZZRkVOZko",
+      "source_url": "https://www.nengyuanjie.net",
+      "source": "能源界"
     }
   ]
 }

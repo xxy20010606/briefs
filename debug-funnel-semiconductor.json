@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 23,
+    "raw_dedup_junk": 46,
+    "trusted": 27,
     "non_trusted_top": {
-      "moomoo.com": 3,
-      "sina.com.cn": 3,
+      "caiwennews.com": 2,
+      "sina.cn": 2,
+      "tfcaijing.com": 1,
       "guandian.cn": 1,
-      "sinopecnews.com.cn": 1,
-      "jwview.com": 1,
-      "sina.cn": 1,
-      "mydrivers.com": 1,
-      "caus.com": 1,
-      "stockstar.com": 1,
-      "digitaltoday.co.kr": 1
+      "moomoo.com": 1,
+      "mrjjxw.com": 1,
+      "sina.com.cn": 1,
+      "nikkei.com": 1,
+      "dahecube.com": 1,
+      "ajudaily.com": 1
     },
-    "fresh1_24h": 21,
-    "page_fresh": 18,
+    "fresh1_24h": 27,
+    "page_fresh": 25,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "开盘大涨275%，“广州第一芯”市值破千亿",
-      "d": "sohu.com"
-    },
-    {
-      "t": "全球芯片重挫！AI迈入财报高峰期，业绩验证制约科技行情，后市怎么看？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "粤芯半导体成功登陆创业板：资本市场再添晶圆制造优质标的",
-      "d": "163.com"
-    },
-    {
-      "t": "A股低开，半导体芯片领跌",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "华虹牵手设备四龙头！集成电路国产化提速 多股业绩倍增可期(名单)",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "存储芯片巨头，跌超9%",
+      "t": "麒麟归来三年，华为终端发货破亿",
       "d": "ifeng.com"
     },
     {
-      "t": "半导体持续扩张，高端分析检测迎来哪些机会？",
+      "t": "“广州第一芯”！广汽参投企业粤芯半导体成功上市",
       "d": "10jqka.com.cn"
+    },
+    {
+      "t": "华为透露下一代麒麟芯片进度符合预期，现场展示逻辑折叠实现路径",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "华为首次详解麒麟9050“逻辑折叠”技术",
+      "d": "sohu.com"
+    },
+    {
+      "t": "开盘大涨超270%！从粤芯半导体上市看广东的“强芯”路",
+      "d": "sohu.com"
+    },
+    {
+      "t": "华为：2023 年以来，基于麒麟芯片的终端产品累计发货已经过亿",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "华微电子：未来五年将聚焦功率半导体及相关产业",
+      "d": "eastmoney.com"
     }
   ]
 }
