@@ -1,54 +1,50 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 13,
+    "raw_dedup_junk": 29,
+    "trusted": 7,
     "non_trusted_top": {
-      "autohome.com.cn": 13,
-      "sina.com.cn": 5,
-      "jrj.com.cn": 4,
-      "ne21.com": 4,
-      "in-en.com": 2,
-      "wedoany.com": 2,
-      "stockstar.com": 2,
-      "gessey.com": 1,
-      "sxcoal.com": 1,
-      "qinghai.gov.cn": 1
+      "autohome.com.cn": 11,
+      "sina.com.cn": 7,
+      "energytrend.cn": 1,
+      "wedoany.com": 1,
+      "dahecube.com": 1,
+      "indexbox.io": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 12,
-    "relaxed_72h": 0,
+    "fresh1_24h": 7,
+    "page_fresh": 1,
+    "relaxed_72h": 6,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
+    {
+      "t": "光伏与储能大会即将举办，可再生能源装机规模稳步扩大，这些股频获机构调研",
+      "d": "cls.cn"
+    },
+    {
+      "t": "【新时代 新征程 新伟业·高质量发展调研行】光伏电站无人值守的实践之路",
+      "d": "sohu.com"
+    },
+    {
+      "t": "南通通州：绘就跨江融合高质量发展新图景",
+      "d": "sohu.com"
+    },
     {
       "t": "Grenergy在智利获得了大约4.6亿美元的太阳能和储能融资",
       "d": "sohu.com"
     },
     {
-      "t": "629项重点工程、2.4万亿投资，山西在忙什么？",
+      "t": "比亚迪旗舰超豪华电动轿车谍照曝光，配对开门设计",
       "d": "sohu.com"
     },
     {
-      "t": "国有产业资本集体入股，碳化硅企业获超亿元融资",
-      "d": "eet-china.com"
+      "t": "比亚迪第15万台新能源商用车下线 增长重心向卡车业务倾斜",
+      "d": "sohu.com"
     },
     {
-      "t": "阳光电源绿灰白区方案落地，AI园区供电分区治理新范式",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "山东烟台分布式光伏+储能产业投资项目EPC工程总承包招标项目招标公告发布",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "【国际快讯】欧中车企在巴黎车展密集推出新品；欧盟协议推动中国车企加速欧洲本土建厂",
-      "d": "gasgoo.com"
-    },
-    {
-      "t": "5000 元！比亚迪 7660 杀入高端电摩电池赛道",
-      "d": "eet-china.com"
+      "t": "2026北京风能展储能板块看点前瞻",
+      "d": "sohu.com"
     }
   ]
 }

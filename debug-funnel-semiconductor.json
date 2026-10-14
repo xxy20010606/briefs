@@ -1,53 +1,53 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 46,
-    "trusted": 27,
+    "raw_dedup_junk": 47,
+    "trusted": 28,
     "non_trusted_top": {
-      "caiwennews.com": 2,
-      "sina.cn": 2,
-      "tfcaijing.com": 1,
-      "guandian.cn": 1,
+      "sina.com.cn": 6,
+      "stockstar.com": 3,
+      "guandian.cn": 2,
+      "guanhai.com.cn": 1,
+      "chosun.com": 1,
+      "awtmt.com": 1,
+      "eastmoney.com": 1,
+      "pjtime.com": 1,
       "moomoo.com": 1,
-      "mrjjxw.com": 1,
-      "sina.com.cn": 1,
-      "nikkei.com": 1,
-      "dahecube.com": 1,
-      "ajudaily.com": 1
+      "tradingkey.com": 1
     },
-    "fresh1_24h": 27,
-    "page_fresh": 25,
-    "relaxed_72h": 0,
+    "fresh1_24h": 21,
+    "page_fresh": 9,
+    "relaxed_72h": 14,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "麒麟归来三年，华为终端发货破亿",
-      "d": "ifeng.com"
+      "t": "芯片大厂，都在收购MCU厂商",
+      "d": "eet-china.com"
     },
     {
-      "t": "“广州第一芯”！广汽参投企业粤芯半导体成功上市",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "华为透露下一代麒麟芯片进度符合预期，现场展示逻辑折叠实现路径",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "华为首次详解麒麟9050“逻辑折叠”技术",
+      "t": "“广州第一芯”股东名单里藏着广东怎样的造芯雄心",
       "d": "sohu.com"
     },
     {
-      "t": "开盘大涨超270%！从粤芯半导体上市看广东的“强芯”路",
+      "t": "美股成交额前20：存储芯片板块整体承压 美光科技跌超3%",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "上峰材料今年第三个投资标的成功上市！",
       "d": "sohu.com"
     },
     {
-      "t": "华为：2023 年以来，基于麒麟芯片的终端产品累计发货已经过亿",
-      "d": "10jqka.com.cn"
+      "t": "公告全知道",
+      "d": "cls.cn"
     },
     {
-      "t": "华微电子：未来五年将聚焦功率半导体及相关产业",
+      "t": "光电智造｜先进芯片工艺拆解：晶体管究竟如何一层层搭建而成",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "深市半导体领域再添“精兵” 产业链韧性持续增强",
       "d": "eastmoney.com"
     }
   ]

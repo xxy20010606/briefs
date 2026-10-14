@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 72,
-    "trusted": 23,
+    "raw_dedup_junk": 57,
+    "trusted": 25,
     "non_trusted_top": {
       "sina.com.cn": 12,
-      "techwalker.com": 5,
-      "stockstar.com": 5,
-      "icloudnews.net": 3,
-      "ac.cn": 2,
-      "mydrivers.com": 2,
+      "stockstar.com": 2,
+      "sina.cn": 2,
+      "csdn.net": 1,
+      "pedaily.cn": 1,
       "dzwww.com": 1,
-      "nengyuanjie.net": 1,
-      "sfccn.com": 1,
-      "e23.cn": 1
+      "guandian.cn": 1,
+      "pjtime.com": 1,
+      "ichaoqi.com": 1,
+      "voc.com.cn": 1
     },
-    "fresh1_24h": 22,
-    "page_fresh": 20,
-    "relaxed_72h": 0,
+    "fresh1_24h": 21,
+    "page_fresh": 6,
+    "relaxed_72h": 18,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-      "d": "qbitai.com"
+      "t": "AI产品关停潮持续：2025年全球至少392个AI工具停服，腾讯元器等产品相继退",
+      "d": "huxiu.com"
     },
     {
-      "t": "AI重塑会展新业态，丞华会展大模型亮相AIIC2026助交易",
-      "d": "sohu.com"
-    },
-    {
-      "t": "当AI走进诊室与养老院，社保体系如何接住这场“大考”？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "“人工智能+农业”赋能乡村振兴，浪潮智慧科技亮相2026山东（国际）农产品交易会",
+      "t": "10个模型进全国50强，山东凭什么？",
       "d": "ifeng.com"
     },
     {
-      "t": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
-      "d": "zhidx.com"
+      "t": "大模型下半场，轮到工业大省“亮牌”了",
+      "d": "sohu.com"
     },
     {
-      "t": "AI人工智能ETF平安(512930)邀你开锦囊答题分红包，国产算力商业化提速，",
-      "d": "jiemian.com"
+      "t": "山东“数字工友”上岗！大模型变身车间“熟手”",
+      "d": "sohu.com"
     },
     {
-      "t": "金珵科技完成A轮融资，上海交大教授李金金重新定义工业AI",
-      "d": "thepaper.cn"
+      "t": "“生产力智能体沙龙”完整议程公布！这次不讲PPT，只让AI直接干活！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "AI融入F1赛事！谷歌微软等已下场 红牛车队利用智能体辅助比赛决策",
+      "d": "cls.cn"
+    },
+    {
+      "t": "Meta打出AI翻身牌：新模型并肩行业巨头 暗示接下来还要加速",
+      "d": "cls.cn"
     }
   ]
 }

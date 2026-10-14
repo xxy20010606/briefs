@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 59,
+    "raw_dedup_junk": 56,
     "trusted": 24,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "vietnam.vn": 2,
-      "starnewskorea.com": 2,
-      "yule.com.cn": 2,
+      "sina.cn": 7,
+      "sina.com.cn": 4,
+      "china.com": 3,
       "hupu.com": 2,
-      "sina.cn": 2,
-      "zhengguannews.cn": 2,
-      "china.com": 2,
       "yzwb.net": 2,
-      "workercn.cn": 2
+      "360.com": 2,
+      "bjd.com.cn": 2,
+      "pjtime.com": 1,
+      "kagit.kr": 1,
+      "hk01.com": 1
     },
-    "fresh1_24h": 24,
-    "page_fresh": 23,
-    "relaxed_72h": 0,
+    "fresh1_24h": 15,
+    "page_fresh": 3,
+    "relaxed_72h": 20,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "《功夫女足》开始票房分红，周星驰到手2.4亿，着手开发续集",
+      "t": "电影《给阿嬷的情书》在海外热度持续升高——这些细节打动海外观众的心",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "AI漫剧行情升温 探访影视行业生产变局",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "呈现文化交流进行时——评纪录片《繁花满途》",
+      "d": "gmw.cn"
+    },
+    {
+      "t": "《生化危机：爆发夜》票房领跑！惊悚片扎堆上映，中小成本如何以小博大？",
       "d": "sohu.com"
     },
     {
-      "t": "陈思诚执导电影《神探之痕迹》上映12天累计票房破5亿 累计观影人次1399.8万",
+      "t": "就在普陀！2026全民电竞嘉年华即将启幕",
       "d": "sohu.com"
     },
     {
-      "t": "“科创海淀，竞启新章”电竞赛事在北京清河万象汇举办",
+      "t": "双场联动竞燃海淀，群众性电竞赛事激活文体消费新活力",
       "d": "stdaily.com"
     },
     {
-      "t": "时代风尚——2026文艺志愿者在行动特别节目在成都上演",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "艾丽斯·​梅尔文：赞美身处自然时简单却深远的快乐｜专访",
-      "d": "bjnews.com.cn"
-    },
-    {
-      "t": "AI微短剧出海，漳州如何卡位新风口？",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "电视剧《蒸蒸日上》以烟火写法理",
-      "d": "xinhuanet.com"
+      "t": "首部AI长片电影《三星堆：未来往事》定档，博纳影业连续2个交易日涨停",
+      "d": "eastmoney.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 50,
+  "total": 30,
   "samples": [
     {
-      "title": "模型长出交互界面，“手搓”AI应用要全面退潮了？",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXcVBKdU0wMmJZTnh5QzZLWTlkRW5aYWpTV1UtanMwTWxsLTBHbDVuZmRNUVA5anBaRjdEQzNaX01FMm4xY1NqYml",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "工具越来越多，会用的人没变多：AIWW 上线 'AI 使用助手 '，一句话需求直接换成工具、步骤和提",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lbjZkZFViZGp3cWQtM2MxcDJOUU1YVzRpTHFhNUZ2andHaTFJVXdaVnI5U1dwa3cycHJvTEs4Um1yenlVRzFiZm9",
-      "source_url": "https://36kr.com",
-      "source": "36 Kr"
-    },
-    {
-      "title": "计算机行业点评报告：谷歌发布通用工作智能体Gemini Agent，大厂密集切入智能体赛道_行业研究",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fcnllWEZPMWotRnhDaEhDNndkY1g4eHYtN2NJVXB2OVNuT0FxRG1jOGZpUFJ1dC1keWpwUlNnWWVTZG4zbENaLWx",
-      "source_url": "https://stock.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "最新财新周刊｜AI重塑金融",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wN19ndkhKVEhWdkJEZ1F5V2NNVmp2a0lVNlNtYVl2Wjg0d3JBRjZaN3ZISnpNekRHMGQ2ZUthY3Rkc2xCdmY4Nl9",
-      "source_url": "https://weekly.caixin.com",
-      "source": "财新周刊"
-    },
-    {
-      "title": "DXC Technology携手LangChain，推动受治理AI智能体规模化应用",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWZlSWZTVDdoRDFYOEJNdGNmUWVzMlo5dndUazFwRERMRUZVSkdlOTRYWFVrVms2WVdKZXc0VEZibmxJSkkwaHR",
+      "title": "两党机器人委员会警告：美国与中国的部署差距正在扩大",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNXZVOXZ2MG45YndCOHhjdy1kaDlkcWxSbjNhc0ZVcnhnV1dJTUV5ZGdxZXE4UVVmcGdia1RIeXhNSkNKWkVkRXV",
       "source_url": "https://www.unite.ai",
       "source": "Unite.AI"
     },
     {
       "title": "企业级AI离深度应用还有很多路要走丨ToB产业观察",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lSXlySUhBWHlzRUN1VXQ3Yy0xb09TTEEwaEZKREdXRUpWR1R6bnJNTjc4aC1QaUpPblFGZGhlYjRRZS1oUnlzRnB",
-      "source_url": "https://finance.ifeng.com",
-      "source": "凤凰网财经"
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQkwzRkh4TWhxNVh0R0ZGS1Q2QUgwS0taelg0VEcxcTk3WmdaMm84YlVSdTBQLXFGRTRLRUxOblg0aUswMzcta1V",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "Google Play 让用户可以在自己的设备上私密运行氛围编程应用",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVHBLSWd4dEk4NWZxQmplcGJ2UWtCQWo0bkZ2b3U2QjRGMF9FOEYzczY5Tk43TWcxeFY1RnlYeVB3YnpPQmNwYjN",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
+    },
+    {
+      "title": "Google开放Google Play个人AI应用 将AI编写的Android应用安装到手机",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DeGl5ME5qbkZUbjR5R2hqdWF3UE5DWVlHY3hHOTF2SG52MlVVNTdzUWtTdU1KX0tSb3hBd01yTzFvNFI1YmhNVWd",
+      "source_url": "https://www.cnbeta.com.tw",
+      "source": "cnBeta.COM"
+    },
+    {
+      "title": "温州首个台湾青年OPC社区揭牌！",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ESEpqb05hbkM5QmJOYmlVLTMyQjVaNzZrdnc1OHRHSjNQWGk0Z2JVLWo3UGtFZHprbGZQTFJLYjA0YldTRDg1TDc",
+      "source_url": "https://www.66wz.com",
+      "source": "温州新闻"
+    },
+    {
+      "title": "手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80Qk81OUE1NlVtSXVHLTlqcDhCVmp4ckstWUVHR1pOUnZOS0tnY25RaWpFc2hQWGhjc0ctQk82clRaZGt2UGRUdEx",
+      "source_url": "https://www.infoq.cn",
+      "source": "InfoQ-CN"
     }
   ]
 }

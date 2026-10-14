@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 22,
+    "raw_dedup_junk": 30,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "unite.ai": 3,
-      "panewslab.com": 3,
-      "stockstar.com": 2,
-      "csdn.net": 2,
-      "icloudnews.net": 1,
-      "ajudaily.com": 1,
-      "swjtu.edu.cn": 1,
-      "xiongan.gov.cn": 1,
-      "on.cc": 1
+      "unite.ai": 2,
+      "sina.com.cn": 2,
+      "zhiding.cn": 2,
+      "ac.cn": 2,
+      "cnbeta.com.tw": 1,
+      "66wz.com": 1,
+      "sina.cn": 1,
+      "com.sg": 1,
+      "smarthey.com": 1,
+      "secrss.com": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 19,
-    "relaxed_72h": 0,
+    "fresh1_24h": 12,
+    "page_fresh": 4,
+    "relaxed_72h": 7,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "工具越来越多，会用的人没变多：AIWW 上线 'AI 使用助手 '，一句话需求直",
-      "d": "36kr.com"
-    },
-    {
-      "t": "企业级AI离深度应用还有很多路要走丨ToB产业观察",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "AI人工智能ETF平安(512930)邀你开锦囊答题分红包，国产算力商业化提速，",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "见证行业五年变迁｜元保联合清华五道口发布《互联网保险消费者五年洞察》：43%消费",
-      "d": "sohu.com"
-    },
-    {
-      "t": "软件又“死”一次？一款AI工具突然爆火，号称能逆向还原任何软件",
-      "d": "sohu.com"
-    },
-    {
-      "t": "Meta推出前沿级Muse Wonder模型，AI大模型迭代速度加快丨盘前线索",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "“AI挂在嘴边，实际一事无成”，年轻人正在被“AI登” 逼疯",
+      "t": "AI产品关停潮持续：2025年全球至少392个AI工具停服，腾讯元器等产品相继退",
       "d": "huxiu.com"
+    },
+    {
+      "t": "Meta 新模型杀回 AI 第一梯队，Alexandr Wang 亲述 Muse",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "曾鸣AI三段论引讨论：AI编程成唯一跑通商业化场景，个人AI助理真实需求待验证",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "禁止教师用AI备课？全国教育辟谣平台：是对政策的典型误读",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "阶跃星辰推出Step Studio，首款AI终端原生开发工具，自然语言即可打造智",
+      "d": "sohu.com"
+    },
+    {
+      "t": "员工借助AI辅助办公遭公司辞退，法院判公司违法",
+      "d": "bjnews.com.cn"
     }
   ]
 }

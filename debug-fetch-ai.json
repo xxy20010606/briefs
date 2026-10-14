@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 72,
+  "total": 57,
   "samples": [
     {
-      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9falZZLVY1VlNpWGJ0MEF1UnVYWks4YTJvWU42blFkQlh4TENjUXRQMkFHTnpWMHJVUlRhbVlnSFRuUGhCNzdIVi0",
-      "source_url": "https://www.qbitai.com",
-      "source": "量子位"
+      "title": "中科大：用真实文件构建智能体任务",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PTVhHNkFxaG9UTXRQQkNUN1pYVEJSNC05T3FEMHdlS0hvNlJyWm5mN3pVM2FWZHJWVEx6SnJQV2RCNmtvSjdydU9",
+      "source_url": "https://blog.csdn.net",
+      "source": "CSDN博客"
     },
     {
-      "title": "AI重塑会展新业态，丞华会展大模型亮相AIIC2026助交易",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ2pYdXFCMHpFc1FMLVZwMml3eFRxVmxldS1jWktiN2lqX0xDcWk1eW5iTVBrWXBwZnBVRGI0TWIyLURxZjcxdUd",
+      "title": "AI产品关停潮持续：2025年全球至少392个AI工具停服，腾讯元器等产品相继退场",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LRXdPdElTSFVfdzhpRU1kWjNCbmwta0NTS1dvbDNaZjhIa183ZFVMX2g4YU9RenJSUXV2TWlQQmpMRjFvbUFlVWh",
+      "source_url": "https://www.huxiu.com",
+      "source": "虎嗅网"
+    },
+    {
+      "title": "10个模型进全国50强，山东凭什么？",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CYXBreW1GdmRHQl9fcVo4UXI4cWNxNjZNZFhSSURxMEVkY25HZDJveFV0RWFpV3g0eFRTM1RWYnp3RXhzRThvMUt",
+      "source_url": "https://sd.ifeng.com",
+      "source": "凤凰网山东"
+    },
+    {
+      "title": "Meta打出AI翻身牌：新模型并肩行业巨头 暗示接下来还要加速",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZVFlCRm9FTnVHREVNMlRGeGxYcmJtVElnRnF1MUt0bDhIWDlvckNjTFRDR1BwVUFLUzN6NHhmUkJUbmhSRGJ3YQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "刚刚，Gemini 4全球上线！",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZVlxY3J4ZmVrNGFNS3VFUmx5aTlTNTFGZ1VsRGNoV3A0WmlKVGhiQ3JhZy14SmdOOGp4cDY4ZzdRUHZpV2NralF",
+      "source_url": "https://news.pedaily.cn",
+      "source": "投资界"
+    },
+    {
+      "title": "大模型下半场，轮到工业大省“亮牌”了",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT3JJVnhpMjZQblI0bGs5ZXZCSVA4Qi1FMGxISVpzYTJBbzFydjZGbktPYlUzSlZxbV9fZ2NlQ2dMQ2Q2M0F4R25",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
-    },
-    {
-      "title": "当AI学会\"该说的说，该省的省\"：一场关于思维压缩的几何实验",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxaVhkZmlQcE96WVJLSWY3VnY2VzN4Vk1yek1LOF95a19fbnNTWmlBdk5BNkstNDZpTGtiajhTemkzNTFrZDBKa0J",
-      "source_url": "https://www.techwalker.com",
-      "source": "科技行者"
-    },
-    {
-      "title": "综合得分全国第一 成都武侯企业登顶医疗大模型榜单",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04Qm44MG04YWtQbmdkWWFJSUI5NHlqM3ZxaVdyT3lfd1BmSUlYRkFKY1N0NkdWdGZHcDVfZU1DVjdnaUxhdmJheDN",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "山东的大模型有点“轴”_山东新闻",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05SG8wWDQ4N3VCMEpJcE9QOHJnQkNwSVZZbHFDRTVfcGVPVWRPbDJlZGRQd2ViUnRoeVlNOHRYbXdEM1FxTjlmbF9",
-      "source_url": "https://sd.dzwww.com",
-      "source": "大众网"
-    },
-    {
-      "title": "大江奔流有AI：数智赋能“美丽澜沧江电力大走廊”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5peVF5TktHTUl4QndlOFNKRzFyZ2xGdkVEQmllbHdLaXh6dllvbXVmaDhpcExTSVF6eVRrNVNfNlYxM2ZZRkVOZko",
-      "source_url": "https://www.nengyuanjie.net",
-      "source": "能源界"
     }
   ]
 }

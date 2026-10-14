@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 62,
-    "trusted": 32,
+    "raw_dedup_junk": 50,
+    "trusted": 15,
     "non_trusted_top": {
-      "moomoo.com": 11,
+      "sina.com.cn": 6,
+      "stockstar.com": 5,
+      "moomoo.com": 5,
       "sina.cn": 4,
-      "futunn.com": 4,
-      "sina.com.cn": 1,
-      "orientaldaily.com.my": 1,
+      "fx678.com": 2,
+      "ntdtv.com": 1,
+      "china.com": 1,
       "investing.com": 1,
-      "kuai.media": 1,
-      "epochtimes.com": 1,
-      "stnn.cc": 1,
-      "dahecube.com": 1
+      "newswav.com": 1,
+      "com.sg": 1
     },
-    "fresh1_24h": 31,
-    "page_fresh": 27,
+    "fresh1_24h": 11,
+    "page_fresh": 7,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "破发股君实生物跌4.27% 国泰海通保荐上市2募资共86亿_证券要闻",
+      "t": "国泰海通：震荡中布局科技、资源与高分红_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "破发股华大智造跌4.93% 2022年上市募36亿中信证券保荐_股市聚焦_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "高盛：AI改写中国股市格局",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "多家知名外资机构，一致发声看好A股",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "A股：大家做好准备了，3800点位置，股市很可能有大变盘！",
-      "d": "163.com"
-    },
-    {
-      "t": "美股讯号 | 沃尔玛股价超越奢侈品股，反映消费者预算收紧趋势 ｜#美股资讯# #",
+      "t": "【环球财经】市场人气承压 纽约股市三大股指13日均下跌",
       "d": "sohu.com"
     },
     {
-      "t": "美股讯号 | 沃尔玛衰退信号引发美联储降息预期 ｜#美股资讯# #沃尔玛# #市",
+      "t": "日韩股市大跌",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "【环球财经】东京股市两大股指涨跌互现",
       "d": "sohu.com"
+    },
+    {
+      "t": "苹果、微软齐创新高，美股半导体、存储股走低，SpaceX跌4%，宜人智科跌16%",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "英诺赛科(02577)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
+    },
+    {
+      "t": "腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
     }
   ]
 }
