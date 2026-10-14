@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 62,
+  "total": 55,
   "samples": [
     {
-      "title": "从大模型到 Agent 落地，这场大会讲透 AI 全链路",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82LVZmREV1S1JzWjZKZllRWEh0NnROaGRzYVlCVWxfQ2YyMDBETk9xWEhYYzUxbmJ3YkRZZWFmeTgyWi1pdkthSkZ",
-      "source_url": "https://www.infoq.cn",
-      "source": "InfoQ-CN"
-    },
-    {
-      "title": "​青岛占四席！“垂域智能齐鲁七星”亮相",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lSUxLcVlqWkhvTWZldm9jYjRUMkhBVUF2S01jZGg1SENwLU5OenhZRkRZSC1JN043eGx6ODlwZEhuU0pCcWJkMjR",
-      "source_url": "https://www.dailyqd.com",
-      "source": "青岛日报"
-    },
-    {
-      "title": "一栈贯通，智算无界！2026人工智能开放计算大会暨众智FlagOS技术大会亮点速递",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KR1JxNjFyTG8tbU41NHJrYlpSbEw5WWR5ZUVWYk1WaktNbHNjdGFpaFB0cExCY0lyZHVWV1B1azk5T1l6c2M3Wm1",
-      "source_url": "https://tech.china.com",
-      "source": "中华网"
-    },
-    {
-      "title": "具身机器人代表企业盘点：2026全球具身机器人头部企业竞争力解析",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXhrYlpPYy1yZ3RaMEpYcGJSY0NTbXFqbkRCalljNm80WGsyQVlSOUNJRDRCN3pQOG5NR3JOSzBTMVVTVWhycnN",
+      "title": "深耕垂域模型，聚力产业升级——来自山东省的调查",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcG94VDhidDdtVFZTcC1CWjhXSWEzbG9oUmVTSVhPNHl0RnI0amxRYnY2VXVPNFM0cVI0bmVWMUZuR0l3bUhqX21",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
     },
     {
-      "title": "已投超200个项目，苏创投重仓『人工智能』『具身智能』",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DTUtjWW9BNXdIXzRLbFI4OURzZkhkeGFMWUtUd1V4eG9WQVRzazhzRXZzeDhZZFVVRjNPUV9NVVVCUnE5WWF4OWR",
-      "source_url": "https://news.pedaily.cn",
-      "source": "投资界"
-    },
-    {
-      "title": "齐鲁七星“智”启未来，“齐鲁制造会客厅”人工智能垂直领域大模型专场开幕",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYm1EQmxhbVkxOHc1MHBCdUpITkdES2lUa1dkQ1lodTU1aXo2TTdkWkdsR0g4WjZNdnlkQTVXRnBTUlhCNVVtc2l",
+      "title": "AI硬件需求持续兑现 多家算力上市公司三季报预喜",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUmx5TGZkTHJaODI0dDVpVlhxVTR6Q0xSY1E0Tmk3M3FteF9SMzhqbkljbG5kQ0JOUFI1cnBQb1lITkVFTnRQaTR",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
+    },
+    {
+      "title": "一个垂域大模型如何改写钢铁生产线？｜山东人工智能垂域大模型系列报道",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrVEpqOTRwdjBnTXlZRXRHeDNJd19mai0wMVZOdW10T1JuUVhpM00xTERNNFJadlNmMlZzTlNXaWVaNlNEOHV3QjA",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "AI手机混战 阶跃、豆包分道，生态墙如何破？",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWVZKVlFhdVVnOVRBYWVkX2dkd2EzSE1pRzQ2UHRsRUdXMXUzYjZsdVVwaVVuY01sdUIwVkV0YTR1bmllV2cwRGZ",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
+    },
+    {
+      "title": "批量培养AI“装修队” 释放千行百业AI化红利 ——专访香港科技大学（广州）协理副校长、讲座教授熊辉",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Gb0UycTVTVG8yZkdpQThNSk1hT1ZnNlFvd3pwVFVBRXhoTVZEbHoxY1RRTTdOUGkwN3lWMTNpMENsRmlhMjd5VzV",
+      "source_url": "http://stock.stockstar.com",
+      "source": "证券之星"
+    },
+    {
+      "title": "10个模型进全国50强，山东凭什么？",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdGQ0VlV0bTQybk1zYWczVDJ3REVmVjFWMjBtdlMySVlxZUxvMWljTXRjaU1FMUhFbDkyZ1RtSDJ4ak5pR0ttcW9",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     }
   ]
 }

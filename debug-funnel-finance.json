@@ -1,53 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 61,
-    "trusted": 29,
+    "raw_dedup_junk": 47,
+    "trusted": 14,
     "non_trusted_top": {
+      "moomoo.com": 10,
       "sina.com.cn": 7,
-      "moomoo.com": 7,
-      "sina.cn": 5,
-      "stockstar.com": 5,
-      "futunn.com": 4,
+      "sina.cn": 3,
+      "stockstar.com": 3,
+      "fx678.com": 2,
+      "odaily.news": 2,
       "newswav.com": 1,
-      "ntdtv.com": 1,
-      "fx168news.com": 1,
-      "zhonghongwang.com": 1
+      "enanyang.my": 1,
+      "sinchew.com.my": 1,
+      "futunn.com": 1
     },
-    "fresh1_24h": 29,
-    "page_fresh": 23,
-    "relaxed_72h": 0,
+    "fresh1_24h": 7,
+    "page_fresh": 3,
+    "relaxed_72h": 8,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "油气设备制造商VME Companies(VME.US)IPO定价4-5美元/股",
+      "t": "通胀利率双杀，罗素2000较8月高点重挫11%，3月以来首度出现技术性回调_股市",
       "d": "cnfol.com"
     },
     {
-      "t": "圆信永丰弘阳股票基金增聘李孔逸 近3个月跌逾20%_证券要闻",
+      "t": "煜荣集团(01536)：供股获认购不足约5.27%_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "华尔街传奇投资人：明年，美股将非常艰难",
-      "d": "21jingji.com"
+      "t": "A股：没必要等待股市跌破3700点了，又有消息传来，接下去大概率将这样走",
+      "d": "163.com"
     },
     {
-      "t": "日韩股市，直线拉升！",
-      "d": "21jingji.com"
+      "t": "平安电工(001359.SZ)拟定增股票募资不超13亿元_股市直播_市场",
+      "d": "cnfol.com"
     },
     {
-      "t": "【环球财经】市场人气承压 纽约股市三大股指13日均下跌",
-      "d": "sohu.com"
+      "t": "亿腾嘉和(06998)10月14日斥资83.48万港元回购50万股_股市直播_市",
+      "d": "cnfol.com"
     },
     {
-      "t": "【环球财经】伦敦股市13日下跌",
-      "d": "sohu.com"
+      "t": "董事会主席张国荣增持建滔集团(00148)5万股每股作价约52.34港元_股市直",
+      "d": "cnfol.com"
     },
     {
-      "t": "苹果、微软齐创新高，美股半导体、存储股走低，SpaceX跌4%，宜人智科跌16%",
-      "d": "eastmoney.com"
+      "t": "映恩生物-B(09606)10月14日斥资348.11万港元回购2.1万股_股市",
+      "d": "cnfol.com"
     }
   ]
 }

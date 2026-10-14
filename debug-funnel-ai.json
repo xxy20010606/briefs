@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 62,
-    "trusted": 25,
+    "raw_dedup_junk": 55,
+    "trusted": 18,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "mydrivers.com": 3,
-      "techwalker.com": 3,
-      "stockstar.com": 2,
-      "ac.cn": 2,
-      "sina.cn": 2,
-      "csdn.net": 2,
-      "orcarouter.ai": 2,
-      "aibase.com": 2,
-      "dailyqd.com": 1
+      "sina.com.cn": 14,
+      "iqilu.com": 3,
+      "china.com": 2,
+      "yeeyi.com": 2,
+      "stockstar.com": 1,
+      "yzwb.net": 1,
+      "jinantimes.com.cn": 1,
+      "ac.cn": 1,
+      "cnbeta.com.tw": 1,
+      "moomoo.com": 1
     },
-    "fresh1_24h": 25,
-    "page_fresh": 24,
+    "fresh1_24h": 17,
+    "page_fresh": 8,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "从大模型到 Agent 落地，这场大会讲透 AI 全链路",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "具身机器人代表企业盘点：2026全球具身机器人头部企业竞争力解析",
+      "t": "深耕垂域模型，聚力产业升级——来自山东省的调查",
       "d": "sohu.com"
     },
     {
-      "t": "齐鲁七星“智”启未来，“齐鲁制造会客厅”人工智能垂直领域大模型专场开幕",
+      "t": "AI硬件需求持续兑现 多家算力上市公司三季报预喜",
       "d": "sohu.com"
     },
     {
-      "t": "MCP、SKILLS、RAG：智能体供应链安全该怎么查？",
-      "d": "10jqka.com.cn"
+      "t": "AI手机混战 阶跃、豆包分道，生态墙如何破？",
+      "d": "21jingji.com"
     },
     {
-      "t": "苹果iPhone Duo国行备案新增大模型编号：Apple智能、通义万象、通义千",
-      "d": "ifeng.com"
+      "t": "“人工智能污染”来袭，如何应对",
+      "d": "gmw.cn"
     },
     {
-      "t": "面对AI，如何成为会提问的人（教育优质均衡发展·四问“人工智能+教育”③）",
-      "d": "people.com.cn"
+      "t": "深度丨国产大模型密集交卷，牌桌上的90后开始接管核心战场",
+      "d": "eet-china.com"
     },
     {
-      "t": "上海大模型芯片创企，融资近亿元",
-      "d": "zhidx.com"
+      "t": "财跃星辰AI小财神正式入驻阶跃智能体手机STEPX Neo",
+      "d": "cls.cn"
+    },
+    {
+      "t": "【明天下午见】“生产力智能体沙龙”完整议程公布！这次不讲PPT，只让AI直接干活",
+      "d": "eet-china.com"
     }
   ]
 }

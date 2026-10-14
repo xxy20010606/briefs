@@ -2,53 +2,53 @@
   "type": "semiconductor",
   "stages": {
     "raw_dedup_junk": 46,
-    "trusted": 27,
+    "trusted": 31,
     "non_trusted_top": {
-      "sina.com.cn": 6,
-      "sina.cn": 3,
-      "china.com": 2,
-      "stockstar.com": 2,
-      "newspim.com": 1,
-      "mydrivers.com": 1,
-      "wenxuecity.com": 1,
-      "icsmart.cn": 1,
-      "tvsarawak.my": 1,
-      "ajudaily.com": 1
+      "sina.com.cn": 3,
+      "futunn.com": 2,
+      "cnbeta.com.tw": 1,
+      "sina.cn": 1,
+      "worldjournal.com": 1,
+      "zhiding.cn": 1,
+      "mezha.net": 1,
+      "epochtimes.com": 1,
+      "indexbox.io": 1,
+      "nikkei.com": 1
     },
-    "fresh1_24h": 27,
-    "page_fresh": 22,
-    "relaxed_72h": 0,
+    "fresh1_24h": 24,
+    "page_fresh": 5,
+    "relaxed_72h": 22,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "半导体设备供不应求！阿斯麦公布强劲财报：已有客户咨询2030年订单",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "“广州第一芯”粤芯半导体上市，广汽强化产业资本赋能",
+      "t": "【深圳特区报】看见“芯”风向 闯出新赛道大湾区半导体产业迸发强劲“芯”活力",
       "d": "sohu.com"
     },
     {
-      "t": "华为AI芯片出货量逼近英伟达！",
-      "d": "sohu.com"
-    },
-    {
-      "t": "华为终端创新技术沟通会在上海练秋湖顺利举办，麒麟芯片、华为睿影、华为悦彰、灵盾防",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "芯片破局，广州上桌了",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "杨首骏：半导体国产替代，一场不能输的十年之战",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "碳纳米管芯片还有多远？制造与应用有哪些新突破？李清文研究员CarbonSemi ",
+      "t": "芯百特完成新一轮近亿元融资，加速射频芯片国产化攻坚",
       "d": "eet-china.com"
+    },
+    {
+      "t": "基于SPAD阵列芯片的dToF距离传感器",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "深圳造“芯”火热 龙华如何强链补链直面阵痛加速崛起",
+      "d": "sohu.com"
+    },
+    {
+      "t": "海外研选 | 摩根大通：半导体景气延续 2027年晶圆设备支出或增38%",
+      "d": "cls.cn"
+    },
+    {
+      "t": "北京3D大算力芯片创企，融资近20亿，北京国资参投",
+      "d": "zhidx.com"
+    },
+    {
+      "t": "实探湾芯展：众多上市公司参展，多家厂商称在手订单充足",
+      "d": "10jqka.com.cn"
     }
   ]
 }

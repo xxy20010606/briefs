@@ -1,54 +1,46 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 36,
-    "trusted": 9,
+    "raw_dedup_junk": 27,
+    "trusted": 6,
     "non_trusted_top": {
-      "autohome.com.cn": 10,
-      "sina.com.cn": 5,
-      "indexbox.io": 2,
-      "gessey.com": 1,
-      "cdtzb.gov.cn": 1,
+      "autohome.com.cn": 3,
+      "sina.cn": 2,
+      "stockstar.com": 2,
+      "sina.com.cn": 2,
+      "dayoo.com": 1,
       "ne21.com": 1,
-      "in-en.com": 1,
-      "voi.id": 1,
-      "news18a.com": 1,
-      "sina.cn": 1
+      "gessey.com": 1,
+      "mysteel.com": 1,
+      "chinadaily.com.cn": 1,
+      "vietnam.vn": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 9,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 4,
+    "page_fresh": 0,
+    "relaxed_72h": 5,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "攻克高比例新能源并网稳定性难题｜合创时代构网型超级电容模组赋能静止同步调相机技术",
-      "d": "solarbe.com"
+      "t": "进入“容量价值”时代，储能助力新型电力系统更可靠",
+      "d": "cpnn.com.cn"
     },
     {
-      "t": "夯实国产化配套根基 航同电气现场解码电连接如何助力工业绿智转型",
+      "t": "中欧磋商达成共识 中汽协及多家车企集体响应",
       "d": "sohu.com"
     },
     {
-      "t": "阳光点亮南太平洋！晴天科技巴新分布式光储项目并网，助力PIES打造绿色港口",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "宁德时代带动储能“系统级出海” 助推全球能源加速转型",
-      "d": "sohu.com"
-    },
-    {
-      "t": "如果比亚迪只卖一款车，那只能是它",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "2026年7月比亚迪巴西卡马萨里工厂投产不到一年下线第10万辆新能源车，拉美竞争",
+      "t": "中国汽车工业70年：从手工敲出红旗到出口全球第一与新能源领跑",
       "d": "huxiu.com"
     },
     {
-      "t": "比亚迪上了一款平平无奇的车，电池厂的老总，要口吐芬芳了",
-      "d": "ifeng.com"
+      "t": "新能源汽车大事追踪：特斯拉Cybercab将在达拉斯投入运营",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "比亚迪、吉利、奇瑞，集体声明",
+      "d": "stcn.com"
     }
   ]
 }

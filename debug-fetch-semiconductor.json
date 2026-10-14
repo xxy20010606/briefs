@@ -3,40 +3,40 @@
   "total": 46,
   "samples": [
     {
-      "title": "中国半导体竞争忧虑叠加AI投资不确定性 韩国芯片股遭遇重挫",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41UUNUdER1blIyQWhuczdlWUdQSTdPM1JtRGlPcko0VWwwaTRLNnduaDZ6Sm1FWXNzMzR1NXB6SHpudTFjdjNyNW1",
-      "source_url": "https://www.newspim.com",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "半导体设备供不应求！阿斯麦公布强劲财报：已有客户咨询2030年订单",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxM3gtNnpEMHBqYzZ6b3BqUEVXMnZHa1lDNnV5NjdEWnJMQWswS09EaVVDNnVJblg4bGJCM1ZIRDlSMVRoNXZFdEo",
-      "source_url": "https://finance.eastmoney.com",
-      "source": "东方财富"
-    },
-    {
-      "title": "上市首日涨2倍多！粤芯半导体登陆创业板，为中芯国际的同行",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTNaSkFZR1p4c3lOOXJwanFja1pwdXFLZ3EtMlFOdlhnb19Vcm9DSy1DX1kxTXBQMnlxNzZXblYzVDFuVjNGdm9",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "芯片“折叠”破局：华为打开后摩尔时代新通道",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOODJzZmF5eEdaNEhrTER4OXFkVk9mVXBiZWhPajN4cm1ZcEhGTTdkdk1Mck1DWE41N3dmQUowZzFQUFVwd3lDUFY",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "半导体、算力赛道大单接踵而至 产业需求向设备与部件扩散",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tcTROSFdiTWYza1BLamJ1WFpMV0tjMkNsS1F3YzJacnZwYkgzVEZDYkptYl9vSzd0c0t1TlhIWWd3V3I5b09MaFI",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
-    },
-    {
-      "title": "“广州第一芯”粤芯半导体上市，广汽强化产业资本赋能",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdy1Od20xWFZsdVNoOGlqdzkyYUIycWxMQ0pLMEVpMm9jalhXWmxsaVFSV2hFQUcxZHh4WHVMNGd0TzBac0NhQjd",
+      "title": "【深圳特区报】看见“芯”风向 闯出新赛道大湾区半导体产业迸发强劲“芯”活力",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFBRYlhMUGVwUV9MMWd3a0NnQ1lSdmNNT3BsZnlLNEt2MzduNlEwQjNHdUxjMEp1YlZTRHNkNmdmM0xDREFRTFh",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
+    },
+    {
+      "title": "芯百特完成新一轮近亿元融资，加速射频芯片国产化攻坚",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIRHZ5Q3F2M2wxVkNXZEpXQ015bWZGTkFyU2dkc1pFNGoxRktvcE5yV19yWWNneXR5bTgwTUFlVXV6MWNCSmxFWDF",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "基于SPAD阵列芯片的dToF距离传感器",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5eWF0Z2w2dF81SUtWLWRsQVFrR3ZGYU03c1BiZnlLWlQ4SWxfN2t2cE9hVzZNdjItQUREb2dJRGZ6dTFIOEcwdnN",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "“RISC-V第一股”来了：奕斯伟计算的进阶路线图",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ScTUzYzRSRW9GNE1nMGJIUHR3eGlld0E1Tkp2T1dZdHVzTG5OSzdwU1lXb241eFVoLTZTR1RPbG1WZw?oc=5",
+      "source_url": "https://ijiwei.com",
+      "source": "https://ijiwei.com/"
+    },
+    {
+      "title": "GlobalFoundries将在纽约新增两座晶圆厂美国本土芯片制造能力进一步扩张- 硬件",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2ZTRScGZHS29aemY3SW9LellSaU1KYTNvRk9fdzJidnVySm9IT19WdVJCbEEwQTNXUERFX3FrM0xGdE5EQmhMSmp",
+      "source_url": "https://www.cnbeta.com.tw",
+      "source": "cnBeta.COM"
+    },
+    {
+      "title": "ASML强劲财报也救不了！美芯片股跌势加剧，行业指数市值蒸发万亿美元",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBReXoycHBYc3NsX2hMNEhTZWFVbmY0MnZhYWF0dVprNnZpejlHcHlUYlRzYWxhZUNhbXM5TEVwMHpjS0tRZWR5Rmt",
+      "source_url": "https://wallstreetcn.com",
+      "source": "华尔街见闻"
     }
   ]
 }

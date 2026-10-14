@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 47,
-    "trusted": 14,
+    "raw_dedup_junk": 48,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.cn": 6,
-      "china.com": 4,
-      "lmtw.com": 4,
-      "3dmgame.com": 2,
-      "bjd.com.cn": 2,
-      "qie.tv": 1,
-      "newswav.com": 1,
-      "chinapress.com.my": 1,
-      "sh.cn": 1,
-      "sina.com.cn": 1
+      "sina.cn": 7,
+      "hupu.com": 6,
+      "sina.com.cn": 3,
+      "oushinet.com": 2,
+      "yzwb.net": 2,
+      "zhibo8.com": 1,
+      "hk01.com": 1,
+      "theportugalnews.com": 1,
+      "guandian.cn": 1,
+      "bjd.com.cn": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 12,
-    "relaxed_72h": 0,
+    "fresh1_24h": 10,
+    "page_fresh": 3,
+    "relaxed_72h": 9,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2026电竞显示器品牌排行榜：爱攻领跑高端阵营",
+      "t": "北京游戏电竞产业硬核突围",
       "d": "sohu.com"
     },
     {
-      "t": "沐瞳科技旗下《决胜巅峰》十周年庆典在全球十国同步展开",
+      "t": "网传明星演唱会门票被炒至25万一张 天价黄牛票为何屡禁不止？",
+      "d": "nbd.com.cn"
+    },
+    {
+      "t": "陕派话剧《主角》亮相圣彼得堡",
+      "d": "gmw.cn"
+    },
+    {
+      "t": "游改真人电影《生化危机：爆发夜》上映10天，票房累计破3.04亿",
       "d": "sohu.com"
     },
     {
-      "t": "武侠犯罪电影《杯雪·一战成名》定档10.16 潘斌龙、安志杰演绎乱世厮杀缠斗",
-      "d": "china.com.cn"
+      "t": "2026年10月电影票房已破15亿元",
+      "d": "eastmoney.com"
     },
     {
-      "t": "20%涨停！刚刚，资金突然涌入！A股这一板块，彻底爆发",
-      "d": "10jqka.com.cn"
+      "t": "游改真人电影《生化危机：爆发夜》上映 10 天，票房累计破 3.04 亿",
+      "d": "ithome.com"
     },
     {
-      "t": "舞台剧《铁色长歌》致敬山西革命先驱与铁路工人",
-      "d": "chinadaily.com.cn"
-    },
-    {
-      "t": "《兰香如故》与《给阿嬷的情书》：两部粤产作品，一条出海路径|短评《兰香如故》③",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "AI短剧出海升温 中国业界人士建言差异化发展",
-      "d": "chinanews.com.cn"
+      "t": "原来张艺兴是高中学历！曝自考托福去美国上学，经济自由令人羡慕",
+      "d": "163.com"
     }
   ]
 }

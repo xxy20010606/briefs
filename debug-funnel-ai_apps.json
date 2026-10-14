@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 40,
-    "trusted": 11,
+    "raw_dedup_junk": 35,
+    "trusted": 9,
     "non_trusted_top": {
       "unite.ai": 5,
-      "sina.com.cn": 5,
-      "80aj.com": 4,
       "pasqualepillitteri.it": 3,
-      "scol.com.cn": 1,
-      "csdn.net": 1,
-      "icloudnews.net": 1,
-      "mydrivers.com": 1,
-      "moomoo.com": 1,
-      "zhiding.cn": 1
+      "doit.com.cn": 2,
+      "cnbeta.com.tw": 1,
+      "gold678.com": 1,
+      "tatlerasia.com": 1,
+      "ebrun.com": 1,
+      "bianews.com": 1,
+      "hangzhou.com.cn": 1,
+      "nvidia.cn": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
+    "fresh1_24h": 9,
+    "page_fresh": 2,
+    "relaxed_72h": 5,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "MCP、SKILLS、RAG：智能体供应链安全该怎么查？",
-      "d": "10jqka.com.cn"
+      "t": "深度丨国产大模型密集交卷，牌桌上的90后开始接管核心战场",
+      "d": "eet-china.com"
     },
     {
-      "t": "AI办公应用加速进入真实工作流，商汤小浣熊多项指标位居行业前列",
+      "t": "把整台电脑塞进键盘！惠普EliteBoard G2a发布：搭载锐龙AI PRO ",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "Omnissa推出企业数据孤岛打通方案Elara",
       "d": "sohu.com"
     },
     {
-      "t": "AI产品关停潮持续：2025年全球至少392个AI工具停服，腾讯元器等产品相继退",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "AI陪伴一哥破产！Transformer作者创业公司，2000万贱卖迪士尼",
+      "t": "AI游戏产业链8家核心头部企业梳理：从“概念加成”走向“业绩验证”",
       "d": "sohu.com"
     },
     {
-      "t": "OpenAI高管会议室惊现窃听器！35岁工程师涉案被AI举报送进FBI",
-      "d": "ifeng.com"
+      "t": "库克谈AI如何改变应用开发：中国开发者正迎来更多机会",
+      "d": "sohu.com"
     },
     {
-      "t": "阿里千问发布新一代AI眼镜及耳机 AI公司为何看好智能硬件？",
-      "d": "caixin.com"
+      "t": "为何企业难以证明AI投入能够产生回报",
+      "d": "sohu.com"
     },
     {
-      "t": "曾鸣AI三段论引讨论：AI编程成唯一跑通商业化场景，个人AI助理真实需求待验证",
-      "d": "huxiu.com"
+      "t": "工具泛滥叠加AI应用，企业网络运维压力骤增",
+      "d": "sohu.com"
     }
   ]
 }

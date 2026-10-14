@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 40,
+  "total": 35,
   "samples": [
     {
-      "title": "MCP、SKILLS、RAG：智能体供应链安全该怎么查？",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRX2RCNlhPZW1OeldqWHMxV2xTOXR4SlphZ0dKZXVFWkZWc1lUV2lXZ1dYRlpfQ1BmdjBVNXU1NURfOHpMUmxpQmR",
-      "source_url": "http://stock.10jqka.com.cn",
-      "source": "同花顺"
+      "title": "YouTube Music开始标注AI生成音乐 标签同步扩展至主YouTube应用",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EaEJVRkxacEFnNHIyM1pOcFV4Qkh2UWJObEVEOXNmejhEa3pGaWJXSlNqX2hJVlVEV3k3N1FNamhlNzFYc2dXQTV",
+      "source_url": "https://m.cnbeta.com.tw",
+      "source": "cnBeta.COM"
     },
     {
-      "title": "Chainguard 推出用于前沿 AI 漏洞挖掘的 Harness",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjkxU1E2aVhENWhDQVBVMS1pM2tpM0FVdWwzRThkdkdWM1VKS3puZFpiR0lWaWctVjlBVHhQZ0QxSk9jTzFDbmN",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "SoundCraft 指南，用 Rust 写成的 Pro Tools 免费替代品",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOHIzN0t4NW9UNG5ONWFPT2l4RXdybEdRZjZ3M3F3QkpTZ2I4aklqNXQ5ZV8zTEo3YXNJNHRiaHZNTVhYR0pMRXV",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     },
     {
-      "title": "拍照识热量、大数据定制食谱……AI“减重搭子”走红，你觉得靠谱吗？丨V观话题",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQbnVVV3VwVF9ZOHl4MUNZNEc4cEZJSHRCZTl1ZGNqck9fOWp1bWItQXVVQXlQSjB3SGJqdGM5UDFWRVhNMUZqVWN",
-      "source_url": "https://focus.scol.com.cn",
-      "source": "四川在线"
+      "title": "OpenTelemetry 登陆 Claude API, 链路追踪开启公开测试",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU1ZCc1g5ZVJRRExLUVFBZENESG1RdEFkWTJ2SUFHalFOdmE2LWJuZHBiaEVGdElNbjBUMFBlVHF1QnAxZEwwZWV",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     },
     {
-      "title": "AI漫剧行情升温，媒体探访影视行业生产变局",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZRjFxcHZMZXpyT1EtNmM5VURJRGpWZDdMLVB4RWRPcVUyX05FRkh3TjhYMmUtdXdjV0VOUFRzbUJWWldUS01YVVF",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "OpenAI指出：欧洲企业正快速提升AI智能体的应用规模。现阶段，在其服务的欧盟企业及商业客户群体里",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mUWFCSmd2QXBwbWluVzd3RExjcVdENDVyaVA3RUJ4Y0xYOWpxLTZnNm5QaVBhYThpcjZBcVNSN013U3p5ekJ1RW5",
+      "source_url": "https://www.gold678.com",
+      "source": "汇金网"
     },
     {
-      "title": "AI能自动做PPT吗？六款主流AI生成PPT工具深度对比与推荐",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yWVdfZ0xlUHgtM05rcTlDeVhyVThKRU1pNDAtMkZvQXJrdDcxTW1OcGl3X2oyTmQ4am4xMUV6S0tOeXlWbUtXWXR",
-      "source_url": "https://www.csdn.net",
-      "source": "CSDN"
+      "title": "什么是ArtCraft？这款被誉为“Adobe杀手”的免费AI设计软件，能否成为Adobe与微软工具",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUQyQnU4MW54eVk0aGFaSi1RQXlZTThoMFVGQ2xPS3Q5bXBnbFFETGZ5bF96N3dOOUpVeFV1UFl0ZkJSXzdZRU5",
+      "source_url": "https://www.tatlerasia.com",
+      "source": "Tatler Asia"
     },
     {
-      "title": "泰瑞达机器人亮相2026中国工博会，将优傲机器人第七代平台引入中国-AI云资讯",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FVFJ4UjZrOEotZE56RGEwVGdqdXNJQ0dFTzkzT3dGUnA3endEVXoxdlNYT2RPZkpQX3Q5QlVPbmdvRUdsbjVwY0V",
-      "source_url": "https://www.icloudnews.net",
-      "source": "www.icloudnews.net"
+      "title": "如何在 Mac、Windows 和 Linux 上安装 Craft 应用，打不开时怎么办",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGFpMC1UeDlWYmFEZnQzdWZ3UDdvX1VET0lJV2MzQ25pYUhYTU0xaUFieEtDZTdXdzZfazloOFZvUE10M2NIcHV",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     }
   ]
 }
