@@ -1,40 +1,40 @@
 {
   "type": "ai",
-  "total": 57,
+  "total": 62,
   "samples": [
     {
-      "title": "中科大：用真实文件构建智能体任务",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PTVhHNkFxaG9UTXRQQkNUN1pYVEJSNC05T3FEMHdlS0hvNlJyWm5mN3pVM2FWZHJWVEx6SnJQV2RCNmtvSjdydU9",
-      "source_url": "https://blog.csdn.net",
-      "source": "CSDN博客"
+      "title": "从大模型到 Agent 落地，这场大会讲透 AI 全链路",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82LVZmREV1S1JzWjZKZllRWEh0NnROaGRzYVlCVWxfQ2YyMDBETk9xWEhYYzUxbmJ3YkRZZWFmeTgyWi1pdkthSkZ",
+      "source_url": "https://www.infoq.cn",
+      "source": "InfoQ-CN"
     },
     {
-      "title": "AI产品关停潮持续：2025年全球至少392个AI工具停服，腾讯元器等产品相继退场",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LRXdPdElTSFVfdzhpRU1kWjNCbmwta0NTS1dvbDNaZjhIa183ZFVMX2g4YU9RenJSUXV2TWlQQmpMRjFvbUFlVWh",
-      "source_url": "https://www.huxiu.com",
-      "source": "虎嗅网"
+      "title": "​青岛占四席！“垂域智能齐鲁七星”亮相",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lSUxLcVlqWkhvTWZldm9jYjRUMkhBVUF2S01jZGg1SENwLU5OenhZRkRZSC1JN043eGx6ODlwZEhuU0pCcWJkMjR",
+      "source_url": "https://www.dailyqd.com",
+      "source": "青岛日报"
     },
     {
-      "title": "10个模型进全国50强，山东凭什么？",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CYXBreW1GdmRHQl9fcVo4UXI4cWNxNjZNZFhSSURxMEVkY25HZDJveFV0RWFpV3g0eFRTM1RWYnp3RXhzRThvMUt",
-      "source_url": "https://sd.ifeng.com",
-      "source": "凤凰网山东"
+      "title": "一栈贯通，智算无界！2026人工智能开放计算大会暨众智FlagOS技术大会亮点速递",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KR1JxNjFyTG8tbU41NHJrYlpSbEw5WWR5ZUVWYk1WaktNbHNjdGFpaFB0cExCY0lyZHVWV1B1azk5T1l6c2M3Wm1",
+      "source_url": "https://tech.china.com",
+      "source": "中华网"
     },
     {
-      "title": "Meta打出AI翻身牌：新模型并肩行业巨头 暗示接下来还要加速",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZVFlCRm9FTnVHREVNMlRGeGxYcmJtVElnRnF1MUt0bDhIWDlvckNjTFRDR1BwVUFLUzN6NHhmUkJUbmhSRGJ3YQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "具身机器人代表企业盘点：2026全球具身机器人头部企业竞争力解析",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXhrYlpPYy1yZ3RaMEpYcGJSY0NTbXFqbkRCalljNm80WGsyQVlSOUNJRDRCN3pQOG5NR3JOSzBTMVVTVWhycnN",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
     },
     {
-      "title": "刚刚，Gemini 4全球上线！",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fZVlxY3J4ZmVrNGFNS3VFUmx5aTlTNTFGZ1VsRGNoV3A0WmlKVGhiQ3JhZy14SmdOOGp4cDY4ZzdRUHZpV2NralF",
+      "title": "已投超200个项目，苏创投重仓『人工智能』『具身智能』",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DTUtjWW9BNXdIXzRLbFI4OURzZkhkeGFMWUtUd1V4eG9WQVRzazhzRXZzeDhZZFVVRjNPUV9NVVVCUnE5WWF4OWR",
       "source_url": "https://news.pedaily.cn",
       "source": "投资界"
     },
     {
-      "title": "大模型下半场，轮到工业大省“亮牌”了",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT3JJVnhpMjZQblI0bGs5ZXZCSVA4Qi1FMGxISVpzYTJBbzFydjZGbktPYlUzSlZxbV9fZ2NlQ2dMQ2Q2M0F4R25",
+      "title": "齐鲁七星“智”启未来，“齐鲁制造会客厅”人工智能垂直领域大模型专场开幕",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYm1EQmxhbVkxOHc1MHBCdUpITkdES2lUa1dkQ1lodTU1aXo2TTdkWkdsR0g4WjZNdnlkQTVXRnBTUlhCNVVtc2l",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
     }

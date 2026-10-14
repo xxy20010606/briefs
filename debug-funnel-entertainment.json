@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 56,
-    "trusted": 24,
+    "raw_dedup_junk": 47,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.cn": 7,
-      "sina.com.cn": 4,
-      "china.com": 3,
-      "hupu.com": 2,
-      "yzwb.net": 2,
-      "360.com": 2,
+      "sina.cn": 6,
+      "china.com": 4,
+      "lmtw.com": 4,
+      "3dmgame.com": 2,
       "bjd.com.cn": 2,
-      "pjtime.com": 1,
-      "kagit.kr": 1,
-      "hk01.com": 1
+      "qie.tv": 1,
+      "newswav.com": 1,
+      "chinapress.com.my": 1,
+      "sh.cn": 1,
+      "sina.com.cn": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 3,
-    "relaxed_72h": 20,
+    "fresh1_24h": 13,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "电影《给阿嬷的情书》在海外热度持续升高——这些细节打动海外观众的心",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "AI漫剧行情升温 探访影视行业生产变局",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "呈现文化交流进行时——评纪录片《繁花满途》",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "《生化危机：爆发夜》票房领跑！惊悚片扎堆上映，中小成本如何以小博大？",
+      "t": "2026电竞显示器品牌排行榜：爱攻领跑高端阵营",
       "d": "sohu.com"
     },
     {
-      "t": "就在普陀！2026全民电竞嘉年华即将启幕",
+      "t": "沐瞳科技旗下《决胜巅峰》十周年庆典在全球十国同步展开",
       "d": "sohu.com"
     },
     {
-      "t": "双场联动竞燃海淀，群众性电竞赛事激活文体消费新活力",
-      "d": "stdaily.com"
+      "t": "武侠犯罪电影《杯雪·一战成名》定档10.16 潘斌龙、安志杰演绎乱世厮杀缠斗",
+      "d": "china.com.cn"
     },
     {
-      "t": "首部AI长片电影《三星堆：未来往事》定档，博纳影业连续2个交易日涨停",
-      "d": "eastmoney.com"
+      "t": "20%涨停！刚刚，资金突然涌入！A股这一板块，彻底爆发",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "舞台剧《铁色长歌》致敬山西革命先驱与铁路工人",
+      "d": "chinadaily.com.cn"
+    },
+    {
+      "t": "《兰香如故》与《给阿嬷的情书》：两部粤产作品，一条出海路径|短评《兰香如故》③",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "AI短剧出海升温 中国业界人士建言差异化发展",
+      "d": "chinanews.com.cn"
     }
   ]
 }

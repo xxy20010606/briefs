@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 47,
+  "total": 46,
   "samples": [
     {
-      "title": "被台积电逼出中芯后，张汝京为中国建了另一座“护城河”",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY0hCOGo5MWNueFRYOWYtbk8yZlIxbW5uZWwxZVo2UldrRVNsLTFKd0VDVnRJcXhzRWhhcU9EU1J6czdsWHBmbXF",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "中国半导体竞争忧虑叠加AI投资不确定性 韩国芯片股遭遇重挫",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41UUNUdER1blIyQWhuczdlWUdQSTdPM1JtRGlPcko0VWwwaTRLNnduaDZ6Sm1FWXNzMzR1NXB6SHpudTFjdjNyNW1",
+      "source_url": "https://www.newspim.com",
+      "source": "뉴스핌"
     },
     {
-      "title": "芯片大厂，都在收购MCU厂商",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ITF9fM2s2SFVTNUNnVG9iTmpKeTR4SmJ2MnJMZnVqR0cxZHhmSmVrUGdsbENWdXNKMy1lUG5VbTM0WTBtR25qRUh",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
-    },
-    {
-      "title": "“广州第一芯”股东名单里藏着广东怎样的造芯雄心",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR3BsZXlKc2s0dFFja01TU2U0OExpN3JZMlh2UXJYR3dkUEc4N3RMb1J4RWZreExuQk9WWmZFb1RHaWF5aHJKdGo",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "深市半导体领域再添“精兵” 产业链韧性持续增强",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56QUZGYWFPNWlUNzFfNWZYS2tpRDFWM0ZHMWRGSE9CMnZFRTJ5bVpLMXRfN2hKanVWVUZXQXBWb2ZMTkw5eVRrSFd",
+      "title": "半导体设备供不应求！阿斯麦公布强劲财报：已有客户咨询2030年订单",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxM3gtNnpEMHBqYzZ6b3BqUEVXMnZHa1lDNnV5NjdEWnJMQWswS09EaVVDNnVJblg4bGJCM1ZIRDlSMVRoNXZFdEo",
       "source_url": "https://finance.eastmoney.com",
       "source": "东方财富"
     },
     {
-      "title": "至纯科技10月13日回应存储芯片话题：半导体湿法设备订单90%以上来源于逻辑客户_公司新闻",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VN3FKNzU0MFlVZDltdUtvWWFWenNPLWU5STR1MDdsMzYzTUFqRzJ5dWdtVG5oR09VT0JLWFN0YUdkbGNUYzVvNTZ",
-      "source_url": "https://stock.stockstar.com",
-      "source": "证券之星"
+      "title": "上市首日涨2倍多！粤芯半导体登陆创业板，为中芯国际的同行",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTNaSkFZR1p4c3lOOXJwanFja1pwdXFLZ3EtMlFOdlhnb19Vcm9DSy1DX1kxTXBQMnlxNzZXblYzVDFuVjNGdm9",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "“足球场上找蚂蚁”？芯片“体检师”穆琳佳的毫厘人生",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zM2sxSkg3WnZCMXpQS3o4MUxyODFMRTZjVno0UlFLLXZ1YkZPOHRWZk5FWVEzdlMxbVBOcnJBakE3a05LMjBXeFV",
-      "source_url": "https://www.guanhai.com.cn",
-      "source": "观海新闻"
+      "title": "芯片“折叠”破局：华为打开后摩尔时代新通道",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOODJzZmF5eEdaNEhrTER4OXFkVk9mVXBiZWhPajN4cm1ZcEhGTTdkdk1Mck1DWE41N3dmQUowZzFQUFVwd3lDUFY",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "半导体、算力赛道大单接踵而至 产业需求向设备与部件扩散",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tcTROSFdiTWYza1BLamJ1WFpMV0tjMkNsS1F3YzJacnZwYkgzVEZDYkptYl9vSzd0c0t1TlhIWWd3V3I5b09MaFI",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.com.cn"
+    },
+    {
+      "title": "“广州第一芯”粤芯半导体上市，广汽强化产业资本赋能",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdy1Od20xWFZsdVNoOGlqdzkyYUIycWxMQ0pLMEVpMm9jalhXWmxsaVFSV2hFQUcxZHh4WHVMNGd0TzBac0NhQjd",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
     }
   ]
 }

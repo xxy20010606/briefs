@@ -1,54 +1,53 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 15,
+    "raw_dedup_junk": 61,
+    "trusted": 29,
     "non_trusted_top": {
-      "sina.com.cn": 6,
+      "sina.com.cn": 7,
+      "moomoo.com": 7,
+      "sina.cn": 5,
       "stockstar.com": 5,
-      "moomoo.com": 5,
-      "sina.cn": 4,
-      "fx678.com": 2,
-      "ntdtv.com": 1,
-      "china.com": 1,
-      "investing.com": 1,
+      "futunn.com": 4,
       "newswav.com": 1,
-      "com.sg": 1
+      "ntdtv.com": 1,
+      "fx168news.com": 1,
+      "zhonghongwang.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 7,
+    "fresh1_24h": 29,
+    "page_fresh": 23,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "国泰海通：震荡中布局科技、资源与高分红_股市直播_市场",
+      "t": "油气设备制造商VME Companies(VME.US)IPO定价4-5美元/股",
       "d": "cnfol.com"
+    },
+    {
+      "t": "圆信永丰弘阳股票基金增聘李孔逸 近3个月跌逾20%_证券要闻",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "华尔街传奇投资人：明年，美股将非常艰难",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "日韩股市，直线拉升！",
+      "d": "21jingji.com"
     },
     {
       "t": "【环球财经】市场人气承压 纽约股市三大股指13日均下跌",
       "d": "sohu.com"
     },
     {
-      "t": "日韩股市大跌",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "【环球财经】东京股市两大股指涨跌互现",
+      "t": "【环球财经】伦敦股市13日下跌",
       "d": "sohu.com"
     },
     {
       "t": "苹果、微软齐创新高，美股半导体、存储股走低，SpaceX跌4%，宜人智科跌16%",
       "d": "eastmoney.com"
-    },
-    {
-      "t": "英诺赛科(02577)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
     }
   ]
 }

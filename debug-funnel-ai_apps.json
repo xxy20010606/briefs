@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 30,
-    "trusted": 12,
+    "raw_dedup_junk": 40,
+    "trusted": 11,
     "non_trusted_top": {
-      "unite.ai": 2,
-      "sina.com.cn": 2,
-      "zhiding.cn": 2,
-      "ac.cn": 2,
-      "cnbeta.com.tw": 1,
-      "66wz.com": 1,
-      "sina.cn": 1,
-      "com.sg": 1,
-      "smarthey.com": 1,
-      "secrss.com": 1
+      "unite.ai": 5,
+      "sina.com.cn": 5,
+      "80aj.com": 4,
+      "pasqualepillitteri.it": 3,
+      "scol.com.cn": 1,
+      "csdn.net": 1,
+      "icloudnews.net": 1,
+      "mydrivers.com": 1,
+      "moomoo.com": 1,
+      "zhiding.cn": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 4,
-    "relaxed_72h": 7,
+    "fresh1_24h": 11,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
+      "t": "MCP、SKILLS、RAG：智能体供应链安全该怎么查？",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "AI办公应用加速进入真实工作流，商汤小浣熊多项指标位居行业前列",
+      "d": "sohu.com"
+    },
+    {
       "t": "AI产品关停潮持续：2025年全球至少392个AI工具停服，腾讯元器等产品相继退",
       "d": "huxiu.com"
     },
     {
-      "t": "Meta 新模型杀回 AI 第一梯队，Alexandr Wang 亲述 Muse",
-      "d": "infoq.cn"
+      "t": "AI陪伴一哥破产！Transformer作者创业公司，2000万贱卖迪士尼",
+      "d": "sohu.com"
+    },
+    {
+      "t": "OpenAI高管会议室惊现窃听器！35岁工程师涉案被AI举报送进FBI",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "阿里千问发布新一代AI眼镜及耳机 AI公司为何看好智能硬件？",
+      "d": "caixin.com"
     },
     {
       "t": "曾鸣AI三段论引讨论：AI编程成唯一跑通商业化场景，个人AI助理真实需求待验证",
       "d": "huxiu.com"
-    },
-    {
-      "t": "手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "禁止教师用AI备课？全国教育辟谣平台：是对政策的典型误读",
-      "d": "bjnews.com.cn"
-    },
-    {
-      "t": "阶跃星辰推出Step Studio，首款AI终端原生开发工具，自然语言即可打造智",
-      "d": "sohu.com"
-    },
-    {
-      "t": "员工借助AI辅助办公遭公司辞退，法院判公司违法",
-      "d": "bjnews.com.cn"
     }
   ]
 }

@@ -1,50 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 29,
-    "trusted": 7,
+    "raw_dedup_junk": 36,
+    "trusted": 9,
     "non_trusted_top": {
-      "autohome.com.cn": 11,
-      "sina.com.cn": 7,
-      "energytrend.cn": 1,
-      "wedoany.com": 1,
-      "dahecube.com": 1,
-      "indexbox.io": 1
+      "autohome.com.cn": 10,
+      "sina.com.cn": 5,
+      "indexbox.io": 2,
+      "gessey.com": 1,
+      "cdtzb.gov.cn": 1,
+      "ne21.com": 1,
+      "in-en.com": 1,
+      "voi.id": 1,
+      "news18a.com": 1,
+      "sina.cn": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 1,
-    "relaxed_72h": 6,
+    "fresh1_24h": 9,
+    "page_fresh": 9,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "光伏与储能大会即将举办，可再生能源装机规模稳步扩大，这些股频获机构调研",
-      "d": "cls.cn"
+      "t": "攻克高比例新能源并网稳定性难题｜合创时代构网型超级电容模组赋能静止同步调相机技术",
+      "d": "solarbe.com"
     },
     {
-      "t": "【新时代 新征程 新伟业·高质量发展调研行】光伏电站无人值守的实践之路",
+      "t": "夯实国产化配套根基 航同电气现场解码电连接如何助力工业绿智转型",
       "d": "sohu.com"
     },
     {
-      "t": "南通通州：绘就跨江融合高质量发展新图景",
+      "t": "阳光点亮南太平洋！晴天科技巴新分布式光储项目并网，助力PIES打造绿色港口",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "宁德时代带动储能“系统级出海” 助推全球能源加速转型",
       "d": "sohu.com"
     },
     {
-      "t": "Grenergy在智利获得了大约4.6亿美元的太阳能和储能融资",
-      "d": "sohu.com"
+      "t": "如果比亚迪只卖一款车，那只能是它",
+      "d": "ifeng.com"
     },
     {
-      "t": "比亚迪旗舰超豪华电动轿车谍照曝光，配对开门设计",
-      "d": "sohu.com"
+      "t": "2026年7月比亚迪巴西卡马萨里工厂投产不到一年下线第10万辆新能源车，拉美竞争",
+      "d": "huxiu.com"
     },
     {
-      "t": "比亚迪第15万台新能源商用车下线 增长重心向卡车业务倾斜",
-      "d": "sohu.com"
-    },
-    {
-      "t": "2026北京风能展储能板块看点前瞻",
-      "d": "sohu.com"
+      "t": "比亚迪上了一款平平无奇的车，电池厂的老总，要口吐芬芳了",
+      "d": "ifeng.com"
     }
   ]
 }

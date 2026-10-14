@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 47,
-    "trusted": 28,
+    "raw_dedup_junk": 46,
+    "trusted": 27,
     "non_trusted_top": {
       "sina.com.cn": 6,
-      "stockstar.com": 3,
-      "guandian.cn": 2,
-      "guanhai.com.cn": 1,
-      "chosun.com": 1,
-      "awtmt.com": 1,
-      "eastmoney.com": 1,
-      "pjtime.com": 1,
-      "moomoo.com": 1,
-      "tradingkey.com": 1
+      "sina.cn": 3,
+      "china.com": 2,
+      "stockstar.com": 2,
+      "newspim.com": 1,
+      "mydrivers.com": 1,
+      "wenxuecity.com": 1,
+      "icsmart.cn": 1,
+      "tvsarawak.my": 1,
+      "ajudaily.com": 1
     },
-    "fresh1_24h": 21,
-    "page_fresh": 9,
-    "relaxed_72h": 14,
+    "fresh1_24h": 27,
+    "page_fresh": 22,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "芯片大厂，都在收购MCU厂商",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "“广州第一芯”股东名单里藏着广东怎样的造芯雄心",
-      "d": "sohu.com"
-    },
-    {
-      "t": "美股成交额前20：存储芯片板块整体承压 美光科技跌超3%",
+      "t": "半导体设备供不应求！阿斯麦公布强劲财报：已有客户咨询2030年订单",
       "d": "eastmoney.com"
     },
     {
-      "t": "上峰材料今年第三个投资标的成功上市！",
+      "t": "“广州第一芯”粤芯半导体上市，广汽强化产业资本赋能",
       "d": "sohu.com"
     },
     {
-      "t": "公告全知道",
-      "d": "cls.cn"
+      "t": "华为AI芯片出货量逼近英伟达！",
+      "d": "sohu.com"
     },
     {
-      "t": "光电智造｜先进芯片工艺拆解：晶体管究竟如何一层层搭建而成",
+      "t": "华为终端创新技术沟通会在上海练秋湖顺利举办，麒麟芯片、华为睿影、华为悦彰、灵盾防",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "芯片破局，广州上桌了",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "杨首骏：半导体国产替代，一场不能输的十年之战",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "碳纳米管芯片还有多远？制造与应用有哪些新突破？李清文研究员CarbonSemi ",
       "d": "eet-china.com"
-    },
-    {
-      "t": "深市半导体领域再添“精兵” 产业链韧性持续增强",
-      "d": "eastmoney.com"
     }
   ]
 }
