@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 48,
-    "trusted": 12,
+    "raw_dedup_junk": 51,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.cn": 7,
-      "hupu.com": 6,
-      "sina.com.cn": 3,
-      "oushinet.com": 2,
-      "yzwb.net": 2,
-      "zhibo8.com": 1,
-      "hk01.com": 1,
-      "theportugalnews.com": 1,
-      "guandian.cn": 1,
-      "bjd.com.cn": 1
+      "china.com": 6,
+      "sina.cn": 3,
+      "bjd.com.cn": 3,
+      "hupu.com": 2,
+      "sina.com.cn": 2,
+      "starnewskorea.com": 1,
+      "epochtimes.com": 1,
+      "mediafine.co.kr": 1,
+      "donews.com": 1,
+      "beijing.gov.cn": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 3,
-    "relaxed_72h": 9,
+    "fresh1_24h": 12,
+    "page_fresh": 10,
+    "relaxed_72h": 2,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "北京游戏电竞产业硬核突围",
+      "t": "《生化危机：爆发夜》中国内地上映10天累计票房破3亿 连续10天蝉联内地票房日冠",
       "d": "sohu.com"
     },
     {
-      "t": "网传明星演唱会门票被炒至25万一张 天价黄牛票为何屡禁不止？",
-      "d": "nbd.com.cn"
-    },
-    {
-      "t": "陕派话剧《主角》亮相圣彼得堡",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "游改真人电影《生化危机：爆发夜》上映10天，票房累计破3.04亿",
+      "t": "无畏契约亲签电竞装备1元起拍 来京东11.11边看全明星瓦友赛边抢好物",
       "d": "sohu.com"
+    },
+    {
+      "t": "媒体评明星演唱会现天价黄牛票：理智追星抵制门票溢价乱象",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "《伟大的长征》导演张永新：一场发火戏拍了6小时，曹磊精准诠释",
+      "d": "163.com"
+    },
+    {
+      "t": "《美人余》：跳10年芭蕾、北电导演研究生王佳佳，演“潜伏保姆”",
+      "d": "163.com"
+    },
+    {
+      "t": "京昆和鸣，邀约青春知音（感知文化里的中国）",
+      "d": "people.com.cn"
     },
     {
       "t": "2026年10月电影票房已破15亿元",
       "d": "eastmoney.com"
-    },
-    {
-      "t": "游改真人电影《生化危机：爆发夜》上映 10 天，票房累计破 3.04 亿",
-      "d": "ithome.com"
-    },
-    {
-      "t": "原来张艺兴是高中学历！曝自考托福去美国上学，经济自由令人羡慕",
-      "d": "163.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 46,
+  "total": 44,
   "samples": [
     {
-      "title": "【深圳特区报】看见“芯”风向 闯出新赛道大湾区半导体产业迸发强劲“芯”活力",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFBRYlhMUGVwUV9MMWd3a0NnQ1lSdmNNT3BsZnlLNEt2MzduNlEwQjNHdUxjMEp1YlZTRHNkNmdmM0xDREFRTFh",
+      "title": "ChipAgents与英伟达合作推出Build-a-Chip-Bench",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlTXJIbTJvaGZSR1JvOTlpZHF5dnA5NW9fQ2E4RFdoeUN5anNQZVJwZXhkN05LcTU1bERXWjRRVVEwOUxaYnF4c0M",
+      "source_url": "https://www.guandian.cn",
+      "source": "观点网"
+    },
+    {
+      "title": "这家射频芯片厂商，拿下近亿元融资！",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qRG9EbVdLaDdyNEJhYjhpWWNGcDhHNG8wTmt1clpCMzRpOVJDQ1oyTXRYdFlHUWJySXdUMUdaNDBJUDVXb2F2S20",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "彭博社：字节跳动洽购联发科数据中心AI芯片",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByTWFMWWxXdS1hV3d3bXRYemdaWWMzYnkxelBZUFhiM0UwU1g0VVR0dk9NRUVDTkplemRDaFZvOW55U0lZUjk1SVV",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "创业板、科创50均跌4%，白酒、创新药逆势活跃，算力硬件陷入调整，恒科指跌超3%，存储芯片走低",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lSlNnaXltby1sZFpHZUhqdGpITTZoRVp3dmZvQ25fb1JVWFdGQ1p0RHpqWE5kNnZWVGc4czRhOVpJNFluRzgtY1l",
+      "source_url": "https://wallstreetcn.com",
+      "source": "华尔街见闻"
+    },
+    {
+      "title": "聚焦存储与算力芯片全链路测试，深圳精智达湾芯展披露新进展",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHFDdnVCX3dpOTVFY2x5UGNzLVdiWU16cElhdzBEbXdkRTZxeC1SYVlUTFRrejU0NnZIWWI5OUpLUnJpa1pYUmF",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
     },
     {
-      "title": "芯百特完成新一轮近亿元融资，加速射频芯片国产化攻坚",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIRHZ5Q3F2M2wxVkNXZEpXQ015bWZGTkFyU2dkc1pFNGoxRktvcE5yV19yWWNneXR5bTgwTUFlVXV6MWNCSmxFWDF",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
-    },
-    {
-      "title": "基于SPAD阵列芯片的dToF距离传感器",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5eWF0Z2w2dF81SUtWLWRsQVFrR3ZGYU03c1BiZnlLWlQ4SWxfN2t2cE9hVzZNdjItQUREb2dJRGZ6dTFIOEcwdnN",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
-    },
-    {
-      "title": "“RISC-V第一股”来了：奕斯伟计算的进阶路线图",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ScTUzYzRSRW9GNE1nMGJIUHR3eGlld0E1Tkp2T1dZdHVzTG5OSzdwU1lXb241eFVoLTZTR1RPbG1WZw?oc=5",
-      "source_url": "https://ijiwei.com",
-      "source": "https://ijiwei.com/"
-    },
-    {
-      "title": "GlobalFoundries将在纽约新增两座晶圆厂美国本土芯片制造能力进一步扩张- 硬件",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2ZTRScGZHS29aemY3SW9LellSaU1KYTNvRk9fdzJidnVySm9IT19WdVJCbEEwQTNXUERFX3FrM0xGdE5EQmhMSmp",
-      "source_url": "https://www.cnbeta.com.tw",
-      "source": "cnBeta.COM"
-    },
-    {
-      "title": "ASML强劲财报也救不了！美芯片股跌势加剧，行业指数市值蒸发万亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBReXoycHBYc3NsX2hMNEhTZWFVbmY0MnZhYWF0dVprNnZpejlHcHlUYlRzYWxhZUNhbXM5TEVwMHpjS0tRZWR5Rmt",
-      "source_url": "https://wallstreetcn.com",
-      "source": "华尔街见闻"
+      "title": "麒麟2027已就绪 测试结果符合预期！华为：韬定律不是简单把几颗芯片叠在一起",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOVVFxeURCRjh0dWdDUkhOcVpweEw4UGw1ekxtSjcxR3pFTnRKeFcweHVGcE9RTHhCSHQ3VS1UeUd5dG41cmdMYk1",
+      "source_url": "https://news.mydrivers.com",
+      "source": "驱动之家"
     }
   ]
 }

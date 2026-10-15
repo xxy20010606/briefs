@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 46,
-    "trusted": 31,
+    "raw_dedup_junk": 44,
+    "trusted": 28,
     "non_trusted_top": {
       "sina.com.cn": 3,
-      "futunn.com": 2,
+      "moomoo.com": 2,
+      "guandian.cn": 1,
+      "mydrivers.com": 1,
+      "itheat.com": 1,
+      "tradingview.com": 1,
       "cnbeta.com.tw": 1,
-      "sina.cn": 1,
-      "worldjournal.com": 1,
-      "zhiding.cn": 1,
-      "mezha.net": 1,
-      "epochtimes.com": 1,
-      "indexbox.io": 1,
-      "nikkei.com": 1
+      "icloudnews.net": 1,
+      "com.sg": 1,
+      "sphericalinsights.com": 1
     },
-    "fresh1_24h": 24,
-    "page_fresh": 5,
-    "relaxed_72h": 22,
+    "fresh1_24h": 27,
+    "page_fresh": 23,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "【深圳特区报】看见“芯”风向 闯出新赛道大湾区半导体产业迸发强劲“芯”活力",
-      "d": "sohu.com"
-    },
-    {
-      "t": "芯百特完成新一轮近亿元融资，加速射频芯片国产化攻坚",
+      "t": "这家射频芯片厂商，拿下近亿元融资！",
       "d": "eet-china.com"
     },
     {
-      "t": "基于SPAD阵列芯片的dToF距离传感器",
+      "t": "彭博社：字节跳动洽购联发科数据中心AI芯片",
       "d": "eet-china.com"
     },
     {
-      "t": "深圳造“芯”火热 龙华如何强链补链直面阵痛加速崛起",
+      "t": "聚焦存储与算力芯片全链路测试，深圳精智达湾芯展披露新进展",
       "d": "sohu.com"
     },
     {
-      "t": "海外研选 | 摩根大通：半导体景气延续 2027年晶圆设备支出或增38%",
-      "d": "cls.cn"
+      "t": "AI硬件筹码持续出清，半导体设备ETF招商(561980)再度重挫，科技调整何时",
+      "d": "jiemian.com"
     },
     {
-      "t": "北京3D大算力芯片创企，融资近20亿，北京国资参投",
-      "d": "zhidx.com"
+      "t": "从芯片到智算网络，深圳万里眼五大高端测试方案亮相湾芯展",
+      "d": "sohu.com"
     },
     {
-      "t": "实探湾芯展：众多上市公司参展，多家厂商称在手订单充足",
-      "d": "10jqka.com.cn"
+      "t": "从展会到产业生态平台：“湾芯展”成长背后的半导体产业新逻辑",
+      "d": "guancha.cn"
+    },
+    {
+      "t": "半导体零部件基地封顶，南方基金郑晓曦关注半导体产业链",
+      "d": "jiemian.com"
     }
   ]
 }

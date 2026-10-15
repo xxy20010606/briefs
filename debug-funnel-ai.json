@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 55,
-    "trusted": 18,
+    "raw_dedup_junk": 65,
+    "trusted": 30,
     "non_trusted_top": {
-      "sina.com.cn": 14,
-      "iqilu.com": 3,
-      "china.com": 2,
-      "yeeyi.com": 2,
-      "stockstar.com": 1,
-      "yzwb.net": 1,
-      "jinantimes.com.cn": 1,
-      "ac.cn": 1,
-      "cnbeta.com.tw": 1,
-      "moomoo.com": 1
+      "sina.com.cn": 8,
+      "techwalker.com": 3,
+      "csdn.net": 2,
+      "icloudnews.net": 2,
+      "stockstar.com": 2,
+      "unite.ai": 2,
+      "guandian.cn": 1,
+      "mydrivers.com": 1,
+      "iqilu.com": 1,
+      "beijing.gov.cn": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 8,
+    "fresh1_24h": 30,
+    "page_fresh": 28,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "深耕垂域模型，聚力产业升级——来自山东省的调查",
+      "t": "AI算力主线下，指数化布局或成把握产业趋势的高效方式，科创创业人工智能ETF景顺",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "中国科学家首次用国产大模型破解三维Ghys猜想，人机协同证明并获形式化验证",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "人工智能的下一个跃迁：智能造物的第五范式",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "中国科学家首次用中国大模型攻克世界级数学难题",
       "d": "sohu.com"
     },
     {
-      "t": "AI硬件需求持续兑现 多家算力上市公司三季报预喜",
+      "t": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
       "d": "sohu.com"
     },
     {
-      "t": "AI手机混战 阶跃、豆包分道，生态墙如何破？",
-      "d": "21jingji.com"
+      "t": "人工智能赋能保险资产管理行业的应用研究",
+      "d": "caixin.com"
     },
     {
-      "t": "“人工智能污染”来袭，如何应对",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "深度丨国产大模型密集交卷，牌桌上的90后开始接管核心战场",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "财跃星辰AI小财神正式入驻阶跃智能体手机STEPX Neo",
-      "d": "cls.cn"
-    },
-    {
-      "t": "【明天下午见】“生产力智能体沙龙”完整议程公布！这次不讲PPT，只让AI直接干活",
-      "d": "eet-china.com"
+      "t": "“用AI对抗AI”，全球增速将达69%！软件股顶住大风暴，融资客加码这些高增长股",
+      "d": "stcn.com"
     }
   ]
 }

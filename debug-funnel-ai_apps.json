@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 9,
+    "raw_dedup_junk": 48,
+    "trusted": 10,
     "non_trusted_top": {
-      "unite.ai": 5,
+      "oschina.net": 3,
       "pasqualepillitteri.it": 3,
-      "doit.com.cn": 2,
-      "cnbeta.com.tw": 1,
-      "gold678.com": 1,
-      "tatlerasia.com": 1,
-      "ebrun.com": 1,
-      "bianews.com": 1,
-      "hangzhou.com.cn": 1,
-      "nvidia.cn": 1
+      "unite.ai": 3,
+      "pedaily.cn": 2,
+      "yeeyi.com": 2,
+      "ac.cn": 2,
+      "guandian.cn": 1,
+      "vietnam.vn": 1,
+      "sina.com.cn": 1,
+      "pharnexcloud.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 2,
-    "relaxed_72h": 5,
+    "fresh1_24h": 10,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "深度丨国产大模型密集交卷，牌桌上的90后开始接管核心战场",
-      "d": "eet-china.com"
+      "t": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
+      "d": "leiphone.com"
     },
     {
-      "t": "把整台电脑塞进键盘！惠普EliteBoard G2a发布：搭载锐龙AI PRO ",
-      "d": "eet-china.com"
+      "t": "创想三维携SPARKX i8亮相TCT深圳展，展示“AI+生态”布局",
+      "d": "ifeng.com"
     },
     {
-      "t": "Omnissa推出企业数据孤岛打通方案Elara",
+      "t": "联合实验室观察｜荣耀集团孙建发：让AI终端从工具变为伙伴",
       "d": "sohu.com"
     },
     {
-      "t": "AI游戏产业链8家核心头部企业梳理：从“概念加成”走向“业绩验证”",
+      "t": "AI算力主线下，指数化布局或成把握产业趋势的高效方式，科创创业人工智能ETF景顺",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "Meta Muse 引爆个人智能体竞赛：中国大厂从 B 端转向 C 端",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "个人智能体爆火！蚂蚁发新模型接招，实测编辑部小助理上线",
       "d": "sohu.com"
     },
     {
-      "t": "库克谈AI如何改变应用开发：中国开发者正迎来更多机会",
-      "d": "sohu.com"
-    },
-    {
-      "t": "为何企业难以证明AI投入能够产生回报",
-      "d": "sohu.com"
-    },
-    {
-      "t": "工具泛滥叠加AI应用，企业网络运维压力骤增",
-      "d": "sohu.com"
+      "t": "腾讯上线「绿泡泡」短剧，主打免费好看；特斯拉Roadster 跑车明日发布；豆包",
+      "d": "geekpark.net"
     }
   ]
 }

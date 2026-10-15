@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 47,
+  "total": 66,
   "samples": [
     {
-      "title": "通胀利率双杀，罗素2000较8月高点重挫11%，3月以来首度出现技术性回调_股市直播_市场",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrLWRuQVkxRElwWlByZTBTa3l2YlV6cmNOdFdZLW9xYllrZUpfN3pzYkNmWGw0OHJHTUp0SU9GWlhVNjRpbXJmLUt",
+      "title": "“易中天”集体大跌AI交易再度重挫三大积极信号已显现！_证券要闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJOVduSkV5MlpmSXIxemtJT0kzWVgwUGZZRjBKN184QlFnUjNuYkVNYkNwTl96X01hdkR0RGFsaldIMml3ZW5qaFl",
+      "source_url": "http://news.cnfol.com",
+      "source": "中金在线"
+    },
+    {
+      "title": "港股异动| 光伏股延续近期跌势机构指行业处于周期底部需求偏弱且盈利拐点尚不明确_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUbWRQbE1WcEs0SVBlNFVDeWZjNmlLS1BIRm5yS0QyWWVvcGxDQ0pfRkd6UVFZQkpRa0lUZ1RPT0NSN2tyNzZQMDJ",
       "source_url": "http://sc.stock.cnfol.com",
       "source": "中金在线"
     },
     {
-      "title": "煜荣集团(01536)：供股获认购不足约5.27%_股市直播_市场",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwNW9uRVRHdjFTUzFQeDRmT3BzRGpIc3Fxdm5zYkR6bTBuTWVJWFdOaGVmbm9QdVVoTU51cGdKQ2R4VjJQUzJHMUg",
+      "title": "港股异动| 煤炭股集体回落动力煤强势上行机构指短期下游接受度再次值得关注_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtNE0tZmxDRDU1YzRkNWZqbkwwNmxDVi1VeGpkMUhPZmJwMF9tZDRWZEdqOEVhVlVCdUNfcnk5UG1vVlNETlZMUjF",
       "source_url": "http://sc.stock.cnfol.com",
       "source": "中金在线"
     },
     {
-      "title": "A股：没必要等待股市跌破3700点了，又有消息传来，接下去大概率将这样走",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMEdhSEZJWDFfN0R2cDlHR05xU3RzeVJUNFAxNUtNMU5uTzJkaUdOOXU1SzBvX3VITmtmMWl4a1U3M0xpMnMwMEt",
-      "source_url": "https://c.m.163.com",
-      "source": "网易新闻客户端"
+      "title": "韩股暴跌，韩国金融监管机构召开紧急会议",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMcnJ4TmdhUk42Z2Vhd0ptTm5ORFRnenZJczBrNDBJb1E2cTJWZU5yT2VONWNpZy1jVk1Gal9HYTZ0azN2WWdFYnN",
+      "source_url": "https://finance.ifeng.com",
+      "source": "凤凰网财经"
     },
     {
-      "title": "财经博主分享祖孙三代被套牢故事",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OLWtTak95Ql93dXhIQ0M3NGh4LVN2eHFab2NsWW5JT2Z5Z0lxOHZTSzNGUGF2b1ppVWN2dW9mNHphUWI3R183ZVl",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "科技股跌势惨重 马股半日跌5.6点 - 财经",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uMkNubmRkZDlQaFZEVnptZ05BNjRrYVNXOFRmaWVfSHd2dzFjZ21SdFBTbkl1a0RsaXRyamsxOTJKTTZ1UEQxQTM",
+      "source_url": "https://www.sinchew.com.my",
+      "source": "即时财经"
     },
     {
-      "title": "四大证券报头版头条内容精华摘要_2026年10月14日_财经新闻",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmt2bWpTUGlURlI0RzQ2ZGluOFhybkRRV0k2VllaRmtHVzB5VjNJY3dHaWszQkR1X00wRGZ5ZnhBQ1hCNTNza0p",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "【纽约股市要点】大型金融机构抛售人工智能相关股票；联合健康股价上涨（14日）",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORVVPWXk4YkoxaGY4ak9BYnctNVFQUXkzV1duWEQ4bW1FVm0xeVEzZ1NJVjJZZndRdmpXQjNqanZoQ3FnbS14ZHV",
-      "source_url": "https://www.moomoo.com",
-      "source": "Moomoo"
+      "title": "全球芯片股遭抛售 亚股重挫马股随大市走低",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfcV8yQUlrSEZQaHVqbzhhZFVPWEJIMUtQWU5IUGtJNGZKSU91aTRFYnVYcS1ZV1Z5M0Z2cG5nc3BxcUVzNkxrZHd",
+      "source_url": "https://www.enanyang.my",
+      "source": "e南洋"
     }
   ]
 }

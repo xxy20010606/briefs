@@ -1,42 +1,42 @@
 {
   "type": "entertainment",
-  "total": 48,
+  "total": 51,
   "samples": [
     {
-      "title": "游改真人电影《生化危机：爆发夜》上映10天，票房累计破3.04亿",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOTd5aXlXM1QtS1BDcTYwS0Q5ZzNtdjE5bUxqYk5kZnlNbmJoWVFEMk5LMUtnRnd2aFFDenRSVDZIV2FnYV82ZWR",
+      "title": "尽管存在围绕《刺客（们）》的争议，该片仍持续火爆上映……连续16天位居韩国电影票房榜首",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yRGE4V3QwU18xcDdLY29leVpVdkkxV3R6ZGJSRmducnlWUEt1MDdNMHNkdjNJZzBvT3M2RmItOGhHdlMyY3ZNQTh",
+      "source_url": "https://www.starnewskorea.com",
+      "source": "스타뉴스"
+    },
+    {
+      "title": "耗資3億《敦煌英雄》票房大翻車 面臨巨虧",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUY1Rna2xQQzk0eWpjZFJ0eFlGX2RTdkJqek1XUzN5bkJreUFmN1BYOFlFUnVxSWNLNDNxUkdBTWdweFFxN3J1dDJ",
+      "source_url": "https://www.epochtimes.com",
+      "source": "大紀元"
+    },
+    {
+      "title": "《暗杀者（们）》突破308万观众，第三周观众人数反而增加",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR0NHMGR5UTN3ejlfMl9yRllYZGg4T2lWb0lTd09CQzJhTHl2YmI5V2JpVmUyVFhhOXMtalFVM0VaWmhmMTBGUEZ",
+      "source_url": "https://global.mediafine.co.kr",
+      "source": "미디어파인"
+    },
+    {
+      "title": "《生化危机：爆发夜》中国内地上映10天累计票房破3亿 连续10天蝉联内地票房日冠",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTViUkNFd19BRWxHRXRaYWlTMV8xYUpyRTVBOVhWX0pCN1I4ajVtYTJlaWRpWkx3SW5uVE5rQ184NnRtbG5iZld",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
     },
     {
-      "title": "[流言板]赛事官方发布S16 CBLOL队伍主题海报：欢迎来到S赛",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oLVRiR2xEenNKN05SNDZFc09GNUJtZG0zTUZVNzh4MzVZdlVCazliek92SXJhOVVGLWtnbDFLaEZ2aG40QXpPNUh",
-      "source_url": "https://bbs.hupu.com",
-      "source": "虎扑体育"
+      "title": "《生化危机：爆发夜》上映 10 天，票房累计破 3.04 亿",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15YU5FbnNRTWZMR1ZrLVBPNmNzTGFPZUJ5QnVBem9XaFZ0eGtXcGx2R2otTDN6a0lKSjBaVm9faWNyaXlNYlUzUk1",
+      "source_url": "https://www.donews.com",
+      "source": "DoNews"
     },
     {
-      "title": "[流言板]赛事官方发布S16 LCS队伍主题海报：代表LCS主场作战",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mWms3RVBSdkIteEVaTUVrZVdqOXIxcG1lT29nLWZEMnhSRjNhcXdRUXQzTW5ibEdBODVGbFBGaktGalg0OVYyWEc",
-      "source_url": "https://bbs.hupu.com",
-      "source": "虎扑体育"
-    },
-    {
-      "title": "北京游戏电竞产业硬核突围",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdFp5TGlDQmJtR0FtSUZtRHJJbnBhRFBRcDF4WWhUTFFnbFZabEZnbWRUY0loMkVzSVFpakQ2SE1pMHg3Q0RXVUR",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "[赛事视频]狼队/LGD第三局赛中语音回放：你就是最强阿古朵",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UVGJBaHlZaHZ1X0xBVXRWREdtdXRnN3FLNklXWDlDU3B0RXBFTFZZRFlPbFltdzBXZ0NqY2htcVpHYV9fbmI3R2t",
-      "source_url": "https://bbs.hupu.com",
-      "source": "虎扑体育"
-    },
-    {
-      "title": "[流言板]赛事官方发布S16 LCK队伍主题海报：卫冕冠军赛区在此",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UWE9iTVFUeHdIVVpwS0htUlBKOVlxcGhtTUl5eWM4TEZFWDRITWhubldiNWdxUlNGVlJlcTdqXzJxQi1zUFE0ekF",
-      "source_url": "https://bbs.hupu.com",
-      "source": "虎扑体育"
+      "title": "好莱坞巨星名导接连遭遇票房惨败|雷德利·斯科特|汤姆·克鲁斯|末世行者|电影票房|挖掘者",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN0ExTFRwT1JRMlU5VnNMTl80Q0tlRHU0eFIwd3hpUlRHYlg1SnZlT21nOE5Bd1pvaVQ0VDBHaDBfbGtjd3hQLWt",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     }
   ]
 }
