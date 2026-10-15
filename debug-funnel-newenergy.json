@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 46,
-    "trusted": 11,
+    "raw_dedup_junk": 49,
+    "trusted": 9,
     "non_trusted_top": {
-      "autohome.com.cn": 8,
-      "sina.com.cn": 4,
-      "indexbox.io": 2,
-      "beijing.gov.cn": 1,
-      "solarzoom.com": 1,
-      "seetao.com": 1,
-      "sxcoal.com": 1,
-      "gz-cmc.com": 1,
-      "qhnews.com": 1,
-      "qinghai.gov.cn": 1
+      "sina.com.cn": 13,
+      "autohome.com.cn": 11,
+      "stockstar.com": 4,
+      "sina.cn": 3,
+      "china.com": 2,
+      "mydrivers.com": 2,
+      "wedoany.com": 1,
+      "news18a.com": 1,
+      "voi.id": 1,
+      "indexbox.io": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
+    "fresh1_24h": 6,
+    "page_fresh": 1,
+    "relaxed_72h": 7,
     "final": 7,
     "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "思格零碳家杭州展厅，来了！",
-      "d": "solarbe.com"
+      "t": "锚定新型电池“十五五”规划 宁德时代曾毓群：以钠锂互补等底层创新应对复杂场景",
+      "d": "cls.cn"
     },
     {
-      "t": "麦”向四季 | 巴基斯坦之夏，增强高温环境下的能源韧性",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "AI赋能工商业光储管理 ，东方日升金盾3.0 EMS全面升级",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "我国规模最大“光氢储一体化”项目储能电站投运",
-      "d": "cpnn.com.cn"
-    },
-    {
-      "t": "9月新能源乘用车电池装车量排名出炉：宁德时代居首",
+      "t": "国网新能源云发布绿电直连收益测算平台，内含负荷、电价、储能等各节点信息",
       "d": "sohu.com"
     },
     {
-      "t": "松辽启绿｜秸化新质 黑土生醇",
+      "t": "唤醒城市“沉睡负荷” 国网青岛供电以优质服务赋能虚拟电厂发展",
       "d": "sohu.com"
     },
     {
-      "t": "工信部副部长熊继军：我国新型储能产业处于“深入起步、爬坡过坎”关键期",
+      "t": "瓣瓣一线｜近100%纯国产设备，张北风光储输示范工程开辟新能源利用新途径",
       "d": "sohu.com"
+    },
+    {
+      "t": "喜报！思格新能源获评国家级专精特新“小巨人”企业",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "算电协同厂家推荐与盘点：阳光电源算电协同方案解析",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "“十五五”清洁能源装备升级：可控核聚变、算电协同开启新赛道",
+      "d": "21jingji.com"
     }
   ]
 }

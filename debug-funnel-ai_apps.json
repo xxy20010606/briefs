@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 48,
-    "trusted": 10,
+    "raw_dedup_junk": 43,
+    "trusted": 14,
     "non_trusted_top": {
-      "oschina.net": 3,
       "pasqualepillitteri.it": 3,
-      "unite.ai": 3,
-      "pedaily.cn": 2,
-      "yeeyi.com": 2,
-      "ac.cn": 2,
-      "guandian.cn": 1,
-      "vietnam.vn": 1,
-      "sina.com.cn": 1,
-      "pharnexcloud.com": 1
+      "stockstar.com": 2,
+      "sina.com.cn": 2,
+      "ebrun.com": 2,
+      "unite.ai": 1,
+      "molihua.org": 1,
+      "hubeidaily.net": 1,
+      "globenewswire.com": 1,
+      "jinantimes.com.cn": 1,
+      "bjd.com.cn": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 8,
-    "relaxed_72h": 0,
+    "fresh1_24h": 14,
+    "page_fresh": 1,
+    "relaxed_72h": 10,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
-      "d": "leiphone.com"
+      "t": "AI漫剧火了，万兴科技的机会来了？",
+      "d": "36kr.com"
     },
     {
-      "t": "创想三维携SPARKX i8亮相TCT深圳展，展示“AI+生态”布局",
+      "t": "吐司开放APK与H5源码导入，支持初创产品继续创作并上架应用宝",
+      "d": "ifanr.com"
+    },
+    {
+      "t": "Anthropic五年前内部路线图曝光：AI编程、工具调用早已列入研究计划",
+      "d": "sohu.com"
+    },
+    {
+      "t": "独家｜库克确认苹果国行 AI，10 月底上线测试版！",
+      "d": "ifanr.com"
+    },
+    {
+      "t": "2026雅思app推荐：五大必备工具深度测评，覆盖听说读写全场景",
       "d": "ifeng.com"
     },
     {
-      "t": "联合实验室观察｜荣耀集团孙建发：让AI终端从工具变为伙伴",
+      "t": "协会资讯 | 关于召开汽车流通行业WorkBuddy企业AI应用线上交流会的通知",
       "d": "sohu.com"
     },
     {
-      "t": "AI算力主线下，指数化布局或成把握产业趋势的高效方式，科创创业人工智能ETF景顺",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "Meta Muse 引爆个人智能体竞赛：中国大厂从 B 端转向 C 端",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "个人智能体爆火！蚂蚁发新模型接招，实测编辑部小助理上线",
-      "d": "sohu.com"
-    },
-    {
-      "t": "腾讯上线「绿泡泡」短剧，主打免费好看；特斯拉Roadster 跑车明日发布；豆包",
-      "d": "geekpark.net"
+      "t": "水滴公司2025年ESG报告： 以AI创新深化普惠保障 全年上线定制化保险产品2",
+      "d": "ifeng.com"
     }
   ]
 }

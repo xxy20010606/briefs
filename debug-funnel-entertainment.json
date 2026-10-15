@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 51,
-    "trusted": 13,
+    "raw_dedup_junk": 42,
+    "trusted": 14,
     "non_trusted_top": {
-      "china.com": 6,
-      "sina.cn": 3,
-      "bjd.com.cn": 3,
-      "hupu.com": 2,
-      "sina.com.cn": 2,
-      "starnewskorea.com": 1,
-      "epochtimes.com": 1,
-      "mediafine.co.kr": 1,
-      "donews.com": 1,
-      "beijing.gov.cn": 1
+      "sina.com.cn": 4,
+      "yzwb.net": 2,
+      "17173.com": 1,
+      "52hrtt.com": 1,
+      "arch-web.com.tw": 1,
+      "aboluowang.com": 1,
+      "360.com": 1,
+      "hupu.com": 1,
+      "hk01.com": 1,
+      "kagit.kr": 1
     },
     "fresh1_24h": 12,
-    "page_fresh": 10,
-    "relaxed_72h": 2,
+    "page_fresh": 2,
+    "relaxed_72h": 10,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "《生化危机：爆发夜》中国内地上映10天累计票房破3亿 连续10天蝉联内地票房日冠",
-      "d": "sohu.com"
+      "t": "《明日方舟：终末地》上线Steam平台；小米超跑加入索尼《跑车浪漫旅7》丨游戏早",
+      "d": "eastmoney.com"
     },
     {
-      "t": "无畏契约亲签电竞装备1元起拍 来京东11.11边看全明星瓦友赛边抢好物",
-      "d": "sohu.com"
-    },
-    {
-      "t": "媒体评明星演唱会现天价黄牛票：理智追星抵制门票溢价乱象",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "《伟大的长征》导演张永新：一场发火戏拍了6小时，曹磊精准诠释",
-      "d": "163.com"
-    },
-    {
-      "t": "《美人余》：跳10年芭蕾、北电导演研究生王佳佳，演“潜伏保姆”",
-      "d": "163.com"
-    },
-    {
-      "t": "京昆和鸣，邀约青春知音（感知文化里的中国）",
+      "t": "乌尔比诺的拉斐尔（旅人心语） --国际",
       "d": "people.com.cn"
     },
     {
-      "t": "2026年10月电影票房已破15亿元",
-      "d": "eastmoney.com"
+      "t": "腾讯在CCTV大电视刷屏，给行业争了口气？这次真的不一样",
+      "d": "sohu.com"
+    },
+    {
+      "t": "德玛西亚杯国际邀请赛点燃赛场！2026北京亦庄电竞盛宴再启",
+      "d": "sohu.com"
+    },
+    {
+      "t": "央媒频频聚焦：数字文创为何总出“成都造”？",
+      "d": "nbd.com.cn"
+    },
+    {
+      "t": "AI短剧的下半场：400亿盛宴与98.7%的亏损面",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "大麦回应肖战演唱会“天价票”：系黄牛无票源恶意炒作，已向有关部门提交线索",
+      "d": "ithome.com"
     }
   ]
 }

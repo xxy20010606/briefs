@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 48,
+  "total": 43,
   "samples": [
     {
-      "title": "华为应用市场推出上架自检Skill，助力开发者高效上架 - OSCHINA",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3QlN0YmxDLXhIbkdsbENESkhyVVk2V252M05JRTFleHdYX2dRbUpTemFTZTR0WWhoWHZSeDRnMkdDajgwQVJqWUU",
-      "source_url": "https://www.oschina.net",
-      "source": "开源 × AI · 开发者生态社区"
+      "title": "AI漫剧火了，万兴科技的机会来了？",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zbDlvdkxOdUk0NXItUXY1OGJTNVJ3YnhoTnZDWENNX1UzZk4wdENBYXR1cXFZdlQtM0x3QThxVlNFQlhaY2lSN3d",
+      "source_url": "https://www.36kr.com",
+      "source": "36Kr"
     },
     {
-      "title": "香港电讯推出自主开发AI平台HKT.AI",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmMDZIZEZ0MHQ0Q0ZqTkNQUFJIbjNZQzBERnB6bnlVdkxHVk5mNnJhTGhRYkhtWkkwY0wxeXpHd0ppR0JDaHNtamh",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
+      "title": "云从科技10月15日回应AI智能体话题：正发展以AI智能体应用为核心的第二增长曲线_公司新闻",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TV3pNSXpwM0Zha2o3SEdWTVdBQ2c5NGw3amdzaUhNYlZySGYtbzZicERFWEl2RUlPSnJtNXoyc2ItME1GRkRkc2s",
+      "source_url": "http://stock.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "AI助力产品研发！美国半导体设备龙头：未来几年营收将翻倍",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04VTItVHlNUGJJM1k4Q0wxOUVNM19ic09DU205TE4xTEVTRFVfTFhPa1E0WHFsUU9mVVZkSXhGOVlZanBqZFFDbQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "OpenAI 为美国大学实验室推出 Rosalind 学术计划",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONC1EZnhUZE5URlVNRnl0czNwaGxkQXozUHUzdEM0X3dCVERTTWhDczBMY3doZlZ4em51UDN4enpEQ05jTm1NQmF",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "越南人在网上搜索的内容：iPhone 18 价格、人工智能工具和 IT 工作。",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLV9UNmpPeWNMZGhiSU55YnBaM0dBUmJCblVOQU1NS2FxTVhlcU5YRmw3eDFiYXF4WVZrckJMZlFVSmZIWXB4UXh",
-      "source_url": "https://www.vietnam.vn",
-      "source": "Vietnam.vn"
+      "title": "Ray-Ban Meta 更新后疑似故障，未说 Hey Meta 也在录音",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZUlRdVhiZGc1OFRsMXdFVF9JUDFMQ1ZYLV8xMEMtcmU2UHYxNG5Dcm9pZVN5R1dlc01Xa3dhaVVGVDB5d3lrLXp",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     },
     {
-      "title": "A股异动丨短剧及AI漫剧概念全线爆发，多股涨停领涨，狂飙背后有三大催化剂",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMWJwYW1UejhZV3J3aGxRRzQ3QllKdWc4SElpb3M1RWNncFFxU05YNWpZaExkeFVzWkx1RGJwMHQtYWZab0tFaTF",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "库克确认：苹果国行AI本月底测试 首批含翻译和写作工具",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9UMXlkNTZSdkZuWVMxV0I3X2JoY3AzVVZEZFJaZ1F5RDVzTUF6enhhRDQxbWEyT1hXZVdQazFVbFZyRnBTZ0E?oc=",
+      "source_url": "https://molihua.org",
+      "source": "茉莉花新闻网"
     },
     {
-      "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0eXd2R2FsTTdQZmZxTmVEMzRTWi0tRzN5Uy1UY3JzYXNWVXQtTXd0V1I0LURCSGFSZGVHbzgtcVhnZWp5dzhZcWl",
-      "source_url": "https://www.leiphone.com",
-      "source": "雷峰网"
+      "title": "实训营园地｜实训充电强技能 智媒赋能融媒宣传",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0Vml2MUVuVkJycWR0aEo4M0N5Z3VFWDNkRTBfUjlOaS02MUxodWIzVEphZGw0bGZ1TU5HTWFFMkMyRUFnQmFMdXd",
+      "source_url": "https://news.hubeidaily.net",
+      "source": "湖北日报传媒集团"
     }
   ]
 }

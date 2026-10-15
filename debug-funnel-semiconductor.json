@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 44,
-    "trusted": 28,
+    "raw_dedup_junk": 40,
+    "trusted": 21,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "moomoo.com": 2,
-      "guandian.cn": 1,
-      "mydrivers.com": 1,
-      "itheat.com": 1,
-      "tradingview.com": 1,
-      "cnbeta.com.tw": 1,
-      "icloudnews.net": 1,
-      "com.sg": 1,
-      "sphericalinsights.com": 1
+      "china.com": 2,
+      "sina.com.cn": 2,
+      "indexbox.io": 2,
+      "tradingview.com": 2,
+      "guandian.cn": 2,
+      "jrj.com.cn": 2,
+      "sina.cn": 2,
+      "ntdtv.com": 1,
+      "cfi.net.cn": 1,
+      "tfcaijing.com": 1
     },
-    "fresh1_24h": 27,
-    "page_fresh": 23,
-    "relaxed_72h": 0,
+    "fresh1_24h": 17,
+    "page_fresh": 5,
+    "relaxed_72h": 9,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "这家射频芯片厂商，拿下近亿元融资！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "彭博社：字节跳动洽购联发科数据中心AI芯片",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "聚焦存储与算力芯片全链路测试，深圳精智达湾芯展披露新进展",
+      "t": "单颗芯片拼不过海外巨头，就靠体系胜出，工博会上看国芯“自有打法”",
       "d": "sohu.com"
     },
     {
-      "t": "AI硬件筹码持续出清，半导体设备ETF招商(561980)再度重挫，科技调整何时",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "从芯片到智算网络，深圳万里眼五大高端测试方案亮相湾芯展",
+      "t": "湾芯展批量“上新” 国产半导体设备与材料竞逐高端化",
       "d": "sohu.com"
     },
     {
-      "t": "从展会到产业生态平台：“湾芯展”成长背后的半导体产业新逻辑",
-      "d": "guancha.cn"
+      "t": "多家科创板半导体公司前三季度业绩预喜！沐曦股份扭亏为盈 复旦微电净利至高增248",
+      "d": "cls.cn"
     },
     {
-      "t": "半导体零部件基地封顶，南方基金郑晓曦关注半导体产业链",
-      "d": "jiemian.com"
+      "t": "公告全知道",
+      "d": "cls.cn"
+    },
+    {
+      "t": "美股存储芯片股，集体大跌",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "2026湾芯展在深圳举办，超千家企业同台亮相",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "长鑫存储技术取得重大突破，韩媒称“好日子恐怕只剩下2-3年”",
+      "d": "ifeng.com"
     }
   ]
 }

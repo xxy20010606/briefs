@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 66,
-    "trusted": 22,
+    "raw_dedup_junk": 43,
+    "trusted": 11,
     "non_trusted_top": {
-      "moomoo.com": 13,
-      "stockstar.com": 5,
-      "investing.com": 3,
-      "sina.cn": 3,
+      "stockstar.com": 7,
+      "sina.cn": 5,
       "sina.com.cn": 3,
-      "sinchew.com.my": 1,
-      "enanyang.my": 1,
+      "jin10.com": 3,
+      "moomoo.com": 3,
+      "sfccn.com": 1,
+      "newswav.com": 1,
       "atvnewsonline.com": 1,
-      "hk01.com": 1,
-      "orientaldaily.com.my": 1
+      "orientaldaily.com.my": 1,
+      "sinchew.com.my": 1
     },
-    "fresh1_24h": 22,
-    "page_fresh": 18,
-    "relaxed_72h": 0,
+    "fresh1_24h": 4,
+    "page_fresh": 0,
+    "relaxed_72h": 8,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "“易中天”集体大跌AI交易再度重挫三大积极信号已显现！_证券要闻",
+      "t": "江波龙募68亿港元H股新低收盘为易方达A股定增价23%_证券要闻",
       "d": "cnfol.com"
     },
     {
-      "t": "港股异动| 光伏股延续近期跌势机构指行业处于周期底部需求偏弱且盈利拐点尚不明确_",
+      "t": "破发股禾迈股份创新低上市超募48亿中信证券保荐_证券要闻",
       "d": "cnfol.com"
     },
     {
-      "t": "韩股暴跌，韩国金融监管机构召开紧急会议",
-      "d": "ifeng.com"
+      "t": "破发股科净源跌5.04% 上市即巅峰募7.7亿国联民生保荐_证券要闻",
+      "d": "cnfol.com"
     },
     {
-      "t": "亚太股市集体杀跌，崩盘原因",
-      "d": "ifeng.com"
+      "t": "鸿泉技术(688288.SH)终止实施2024年限制性股票激励计划_股市直播_市",
+      "d": "cnfol.com"
     },
     {
-      "t": "A股：没必要等待股市跌破3700点了，又有消息传来，接下去大概率将这样走",
-      "d": "163.com"
+      "t": "破发股*ST卓然跌10.99% A股共募13亿IPO国投证券保荐_证券要闻",
+      "d": "cnfol.com"
     },
     {
-      "t": "新湖宏观金融（黄金）深度专题：当Fed收紧遇上央行黄金需求，金价还能走多远？",
+      "t": "破发股神农集团跌4.73% 上市即巅峰募22亿中泰证券保荐_证券要闻",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "港股风向标｜恒指承压险守24000点 AI交易退潮沽空情绪走高",
       "d": "sohu.com"
-    },
-    {
-      "t": "险资开闸叠加南向资金加码，港股高股息与美股现金流“哑铃”组合受捧！南方东西精选E",
-      "d": "eastmoney.com"
     }
   ]
 }

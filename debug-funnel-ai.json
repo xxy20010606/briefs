@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 65,
-    "trusted": 30,
+    "raw_dedup_junk": 56,
+    "trusted": 21,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "techwalker.com": 3,
-      "csdn.net": 2,
-      "icloudnews.net": 2,
-      "stockstar.com": 2,
-      "unite.ai": 2,
-      "guandian.cn": 1,
-      "mydrivers.com": 1,
-      "iqilu.com": 1,
-      "beijing.gov.cn": 1
+      "sina.com.cn": 14,
+      "guanhai.com.cn": 3,
+      "stockstar.com": 3,
+      "sina.cn": 2,
+      "techwalker.com": 2,
+      "wenxuecity.com": 1,
+      "tidenews.com.cn": 1,
+      "zhiding.cn": 1,
+      "jwview.com": 1,
+      "jn001.com": 1
     },
-    "fresh1_24h": 30,
-    "page_fresh": 28,
-    "relaxed_72h": 0,
+    "fresh1_24h": 16,
+    "page_fresh": 2,
+    "relaxed_72h": 18,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "AI算力主线下，指数化布局或成把握产业趋势的高效方式，科创创业人工智能ETF景顺",
-      "d": "jiemian.com"
+      "t": "当下智能远非最终形态",
+      "d": "sohu.com"
     },
     {
-      "t": "中国科学家首次用国产大模型破解三维Ghys猜想，人机协同证明并获形式化验证",
+      "t": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+      "d": "qbitai.com"
+    },
+    {
+      "t": "DeepSeek被曝接触具身智能创业公司，梁文锋或提前布局物理世界",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "人工智能如何取得产业成果？山东跑通了一条路",
+      "d": "sohu.com"
+    },
+    {
+      "t": "跑出全国首个商业化词元工厂，为什么是广西？｜活力中国调研行",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "我国生成式AI用户突破7亿人，超7成用户让AI“回答问题”",
       "d": "ifeng.com"
     },
     {
-      "t": "人工智能的下一个跃迁：智能造物的第五范式",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "中国科学家首次用中国大模型攻克世界级数学难题",
-      "d": "sohu.com"
-    },
-    {
-      "t": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "人工智能赋能保险资产管理行业的应用研究",
-      "d": "caixin.com"
-    },
-    {
-      "t": "“用AI对抗AI”，全球增速将达69%！软件股顶住大风暴，融资客加码这些高增长股",
-      "d": "stcn.com"
+      "t": "中移九天与山东移动联合发布观海大模型体系",
+      "d": "stdaily.com"
     }
   ]
 }

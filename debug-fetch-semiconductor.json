@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 44,
+  "total": 40,
   "samples": [
     {
-      "title": "ChipAgents与英伟达合作推出Build-a-Chip-Bench",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlTXJIbTJvaGZSR1JvOTlpZHF5dnA5NW9fQ2E4RFdoeUN5anNQZVJwZXhkN05LcTU1bERXWjRRVVEwOUxaYnF4c0M",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
+      "title": "专家：存储芯片格局正在重塑 国产“长缨”打破垄断",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHSGVsc2piNXNRTlNHN3Q2UmNUalZIZE9oMnE0Wmlob25jbWU0QUtoSGM1dVAtSlV0M1JRR2dMUUMyNXN6YmJzZTY",
+      "source_url": "https://news.china.com",
+      "source": "中华网"
     },
     {
-      "title": "这家射频芯片厂商，拿下近亿元融资！",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qRG9EbVdLaDdyNEJhYjhpWWNGcDhHNG8wTmt1clpCMzRpOVJDQ1oyTXRYdFlHUWJySXdUMUdaNDBJUDVXb2F2S20",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
-    },
-    {
-      "title": "彭博社：字节跳动洽购联发科数据中心AI芯片",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByTWFMWWxXdS1hV3d3bXRYemdaWWMzYnkxelBZUFhiM0UwU1g0VVR0dk9NRUVDTkplemRDaFZvOW55U0lZUjk1SVV",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
-    },
-    {
-      "title": "创业板、科创50均跌4%，白酒、创新药逆势活跃，算力硬件陷入调整，恒科指跌超3%，存储芯片走低",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lSlNnaXltby1sZFpHZUhqdGpITTZoRVp3dmZvQ25fb1JVWFdGQ1p0RHpqWE5kNnZWVGc4czRhOVpJNFluRzgtY1l",
-      "source_url": "https://wallstreetcn.com",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "聚焦存储与算力芯片全链路测试，深圳精智达湾芯展披露新进展",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHFDdnVCX3dpOTVFY2x5UGNzLVdiWU16cElhdzBEbXdkRTZxeC1SYVlUTFRrejU0NnZIWWI5OUpLUnJpa1pYUmF",
+      "title": "单颗芯片拼不过海外巨头，就靠体系胜出，工博会上看国芯“自有打法”",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeW5LTWZlNmp4UGRRcWF4TDNsVVhUMEcxMUpwZ1VqeHg5QjNLQk9NMGJQZU1IRnZKcnpCNGtEWWVGa0MyeWU3NkI",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
     },
     {
-      "title": "麒麟2027已就绪 测试结果符合预期！华为：韬定律不是简单把几颗芯片叠在一起",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOVVFxeURCRjh0dWdDUkhOcVpweEw4UGw1ekxtSjcxR3pFTnRKeFcweHVGcE9RTHhCSHQ3VS1UeUd5dG41cmdMYk1",
-      "source_url": "https://news.mydrivers.com",
-      "source": "驱动之家"
+      "title": "湾芯展批量“上新” 国产半导体设备与材料竞逐高端化",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVfSG43U0xCcl9yMnhXNzZNVG9DWGM4VWFnQzN5bE5mZVdmSDFNWTA4aU9oMUxnTUVzWEs5WkZMRGQ0eHl5V3l",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
+    },
+    {
+      "title": "“圳”启“芯”程 智创未来！2026湾芯展盛大启幕",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQRlUtaEQ4QnpWeGdoemdmUmFXM09UX0NoSEtpWkk4WnVxbmhRQi16RUk2WGkyMTJqMmg3S2lPVnZJMWpDaDUzOTJ",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "日本向GlobalFoundries投资210亿美元：纽约新建两座晶圆厂",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeVlEOEhJdGNpMFN2eDV1dllpM1p5QW5IalZhcE1HaHRLbl9WQkV0S1gweE8xZzhNekxaNFlBeUxaUFhjcWNVN2N",
+      "source_url": "https://www.indexbox.io",
+      "source": "新闻和统计"
+    },
+    {
+      "title": "粤芯半导体市值1300亿，广东国资迎来超级回报",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKelJZN2hIQm5CY0Z2ekVKNUxHU3BJOFlkazdCcDJwQjAzb2dRTWgxM1RBcEQxcnMzZ3k4bVJQSlg5VDluNWVkLXB",
+      "source_url": "https://user.guancha.cn",
+      "source": "风闻"
     }
   ]
 }
