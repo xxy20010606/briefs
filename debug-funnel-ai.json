@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 54,
-    "trusted": 13,
+    "raw_dedup_junk": 59,
+    "trusted": 19,
     "non_trusted_top": {
-      "sina.com.cn": 6,
-      "stockstar.com": 5,
-      "icloudnews.net": 4,
-      "techwalker.com": 4,
-      "caiwennews.com": 3,
-      "iqilu.com": 2,
-      "sina.cn": 2,
-      "guandian.cn": 2,
-      "guanhai.com.cn": 1,
-      "prnasia.com": 1
+      "sina.cn": 14,
+      "sina.com.cn": 10,
+      "zhiding.cn": 3,
+      "stockstar.com": 2,
+      "tradingview.com": 2,
+      "techwalker.com": 2,
+      "dailyqd.com": 1,
+      "sfccn.com": 1,
+      "techflowpost.com": 1,
+      "e23.cn": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
+    "fresh1_24h": 16,
+    "page_fresh": 5,
+    "relaxed_72h": 12,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "粤港澳大湾区生成式人工智能安全发展联合实验室成果发布会在穗举行",
+      "t": "欧洲离“AI大陆”愿景道阻且长",
+      "d": "ce.cn"
+    },
+    {
+      "t": "人工智能攻克世界级数学难题，会让数学家失业吗？｜科创观察员",
       "d": "sohu.com"
     },
     {
-      "t": "把大模型“转口”到硬件：小智 AI 亮相香港秋季电子展",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "魏凯：山东发展垂域大模型的思路值得借鉴",
+      "t": "从“词元服务”到“智能体终端”：2026 AI十大关键词里的运营商新战场",
       "d": "sohu.com"
     },
     {
-      "t": "195款备案大模型，藏着广东“AI生态雨林密码”",
-      "d": "sohu.com"
+      "t": "广东AI发展敢冲又合规！已备案195款大模型位居全国前列",
+      "d": "21jingji.com"
     },
     {
-      "t": "大模型开始替用户选品牌：软文发稿平台如何帮企业进AI答案位？",
-      "d": "ifeng.com"
+      "t": "美银、花旗出手限制AI Agent 银行为何开始害怕“智能理财”？",
+      "d": "cls.cn"
     },
     {
-      "t": "对话李胡升：山东垂域大模型正处于全国第一梯队",
-      "d": "ifeng.com"
+      "t": "AI药材检测大模型在江西樟树正式发布",
+      "d": "people.com.cn"
     },
     {
-      "t": "Meta发布美国最强开源大模型，可在两台Mac Studio上本地运行",
-      "d": "jiemian.com"
+      "t": "155款App拒绝接入豆包！“AI接管”安全边界与生态困局如何破？",
+      "d": "21jingji.com"
     }
   ]
 }

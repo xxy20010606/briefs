@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 47,
-    "trusted": 11,
+    "raw_dedup_junk": 49,
+    "trusted": 10,
     "non_trusted_top": {
-      "autohome.com.cn": 10,
-      "sina.com.cn": 5,
-      "sina.cn": 4,
-      "ne21.com": 3,
-      "hljnews.cn": 1,
-      "prnasia.com": 1,
-      "gessey.com": 1,
-      "icloudnews.net": 1,
-      "imsilkroad.com": 1,
-      "stockstar.com": 1
+      "sina.cn": 10,
+      "sina.com.cn": 8,
+      "autohome.com.cn": 6,
+      "ne21.com": 5,
+      "gessey.com": 2,
+      "powerchina.cn": 1,
+      "66wz.com": 1,
+      "caiwennews.com": 1,
+      "futunn.com": 1,
+      "zaochenbao.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 9,
-    "relaxed_72h": 0,
+    "fresh1_24h": 10,
+    "page_fresh": 2,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "宁夏华电到访巨安储能，共话长时储能新机遇",
-      "d": "solarbe.com"
+      "t": "支持15mm爬电距离，纳芯微推出超宽体封装、集成隔离电源的数字隔离器NSIP98",
+      "d": "eet-china.com"
     },
     {
-      "t": "源网荷储赋能园区焕新||瑞诚电气承建澄城县创融产业园微电网示范项目投入运行",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "《喜报｜并网成功！赛博新程运营张掖储能项目正式通电》",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "重大突破！国产碳化硅功率器件加工装备成功量产交付！",
+      "t": "比亚迪汉EV旗舰版上市：续航破千公里，起售价约35000美元",
       "d": "sohu.com"
     },
     {
-      "t": "【国际快讯】墨西哥免征汽车零部件进口关税，为期5年；特斯拉发布会飞的电动跑车；比",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "汽车出行产业日报(10.15) : 中国车企海外扩张",
+      "t": "聚能成势、向新图强 眉山三大产业厚植根基、谋定长远",
       "d": "sohu.com"
     },
     {
-      "t": "视频丨产业链完整、多技术并举 新型储能加速迈入市场化驱动新阶段",
+      "t": "聚力中马算电协同，共拓东南亚绿能新机遇｜马来西亚国会上议员一行到访华成电力开展深",
       "d": "sohu.com"
+    },
+    {
+      "t": "【网通社快报】比亚迪秦PLUS EV完成工信部第412批新产品公示申报",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "比亚迪第三代秦PLUS申报图公布，预计10月下旬上市",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "聚力风光制氢 赋能产业脱碳｜阳光氢能亮相2026北京国际风能大会",
+      "d": "ifeng.com"
     }
   ]
 }

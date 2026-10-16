@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 38,
+  "total": 34,
   "samples": [
     {
-      "title": "苹果AI终于要来了，为什么最重要的Siri缺席？",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tSTZ3VTlhQnJCb3FkclZ2cU9jcmo5MFpBc1d6ZGNuSUNrSUVZTV93dE15OG9JdHFnOE5jTUZwNEo3RkxKS3dxZFV",
-      "source_url": "https://www.wenxuecity.com",
-      "source": "文学城"
+      "title": "“双11”大战提前启幕 头部电商借AI开辟竞争新维度",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb3hVOWZlVlJFaDR5MUltM1NFckRsS0ctTlVPaHFfT3pwcUJ1VmRqN0JiaW9oeC00RmRPcTF5cndlWUlhZUhEYXJ",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
     },
     {
-      "title": "【HarmonyOS SDK Skills】解锁实况窗开发助手，九大场景轻松落地- OSCHINA",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR2NGWHlQQk5KNHdPSVk0TjZwRlBIeC1wdV93Y0hlNFl5TXhKZzV3azc3aURQVWJBUlJlTy1kcHZBYllTelZLMTN",
+      "title": "Epic为未发布迪士尼游戏转向\"AI加速开发\"模式-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mNzgzeXZhRTd0Rks4OGZ5T041UDAwTElFVVBJd3ZaUmZOSWdFeHc1OW84VGRJS2pPSUVIYlNjdmdVb051WkxqWWx",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
+    },
+    {
+      "title": "从\"会用工具\"到\"能创造工具\"，中国—中亚\"校长π圆桌\"，共话AI时代科技人才培养",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03OE43M1QyLUhjdjFFSjh6NDJHcVBVLTNvTkdHeUFabE5MbVU1RFFzUzk1VGVxMzlEZ1hVMG5pTEFGS3NKVUdkNXg",
       "source_url": "https://www.oschina.net",
-      "source": "开源 × AI · 开发者生态社区"
+      "source": "OSCHINA"
     },
     {
-      "title": "AI感知：构建抗衰逆龄健康管理数字新范式——OMYQS元气循环构筑AI精准长寿健康管理全场景应用生态",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzSFAxZUlYOWRFNF9jaktoTHBvZWp0clpZY3l2UVNyLTN3WmNPRF9UTmtBdEFsMlpDMEhPRmxzSEFUR1RqUmZRQnB",
-      "source_url": "https://baby.ifeng.com",
-      "source": "凤凰网"
+      "title": "哪些 AI 助手能替你购物，各自在哪些地方可用",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2lSZUk3bjh1ci1HYzQxdmhEZl9CdzRwVnhMUjJhNUFvZXFWclM0ZUNnN1hacFFoN0ZSRHd6NUl5bjZvaGxpNG9",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     },
     {
-      "title": "南方财经全媒体集团 林健民 2026-10-16 11:17:25",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVVmhPcXdMNjlzRzNQcEtYUUlFNGRWb29FeGtueXM0XzlPaDlDMGd4d1JPUHFsLUdtVkthcHdwOUh3bHcxQW42alp",
-      "source_url": "https://www.sfccn.com",
-      "source": "南方财经"
+      "title": "RapidCanvas 获 2900 万美元 B 轮融资，扩大企业 AI 交付规模",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVNxQ3VOZEZrU19Pd2t4cExsTVVuNlBSSEx2QVhaeVZUOEs2MHZvOWlCcXV5U0lGbVBWTjNlQlhuRXRfOC1YT3p",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "泰瑞达机器人亮相2026中国工博会，将优傲机器人第七代平台引入中国",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPRWxJcGNobnZVd1R4Q191azFkSjlqQzRIQXlTX3huQ29Ld0pYUnJSS2MzdDlTZE1NQWJObDN5UW9BMnpINmJmeEV",
-      "source_url": "http://www.gongkong.com",
-      "source": "中国工控网"
-    },
-    {
-      "title": "广告收入增长28%，哔哩哔哩能否把内容优势变成利润优势？-证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96QWdWZDlyUU5rZnh3YUw2eDBFbk9UWUdwcEhvMkFqN2NlaUc0MGlMN01INTVnVWFVQXN1azdRQ3VqQUEySTBHcHl",
-      "source_url": "https://hk.stockstar.com",
-      "source": "证券之星"
+      "title": "麦当劳AI定价工具惹来诉讼 业界争论是否要引入动态定价？",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91d0s5dkJmX0pjM0h1enF4ODQweWZ0dm9mTEhzVnV1U0VJLTlPUlA3bEdSYzgyQjYtS1VrcHBWLWFNaHp6NUhGNw?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }

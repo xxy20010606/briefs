@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 47,
+    "raw_dedup_junk": 43,
     "trusted": 29,
     "non_trusted_top": {
       "sina.cn": 2,
-      "gsi24.com": 2,
+      "guandian.cn": 2,
+      "stockstar.com": 1,
+      "voachinese.com": 1,
+      "enanyang.my": 1,
+      "tomorrow-city.com": 1,
       "moomoo.com": 1,
-      "sina.com.cn": 1,
-      "straitsresearch.com": 1,
-      "china.com": 1,
-      "chosun.com": 1,
-      "tom.com": 1,
-      "dramx.com": 1,
-      "icsmart.cn": 1
+      "eeworld.com.cn": 1,
+      "ofweek.com": 1,
+      "sina.com.cn": 1
     },
-    "fresh1_24h": 28,
-    "page_fresh": 22,
-    "relaxed_72h": 0,
+    "fresh1_24h": 26,
+    "page_fresh": 6,
+    "relaxed_72h": 18,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "曝联发科获字节跳动芯片大单",
-      "d": "zhidx.com"
+      "t": "美股成交额前20：存储芯片股重挫 美光跌超5%居首",
+      "d": "eastmoney.com"
     },
     {
-      "t": "预计2270亿美元！300mm晶圆厂设备支出",
-      "d": "eet-china.com"
+      "t": "粤芯半导体上市首日暴涨 基本面仍待提升",
+      "d": "eastmoney.com"
     },
     {
-      "t": "AI 加持芯片设计：人机协同共绘未来",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "“湾芯展”观察 丨 从“补空白”到“同台竞争”：国产半导体设备这一年，实现了哪些",
+      "t": "IBM将推出0.7纳米纳米堆叠芯片早期设计工具包",
       "d": "sohu.com"
     },
     {
-      "t": "国产半导体突破+台积电业绩超预期，芯片ETF易方达涨1.73%",
+      "t": "18:18:49【国产光刻核心零部件实现技术突破，半导体设备ETF易方达（159",
+      "d": "cls.cn"
+    },
+    {
+      "t": "一磷化铟企业完成近10亿元B轮战略融资！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "外延：在 InP 衬底上\"长\"出会发光的功能层",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "NAURA北方华创全资收购诺合键维！",
       "d": "sohu.com"
-    },
-    {
-      "t": "美新半导体亮相首届空天科博会：MEMS全栈感知赋能空天创新与低空经济",
-      "d": "laoyaoba.com"
-    },
-    {
-      "t": "深圳湾芯展三年三级跳：从3万到8万平米，生态型展会破局",
-      "d": "21jingji.com"
     }
   ]
 }
