@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 40,
+  "total": 47,
   "samples": [
     {
-      "title": "专家：存储芯片格局正在重塑 国产“长缨”打破垄断",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHSGVsc2piNXNRTlNHN3Q2UmNUalZIZE9oMnE0Wmlob25jbWU0QUtoSGM1dVAtSlV0M1JRR2dMUUMyNXN6YmJzZTY",
-      "source_url": "https://news.china.com",
-      "source": "中华网"
+      "title": "曝联发科获字节跳动芯片大单",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQRVQ0NTFic0d4ZDVHaHdBaHpyMnZITF9vT0psdnlZckE0ODl4RmU3OFA2dlBNLVh4SDNjRGxGSERXUW9hZURSTA?",
+      "source_url": "https://m.zhidx.com",
+      "source": "智东西"
     },
     {
-      "title": "单颗芯片拼不过海外巨头，就靠体系胜出，工博会上看国芯“自有打法”",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeW5LTWZlNmp4UGRRcWF4TDNsVVhUMEcxMUpwZ1VqeHg5QjNLQk9NMGJQZU1IRnZKcnpCNGtEWWVGa0MyeWU3NkI",
+      "title": "预计2270亿美元！300mm晶圆厂设备支出",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Jb0NTZjQ1R2d6STZ1eUZTM0ZSOVh1dEVTb2d1VndoS1gtV3pXS0RYYVdiMVhKb0ZCOWdNbG9CQTZmVEh0dU5GUm9",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "AI 加持芯片设计：人机协同共绘未来",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MeHBSN3h6NGlySjZqZl9jMVprdm1uOE81ODMwei1vejhuSVYzQ0hzQ1NLNkhUX3JVNXpuSmxqVE53ZjhQczJabWx",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "“湾芯展”观察 丨 从“补空白”到“同台竞争”：国产半导体设备这一年，实现了哪些进展？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXdSQmJSeWg5dWhfcEdmS0xGWlJsQTlpZHdVcGlfX09Ca1Z0Q0lvUkFKU1NFV190OTVKcm9PZklzeFg3Y3pEQVh",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
     },
     {
-      "title": "湾芯展批量“上新” 国产半导体设备与材料竞逐高端化",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWVfSG43U0xCcl9yMnhXNzZNVG9DWGM4VWFnQzN5bE5mZVdmSDFNWTA4aU9oMUxnTUVzWEs5WkZMRGQ0eHl5V3l",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "title": "台积电利润大增69%，芯片股却连续7日下跌：自2001年以来仅15次，历史是否即将重演？",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlBHVkpmRVhpOFlrN1QzZUpNVmpUd3JhellFY092a0FwcERFZTVGek1Cc1V1TDJzOXpiN2gzaXkwclV3X0JRSGd",
+      "source_url": "https://www.moomoo.com",
+      "source": "Moomoo"
     },
     {
-      "title": "“圳”启“芯”程 智创未来！2026湾芯展盛大启幕",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQRlUtaEQ4QnpWeGdoemdmUmFXM09UX0NoSEtpWkk4WnVxbmhRQi16RUk2WGkyMTJqMmg3S2lPVnZJMWpDaDUzOTJ",
-      "source_url": "https://k.sina.com.cn",
+      "title": "A股开盘｜沪指涨0.44%半导体芯片股活跃|创业板指|存储芯片|新股|PCB|南乳",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOXJjXzZJTjNiTHRxM19JLTBzU19kVGhORUM5R2dWRktvM2lTUG4wNlpSSDgzeUp5aHUwTVJaNU53X1kyNGRlNHJ",
+      "source_url": "https://video.sina.com.cn",
       "source": "新浪网"
-    },
-    {
-      "title": "日本向GlobalFoundries投资210亿美元：纽约新建两座晶圆厂",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeVlEOEhJdGNpMFN2eDV1dllpM1p5QW5IalZhcE1HaHRLbl9WQkV0S1gweE8xZzhNekxaNFlBeUxaUFhjcWNVN2N",
-      "source_url": "https://www.indexbox.io",
-      "source": "新闻和统计"
-    },
-    {
-      "title": "粤芯半导体市值1300亿，广东国资迎来超级回报",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKelJZN2hIQm5CY0Z2ekVKNUxHU3BJOFlkazdCcDJwQjAzb2dRTWgxM1RBcEQxcnMzZ3k4bVJQSlg5VDluNWVkLXB",
-      "source_url": "https://user.guancha.cn",
-      "source": "风闻"
     }
   ]
 }

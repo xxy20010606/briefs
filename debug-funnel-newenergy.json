@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 9,
+    "raw_dedup_junk": 47,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.com.cn": 13,
-      "autohome.com.cn": 11,
-      "stockstar.com": 4,
-      "sina.cn": 3,
-      "china.com": 2,
-      "mydrivers.com": 2,
-      "wedoany.com": 1,
-      "news18a.com": 1,
-      "voi.id": 1,
-      "indexbox.io": 1
+      "autohome.com.cn": 10,
+      "sina.com.cn": 5,
+      "sina.cn": 4,
+      "ne21.com": 3,
+      "hljnews.cn": 1,
+      "prnasia.com": 1,
+      "gessey.com": 1,
+      "icloudnews.net": 1,
+      "imsilkroad.com": 1,
+      "stockstar.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 1,
-    "relaxed_72h": 7,
+    "fresh1_24h": 11,
+    "page_fresh": 9,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "锚定新型电池“十五五”规划 宁德时代曾毓群：以钠锂互补等底层创新应对复杂场景",
-      "d": "cls.cn"
-    },
-    {
-      "t": "国网新能源云发布绿电直连收益测算平台，内含负荷、电价、储能等各节点信息",
-      "d": "sohu.com"
-    },
-    {
-      "t": "唤醒城市“沉睡负荷” 国网青岛供电以优质服务赋能虚拟电厂发展",
-      "d": "sohu.com"
-    },
-    {
-      "t": "瓣瓣一线｜近100%纯国产设备，张北风光储输示范工程开辟新能源利用新途径",
-      "d": "sohu.com"
-    },
-    {
-      "t": "喜报！思格新能源获评国家级专精特新“小巨人”企业",
+      "t": "宁夏华电到访巨安储能，共话长时储能新机遇",
       "d": "solarbe.com"
     },
     {
-      "t": "算电协同厂家推荐与盘点：阳光电源算电协同方案解析",
+      "t": "源网荷储赋能园区焕新||瑞诚电气承建澄城县创融产业园微电网示范项目投入运行",
       "d": "solarbe.com"
     },
     {
-      "t": "“十五五”清洁能源装备升级：可控核聚变、算电协同开启新赛道",
-      "d": "21jingji.com"
+      "t": "《喜报｜并网成功！赛博新程运营张掖储能项目正式通电》",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "重大突破！国产碳化硅功率器件加工装备成功量产交付！",
+      "d": "sohu.com"
+    },
+    {
+      "t": "【国际快讯】墨西哥免征汽车零部件进口关税，为期5年；特斯拉发布会飞的电动跑车；比",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "汽车出行产业日报(10.15) : 中国车企海外扩张",
+      "d": "sohu.com"
+    },
+    {
+      "t": "视频丨产业链完整、多技术并举 新型储能加速迈入市场化驱动新阶段",
+      "d": "sohu.com"
     }
   ]
 }

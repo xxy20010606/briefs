@@ -1,53 +1,53 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 11,
+    "raw_dedup_junk": 61,
+    "trusted": 16,
     "non_trusted_top": {
-      "stockstar.com": 7,
-      "sina.cn": 5,
+      "stockstar.com": 11,
+      "moomoo.com": 8,
+      "sina.cn": 6,
       "sina.com.cn": 3,
-      "jin10.com": 3,
-      "moomoo.com": 3,
-      "sfccn.com": 1,
+      "futunn.com": 3,
+      "hstong.com": 3,
+      "sinchew.com.my": 2,
+      "jin10.com": 2,
       "newswav.com": 1,
-      "atvnewsonline.com": 1,
-      "orientaldaily.com.my": 1,
-      "sinchew.com.my": 1
+      "hangzhou.com.cn": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 0,
-    "relaxed_72h": 8,
+    "fresh1_24h": 16,
+    "page_fresh": 9,
+    "relaxed_72h": 1,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "江波龙募68亿港元H股新低收盘为易方达A股定增价23%_证券要闻",
+      "t": "不同集团(06090)10月15日斥资386.56万港元回购11万股_股市直播_",
       "d": "cnfol.com"
     },
     {
-      "t": "破发股禾迈股份创新低上市超募48亿中信证券保荐_证券要闻",
+      "t": "保诚(02378)10月15日斥资合计723.73万英镑回购80.51万股_股市",
       "d": "cnfol.com"
     },
     {
-      "t": "破发股科净源跌5.04% 上市即巅峰募7.7亿国联民生保荐_证券要闻",
-      "d": "cnfol.com"
+      "t": "A股：今天股市突然上涨，行情要反转了吗？下周一或将这样走！",
+      "d": "163.com"
     },
     {
-      "t": "鸿泉技术(688288.SH)终止实施2024年限制性股票激励计划_股市直播_市",
-      "d": "cnfol.com"
+      "t": "盘前必读丨日韩股市集体高开；多只科技龙头股官宣回购计划",
+      "d": "eastmoney.com"
     },
     {
-      "t": "破发股*ST卓然跌10.99% A股共募13亿IPO国投证券保荐_证券要闻",
-      "d": "cnfol.com"
+      "t": "A股：大家要提前做好准备了，若无意外，股市或将迎来大级别的变盘？",
+      "d": "163.com"
     },
     {
-      "t": "破发股神农集团跌4.73% 上市即巅峰募22亿中泰证券保荐_证券要闻",
-      "d": "cnfol.com"
+      "t": "美股三大指数齐涨：费城半导体指数七连跌，中概股普遍走高",
+      "d": "eastmoney.com"
     },
     {
-      "t": "港股风向标｜恒指承压险守24000点 AI交易退潮沽空情绪走高",
+      "t": "易纲解读中央银行三大基本职能",
       "d": "sohu.com"
     }
   ]

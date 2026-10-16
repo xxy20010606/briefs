@@ -1,40 +1,40 @@
 {
   "type": "finance",
-  "total": 43,
+  "total": 61,
   "samples": [
     {
-      "title": "四大证券报头版头条内容精华摘要_2026年10月15日_财经新闻",
-      "link": "https://news.google.com/rss/articles/CBMiswRBVV95cUxOemM4ek1LVWcyRWQwOHNpMHNHRWpPRTk3emdEbnk1bTFVcFhHc3RfQTJRTlJtdW92dUpQZi1acUV4UFJjenVIbTV",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
+      "title": "不同集团(06090)10月15日斥资386.56万港元回购11万股_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55eTUwckx5TmtDbG12SE1TOV9rV09QekN3Z0djQ29KZTZ1Y0JLUVptcFA0LUxGVnJ1Mk02MDdZbUIzZldlQTZWdlB",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "收评：沪指跌1.59%险守3700点 下跌个股超5100只",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVjdBUmprejY1YmZndko4SHlFUDJfRXRDVjJObVVzTHdkSVA4bWM3ZEZNRDVOTF9XSm5iSjBVMjI0R0dXTDBxOFh",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
+      "title": "保诚(02378)10月15日斥资合计723.73万英镑回购80.51万股_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kWm1hNWMtMDJXNmxndGpiMEZDN1pkQURxX0M0TTc4aTNIRW52WWh1Rk5GU2RYemtxMmF2emVZeDhLZGMtZEtjaE0",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "南方财经全媒体集团",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EQU9hTE9BYWVtRlVDRXJ4LWVGeGtDbnNRbHdSWE9lRTljZGtKQjg3dDVhTVNqZXUwdllWMGNIbEg0QTZrNVBhM0h",
-      "source_url": "https://m.sfccn.com",
-      "source": "南方财经"
-    },
-    {
-      "title": "AI基础设施股抛售压力恐未结束小摩警告：散户抄底意愿不足回购资金退潮加剧市场风险_滚动新闻",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iNEd0cl9acm9GbUtWS2Rua3hNZlZOc3hZbi1xOTFNZmhJUXI4am5rWllmZ1VYaFlEaXFaOTRmUjdyLWwyRFpacW1",
-      "source_url": "https://finance.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "中金公司换股吸收合并信达证券获证监会批复后者10月19日终止上市_公司新闻_财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSaEtFNUVDejJnM2Ric1NmZ2cyZ1RCNGlXZjE5VXdLYXp4dGFCTDhUMEg4VDFWS1hUQTNQMEg0enRVLWFfb3RxOVd",
+      "title": "抄底！抄底！股票ETF净流入超470亿元",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45eWZSM2M4RDlfRzh1bDdfUV8zVUpMN1U1OHl2NEpBSFN1SXNkSDNRMjhMVEE0UEZfSjF2aEhnTFV2dDgyeVdiaHh",
       "source_url": "https://wap.stockstar.com",
       "source": "证券之星"
     },
     {
-      "title": "股价暴跌代币狂增：封装股票市值一年暴增7.6 倍真相_滚动新闻_财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tUkU2azNhZHZ2UVNIRTU3OG0wd1BvaWs0amduNXF0c3RiZTJPTllsQ2dSMlFibTNTSmc3R2Fwb3RSUXNmU1M5Qm9",
+      "title": "MSCI：印尼或剔出全球股票指数 雅加达综指暴跌超过10% - 财经",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DVm5jbDF4ZTM4c2h2WHRtRzlxSEFSNS1CRmh6WnotaUJmM2JiZ1RWZUpuMXg1N2JjSUl4ZlNfMWNzZGNvdW1zSi1",
+      "source_url": "https://www.sinchew.com.my",
+      "source": "即时财经"
+    },
+    {
+      "title": "韩国存储双雄杠杆ETF价格上窜下跳 政府周四将开会讨论对策",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QWEtic2EyTlZuVnpPdXRza0FQb0Q3UWJmNzZER0k2TW9XejBLcURRcEdGTWtrTjlsc1FMcGhuOGZTWWVzdUFjbQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "韩股，又涨到熔断了！",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnMUczM0RrVm1neXRBUXZGb19weHg3TER4TUJIb1BrbHFaZ0x5aV9OdzhiTmE3Sml5RFpPUndUdmZZY2RaNnhhVVV",
       "source_url": "https://wap.stockstar.com",
       "source": "证券之星"
     }

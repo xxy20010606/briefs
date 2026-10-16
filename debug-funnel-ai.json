@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 56,
-    "trusted": 21,
+    "raw_dedup_junk": 54,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 14,
-      "guanhai.com.cn": 3,
-      "stockstar.com": 3,
+      "sina.com.cn": 6,
+      "stockstar.com": 5,
+      "icloudnews.net": 4,
+      "techwalker.com": 4,
+      "caiwennews.com": 3,
+      "iqilu.com": 2,
       "sina.cn": 2,
-      "techwalker.com": 2,
-      "wenxuecity.com": 1,
-      "tidenews.com.cn": 1,
-      "zhiding.cn": 1,
-      "jwview.com": 1,
-      "jn001.com": 1
+      "guandian.cn": 2,
+      "guanhai.com.cn": 1,
+      "prnasia.com": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 2,
-    "relaxed_72h": 18,
+    "fresh1_24h": 13,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "当下智能远非最终形态",
+      "t": "粤港澳大湾区生成式人工智能安全发展联合实验室成果发布会在穗举行",
       "d": "sohu.com"
     },
     {
-      "t": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-      "d": "qbitai.com"
-    },
-    {
-      "t": "DeepSeek被曝接触具身智能创业公司，梁文锋或提前布局物理世界",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "人工智能如何取得产业成果？山东跑通了一条路",
-      "d": "sohu.com"
-    },
-    {
-      "t": "跑出全国首个商业化词元工厂，为什么是广西？｜活力中国调研行",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "我国生成式AI用户突破7亿人，超7成用户让AI“回答问题”",
+      "t": "把大模型“转口”到硬件：小智 AI 亮相香港秋季电子展",
       "d": "ifeng.com"
     },
     {
-      "t": "中移九天与山东移动联合发布观海大模型体系",
-      "d": "stdaily.com"
+      "t": "魏凯：山东发展垂域大模型的思路值得借鉴",
+      "d": "sohu.com"
+    },
+    {
+      "t": "195款备案大模型，藏着广东“AI生态雨林密码”",
+      "d": "sohu.com"
+    },
+    {
+      "t": "大模型开始替用户选品牌：软文发稿平台如何帮企业进AI答案位？",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "对话李胡升：山东垂域大模型正处于全国第一梯队",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "Meta发布美国最强开源大模型，可在两台Mac Studio上本地运行",
+      "d": "jiemian.com"
     }
   ]
 }

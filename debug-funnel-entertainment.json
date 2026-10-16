@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 42,
-    "trusted": 14,
+    "raw_dedup_junk": 56,
+    "trusted": 19,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "yzwb.net": 2,
-      "17173.com": 1,
+      "sina.cn": 4,
+      "china.com": 3,
+      "yule.com.cn": 3,
+      "sina.com.cn": 3,
+      "cnnb.com.cn": 2,
+      "dianyingjie.com.cn": 1,
+      "worldjournal.com": 1,
       "52hrtt.com": 1,
-      "arch-web.com.tw": 1,
-      "aboluowang.com": 1,
       "360.com": 1,
-      "hupu.com": 1,
-      "hk01.com": 1,
-      "kagit.kr": 1
+      "shanghai.gov.cn": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 2,
-    "relaxed_72h": 10,
+    "fresh1_24h": 18,
+    "page_fresh": 15,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "《明日方舟：终末地》上线Steam平台；小米超跑加入索尼《跑车浪漫旅7》丨游戏早",
+      "t": "《街头霸王》：票房预测中的格斗游戏",
+      "d": "sohu.com"
+    },
+    {
+      "t": "2026电竞显示器品牌排行榜：高端梯队格局清晰",
+      "d": "sohu.com"
+    },
+    {
+      "t": "人机共演走进乌镇戏剧节：巨星传奇携手宇树科技打造机器人舞台剧《第二指令：恰逢良机",
+      "d": "yicai.com"
+    },
+    {
+      "t": "创造国产剧在奈飞榜单历史排名纪录，两次被国台办点名肯定，这部剧做对了什么",
       "d": "eastmoney.com"
     },
     {
-      "t": "乌尔比诺的拉斐尔（旅人心语） --国际",
-      "d": "people.com.cn"
+      "t": "国安部部长会见《交锋》主创：隐蔽战线斗争案例、英模形象是文艺创作资源“富矿”",
+      "d": "thepaper.cn"
     },
     {
-      "t": "腾讯在CCTV大电视刷屏，给行业争了口气？这次真的不一样",
-      "d": "sohu.com"
+      "t": "500万人抢2.2万张票，有消息称存款千万可得肖战演唱会门票？江苏银行客服回应",
+      "d": "ifeng.com"
     },
     {
-      "t": "德玛西亚杯国际邀请赛点燃赛场！2026北京亦庄电竞盛宴再启",
-      "d": "sohu.com"
-    },
-    {
-      "t": "央媒频频聚焦：数字文创为何总出“成都造”？",
-      "d": "nbd.com.cn"
-    },
-    {
-      "t": "AI短剧的下半场：400亿盛宴与98.7%的亏损面",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "大麦回应肖战演唱会“天价票”：系黄牛无票源恶意炒作，已向有关部门提交线索",
-      "d": "ithome.com"
+      "t": "许鞍华、王安忆、戴锦华同台畅聊“她的日与夜”",
+      "d": "xinhuanet.com"
     }
   ]
 }

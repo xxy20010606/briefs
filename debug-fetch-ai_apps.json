@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 43,
+  "total": 38,
   "samples": [
     {
-      "title": "AI漫剧火了，万兴科技的机会来了？",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zbDlvdkxOdUk0NXItUXY1OGJTNVJ3YnhoTnZDWENNX1UzZk4wdENBYXR1cXFZdlQtM0x3QThxVlNFQlhaY2lSN3d",
-      "source_url": "https://www.36kr.com",
-      "source": "36Kr"
+      "title": "苹果AI终于要来了，为什么最重要的Siri缺席？",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tSTZ3VTlhQnJCb3FkclZ2cU9jcmo5MFpBc1d6ZGNuSUNrSUVZTV93dE15OG9JdHFnOE5jTUZwNEo3RkxKS3dxZFV",
+      "source_url": "https://www.wenxuecity.com",
+      "source": "文学城"
     },
     {
-      "title": "云从科技10月15日回应AI智能体话题：正发展以AI智能体应用为核心的第二增长曲线_公司新闻",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TV3pNSXpwM0Zha2o3SEdWTVdBQ2c5NGw3amdzaUhNYlZySGYtbzZicERFWEl2RUlPSnJtNXoyc2ItME1GRkRkc2s",
-      "source_url": "http://stock.stockstar.com",
+      "title": "【HarmonyOS SDK Skills】解锁实况窗开发助手，九大场景轻松落地- OSCHINA",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR2NGWHlQQk5KNHdPSVk0TjZwRlBIeC1wdV93Y0hlNFl5TXhKZzV3azc3aURQVWJBUlJlTy1kcHZBYllTelZLMTN",
+      "source_url": "https://www.oschina.net",
+      "source": "开源 × AI · 开发者生态社区"
+    },
+    {
+      "title": "AI感知：构建抗衰逆龄健康管理数字新范式——OMYQS元气循环构筑AI精准长寿健康管理全场景应用生态",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzSFAxZUlYOWRFNF9jaktoTHBvZWp0clpZY3l2UVNyLTN3WmNPRF9UTmtBdEFsMlpDMEhPRmxzSEFUR1RqUmZRQnB",
+      "source_url": "https://baby.ifeng.com",
+      "source": "凤凰网"
+    },
+    {
+      "title": "南方财经全媒体集团 林健民 2026-10-16 11:17:25",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVVmhPcXdMNjlzRzNQcEtYUUlFNGRWb29FeGtueXM0XzlPaDlDMGd4d1JPUHFsLUdtVkthcHdwOUh3bHcxQW42alp",
+      "source_url": "https://www.sfccn.com",
+      "source": "南方财经"
+    },
+    {
+      "title": "泰瑞达机器人亮相2026中国工博会，将优傲机器人第七代平台引入中国",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPRWxJcGNobnZVd1R4Q191azFkSjlqQzRIQXlTX3huQ29Ld0pYUnJSS2MzdDlTZE1NQWJObDN5UW9BMnpINmJmeEV",
+      "source_url": "http://www.gongkong.com",
+      "source": "中国工控网"
+    },
+    {
+      "title": "广告收入增长28%，哔哩哔哩能否把内容优势变成利润优势？-证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96QWdWZDlyUU5rZnh3YUw2eDBFbk9UWUdwcEhvMkFqN2NlaUc0MGlMN01INTVnVWFVQXN1azdRQ3VqQUEySTBHcHl",
+      "source_url": "https://hk.stockstar.com",
       "source": "证券之星"
-    },
-    {
-      "title": "OpenAI 为美国大学实验室推出 Rosalind 学术计划",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONC1EZnhUZE5URlVNRnl0czNwaGxkQXozUHUzdEM0X3dCVERTTWhDczBMY3doZlZ4em51UDN4enpEQ05jTm1NQmF",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "Ray-Ban Meta 更新后疑似故障，未说 Hey Meta 也在录音",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZUlRdVhiZGc1OFRsMXdFVF9JUDFMQ1ZYLV8xMEMtcmU2UHYxNG5Dcm9pZVN5R1dlc01Xa3dhaVVGVDB5d3lrLXp",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "库克确认：苹果国行AI本月底测试 首批含翻译和写作工具",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9UMXlkNTZSdkZuWVMxV0I3X2JoY3AzVVZEZFJaZ1F5RDVzTUF6enhhRDQxbWEyT1hXZVdQazFVbFZyRnBTZ0E?oc=",
-      "source_url": "https://molihua.org",
-      "source": "茉莉花新闻网"
-    },
-    {
-      "title": "实训营园地｜实训充电强技能 智媒赋能融媒宣传",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0Vml2MUVuVkJycWR0aEo4M0N5Z3VFWDNkRTBfUjlOaS02MUxodWIzVEphZGw0bGZ1TU5HTWFFMkMyRUFnQmFMdXd",
-      "source_url": "https://news.hubeidaily.net",
-      "source": "湖北日报传媒集团"
     }
   ]
 }

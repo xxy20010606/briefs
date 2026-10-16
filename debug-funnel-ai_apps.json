@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 14,
+    "raw_dedup_junk": 38,
+    "trusted": 9,
     "non_trusted_top": {
-      "pasqualepillitteri.it": 3,
-      "stockstar.com": 2,
+      "stockstar.com": 4,
+      "caiwennews.com": 3,
+      "oschina.net": 2,
+      "hubeidaily.net": 2,
+      "unite.ai": 2,
       "sina.com.cn": 2,
-      "ebrun.com": 2,
-      "unite.ai": 1,
-      "molihua.org": 1,
-      "hubeidaily.net": 1,
-      "globenewswire.com": 1,
-      "jinantimes.com.cn": 1,
-      "bjd.com.cn": 1
+      "wenxuecity.com": 1,
+      "sfccn.com": 1,
+      "gongkong.com": 1,
+      "asiae.co.kr": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 1,
-    "relaxed_72h": 10,
+    "fresh1_24h": 9,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "AI漫剧火了，万兴科技的机会来了？",
+      "t": "AI感知：构建抗衰逆龄健康管理数字新范式——OMYQS元气循环构筑AI精准长寿健",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "第一款 AI 手机，被半个互联网「拒」了",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
       "d": "36kr.com"
     },
     {
-      "t": "吐司开放APK与H5源码导入，支持初创产品继续创作并上架应用宝",
-      "d": "ifanr.com"
+      "t": "联亚药业：现阶段尚未大规模应用AI工具于药物研发全流程",
+      "d": "eastmoney.com"
     },
     {
-      "t": "Anthropic五年前内部路线图曝光：AI编程、工具调用早已列入研究计划",
+      "t": "写代码之后，轮到做视频了：这款国产Agent在海外出圈｜甲子光年",
       "d": "sohu.com"
     },
     {
-      "t": "独家｜库克确认苹果国行 AI，10 月底上线测试版！",
-      "d": "ifanr.com"
-    },
-    {
-      "t": "2026雅思app推荐：五大必备工具深度测评，覆盖听说读写全场景",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "协会资讯 | 关于召开汽车流通行业WorkBuddy企业AI应用线上交流会的通知",
+      "t": "与Today AI聊个人agent：它就是“the next big thing",
       "d": "sohu.com"
     },
     {
-      "t": "水滴公司2025年ESG报告： 以AI创新深化普惠保障 全年上线定制化保险产品2",
-      "d": "ifeng.com"
+      "t": "前钉钉CEO叶军离职阿里后创业，成立深空之序切入外贸AI Agent赛道",
+      "d": "huxiu.com"
     }
   ]
 }
