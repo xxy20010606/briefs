@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 40,
+  "total": 32,
   "samples": [
     {
-      "title": "中美芯片差距有多大？英特尔CEO陈立武发声谈及特朗普政府- Intel 英特尔",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DWVpWVEs0T0pJM3haZHRVay1VOWVYZGMwN2tiNXY3TWVnM1VsdmhyUUhUOUV6U3ZFOWRKMHZQRkI5OTB0ZENBMDJ",
-      "source_url": "https://www.cnbeta.com.tw",
-      "source": "cnBeta.COM"
+      "title": "华为韬定律破解摩尔定律极限！拆解麒麟9050折叠芯片黑科技",
+      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPSExCZUxJeWg3X3hBRTZlSmUzZjA5djdUckVuSXQ1dmszTms4SmUtVnBtOWNuNGoyQ05LVzJOdnhidEwydXdscmp",
+      "source_url": "https://global.hk01.com",
+      "source": "香港01"
     },
     {
-      "title": "湾芯展深观察丨国产半导体设备密集迭代，批量落地仍需时间",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYldBTDZwVE5mOU9QRlRPeEtmVGJZSWtMT0tjOC1QNDlSN1B4OWE4TVAtdTRRUnNha1l6SDd5OS1lMHRHYVhpRG9",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "美国芯片股7天跌逾12% 空头账面赚1307亿",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CVUc1RVBzS054NzVTeEpLMktEb2NxRWN6NkxQWHUtNU5kRF9PNTg2VXdiOHNMRElxa2tIdzBEYm03TVMtaDRzaGR",
-      "source_url": "https://www.enanyang.my",
-      "source": "e南洋"
-    },
-    {
-      "title": "芯片的下一次崩盘，很可怕！",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tQ0dNYkQ2MDUwY3BUcWI4MUUweDhvWW9FM09Nd3QtLTBnV19kM1lQRWNVSUZjNzJ4RnhDVnZHZ1ZPVENjNm5JOVA",
-      "source_url": "https://news.futunn.com",
-      "source": "富途牛牛"
-    },
-    {
-      "title": "光器件订单排到2029年，谁能接住这波大单？",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iR1dqa2lGcG95REVNcXl1QlFCQmNYMTBWa3NQWWlIc2VQczJsVFBmem1YaUhjVVZ4ZEhFblNqWWxyV0lsQTMxUWZ",
+      "title": "芯片良率，越来越离不开这项“隐形技术”",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qNWFiZXU0SndtZk5saE1vQjduVk5xVnpsaS1lNVBkMnRYSnZDY1R3aUdQUU1IbE5wbGE4VDBDa2tzTHJkRkdhbVU",
       "source_url": "https://user.guancha.cn",
       "source": "风闻"
     },
     {
-      "title": "跨越四年技术长征，长飞先进重构碳化硅版图",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aOTRkTXRRY0c4aDlxWlQ0Si1ZbUFQVlZzbUtiWTIzSGd2MDhqTEN4bXJJczFiNGJDV2I3TFY3b1o3QVFOZEVoTW1",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "华为黄宇称韬定律最大挑战在EDA工具",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hQy1VeWtreTczeUN2Z3UxMXdIMzBaUVRYQ0pnZkpDM0ZBQVFiTXhHc0kxVmNxVGpaNUFQdzdzam56bmpwT2dUSlR",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "半导体设备供不应求！阿斯麦公布强劲财报：已有客户咨询2030年订单",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iM1h2amVhMngzTnM3M05XbHlTbHd0U2pNTi1RWDZTQkZoY2ZnSG54eEtwMzB4OXFtbVFtdExBQjFiWm5mb2FYMw?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "直击2026湾芯展｜订单超全年营收两倍，国产半导体测试机厂商密集扩产",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbWhFZDVaWUZlajQyT3VKczdzckxVbFJBMlhMTTdrMk9ReUpkaF93ZG1uTHpqSEFzV0RvOXI4c1ZYNW5LM1htYTl",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94dWRHSUNMSGEyczRSS3ZHQ3JlMFY3cVRTcmpadkpmY0ZQQmRSb19rS1lzMlJaaTBqMXYyWlJHVVFHaTFCUGxTNQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }

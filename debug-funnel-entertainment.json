@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 47,
-    "trusted": 13,
+    "raw_dedup_junk": 45,
+    "trusted": 11,
     "non_trusted_top": {
-      "yzwb.net": 6,
       "sina.cn": 5,
-      "sina.com.cn": 3,
+      "rediandf.com": 5,
       "hupu.com": 3,
-      "starnewskorea.com": 1,
-      "arch-web.com.tw": 1,
-      "jinantimes.com.cn": 1,
-      "360.com": 1,
-      "mydrivers.com": 1,
-      "yule.com.cn": 1
+      "sina.com.cn": 3,
+      "hk01.com": 2,
+      "jingjiribao.cn": 2,
+      "yzwb.net": 2,
+      "bjd.com.cn": 2,
+      "china.com": 2,
+      "ajudaily.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 11,
-    "relaxed_72h": 0,
+    "fresh1_24h": 9,
+    "page_fresh": 3,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "职业电竞显示器品牌有哪些？赛场淬炼的实力之选",
+      "t": "2026电竞显示器品牌排行榜：谁在定义高端新体验",
       "d": "sohu.com"
     },
     {
-      "t": "2026电竞显示器品牌排行榜：第一梯队定义新体验",
-      "d": "sohu.com"
+      "t": "以纸为源，激活当代表达——当代纸艺术的创作生态",
+      "d": "gmw.cn"
     },
     {
-      "t": "座谈会：《交锋》为特殊题材电视剧创作提供优质范本",
-      "d": "xinhuanet.com"
+      "t": "国家电影局、体育总局联合发文 跟着电影去运动 推动影体双向赋能",
+      "d": "sohu.com"
     },
     {
       "t": "肖战首次个人巡演南京站开票售罄，票务公平与黄牛治理再受关注",
       "d": "huxiu.com"
     },
     {
-      "t": "香港 TVB 加入短剧赛道，与红果合作竖屏剧《金枝欲孽之宫墙折柳》在横店开机",
-      "d": "ithome.com"
+      "t": "2026小剧场青创计划展演举办，14部作品展现青年曲艺新声",
+      "d": "bjnews.com.cn"
     },
     {
-      "t": "《伟大的长征》：历史转折中的毛泽东和于和伟｜影视",
-      "d": "caixin.com"
+      "t": "陈坤发文恭喜周迅喜获国际影后大奖，两人领证结婚的传闻早已澄清",
+      "d": "163.com"
     },
     {
-      "t": "2026长三角国际青年电影周在宁波开幕",
-      "d": "people.com.cn"
+      "t": "第二十五届中国上海国际艺术节今晚在上海大歌剧院开幕，陈吉宁出席，孙业礼、朱忠明致",
+      "d": "thepaper.cn"
     }
   ]
 }

@@ -2,53 +2,53 @@
   "type": "ai",
   "stages": {
     "raw_dedup_junk": 48,
-    "trusted": 17,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.cn": 9,
-      "sina.com.cn": 8,
-      "ac.cn": 2,
-      "zhiding.cn": 2,
-      "cnbeta.com.tw": 1,
-      "jpchinapress.com": 1,
-      "smartcity.team": 1,
-      "zsnews.cn": 1,
-      "or100.cc": 1,
-      "csdn.net": 1
+      "sina.com.cn": 12,
+      "sina.cn": 10,
+      "pasqualepillitteri.it": 2,
+      "icloudnews.net": 2,
+      "53ai.com": 1,
+      "gz-cmc.com": 1,
+      "mydrivers.com": 1,
+      "yzwb.net": 1,
+      "dzwww.com": 1,
+      "cnbeta.com.tw": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 15,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 2,
+    "relaxed_72h": 9,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "大的要上了 DeepSeek悄然上线新模型：可惜秒删",
+      "t": "广东三年备案大模型增长23倍达195款",
+      "d": "sohu.com"
+    },
+    {
+      "t": "双料！青岛港AI项目捧回两项荣誉～",
+      "d": "sohu.com"
+    },
+    {
+      "t": "CrowdStrike报告称韩国金融机构遭AI辅助网络攻击，攻击者疑为中国广东个",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "观察｜人工智能时代，如何合力应对反恐新挑战？",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "粤东首个！粤港澳大湾区生成式人工智能安全发展联合实验室汕头服务中心正式授牌",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "星驭智算：让普通企业也能参与Token经济，开启算力合作新模式",
       "d": "ifeng.com"
     },
     {
-      "t": "第二届AI大模型课堂教学创新应用观摩研讨会在银川开启",
-      "d": "sohu.com"
-    },
-    {
-      "t": "垂域智能爆发 山东做对了什么 | 经观社论",
-      "d": "sohu.com"
-    },
-    {
-      "t": "位居全国前列！广东已备案195款大模型",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "历史性突破！大湾区大学团队首次用国产大模型攻克世界级数学难题",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "欧洲离“AI大陆”愿景道阻且长",
-      "d": "ce.cn"
-    },
-    {
-      "t": "超过四分之一的新锐AI公司，出自他们之手",
-      "d": "36kr.com"
+      "t": "海看股份亮相2026人工智能产业大会 多款AI产品展现广电视听垂域创新成果",
+      "d": "jiemian.com"
     }
   ]
 }

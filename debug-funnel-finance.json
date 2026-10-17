@@ -2,49 +2,27 @@
   "type": "finance",
   "stages": {
     "raw_dedup_junk": 23,
-    "trusted": 10,
+    "trusted": 5,
     "non_trusted_top": {
-      "sina.cn": 3,
-      "sina.com.cn": 3,
+      "sina.com.cn": 6,
       "moomoo.com": 3,
+      "stockstar.com": 2,
+      "sinchew.com.my": 2,
+      "tradersunion.com": 1,
       "jin10.com": 1,
-      "panewslab.com": 1,
+      "futunn.com": 1,
       "tradingkey.com": 1,
-      "futunn.com": 1
+      "hstong.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 8,
+    "fresh1_24h": 5,
+    "page_fresh": 1,
     "relaxed_72h": 0,
-    "final": 7,
+    "final": 1,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "【环球财经】科技股遭抛售 纽约股市三大股指16日均下跌",
-      "d": "sohu.com"
-    },
-    {
-      "t": "联讯仪器(688808.SH)：拟筹划发行H股并在香港联交所主板上市_股市直播_",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "腾盛博药-B(02137)10月16日斥资7.28万港元回购8.3万股_股市直播",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "豪威集团(00501)拟回购不超过5亿元A股股份_股市直播_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "金力集团(03919)拟折让约14.3%按“2供1”基准发行供股净筹约1260万",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "【环球财经】伦敦股市16日上涨- 中国金融信息网",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "江沐洋：10.17现货黄金走势分析下周操作展望",
+      "t": "高晓峰 : 10.17多空来回拉锯，黄金短线机会如何把握？",
       "d": "cnfol.com"
     }
   ]
