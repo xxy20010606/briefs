@@ -1,54 +1,51 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 42,
-    "trusted": 12,
+    "raw_dedup_junk": 23,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.cn": 6,
-      "moomoo.com": 5,
-      "stockstar.com": 4,
-      "sina.com.cn": 2,
-      "jin10.com": 2,
-      "futunn.com": 2,
-      "cnfin.com": 1,
-      "sinchew.com.my": 1,
-      "orientaldaily.com.my": 1,
-      "atvnewsonline.com": 1
+      "sina.cn": 3,
+      "sina.com.cn": 3,
+      "moomoo.com": 3,
+      "jin10.com": 1,
+      "panewslab.com": 1,
+      "tradingkey.com": 1,
+      "futunn.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 1,
-    "relaxed_72h": 6,
+    "fresh1_24h": 10,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "16:54:51【外围科技重挫港股科技抗跌，恒生科技ETF南方（520570）韧",
-      "d": "cls.cn"
+      "t": "【环球财经】科技股遭抛售 纽约股市三大股指16日均下跌",
+      "d": "sohu.com"
     },
     {
-      "t": "越疆(02432)：受托人根据H股股份激励计划购买9.98万股_股市直播_市场",
+      "t": "联讯仪器(688808.SH)：拟筹划发行H股并在香港联交所主板上市_股市直播_",
       "d": "cnfol.com"
     },
     {
-      "t": "嘉立创(001232.SZ)：筹划发行H股股票并在香港联合交易所上市_股市直播_",
+      "t": "腾盛博药-B(02137)10月16日斥资7.28万港元回购8.3万股_股市直播",
       "d": "cnfol.com"
     },
     {
-      "t": "中创智领(00564)董事、高管合计已增持公司A股股份约126.78万股_股市直",
+      "t": "豪威集团(00501)拟回购不超过5亿元A股股份_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "天彩控股(03882)因可换股债券获转换发行1.019亿股换股股份_股市直播_市",
+      "t": "金力集团(03919)拟折让约14.3%按“2供1”基准发行供股净筹约1260万",
       "d": "cnfol.com"
     },
     {
-      "t": "尾盘，突发异动！A股再现罕见一幕_股市要闻_市场",
-      "d": "cnfol.com"
+      "t": "【环球财经】伦敦股市16日上涨- 中国金融信息网",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "美联储10月加息悬念拉满：全球紧盯沃什讲话定调！",
-      "d": "eastmoney.com"
+      "t": "江沐洋：10.17现货黄金走势分析下周操作展望",
+      "d": "cnfol.com"
     }
   ]
 }

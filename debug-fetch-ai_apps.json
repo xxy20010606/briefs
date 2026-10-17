@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 34,
+  "total": 17,
   "samples": [
     {
+      "title": "数字员工上岗，先锋企业先行——“WPS Comate应用先锋组织奖”落地昆明",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ200YV9PeHI4VmRvS3Z1eGYyQ28zdktoQTdIQ25TOFF0UDAwZU5aaTluRy1sdlhYeTNoTDlJOVQ4TXZTVFFBOXE",
+      "source_url": "https://www.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "划词AI 工具拾趣Magpie Release v0.1.14，重磅发布Windows 版 - OS",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrS3BUSlozRlc1R0RMdy16bFVLM2J4bFBZeHBGU25RcklwYjdlVXZQNjVPOUp3RDJKM1lyVm1xUmdXQzNOc2pab3F",
+      "source_url": "https://www.oschina.net",
+      "source": "开源 × AI · 开发者生态社区"
+    },
+    {
       "title": "“双11”大战提前启幕 头部电商借AI开辟竞争新维度",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb3hVOWZlVlJFaDR5MUltM1NFckRsS0ctTlVPaHFfT3pwcUJ1VmRqN0JiaW9oeC00RmRPcTF5cndlWUlhZUhEYXJ",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFBlMTg2UFpsQ3ZRbEEzUHVBSHRHeHFuMHlkWlByZG1vNnJuQXhRbldTUnZrT0tRMzdOY1JxUFZlbWJPYmpMQ2J",
+      "source_url": "https://www.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "Autoenhance.ai 评测：用于房地产摄影的 AI 照片编辑",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd3hrQ2Z2TjdQOWg4dU0zaTZUUVFUYm9IZmZibHg4NlJQT1J2M0NEczJPbkhNSFRPQXZtVF9wUlE4dHJXamk0Z3p",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
+    },
+    {
+      "title": "编程百宝箱",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSXd1azBnWnVMNjg1RzNQMnhqVG5Ycjd1SjVKeUJkZUFxQ29rY1pIU2JtOXRCSy1uSkgtcmdpSFlJUDFsMHdkTzU",
+      "source_url": "https://www.microsoft.com",
+      "source": "تنزيل وتثبيت على Windows | Microsoft Store مجاناً"
     },
     {
       "title": "Epic为未发布迪士尼游戏转向\"AI加速开发\"模式-AI应用",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mNzgzeXZhRTd0Rks4OGZ5T041UDAwTElFVVBJd3ZaUmZOSWdFeHc1OW84VGRJS2pPSUVIYlNjdmdVb051WkxqWWx",
       "source_url": "https://www.zhiding.cn",
       "source": "至顶网"
-    },
-    {
-      "title": "从\"会用工具\"到\"能创造工具\"，中国—中亚\"校长π圆桌\"，共话AI时代科技人才培养",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03OE43M1QyLUhjdjFFSjh6NDJHcVBVLTNvTkdHeUFabE5MbVU1RFFzUzk1VGVxMzlEZ1hVMG5pTEFGS3NKVUdkNXg",
-      "source_url": "https://www.oschina.net",
-      "source": "OSCHINA"
-    },
-    {
-      "title": "哪些 AI 助手能替你购物，各自在哪些地方可用",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2lSZUk3bjh1ci1HYzQxdmhEZl9CdzRwVnhMUjJhNUFvZXFWclM0ZUNnN1hacFFoN0ZSRHd6NUl5bjZvaGxpNG9",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "RapidCanvas 获 2900 万美元 B 轮融资，扩大企业 AI 交付规模",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRVNxQ3VOZEZrU19Pd2t4cExsTVVuNlBSSEx2QVhaeVZUOEs2MHZvOWlCcXV5U0lGbVBWTjNlQlhuRXRfOC1YT3p",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "麦当劳AI定价工具惹来诉讼 业界争论是否要引入动态定价？",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91d0s5dkJmX0pjM0h1enF4ODQweWZ0dm9mTEhzVnV1U0VJLTlPUlA3bEdSYzgyQjYtS1VrcHBWLWFNaHp6NUhGNw?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
     }
   ]
 }

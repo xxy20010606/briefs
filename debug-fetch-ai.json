@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 59,
+  "total": 48,
   "samples": [
     {
-      "title": "海看股份10月16日回应AIGC话题：AI业务坚持对内赋能对外输出双轮驱动_公司新闻",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mMmxQR1hUWmF0X1RKWFNCM0YySTV2Wlc4VjF1cjlxd2JjbENJSWM0MTRuWmxmU19kUnB4b0RlMDJUVGc5UldMa2d",
-      "source_url": "https://stock.stockstar.com",
-      "source": "证券之星"
+      "title": "大的要上了 DeepSeek悄然上线新模型：可惜秒删",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3dXktcjVwUEs0QUY4WnlOUkdmc0w4c3ZSdG1yUjBJanhONWRyUkt1MU81TjRGamtDRi1XdTlNbE81emZ0S01KaUR",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
     },
     {
-      "title": "青企故事荟 | 星港大模型：打造最懂港口的“大脑”",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4azUzVjlvN2ZIenFaQUU1blpiWC1JSUF3OVRUQloyTVFrVTh5RTJpZ0Q4aHlfSVlYTXo5NE5tZGI3YUpJdE5uUjN",
-      "source_url": "https://www.dailyqd.com",
-      "source": "青岛日报"
+      "title": "大模型公司迎来“利润大考”",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yNzdmZVRhR0NBaF9OR0hiVm40SmNGTU84VjRKOU1QTzVmZ3Z0MjctaGMtaGtZS3hjTnE1SFdud0N3eUNva0xQWUp",
+      "source_url": "https://www.cnbeta.com.tw",
+      "source": "cnBeta.COM"
     },
     {
-      "title": "欧洲离“AI大陆”愿景道阻且长",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wZ0NVanNBRHFRZzZRMkszcXg1LVU2djNFUHpRRW5wTjB2VlZxZXluYVN0R1dPYnFxRXRteGVfTGhrTU5KWHJUc1d",
-      "source_url": "http://m.ce.cn",
-      "source": "中国经济网"
-    },
-    {
-      "title": "人工智能攻克世界级数学难题，会让数学家失业吗？｜科创观察员",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzZlbVJMVkp1ZWYzWmdXUXQ1am5VNldJd0FBNlpWRHBBeEJGUzRFMEJPUHlIYnpZYU1LTTVQajRLc09jVm1neFQ",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "冲刺“垂域AI第一大省”,山东势在必行|大模型|模型|产业|人工智能|工业",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWXQtLVhuZDM2dGV1THJNZ0VldTdEREZkMGtFZzJVWEQyT19GZkJTeE92bG9iNXlLNENnaWRYbVNhQnZLeF9DVl9",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
-    },
-    {
-      "title": "垂域AI第一大省，呼之欲出",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjlRdFVndXExVHdJbVVKWlRnZTFEdExkQ0pkUXRMZmxDRzdrVmNlRnRaWU9iLU1ScnVaa3l2UW93T2dpWTdUekI",
+      "title": "AI产业何以展图山东 | 2026人工智能产业大会侧记",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tMDVoMm80WDI4bkN1aTdtSFNKYXlfdzJ0SG4wVDkzekVBWHltaHduZFVfUUtOTVp3cmdNcnF6bHRKZ2V4dDR4cEJ",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
+    },
+    {
+      "title": "百度超级智能体“西进”：一场大会如何搅动西北AI生态",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CdjZ2d2NrdnJTLTE3Yk1uZVpubmNsXzNFZmhrMDNfZmVvTzJGbExvQTJvOU0wN01ZZWZ3c25KT2Nmbi1peFlTOWh",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "中国拟修订禁止限制出口技术目录 涉及人工智能等领域",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjNMZUE0ZGZidlRyTzg5bUtKT21BZnN6MU5ER1hwWXNmN1EyREtCVkN2bTBZSzUydGc1Mm1Bc2NheVFJWlh4VTV",
+      "source_url": "https://www.jpchinapress.com",
+      "source": "旅日侨网"
+    },
+    {
+      "title": "AI进入企业的最后一公里，怎么这么难啊啊啊！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tdlAya2kyUmd0MDE5X3JuUjBtZnV2bGc4U3NMVVRNaXh1ckI1QzNfSUFoNlg5NTlUMVJJU1NrbTNHMTY1VVZOMA?",
+      "source_url": "https://hub.baai.ac.cn",
+      "source": "智源社区"
     }
   ]
 }

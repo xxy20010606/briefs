@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 29,
+    "raw_dedup_junk": 40,
+    "trusted": 21,
     "non_trusted_top": {
-      "sina.cn": 2,
-      "guandian.cn": 2,
-      "stockstar.com": 1,
-      "voachinese.com": 1,
+      "sina.cn": 3,
+      "sina.com.cn": 2,
+      "chosun.com": 2,
+      "cnbeta.com.tw": 1,
       "enanyang.my": 1,
-      "tomorrow-city.com": 1,
-      "moomoo.com": 1,
-      "eeworld.com.cn": 1,
-      "ofweek.com": 1,
-      "sina.com.cn": 1
+      "futunn.com": 1,
+      "chinapress.com.my": 1,
+      "zhiding.cn": 1,
+      "autohome.com.cn": 1,
+      "jrj.com.cn": 1
     },
-    "fresh1_24h": 26,
-    "page_fresh": 6,
-    "relaxed_72h": 18,
+    "fresh1_24h": 20,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
+      "t": "湾芯展深观察丨国产半导体设备密集迭代，批量落地仍需时间",
+      "d": "sohu.com"
+    },
+    {
+      "t": "跨越四年技术长征，长飞先进重构碳化硅版图",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "【一周IC快报】美国起诉中国科技巨头,立讯精密被调查；“成都造”光刻机将集中交付",
+      "d": "ijiwei.com"
+    },
+    {
+      "t": "不可思议！一家日本味精公司，为何会卡住全球芯片的脖子？",
+      "d": "sohu.com"
+    },
+    {
+      "t": "转行去芯片：年轻人的职场迁徙，想离35岁危机远一点",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "美股收盘：三大股指全线收跌，半导体、存储芯片重挫，油价大涨",
+      "d": "ifeng.com"
+    },
+    {
       "t": "美股成交额前20：存储芯片股重挫 美光跌超5%居首",
       "d": "eastmoney.com"
-    },
-    {
-      "t": "粤芯半导体上市首日暴涨 基本面仍待提升",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "IBM将推出0.7纳米纳米堆叠芯片早期设计工具包",
-      "d": "sohu.com"
-    },
-    {
-      "t": "18:18:49【国产光刻核心零部件实现技术突破，半导体设备ETF易方达（159",
-      "d": "cls.cn"
-    },
-    {
-      "t": "一磷化铟企业完成近10亿元B轮战略融资！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "外延：在 InP 衬底上\"长\"出会发光的功能层",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "NAURA北方华创全资收购诺合键维！",
-      "d": "sohu.com"
     }
   ]
 }

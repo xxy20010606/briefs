@@ -1,54 +1,41 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 34,
-    "trusted": 11,
+    "raw_dedup_junk": 17,
+    "trusted": 4,
     "non_trusted_top": {
-      "zhiding.cn": 4,
-      "sina.cn": 2,
-      "iheima.com": 2,
-      "oschina.net": 1,
+      "zhiding.cn": 3,
+      "oschina.net": 2,
+      "ababnews.com": 2,
+      "quasa.io": 1,
+      "microsoft.com": 1,
       "pasqualepillitteri.it": 1,
       "unite.ai": 1,
-      "jrj.com.cn": 1,
-      "3druck.com": 1,
-      "stockstar.com": 1,
-      "csdn.net": 1
+      "morketing.com": 1,
+      "ichaoqi.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 3,
-    "relaxed_72h": 7,
-    "final": 7,
-    "cap": "同域≤3条"
+    "fresh1_24h": 4,
+    "page_fresh": 4,
+    "relaxed_72h": 0,
+    "final": 4,
+    "cap": "不限同域"
   },
   "final": [
+    {
+      "t": "数字员工上岗，先锋企业先行——“WPS Comate应用先锋组织奖”落地昆明",
+      "d": "sohu.com"
+    },
     {
       "t": "“双11”大战提前启幕 头部电商借AI开辟竞争新维度",
       "d": "sohu.com"
     },
     {
-      "t": "大模型进券商财富管理：从单点工具到全链路基础设施，AI边界向合规延伸",
-      "d": "cls.cn"
-    },
-    {
-      "t": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "“囤Token”成双11新话题，大模型厂商集体进场，电商平台竞逐AI增量",
+      "t": "企业曾争相拥抱AI，如今部分开始踩刹车",
       "d": "sohu.com"
     },
     {
-      "t": "盐田开展AI应用能力提升培训企业专场",
+      "t": "AI不是未来，AI就是现在——昆明成为WPS组织级AI办公示范城市",
       "d": "sohu.com"
-    },
-    {
-      "t": "个人Agent与企业Agent同源分化：委托人、上下文、权限与商业闭环成关键分水",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "姚顺宇被曝开启RSI创业：估值约20亿美元，AI研究员创业潮升温",
-      "d": "huxiu.com"
     }
   ]
 }

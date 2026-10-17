@@ -1,54 +1,38 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 10,
+    "raw_dedup_junk": 34,
+    "trusted": 3,
     "non_trusted_top": {
-      "sina.cn": 10,
-      "sina.com.cn": 8,
-      "autohome.com.cn": 6,
-      "ne21.com": 5,
-      "gessey.com": 2,
-      "powerchina.cn": 1,
-      "66wz.com": 1,
-      "caiwennews.com": 1,
-      "futunn.com": 1,
-      "zaochenbao.com": 1
+      "sina.cn": 8,
+      "autohome.com.cn": 8,
+      "sina.com.cn": 5,
+      "nengyuanjie.net": 1,
+      "52hrtt.com": 1,
+      "aboluowang.com": 1,
+      "creaders.net": 1,
+      "ne21.com": 1,
+      "gessey.com": 1,
+      "yeeyi.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 2,
-    "relaxed_72h": 8,
-    "final": 7,
-    "cap": "同域≤3条"
+    "fresh1_24h": 3,
+    "page_fresh": 3,
+    "relaxed_72h": 0,
+    "final": 3,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "支持15mm爬电距离，纳芯微推出超宽体封装、集成隔离电源的数字隔离器NSIP98",
-      "d": "eet-china.com"
+      "t": "瞭望·治国理政纪事丨探索资源型地区转型发展新路径",
+      "d": "xinhuanet.com"
     },
     {
       "t": "比亚迪汉EV旗舰版上市：续航破千公里，起售价约35000美元",
       "d": "sohu.com"
     },
     {
-      "t": "聚能成势、向新图强 眉山三大产业厚植根基、谋定长远",
-      "d": "sohu.com"
-    },
-    {
-      "t": "聚力中马算电协同，共拓东南亚绿能新机遇｜马来西亚国会上议员一行到访华成电力开展深",
-      "d": "sohu.com"
-    },
-    {
-      "t": "【网通社快报】比亚迪秦PLUS EV完成工信部第412批新产品公示申报",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "比亚迪第三代秦PLUS申报图公布，预计10月下旬上市",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "聚力风光制氢 赋能产业脱碳｜阳光氢能亮相2026北京国际风能大会",
-      "d": "ifeng.com"
+      "t": "50倍之后，储能要自己活下来",
+      "d": "solarbe.com"
     }
   ]
 }
