@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 32,
+  "total": 33,
   "samples": [
     {
-      "title": "华为韬定律破解摩尔定律极限！拆解麒麟9050折叠芯片黑科技",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPSExCZUxJeWg3X3hBRTZlSmUzZjA5djdUckVuSXQ1dmszTms4SmUtVnBtOWNuNGoyQ05LVzJOdnhidEwydXdscmp",
-      "source_url": "https://global.hk01.com",
-      "source": "香港01"
+      "title": "陕西：“长板”发力托稳增长大盘|陕西省|西安市|产业|西安|芯片",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1Bfb0FsZFpJMF8zZldMSThOT2RvQWxJdVpPSnM2M0hiNVFUdDVLVGVNRkZPblZqRTJWT25SaWFIMjNNNmhPaEV",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "芯片良率，越来越离不开这项“隐形技术”",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qNWFiZXU0SndtZk5saE1vQjduVk5xVnpsaS1lNVBkMnRYSnZDY1R3aUdQUU1IbE5wbGE4VDBDa2tzTHJkRkdhbVU",
-      "source_url": "https://user.guancha.cn",
-      "source": "风闻"
+      "title": "马斯克咋了？在 X 上大喊：中国将在 2028 年生产大量内存！",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX25CNFdPRGR6T0hHYWZ0dVhhTDBTRjNmS0RoWDFTWktWRDItWi1DZTMxYXVrVVdxY1Qzc3ZpbVdmMFBId21YMDR",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
     },
     {
-      "title": "华为黄宇称韬定律最大挑战在EDA工具",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hQy1VeWtreTczeUN2Z3UxMXdIMzBaUVRYQ0pnZkpDM0ZBQVFiTXhHc0kxVmNxVGpaNUFQdzdzam56bmpwT2dUSlR",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "韩国财长：芯片繁荣至少到2027！",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ21tZHJWZW9DMVgtRDNVRVZDY0pRT1BEbG56cnpLQ2FiaWgxaUFoeGdEVWFDT3hCcGNkZUNLQWlwUzJYa0JESkF",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
     },
     {
-      "title": "半导体设备供不应求！阿斯麦公布强劲财报：已有客户咨询2030年订单",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iM1h2amVhMngzTnM3M05XbHlTbHd0U2pNTi1RWDZTQkZoY2ZnSG54eEtwMzB4OXFtbVFtdExBQjFiWm5mb2FYMw?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "多家半导体龙头，出手回购",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXA5aWRBRmxvN1VnWlV4VE5PZlBENTNJYl9aUHI0X3FESGtJWVhlVG0yN3NBOUI3SktuZlphcjN0MkN6a2xHOEN",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
     },
     {
-      "title": "直击2026湾芯展｜订单超全年营收两倍，国产半导体测试机厂商密集扩产",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbWhFZDVaWUZlajQyT3VKczdzckxVbFJBMlhMTTdrMk9ReUpkaF93ZG1uTHpqSEFzV0RvOXI4c1ZYNW5LM1htYTl",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "Bolt完成Zeus GPU测试芯片调试，实际产品预计2028年发售|步进|服务器|仿真|台积电|客",
+      "link": "https://news.google.com/rss/articles/CBMi7wVBVV95cUxPOUpZbXFLOEU4M2kyb2cyN0I3MTZkbjdJNVljanl3bUxZbXcxUDhUazlER0QzQUluZWRXZ2xYdi1VdmY2ejJ3ZFk",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94dWRHSUNMSGEyczRSS3ZHQ3JlMFY3cVRTcmpadkpmY0ZQQmRSb19rS1lzMlJaaTBqMXYyWlJHVVFHaTFCUGxTNQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "2026湾芯展圆满落幕：3天展期，近8万平方米展区迎来超15.67万人次专业观众",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5a2lGMDUxOXRJM1BBX21lX3gtMlBuOXdZTnRvY0pyRHV4LVFMaV9Sa01pa1dvVE1tX0RJRHVrcUtoNTRacldkb1V",
+      "source_url": "https://www.leiphone.com",
+      "source": "雷峰网"
     }
   ]
 }

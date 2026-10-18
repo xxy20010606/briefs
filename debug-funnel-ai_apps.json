@@ -1,34 +1,29 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 30,
-    "trusted": 3,
+    "raw_dedup_junk": 24,
+    "trusted": 2,
     "non_trusted_top": {
-      "pasqualepillitteri.it": 6,
+      "pasqualepillitteri.it": 8,
       "80aj.com": 5,
-      "sina.cn": 4,
-      "ac.cn": 2,
-      "sina.com.cn": 2,
-      "ababnews.com": 2,
+      "quasa.io": 3,
+      "oschina.net": 1,
+      "yeeyi.com": 1,
+      "mpaypass.com.cn": 1,
       "zuel.edu.cn": 1,
-      "quasa.io": 1,
-      "dostor.com": 1,
+      "cyzone.cn": 1,
       "cnbeta.com.tw": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 0,
-    "relaxed_72h": 3,
-    "final": 3,
+    "fresh1_24h": 2,
+    "page_fresh": 1,
+    "relaxed_72h": 1,
+    "final": 2,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "散户也能拥有量化交易工具？全球8校同台竞技金融科技创新",
-      "d": "sohu.com"
-    },
-    {
-      "t": "中银理财董事长黄党贵：AI创新不能走无约束的试错路径，需将流程规范贯穿应用过程",
-      "d": "sohu.com"
+      "t": "一年工作量压缩至80小时！“成都八零”见证金融科技AI时代",
+      "d": "21jingji.com"
     },
     {
       "t": "WPS Comate组织级AI办公先锋先行城市峰会在昆明举行",

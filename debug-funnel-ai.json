@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 48,
-    "trusted": 14,
+    "raw_dedup_junk": 45,
+    "trusted": 18,
     "non_trusted_top": {
-      "sina.com.cn": 12,
-      "sina.cn": 10,
-      "pasqualepillitteri.it": 2,
-      "icloudnews.net": 2,
-      "53ai.com": 1,
-      "gz-cmc.com": 1,
-      "mydrivers.com": 1,
-      "yzwb.net": 1,
-      "dzwww.com": 1,
-      "cnbeta.com.tw": 1
+      "sina.com.cn": 11,
+      "ac.cn": 3,
+      "pasqualepillitteri.it": 3,
+      "sina.cn": 2,
+      "csdn.net": 2,
+      "cnbeta.com.tw": 1,
+      "rednet.cn": 1,
+      "yeeyi.com": 1,
+      "panewslab.com": 1,
+      "quasa.io": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 2,
-    "relaxed_72h": 9,
+    "fresh1_24h": 18,
+    "page_fresh": 14,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "广东三年备案大模型增长23倍达195款",
+      "t": "湖南省进北航揽才 人工智能企业开出最高百万年薪",
       "d": "sohu.com"
     },
     {
-      "t": "双料！青岛港AI项目捧回两项荣誉～",
+      "t": "DeepSeek新模型Token消耗降超五成-36氪",
+      "d": "36kr.com"
+    },
+    {
+      "t": "AI竞争打到工厂，欧洲想和中国掰手腕",
+      "d": "guancha.cn"
+    },
+    {
+      "t": "“AI+ 终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon 上海",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "首经贸人工智能学院：“AI+财经”让技术创造价值",
       "d": "sohu.com"
     },
     {
-      "t": "CrowdStrike报告称韩国金融机构遭AI辅助网络攻击，攻击者疑为中国广东个",
-      "d": "huxiu.com"
+      "t": "超过四分之一的新锐AI公司，出自他们之手",
+      "d": "36kr.com"
     },
     {
-      "t": "观察｜人工智能时代，如何合力应对反恐新挑战？",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "粤东首个！粤港澳大湾区生成式人工智能安全发展联合实验室汕头服务中心正式授牌",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "星驭智算：让普通企业也能参与Token经济，开启算力合作新模式",
+      "t": "“齐鲁七星”背后，工业大省的AI突围之路",
       "d": "ifeng.com"
-    },
-    {
-      "t": "海看股份亮相2026人工智能产业大会 多款AI产品展现广电视听垂域创新成果",
-      "d": "jiemian.com"
     }
   ]
 }

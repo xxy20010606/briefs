@@ -1,7 +1,25 @@
 {
   "type": "newenergy",
-  "total": 28,
+  "total": 23,
   "samples": [
+    {
+      "title": "许映童不赚快钱，思格新能源凭什么半年翻两倍？",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wYmpDY3ByazNaY0dRTnFEQkgtM1dOQkd5UldnRnlGSHRxMFBrVEZiNUJ3S3k1QldtQUF6SDJiVlRRS2hGV0ltM09",
+      "source_url": "https://www.ichaoqi.com",
+      "source": "潮起网"
+    },
+    {
+      "title": "20兆瓦时储能项目落地，矿区用电有了“超级充电宝”",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBeEl3QW5STUozM2ptWEtoSW54dzM3UE9QTk9GWjRaMVpOOGhPVW1MRnprU0tWdTJCNmlxYzQ4X0pBd1hwR1ZFQUF",
+      "source_url": "https://mcn.solarbe.com",
+      "source": "碳索储能网"
+    },
+    {
+      "title": "105亿投资落地，北疆首个百万千瓦抽水蓄能电站正式开工",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCMGhjT3ZMclNSUFNScURzVzVLNnhjeHJpS1BrQ29lSXJUeHNTUDN1YzFKWndDeW80c1Vta244bVprbUsxbHBkOHZ",
+      "source_url": "https://www.seetao.com",
+      "source": "见道网"
+    },
     {
       "title": "储能产业向“拼价值、拼盈利”阶段演进",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdTZlOTZOejd3QkJkYXVKVGtrNlVLb3RsUng2SkVrRGJkT3l5R1hUdmFkRWNuZEl6WW9sTHlBWVhJTi15ejZkaGx",
@@ -9,34 +27,16 @@
       "source": "新浪网"
     },
     {
-      "title": "山西：推动新能源场站配建储能、联合运行",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVFgtNnZNeGxMQTVLRFVZYWFGcFFoSG9FVXVNMFdCaUNoN2RxQ3VSY2piTzhPekV0SFF1S09lZ2ZRV1R2TEFDaWd",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "title": "欧盟：抵消式“碳中和”全面禁止！",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS283c1dtQkVxbk5UY1FLeUtIVl9raUJENkw0cWUyeU82X0JUUmZYZWp3YmRfeV9aUWR6RUZueElMRjM2VU4xOW1",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "【出海】能源盒子正式发布 2027 年度海外峰会规划（ 7 站）",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX29aTW9tNlpFRHRpQ2JFRWNrM3FJd2FYQmk5dEZHY0FlZ3lKOVAwOGdUMVJOaWEwU1dsS1dnVDFCR3lPNmhNdzU",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "武汉10月21日：湖北工商业能源渠道伙伴大会来了 ！",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGZhd3d1LTBnMjZ1QUcxd0JabzEyTkRGZE42S2UwR21BQ2p5SmZFZFdzUHN0X1o2U1lEV3QzblhTNGNNYWN3aC1",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "从“卷价格”到“卷技术”：新型储能企业如何穿越周期？｜直击广交会",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGRPS2dCYW4xYm5zd0tLSnB1NlVadFp4YV9kVUVVMHVxbFRNbzhleWZ0WmZTQnQtemFNdDRzYkNwaUdLOEhlb2J",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "2026储能产业生态链体验活动 ——新产品新技术新体验 勾勒储能产业生态全景",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YcnFHU1UzYzhvZlZZekFLbXFJZjdDNHAyZVFodXhHWkRDUnUxUUU0UGJMSFdyaHNST3RyUF83T1ZDMklwOW9PMzJ",
-      "source_url": "https://www.icloudnews.net",
-      "source": "人工智能"
+      "title": "比亚迪股份(01211)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1aSHJRSk55ZF9VQkpZUDdDR2x4ZlBLZXFOM00yZDB5UV9ITDNSdWozLTNKWkM1UU9LNEtyaTNFMA?oc=5",
+      "source_url": "https://xueqiu.com",
+      "source": "雪球"
     }
   ]
 }

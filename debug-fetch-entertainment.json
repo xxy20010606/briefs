@@ -1,18 +1,24 @@
 {
   "type": "entertainment",
-  "total": 45,
+  "total": 46,
   "samples": [
     {
-      "title": "中国电影持续开拓韩国市场 中韩影视交流迎来新机遇",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TWG1NZVZOdmhRT3kyQjNkb2RkOS1nXzRWU3I4azZQamtXMEJCVTE0ZG5vRThFWmVqeG9KbDNibHZQcUN1VW5PWjJ",
+      "title": "是枝裕和执导的《回望》上映11天观众突破10万",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qMWZBZ0dSdHlSYjA4SWVldVNGZENWM2g0cDV4SVpJUWIySVFuTWdrd1NEU1pQM3RXTVBTTnFPa0xrMEFURE9uTVB",
       "source_url": "https://www.ajudaily.com",
       "source": "亚洲日报"
     },
     {
-      "title": "撤档三个月后，国产动画电影《三国第一部：争洛阳》今日再次上映|长安三万里|谢君伟|白蛇：缘起|电影票",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUi1oOTY4Y2RFcVBzUHkzb3BHRm5oZHZ1YkhzZ1ZKU0tfak5adTJZZlRlenVUaGpLQjBMUHZaRjVjSUl4ak82ZEx",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "《街霸》开局强劲",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zNGlYdmstYzJUT0lxSE5saFpvald4dWxQdVVpSk1KNTVSX09IZWcyRGQ0ZFJtQ1RuMjg5TEtCVEgzaW9CbEVkYmt",
+      "source_url": "https://news.mydrivers.com",
+      "source": "驱动之家"
+    },
+    {
+      "title": "两天票房370万，被陈思诚小沈阳碾压，事实再次证明撤档重映没用",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWEVNY18tMEFMOGNmT0pNc1J1TkNPLWlKZXBRMXMzWjdydUF5OURyd1NaOFVfUkZJV0tMakxVWFZ4eDR0NUFaSFB",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
     },
     {
       "title": "群象南归、阿宝回家！纪录电影《象行记》预售开启两大亚洲象真实事件首登大银幕",
@@ -29,12 +35,6 @@
     {
       "title": "2024暑期档国产片口碑第一 《落凡尘》重映定档10月24日",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aQk5Uczh2bEVublpVdlVlZFVLVVA3ZWpJcVBZOVgtOWtoQUJXNmNWTlR2SDhtMHJNOWFtUllnek9heTVrcjZ5dHV",
-      "source_url": "https://www.rediandf.com",
-      "source": "rediandf.com"
-    },
-    {
-      "title": "《民宿惊魂》定档万圣夜 惊悚恐怖程度拉满 怪事轮番来袭，民宿噩梦升级",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HaXBCbEJCZzdUTjhtMC1HdGYzMkw3YWMzOVhSVTJlM0RLbzZ5S2hZSUExOFhQX2tNb21YQkhsNUFUS2RxSURyME9",
       "source_url": "https://www.rediandf.com",
       "source": "rediandf.com"
     }

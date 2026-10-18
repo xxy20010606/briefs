@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 11,
+    "raw_dedup_junk": 46,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.cn": 5,
       "rediandf.com": 5,
-      "hupu.com": 3,
-      "sina.com.cn": 3,
-      "hk01.com": 2,
-      "jingjiribao.cn": 2,
-      "yzwb.net": 2,
-      "bjd.com.cn": 2,
+      "bjd.com.cn": 4,
+      "hupu.com": 2,
+      "360.com": 2,
+      "sina.cn": 2,
       "china.com": 2,
-      "ajudaily.com": 1
+      "hizh.cn": 2,
+      "rednet.cn": 2,
+      "ajudaily.com": 1,
+      "mydrivers.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 3,
-    "relaxed_72h": 8,
+    "fresh1_24h": 17,
+    "page_fresh": 16,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2026电竞显示器品牌排行榜：谁在定义高端新体验",
+      "t": "两天票房370万，被陈思诚小沈阳碾压，事实再次证明撤档重映没用",
       "d": "sohu.com"
     },
     {
-      "t": "以纸为源，激活当代表达——当代纸艺术的创作生态",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "国家电影局、体育总局联合发文 跟着电影去运动 推动影体双向赋能",
+      "t": "职业电竞显示器品牌有哪些？赛场淬炼的实力之选",
       "d": "sohu.com"
     },
     {
-      "t": "肖战首次个人巡演南京站开票售罄，票务公平与黄牛治理再受关注",
-      "d": "huxiu.com"
+      "t": "演员吴越打假AI换脸，一张图片即可让明星带货，有商家定制视频报价1分钟1000元",
+      "d": "eastmoney.com"
     },
     {
-      "t": "2026小剧场青创计划展演举办，14部作品展现青年曲艺新声",
-      "d": "bjnews.com.cn"
+      "t": "著名小提琴家约书亚·贝尔登台上海音乐厅",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "陈坤发文恭喜周迅喜获国际影后大奖，两人领证结婚的传闻早已澄清",
+      "t": "大麦：王某某为吸引关注编造“25W出肖战第一排” 相关部门正依法处理",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "腾讯视频X剧场上新，刘诗诗、李乃文新剧《醉梦》登陆",
       "d": "163.com"
     },
     {
-      "t": "第二十五届中国上海国际艺术节今晚在上海大歌剧院开幕，陈吉宁出席，孙业礼、朱忠明致",
-      "d": "thepaper.cn"
+      "t": "东西方文明跨界对话，“罗丹遇见敦煌”启幕",
+      "d": "people.com.cn"
     }
   ]
 }

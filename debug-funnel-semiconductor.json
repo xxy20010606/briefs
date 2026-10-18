@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 32,
-    "trusted": 13,
+    "raw_dedup_junk": 33,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "tradingkey.com": 2,
-      "sinchew.com.my": 2,
+      "sina.com.cn": 5,
+      "tradingkey.com": 3,
       "sina.cn": 2,
+      "mydrivers.com": 2,
+      "asiae.co.kr": 1,
+      "atvnewsonline.com": 1,
+      "vietnam.vn": 1,
       "hk01.com": 1,
       "chosun.com": 1,
-      "199it.com": 1,
-      "or100.cc": 1,
-      "ua.news": 1,
-      "stockstar.com": 1
+      "sinchew.com.my": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 1,
-    "relaxed_72h": 6,
+    "fresh1_24h": 15,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "美光2026财年Q4营收创542.3亿美元纪录，AI存储需求与HBM竞争重塑其全",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "源杰科技12.51亿元二期项目最新进展",
+      "t": "马斯克咋了？在 X 上大喊：中国将在 2028 年生产大量内存！",
       "d": "sohu.com"
     },
     {
-      "t": "算力需求增长催热高速接口IP！多家厂商加码背后，产业链协同成关键",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "NVIDIA 与半导体领军企业携手推进 AI 在芯片设计与制造领域的应用，助力实",
+      "t": "韩国财长：芯片繁荣至少到2027！",
       "d": "sohu.com"
     },
     {
-      "t": "碳化硅迎结构性变量，长飞先进瞄准车规主驱及AI数据中心",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "2026湾芯展收官 半导体产业协同创新向纵深发展",
+      "t": "多家半导体龙头，出手回购",
       "d": "sohu.com"
     },
     {
-      "t": "【投融资动态】盛拓半导体A轮融资，融资额超亿人民币，投资方为中财融商、成都科创投",
+      "t": "2026湾芯展圆满落幕：3天展期，近8万平方米展区迎来超15.67万人次专业观众",
+      "d": "leiphone.com"
+    },
+    {
+      "t": "ASML光刻机卖爆了：暂停接一类订单",
       "d": "sohu.com"
+    },
+    {
+      "t": "直击工博会2026：从晶圆制造到 AI 机器人，国产半导体全链齐发力",
+      "d": "sohu.com"
+    },
+    {
+      "t": "韩国财政部长李炯日：半导体行业的繁荣势头至少将持续到2027年",
+      "d": "ifeng.com"
     }
   ]
 }

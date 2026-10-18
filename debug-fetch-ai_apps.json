@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 30,
+  "total": 24,
   "samples": [
     {
-      "title": "学校非教学科研人员AI素养培训（第一期）顺利举行",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DdmQxNElNV09XeU9aMGY1V0FxMHlGR2gxVmxqOTZKek9JcGpCa2dzUTdNaVV3T0N4RjIyNTNoUDI5bXQxR3QxbFp",
-      "source_url": "https://wellan.zuel.edu.cn",
-      "source": "文澜新闻网"
+      "title": "一年工作量压缩至80小时！“成都八零”见证金融科技AI时代",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWlQd1hHZnVrOFJKY21DM2JNREVFRS1FcXBON1I2Qmo5Tk5sdnk1bG02cVdPcjZJWVlYenUzbG42dkdrRTYxQmR",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
     },
     {
-      "title": "LockedIn AI – AI 面试助手、实时回答建议与模拟面试练习",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDdYTzNZbWtnYlBlNXljOWs3RTBacVdSbE5qS05WYWNtUDF4WnFCaEZXVDRZckNqbWhWMEc1MG1ZZ3FQLVEwWXR",
+      "title": "Mobbin – UI 和 UX 参考库、界面搜索与用户流程探索",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ3dHY29PRTBvWmJuSHI5RTN6c3RMOWRCYkVmeWU5UkttRlBSNHlXcUx3NXlEdlVGSHpwTGRfdG16OWNYUW92M1h",
       "source_url": "https://quasa.io",
       "source": "quasa.io"
     },
     {
-      "title": "DeepLearning.AI 和 Hugging Face 免费 AI 课程指南 2026",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUmpWcU1MTG16bUE4M292dzhNSVhhUXUwa1ZjTnc4d3ZMMnhPYVktbmgwVXBWZVRfRkRZYmNWZW15TjJGTHRvN1d",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "ProcHub v0.7.0 命令行工具上线，进程、配置与WSL 都能在终端管理- OSCHINA",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wWnZ0dFN0TFEydFZ0X1duWEs4eUhHaFM3ZkdZeFY1M0lLM21DeUN4SmxjZzczaUg5Qkhnal9QTkRHR2RsYUo1V24",
+      "source_url": "https://www.oschina.net",
+      "source": "开源 × AI · 开发者生态社区"
     },
     {
-      "title": "微软AI免费课程与认证，Microsoft Learn指南",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0wtblJ2czJyV1FhR2FMdEdReF9CaFRCRWJzUVBiMmkwTVdua29ZVFpKN1RzTnduclRHX19tX2tFeHU4RmctaF9",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "DHH揭晓Linux新发行版、210+开源与AI大咖共话Agent、大模型与机器人，GOSIM Sh",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01QzFkbUlMQTFpa0d1bHBmSDJXVjlIUFFDUG1lMmlwcmZvNm1ESG5XSkxTbUR4YzVmZFpsWk1DR0xvSnlicU82YS1",
+      "source_url": "https://www.yeeyi.com",
+      "source": "yeeyi"
     },
     {
-      "title": "Google AI Professional Certificate, 含 8 门课程的 Googl",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbk5zMTNyRTh5T3dvNjByUEhNeWd5ZW5YZ3ZxMmVsdHBvNWJIdDRXYUpWWDNrb0dMN1pNdFZ5VXQ0YzNVcS1Ub1h",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "Xano – 后端开发平台、可视化 API 构建与 PostgreSQL 数据库",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdWZSZDRrUDBwcWNWUURpQmJVcXUzV3paVXdDSXo2MnBCcERwd2xmZnFCbHhXamxNNTJIZWt4b0VEQkFqRVlEV29",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
     },
     {
-      "title": "散户也能拥有量化交易工具？全球8校同台竞技金融科技创新",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYzJXdlBtQ0lfZWFmZXYtTV93UWFjOHhxUVVzaER6R3VvbHhhcUFGTHpzR3A4azVzajRzMThoTHhzTi00X1Z4cjB",
-      "source_url": "https://www.sohu.com",
-      "source": "搜狐网"
+      "title": "AI生图前图片不合规？开发者用Vibe Coding打造免费预处理工具",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80ZHR0dWRGNHVCQlVUT2taWFR4d0g1YUpZWHBkVU1CYWpZUjNCamlkWWJzNE9NdUc0ajQ0XzI0Vk5hWmpZZXVqM3R",
+      "source_url": "https://www.80aj.com",
+      "source": "https://www.80aj.com/"
     }
   ]
 }

@@ -1,50 +1,41 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 28,
-    "trusted": 7,
+    "raw_dedup_junk": 23,
+    "trusted": 4,
     "non_trusted_top": {
-      "autohome.com.cn": 8,
-      "sina.com.cn": 5,
-      "sina.cn": 4,
-      "wedoany.com": 2,
-      "icloudnews.net": 1,
-      "sznews.com": 1
+      "sina.com.cn": 6,
+      "autohome.com.cn": 4,
+      "sina.cn": 3,
+      "ichaoqi.com": 1,
+      "seetao.com": 1,
+      "vanpeople.com": 1,
+      "yeeyi.com": 1,
+      "wedoany.com": 1,
+      "indexbox.io": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 0,
-    "relaxed_72h": 7,
-    "final": 7,
+    "fresh1_24h": 4,
+    "page_fresh": 4,
+    "relaxed_72h": 0,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "山西：推动新能源场站配建储能、联合运行",
+      "t": "20兆瓦时储能项目落地，矿区用电有了“超级充电宝”",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "比亚迪股份(01211)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
+    },
+    {
+      "t": "比亚迪把电机“转了90度”，小车插混的时代来了？",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "“氢”装上阵，碳“锁”新能",
       "d": "sohu.com"
-    },
-    {
-      "t": "【出海】能源盒子正式发布 2027 年度海外峰会规划（ 7 站）",
-      "d": "sohu.com"
-    },
-    {
-      "t": "武汉10月21日：湖北工商业能源渠道伙伴大会来了 ！",
-      "d": "sohu.com"
-    },
-    {
-      "t": "从“卷价格”到“卷技术”：新型储能企业如何穿越周期？｜直击广交会",
-      "d": "sohu.com"
-    },
-    {
-      "t": "瞭望·治国理政纪事丨探索资源型地区转型发展新路径",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "比亚迪副总裁：欧洲车企破产不是比亚迪的锅，是自己不思进取",
-      "d": "sohu.com"
-    },
-    {
-      "t": "引领变革！重大科技合作项目落地阳江",
-      "d": "21jingji.com"
     }
   ]
 }

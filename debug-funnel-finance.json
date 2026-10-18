@@ -1,29 +1,38 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 23,
-    "trusted": 5,
+    "raw_dedup_junk": 34,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 6,
-      "moomoo.com": 3,
-      "stockstar.com": 2,
-      "sinchew.com.my": 2,
-      "tradersunion.com": 1,
+      "sina.com.cn": 9,
+      "moomoo.com": 5,
+      "stockstar.com": 3,
+      "sina.cn": 3,
+      "jkn.co.kr": 2,
+      "investing.com": 1,
+      "orientaldaily.com.my": 1,
+      "youtu.be": 1,
       "jin10.com": 1,
-      "futunn.com": 1,
-      "tradingkey.com": 1,
-      "hstong.com": 1
+      "futunn.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 1,
+    "fresh1_24h": 7,
+    "page_fresh": 3,
     "relaxed_72h": 0,
-    "final": 1,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "高晓峰 : 10.17多空来回拉锯，黄金短线机会如何把握？",
+      "t": "AI改写股市格局，岂止科技股受益？",
       "d": "cnfol.com"
+    },
+    {
+      "t": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "A股：不必再等明天开盘了，趋势已经明朗，明后两天行情没有任何意外了",
+      "d": "163.com"
     }
   ]
 }
