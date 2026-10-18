@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 46,
-    "trusted": 17,
+    "raw_dedup_junk": 56,
+    "trusted": 11,
     "non_trusted_top": {
-      "rediandf.com": 5,
-      "bjd.com.cn": 4,
-      "hupu.com": 2,
+      "sina.cn": 6,
+      "bjd.com.cn": 5,
+      "yzwb.net": 4,
+      "yeeyi.com": 3,
+      "rediandf.com": 3,
+      "vietnam.vn": 2,
       "360.com": 2,
-      "sina.cn": 2,
-      "china.com": 2,
-      "hizh.cn": 2,
-      "rednet.cn": 2,
-      "ajudaily.com": 1,
-      "mydrivers.com": 1
+      "epochtimes.com": 1,
+      "sina.com.cn": 1,
+      "shangbaoindonesia.com": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 16,
-    "relaxed_72h": 0,
+    "fresh1_24h": 8,
+    "page_fresh": 1,
+    "relaxed_72h": 10,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "两天票房370万，被陈思诚小沈阳碾压，事实再次证明撤档重映没用",
+      "t": "AI赋能向全链路演进 多家机构看好影视产业重塑机会",
+      "d": "cnstock.com"
+    },
+    {
+      "t": "票房从52.8万飙到5亿！我感慨：小沈阳保住了赵本山弟子的颜面",
       "d": "sohu.com"
     },
     {
-      "t": "职业电竞显示器品牌有哪些？赛场淬炼的实力之选",
-      "d": "sohu.com"
-    },
-    {
-      "t": "演员吴越打假AI换脸，一张图片即可让明星带货，有商家定制视频报价1分钟1000元",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "著名小提琴家约书亚·贝尔登台上海音乐厅",
+      "t": "从“看比赛”到“上手玩” 2026全民电竞嘉年华收官",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "大麦：王某某为吸引关注编造“25W出肖战第一排” 相关部门正依法处理",
-      "d": "10jqka.com.cn"
+      "t": "《嫁金钗》3天8集热度破万，田曦薇靠“恶女”晋升，一年三平台破万",
+      "d": "sohu.com"
     },
     {
-      "t": "腾讯视频X剧场上新，刘诗诗、李乃文新剧《醉梦》登陆",
-      "d": "163.com"
+      "t": "国际视听艺术之夜在沪举办，慎海雄朱忠明致辞",
+      "d": "thepaper.cn"
     },
     {
-      "t": "东西方文明跨界对话，“罗丹遇见敦煌”启幕",
-      "d": "people.com.cn"
+      "t": "两部门：鼓励利用电影院空闲时段开展重大体育赛事直播",
+      "d": "ithome.com"
+    },
+    {
+      "t": "上海市文化和旅游局局长赵勇：将中国上海国际艺术节打造成世界级大IP",
+      "d": "eastmoney.com"
     }
   ]
 }

@@ -1,54 +1,50 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 18,
+    "raw_dedup_junk": 26,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 11,
-      "ac.cn": 3,
+      "sina.com.cn": 6,
       "pasqualepillitteri.it": 3,
-      "sina.cn": 2,
-      "csdn.net": 2,
-      "cnbeta.com.tw": 1,
-      "rednet.cn": 1,
-      "yeeyi.com": 1,
+      "crntt.com": 1,
       "panewslab.com": 1,
-      "quasa.io": 1
+      "yeeyi.com": 1,
+      "sina.cn": 1
     },
-    "fresh1_24h": 18,
-    "page_fresh": 14,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 4,
+    "relaxed_72h": 7,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "湖南省进北航揽才 人工智能企业开出最高百万年薪",
+      "t": "2026人工智能产业大会“AI走进千行百业”专题论坛举行",
       "d": "sohu.com"
     },
     {
-      "t": "DeepSeek新模型Token消耗降超五成-36氪",
-      "d": "36kr.com"
+      "t": "AI大模型狂飙，数据中心先扛不住了？",
+      "d": "sohu.com"
     },
     {
-      "t": "AI竞争打到工厂，欧洲想和中国掰手腕",
-      "d": "guancha.cn"
+      "t": "一出手就是斩杀线 DeepSeek V4.1 Flash成本低到发指",
+      "d": "eet-china.com"
     },
     {
-      "t": "“AI+ 终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon 上海",
+      "t": "【明日主题前瞻】Meta发布开放权重大模型，并推动落地苹果电脑",
+      "d": "cls.cn"
+    },
+    {
+      "t": "17 岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想",
       "d": "infoq.cn"
     },
     {
-      "t": "首经贸人工智能学院：“AI+财经”让技术创造价值",
-      "d": "sohu.com"
+      "t": "AI赋能向全链路演进 多家机构看好影视产业重塑机会",
+      "d": "cnstock.com"
     },
     {
-      "t": "超过四分之一的新锐AI公司，出自他们之手",
-      "d": "36kr.com"
-    },
-    {
-      "t": "“齐鲁七星”背后，工业大省的AI突围之路",
-      "d": "ifeng.com"
+      "t": "（经济观察）中国民企AI大模型在全球“圈粉”",
+      "d": "chinanews.com.cn"
     }
   ]
 }

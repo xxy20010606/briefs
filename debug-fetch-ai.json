@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 45,
+  "total": 26,
   "samples": [
     {
-      "title": "湖南省进北航揽才 人工智能企业开出最高百万年薪",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDRkd1J6VzNCVktjajU4M0Z2Q192LWp3Y2tYdEsyajFGWmZVQjVPRjdQcnQ2Qm5kVHItRmRRVU1BQ2RMVl85MWl",
+      "title": "2026人工智能产业大会“AI走进千行百业”专题论坛举行",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzVGa0VRN2JYSkdjNElKYUVaQWh2Q1N0UzVjZWtiQ3JLaHlYYmNQZE9rTlZFWE1MUnFCcnc3V0ozeHZXam5HdHU",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
     },
     {
-      "title": "DeepSeek V4.1 Flash成本低到发指：1美元13亿Token",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zYkQzTDZjaUhMc1UzYmtNUHZaWldJYU1fQkcwVllFWU1tcTgzRVJOSDBXdmxUWGRLRVFHOHVxdzBzWDNQVF9oRlc",
-      "source_url": "https://www.cnbeta.com.tw",
-      "source": "cnBeta.COM"
+      "title": "海疆学校学术会议暨同源观澜大模型福州发布",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GUnI3OEhSWUlMSllwdHAtTm5rcFZlXzdKZThOYmVZUGxsOVFSc1JiYzdXTFRUaUJJd3lpajFSQzdVMDRVMV90M0R",
+      "source_url": "https://bj.crntt.com",
+      "source": "中国评论"
     },
     {
-      "title": "集智论水，赋能发展｜2026中国水利学术大会专题会议掠影",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oQjFMVWhmVVBDbjFlckl3Y2tmTHFrYXlJLUVZWks4TlFTbHpJeGpybEd2bVhQYlVmZ3hwNU5VNHpVUXlTZXNLZER",
-      "source_url": "https://edu.rednet.cn",
-      "source": "红网"
+      "title": "丘成桐警示：国际AI巨头在数学上指数级进化，中国学者必须告别“线性追赶”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxUWI0Z3d0NThDNzdpaUtuT3did2RYUlhFbFFBZ3JlYlpBa00wUUJCTTh5ZW9wNXFZR0Y0SjdxMm0xc1lDZlNsS1h",
+      "source_url": "https://user.guancha.cn",
+      "source": "风闻"
     },
     {
-      "title": "DeepSeek新模型Token消耗降超五成-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXRnRUYUVMa1dYNWw0OUZ5NWQxOWItenFwMHdQamw4Q2lBZE1wTHZ0WWxhMDJ4RUVZd3NTZWdlVUtwWUlzMnczdkp",
-      "source_url": "https://36kr.com",
-      "source": "36kr.com"
+      "title": "从宇树科技到Winverse AI，DeepSeek梁文锋的物理世界新棋局",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TYW1kTWNaTU8zaFhOb1h4Sk9HamdvaXAyWms1eHF3VGRrUXNnMm1wQkNKOGdKd2FaMWZKeGNVQ1E3Y3hUQzFKbmN",
+      "source_url": "https://www.panewslab.com",
+      "source": "PANews"
     },
     {
-      "title": "2026人工智能产业大会:山东如何将“场景优势”转化为“产业胜势”",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS0pqeUx1b1JWZVJZalgwQ0dkQlA4NXhXa2NMaDJ3Z2NLdlh4MW1fMzNDbmItZFEza2g3S0FmSUhXTXlud2pzRkE",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "17 岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85MXVoYzJaSFNMVG92VkdlTWJXZDl4VElHSWw2TXljVWktTV8yeUVGazdjZDlwbmtZZ0Z5dFY5bmFVTEl1cUFsd19",
+      "source_url": "https://www.infoq.cn",
+      "source": "InfoQ-CN"
     },
     {
-      "title": "AI竞争打到工厂，欧洲想和中国掰手腕",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTNHY2c3hVSHhUMUtnVnE1TUt6RVFIVEhPVGFJWlk4WUZtUF90QjNCYXByV2dVaWNoakY4SmppSmJCNy1maUlCVld",
-      "source_url": "https://www.guancha.cn",
-      "source": "观察者网"
+      "title": "AI赋能向全链路演进 多家机构看好影视产业重塑机会",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WLVVYcGxxZ0cxNnZEMDlBSWpMYk5idFR0YzY3ZjBvSVpBbkJfdGdzM09XaGVxVlNGSGF3eGJxWHF1OU5iMlpxbE9",
+      "source_url": "https://paper.cnstock.com",
+      "source": "上海证券报电子版"
     }
   ]
 }

@@ -1,33 +1,50 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 24,
-    "trusted": 2,
+    "raw_dedup_junk": 37,
+    "trusted": 7,
     "non_trusted_top": {
-      "pasqualepillitteri.it": 8,
-      "80aj.com": 5,
-      "quasa.io": 3,
-      "oschina.net": 1,
+      "pasqualepillitteri.it": 15,
+      "sina.com.cn": 4,
+      "sina.cn": 2,
+      "unite.ai": 1,
+      "vietnam.vn": 1,
       "yeeyi.com": 1,
-      "mpaypass.com.cn": 1,
-      "zuel.edu.cn": 1,
+      "worldjournal.com": 1,
+      "moomoo.com": 1,
       "cyzone.cn": 1,
-      "cnbeta.com.tw": 1
+      "80aj.com": 1
     },
-    "fresh1_24h": 2,
+    "fresh1_24h": 7,
     "page_fresh": 1,
-    "relaxed_72h": 1,
-    "final": 2,
+    "relaxed_72h": 5,
+    "final": 6,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "一年工作量压缩至80小时！“成都八零”见证金融科技AI时代",
-      "d": "21jingji.com"
+      "t": "Meta首席AI官Alexandr Wang披露Muse内幕：不到200人团队七",
+      "d": "huxiu.com"
     },
     {
-      "t": "WPS Comate组织级AI办公先锋先行城市峰会在昆明举行",
+      "t": "北京大学学生用AI干什么？这场人工智能学生科技节告诉你",
       "d": "sohu.com"
+    },
+    {
+      "t": "微信测试首屏AI助手小微：从聊天问答转向服务与交易执行",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "港股互联网再现逆袭行情，513770标的指数上探3%！阿里、百度携手赋能苹果AI",
+      "d": "sohu.com"
+    },
+    {
+      "t": "深度｜Codex 核心团队万字复盘：做对什么、踩过哪些坑，以及 8 条 AI 原",
+      "d": "sohu.com"
+    },
+    {
+      "t": "动察Beating MeetUp对谈：Personal Agent是伪需求吗？个",
+      "d": "huxiu.com"
     }
   ]
 }

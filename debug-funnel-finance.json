@@ -1,38 +1,35 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 34,
+    "raw_dedup_junk": 40,
     "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 9,
-      "moomoo.com": 5,
+      "sina.com.cn": 19,
+      "sina.cn": 4,
       "stockstar.com": 3,
-      "sina.cn": 3,
-      "jkn.co.kr": 2,
-      "investing.com": 1,
-      "orientaldaily.com.my": 1,
-      "youtu.be": 1,
-      "jin10.com": 1,
-      "futunn.com": 1
+      "myzaker.com": 2,
+      "investing.com": 2,
+      "tradingkey.com": 2,
+      "jrj.com.cn": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 3,
-    "relaxed_72h": 0,
+    "fresh1_24h": 5,
+    "page_fresh": 0,
+    "relaxed_72h": 3,
     "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "AI改写股市格局，岂止科技股受益？",
+      "t": "ST威领(002667.SZ)：山南锑金将成为公司第一大股东_股市直播_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
-      "d": "ifeng.com"
+      "t": "清泉股份终止创业板IPO 原拟募资4.9亿元国信证券保荐_证券要闻",
+      "d": "cnfol.com"
     },
     {
-      "t": "A股：不必再等明天开盘了，趋势已经明朗，明后两天行情没有任何意外了",
-      "d": "163.com"
+      "t": "AI泡沫争论升温：美股高估值、美债扩张与美联储政策构成关键变量",
+      "d": "huxiu.com"
     }
   ]
 }

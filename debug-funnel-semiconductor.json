@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 33,
-    "trusted": 15,
+    "raw_dedup_junk": 28,
+    "trusted": 13,
     "non_trusted_top": {
       "sina.com.cn": 5,
-      "tradingkey.com": 3,
-      "sina.cn": 2,
-      "mydrivers.com": 2,
-      "asiae.co.kr": 1,
-      "atvnewsonline.com": 1,
-      "vietnam.vn": 1,
-      "hk01.com": 1,
+      "dailyqd.com": 1,
+      "scdaily.cn": 1,
+      "digitimes.com.tw": 1,
       "chosun.com": 1,
-      "sinchew.com.my": 1
+      "tradingkey.com": 1,
+      "ajudaily.com": 1,
+      "scol.com.cn": 1,
+      "cnbeta.com.tw": 1,
+      "coindesk.com": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 8,
-    "relaxed_72h": 0,
+    "fresh1_24h": 10,
+    "page_fresh": 2,
+    "relaxed_72h": 7,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "马斯克咋了？在 X 上大喊：中国将在 2028 年生产大量内存！",
+      "t": "最高8亿！科创板龙头企业再掀“回购潮”",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "光电集成｜最新研究：精准控制成核，二维半导体向晶圆级制造迈进一步",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "活力中国调研行丨潮起自贸港，海南启“芯”程",
       "d": "sohu.com"
     },
     {
-      "t": "韩国财长：芯片繁荣至少到2027！",
+      "t": "光芯片龙头，获超280家机构调研",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "行业精英齐聚四川内江 聚力打造泛半导体及数据产业生态高地",
       "d": "sohu.com"
     },
     {
-      "t": "多家半导体龙头，出手回购",
-      "d": "sohu.com"
+      "t": "千亿市值半导体龙头，被284家机构“盯上”！本周机构密集调研股曝光",
+      "d": "eastmoney.com"
     },
     {
-      "t": "2026湾芯展圆满落幕：3天展期，近8万平方米展区迎来超15.67万人次专业观众",
-      "d": "leiphone.com"
-    },
-    {
-      "t": "ASML光刻机卖爆了：暂停接一类订单",
-      "d": "sohu.com"
-    },
-    {
-      "t": "直击工博会2026：从晶圆制造到 AI 机器人，国产半导体全链齐发力",
-      "d": "sohu.com"
-    },
-    {
-      "t": "韩国财政部长李炯日：半导体行业的繁荣势头至少将持续到2027年",
-      "d": "ifeng.com"
+      "t": "对话方正微电子刘韧：IDM模式赋能国产第三代半导体 碳化硅AI数据中心渗透进入增",
+      "d": "cls.cn"
     }
   ]
 }

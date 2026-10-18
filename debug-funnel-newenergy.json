@@ -1,40 +1,47 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 23,
-    "trusted": 4,
+    "raw_dedup_junk": 28,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 6,
-      "autohome.com.cn": 4,
-      "sina.cn": 3,
-      "ichaoqi.com": 1,
-      "seetao.com": 1,
-      "vanpeople.com": 1,
-      "yeeyi.com": 1,
-      "wedoany.com": 1,
-      "indexbox.io": 1
+      "autohome.com.cn": 9,
+      "sina.com.cn": 3,
+      "voi.id": 3,
+      "news18a.com": 2,
+      "archina.com": 1,
+      "cnnb.com.cn": 1,
+      "enanyang.my": 1,
+      "hk01.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 4,
-    "relaxed_72h": 0,
-    "final": 4,
+    "fresh1_24h": 5,
+    "page_fresh": 1,
+    "relaxed_72h": 5,
+    "final": 6,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "20兆瓦时储能项目落地，矿区用电有了“超级充电宝”",
-      "d": "solarbe.com"
+      "t": "总投资3.25亿！83MW光伏项目环评拟审批公示",
+      "d": "sohu.com"
     },
     {
-      "t": "比亚迪股份(01211)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
+      "t": "2026大湾区绿能大会在广东阳江举行",
+      "d": "stdaily.com"
     },
     {
-      "t": "比亚迪把电机“转了90度”，小车插混的时代来了？",
-      "d": "eet-china.com"
+      "t": "广交会观察：中国绿能装备加速“点亮”全球",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "“氢”装上阵，碳“锁”新能",
+      "t": "【网通社快报】比亚迪第三代秦PLUS实车外观曝光，预计10月下旬上市",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "比亚迪第三代秦PLUS实车曝光，预计10月下旬上市",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "中船科技亮相CWP2026：把整条风电产业链装进一个展台",
       "d": "sohu.com"
     }
   ]

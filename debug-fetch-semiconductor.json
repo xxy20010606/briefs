@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 33,
+  "total": 28,
   "samples": [
     {
-      "title": "陕西：“长板”发力托稳增长大盘|陕西省|西安市|产业|西安|芯片",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1Bfb0FsZFpJMF8zZldMSThOT2RvQWxJdVpPSnM2M0hiNVFUdDVLVGVNRkZPblZqRTJWT25SaWFIMjNNNmhPaEV",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "青报经济述评 | 青岛集成电路产业聚链成势",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QZUc5ZmVUcHhDd1pUOF9uckVhUzQyaGx3d0JxUDdfSzJPQlhfdGhMQ2tEZzVTZXJuUXlyaTFBNHh2ekxiRl8yQ2J",
+      "source_url": "https://www.dailyqd.com",
+      "source": "青岛日报"
     },
     {
-      "title": "马斯克咋了？在 X 上大喊：中国将在 2028 年生产大量内存！",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX25CNFdPRGR6T0hHYWZ0dVhhTDBTRjNmS0RoWDFTWktWRDItWi1DZTMxYXVrVVdxY1Qzc3ZpbVdmMFBId21YMDR",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "title": "封测与算力耦合串联产业链",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KdGZyMzgtUXR5akdhTEg4eGJfa0hldk93UVJDeC1fMERTTE1XTURTZ2pHb0dCa3BkX09CWWg1VVV1UjljdF93YkZ",
+      "source_url": "https://epaper.scdaily.cn",
+      "source": "四川日报"
     },
     {
-      "title": "韩国财长：芯片繁荣至少到2027！",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ21tZHJWZW9DMVgtRDNVRVZDY0pRT1BEbG56cnpLQ2FiaWgxaUFoeGdEVWFDT3hCcGNkZUNLQWlwUzJYa0JESkF",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "title": "内存涨价挤压下游利润 三星手机计划四季度最高减产30%",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02RjYtMUNNR25pR0ozOUozenBFWHdmWXVjeG9tWHU3RGxJS1dWa1FwLUoyX3RnV29sZVg1bGNCMWszVzJ6TS10Qg?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "多家半导体龙头，出手回购",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXA5aWRBRmxvN1VnWlV4VE5PZlBENTNJYl9aUHI0X3FESGtJWVhlVG0yN3NBOUI3SktuZlphcjN0MkN6a2xHOEN",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "title": "10.19早评|一夜醒来崩了！多空决战！A股怎么办？",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTTE3R0Fibl9hUWVqSjB3ZzF2bk83djJsQ25YVFh4RkJQSHpCR1F2Z0FDOHFTMmdsWmQxRVNlbGFTMkc3UkozU2x",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "Bolt完成Zeus GPU测试芯片调试，实际产品预计2028年发售|步进|服务器|仿真|台积电|客",
-      "link": "https://news.google.com/rss/articles/CBMi7wVBVV95cUxPOUpZbXFLOEU4M2kyb2cyN0I3MTZkbjdJNVljanl3bUxZbXcxUDhUazlER0QzQUluZWRXZ2xYdi1VdmY2ejJ3ZFk",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "台积电韩国唯一VCA合作夥伴ASICLAND 秀AI芯片开发平台、台湾据点深化研发",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQzVwZklqSkxDVzV0b21NZlFPRkhtWTBVMzFOeVRWdWtvQWdiUUh1V1N6dkI4UVplSjNhV1FOYW5qOTk3WER3UXV",
+      "source_url": "https://gb-www.digitimes.com.tw",
+      "source": "DIGITIMES"
     },
     {
-      "title": "2026湾芯展圆满落幕：3天展期，近8万平方米展区迎来超15.67万人次专业观众",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5a2lGMDUxOXRJM1BBX21lX3gtMlBuOXdZTnRvY0pyRHV4LVFMaV9Sa01pa1dvVE1tX0RJRHVrcUtoNTRacldkb1V",
-      "source_url": "https://www.leiphone.com",
-      "source": "雷峰网"
+      "title": "2026湾芯展观察｜国产半导体设备迈向全栈平台，AI算力需求倒逼制造端扩产",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84MVN5VEFIOUpZOXdiWkxVWFBOQ0k5dVBUZ0ZOUEhkOXhwcnBBOGlJdHFXS1hkWFVlN3VVdU9EZC1hY3hka0taOGp",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     }
   ]
 }
