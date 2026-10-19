@@ -1,48 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 28,
-    "trusted": 7,
+    "raw_dedup_junk": 45,
+    "trusted": 15,
     "non_trusted_top": {
-      "autohome.com.cn": 9,
-      "sina.com.cn": 3,
-      "voi.id": 3,
-      "news18a.com": 2,
-      "archina.com": 1,
-      "cnnb.com.cn": 1,
-      "enanyang.my": 1,
-      "hk01.com": 1
+      "sina.com.cn": 7,
+      "autohome.com.cn": 7,
+      "sina.cn": 3,
+      "seetao.com": 2,
+      "wedoany.com": 2,
+      "stockstar.com": 2,
+      "energytrend.cn": 1,
+      "xizang.gov.cn": 1,
+      "pedaily.cn": 1,
+      "mydrivers.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 1,
-    "relaxed_72h": 5,
-    "final": 6,
-    "cap": "不限同域"
+    "fresh1_24h": 15,
+    "page_fresh": 14,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "总投资3.25亿！83MW光伏项目环评拟审批公示",
+      "t": "海辰储能总裁王鹏程：看好钠电路线，长时储能订单已排至明年底",
       "d": "sohu.com"
     },
     {
-      "t": "2026大湾区绿能大会在广东阳江举行",
-      "d": "stdaily.com"
-    },
-    {
-      "t": "广交会观察：中国绿能装备加速“点亮”全球",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "【网通社快报】比亚迪第三代秦PLUS实车外观曝光，预计10月下旬上市",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "比亚迪第三代秦PLUS实车曝光，预计10月下旬上市",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "中船科技亮相CWP2026：把整条风电产业链装进一个展台",
+      "t": "昱能科技亮相第140届广交会&捷克智慧能源展，加速拓展海内外光储市场",
       "d": "sohu.com"
+    },
+    {
+      "t": "扬杰科技：当前SiC业务在手订单饱满，正同步推进产能扩建",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "11:47:11【新能源新周期，关注南方基金旗下新能源系列ETF布局机遇】",
+      "d": "cls.cn"
+    },
+    {
+      "t": "含60MW/240MWh构网型储能！华能乌兰察布960MW“风光储调”一体化项目",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "新型电力系统三大指数，看看哪只是你想要的？",
+      "d": "cls.cn"
+    },
+    {
+      "t": "本周打新来了！今日1只新股申购",
+      "d": "stcn.com"
     }
   ]
 }

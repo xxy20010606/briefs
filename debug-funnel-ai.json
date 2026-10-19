@@ -1,50 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 26,
-    "trusted": 13,
+    "raw_dedup_junk": 68,
+    "trusted": 24,
     "non_trusted_top": {
-      "sina.com.cn": 6,
+      "sina.com.cn": 10,
+      "techwalker.com": 6,
+      "sina.cn": 6,
       "pasqualepillitteri.it": 3,
-      "crntt.com": 1,
-      "panewslab.com": 1,
-      "yeeyi.com": 1,
-      "sina.cn": 1
+      "stockstar.com": 2,
+      "guandian.cn": 2,
+      "icloudnews.net": 2,
+      "csdn.net": 2,
+      "jingjiribao.cn": 1,
+      "mrjjxw.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 4,
-    "relaxed_72h": 7,
+    "fresh1_24h": 24,
+    "page_fresh": 21,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2026人工智能产业大会“AI走进千行百业”专题论坛举行",
+      "t": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
       "d": "sohu.com"
     },
     {
-      "t": "AI大模型狂飙，数据中心先扛不住了？",
+      "t": "【网经社AI科普】言犀：京东推出的一站式AI智能体开发平台",
       "d": "sohu.com"
     },
     {
-      "t": "一出手就是斩杀线 DeepSeek V4.1 Flash成本低到发指",
-      "d": "eet-china.com"
+      "t": "Git 被换掉，LLM 被替代：AI 编码开始反噬传统工具链？",
+      "d": "leiphone.com"
     },
     {
-      "t": "【明日主题前瞻】Meta发布开放权重大模型，并推动落地苹果电脑",
+      "t": "Muse Wonder 建模大翻车，亚历山大·王辩护遭马斯克无情补刀",
+      "d": "leiphone.com"
+    },
+    {
+      "t": "通用大模型正在重做机器人的研发与交付",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "“人工智能+”行动部署落地产业趋势明确，南方基金旗下科创人工智能ETF南方(58",
       "d": "cls.cn"
     },
     {
-      "t": "17 岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "AI赋能向全链路演进 多家机构看好影视产业重塑机会",
-      "d": "cnstock.com"
-    },
-    {
-      "t": "（经济观察）中国民企AI大模型在全球“圈粉”",
-      "d": "chinanews.com.cn"
+      "t": "人工智能上市公司发展有韧性",
+      "d": "cnfol.com"
     }
   ]
 }

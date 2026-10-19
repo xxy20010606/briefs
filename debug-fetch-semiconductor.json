@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 28,
+  "total": 42,
   "samples": [
     {
-      "title": "青报经济述评 | 青岛集成电路产业聚链成势",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QZUc5ZmVUcHhDd1pUOF9uckVhUzQyaGx3d0JxUDdfSzJPQlhfdGhMQ2tEZzVTZXJuUXlyaTFBNHh2ekxiRl8yQ2J",
-      "source_url": "https://www.dailyqd.com",
-      "source": "青岛日报"
+      "title": "海南“造芯” 突围：半导体产业迎来新格局丨活力中国调研行",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeEhKT2N1Q21BWGNUaEgyTk4tSDRQR1cwRmxoMExTM2NXN1RQQ0pXQWdzWkZfd18zY2ZUczlIVWRuYW1RZlJHVmV",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
     },
     {
-      "title": "封测与算力耦合串联产业链",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KdGZyMzgtUXR5akdhTEg4eGJfa0hldk93UVJDeC1fMERTTE1XTURTZ2pHb0dCa3BkX09CWWg1VVV1UjljdF93YkZ",
-      "source_url": "https://epaper.scdaily.cn",
-      "source": "四川日报"
+      "title": "「良率下半场·数智新范式」芯片测试数据分析实战沙龙（深圳站）圆满举办",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFZvNjI2TGFxcTZZOUpkRVIwT01QbERrMG1FN0lmMm1HTDItUUhHaG5ES1hXVlZKZldlc3ZUd3B4Rm16VDJMemp",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
     },
     {
-      "title": "内存涨价挤压下游利润 三星手机计划四季度最高减产30%",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02RjYtMUNNR25pR0ozOUozenBFWHdmWXVjeG9tWHU3RGxJS1dWa1FwLUoyX3RnV29sZVg1bGNCMWszVzJ6TS10Qg?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "上海半导体“小巨人”，拟再融资20亿元",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDZ4bFV2TW9BSzlKd0ZyRmYyMUxsbUJOc01RRjhsaDNfUWpiLUdQMHBtcFlydUxXUWROZFgxeERwcGhjTTViQ3U",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
     },
     {
-      "title": "10.19早评|一夜醒来崩了！多空决战！A股怎么办？",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTTE3R0Fibl9hUWVqSjB3ZzF2bk83djJsQ25YVFh4RkJQSHpCR1F2Z0FDOHFTMmdsWmQxRVNlbGFTMkc3UkozU2x",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "三星携手台积电代工英伟达下一代HBM芯片，半导体ETF博时(159582)近10日合计“吸金”超88",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kNHJlb0FfOUF0eUM5ZlhpUXlrdHRCb1Jha2xPMHl3YnhhTVBZRTJ3VGZlNjZnMF9jcEVfc183OWc4MGFzTGJXY1B",
+      "source_url": "https://www.jiemian.com",
+      "source": "Jiemian.com"
     },
     {
-      "title": "台积电韩国唯一VCA合作夥伴ASICLAND 秀AI芯片开发平台、台湾据点深化研发",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQzVwZklqSkxDVzV0b21NZlFPRkhtWTBVMzFOeVRWdWtvQWdiUUh1V1N6dkI4UVplSjNhV1FOYW5qOTk3WER3UXV",
-      "source_url": "https://gb-www.digitimes.com.tw",
-      "source": "DIGITIMES"
+      "title": "韩国财长称半导体景气至少持续到2027年，韩媒《每日经济》专栏警告2029年存储芯片“红海”",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MNFRQRVFOOWViNnh4RF9xVTVJYWNuZzJvNk5Pdk9leDBTOVRPUW1YQV9vRkZKem5nMDBIVzVjWnUwNWJiWlRVcE4",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "2026湾芯展观察｜国产半导体设备迈向全栈平台，AI算力需求倒逼制造端扩产",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84MVN5VEFIOUpZOXdiWkxVWFBOQ0k5dVBUZ0ZOUEhkOXhwcnBBOGlJdHFXS1hkWFVlN3VVdU9EZC1hY3hka0taOGp",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "中芯国际表示最新工艺“超越了英特尔”，审视其性能仍存在明显的局限",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRHNVazhYaVBrQnNnZXJDSzFRUjFKbThhaF9ibnZrUXFyYmwyTGRScEJnTGtjS1o1WUtuU0wzSTZacDNHNDZtWWg",
+      "source_url": "https://cnnews.chosun.com",
+      "source": "朝鮮日報中文版"
     }
   ]
 }

@@ -1,49 +1,53 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 37,
-    "trusted": 7,
+    "raw_dedup_junk": 49,
+    "trusted": 13,
     "non_trusted_top": {
-      "pasqualepillitteri.it": 15,
-      "sina.com.cn": 4,
-      "sina.cn": 2,
-      "unite.ai": 1,
-      "vietnam.vn": 1,
-      "yeeyi.com": 1,
-      "worldjournal.com": 1,
-      "moomoo.com": 1,
-      "cyzone.cn": 1,
-      "80aj.com": 1
+      "sina.com.cn": 5,
+      "pasqualepillitteri.it": 5,
+      "digitaltoday.co.kr": 4,
+      "moomoo.com": 2,
+      "donews.com": 2,
+      "ebiotrade.com": 2,
+      "80aj.com": 2,
+      "panewslab.com": 2,
+      "17173.com": 1,
+      "caiwennews.com": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 1,
-    "relaxed_72h": 5,
-    "final": 6,
-    "cap": "不限同域"
+    "fresh1_24h": 13,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "Meta首席AI官Alexandr Wang披露Muse内幕：不到200人团队七",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "北京大学学生用AI干什么？这场人工智能学生科技节告诉你",
+      "t": "广交会六成企业应用AI，数字内容与AI出海驱动AI支付",
       "d": "sohu.com"
     },
     {
-      "t": "微信测试首屏AI助手小微：从聊天问答转向服务与交易执行",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "港股互联网再现逆袭行情，513770标的指数上探3%！阿里、百度携手赋能苹果AI",
+      "t": "AI跑得太快，产品经理跟不上了！",
       "d": "sohu.com"
     },
     {
-      "t": "深度｜Codex 核心团队万字复盘：做对什么、踩过哪些坑，以及 8 条 AI 原",
-      "d": "sohu.com"
+      "t": "中科曙光发布scaleX40通用箱式超节点：世界首个无线缆箱式超节点",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "动察Beating MeetUp对谈：Personal Agent是伪需求吗？个",
+      "t": "企业级AI智能体平台推荐：四大核心应用底座选型指南-36氪",
+      "d": "36kr.com"
+    },
+    {
+      "t": "模型长出交互界面，“手搓”AI应用要全面退潮了？",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "“AI+金融”迎成长风口 首批创业板金融科技ETF密集上市",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "字节系创业者追踪：36人离职创业，三拨出走与剪映系AI应用竞争",
       "d": "huxiu.com"
     }
   ]

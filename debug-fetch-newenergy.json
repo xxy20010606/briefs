@@ -1,7 +1,25 @@
 {
   "type": "newenergy",
-  "total": 28,
+  "total": 45,
   "samples": [
+    {
+      "title": "晶科能源前三季度业绩实现同比减亏",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QTUx0aDcwc1dlUEFFaFpvaDhsQlJGQW1IdENRM2d1T21QUUUydWtLNEFpaGkwLW9tLW5NRkFSUmVYNnNjQTl1YmV",
+      "source_url": "https://www.energytrend.cn",
+      "source": "集邦新能源"
+    },
+    {
+      "title": "海辰储能总裁王鹏程：看好钠电路线，长时储能订单已排至明年底",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWdtTVNKdTRSLWZiVlJCRjFMSS14cFA4UUlOeEJnODkzS2tUdWszb1NsN0p2S3RTQ2ZDWDMxeXY1WGl5YXNmZk5",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
+    },
+    {
+      "title": "乌兹别克斯坦总统会见三家中国能源企业，合作从发电扩到田间和物流",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JaTRBWGNRaE1vYkl0WU1oS2pCMUhNeF82VVZ3SXBlenhaTm1pZkJQWGttTjNvamo1dVVVMVVJR0R3czEwZl9MZzR",
+      "source_url": "https://www.seetao.com",
+      "source": "见道网"
+    },
     {
       "title": "广交会人气爆棚！国外客商为“中国智造”当场下单",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TMmdHYk14c1RkZmZzNkpLYWVneFhncWY0ODJkbFJGT1NRT2JURFBlV25TU0NnMUNQcGl2bFdpWWdiX2YzTWpjVU1",
@@ -9,34 +27,16 @@
       "source": "新浪新闻"
     },
     {
-      "title": "第140届广交会：新能源产品备受境外采购商关注",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbEtybVZXVzFjbV92MFJMelhRbUxaa2RLNjBVdWdvdTZMRXRCNUpjTFE1b3RRY1dKZmF1alpfS08tTjZUSHJLaUR",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "新型电力系统三大指数，看看哪只是你想要的？",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14QVdWTVFhckgwZHhPTEVCVnJrcHd2dWdjR05BR2xxTEMyejRlTklLTG5MOVluTjFyXzF6SnpMSUlydllqNTVDag?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "绿能澎湃，双碳启航——交大设计总院中标淮北市高新区绿电直连实施方案编制与申报咨询",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtdlB3cjZmdUZJMFBkbTJBeUR5MmlSY2s0SXhZZHA4Q25KZ2puSmE0cmlFdV9zbjFwU1RTUlNaUmM0QXFrU1ZEUWd",
-      "source_url": "http://www.archina.com",
-      "source": "ARCHINA"
-    },
-    {
-      "title": "总投资3.25亿！83MW光伏项目环评拟审批公示",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdkhUN05Tc0JfQUstM2RpaUd5UkZWa1lIRXFkdjdVNkl4WTlLazVNNVNMS3VMa2ZiZjNOWERiYnlIZ0dxazN3bzZ",
+      "title": "昱能科技亮相第140届广交会&捷克智慧能源展，加速拓展海内外光储市场",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ1hDaDZXUHd3RG0tQURZVU1JQ2l6bkZIemlGLVQtSDFyQ1ZxQ3dwUFlicW9vZHFqTkg4NkpGSUxJUDVhNTdEb1h",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
     },
     {
-      "title": "阿拉来“粤”会③甬企如何抢滩“绿色”新版图？",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VSDZwWGJOQVE1Sm82Y09iN25xdnFrcXBKMF9BWU5zVXhLaHFEM1lBRHUtVnlzZkxFMGlRZXNhZnJzUHZMdm1acUp",
-      "source_url": "http://news.cnnb.com.cn",
-      "source": "中国宁波网"
+      "title": "许映童不赚快钱，思格新能源凭什么半年翻两倍？",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZk1MUHV4Y2RTZFFaVXFKNXhnM09BQ2R3YS1kZDQ3Y3pnczNja0pybnA1VGt2RkdXRjBjejRnODJKeGNZcE5RWm9",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     }
   ]
 }

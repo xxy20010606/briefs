@@ -1,7 +1,31 @@
 {
   "type": "entertainment",
-  "total": 56,
+  "total": 58,
   "samples": [
+    {
+      "title": "电影《名侦探光之美少女》!票房达12.4亿日元,成为单部作品票房历史第一! – Collabo Ca",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObXJtZS1IMHppUUg0R1NnTC1aV05EZEdwRHU3cUlNNThqWmV5MkI2Y3J0dUlLVVVDTW9STHgtR3M1ajBkNXRiN3F",
+      "source_url": "https://collabo-cafe.com",
+      "source": "コラボカフェ"
+    },
+    {
+      "title": "10.12-10.18 内地一周票房报收2.9亿 《生化危机：爆发夜》1.01亿两连冠累计票房3.7",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlM5WDcwaXhubWF1WmF2ZEpZX0FNVHhuaGt0ek5BZUhaUU1Eb1hUWXowak1VWTdaUUtMMl9VMUdEN2J0a1Jhd0I",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
+    },
+    {
+      "title": "票房｜《生化危机：爆发夜》热度持续 国内首部AI电影即将上映",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xYnNKX2JaZ1I3d2VqY3RzZU5TVVFrZzMzbzVSTXF4RkkwWUotcjNLNFVHazBoa0doX0xlcW5FaVpZbk5iVEZaV2w",
+      "source_url": "https://companies.caixin.com",
+      "source": "财新"
+    },
+    {
+      "title": "《吉伊卡哇》登顶票房榜……324万观众，《刺客（们）》位列今年韩国电影第4位 [★电影票房榜]",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YZUFXY0VRclhnVXJHMXl3VVhJUHlsLWI1UmpkcjlyOXdrOU9BOGRrUDFUbl96TDhJOGs2aXYwU0Q1Q2xoSElTYjB",
+      "source_url": "https://www.starnewskorea.com",
+      "source": "스타뉴스"
+    },
     {
       "title": "“人口贩卖营地”面临威胁。",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11eGdQdHF4REd0al9fakFYMDlCMlh4RG94YlgwdHF3bDExd0dfMVJ3MlB0YlYyZVFhVkluV2ZoQjgzcmZOWXZpQnV",
@@ -13,30 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSjFlRGNTUm55aWlCLVpPOFE1SHgwOGJEV3dPWm9KVlBEc2w1bWNCMGQ0dVIxLXRGQ09ndVZ3V2JVVENhOF85eTR",
       "source_url": "https://www.vietnam.vn",
       "source": "Vietnam.vn"
-    },
-    {
-      "title": "傳《超少女》女主角遭DC解約 岡恩否認",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WdkNOX2dxLUtXTTJVMHVTdWlSbFY1VGFZTEZZVmxsbjJ2VWxkYjB5SG1DSVItOHBYd2tEcTdiblctV1RFRlNycmY",
-      "source_url": "https://www.epochtimes.com",
-      "source": "大紀元"
-    },
-    {
-      "title": "票房从52.8万飙到5亿！我感慨：小沈阳保住了赵本山弟子的颜面",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUVVBRW1sZ21Ubk5WZW5ydUpxZlIxMldwMUIxMGpsTlZlazVBWGVMckZzNEdUSVFtYm9FY0tKdnllblVRQ1hDOHB",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "撤档三个月后，国产动画电影《三国第一部：争洛阳》今日再次上映-yeeyi",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40Xzd1LUU4aHV6cDhjZ3ZMMjJvX3R2bW5rWTZ1UHBWXy0wZmZYTjFpVnlHbWpBaGZhRDE1cjNEZk80RFpXZnN2OUd",
-      "source_url": "https://www.yeeyi.com",
-      "source": "yeeyi"
-    },
-    {
-      "title": "撤档三个月后，国产动画电影《三国第一部：争洛阳》今日再次上映",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtNE1yQWZSc1pfaVhhX0p5M1RIa2txbEY0N2VqRVVmYjNWWGxuQW1ZR1hWQkFCZkNZVFdGcElJMVVjbThIb090dEx",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
     }
   ]
 }

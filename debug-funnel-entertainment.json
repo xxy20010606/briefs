@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 56,
-    "trusted": 11,
+    "raw_dedup_junk": 58,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.cn": 6,
-      "bjd.com.cn": 5,
-      "yzwb.net": 4,
-      "yeeyi.com": 3,
       "rediandf.com": 3,
       "vietnam.vn": 2,
-      "360.com": 2,
-      "epochtimes.com": 1,
-      "sina.com.cn": 1,
-      "shangbaoindonesia.com": 1
+      "hk01.com": 2,
+      "china.com": 2,
+      "lmtw.com": 2,
+      "collabo-cafe.com": 1,
+      "starnewskorea.com": 1,
+      "shanghai.gov.cn": 1,
+      "17173.com": 1,
+      "gamemeca.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 1,
-    "relaxed_72h": 10,
+    "fresh1_24h": 14,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "AI赋能向全链路演进 多家机构看好影视产业重塑机会",
-      "d": "cnstock.com"
-    },
-    {
-      "t": "票房从52.8万飙到5亿！我感慨：小沈阳保住了赵本山弟子的颜面",
+      "t": "10.12-10.18 内地一周票房报收2.9亿 《生化危机：爆发夜》1.01亿",
       "d": "sohu.com"
     },
     {
-      "t": "从“看比赛”到“上手玩” 2026全民电竞嘉年华收官",
-      "d": "chinanews.com.cn"
+      "t": "票房｜《生化危机：爆发夜》热度持续 国内首部AI电影即将上映",
+      "d": "caixin.com"
     },
     {
-      "t": "《嫁金钗》3天8集热度破万，田曦薇靠“恶女”晋升，一年三平台破万",
+      "t": "虎牙、欢聚来了之后，南海电竞的下一道题",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "《嫁金钗》热度破万、登顶多项榜单，优酷持续推出精品自制内容",
       "d": "sohu.com"
     },
     {
-      "t": "国际视听艺术之夜在沪举办，慎海雄朱忠明致辞",
-      "d": "thepaper.cn"
+      "t": "调查丨 演员吴越打假AI换脸，一张图片即可让明星带货，有商家定制视频报价1分钟1",
+      "d": "21jingji.com"
     },
     {
-      "t": "两部门：鼓励利用电影院空闲时段开展重大体育赛事直播",
-      "d": "ithome.com"
+      "t": "刘诗诗《醉梦》首播涌入大量差评，两大问题，让它成不了公认好剧",
+      "d": "163.com"
     },
     {
-      "t": "上海市文化和旅游局局长赵勇：将中国上海国际艺术节打造成世界级大IP",
-      "d": "eastmoney.com"
+      "t": "梅艳芳骨灰被盗案嫌疑人逃至东南亚？资深电影人承认误信AI影片",
+      "d": "guancha.cn"
     }
   ]
 }

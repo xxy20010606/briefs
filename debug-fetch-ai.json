@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 26,
+  "total": 68,
   "samples": [
     {
-      "title": "2026人工智能产业大会“AI走进千行百业”专题论坛举行",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzVGa0VRN2JYSkdjNElKYUVaQWh2Q1N0UzVjZWtiQ3JLaHlYYmNQZE9rTlZFWE1MUnFCcnc3V0ozeHZXam5HdHU",
+      "title": "广东已备案195款大模型",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JT1hRSnV0akZVNWJycldmRk9sT3BrYWRMSTBPdW95cl9ReDFHS3V2aG4yeTRDOW5FVjUxQXVYdkthRTlYVlZoX3N",
+      "source_url": "http://www.jingjiribao.cn",
+      "source": "http://www.jingjiribao.cn/"
+    },
+    {
+      "title": "广交会：人工智能新品为外贸增长注入新动能；海康威视：未来几年增长依然来自场景数字化｜数智早参",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NQklEYk1Ba2U0eFQwa3VkT3NYanNYdXF5dHBac2dsRTFlcHBDS0k0QVdJZ3lCajFBUUp1cmtQeTlDa0hZU1ZBVzF",
+      "source_url": "https://www.mrjjxw.com",
+      "source": "www.mrjjxw.com"
+    },
+    {
+      "title": "给机器人装上物理直觉：一篇47页综述告诉你AI机器人学到的到底是什么",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iYUU0YTF3WXFueElfT0RTemNUdlFYUXFaSS02Y0dGVWFTVUhmOEgtVldoN09xYUtmTzQ0ajI2ZUx3U1dvLTVVVml",
+      "source_url": "https://www.techwalker.com",
+      "source": "科技行者"
+    },
+    {
+      "title": "企业AI应用板块十大代表标的：谁能把产品做成业绩？",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVGlGY2ZkNmJLc1lOM2dsbU4tcW9YeGVjUVBxZjN3MXhLdEFRYTVYUGc5SXZ2RERIS0tOWnFZZGlRZ2dtQ1B2Tmp",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "让AI法官学会说\"我不确定\"：一个省钱又靠谱的评判方案",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VcWJ5djdPYTNCeTJZLUl0VlYtLVFZdXN5R3dnSXljcW1LaENtd0NxQzA1a0Jid3FtanR4UkhMR0VMQnZIX1FTVWp",
+      "source_url": "https://www.techwalker.com",
+      "source": "科技行者"
+    },
+    {
+      "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMFVlSzhVcWlOTEdqd1RaX1RJTFRZRXhUSXBVS2c4c3ktT1BlcWlJZFh0ZVQtc3NJM05FcUQ2d21Da19felVELTB",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
-    },
-    {
-      "title": "海疆学校学术会议暨同源观澜大模型福州发布",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GUnI3OEhSWUlMSllwdHAtTm5rcFZlXzdKZThOYmVZUGxsOVFSc1JiYzdXTFRUaUJJd3lpajFSQzdVMDRVMV90M0R",
-      "source_url": "https://bj.crntt.com",
-      "source": "中国评论"
-    },
-    {
-      "title": "丘成桐警示：国际AI巨头在数学上指数级进化，中国学者必须告别“线性追赶”",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxUWI0Z3d0NThDNzdpaUtuT3did2RYUlhFbFFBZ3JlYlpBa00wUUJCTTh5ZW9wNXFZR0Y0SjdxMm0xc1lDZlNsS1h",
-      "source_url": "https://user.guancha.cn",
-      "source": "风闻"
-    },
-    {
-      "title": "从宇树科技到Winverse AI，DeepSeek梁文锋的物理世界新棋局",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TYW1kTWNaTU8zaFhOb1h4Sk9HamdvaXAyWms1eHF3VGRrUXNnMm1wQkNKOGdKd2FaMWZKeGNVQ1E3Y3hUQzFKbmN",
-      "source_url": "https://www.panewslab.com",
-      "source": "PANews"
-    },
-    {
-      "title": "17 岁 Kimi 架构核心参与者离职，确认将赴湾区，下一站引发猜想",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85MXVoYzJaSFNMVG92VkdlTWJXZDl4VElHSWw2TXljVWktTV8yeUVGazdjZDlwbmtZZ0Z5dFY5bmFVTEl1cUFsd19",
-      "source_url": "https://www.infoq.cn",
-      "source": "InfoQ-CN"
-    },
-    {
-      "title": "AI赋能向全链路演进 多家机构看好影视产业重塑机会",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WLVVYcGxxZ0cxNnZEMDlBSWpMYk5idFR0YzY3ZjBvSVpBbkJfdGdzM09XaGVxVlNGSGF3eGJxWHF1OU5iMlpxbE9",
-      "source_url": "https://paper.cnstock.com",
-      "source": "上海证券报电子版"
     }
   ]
 }
