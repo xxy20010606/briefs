@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 45,
+    "raw_dedup_junk": 43,
     "trusted": 11,
     "non_trusted_top": {
-      "sina.com.cn": 10,
-      "sina.cn": 3,
-      "seetao.com": 2,
-      "ne21.com": 2,
-      "autohome.com.cn": 2,
-      "stockstar.com": 2,
-      "caiwennews.com": 1,
-      "nengyuanjie.net": 1,
-      "goalfore.cn": 1,
-      "cinic.org.cn": 1
+      "autohome.com.cn": 14,
+      "sina.com.cn": 6,
+      "wzs.org.cn": 1,
+      "fsonline.com.cn": 1,
+      "cnfin.com": 1,
+      "gessey.com": 1,
+      "epochtimes.com": 1,
+      "mydrivers.com": 1,
+      "sina.cn": 1,
+      "ua.news": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 10,
-    "relaxed_72h": 1,
+    "fresh1_24h": 11,
+    "page_fresh": 3,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "广交会70年 | 停电、缺电和能源涨价，海外采购商在广交会寻找储能产品",
-      "d": "jiemian.com"
+      "t": "化工新材料行业：新能源汽车与储能双轮驱动 锂电隔膜迎出海机遇",
+      "d": "cnfol.com"
     },
     {
-      "t": "安徽：全链条加强先进光伏和新型储能产业知识产权保护",
-      "d": "ifeng.com"
+      "t": "【图】售6.29万元起 尺寸全面升级/可选激光雷达 全新比亚迪海鸥上市",
+      "d": "autohome.com.cn"
     },
     {
-      "t": "昱能科技亮相第140届广交会&捷克智慧能源展，加速拓展海内外光储市场",
-      "d": "solarbe.com"
+      "t": "比亚迪股份(01211)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
     },
     {
-      "t": "广交会70年 | 中国卖家出海：不仅卖货，售后也能挣钱",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "特变电工新能源工商储新品正式发布",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "比亚迪轿卡T4推出91kWh版本，主攻山城重载城配",
+      "t": "一束日光创造多少价值？看看这个园区的三笔账",
       "d": "sohu.com"
     },
     {
-      "t": "【答疑室】扬杰科技：SiC业务在手订单饱满",
-      "d": "eastmoney.com"
+      "t": "锚定“两区两地一城市”定位！山西静乐亮出“十五五”发展路线图",
+      "d": "sohu.com"
+    },
+    {
+      "t": "事关智能制造、汽车安全、光伏新型储能...工信部最新发声",
+      "d": "wallstreetcn.com"
+    },
+    {
+      "t": "奇瑞不想做“车企”了！电动拖拉机、飞行器都来了，明年投产固态电池",
+      "d": "ifeng.com"
     }
   ]
 }

@@ -1,34 +1,46 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 8,
+    "raw_dedup_junk": 32,
+    "trusted": 9,
     "non_trusted_top": {
-      "sina.com.cn": 16,
-      "moomoo.com": 8,
-      "tmgm.com": 3,
-      "futunn.com": 3,
+      "moomoo.com": 7,
+      "sina.com.cn": 5,
       "jin10.com": 2,
-      "cnfin.com": 1,
+      "fx678.com": 2,
+      "yellow.com": 1,
       "stockstar.com": 1,
-      "cnmn.com.cn": 1,
-      "cmegroup.com": 1,
-      "fx168news.com": 1
+      "fx168news.com": 1,
+      "sina.cn": 1,
+      "panewslab.com": 1,
+      "longbridge.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 1,
-    "relaxed_72h": 1,
-    "final": 2,
+    "fresh1_24h": 6,
+    "page_fresh": 0,
+    "relaxed_72h": 5,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "【环球财经】科技股反弹纽约股市三大股指19日涨跌不一- 中国金融信息网",
-      "d": "10jqka.com.cn"
+      "t": "今夜，集体跳水！三大利空，突袭欧美股市",
+      "d": "21jingji.com"
     },
     {
-      "t": "史华伟：红利AI应用 仍然具备价值投资机会！#和讯财经 #A股 #股市直播 #直",
-      "d": "sohu.com"
+      "t": "美联储下周加息概率仅16%？华尔街：不应迷信市场定价 结果仍难料",
+      "d": "cls.cn"
+    },
+    {
+      "t": "AI也是通胀推手？美联储前副主席：美联储大概率继续加息",
+      "d": "yicai.com"
+    },
+    {
+      "t": "深夜！美股半导体集体大跌",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "晚报丨两艘油轮在霍尔木兹海峡触雷；标普：科技巨头有大量未披露AI负债；AI相关C",
+      "d": "eastmoney.com"
     }
   ]
 }

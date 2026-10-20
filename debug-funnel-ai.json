@@ -2,53 +2,53 @@
   "type": "ai",
   "stages": {
     "raw_dedup_junk": 58,
-    "trusted": 20,
+    "trusted": 18,
     "non_trusted_top": {
-      "sina.cn": 8,
-      "sina.com.cn": 7,
-      "techwalker.com": 6,
-      "china.com": 3,
-      "icloudnews.net": 2,
-      "ofweek.com": 1,
-      "prnasia.com": 1,
-      "stockstar.com": 1,
-      "smartcity.team": 1,
-      "hnjjbs.com": 1
+      "sina.com.cn": 15,
+      "ac.cn": 4,
+      "quasa.io": 4,
+      "sina.cn": 3,
+      "techwalker.com": 3,
+      "csdn.net": 2,
+      "dailyqd.com": 1,
+      "scol.com.cn": 1,
+      "china.com": 1,
+      "gz-cmc.com": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 19,
-    "relaxed_72h": 0,
+    "fresh1_24h": 13,
+    "page_fresh": 3,
+    "relaxed_72h": 12,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "苹果发布会掀桌，国产Flash双子星AI封神",
+      "t": "AI下田荔枝上“云” 东莞荔枝有了“智”胜密码",
       "d": "sohu.com"
     },
     {
-      "t": "工信部：600亿元国家AI基金投出一批项目 人工智能企业超6600家",
-      "d": "caixin.com"
+      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+      "d": "36kr.com"
     },
     {
-      "t": "物理AI落地有了清晰施工图，江苏发布“物理AI与世界模型”典型创新成果",
-      "d": "sohu.com"
+      "t": "马斯克，盯上“AI砍价”",
+      "d": "36kr.com"
     },
     {
-      "t": "奇瑞 CheryMind 垂域基础大模型亮相，为物理 AI 而生",
+      "t": "北大博士、零一万物联创黄文灏加入字节 Seed 两年后离职，下一步或创业",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "单卡月收入或超18万元，DeepSeek开源核心推理框架",
       "d": "10jqka.com.cn"
     },
     {
-      "t": "垂直大模型“同源观澜”在福州发布 数字赋能两岸融合发展",
-      "d": "chinanews.com.cn"
+      "t": "南京江宁区两项工业世界模型相关技术成果发布",
+      "d": "sohu.com"
     },
     {
-      "t": "“剧透”未来生活！2026年“互联网之光”博览会有啥好看好玩的？",
-      "d": "cyol.com"
-    },
-    {
-      "t": "深视星影打造国内首个院线电影AI基础设施，签约首部科幻大片《气候战争》",
-      "d": "time-weekly.com"
+      "t": "AI视频产业化提速 网宿科技与Sand.ai达成战略合作",
+      "d": "eastmoney.com"
     }
   ]
 }

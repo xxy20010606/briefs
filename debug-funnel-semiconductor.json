@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 46,
-    "trusted": 19,
+    "raw_dedup_junk": 43,
+    "trusted": 16,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "indexbox.io": 3,
-      "china.com": 3,
-      "stockstar.com": 2,
-      "jrj.com.cn": 2,
-      "sina.cn": 2,
-      "eastmoney.com": 1,
-      "futunn.com": 1,
-      "hnu.edu.cn": 1,
-      "idnfinancials.com": 1
+      "sina.com.cn": 10,
+      "stockstar.com": 3,
+      "chosun.com": 1,
+      "investing.com": 1,
+      "mrjjxw.com": 1,
+      "fx168news.com": 1,
+      "nuist.edu.cn": 1,
+      "semi.org.cn": 1,
+      "cjn.cn": 1,
+      "zqrb.cn": 1
     },
-    "fresh1_24h": 19,
-    "page_fresh": 15,
-    "relaxed_72h": 0,
+    "fresh1_24h": 12,
+    "page_fresh": 4,
+    "relaxed_72h": 7,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "1400+芯片人，不想在行业群里“浪费时间”",
+      "t": "美股三大股指小幅低开 芯片半导体股票普遍低开",
+      "d": "cls.cn"
+    },
+    {
+      "t": "21:30:53【美股三大股指小幅低开 芯片半导体股票普遍低开】",
+      "d": "cls.cn"
+    },
+    {
+      "t": "又一铌酸锂企业完成近亿元融资！",
       "d": "eet-china.com"
     },
     {
-      "t": "亚太日韩股指回调，隔夜美股芯片股反弹，特斯拉TerraFab布局韩半导体供应链",
+      "t": "美股芯片股由跌转涨 希捷科技涨逾2%",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "费城半导体八连跌后，存储领衔反攻!大摩高呼HDD超级周期未完，希捷与西数将狂飙8",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "当机器狗学会自己挣钱，芯片才是真正的赢家",
       "d": "sohu.com"
     },
     {
-      "t": "陈立武：中国芯片制造并没有落后太多！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "链主粤芯半导体上市：大湾区芯片产业链形成闭环",
+      "t": "芯片、半导体板块今日反弹，科创芯片设计ETF易方达（589030）标的指数收涨3",
       "d": "sohu.com"
-    },
-    {
-      "t": "算力需求增长，催热高速接口IP",
-      "d": "laoyaoba.com"
-    },
-    {
-      "t": "半导体ETF鹏华(159813)标的指数涨超1%，龙头业绩大增，板块高景气度持续",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "专访锐博半导体：深耕光通信封装，拓展功率半导体设备布局",
-      "d": "iccsz.com"
     }
   ]
 }

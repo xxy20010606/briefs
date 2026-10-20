@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 46,
+  "total": 43,
   "samples": [
     {
-      "title": "全球芯片 IP 市场规模、竞争格局及汽车通信消费电子应用分析",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oUUkyUmpmbFJTNWc0d3NKVEFVWjVHY3JwQXdDc1FZMXR5Szk3dmNVT2VtUkJyVDNHTEY4aU16bnBhVTFVclJsdVd",
-      "source_url": "https://caifuhao.eastmoney.com",
-      "source": "财富号"
+      "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94dWRHSUNMSGEyczRSS3ZHQ3JlMFY3cVRTcmpadkpmY0ZQQmRSb19rS1lzMlJaaTBqMXYyWlJHVVFHaTFCUGxTNQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "1400+芯片人，不想在行业群里“浪费时间”",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJS29FYXFFOFAtTjBNek9ZRnphUzVyVkpiaHFSME1IUlhLaHNlX2d6dUlqLUlTLW4xTHRoRW5vQy14bThfeTN5ckx",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
-    },
-    {
-      "title": "亚太日韩股指回调，隔夜美股芯片股反弹，特斯拉TerraFab布局韩半导体供应链",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUk1XWllmdEI4R0dSNkJoS3o0YXlhYVd4OHVYYWtzeGhPd25jTW9HVnJxeVg3T1NTUWhvV1pyZU1uM1dkcVk3UDF",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "专家解读日本对美芯片出资：本土产业提振有限，技术回报存疑",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0NyVV96OWtiSUw4UmtXNWdRWlBLYnlEWkotNnpZY3ppRVB1M3JGbFBoa1RrLUxZOU5pMllVdFBBRjd5bG1PS1Y",
-      "source_url": "https://news.futunn.com",
-      "source": "富途牛牛"
-    },
-    {
-      "title": "从电网到核心，英飞凌完善AI数据中心供电全链路布局",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQVpobS14dDNMbFE4aWw1QldvWEZlVkVDNmlZU0xHVDY3OVE5M2wzWjNRbFZlZ3FJQ0xQVVBfRmFLMktyMWNjU2t",
+      "title": "微见先进拟IPO，创始人雷伟庄：存储芯片封装业务上半年增超500%",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUUZKN25SajJHb21IM2NxVXMySkhVaEpjWkN0TjM0aktzREg2bDJfRXFpendFQXp5N2NCbFNWWWZpRlpuZks4VE5",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
     },
     {
-      "title": "陈立武：中国芯片制造并没有落后太多！",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13R1hCaEF0eE5mX3NYWjBxVGRUaENpQzNCdThEZVZBNkdqdzlZYm9mMjVIemhUSEpLbThUTEFBODZ5ZXRRSUltZXI",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "自贸港“芯”引力：海南半导体加速聚链成群",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04NFZhZUQ5RGs1RnZXeld5QmwwZHlaLTBCMGxuWlNTWmIwcEtRMTd0bW0tMVZaamMwSG9qbVRwSEVqZkxrbXBWTzR",
+      "source_url": "https://news.sina.com.cn",
+      "source": "新浪新闻_手机新浪网"
+    },
+    {
+      "title": "美国制裁也拦不住…中企用自研芯片建成超大型数据中心",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcGNqOFh3cmNYQTlpRnIxdzJ4X1VHdTZXZGl6eFNFYXVVMWZObHpUYm5TXzBWLXRITzl4djBNaEpLb2lMbGJFaEl",
+      "source_url": "https://cnnews.chosun.com",
+      "source": "朝鮮日報中文版"
+    },
+    {
+      "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUlBkNVdaVGxNUG1fbEJ0YjhMYjZHZ3hleHY2aXI3MkRsNTNqVlZyWFJ6ZUMxcTBUT3Qyb3JRblZqTEdudzlWbQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "3980%增资！大连这家半导体企业，最新消息",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1lfdGJCQkVGZHZINDBhVG5CQzdYbEQ2dHNqa1pFSDQ4N2g2ZkpjRmxQUEQxWUJSOVM4Vkpvek5Ib3paNGtSY0o",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     }
   ]
 }

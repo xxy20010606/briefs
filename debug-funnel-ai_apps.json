@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 51,
-    "trusted": 13,
+    "raw_dedup_junk": 40,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "unite.ai": 5,
-      "csdn.net": 3,
-      "caiwennews.com": 2,
-      "digitaltoday.co.kr": 2,
-      "stockstar.com": 2,
-      "pasqualepillitteri.it": 2,
+      "zhiding.cn": 6,
+      "stockstar.com": 3,
+      "pasqualepillitteri.it": 3,
+      "unite.ai": 2,
+      "csdn.net": 2,
+      "sina.com.cn": 2,
       "sina.cn": 2,
-      "panewslab.com": 2,
-      "moomoo.com": 1
+      "pharnexcloud.com": 1,
+      "ua.news": 1,
+      "venturesquare.net": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 6,
+    "page_fresh": 1,
+    "relaxed_72h": 6,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "挑战英伟达CUDA生态！亚马逊推出TorchNeuron开发工具，争夺AI算力生",
-      "d": "sohu.com"
+      "t": "AI也能帮听障人士跳街舞？京东Aidol创造营脑洞新品10月23日集中亮相",
+      "d": "36kr.com"
     },
     {
-      "t": "RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "中信建投：建议关注企业级AI应用、算力服务及国产芯片和超节点",
+      "t": "周小川：应储备政策工具防范AI投资失败引发金融动荡",
       "d": "eastmoney.com"
     },
     {
-      "t": "电报解读",
-      "d": "cls.cn"
-    },
-    {
-      "t": "许冉谈双11：以AI工具提升商家经营效率",
+      "t": "全线拉升！刚刚，DeepSeek重磅宣布！",
       "d": "sohu.com"
     },
     {
-      "t": "WTCC 2026｜四天活动抢先看，更多阵容持续公布中！",
-      "d": "guancha.cn"
+      "t": "OpenCode陷入“密钥泄露”风波，AI时代如何守住安全红线？",
+      "d": "sohu.com"
     },
     {
-      "t": "A股三大指数开盘集体下跌，创业板指跌0.5%",
-      "d": "ifeng.com"
+      "t": "从业人工智能“到广州海珠来”！广东首个一站式服务AI工厂发布",
+      "d": "sohu.com"
+    },
+    {
+      "t": "报告：桌面端AI原生办公智能体访问量突破3亿次",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "腾讯WorkBuddy月访问量持续领跑AI办公产品",
+      "d": "zhidx.com"
     }
   ]
 }

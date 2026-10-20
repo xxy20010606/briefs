@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 51,
+  "total": 40,
   "samples": [
     {
-      "title": "ZStack与阿里云联合发布轻量化AI方案，降低企业私有化部署门槛",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrbnN1MUZLOVhoQ0U0QXhxcFpYSUdTMC1XMVY5TTRZdFBlNjlYNTFkSFZYLV9LUjQ3TmNlR190X090cFJVQU1uR1l",
-      "source_url": "https://www.csdn.net",
-      "source": "CSDN"
+      "title": "聚焦AI落地实战！第四届DATA+AI医药营销新常态研讨会将亮相第93届全国药交会",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wMnZoTTRTdmxadGZpenFFeUlULWl4cEYwNTlGWWFNQ1VBTHNoaVpMVDU1YmlaTVNUNjdOWUNmNi1leE41S1E4Mmd",
+      "source_url": "https://www.pharnexcloud.com",
+      "source": "摩熵医药"
     },
     {
-      "title": "腾讯2026年新项目：从AI模型到智能办公与企业应用",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEFwS2w1MmhtdWRXd014dkRiaWdZYmM4ZG5BTHVaZnA1MVFFWnYtYkVzSW9uWFhZeGl3d0dFZ2FFTlpwYnFhdWp",
-      "source_url": "https://www.moomoo.com",
-      "source": "Moomoo"
+      "title": "周小川：应储备政策工具防范AI投资失败引发金融动荡",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzMHpzLUJlODRyZndaQlg5b09BOER2YVlxclpsUXg3eEVqYzJaZW50aWc3dm5nbEE5eGNzRDh2Z3NmbGJGX0RtX3M",
+      "source_url": "https://wap.eastmoney.com",
+      "source": "东方财富"
     },
     {
-      "title": "挑战英伟达CUDA生态！亚马逊推出TorchNeuron开发工具，争夺AI算力生态主导权",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcTI5OEh2Sk8zcV95bktLQkdWV2p3czdHeTl4ZTJycmtJT3hWZmZoU0JqdnA2QXNtRXRGa2x6anhhZEVJdTBEUjN",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "世界物联网大会催化，物联网ETF易方达涨1.63%",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xVGtkOHRveWc0OGtPSXMwWE54di1fWWQtRW12UjE0QVV4UjFJNm95QTJQRGk0djV6elRVbkhvaWxMZmdnVkNoMk4",
-      "source_url": "https://www.caiwennews.com",
-      "source": "www.caiwennews.com"
-    },
-    {
-      "title": "Epic用氛围编程打造新启动器，宣称比Steam更快-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fZzFOUjFpVi1OX1BFVnFUZk1TS1VjVE5LN3RrT1NvdWcyUXNrVGVPX1pqSXcwTXc1U0VPWGxYcUtVUkN5eFJVUDU",
+      "title": "Yelp AI助手升级：可代打电话排队订餐-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XNzFUaW9NbHROV3lhWjkwYk5ndTY1ay1pbGFlVGlweTBKQjRralUwM0JEcnhhWVhGa0Q0R3BLT3l6RWx0SUNGNHA",
       "source_url": "https://www.zhiding.cn",
       "source": "至顶网"
     },
     {
-      "title": "苹果收购瑞士AI音频工具Samplab，或强化音乐生产能力",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CUFV3UXhkTDhBNlpYd3JRaS1JV0VXYklRVUZzY1FCejFQaDlXVUFLcFlCdG9WLXl0NTNYN2RBS1FNSm1MX1FnNUw",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "扩大 AI 应用规模，不应意味着每次都要重建数据基础",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uU293ajROV0tyM1pTMVV0TUFmZkFHS3VEVVh5UDM1NHdsRklJYmQ5QVA4RUk0UVZ1YXB3LTh6R29NWDc5Z05MZkJ",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
+    },
+    {
+      "title": "大摩财报前瞻：铿腾电子(CDNS.US)Q3业绩有望稳健增长AI设计工具商业化成关键看点_全球市场",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QMkVKdzJjSUY3RHlkRElrakZETHRtRU1GSDY4VThlSUVpUlh6N0VpLVRJSXNlaVVOYks5Y0FkRzBselhtTHBOVnA",
+      "source_url": "https://finance.stockstar.com",
+      "source": "证券之星"
+    },
+    {
+      "title": "Google开源TorchTPU，以便在其AI芯片上运行PyTorch——TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZWlickdEQklXZDF2eE52Tm9YMDZjbGQ4dWp3VVhKME5FVWNLWEczNzV1U0N3LVRzZXBGb2dha29ZWWRneUlPSU9",
+      "source_url": "https://ua.news",
+      "source": "UA.NEWS"
     }
   ]
 }

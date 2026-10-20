@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 57,
-    "trusted": 13,
+    "raw_dedup_junk": 56,
+    "trusted": 14,
     "non_trusted_top": {
       "sina.cn": 6,
-      "china.com": 4,
-      "mk.co.kr": 3,
-      "yzwb.net": 3,
-      "sina.com.cn": 2,
-      "rediandf.com": 2,
-      "arch-web.com.tw": 1,
-      "zhibo8.cc": 1,
-      "westca.com": 1,
-      "worldjournal.com": 1
+      "henan100.com": 4,
+      "hupu.com": 3,
+      "sina.com.cn": 3,
+      "bjd.com.cn": 2,
+      "3dmgame.com": 1,
+      "vietnam.vn": 1,
+      "mezha.net": 1,
+      "cnbeta.com.tw": 1,
+      "pconline.com.cn": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 12,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 3,
+    "relaxed_72h": 11,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "惊悚升级，尺度升级，为何流量密码这次失灵了？",
+      "t": "《街头霸王》真人电影票房登顶，口碑两极：媒体42%差评，观众79%点赞",
       "d": "sohu.com"
     },
     {
-      "t": "2026年电竞显示器品牌排行榜：高端市场新格局解读",
+      "t": "全球采购高峰来了！国际买手涌入上海 下单“中国风”→",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "《岁月峥嵘》长征经典红歌音乐会在石家庄举行",
       "d": "sohu.com"
     },
     {
-      "t": "北京首部老年题材反诈剧情宣传片首映",
+      "t": "开播登顶央视第一！《征途》里的四川风景你去过几个？",
+      "d": "163.com"
+    },
+    {
+      "t": "2026年末北京演出盘点，在哪里买演唱会门票靠谱？",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "户外真人秀《现在就出发4》：行走即传播，让在地文化抵达屏幕",
       "d": "bjnews.com.cn"
     },
     {
-      "t": "档期不再为平庸兜底，成败系于影片质量——2026年中秋、国庆双档电影市场综述",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "早报｜苹果定档下周发布新品，触屏MacBook Pro或将亮相/华为苹果拿下中国",
-      "d": "ifanr.com"
-    },
-    {
-      "t": "两部门联合发文 推动“电影+体育”跨界合作",
-      "d": "cyol.com"
-    },
-    {
-      "t": "影视院线板块午后走高 华智数媒直线拉升涨超8%",
-      "d": "eastmoney.com"
+      "t": "贵州从江举办《勇敢女孩合唱团》专场鼓楼音乐会",
+      "d": "cri.cn"
     }
   ]
 }
