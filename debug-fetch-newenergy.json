@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 45,
+  "total": 33,
   "samples": [
     {
-      "title": "晶科能源前三季度业绩实现同比减亏",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QTUx0aDcwc1dlUEFFaFpvaDhsQlJGQW1IdENRM2d1T21QUUUydWtLNEFpaGkwLW9tLW5NRkFSUmVYNnNjQTl1YmV",
-      "source_url": "https://www.energytrend.cn",
-      "source": "集邦新能源"
-    },
-    {
-      "title": "海辰储能总裁王鹏程：看好钠电路线，长时储能订单已排至明年底",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWdtTVNKdTRSLWZiVlJCRjFMSS14cFA4UUlOeEJnODkzS2tUdWszb1NsN0p2S3RTQ2ZDWDMxeXY1WGl5YXNmZk5",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "乌兹别克斯坦总统会见三家中国能源企业，合作从发电扩到田间和物流",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JaTRBWGNRaE1vYkl0WU1oS2pCMUhNeF82VVZ3SXBlenhaTm1pZkJQWGttTjNvamo1dVVVMVVJR0R3czEwZl9MZzR",
-      "source_url": "https://www.seetao.com",
-      "source": "见道网"
-    },
-    {
-      "title": "广交会人气爆棚！国外客商为“中国智造”当场下单",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TMmdHYk14c1RkZmZzNkpLYWVneFhncWY0ODJkbFJGT1NRT2JURFBlV25TU0NnMUNQcGl2bFdpWWdiX2YzTWpjVU1",
-      "source_url": "https://news.sina.com.cn",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "昱能科技亮相第140届广交会&捷克智慧能源展，加速拓展海内外光储市场",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ1hDaDZXUHd3RG0tQURZVU1JQ2l6bkZIemlGLVQtSDFyQ1ZxQ3dwUFlicW9vZHFqTkg4NkpGSUxJUDVhNTdEb1h",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "许映童不赚快钱，思格新能源凭什么半年翻两倍？",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZk1MUHV4Y2RTZFFaVXFKNXhnM09BQ2R3YS1kZDQ3Y3pnczNja0pybnA1VGt2RkdXRjBjejRnODJKeGNZcE5RWm9",
+      "title": "新能源新周期，南方基金旗下新能源系列ETF布局机遇备受关注",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYVZ4WlFDb1RiZlUxN0VfWk0wckoyZS15MmVvbjlSRHhOX3UxZ1RmN1lRWW5mcTdCdnoyeXhaV1FkN2JzcnpER19",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
+    },
+    {
+      "title": "【答疑室】扬杰科技：SiC业务在手订单饱满",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OWm81WEY2MGlXNTlKei1LSmZSb1Z5aVQ3QzFlWVBKY01vSEdqU0dNdHAzUVJkaF9NbjZ1b1hwMm04NS1TMlE4R0R",
+      "source_url": "https://finance.eastmoney.com",
+      "source": "东方财富"
+    },
+    {
+      "title": "场景、技术、生态：金风科技风储一体化的三重底牌",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4bzBoWlV3TTRBOVdTQ3JNcFprWUlZMXVyWEtvdlVuZ3hjMVFYQk0xbG56WlpZR1dMVHhPbEdrRGJocHJUN2wxZzB",
+      "source_url": "https://www.163.com",
+      "source": "手机网易网"
+    },
+    {
+      "title": "2026年光储充一体化解决方案服务商怎么选：大秦数能交付网络与本地化服务观察",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hSElib282U0NXYjIzdkVtRmVEem9yT0VLY1F1SDlMTkVsaEFPNHpYdjBSWWtVREwya0lTZHAtR3oyUjhIMi1tNkI",
+      "source_url": "https://www.ne21.com",
+      "source": "世纪新能源网"
+    },
+    {
+      "title": "安徽：全链条加强先进光伏和新型储能产业知识产权保护",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oSEJMNUQwUWNzZWxUaDFxeE9fUTREUUcwS0hZNGVMSVFBY1RQc1pVUnN1b3lOUGphanhNcXA2RHdKTjFUaTNHM3Z",
+      "source_url": "https://wap.cj.sina.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "中国电动汽车之父”-万钢 究竟是谁？他在德国奥迪公司学习了一切，并上书北京 引发了中国电动汽车浪潮",
+      "link": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxNVXlNRkFrTkhtQU1Zam1HNmpMajhlZVpxN3YwbDAzejFVV19XQnhhZlNWTkdkN3lYd2RhdmR2TjJMTXVlUEoxU1h",
+      "source_url": "https://www.rfi.fr",
+      "source": "RFI"
     }
   ]
 }

@@ -1,54 +1,37 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 58,
-    "trusted": 17,
+    "raw_dedup_junk": 34,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 16,
-      "moomoo.com": 5,
+      "sina.com.cn": 6,
+      "moomoo.com": 6,
       "stockstar.com": 4,
-      "sina.cn": 3,
-      "tmgm.com": 2,
-      "fx168news.com": 2,
-      "sfccn.com": 1,
-      "chinapress.com.my": 1,
-      "eastmoney.com": 1,
-      "vtmarkets.com": 1
+      "futunn.com": 4,
+      "jin10.com": 3,
+      "fx168news.com": 1,
+      "tmgm.com": 1,
+      "sina.cn": 1,
+      "odaily.news": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 14,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 6,
+    "page_fresh": 1,
+    "relaxed_72h": 2,
+    "final": 3,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "黄华艳：上证13被市盈率 配置价值的绝好时机！#和讯财经 #A股 #股市直播 #",
+      "t": "宇树科技-W(SH688836)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
+    },
+    {
+      "t": "#其它# 史华伟：红利AI应用 仍然具备价值投资机会！#和讯财经 #A股 #股市",
       "d": "sohu.com"
     },
     {
-      "t": "【环球财经】巴西股市上周累计上涨3.97%",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "日韩股市大跌！",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "融资盘压顶铠侠股价还要继续跌？_股市直播_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "智通港股通持股解析|10月19日_股市直播_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "韩国存储双雄杠杆ETF价格上窜下跳 政府周四将开会讨论对策",
-      "d": "cls.cn"
-    },
-    {
-      "t": "沃什讲话后 预测市场对美联储10月利率决议的预期突然大逆转",
-      "d": "sohu.com"
+      "t": "科技与红利“跷跷板”效应持续，农行上涨2.76%领跑国有大行",
+      "d": "eastmoney.com"
     }
   ]
 }

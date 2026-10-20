@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 13,
+    "raw_dedup_junk": 53,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 5,
+      "unite.ai": 10,
+      "sina.com.cn": 9,
       "pasqualepillitteri.it": 5,
-      "digitaltoday.co.kr": 4,
-      "moomoo.com": 2,
-      "donews.com": 2,
-      "ebiotrade.com": 2,
-      "80aj.com": 2,
-      "panewslab.com": 2,
-      "17173.com": 1,
-      "caiwennews.com": 1
+      "zhiding.cn": 5,
+      "sina.cn": 3,
+      "ebiotrade.com": 1,
+      "vanpeople.com": 1,
+      "ua.news": 1,
+      "tradersunion.com": 1,
+      "yzwb.net": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 6,
+    "page_fresh": 4,
+    "relaxed_72h": 3,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "广交会六成企业应用AI，数字内容与AI出海驱动AI支付",
+      "t": "英伟达黄仁勋：AI是新工具，你的专业知识不会被取代",
       "d": "sohu.com"
     },
     {
-      "t": "AI跑得太快，产品经理跟不上了！",
+      "t": "一线从业者的真实声音：AI电商应用的痛点和卡点",
       "d": "sohu.com"
     },
     {
-      "t": "中科曙光发布scaleX40通用箱式超节点：世界首个无线缆箱式超节点",
+      "t": "许冉谈双11：以AI工具提升商家经营效率",
+      "d": "sohu.com"
+    },
+    {
+      "t": "启云方CEO苏立清：以工业软件为底座 构建企业AI新质生产力|对话科创家",
+      "d": "cls.cn"
+    },
+    {
+      "t": "从AI工具走向AI原生组织",
       "d": "10jqka.com.cn"
     },
     {
-      "t": "企业级AI智能体平台推荐：四大核心应用底座选型指南-36氪",
-      "d": "36kr.com"
+      "t": "启云方CEO苏立清：以工业软件为底座 构建企业AI新质生产力｜对话科创家",
+      "d": "sohu.com"
     },
     {
-      "t": "模型长出交互界面，“手搓”AI应用要全面退潮了？",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "“AI+金融”迎成长风口 首批创业板金融科技ETF密集上市",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "字节系创业者追踪：36人离职创业，三拨出走与剪映系AI应用竞争",
-      "d": "huxiu.com"
+      "t": "用AI“诈骗”诈骗分子！澳公司部署AI代理假扮受害者，专门浪费骗子时间",
+      "d": "sohu.com"
     }
   ]
 }

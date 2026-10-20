@@ -1,54 +1,46 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 15,
+    "raw_dedup_junk": 33,
+    "trusted": 6,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "autohome.com.cn": 7,
-      "sina.cn": 3,
-      "seetao.com": 2,
-      "wedoany.com": 2,
-      "stockstar.com": 2,
-      "energytrend.cn": 1,
-      "xizang.gov.cn": 1,
-      "pedaily.cn": 1,
-      "mydrivers.com": 1
+      "autohome.com.cn": 10,
+      "sina.com.cn": 5,
+      "sina.cn": 4,
+      "ne21.com": 1,
+      "rfi.fr": 1,
+      "ua.news": 1,
+      "futunn.com": 1,
+      "enanyang.my": 1,
+      "zhiding.cn": 1,
+      "voi.id": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 14,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 5,
+    "page_fresh": 1,
+    "relaxed_72h": 4,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "海辰储能总裁王鹏程：看好钠电路线，长时储能订单已排至明年底",
-      "d": "sohu.com"
+      "t": "陈海生谈中国储能发展：新型储能规模跃升，未来能源核心在储能",
+      "d": "huxiu.com"
     },
     {
-      "t": "昱能科技亮相第140届广交会&捷克智慧能源展，加速拓展海内外光储市场",
-      "d": "sohu.com"
-    },
-    {
-      "t": "扬杰科技：当前SiC业务在手订单饱满，正同步推进产能扩建",
+      "t": "【答疑室】扬杰科技：SiC业务在手订单饱满",
       "d": "eastmoney.com"
     },
     {
-      "t": "11:47:11【新能源新周期，关注南方基金旗下新能源系列ETF布局机遇】",
-      "d": "cls.cn"
+      "t": "场景、技术、生态：金风科技风储一体化的三重底牌",
+      "d": "163.com"
     },
     {
-      "t": "含60MW/240MWh构网型储能！华能乌兰察布960MW“风光储调”一体化项目",
-      "d": "solarbe.com"
+      "t": "宁德时代份额45% 亿纬/中创涨超65% 比亚迪紧追前三！商用车动力电池9月劲增",
+      "d": "sohu.com"
     },
     {
-      "t": "新型电力系统三大指数，看看哪只是你想要的？",
-      "d": "cls.cn"
-    },
-    {
-      "t": "本周打新来了！今日1只新股申购",
-      "d": "stcn.com"
+      "t": "机构：新能源汽车退税政策落地，9月储能装机同环比正增长",
+      "d": "sohu.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 49,
+  "total": 53,
   "samples": [
     {
-      "title": "广交会六成企业应用AI，数字内容与AI出海驱动AI支付",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemJMaTZpRVpheWI1UjhkX1hJOC0tWnFlU29jNFhZd3FQZWhjeXJlVGdwbzBoRF9wOWN3RVU4VDRnaXl5YkF5aXF",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "以光为速，快人一步：LAP拉普游智能游戏资产平台内测招募中",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RTEZHYVFnRks4ZkFicE1Rck5BTEhyM0ZzbFhib25yenpVRkVVTUZTU1FLM29RNjJ3bEZOTzlGNUd5NmI4MjFRczB",
-      "source_url": "https://news.17173.com",
-      "source": "17173"
-    },
-    {
-      "title": "AI跑得太快，产品经理跟不上了！",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVEyckszZTB5cTc4dlZFYmN0dTBUdEgzMmV6Zi1jVWNMbEptUDJYUDhyZE9zN2djdURpbm9TRGdpeTBHUUpRSFR",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "企业AI应用板块十大代表标的：谁能把产品做成业绩？",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVGlGY2ZkNmJLc1lOM2dsbU4tcW9YeGVjUVBxZjN3MXhLdEFRYTVYUGc5SXZ2RERIS0tOWnFZZGlRZ2dtQ1B2Tmp",
+      "title": "外商上门洽谈 关注AI技术",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZ1FzOEZLVVVpM1BQdXJrdlhaakFDcVlzZEJ1VFp5ZUhWNmpQaVUyWmVya2lnNUdpQTVKOF85SkdMdnpvUnN6OG8",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
     },
     {
-      "title": "企业用 AI 的方式，正在从买工具变成招 AI 员工",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWjJveHhpVE5meURjdkNTaXkyc21nTWFmdFh4RkVlRVRJeDZacGNEamptcldDSVpFTlh6UHRId1NRbUVrQ2ZPakJ",
+      "title": "英伟达黄仁勋：AI是新工具，你的专业知识不会被取代",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjNadVBXTlY3ZjJKYXRMS1JzbnJEa0NhdmhoMFpWM1RjY2pHTXJBRjhHM0o0Mko4dVdtekZjallGcHloZUl6d2x",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
     },
     {
-      "title": "散户也能拥有量化交易工具？全球8校同台竞技金融科技创新",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmdacW50ZGR0d1VTU0ZjbjVMNlp1VlVUU0FPRzlFc3JwMTJnazVaRUViSnRLZnNzbU54eXh0cTlBMGM2RTA3SHd",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "人工智能（AI）在卫生技术评估（HTA）中的应用：构建实践社区、透明度与信任的对话",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pUHFKeGh2WXdITnllaEkzR2hQY1NjbGRpNWV2U3hNaHNKbjFyOHVNX0tFcGVuM0p5Wk01SmJ4d21sNzlEOGFBcE1",
+      "source_url": "https://www.ebiotrade.com",
+      "source": "生物通"
+    },
+    {
+      "title": "华为“原生智能操作系统”专利公布： 从App OS迈向AgentOS|国家知识产权局|AI助手|系统",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ocm9wRS0tTkxYOGQzcUJnNkswbjRScDJxOERHNTBfbnhhQUpBenhpWE53d1h2SF84SGUtdmFiMmdBMnFMLTRobHB",
+      "source_url": "https://news.sina.com.cn",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "Zillow推出Claude连接器，支持房源搜索、预约看房和融资服务",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkJPRWxzZ29sZ19vVEtjTWZpQlYwZ2xzMExweUVZcnJUY2FqQUphQk9tTHBfREVKM0hybV9NQWtQTE14VE5RaDR",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
+    },
+    {
+      "title": "Wabi 在 iOS、Android 和 Mac 上开放个人 AI 助手",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjlWUWtzSUN2TlJ0QTkxTFRsU1cwSnlQNnYwekhuQ0pka044OUhNNHF2TV9yN2RiOFphZ1c4aWQtUm5vV3U5RjN",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     }
   ]
 }
