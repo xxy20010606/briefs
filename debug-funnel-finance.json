@@ -1,37 +1,34 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 34,
-    "trusted": 7,
+    "raw_dedup_junk": 50,
+    "trusted": 8,
     "non_trusted_top": {
-      "sina.com.cn": 6,
-      "moomoo.com": 6,
-      "stockstar.com": 4,
-      "futunn.com": 4,
-      "jin10.com": 3,
-      "fx168news.com": 1,
-      "tmgm.com": 1,
-      "sina.cn": 1,
-      "odaily.news": 1
+      "sina.com.cn": 16,
+      "moomoo.com": 8,
+      "tmgm.com": 3,
+      "futunn.com": 3,
+      "jin10.com": 2,
+      "cnfin.com": 1,
+      "stockstar.com": 1,
+      "cnmn.com.cn": 1,
+      "cmegroup.com": 1,
+      "fx168news.com": 1
     },
-    "fresh1_24h": 6,
+    "fresh1_24h": 8,
     "page_fresh": 1,
-    "relaxed_72h": 2,
-    "final": 3,
+    "relaxed_72h": 1,
+    "final": 2,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "宇树科技-W(SH688836)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
+      "t": "【环球财经】科技股反弹纽约股市三大股指19日涨跌不一- 中国金融信息网",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "#其它# 史华伟：红利AI应用 仍然具备价值投资机会！#和讯财经 #A股 #股市",
+      "t": "史华伟：红利AI应用 仍然具备价值投资机会！#和讯财经 #A股 #股市直播 #直",
       "d": "sohu.com"
-    },
-    {
-      "t": "科技与红利“跷跷板”效应持续，农行上涨2.76%领跑国有大行",
-      "d": "eastmoney.com"
     }
   ]
 }

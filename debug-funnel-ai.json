@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 53,
-    "trusted": 17,
+    "raw_dedup_junk": 58,
+    "trusted": 20,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "sina.cn": 5,
-      "stockstar.com": 3,
-      "techwalker.com": 3,
-      "unite.ai": 2,
-      "mrjjxw.com": 1,
-      "xindb.com": 1,
-      "jrj.com.cn": 1,
-      "jschina.com.cn": 1,
-      "dailyqd.com": 1
+      "sina.cn": 8,
+      "sina.com.cn": 7,
+      "techwalker.com": 6,
+      "china.com": 3,
+      "icloudnews.net": 2,
+      "ofweek.com": 1,
+      "prnasia.com": 1,
+      "stockstar.com": 1,
+      "smartcity.team": 1,
+      "hnjjbs.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 5,
-    "relaxed_72h": 10,
+    "fresh1_24h": 20,
+    "page_fresh": 19,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "大模型竞逐智能体时代！MiniMax上新价格降七成 多只概念股Q3业绩“报喜”(",
-      "d": "eastmoney.com"
+      "t": "苹果发布会掀桌，国产Flash双子星AI封神",
+      "d": "sohu.com"
     },
     {
-      "t": "当国产AI闯入前沿数学 有什么比解题更重要？",
-      "d": "eastmoney.com"
+      "t": "工信部：600亿元国家AI基金投出一批项目 人工智能企业超6600家",
+      "d": "caixin.com"
     },
     {
-      "t": "科技创新世界潮 | 大模型竞争进入下半场：高质量数据成AI领域硬通货",
-      "d": "stdaily.com"
+      "t": "物理AI落地有了清晰施工图，江苏发布“物理AI与世界模型”典型创新成果",
+      "d": "sohu.com"
     },
     {
-      "t": "【今日主题前瞻】大厂密集发布Agent产品，智能体赛道竞争白热化_市场测评_市场",
-      "d": "cnfol.com"
+      "t": "奇瑞 CheryMind 垂域基础大模型亮相，为物理 AI 而生",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "谷歌开源 Harness，支持 OpenCode 和 Codex：国内开发者接入",
-      "d": "infoq.cn"
+      "t": "垂直大模型“同源观澜”在福州发布 数字赋能两岸融合发展",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "系统性变革遇上AI大爆发：报业如何面向未来再出发？业界共话破局新路径",
-      "d": "thepaper.cn"
+      "t": "“剧透”未来生活！2026年“互联网之光”博览会有啥好看好玩的？",
+      "d": "cyol.com"
     },
     {
-      "t": "AI数据集买家扩容：不止互联网大厂，清华大学108万元拟采购不少于36万条数据",
-      "d": "ifeng.com"
+      "t": "深视星影打造国内首个院线电影AI基础设施，签约首部科幻大片《气候战争》",
+      "d": "time-weekly.com"
     }
   ]
 }

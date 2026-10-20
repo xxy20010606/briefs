@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 34,
+  "total": 50,
   "samples": [
     {
-      "title": "美股投资风格转换！大摩给出推荐名单：高质量股突破中周期切换全面展开_全球市场_财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wbDVVNGtvbFF4LUtFN2lQSzRFdEdXaDhzSTJYN2xGSkNmclRuUEMxN0RDa0VFek5QWmFfcG5BM3JiQTZ4WlJJRzR",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "京城机电股份：A股股票交易异常波动 不存在应披露而未披露的事项",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONFVCN3VPZF9DZkpDeTFlcFpUM3NuQVhzdElETVdBQ1JJR21ONzZtd0JhUkcyeFFTUWdCcTU4OHh3N3hKV2Y2QXh",
+      "title": "股市午报：A股超3900只个股飘红，沪指下跌，深指、创业板指上涨，北证50大涨超4%",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1SlRQQW9JUVpBdzN6U3BpRWw5bVltNVNFUlA2U1ZkU1BLSzZZWklPQjhESWEwcy1mWFVqVWJMTmIyUmFpMTNEVnV",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "#其它# 史华伟：红利AI应用 仍然具备价值投资机会！#和讯财经 #A股 #股市直播 #直播片段",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yM0RqbnNEeHVta1NDbnEwX3RRYUdBbnVTa21KbFdjNnF6REhIZFB1cUYzelZpcmRfQ1RlbDFlbGxlSG1ncVB4Qnh",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
-    },
-    {
-      "title": "ETF #股票#财经 #投资#基金 #ETF",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS0diQkh0UnB6bW81WGJMLXRyWlV6LUozcjU1eHZjLW1Oa2c1bm1JWVFuQXU2d2pjRjFkLUVmTEhDWFhKMExJeU1",
+      "title": "A股三大指数翻红",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GR0lvTjM1UE1pbFk5VHY1a1BfbUNydkVfRUx0SzFBX0pEeVBSN0M0cXJqYk5jN3Q1Ylh5aG5kV3o1SEFEQ1RRbHl",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "质量因子新高指引布局，大摩(MS.US) Wilson：调整尾声将至_全球市场",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qdzduMjFTSEZ2NFVZdlptWGFPanhrZGM1ODN4b2V4UXNhUGRPRzVxRm5KZ05fOUxjMEFJQmlDUlVIQ2VqcWxZMWl",
-      "source_url": "https://finance.stockstar.com",
-      "source": "证券之星"
+      "title": "10月下旬，盯紧这些潜力股",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOU82T1l2RE1WcFk1X3praHhUbzJlWnY5ZkJuemZlTEdXY245LUVDaHUwSWd1Z01MYmFMMlJNNXA1dnZ0WW9naG4",
+      "source_url": "https://cj.sina.com.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "买盘，突然涌入！李在明，紧急发声！涉及股市",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qZXFHVHhfMUpNNzl0SGJ3S2hSb3NsYmE0ekVXNWdRMnNvb1RqZDR6UWRBc1cyLVVYc3MtMEN4b08xYU5XZlQwdzF",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
+      "title": "资金面与股市资金流向日评20261020",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYkZxRFJDQmtSZlVWM25pQk1qOUFFUWVVUk5DY2YzbHpONGZEdHhpQ0dSM1hxRF9WZlFfME9iTTJGUjMwYVZYa1N",
+      "source_url": "https://cj.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "【环球财经】墨西哥股市连续第三个交易日上涨- 中国金融信息网",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPZXYtbTA2U2dBUWRkM0hwbmdSbVgxX25HQkVmQjNYV3NvUi1jRmxtZUZfWFg1b1VwTnowTTJCdjBVZEI3TURjSTI",
+      "source_url": "https://www.cnfin.com",
+      "source": "中国金融信息网"
+    },
+    {
+      "title": "【环球财经】科技股反弹纽约股市三大股指19日涨跌不一- 中国金融信息网",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwMFNoQl9wLVV3UFhTZ2VjcDU5d0dFaGY2S2dwTGZ6Umt4UDJBWlFvTl9CNUVZOW0xWHpnMG92bGdGQTZpc21lbUF",
+      "source_url": "https://m.10jqka.com.cn",
+      "source": "同花顺"
     }
   ]
 }

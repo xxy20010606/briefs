@@ -1,46 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 33,
-    "trusted": 6,
+    "raw_dedup_junk": 45,
+    "trusted": 11,
     "non_trusted_top": {
-      "autohome.com.cn": 10,
-      "sina.com.cn": 5,
-      "sina.cn": 4,
-      "ne21.com": 1,
-      "rfi.fr": 1,
-      "ua.news": 1,
-      "futunn.com": 1,
-      "enanyang.my": 1,
-      "zhiding.cn": 1,
-      "voi.id": 1
+      "sina.com.cn": 10,
+      "sina.cn": 3,
+      "seetao.com": 2,
+      "ne21.com": 2,
+      "autohome.com.cn": 2,
+      "stockstar.com": 2,
+      "caiwennews.com": 1,
+      "nengyuanjie.net": 1,
+      "goalfore.cn": 1,
+      "cinic.org.cn": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 1,
-    "relaxed_72h": 4,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 10,
+    "page_fresh": 10,
+    "relaxed_72h": 1,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "陈海生谈中国储能发展：新型储能规模跃升，未来能源核心在储能",
-      "d": "huxiu.com"
+      "t": "广交会70年 | 停电、缺电和能源涨价，海外采购商在广交会寻找储能产品",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "安徽：全链条加强先进光伏和新型储能产业知识产权保护",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "昱能科技亮相第140届广交会&捷克智慧能源展，加速拓展海内外光储市场",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "广交会70年 | 中国卖家出海：不仅卖货，售后也能挣钱",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "特变电工新能源工商储新品正式发布",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "比亚迪轿卡T4推出91kWh版本，主攻山城重载城配",
+      "d": "sohu.com"
     },
     {
       "t": "【答疑室】扬杰科技：SiC业务在手订单饱满",
       "d": "eastmoney.com"
-    },
-    {
-      "t": "场景、技术、生态：金风科技风储一体化的三重底牌",
-      "d": "163.com"
-    },
-    {
-      "t": "宁德时代份额45% 亿纬/中创涨超65% 比亚迪紧追前三！商用车动力电池9月劲增",
-      "d": "sohu.com"
-    },
-    {
-      "t": "机构：新能源汽车退税政策落地，9月储能装机同环比正增长",
-      "d": "sohu.com"
     }
   ]
 }

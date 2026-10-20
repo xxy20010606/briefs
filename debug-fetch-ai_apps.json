@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 53,
+  "total": 51,
   "samples": [
     {
-      "title": "外商上门洽谈 关注AI技术",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZ1FzOEZLVVVpM1BQdXJrdlhaakFDcVlzZEJ1VFp5ZUhWNmpQaVUyWmVya2lnNUdpQTVKOF85SkdMdnpvUnN6OG8",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "ZStack与阿里云联合发布轻量化AI方案，降低企业私有化部署门槛",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrbnN1MUZLOVhoQ0U0QXhxcFpYSUdTMC1XMVY5TTRZdFBlNjlYNTFkSFZYLV9LUjQ3TmNlR190X090cFJVQU1uR1l",
+      "source_url": "https://www.csdn.net",
+      "source": "CSDN"
     },
     {
-      "title": "英伟达黄仁勋：AI是新工具，你的专业知识不会被取代",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjNadVBXTlY3ZjJKYXRMS1JzbnJEa0NhdmhoMFpWM1RjY2pHTXJBRjhHM0o0Mko4dVdtekZjallGcHloZUl6d2x",
+      "title": "腾讯2026年新项目：从AI模型到智能办公与企业应用",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEFwS2w1MmhtdWRXd014dkRiaWdZYmM4ZG5BTHVaZnA1MVFFWnYtYkVzSW9uWFhZeGl3d0dFZ2FFTlpwYnFhdWp",
+      "source_url": "https://www.moomoo.com",
+      "source": "Moomoo"
+    },
+    {
+      "title": "挑战英伟达CUDA生态！亚马逊推出TorchNeuron开发工具，争夺AI算力生态主导权",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcTI5OEh2Sk8zcV95bktLQkdWV2p3czdHeTl4ZTJycmtJT3hWZmZoU0JqdnA2QXNtRXRGa2x6anhhZEVJdTBEUjN",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
     },
     {
-      "title": "人工智能（AI）在卫生技术评估（HTA）中的应用：构建实践社区、透明度与信任的对话",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pUHFKeGh2WXdITnllaEkzR2hQY1NjbGRpNWV2U3hNaHNKbjFyOHVNX0tFcGVuM0p5Wk01SmJ4d21sNzlEOGFBcE1",
-      "source_url": "https://www.ebiotrade.com",
-      "source": "生物通"
+      "title": "世界物联网大会催化，物联网ETF易方达涨1.63%",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xVGtkOHRveWc0OGtPSXMwWE54di1fWWQtRW12UjE0QVV4UjFJNm95QTJQRGk0djV6elRVbkhvaWxMZmdnVkNoMk4",
+      "source_url": "https://www.caiwennews.com",
+      "source": "www.caiwennews.com"
     },
     {
-      "title": "华为“原生智能操作系统”专利公布： 从App OS迈向AgentOS|国家知识产权局|AI助手|系统",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ocm9wRS0tTkxYOGQzcUJnNkswbjRScDJxOERHNTBfbnhhQUpBenhpWE53d1h2SF84SGUtdmFiMmdBMnFMLTRobHB",
-      "source_url": "https://news.sina.com.cn",
-      "source": "新浪新闻"
+      "title": "Epic用氛围编程打造新启动器，宣称比Steam更快-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fZzFOUjFpVi1OX1BFVnFUZk1TS1VjVE5LN3RrT1NvdWcyUXNrVGVPX1pqSXcwTXc1U0VPWGxYcUtVUkN5eFJVUDU",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
     },
     {
-      "title": "Zillow推出Claude连接器，支持房源搜索、预约看房和融资服务",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkJPRWxzZ29sZ19vVEtjTWZpQlYwZ2xzMExweUVZcnJUY2FqQUphQk9tTHBfREVKM0hybV9NQWtQTE14VE5RaDR",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "Wabi 在 iOS、Android 和 Mac 上开放个人 AI 助手",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjlWUWtzSUN2TlJ0QTkxTFRsU1cwSnlQNnYwekhuQ0pka044OUhNNHF2TV9yN2RiOFphZ1c4aWQtUm5vV3U5RjN",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "苹果收购瑞士AI音频工具Samplab，或强化音乐生产能力",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CUFV3UXhkTDhBNlpYd3JRaS1JV0VXYklRVUZzY1FCejFQaDlXVUFLcFlCdG9WLXl0NTNYN2RBS1FNSm1MX1FnNUw",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 53,
+  "total": 58,
   "samples": [
     {
-      "title": "外商上门洽谈 关注AI技术",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZ1FzOEZLVVVpM1BQdXJrdlhaakFDcVlzZEJ1VFp5ZUhWNmpQaVUyWmVya2lnNUdpQTVKOF85SkdMdnpvUnN6OG8",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "苹果发布会掀桌，国产Flash双子星AI封神",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRTJSSktfN0lxY1l6dGV4NktCS3BjcFVtajMzS1NVRHZqNFpILUZMZFdyMWN4Sjg5ZDhZNzVVOXNNMXI5Tkt3d2R",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
     },
     {
-      "title": "大模型竞逐智能体时代！MiniMax上新价格降七成 多只概念股Q3业绩“报喜”(名单)",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OWHlydndpYnVJelFVWTVhVXZBYjZ2aFZ6ZUdUSFRDd0IxQ1ZJSHJKdkdBbWdhWlZqa1FHM2ZoUWF5MERueGl0QXJ",
-      "source_url": "https://finance.eastmoney.com",
-      "source": "东方财富"
+      "title": "工信部：600亿元国家AI基金投出一批项目 人工智能企业超6600家",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2QmxOYXEySUV1bUtMczdBS1JqaVBtVTVleXRNZVpoLU15RFhqSnZoVkFLd1JjTmFoTTI0eGNFa192RXE5X0R6djN",
+      "source_url": "https://companies.caixin.com",
+      "source": "财新"
     },
     {
-      "title": "数字经济周报（2026年第35期）：通胀扰动下，AI企业融资风险抬升_宏观研究_研报",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95b3B3dHgxTkxJMGFQcUJ3YkpKZlJpd3dXUG9MaTZiaF9GMTdJQjRwaldael9qMTd5bG9hWnhILUJVUndfT19KM3Z",
-      "source_url": "https://stock.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "AI搜索代理为什么总在64K上下文里憋死自己",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QOGY4SFJ2LWtzckFEZFZYZmVNTUFXY3FrT2R5M3ZpTVRQLTRDSHNpQnBCZGRqQTJjcXcxLW9Xb3Jhby1hcUJHalV",
+      "title": "AI团队合作能力测试：让十个智能体一起打游戏，结果只有一半能成功",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjc1dQUndGOFFCb1JERmVPSlpZVUJZcm5xRGJONHBMRDduYUJGRlFaWDZlejdCRmlPTHQ3RXNLc1p6eEROSVZDYlA",
       "source_url": "https://www.techwalker.com",
       "source": "科技行者"
     },
     {
-      "title": "让机器人先\"排练\"再动手：这篇论文教AI用眼睛纠错",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaT0hPWWt2VUlfWThxcUk3MEtob0JMTlFUdmhqN254U0VPeHpmcTJ3WnJCenZNR000eGhFdmk5Nm1NWXhoVTZyUTB",
-      "source_url": "https://www.techwalker.com",
-      "source": "科技行者"
+      "title": "科大讯飞的AI投入何时变成利润？",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZNmJBSWJFaERCbDBGaWQ1aWhSTERUU2dfVmktT2pLQkNXNnIyWmt6UzFueGhKbHBjLTFrQkVPekhWY29GZHAtRWR",
+      "source_url": "https://mp.ofweek.com",
+      "source": "维科号"
     },
     {
-      "title": "中国大模型周调用量连续25周超过美国；人工智能赋能钢铁行业首批标准发布｜数智早参",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3amFjeHBUdXAwaGtVemJSbFRPMHJPY1M0RDdMMEVfS2l3dmo0TENvdjlmWEtKQ3hGNmhIMW5oVTRjWXZyVUNtQmt",
-      "source_url": "https://www.mrjjxw.com",
-      "source": "https://www.mrjjxw.com/"
+      "title": "物理AI落地有了清晰施工图，江苏发布“物理AI与世界模型”典型创新成果",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWRVYzU2d3gwOEx0VXNOOWVrQ2JkOC13eG5vc3lCTXpOQnRMSEJTbVc5ZVo5OWZXclpPV2k4V29vMFc3LUxfU0x",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
+    },
+    {
+      "title": "新加坡云服务商Ready Server推出ReadyServer LLM API，VPS用户免费获得",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rVjg5cWFqQ0hlb2w3NGZTLXlNNFBqVnBaNDY2ajJQdThuWlA2TDJwRk9HNDMtUmFrLW5TQjAwdHlaQUVLRmdtWTd",
+      "source_url": "https://www.prnasia.com",
+      "source": "美通社"
     }
   ]
 }

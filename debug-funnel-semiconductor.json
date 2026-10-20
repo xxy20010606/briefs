@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 42,
-    "trusted": 30,
+    "raw_dedup_junk": 46,
+    "trusted": 19,
     "non_trusted_top": {
-      "futunn.com": 2,
-      "cfi.net.cn": 2,
-      "sina.com.cn": 1,
-      "stockstar.com": 1,
-      "tradingview.com": 1,
-      "sina.cn": 1,
-      "moomoo.com": 1,
-      "itheat.com": 1,
-      "cnbeta.com.tw": 1,
-      "yeeyi.com": 1
+      "sina.com.cn": 4,
+      "indexbox.io": 3,
+      "china.com": 3,
+      "stockstar.com": 2,
+      "jrj.com.cn": 2,
+      "sina.cn": 2,
+      "eastmoney.com": 1,
+      "futunn.com": 1,
+      "hnu.edu.cn": 1,
+      "idnfinancials.com": 1
     },
-    "fresh1_24h": 28,
-    "page_fresh": 11,
+    "fresh1_24h": 19,
+    "page_fresh": 15,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "半导体三季报业绩大面积预增，PCB与存储芯片“你追我赶”-36氪",
-      "d": "36kr.com"
-    },
-    {
-      "t": "半导体三季报业绩大面积预增 PCB与存储芯片“你追我赶”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "深夜 全线暴拉 美股存储芯片股 集体沸腾",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "全球市场：美股收盘涨跌不一 纳指涨逾1% 存储芯片、半导体板块走强",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "周刊丨半导体行业投融周动态（10.12—10.18）",
+      "t": "1400+芯片人，不想在行业群里“浪费时间”",
       "d": "eet-china.com"
     },
     {
-      "t": "集微咨询发布《中国半导体股权投资月刊（8月刊）》",
+      "t": "亚太日韩股指回调，隔夜美股芯片股反弹，特斯拉TerraFab布局韩半导体供应链",
       "d": "sohu.com"
     },
     {
-      "t": "超10年！又一半导体封测厂宣告破产！",
+      "t": "陈立武：中国芯片制造并没有落后太多！",
       "d": "eet-china.com"
+    },
+    {
+      "t": "链主粤芯半导体上市：大湾区芯片产业链形成闭环",
+      "d": "sohu.com"
+    },
+    {
+      "t": "算力需求增长，催热高速接口IP",
+      "d": "laoyaoba.com"
+    },
+    {
+      "t": "半导体ETF鹏华(159813)标的指数涨超1%，龙头业绩大增，板块高景气度持续",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "专访锐博半导体：深耕光通信封装，拓展功率半导体设备布局",
+      "d": "iccsz.com"
     }
   ]
 }

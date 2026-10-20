@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 53,
-    "trusted": 7,
+    "raw_dedup_junk": 51,
+    "trusted": 13,
     "non_trusted_top": {
-      "unite.ai": 10,
-      "sina.com.cn": 9,
-      "pasqualepillitteri.it": 5,
-      "zhiding.cn": 5,
-      "sina.cn": 3,
-      "ebiotrade.com": 1,
-      "vanpeople.com": 1,
-      "ua.news": 1,
-      "tradersunion.com": 1,
-      "yzwb.net": 1
+      "sina.com.cn": 8,
+      "unite.ai": 5,
+      "csdn.net": 3,
+      "caiwennews.com": 2,
+      "digitaltoday.co.kr": 2,
+      "stockstar.com": 2,
+      "pasqualepillitteri.it": 2,
+      "sina.cn": 2,
+      "panewslab.com": 2,
+      "moomoo.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 4,
-    "relaxed_72h": 3,
+    "fresh1_24h": 13,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "英伟达黄仁勋：AI是新工具，你的专业知识不会被取代",
+      "t": "挑战英伟达CUDA生态！亚马逊推出TorchNeuron开发工具，争夺AI算力生",
       "d": "sohu.com"
     },
     {
-      "t": "一线从业者的真实声音：AI电商应用的痛点和卡点",
-      "d": "sohu.com"
+      "t": "RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "中信建投：建议关注企业级AI应用、算力服务及国产芯片和超节点",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "电报解读",
+      "d": "cls.cn"
     },
     {
       "t": "许冉谈双11：以AI工具提升商家经营效率",
       "d": "sohu.com"
     },
     {
-      "t": "启云方CEO苏立清：以工业软件为底座 构建企业AI新质生产力|对话科创家",
-      "d": "cls.cn"
+      "t": "WTCC 2026｜四天活动抢先看，更多阵容持续公布中！",
+      "d": "guancha.cn"
     },
     {
-      "t": "从AI工具走向AI原生组织",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "启云方CEO苏立清：以工业软件为底座 构建企业AI新质生产力｜对话科创家",
-      "d": "sohu.com"
-    },
-    {
-      "t": "用AI“诈骗”诈骗分子！澳公司部署AI代理假扮受害者，专门浪费骗子时间",
-      "d": "sohu.com"
+      "t": "A股三大指数开盘集体下跌，创业板指跌0.5%",
+      "d": "ifeng.com"
     }
   ]
 }

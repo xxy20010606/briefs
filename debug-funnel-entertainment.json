@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 45,
+    "raw_dedup_junk": 57,
     "trusted": 13,
     "non_trusted_top": {
       "sina.cn": 6,
-      "pchome.net": 3,
+      "china.com": 4,
+      "mk.co.kr": 3,
+      "yzwb.net": 3,
+      "sina.com.cn": 2,
       "rediandf.com": 2,
-      "henan100.com": 2,
-      "3dmgame.com": 1,
-      "mrjjxw.com": 1,
-      "games.gg": 1,
-      "ctnews.com.cn": 1,
-      "hubeidaily.net": 1,
-      "tgbus.com": 1
+      "arch-web.com.tw": 1,
+      "zhibo8.cc": 1,
+      "westca.com": 1,
+      "worldjournal.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 5,
-    "relaxed_72h": 8,
+    "fresh1_24h": 13,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2026德玛西亚杯首次走向国际化：存量周期，电竞内容生态的上游闯关试验",
+      "t": "惊悚升级，尺度升级，为何流量密码这次失灵了？",
       "d": "sohu.com"
     },
     {
-      "t": "《荒野乱斗》全球赛事落地广州，收官战决出两个总决赛席位",
+      "t": "2026年电竞显示器品牌排行榜：高端市场新格局解读",
       "d": "sohu.com"
+    },
+    {
+      "t": "北京首部老年题材反诈剧情宣传片首映",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "档期不再为平庸兜底，成败系于影片质量——2026年中秋、国庆双档电影市场综述",
+      "d": "xinhuanet.com"
     },
     {
       "t": "早报｜苹果定档下周发布新品，触屏MacBook Pro或将亮相/华为苹果拿下中国",
       "d": "ifanr.com"
     },
     {
-      "t": "黄梅戏《女驸马》在德上演展现东方戏韵",
-      "d": "cctv.com"
+      "t": "两部门联合发文 推动“电影+体育”跨界合作",
+      "d": "cyol.com"
     },
     {
-      "t": "综艺《现在就出发4》走进四川，和明星一起解锁四川山水魅力",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "音乐剧《芝加哥》30周年纪念版11月登台北京天桥艺术中心",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "横店影视出品、发行多部电影代表亮相2026长三角国际青年电影周",
-      "d": "10jqka.com.cn"
+      "t": "影视院线板块午后走高 华智数媒直线拉升涨超8%",
+      "d": "eastmoney.com"
     }
   ]
 }
