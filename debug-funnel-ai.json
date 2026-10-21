@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 58,
-    "trusted": 18,
+    "raw_dedup_junk": 62,
+    "trusted": 14,
     "non_trusted_top": {
       "sina.com.cn": 15,
+      "sina.cn": 5,
       "ac.cn": 4,
-      "quasa.io": 4,
-      "sina.cn": 3,
       "techwalker.com": 3,
-      "csdn.net": 2,
-      "dailyqd.com": 1,
-      "scol.com.cn": 1,
-      "china.com": 1,
-      "gz-cmc.com": 1
+      "quasa.io": 3,
+      "stockstar.com": 1,
+      "bandao.cn": 1,
+      "icloudnews.net": 1,
+      "lg.gov.cn": 1,
+      "dzwww.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 3,
-    "relaxed_72h": 12,
+    "fresh1_24h": 14,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "AI下田荔枝上“云” 东莞荔枝有了“智”胜密码",
+      "t": "上半年AI股权投资达3077亿元，行业下一轮突破在哪里？",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "周小川：AI领域投入失败或引发金融风险 需前置布局政策预案",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "DeepSeek工程师参与华为昇腾芯片设计，计划年底用950DT预训练",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "明略科技(2718.HK)推出适用于多模态大模型及世界模型的新一代技术架构：Vi",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "辽宁省教育厅与阿里云和钉钉达成战略合作，构建省级人工智能教育示范样本",
       "d": "sohu.com"
     },
     {
-      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "d": "36kr.com"
+      "t": "科创板AI业绩密集预喜叠政策加码",
+      "d": "cls.cn"
     },
     {
-      "t": "马斯克，盯上“AI砍价”",
-      "d": "36kr.com"
-    },
-    {
-      "t": "北大博士、零一万物联创黄文灏加入字节 Seed 两年后离职，下一步或创业",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "单卡月收入或超18万元，DeepSeek开源核心推理框架",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "南京江宁区两项工业世界模型相关技术成果发布",
+      "t": "“押注”垂域大模型，山东在下一盘怎样的大棋？",
       "d": "sohu.com"
-    },
-    {
-      "t": "AI视频产业化提速 网宿科技与Sand.ai达成战略合作",
-      "d": "eastmoney.com"
     }
   ]
 }

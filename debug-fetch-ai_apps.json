@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 40,
+  "total": 25,
   "samples": [
     {
-      "title": "聚焦AI落地实战！第四届DATA+AI医药营销新常态研讨会将亮相第93届全国药交会",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wMnZoTTRTdmxadGZpenFFeUlULWl4cEYwNTlGWWFNQ1VBTHNoaVpMVDU1YmlaTVNUNjdOWUNmNi1leE41S1E4Mmd",
-      "source_url": "https://www.pharnexcloud.com",
-      "source": "摩熵医药"
+      "title": "高通AI Hub向中国用户正式开放 经亚马逊云科技中国区域提供",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MZmVSZUY0azRnUTZMMjNkZjZmWWRmREs4TzN2enJ5ODVaV2dMdmE4UnN3YllzclNZcEtTRTljX0xtRkF0a0Z2c0w",
+      "source_url": "https://www.guandian.cn",
+      "source": "观点网"
     },
     {
-      "title": "周小川：应储备政策工具防范AI投资失败引发金融动荡",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzMHpzLUJlODRyZndaQlg5b09BOER2YVlxclpsUXg3eEVqYzJaZW50aWc3dm5nbEE5eGNzRDh2Z3NmbGJGX0RtX3M",
-      "source_url": "https://wap.eastmoney.com",
-      "source": "东方财富"
+      "title": "中建西南院举办“智绘未来·AI赋能建筑创作”专题沙龙",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWhzTEUyclJHdnVjX1Rwc3BIUzZxaVJQYXBoVTJWVUlxNi1yU1RUWUZPQVkwT2FrRFdfRmNhWmt4YnQwRHFrVDh",
+      "source_url": "http://www.archina.com",
+      "source": "ARCHINA"
     },
     {
-      "title": "Yelp AI助手升级：可代打电话排队订餐-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XNzFUaW9NbHROV3lhWjkwYk5ndTY1ay1pbGFlVGlweTBKQjRralUwM0JEcnhhWVhGa0Q0R3BLT3l6RWx0SUNGNHA",
+      "title": "人身伤害律师如何用AI自动生成医疗时间线：2026年六大工具-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZeHY5cnBTTEtFbmJIQWJnNFJ3VTltWmk3elZyMFNRNVlKQTJRRTYweERMWU5jZkxaVGlzeWhkMXRaM3g3UW9kZGN",
       "source_url": "https://www.zhiding.cn",
       "source": "至顶网"
     },
     {
-      "title": "扩大 AI 应用规模，不应意味着每次都要重建数据基础",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uU293ajROV0tyM1pTMVV0TUFmZkFHS3VEVVh5UDM1NHdsRklJYmQ5QVA4RUk0UVZ1YXB3LTh6R29NWDc5Z05MZkJ",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "AI是主体还是工具？工行刘珺：金融AI治理要先破解“身份”与“责任”两道题",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWh6dlFrSWFzbXJ0cW5aMzhoUlRpVzAtdVVGTFBKcjloRVoyZDV5LXhRSG1xZEpMRllicFRwd0s2UHNiTnVrdU1",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "大摩财报前瞻：铿腾电子(CDNS.US)Q3业绩有望稳健增长AI设计工具商业化成关键看点_全球市场",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QMkVKdzJjSUY3RHlkRElrakZETHRtRU1GSDY4VThlSUVpUlh6N0VpLVRJSXNlaVVOYks5Y0FkRzBselhtTHBOVnA",
-      "source_url": "https://finance.stockstar.com",
-      "source": "证券之星"
+      "title": "周小川：有必要储备好政策工具以应对AI投资风险",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yaFFOUk5oRDBOTnlQbk5zSDEzT3o5c3hzMlJjeUxEWl9QNTVlTmp4Z2RmdnlaNHdMTHRrUWxCVERPdm81bTE4amd",
+      "source_url": "https://www.yicai.com",
+      "source": "第一财经"
     },
     {
-      "title": "Google开源TorchTPU，以便在其AI芯片上运行PyTorch——TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZWlickdEQklXZDF2eE52Tm9YMDZjbGQ4dWp3VVhKME5FVWNLWEczNzV1U0N3LVRzZXBGb2dha29ZWWRneUlPSU9",
-      "source_url": "https://ua.news",
-      "source": "UA.NEWS"
+      "title": "数智新工具|顶刊与热搜背后：AI医疗从惊艳算法走向临床考验",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHd4RmdKX0hPbGpqYjgyZ0N4OWpzRFQxaXFCcjJmR1dRVkxfaURlUU9HSGJTUmRrNmJsc1oybkI3ZVFTU1FGSzl",
+      "source_url": "https://www.sohu.com",
+      "source": "搜狐网"
     }
   ]
 }

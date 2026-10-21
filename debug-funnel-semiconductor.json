@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 16,
+    "raw_dedup_junk": 48,
+    "trusted": 21,
     "non_trusted_top": {
-      "sina.com.cn": 10,
-      "stockstar.com": 3,
-      "chosun.com": 1,
-      "investing.com": 1,
-      "mrjjxw.com": 1,
-      "fx168news.com": 1,
-      "nuist.edu.cn": 1,
-      "semi.org.cn": 1,
-      "cjn.cn": 1,
-      "zqrb.cn": 1
+      "sina.cn": 6,
+      "sina.com.cn": 6,
+      "jrj.com.cn": 2,
+      "ua.news": 2,
+      "enanyang.my": 1,
+      "ikanchai.com": 1,
+      "caiwennews.com": 1,
+      "guandian.cn": 1,
+      "ajudaily.com": 1,
+      "chosun.com": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 4,
-    "relaxed_72h": 7,
+    "fresh1_24h": 19,
+    "page_fresh": 14,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "美股三大股指小幅低开 芯片半导体股票普遍低开",
-      "d": "cls.cn"
-    },
-    {
-      "t": "21:30:53【美股三大股指小幅低开 芯片半导体股票普遍低开】",
-      "d": "cls.cn"
-    },
-    {
-      "t": "又一铌酸锂企业完成近亿元融资！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "美股芯片股由跌转涨 希捷科技涨逾2%",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "费城半导体八连跌后，存储领衔反攻!大摩高呼HDD超级周期未完，希捷与西数将狂飙8",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "当机器狗学会自己挣钱，芯片才是真正的赢家",
+      "t": "业绩与涨价共振！存储板块午后回暖，半导体、PCB景气获认可，AI需求支撑行业高景",
       "d": "sohu.com"
     },
     {
-      "t": "芯片、半导体板块今日反弹，科创芯片设计ETF易方达（589030）标的指数收涨3",
+      "t": "台湾经济主管部门负责人称会配合美国政策，进一步限制AI芯片及先进半导体出口大陆，",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "龚明鑫称会配合美国，进一步限制AI芯片及先进半导体出口到大陆，国台办：坑害的是台",
       "d": "sohu.com"
+    },
+    {
+      "t": "科创芯片设计指数早盘上涨1.6%，科创芯片设计ETF易方达（589030）近三月",
+      "d": "cls.cn"
+    },
+    {
+      "t": "全球晶圆厂加速扩产、国内存储厂商市场份额稳步提升，科创芯片ETF嘉实(58820",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "【一周IC快报】美国起诉中国科技巨头,立讯精密被调查；“成都造”光刻机将集中交付",
+      "d": "laoyaoba.com"
+    },
+    {
+      "t": "英伟达也要入局3D DRAM？",
+      "d": "36kr.com"
     }
   ]
 }

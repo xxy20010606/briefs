@@ -1,54 +1,46 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 40,
-    "trusted": 7,
+    "raw_dedup_junk": 25,
+    "trusted": 5,
     "non_trusted_top": {
-      "zhiding.cn": 6,
-      "stockstar.com": 3,
-      "pasqualepillitteri.it": 3,
-      "unite.ai": 2,
+      "sina.com.cn": 3,
+      "zhiding.cn": 2,
       "csdn.net": 2,
-      "sina.com.cn": 2,
-      "sina.cn": 2,
-      "pharnexcloud.com": 1,
-      "ua.news": 1,
-      "venturesquare.net": 1
+      "aibase.com": 2,
+      "guandian.cn": 1,
+      "archina.com": 1,
+      "sina.cn": 1,
+      "caiwennews.com": 1,
+      "jyb.cn": 1,
+      "caizhongshe.cn": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 1,
-    "relaxed_72h": 6,
-    "final": 7,
-    "cap": "同域≤3条"
+    "fresh1_24h": 4,
+    "page_fresh": 4,
+    "relaxed_72h": 1,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "AI也能帮听障人士跳街舞？京东Aidol创造营脑洞新品10月23日集中亮相",
-      "d": "36kr.com"
+      "t": "周小川：有必要储备好政策工具以应对AI投资风险",
+      "d": "yicai.com"
+    },
+    {
+      "t": "数智新工具|顶刊与热搜背后：AI医疗从惊艳算法走向临床考验",
+      "d": "sohu.com"
+    },
+    {
+      "t": "前豆包PC负责人齐俊元创业，Today AI累计完成超2亿美元融资、腾讯蚂蚁参投",
+      "d": "sohu.com"
+    },
+    {
+      "t": "腾讯联手蚂蚁，投了前豆包PC端负责人",
+      "d": "zhidx.com"
     },
     {
       "t": "周小川：应储备政策工具防范AI投资失败引发金融动荡",
       "d": "eastmoney.com"
-    },
-    {
-      "t": "全线拉升！刚刚，DeepSeek重磅宣布！",
-      "d": "sohu.com"
-    },
-    {
-      "t": "OpenCode陷入“密钥泄露”风波，AI时代如何守住安全红线？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "从业人工智能“到广州海珠来”！广东首个一站式服务AI工厂发布",
-      "d": "sohu.com"
-    },
-    {
-      "t": "报告：桌面端AI原生办公智能体访问量突破3亿次",
-      "d": "bjnews.com.cn"
-    },
-    {
-      "t": "腾讯WorkBuddy月访问量持续领跑AI办公产品",
-      "d": "zhidx.com"
     }
   ]
 }

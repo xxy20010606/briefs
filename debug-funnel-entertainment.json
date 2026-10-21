@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 56,
-    "trusted": 14,
+    "raw_dedup_junk": 60,
+    "trusted": 23,
     "non_trusted_top": {
-      "sina.cn": 6,
-      "henan100.com": 4,
-      "hupu.com": 3,
-      "sina.com.cn": 3,
-      "bjd.com.cn": 2,
+      "sina.cn": 10,
+      "sina.com.cn": 6,
+      "westca.com": 1,
       "3dmgame.com": 1,
-      "vietnam.vn": 1,
-      "mezha.net": 1,
-      "cnbeta.com.tw": 1,
-      "pconline.com.cn": 1
+      "hupu.com": 1,
+      "jfdaily.com": 1,
+      "yeeyi.com": 1,
+      "ntdtv.com": 1,
+      "vanpeople.com": 1,
+      "myzaker.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 3,
-    "relaxed_72h": 11,
+    "fresh1_24h": 23,
+    "page_fresh": 23,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
+      "t": "首部拿到“龙标”的AI院线电影将上映 博纳回应制作成本与票房预期",
+      "d": "sohu.com"
+    },
+    {
       "t": "《街头霸王》真人电影票房登顶，口碑两极：媒体42%差评，观众79%点赞",
       "d": "sohu.com"
     },
     {
-      "t": "全球采购高峰来了！国际买手涌入上海 下单“中国风”→",
-      "d": "eastmoney.com"
+      "t": "从一场比赛到电竞痛城：无畏契约如何用潮流语言讲中国故事",
+      "d": "thepaper.cn"
     },
     {
-      "t": "《岁月峥嵘》长征经典红歌音乐会在石家庄举行",
-      "d": "sohu.com"
-    },
-    {
-      "t": "开播登顶央视第一！《征途》里的四川风景你去过几个？",
+      "t": "中央八套电视剧直播表！今日新剧《小城良方》开播，1部剧大结局",
       "d": "163.com"
     },
     {
-      "t": "2026年末北京演出盘点，在哪里买演唱会门票靠谱？",
+      "t": "70岁离婚男首当育儿新手，短篇动画定档1月4日",
+      "d": "163.com"
+    },
+    {
+      "t": "电影《沙丘3》内地定档12月31日",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "科幻电影《沙丘3》定档12月31日内地上映，与《复联5》错开档期",
       "d": "ifeng.com"
-    },
-    {
-      "t": "户外真人秀《现在就出发4》：行走即传播，让在地文化抵达屏幕",
-      "d": "bjnews.com.cn"
-    },
-    {
-      "t": "贵州从江举办《勇敢女孩合唱团》专场鼓楼音乐会",
-      "d": "cri.cn"
     }
   ]
 }

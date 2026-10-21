@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 43,
+  "total": 48,
   "samples": [
     {
-      "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94dWRHSUNMSGEyczRSS3ZHQ3JlMFY3cVRTcmpadkpmY0ZQQmRSb19rS1lzMlJaaTBqMXYyWlJHVVFHaTFCUGxTNQ?",
+      "title": "佐哈里：2030年目标6万人 大马已培训2.28万半导体人才",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Ga1VkamlOQzE4d2QwY2lLNFZPNnJMTnRKMjZld3lyVnRfanZadVJSS0FaVS1wTkdQdGJXWm9jTE1jLTI2UkhFWjV",
+      "source_url": "https://www.enanyang.my",
+      "source": "e南洋"
+    },
+    {
+      "title": "业绩与涨价共振！存储板块午后回暖，半导体、PCB景气获认可，AI需求支撑行业高景气",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRDhsQTJkZUo2eTZYN05oTUNVMGdFTFgyU0UySVhRMU1rSEs5X3RHbHp4ZVNSMjV3SU11Yjh5OXZHTHRzLXNfeXE",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
+    },
+    {
+      "title": "台湾经济主管部门负责人称会配合美国政策，进一步限制AI芯片及先进半导体出口大陆，国台办：外部封锁围堵",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvMGFzMnY0Sy1vVV9TeHpCMUxUYWt0N0pZQXhXWXd1TjRFVmVMM2tMVHNBcjh1akhfS0dVdWViNm5qSzdHOUFjVFR",
+      "source_url": "https://www.thepaper.cn",
+      "source": "ThePaper.cn"
+    },
+    {
+      "title": "龚明鑫称会配合美国，进一步限制AI芯片及先进半导体出口到大陆，国台办：坑害的是台湾产业界和广大普通民",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZl9tRjRTT1NvVERva0tHWlZvNlczemhOaVVEZEdqWlplcEVBMzJCTU8wRDhZdHJ5UGExSzUtUVctaUEtS0Rsd1c",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
+    },
+    {
+      "title": "科创芯片设计指数早盘上涨1.6%，科创芯片设计ETF易方达（589030）近三月净流入额领跑同标的产",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yRElLM2Itb21EWjZhaGpENHVBczliMU4zLUZzQ0szdjcwbGNXTmotS09HOFRXdmczWmgwcTU4Qmdlb2V1djFNdg?",
       "source_url": "https://www.cls.cn",
       "source": "财联社"
     },
     {
-      "title": "微见先进拟IPO，创始人雷伟庄：存储芯片封装业务上半年增超500%",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUUZKN25SajJHb21IM2NxVXMySkhVaEpjWkN0TjM0aktzREg2bDJfRXFpendFQXp5N2NCbFNWWWZpRlpuZks4VE5",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "自贸港“芯”引力：海南半导体加速聚链成群",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04NFZhZUQ5RGs1RnZXeld5QmwwZHlaLTBCMGxuWlNTWmIwcEtRMTd0bW0tMVZaamMwSG9qbVRwSEVqZkxrbXBWTzR",
-      "source_url": "https://news.sina.com.cn",
-      "source": "新浪新闻_手机新浪网"
-    },
-    {
-      "title": "美国制裁也拦不住…中企用自研芯片建成超大型数据中心",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcGNqOFh3cmNYQTlpRnIxdzJ4X1VHdTZXZGl6eFNFYXVVMWZObHpUYm5TXzBWLXRITzl4djBNaEpLb2lMbGJFaEl",
-      "source_url": "https://cnnews.chosun.com",
-      "source": "朝鮮日報中文版"
-    },
-    {
-      "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUlBkNVdaVGxNUG1fbEJ0YjhMYjZHZ3hleHY2aXI3MkRsNTNqVlZyWFJ6ZUMxcTBUT3Qyb3JRblZqTEdudzlWbQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "3980%增资！大连这家半导体企业，最新消息",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1lfdGJCQkVGZHZINDBhVG5CQzdYbEQ2dHNqa1pFSDQ4N2g2ZkpjRmxQUEQxWUJSOVM4Vkpvek5Ib3paNGtSY0o",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "英伟达换思路！下一代Groq AI芯片放弃超大缓存：改用堆叠内存|半导体|AI模型|推理|摩天大楼|",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRk5uYjMza1FpYVpfNUVDQTZXQjZQSkh5UGZYRWdOcVNRZklKR043YUJmTEszd0VDc3hPZjFjekk3ejdrZnFUNVd",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 11,
+    "raw_dedup_junk": 45,
+    "trusted": 9,
     "non_trusted_top": {
-      "autohome.com.cn": 14,
-      "sina.com.cn": 6,
-      "wzs.org.cn": 1,
-      "fsonline.com.cn": 1,
-      "cnfin.com": 1,
-      "gessey.com": 1,
-      "epochtimes.com": 1,
-      "mydrivers.com": 1,
-      "sina.cn": 1,
-      "ua.news": 1
+      "autohome.com.cn": 10,
+      "sina.com.cn": 5,
+      "stockstar.com": 5,
+      "seetao.com": 3,
+      "sina.cn": 2,
+      "gz-cmc.com": 1,
+      "ne21.com": 1,
+      "in-en.com": 1,
+      "nengyuanjie.net": 1,
+      "wedoany.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 3,
-    "relaxed_72h": 8,
+    "fresh1_24h": 9,
+    "page_fresh": 9,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "化工新材料行业：新能源汽车与储能双轮驱动 锂电隔膜迎出海机遇",
-      "d": "cnfol.com"
+      "t": "阿联酋代表团访华结束，氢、核、储纳入双边合作，刚掐断氢能项目，合同比通稿更可信",
+      "d": "21jingji.com"
     },
     {
-      "t": "【图】售6.29万元起 尺寸全面升级/可选激光雷达 全新比亚迪海鸥上市",
-      "d": "autohome.com.cn"
+      "t": "《2026中国出海品牌500强》：北京头部最强，广东数量领跑",
+      "d": "bjnews.com.cn"
     },
     {
-      "t": "比亚迪股份(01211)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
+      "t": "浙江省人民政府关于印发美丽浙江建设（生态环境保护）“十五五”规划的通知",
+      "d": "solarbe.com"
     },
     {
-      "t": "一束日光创造多少价值？看看这个园区的三笔账",
-      "d": "sohu.com"
+      "t": "通榆福轲能源200MW/800MWh电网侧构网型独立储能电站项目招标公告发布",
+      "d": "solarbe.com"
     },
     {
-      "t": "锚定“两区两地一城市”定位！山西静乐亮出“十五五”发展路线图",
-      "d": "sohu.com"
-    },
-    {
-      "t": "事关智能制造、汽车安全、光伏新型储能...工信部最新发声",
-      "d": "wallstreetcn.com"
-    },
-    {
-      "t": "奇瑞不想做“车企”了！电动拖拉机、飞行器都来了，明年投产固态电池",
+      "t": "【网通社快报】比亚迪公布第三代秦PLUS全新海岛蓝车色外观",
       "d": "ifeng.com"
+    },
+    {
+      "t": "比亚迪第三代秦PLUS实车外观曝光",
+      "d": "d1ev.com"
+    },
+    {
+      "t": "我国清洁能源装备产业正处在转型升级的关键阶段 | 新质生产力“当打之年”怎么干",
+      "d": "sohu.com"
     }
   ]
 }
