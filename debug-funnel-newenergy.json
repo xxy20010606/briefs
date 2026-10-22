@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 9,
+    "raw_dedup_junk": 38,
+    "trusted": 11,
     "non_trusted_top": {
-      "autohome.com.cn": 10,
-      "sina.com.cn": 5,
-      "stockstar.com": 5,
-      "seetao.com": 3,
+      "autohome.com.cn": 6,
+      "sina.com.cn": 4,
+      "gessey.com": 3,
       "sina.cn": 2,
-      "gz-cmc.com": 1,
+      "stockstar.com": 2,
+      "sh.gov.cn": 1,
       "ne21.com": 1,
-      "in-en.com": 1,
-      "nengyuanjie.net": 1,
-      "wedoany.com": 1
+      "yeeyi.com": 1,
+      "guandian.cn": 1,
+      "capwhale.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 9,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 4,
+    "relaxed_72h": 7,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "阿联酋代表团访华结束，氢、核、储纳入双边合作，刚掐断氢能项目，合同比通稿更可信",
-      "d": "21jingji.com"
+      "t": "宁德时代换电生态加速“扩圈”",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "《2026中国出海品牌500强》：北京头部最强，广东数量领跑",
-      "d": "bjnews.com.cn"
+      "t": "占地1.5个曼哈顿、投资60亿美金，拆解光伏+储能到底如何给AIDC供电？",
+      "d": "36kr.com"
     },
     {
-      "t": "浙江省人民政府关于印发美丽浙江建设（生态环境保护）“十五五”规划的通知",
-      "d": "solarbe.com"
+      "t": "晶科能源钱晶：以光伏、储能、AI为“三驾马车”，企业拐点或在2028年到来",
+      "d": "eastmoney.com"
     },
     {
-      "t": "通榆福轲能源200MW/800MWh电网侧构网型独立储能电站项目招标公告发布",
-      "d": "solarbe.com"
+      "t": "特斯拉吹Roadster快充，比亚迪：这有什么好吹的？",
+      "d": "sohu.com"
     },
     {
-      "t": "【网通社快报】比亚迪公布第三代秦PLUS全新海岛蓝车色外观",
+      "t": "“浙里共赢” 搭台 助浙江储能产业链接全球市场",
+      "d": "sohu.com"
+    },
+    {
+      "t": "【网通社快报】国家标准〈电动汽车动力蓄电池在役检测试验方法〉发布，2027年3月",
       "d": "ifeng.com"
     },
     {
-      "t": "比亚迪第三代秦PLUS实车外观曝光",
-      "d": "d1ev.com"
-    },
-    {
-      "t": "我国清洁能源装备产业正处在转型升级的关键阶段 | 新质生产力“当打之年”怎么干",
-      "d": "sohu.com"
+      "t": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—203",
+      "d": "163.com"
     }
   ]
 }

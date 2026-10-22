@@ -1,46 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 25,
-    "trusted": 5,
+    "raw_dedup_junk": 28,
+    "trusted": 9,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "zhiding.cn": 2,
-      "csdn.net": 2,
-      "aibase.com": 2,
-      "guandian.cn": 1,
-      "archina.com": 1,
-      "sina.cn": 1,
-      "caiwennews.com": 1,
-      "jyb.cn": 1,
-      "caizhongshe.cn": 1
+      "sina.com.cn": 5,
+      "unite.ai": 3,
+      "zhiding.cn": 3,
+      "sina.cn": 2,
+      "blockchain.news": 1,
+      "tradingview.com": 1,
+      "moomoo.com": 1,
+      "oschina.net": 1,
+      "jfdaily.com.cn": 1,
+      "csdn.net": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 4,
-    "relaxed_72h": 1,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 9,
+    "page_fresh": 3,
+    "relaxed_72h": 6,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "周小川：有必要储备好政策工具以应对AI投资风险",
-      "d": "yicai.com"
+      "t": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
+      "d": "cls.cn"
     },
     {
-      "t": "数智新工具|顶刊与热搜背后：AI医疗从惊艳算法走向临床考验",
+      "t": "被AI接管的2026，工具越多越迷茫",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "商汤小浣熊9月网页访问量约1500万，AI办公排名提升但商业化仍待验证",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "2026年英语对话AI软件：良心工具，不用花钱也能练流利口语",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "亚马逊推出TorchNeuron工具，向英伟达发起新一轮挑战",
       "d": "sohu.com"
     },
     {
-      "t": "前豆包PC负责人齐俊元创业，Today AI累计完成超2亿美元融资、腾讯蚂蚁参投",
+      "t": "RapidCanvas完成2900万美元融资，助力企业定制AI应用",
       "d": "sohu.com"
     },
     {
-      "t": "腾讯联手蚂蚁，投了前豆包PC端负责人",
-      "d": "zhidx.com"
-    },
-    {
-      "t": "周小川：应储备政策工具防范AI投资失败引发金融动荡",
-      "d": "eastmoney.com"
+      "t": "字节最赚钱的AI，竟然不是豆包？",
+      "d": "163.com"
     }
   ]
 }

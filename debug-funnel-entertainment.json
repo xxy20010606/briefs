@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 60,
-    "trusted": 23,
+    "raw_dedup_junk": 50,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.cn": 10,
-      "sina.com.cn": 6,
-      "westca.com": 1,
-      "3dmgame.com": 1,
-      "hupu.com": 1,
-      "jfdaily.com": 1,
-      "yeeyi.com": 1,
-      "ntdtv.com": 1,
-      "vanpeople.com": 1,
-      "myzaker.com": 1
+      "sina.cn": 11,
+      "vietnam.vn": 2,
+      "tgbus.com": 2,
+      "360.com": 2,
+      "china.com": 2,
+      "zaochenbao.com": 1,
+      "hk01.com": 1,
+      "secretchina.com": 1,
+      "com.sg": 1,
+      "smarthey.com": 1
     },
-    "fresh1_24h": 23,
-    "page_fresh": 23,
-    "relaxed_72h": 0,
+    "fresh1_24h": 9,
+    "page_fresh": 3,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "首部拿到“龙标”的AI院线电影将上映 博纳回应制作成本与票房预期",
+      "t": "电影《沙丘3》内地定档跨年档，晚于北美两周错开《复联5》",
       "d": "sohu.com"
     },
     {
-      "t": "《街头霸王》真人电影票房登顶，口碑两极：媒体42%差评，观众79%点赞",
+      "t": "纪录电影《象行记》首映：讲述中国亚洲象保护故事",
+      "d": "cctv.com"
+    },
+    {
+      "t": "法国骚乱治安恶化 网红易梦玲巴黎机场失窃 一转身行李「人间蒸发」",
       "d": "sohu.com"
     },
     {
-      "t": "从一场比赛到电竞痛城：无畏契约如何用潮流语言讲中国故事",
+      "t": "亚洲首演！《歌剧幻境——巴黎歌剧院沉浸式VR体验》落地上海大歌剧院",
       "d": "thepaper.cn"
     },
     {
-      "t": "中央八套电视剧直播表！今日新剧《小城良方》开播，1部剧大结局",
-      "d": "163.com"
+      "t": "《嫁金钗》登Netflix全球非英语剧集周榜第七，优酷自制剧海外表现亮眼",
+      "d": "ce.cn"
     },
     {
-      "t": "70岁离婚男首当育儿新手，短篇动画定档1月4日",
-      "d": "163.com"
+      "t": "500万人抢2万张演唱会门票！消协提醒：警惕票务陷阱",
+      "d": "21jingji.com"
     },
     {
-      "t": "电影《沙丘3》内地定档12月31日",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "科幻电影《沙丘3》定档12月31日内地上映，与《复联5》错开档期",
-      "d": "ifeng.com"
+      "t": "崔健在交响乐中摇滚 第29届北京国际音乐节在跨界中收官",
+      "d": "chinanews.com.cn"
     }
   ]
 }

@@ -2,53 +2,53 @@
   "type": "semiconductor",
   "stages": {
     "raw_dedup_junk": 48,
-    "trusted": 21,
+    "trusted": 20,
     "non_trusted_top": {
-      "sina.cn": 6,
-      "sina.com.cn": 6,
-      "jrj.com.cn": 2,
-      "ua.news": 2,
-      "enanyang.my": 1,
-      "ikanchai.com": 1,
-      "caiwennews.com": 1,
-      "guandian.cn": 1,
-      "ajudaily.com": 1,
-      "chosun.com": 1
+      "sina.com.cn": 8,
+      "sina.cn": 4,
+      "stockstar.com": 2,
+      "chosun.com": 2,
+      "indexbox.io": 2,
+      "mydrivers.com": 2,
+      "newspim.com": 1,
+      "worldjournal.com": 1,
+      "mezha.net": 1,
+      "molihua.org": 1
     },
-    "fresh1_24h": 19,
-    "page_fresh": 14,
-    "relaxed_72h": 0,
+    "fresh1_24h": 18,
+    "page_fresh": 8,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "业绩与涨价共振！存储板块午后回暖，半导体、PCB景气获认可，AI需求支撑行业高景",
+      "t": "【开源】2026湾芯展集中首发新技术新生态，北证半导体设备标的迎机遇——北交所行",
       "d": "sohu.com"
     },
     {
-      "t": "台湾经济主管部门负责人称会配合美国政策，进一步限制AI芯片及先进半导体出口大陆，",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "龚明鑫称会配合美国，进一步限制AI芯片及先进半导体出口到大陆，国台办：坑害的是台",
-      "d": "sohu.com"
-    },
-    {
-      "t": "科创芯片设计指数早盘上涨1.6%，科创芯片设计ETF易方达（589030）近三月",
-      "d": "cls.cn"
-    },
-    {
-      "t": "全球晶圆厂加速扩产、国内存储厂商市场份额稳步提升，科创芯片ETF嘉实(58820",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "【一周IC快报】美国起诉中国科技巨头,立讯精密被调查；“成都造”光刻机将集中交付",
+      "t": "英伟达实质收购Groq后首度出手！下一代AI芯片架构大转向 弃SRAM改采3D堆",
       "d": "laoyaoba.com"
     },
     {
-      "t": "英伟达也要入局3D DRAM？",
-      "d": "36kr.com"
+      "t": "一块磷矿石的“芯片级”蜕变——兴福电子探路半导体材料高端化、平台化、国际化",
+      "d": "sohu.com"
+    },
+    {
+      "t": "同比增长2642.24% ！磷化铟龙头利收双增！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "演讲报告征集！【空白掩模与合成石英材料技术论坛2026】将于12月3-4日在苏州",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "从存储到算力 精智达拓展半导体测试业务版图",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "日本想重振半导体，却被迫先掏钱帮美国建厂，“就当交税了”",
+      "d": "guancha.cn"
     }
   ]
 }

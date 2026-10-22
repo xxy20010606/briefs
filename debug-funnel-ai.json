@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 62,
-    "trusted": 14,
+    "raw_dedup_junk": 49,
+    "trusted": 16,
     "non_trusted_top": {
-      "sina.com.cn": 15,
-      "sina.cn": 5,
-      "ac.cn": 4,
-      "techwalker.com": 3,
-      "quasa.io": 3,
-      "stockstar.com": 1,
-      "bandao.cn": 1,
-      "icloudnews.net": 1,
-      "lg.gov.cn": 1,
-      "dzwww.com": 1
+      "sina.com.cn": 8,
+      "sina.cn": 4,
+      "zhiding.cn": 2,
+      "blockweeks.com": 2,
+      "unite.ai": 2,
+      "fjdaily.com": 1,
+      "tianjinwe.com": 1,
+      "prnasia.com": 1,
+      "xhby.net": 1,
+      "bjd.com.cn": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 13,
+    "page_fresh": 4,
+    "relaxed_72h": 9,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "上半年AI股权投资达3077亿元，行业下一轮突破在哪里？",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "周小川：AI领域投入失败或引发金融风险 需前置布局政策预案",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "DeepSeek工程师参与华为昇腾芯片设计，计划年底用950DT预训练",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "明略科技(2718.HK)推出适用于多模态大模型及世界模型的新一代技术架构：Vi",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "辽宁省教育厅与阿里云和钉钉达成战略合作，构建省级人工智能教育示范样本",
-      "d": "sohu.com"
-    },
-    {
-      "t": "科创板AI业绩密集预喜叠政策加码",
+      "t": "OpenAI前沿模型及Codex将登陆谷歌云 云厂商正成AI模型核心分销渠道",
       "d": "cls.cn"
     },
     {
-      "t": "“押注”垂域大模型，山东在下一盘怎样的大棋？",
+      "t": "财联社早知道",
+      "d": "cls.cn"
+    },
+    {
+      "t": "沃尔玛推AI代理购物Agent Gateway，支持ChatGPT等应用，11月",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "刚刚，黄仁勋柏林震撼演讲，PC已死，AI智能体时代全面爆发",
+      "d": "36kr.com"
+    },
+    {
+      "t": "国内首个通过国家备案的渔业大模型将正式对外发布",
       "d": "sohu.com"
+    },
+    {
+      "t": "DeepSeek与OpenAI以相反路径入局具身智能，物理交互成本成关键约束",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "华数传媒：应用于人工智能模型训练以及服务视听、旅游等应用场景，赋能文广旅行业高质",
+      "d": "eastmoney.com"
     }
   ]
 }

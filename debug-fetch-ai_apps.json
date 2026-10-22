@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 25,
+  "total": 28,
   "samples": [
     {
-      "title": "高通AI Hub向中国用户正式开放 经亚马逊云科技中国区域提供",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MZmVSZUY0azRnUTZMMjNkZjZmWWRmREs4TzN2enJ5ODVaV2dMdmE4UnN3YllzclNZcEtTRTljX0xtRkF0a0Z2c0w",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
+      "title": "五个新的Tezos dApp聚焦社区工具和创作者",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUi0zUU1PQzFuMjhaTy1HM2J6dHR3MXVoOC1tY2c2RGxnbHhKb0pucEFZQjBjSHJ0dGNrcjF0TlpPejNxcl9xYzB",
+      "source_url": "https://blockchain.news",
+      "source": "blockchain.news"
     },
     {
-      "title": "中建西南院举办“智绘未来·AI赋能建筑创作”专题沙龙",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWhzTEUyclJHdnVjX1Rwc3BIUzZxaVJQYXBoVTJWVUlxNi1yU1RUWUZPQVkwT2FrRFdfRmNhWmt4YnQwRHFrVDh",
-      "source_url": "http://www.archina.com",
-      "source": "ARCHINA"
+      "title": "以全国产AI赋能千行百业，科大讯飞1024开发者节北京科博展即将启幕",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91eFNkdDF1bkFQOHRpTjBXY0IyTzVPbjRaUVNnQV9PQzYzakJiUVBQeXc0SHJhR0hKZnNKOXA2ZFJTWWtKVU5uSGI",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "人身伤害律师如何用AI自动生成医疗时间线：2026年六大工具-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZeHY5cnBTTEtFbmJIQWJnNFJ3VTltWmk3elZyMFNRNVlKQTJRRTYweERMWU5jZkxaVGlzeWhkMXRaM3g3UW9kZGN",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "勒索通知竟通过你自己的应用发来",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFSTZLLVNQUFozdW0yN2tac3BLTXBNWUZ2TGtKc2dVRFpJXzF0aXNwRG14VXRvU2RsWnZHcV9xNWxZa21mX1BIRTR",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "AI是主体还是工具？工行刘珺：金融AI治理要先破解“身份”与“责任”两道题",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSWh6dlFrSWFzbXJ0cW5aMzhoUlRpVzAtdVVGTFBKcjloRVoyZDV5LXhRSG1xZEpMRllicFRwd0s2UHNiTnVrdU1",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "Oracle推出用于构建行业专属AI智能体的低代码工作室",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFVGSDd1ZGRlNUFkcXN4Mi13cUxMTlRUT0kxSlJMZEhQQmdPeEZHaHJrSEpLV0FzNy14M0UzTV9sa2RVcG50OW5",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "周小川：有必要储备好政策工具以应对AI投资风险",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yaFFOUk5oRDBOTnlQbk5zSDEzT3o5c3hzMlJjeUxEWl9QNTVlTmp4Z2RmdnlaNHdMTHRrUWxCVERPdm81bTE4amd",
-      "source_url": "https://www.yicai.com",
-      "source": "第一财经"
+      "title": "AI如何深度赋能财富管理？这家头部券商交出了最新答卷",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUWFFQMEk4cENYMjg5YXRPWUJ0cEZxYlZoNy1zLWdCZjRhalJ4Y2RXVVFDbF8xa2NNZ2pCalJDUk1OM3B3OGd5RUJ",
+      "source_url": "https://news.sina.com.cn",
+      "source": "新浪新闻"
     },
     {
-      "title": "数智新工具|顶刊与热搜背后：AI医疗从惊艳算法走向临床考验",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHd4RmdKX0hPbGpqYjgyZ0N4OWpzRFQxaXFCcjJmR1dRVkxfaURlUU9HSGJTUmRrNmJsc1oybkI3ZVFTU1FGSzl",
-      "source_url": "https://www.sohu.com",
-      "source": "搜狐网"
+      "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85R0xHVkx4c0RVZld6bUNaSVZhMncxSFpubFVjdnRfWkhZVHVxanhPTm9sbm14RFU4blpONy1nUTFGQkhVTk5ydA?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }

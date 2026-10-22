@@ -1,53 +1,40 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 59,
-    "trusted": 12,
+    "raw_dedup_junk": 25,
+    "trusted": 8,
     "non_trusted_top": {
-      "sina.com.cn": 19,
-      "stockstar.com": 5,
-      "moomoo.com": 5,
-      "sina.cn": 4,
-      "futunn.com": 3,
-      "jin10.com": 2,
-      "sfccn.com": 1,
-      "creaders.net": 1,
-      "mk.co.kr": 1,
-      "tmgm.com": 1
+      "moomoo.com": 7,
+      "stockstar.com": 2,
+      "futunn.com": 2,
+      "sina.cn": 1,
+      "sina.com.cn": 1,
+      "tradingview.com": 1,
+      "jin10.com": 1,
+      "tmgm.com": 1,
+      "weeklyonstock.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 5,
-    "relaxed_72h": 2,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 7,
+    "page_fresh": 1,
+    "relaxed_72h": 3,
+    "final": 4,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "A股：没必要等突破3800点了，明天，股市或将迎来关键拐点",
-      "d": "163.com"
-    },
-    {
-      "t": "美国楼市突然拉响警报！房屋销售创历史新低，美联储陷入两难 高盛警告：低迷恐持续至",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "港股科技板块估值低位区间，恒生科技ETF华泰柏瑞（513130）或迎布局窗口",
-      "d": "sohu.com"
-    },
-    {
-      "t": "港股早报｜宁德时代三季度营收同比增超50% 国际油价上演“过山车”行情",
-      "d": "cls.cn"
-    },
-    {
-      "t": "金斯瑞生物科技(01548)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "晚报丨两艘油轮在霍尔木兹海峡触雷；标普：科技巨头有大量未披露AI负债；AI相关C",
+      "t": "美股全线上涨，META盘后一度涨逾6%",
       "d": "eastmoney.com"
     },
     {
-      "t": "深夜！美股半导体集体大跌",
+      "t": "紧急救市！最新宣布：下调！这国央行，突然出手",
+      "d": "stcn.com"
+    },
+    {
+      "t": "周期切换下，成长何时迎来反弹？拐点条件研判与过渡期资产配置策略 | 全球洞察",
+      "d": "sohu.com"
+    },
+    {
+      "t": "深夜，美股太空概念股“起飞”",
       "d": "eastmoney.com"
     }
   ]

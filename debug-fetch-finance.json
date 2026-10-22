@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 59,
+  "total": 25,
   "samples": [
     {
-      "title": "收评：创指跌破2700点 权重股宁德时代跌超12%",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQW1FaFotc3FHRTZnaXpINjZ2c05Gb09uWGtDejdpakhyemNQazFyUTNESDlxcVBYaC1PX2FiT09yTlBRX0dROE1",
+      "title": "操盘必读：影响股市利好或利空消息_2026年10月21日_财经新闻",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbXZUTmhva2VjT0ZVQnJUbUpmRHFSVFRYLVBTSE8zUG1CV19UY01sUHNmcTRkLTdSZHdVc2dGaWJweDZsaHhVaTl",
+      "source_url": "https://m.cj.sina.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "企业财报提振欧洲股市 家乐福因法国骚乱影响重挫",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZGZ2MlVJYUpTczYtU3lId1BZb0l4eTd6TWNKZkNMSEhORnBrNGp4XzBfc2VTc3JvMklSTFBKR09OSGFfNy12dXd",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "轨道系统开发商Gravitics(GVTX.US)IPO定价14-17美元/股筹资规模下调60%至5",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pUnlqVU4xTl8zY0d1aU5ndTJPd0tsX3JUZzQ4dmFzYVFhRnNXdTBxVmIybWdabHVXRlFPVmo2SWtzaFVnWlVHVVU",
-      "source_url": "https://wap.stockstar.com",
+      "title": "龙旗科技(09611)A股股票交易异常波动 不存在应披露而未披露的重大事项-证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZXy05cTd5R1BqTHdqcUNDemwtdlp4all3bnN3MENOM3hvYkNJMHUzZzQ0Si1RRWVNaElocDE1VF81ZENpYkVzWWU",
+      "source_url": "https://hk.stockstar.com",
       "source": "证券之星"
     },
     {
-      "title": "小摩：投资者关注防守股 看好香港中华煤气、昆仑能源及新奥能源股息回报良好",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVUxqcFhpcjB5dmdXNUY1cEY1em8tSEtlSm5BY1ZQZFhhUFZvM0UybXFiSHpuZ2o5XzNpX3FSeWpDMy1KTzJYc1I",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "兆威机电(02692)A股股票交易异常波动 不存在应披露而未披露的事项-证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jZllVRVdILXhLc3Y0d1RNdlh2MlBWM0FTT3BiWHNBc3lYemFTQ0piUGY3blJlZVVrODdkSGNnT3pvSVAtSmFJWTd",
+      "source_url": "https://hk.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "快讯：指数午后震荡调整 证券板块震荡下挫",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbjhqZXlGMDQyc29lVmExemx2ZXFoYl9SNkpTR0pHZGVoVEJNRzJ4a1o2MGs0LXh1Rk40Vm5pdkhvUnBER0RqSzB",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "一张表看懂！华尔街“彻底信了”：美联储本周加息",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwcWs3b3ppTWlqZWdHRDRMbkJUeEtkeTN1bXFuLVhLMjY1MUxwdE9RWkJiWGE3bk5QWHVRZkE0UVNoUFlUZERhRw?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "股市震荡，债市独立走牛，配置机会几何？",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90Qi05cWpzUnNHS1N3a3prRHFMTklYZ0d2UkN6ZlVpaERNNzNmejFIeG9TUkZkeWgtcEhoaUExOUZFX01aNTk5SGc",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "股市午报：A股震荡走低，创业板指跌超1%！ 宁德时代大跌10%",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ka05aRWhLMzBGMlE3Z0U3RjJuWlVjaGxtZFpiMzJOdlZJdTZXZlZxVTM1UjF0a0RJWURlN3llYi1DUS1nOEFCNUF",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "紧急救市！最新宣布：下调！这国央行，突然出手",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CMW1RUVE3NWNzem5WX3h4X3pRWU5hUjg3NkhSd0p1ek1ncW5BTHFGVW9nS3VGeVhEanlJVTVjN19ORURQR3B6aVQ",
+      "source_url": "https://www.stcn.com",
+      "source": "证券时报"
     }
   ]
 }
