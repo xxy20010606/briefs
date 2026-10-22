@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 49,
+    "raw_dedup_junk": 50,
     "trusted": 16,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "sina.cn": 4,
-      "zhiding.cn": 2,
-      "blockweeks.com": 2,
-      "unite.ai": 2,
-      "fjdaily.com": 1,
-      "tianjinwe.com": 1,
-      "prnasia.com": 1,
-      "xhby.net": 1,
-      "bjd.com.cn": 1
+      "sina.com.cn": 13,
+      "china.com": 3,
+      "stockstar.com": 2,
+      "sina.cn": 2,
+      "icloudnews.net": 1,
+      "guan.media": 1,
+      "lmtw.com": 1,
+      "wenxuecity.com": 1,
+      "caacnews.com.cn": 1,
+      "ofweek.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 4,
-    "relaxed_72h": 9,
+    "fresh1_24h": 14,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "OpenAI前沿模型及Codex将登陆谷歌云 云厂商正成AI模型核心分销渠道",
-      "d": "cls.cn"
-    },
-    {
-      "t": "财联社早知道",
-      "d": "cls.cn"
-    },
-    {
-      "t": "沃尔玛推AI代理购物Agent Gateway，支持ChatGPT等应用，11月",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "刚刚，黄仁勋柏林震撼演讲，PC已死，AI智能体时代全面爆发",
-      "d": "36kr.com"
-    },
-    {
-      "t": "国内首个通过国家备案的渔业大模型将正式对外发布",
+      "t": "喜讯！顺势智能教育集团荣膺“2026年度山东省中小企业创新研发中心”认定",
       "d": "sohu.com"
     },
     {
-      "t": "DeepSeek与OpenAI以相反路径入局具身智能，物理交互成本成关键约束",
-      "d": "huxiu.com"
+      "t": "松鼠Ai文青松受邀IEEE SWC 2026发表主旨演讲，探索智能体AI导师规模",
+      "d": "sohu.com"
     },
     {
-      "t": "华数传媒：应用于人工智能模型训练以及服务视听、旅游等应用场景，赋能文广旅行业高质",
-      "d": "eastmoney.com"
+      "t": "“DeepSeek才是真正的OpenAI”",
+      "d": "guancha.cn"
+    },
+    {
+      "t": "大模型厂商，为什么决定不了自己在具身智能的位置？-36氪",
+      "d": "36kr.com"
+    },
+    {
+      "t": "又一巨头进军个人AI助手：Anthropic发布Claude Duet",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "微软员工数十年来首次下降；沃尔玛/山姆推出Agent 购物接口；推动 Space",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "Anthropic推出Claude Duet AI智能体：24小时为你在线打工",
+      "d": "ifeng.com"
     }
   ]
 }

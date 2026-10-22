@@ -1,54 +1,53 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 28,
-    "trusted": 9,
+    "raw_dedup_junk": 26,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.com.cn": 5,
-      "unite.ai": 3,
-      "zhiding.cn": 3,
-      "sina.cn": 2,
+      "sina.cn": 6,
+      "sina.com.cn": 3,
+      "chinapress.com.my": 1,
+      "on.cc": 1,
+      "jimo.studio": 1,
       "blockchain.news": 1,
-      "tradingview.com": 1,
-      "moomoo.com": 1,
+      "unite.ai": 1,
       "oschina.net": 1,
-      "jfdaily.com.cn": 1,
-      "csdn.net": 1
+      "ichaoqi.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 3,
-    "relaxed_72h": 6,
+    "fresh1_24h": 10,
+    "page_fresh": 9,
+    "relaxed_72h": 1,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
-      "d": "cls.cn"
+      "t": "鸿蒙应用开发也有AI搭子？《HarmonyOS第一课》带你速通 DevEco C",
+      "d": "sohu.com"
     },
     {
       "t": "被AI接管的2026，工具越多越迷茫",
-      "d": "eet-china.com"
+      "d": "sohu.com"
     },
     {
-      "t": "商汤小浣熊9月网页访问量约1500万，AI办公排名提升但商业化仍待验证",
+      "t": "Anthropic推出Claude Duet AI，挑战Meta和OpenAI",
       "d": "huxiu.com"
     },
     {
-      "t": "2026年英语对话AI软件：良心工具，不用花钱也能练流利口语",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "亚马逊推出TorchNeuron工具，向英伟达发起新一轮挑战",
+      "t": "对话朱啸虎：不明白Personal Agent能干嘛；5亿ARR 的中国应用将批",
       "d": "sohu.com"
     },
     {
-      "t": "RapidCanvas完成2900万美元融资，助力企业定制AI应用",
-      "d": "sohu.com"
+      "t": "又一巨头进军个人AI助手：Anthropic发布Claude Duet",
+      "d": "thepaper.cn"
     },
     {
-      "t": "字节最赚钱的AI，竟然不是豆包？",
-      "d": "163.com"
+      "t": "齐俊元Today AI七个月融资超2亿美元，Personal Agent赛道进入",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "周小川：有必要储备好政策工具以应对AI投资风险",
+      "d": "yicai.com"
     }
   ]
 }

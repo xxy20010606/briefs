@@ -1,40 +1,43 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 25,
-    "trusted": 8,
+    "raw_dedup_junk": 43,
+    "trusted": 9,
     "non_trusted_top": {
-      "moomoo.com": 7,
-      "stockstar.com": 2,
-      "futunn.com": 2,
-      "sina.cn": 1,
-      "sina.com.cn": 1,
-      "tradingview.com": 1,
-      "jin10.com": 1,
-      "tmgm.com": 1,
-      "weeklyonstock.com": 1
+      "sina.com.cn": 16,
+      "moomoo.com": 6,
+      "stockstar.com": 4,
+      "sina.cn": 3,
+      "kuai.media": 2,
+      "futunn.com": 1,
+      "odaily.news": 1,
+      "hstong.com": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 1,
-    "relaxed_72h": 3,
-    "final": 4,
+    "fresh1_24h": 9,
+    "page_fresh": 5,
+    "relaxed_72h": 0,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "美股全线上涨，META盘后一度涨逾6%",
-      "d": "eastmoney.com"
+      "t": "杉杉股份拟向海螺集团不超40亿定增7月易主安徽国资委_证券要闻",
+      "d": "cnfol.com"
     },
     {
-      "t": "紧急救市！最新宣布：下调！这国央行，突然出手",
-      "d": "stcn.com"
+      "t": "异动速递丨日韩股市集体收跌",
+      "d": "21jingji.com"
     },
     {
-      "t": "周期切换下，成长何时迎来反弹？拐点条件研判与过渡期资产配置策略 | 全球洞察",
+      "t": "中金：如何对冲AI风险？",
+      "d": "wallstreetcn.com"
+    },
+    {
+      "t": "阿里巴巴失守100港元关口，盘中跌近6%",
       "d": "sohu.com"
     },
     {
-      "t": "深夜，美股太空概念股“起飞”",
+      "t": "美股全线上涨，META盘后一度涨逾6%",
       "d": "eastmoney.com"
     }
   ]

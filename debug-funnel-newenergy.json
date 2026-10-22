@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 38,
-    "trusted": 11,
+    "raw_dedup_junk": 37,
+    "trusted": 7,
     "non_trusted_top": {
-      "autohome.com.cn": 6,
+      "autohome.com.cn": 5,
+      "in-en.com": 4,
       "sina.com.cn": 4,
-      "gessey.com": 3,
+      "ne21.com": 2,
+      "solarzoom.com": 2,
       "sina.cn": 2,
-      "stockstar.com": 2,
-      "sh.gov.cn": 1,
-      "ne21.com": 1,
-      "yeeyi.com": 1,
-      "guandian.cn": 1,
-      "capwhale.com": 1
+      "wenxuan.news": 1,
+      "seetao.com": 1,
+      "paultan.org": 1,
+      "china.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 4,
-    "relaxed_72h": 7,
+    "fresh1_24h": 7,
+    "page_fresh": 7,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "宁德时代换电生态加速“扩圈”",
-      "d": "10jqka.com.cn"
+      "t": "“十五五”开局锚定提质升级 风电行业转向可靠替代与系统协同",
+      "d": "sohu.com"
     },
     {
-      "t": "占地1.5个曼哈顿、投资60亿美金，拆解光伏+储能到底如何给AIDC供电？",
-      "d": "36kr.com"
+      "t": "实力持续获认可｜东方日升多点落地，光储产品项目接连开花",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "华能山东分公司所属光伏电站配建储能项目工程总承包（EPC）招标公告发布",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "内蒙古华电达茂旗首期100万千瓦风光制氢项目高压级联磷酸铁锂电化学储能设备采购招",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "宁德时代换电生态加速“扩圈”",
+      "d": "10jqka.com.cn"
     },
     {
       "t": "晶科能源钱晶：以光伏、储能、AI为“三驾马车”，企业拐点或在2028年到来",
       "d": "eastmoney.com"
     },
     {
-      "t": "特斯拉吹Roadster快充，比亚迪：这有什么好吹的？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "“浙里共赢” 搭台 助浙江储能产业链接全球市场",
-      "d": "sohu.com"
-    },
-    {
-      "t": "【网通社快报】国家标准〈电动汽车动力蓄电池在役检测试验方法〉发布，2027年3月",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "工信部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—203",
-      "d": "163.com"
+      "t": "浅水退潮，深水上涨：2026 年中国储能的五种水位",
+      "d": "solarbe.com"
     }
   ]
 }

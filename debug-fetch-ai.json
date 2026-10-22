@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 49,
+  "total": 50,
   "samples": [
     {
-      "title": "全球大模型调用榜单中国占前六，AI成中国经济新引擎，胡麒牧：研发和人才是竞争力的来源",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcG9IZ1hydFMxcDlpOXpjd1dXS1dVNnd0OENmeUFXbXBfeU9GRV9oNUtQVU50NGxOdlJFbDdhSk9zZ2VxREpndjV",
-      "source_url": "https://t.cj.sina.cn",
-      "source": "新浪网"
+      "title": "喜讯！顺势智能教育集团荣膺“2026年度山东省中小企业创新研发中心”认定",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0NMdFpqUkZ2OTM0Yi1hcG5nUE41bDk4Z1JULWp2YjFsdHAxdWhOUWU3Z05zODYwMW0yczU0bUF5YmdCcER4T3N",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
     },
     {
-      "title": "全国首个聚焦两岸文化融合垂直大模型“同源观澜”发布",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YVUg0MFdmc1dmQVdYcWZLVFgzRGNKUWFYX0JlQVZqY1Z0VGNOXzJNOGkyS1RZZG5rang0UTZGQ3pyelROLUo0dHB",
-      "source_url": "https://fjrb.fjdaily.com",
-      "source": "fjrb.fjdaily.com"
+      "title": "科大讯飞首发全模态类人交互座舱，智能座舱迈向类人交互新阶段",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nYTFmdzkxamdCNmZyMFBTOGtfakdfc2dQME80bk4ydW02VVlaWGZwWXctRElJcU41dWFtMjAtdkwyT054TG5NOHc",
+      "source_url": "https://www.icloudnews.net",
+      "source": "人工智能"
     },
     {
-      "title": "国内首部AI 电影将登银幕",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa3dhdTZfcy1XZWhacS12d05oZjRURlgxbnJUeFRIbGEwVWlCalpTM1pvRlNyemhFUXAwUjFmMW9TZElOQklWY25",
-      "source_url": "https://epaper.tianjinwe.com",
-      "source": "天津日报"
+      "title": "上半年AI股权投资达3077亿元，行业下一轮突破在哪里？",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbzNybDFFMk9ObkRqWHZOUmdac0Q1Um9UTHREZWpsbHNnRTFGclZnX254TGd6ZTNzbWVtMUlNQ2dQTE92a1lsOHk",
+      "source_url": "https://m.21jingji.com",
+      "source": "21财经"
     },
     {
-      "title": "央视专题片聚焦贵安新区",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1COFpYbVJEVzAwbTFrQkNLNng3cXN0d2ZKTjJtZjFSYWxwQW15WWNJbnc3NnpteXRRaWwxdDZ4cmJoLTVfRGlyV1E",
+      "title": "中交信科参与承办的第二届综合交通运输大模型智能体创新应用大赛收官并斩获多项奖项",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzdnJUUWRnWXJneWl4RUdiYmpRamdjLVo5cGlCV0pPS0JDV2tSNjlueF9GN1g3Xy01VkFzZ2o1VFp3SFZDNXVMcDF",
+      "source_url": "https://tech.china.com",
+      "source": "中华网"
+    },
+    {
+      "title": "松鼠Ai文青松受邀IEEE SWC 2026发表主旨演讲，探索智能体AI导师规模化教育新路",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWg1dDZNeUV4cTJoTXdFSkZqcWtnNjlDTDlGT3hpbFBuWUNRSWNBRzFKRWVoVVg0RDBtQWp6OHE0MGplaXNBamV",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
+    },
+    {
+      "title": "“会聚香港”微信小程序重磅升级 AI助手重构MICE数智化定制体验",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2p3ci1CRVhsY3pNbHl1dkFmWXpSNE4yRTBnLVdNbm1hazVNOGlqU0J6bWxYaFhIWDVVLVd1TnFBUVpHYVFFSE8",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
-    },
-    {
-      "title": "一张加速卡背后的国产算力突围战！如何用科创创业人工智能ETF景顺(159142)“一键打包”国产芯片",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWGU2RmR6NmxqcDZ5MFJyNzA3eHN2VWg2OWNXSzN0UGhHdG5zbVA2QVlrV0xMSU5nNzRnRFo5OWZocll4R283cG1",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "OpenAI再次叫停前沿模型开发 AI+网络安全成国家级战略重点方向",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XcEhsbEZkZ1NUNUVOT0FvUzRfSTlpSjE3Z3BtQms1c3VKeGpIdU9BTFM1LXNvUkdyT3ZFeE9DVG05Rlg5c2tyRA?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
     }
   ]
 }

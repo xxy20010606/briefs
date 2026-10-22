@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 48,
-    "trusted": 20,
+    "raw_dedup_junk": 49,
+    "trusted": 22,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "sina.cn": 4,
+      "sina.com.cn": 7,
+      "indexbox.io": 3,
       "stockstar.com": 2,
       "chosun.com": 2,
-      "indexbox.io": 2,
-      "mydrivers.com": 2,
-      "newspim.com": 1,
-      "worldjournal.com": 1,
-      "mezha.net": 1,
-      "molihua.org": 1
+      "or100.cc": 2,
+      "chnfund.com": 1,
+      "investing.com": 1,
+      "china.com": 1,
+      "ajudaily.com": 1,
+      "news18a.com": 1
     },
-    "fresh1_24h": 18,
-    "page_fresh": 8,
-    "relaxed_72h": 8,
+    "fresh1_24h": 22,
+    "page_fresh": 18,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "【开源】2026湾芯展集中首发新技术新生态，北证半导体设备标的迎机遇——北交所行",
-      "d": "sohu.com"
+      "t": "国产分选新突破｜中科光智高速多功能分选机ND5000-M 正式推向市场",
+      "d": "iccsz.com"
     },
     {
-      "t": "英伟达实质收购Groq后首度出手！下一代AI芯片架构大转向 弃SRAM改采3D堆",
-      "d": "laoyaoba.com"
-    },
-    {
-      "t": "一块磷矿石的“芯片级”蜕变——兴福电子探路半导体材料高端化、平台化、国际化",
-      "d": "sohu.com"
-    },
-    {
-      "t": "同比增长2642.24% ！磷化铟龙头利收双增！",
+      "t": "芯片市场，“金九银十”真来了吗？",
       "d": "eet-china.com"
     },
     {
-      "t": "演讲报告征集！【空白掩模与合成石英材料技术论坛2026】将于12月3-4日在苏州",
+      "t": "韶光芯材 10 亿光掩模基板基地进入试生产阶段",
       "d": "eet-china.com"
     },
     {
-      "t": "从存储到算力 精智达拓展半导体测试业务版图",
-      "d": "xinhuanet.com"
+      "t": "芯片巨头全球裁员！",
+      "d": "sohu.com"
     },
     {
-      "t": "日本想重振半导体，却被迫先掏钱帮美国建厂，“就当交税了”",
-      "d": "guancha.cn"
+      "t": "韩国央行：芯片热潮持续提振经济，芯片价格有望进一步增长",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "光芯片龙头源杰科技跌破千元 A股千元股仅剩两只",
+      "d": "sohu.com"
+    },
+    {
+      "t": "佰维存储持股公司在上海成立半导体公司",
+      "d": "10jqka.com.cn"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 25,
+  "total": 43,
   "samples": [
     {
-      "title": "操盘必读：影响股市利好或利空消息_2026年10月21日_财经新闻",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbXZUTmhva2VjT0ZVQnJUbUpmRHFSVFRYLVBTSE8zUG1CV19UY01sUHNmcTRkLTdSZHdVc2dGaWJweDZsaHhVaTl",
-      "source_url": "https://m.cj.sina.cn",
-      "source": "新浪网"
+      "title": "杉杉股份拟向海螺集团不超40亿定增7月易主安徽国资委_证券要闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13RTJKNzJXN1NXZmdBanZNOHU1Z1Z3STFvbkRmcFk5THZKZmV5Z0hoMk1ENHlYNUVYdk9oZ2E5WXBCUmVpcmZyRzh",
+      "source_url": "http://news.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "企业财报提振欧洲股市 家乐福因法国骚乱影响重挫",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZGZ2MlVJYUpTczYtU3lId1BZb0l4eTd6TWNKZkNMSEhORnBrNGp4XzBfc2VTc3JvMklSTFBKR09OSGFfNy12dXd",
+      "title": "亚太股市集体大跌，原因找到了",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BekVRY0I3X3V2YWQyczFXNzNHb0lJUzhyeXhwUTdDTVZoNzYzS2tlc0xjZjlTN1VsM0NkUmZsRXVkR3I4WlpTSkR",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "龙旗科技(09611)A股股票交易异常波动 不存在应披露而未披露的重大事项-证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZXy05cTd5R1BqTHdqcUNDemwtdlp4all3bnN3MENOM3hvYkNJMHUzZzQ0Si1RRWVNaElocDE1VF81ZENpYkVzWWU",
-      "source_url": "https://hk.stockstar.com",
-      "source": "证券之星"
+      "title": "异动速递丨日韩股市集体收跌",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS1FUX1FnRm9hV0R3aFF5OWpLTVprZXQyVHlWZW9JY05NWlcxNlJuOFE3NE5WUkJtUWljazl4V0xwZjl6QmxCWEN",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
     },
     {
-      "title": "兆威机电(02692)A股股票交易异常波动 不存在应披露而未披露的事项-证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jZllVRVdILXhLc3Y0d1RNdlh2MlBWM0FTT3BiWHNBc3lYemFTQ0piUGY3blJlZVVrODdkSGNnT3pvSVAtSmFJWTd",
-      "source_url": "https://hk.stockstar.com",
-      "source": "证券之星"
+      "title": "“易中天”暴跌，4000只股票待涨，中金支招对冲AI风险",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hTVE1c1lPYVJsVHRnSV8tNEZJZGpiMklFMVFnYXNKSHF1RUttV1ppWGRDeEZIOXJiSzFqR0FVT0FYNnpwM0ZDakN",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "一张表看懂！华尔街“彻底信了”：美联储本周加息",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwcWs3b3ppTWlqZWdHRDRMbkJUeEtkeTN1bXFuLVhLMjY1MUxwdE9RWkJiWGE3bk5QWHVRZkE0UVNoUFlUZERhRw?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "工行股价，再创历史新高",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xeHppN3M5UFF0ZDJ5WUZQdlJuS1lUUjBJdk5mN3Jqb01zbmNYamo2TDhyNDJWdWQ2MXlTOEVEbEtvSk1PelcxczN",
+      "source_url": "https://cj.sina.cn",
+      "source": "finance.sina.com.cn"
     },
     {
-      "title": "紧急救市！最新宣布：下调！这国央行，突然出手",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CMW1RUVE3NWNzem5WX3h4X3pRWU5hUjg3NkhSd0p1ek1ncW5BTHFGVW9nS3VGeVhEanlJVTVjN19ORURQR3B6aVQ",
-      "source_url": "https://www.stcn.com",
-      "source": "证券时报"
+      "title": "股市午报：A股超3900只个股飘绿，三大指数集体下跌，创业板指跌超2%",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wejVHRFRnWUJ4aWRWdlN6amRfcG9TbGNiOUVIRERMTTJHX2xkN3luTlByWGlva3FmWEdmc0R5NkVaMzl1NDJ4em0",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     }
   ]
 }

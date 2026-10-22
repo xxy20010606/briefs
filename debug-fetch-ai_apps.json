@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 28,
+  "total": 26,
   "samples": [
     {
-      "title": "五个新的Tezos dApp聚焦社区工具和创作者",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUi0zUU1PQzFuMjhaTy1HM2J6dHR3MXVoOC1tY2c2RGxnbHhKb0pucEFZQjBjSHJ0dGNrcjF0TlpPejNxcl9xYzB",
-      "source_url": "https://blockchain.news",
-      "source": "blockchain.news"
+      "title": "鸿蒙应用开发也有AI搭子？《HarmonyOS第一课》带你速通 DevEco Code & DevE",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaXJkcWdCanNIRU1IODZQTGVtVVdPOENoRks5Ykpzc0dGSll5bkIxcTFuUHJoZWo1aGhnUUdBWlN5Z3ZCWUJVOGt",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
     },
     {
-      "title": "以全国产AI赋能千行百业，科大讯飞1024开发者节北京科博展即将启幕",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91eFNkdDF1bkFQOHRpTjBXY0IyTzVPbjRaUVNnQV9PQzYzakJiUVBQeXc0SHJhR0hKZnNKOXA2ZFJTWWtKVU5uSGI",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "威省市厅积极推动AI 报告处理时间 从2天缩至5分锺",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOUEpoRFdobHRzMWRTOWl0WXkxOFA3YkFralVTWXlKeUF5YlFuV0VBV3RFczJJN0ZXWERWdVVaV1ZpMkpJUGg5cmd",
+      "source_url": "https://penang.chinapress.com.my",
+      "source": "China Press"
     },
     {
-      "title": "勒索通知竟通过你自己的应用发来",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFSTZLLVNQUFozdW0yN2tac3BLTXBNWUZ2TGtKc2dVRFpJXzF0aXNwRG14VXRvU2RsWnZHcV9xNWxZa21mX1BIRTR",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "黄仁勋柏林 GTC 直言：AI 不会取代软件，工具产业迎来智能体时代",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aYmpTZ0lUdHdVUkJDaWRaSzZYS2YwSjVDQXNsVUlKdFBoYzFLZ2hwTjlGbk01N2RjbG5yVExQLVZSbFlEdlBfR2N",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "Oracle推出用于构建行业专属AI智能体的低代码工作室",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFVGSDd1ZGRlNUFkcXN4Mi13cUxMTlRUT0kxSlJMZEhQQmdPeEZHaHJrSEpLV0FzNy14M0UzTV9sa2RVcG50OW5",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "被AI接管的2026，工具越多越迷茫",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUC1Ob09jYVBrYVZnWDhBYTlrbHNSOURVN2ZTMU5ZQUFpeVNCdmNyY3lSVUhaMlJxcTlqenV3d0pSdXVPT3hTaGJ",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
     },
     {
-      "title": "AI如何深度赋能财富管理？这家头部券商交出了最新答卷",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUWFFQMEk4cENYMjg5YXRPWUJ0cEZxYlZoNy1zLWdCZjRhalJ4Y2RXVVFDbF8xa2NNZ2pCalJDUk1OM3B3OGd5RUJ",
-      "source_url": "https://news.sina.com.cn",
-      "source": "新浪新闻"
+      "title": "跨境支付数据，开始接入AI智能体",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iZGdDeFdFMENzVGpwZ2FrS0NOQzJJTlM2RF9jN041RzFWaHM4c3NZaDBZbWg5U0tVWFdrdDNoSXlubmg5UWhxNHM",
+      "source_url": "https://t.cj.sina.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85R0xHVkx4c0RVZld6bUNaSVZhMncxSFpubFVjdnRfWkhZVHVxanhPTm9sbm14RFU4blpONy1nUTFGQkhVTk5ydA?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "AMD推出智能体AI助手Ross，加速嵌入式系统开发全流程|FPGA|SoC|PCB|开发工具|Ag",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVGpwc3RienZrVmlfU1JwdEVFVDdGZUtycXhwSGZKUDRvWWo1aDRROGcyR1RPeHQtMVI2U01OajFsQWktNEpyVDN",
+      "source_url": "https://finance.sina.cn",
+      "source": "finance.sina.com.cn"
     }
   ]
 }
