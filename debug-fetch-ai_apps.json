@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 26,
+  "total": 48,
   "samples": [
     {
-      "title": "鸿蒙应用开发也有AI搭子？《HarmonyOS第一课》带你速通 DevEco Code & DevE",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaXJkcWdCanNIRU1IODZQTGVtVVdPOENoRks5Ykpzc0dGSll5bkIxcTFuUHJoZWo1aGhnUUdBWlN5Z3ZCWUJVOGt",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "title": "微软计划借助AI让原生WinUI应用开发变得更简单- Windows 11",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ycTZ4S1BxUGJ2QV9qa2NIcC1WMFl1QmIyczNEZjZvX0hGT3hVSTB0bDZLVzJmTVBLT2FzRnVQQU02WWkwdmx2X3o",
+      "source_url": "https://www.cnbeta.com.tw",
+      "source": "cnBeta.COM"
     },
     {
-      "title": "威省市厅积极推动AI 报告处理时间 从2天缩至5分锺",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOUEpoRFdobHRzMWRTOWl0WXkxOFA3YkFralVTWXlKeUF5YlFuV0VBV3RFczJJN0ZXWERWdVVaV1ZpMkpJUGg5cmd",
-      "source_url": "https://penang.chinapress.com.my",
-      "source": "China Press"
-    },
-    {
-      "title": "黄仁勋柏林 GTC 直言：AI 不会取代软件，工具产业迎来智能体时代",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aYmpTZ0lUdHdVUkJDaWRaSzZYS2YwSjVDQXNsVUlKdFBoYzFLZ2hwTjlGbk01N2RjbG5yVExQLVZSbFlEdlBfR2N",
+      "title": "AI走进个人财务：从信息工具到决策伙伴",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UTWxoTFNZc04xT1JuQkJQNXpuZGQwdXpDRExMSUdoTEk5czI3UlgyRVhaNDVaVFNJal80aDBsN29VSXRweFJTaWN",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "被AI接管的2026，工具越多越迷茫",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUC1Ob09jYVBrYVZnWDhBYTlrbHNSOURVN2ZTMU5ZQUFpeVNCdmNyY3lSVUhaMlJxcTlqenV3d0pSdXVPT3hTaGJ",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "title": "微软低调测试全新AI记忆工具Pantheon Windows 11迎来非截屏版Recall",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FUGZjaFBMOXZLVmk3V3ZPVE5LTGFWUThMYlNOeGRUdXFCTTNtOE1uSjczYlhjcnJqVjN3SzJRZXlaVkpiWk5PT0Z",
+      "source_url": "https://www.cnbeta.com.tw",
+      "source": "cnBeta.COM"
     },
     {
-      "title": "跨境支付数据，开始接入AI智能体",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iZGdDeFdFMENzVGpwZ2FrS0NOQzJJTlM2RF9jN041RzFWaHM4c3NZaDBZbWg5U0tVWFdrdDNoSXlubmg5UWhxNHM",
-      "source_url": "https://t.cj.sina.cn",
-      "source": "手机新浪网"
+      "title": "The Browser Company 将停止维护 Arc，转而专注于 Dia",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOFQ3QlJRV1gxMGNjdjZGa0YyTDZfZ3REM1M3UGFiVDVlZXM1STRpUTc5ZVZDZi00Rlg3OHg5ZG94bjh4TEhDRm0",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "AMD推出智能体AI助手Ross，加速嵌入式系统开发全流程|FPGA|SoC|PCB|开发工具|Ag",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVGpwc3RienZrVmlfU1JwdEVFVDdGZUtycXhwSGZKUDRvWWo1aDRROGcyR1RPeHQtMVI2U01OajFsQWktNEpyVDN",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
+      "title": "ARTEX AI 现身针对日本企业的攻击,GMO 证实约 20 家企业成目标",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVTh6UjFDMWpUNWFaZG1yaXZCM01NSXlJVXFGSnBIdVNCeC1IX2ZnOFFNWGVTU19ocWZ2Q25feEZfVDN6RjZ3ZDB",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
+    },
+    {
+      "title": "Agentic AI Foundation 首年新增四个项目，托管项目总数达到 10 个",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUW05Yk5MNjFpOHh1VFpGRU1EbC1fT3BiVHlWNFF1V0c2RkRSTkY0RTdnNEhTek9JclY2QTdKamdwRlBIdmZiSzJ",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     }
   ]
 }

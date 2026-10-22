@@ -1,53 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 26,
-    "trusted": 10,
+    "raw_dedup_junk": 48,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.cn": 6,
-      "sina.com.cn": 3,
-      "chinapress.com.my": 1,
-      "on.cc": 1,
-      "jimo.studio": 1,
-      "blockchain.news": 1,
-      "unite.ai": 1,
-      "oschina.net": 1,
-      "ichaoqi.com": 1
+      "sina.com.cn": 4,
+      "unite.ai": 4,
+      "pasqualepillitteri.it": 3,
+      "cnbeta.com.tw": 2,
+      "on.cc": 2,
+      "ikanchai.com": 2,
+      "stockstar.com": 2,
+      "zhiding.cn": 2,
+      "sina.cn": 2,
+      "blockchain.news": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 9,
-    "relaxed_72h": 1,
+    "fresh1_24h": 13,
+    "page_fresh": 5,
+    "relaxed_72h": 9,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "鸿蒙应用开发也有AI搭子？《HarmonyOS第一课》带你速通 DevEco C",
+      "t": "从数据中心缺电到AI法律工具：10个新生意来了-36氪",
+      "d": "36kr.com"
+    },
+    {
+      "t": "Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺",
+      "d": "geekpark.net"
+    },
+    {
+      "t": "资本开抢AI 3D，「御三家」半年吸纳超80亿元-36氪",
+      "d": "36kr.com"
+    },
+    {
+      "t": "企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "落地一年，广东这个“AI车间”，正在悄悄改变你我看病的方式",
       "d": "sohu.com"
     },
     {
-      "t": "被AI接管的2026，工具越多越迷茫",
-      "d": "sohu.com"
+      "t": "科技企业“加盟”沪上咖啡节 AI生产力工具拥抱实体小微业态",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "Anthropic推出Claude Duet AI，挑战Meta和OpenAI",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "对话朱啸虎：不明白Personal Agent能干嘛；5亿ARR 的中国应用将批",
-      "d": "sohu.com"
-    },
-    {
-      "t": "又一巨头进军个人AI助手：Anthropic发布Claude Duet",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "齐俊元Today AI七个月融资超2亿美元，Personal Agent赛道进入",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "周小川：有必要储备好政策工具以应对AI投资风险",
-      "d": "yicai.com"
+      "t": "AI登上双11货架，大模型开始按“件”卖",
+      "d": "bjnews.com.cn"
     }
   ]
 }

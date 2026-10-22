@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 16,
+    "raw_dedup_junk": 54,
+    "trusted": 21,
     "non_trusted_top": {
-      "sina.com.cn": 13,
-      "china.com": 3,
-      "stockstar.com": 2,
+      "sina.com.cn": 10,
       "sina.cn": 2,
-      "icloudnews.net": 1,
-      "guan.media": 1,
-      "lmtw.com": 1,
-      "wenxuecity.com": 1,
-      "caacnews.com.cn": 1,
-      "ofweek.com": 1
+      "stockstar.com": 2,
+      "ac.cn": 2,
+      "zhiding.cn": 2,
+      "cbndata.com": 1,
+      "scol.com.cn": 1,
+      "leikeji.com": 1,
+      "yzwb.net": 1,
+      "jschina.com.cn": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 12,
-    "relaxed_72h": 0,
+    "fresh1_24h": 17,
+    "page_fresh": 6,
+    "relaxed_72h": 12,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "喜讯！顺势智能教育集团荣膺“2026年度山东省中小企业创新研发中心”认定",
+      "t": "工业大模型牵手精密制造，深圳搭建产业协同新平台",
       "d": "sohu.com"
     },
     {
-      "t": "松鼠Ai文青松受邀IEEE SWC 2026发表主旨演讲，探索智能体AI导师规模",
+      "t": "AI并非替代者，而是自我的延伸",
       "d": "sohu.com"
     },
     {
-      "t": "“DeepSeek才是真正的OpenAI”",
-      "d": "guancha.cn"
+      "t": "具身智能最好变现机会：全力卖给大模型公司！",
+      "d": "eet-china.com"
     },
     {
-      "t": "大模型厂商，为什么决定不了自己在具身智能的位置？-36氪",
+      "t": "600亿元国家AI基金投向了谁-36氪",
       "d": "36kr.com"
     },
     {
-      "t": "又一巨头进军个人AI助手：Anthropic发布Claude Duet",
-      "d": "thepaper.cn"
+      "t": "科大讯飞发布新一代国产大模型，刘庆峰最新发声",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "微软员工数十年来首次下降；沃尔玛/山姆推出Agent 购物接口；推动 Space",
-      "d": "geekpark.net"
+      "t": "OpenAI前沿模型及Codex将登陆谷歌云 云厂商正成AI模型核心分销渠道",
+      "d": "cls.cn"
     },
     {
-      "t": "Anthropic推出Claude Duet AI智能体：24小时为你在线打工",
-      "d": "ifeng.com"
+      "t": "中国工程院院士邓中翰：将CPU所承载的规则约束嵌入大模型底层，可减少AI幻觉",
+      "d": "nbd.com.cn"
     }
   ]
 }

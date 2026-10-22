@@ -1,44 +1,49 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 9,
+    "raw_dedup_junk": 35,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.com.cn": 16,
-      "moomoo.com": 6,
-      "stockstar.com": 4,
-      "sina.cn": 3,
-      "kuai.media": 2,
-      "futunn.com": 1,
-      "odaily.news": 1,
-      "hstong.com": 1
+      "sina.com.cn": 7,
+      "moomoo.com": 7,
+      "futunn.com": 4,
+      "china.com": 2,
+      "fx168news.com": 1,
+      "jin10.com": 1,
+      "stockstar.com": 1,
+      "sina.cn": 1,
+      "eastmoney.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 5,
-    "relaxed_72h": 0,
-    "final": 5,
+    "fresh1_24h": 6,
+    "page_fresh": 0,
+    "relaxed_72h": 6,
+    "final": 6,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "杉杉股份拟向海螺集团不超40亿定增7月易主安徽国资委_证券要闻",
+      "t": "江波龙募68亿港元H股新低收盘为易方达A股定增价22%_证券要闻",
       "d": "cnfol.com"
     },
     {
-      "t": "异动速递丨日韩股市集体收跌",
-      "d": "21jingji.com"
+      "t": "破发股*ST卓然跌停 A股共募13亿IPO国投证券保荐_证券要闻",
+      "d": "cnfol.com"
     },
     {
-      "t": "中金：如何对冲AI风险？",
+      "t": "破发股ST瀚川跌6.96% 2019上市2募资16.5亿国投证券保荐_证券要闻",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "又“崩”了！国际金价失守4100美元大关",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "高利率压垮美国楼市：销售暴跌、开工下滑，华尔街却浑然不觉",
       "d": "wallstreetcn.com"
     },
     {
-      "t": "阿里巴巴失守100港元关口，盘中跌近6%",
-      "d": "sohu.com"
-    },
-    {
-      "t": "美股全线上涨，META盘后一度涨逾6%",
-      "d": "eastmoney.com"
+      "t": "野村警告：当前AI信用风险与互联网泡沫、雷曼危机前惊人相似，一切都取决于油价",
+      "d": "wallstreetcn.com"
     }
   ]
 }

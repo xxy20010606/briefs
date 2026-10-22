@@ -1,40 +1,40 @@
 {
   "type": "finance",
-  "total": 43,
+  "total": 35,
   "samples": [
     {
-      "title": "杉杉股份拟向海螺集团不超40亿定增7月易主安徽国资委_证券要闻",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13RTJKNzJXN1NXZmdBanZNOHU1Z1Z3STFvbkRmcFk5THZKZmV5Z0hoMk1ENHlYNUVYdk9oZ2E5WXBCUmVpcmZyRzh",
+      "title": "四大证券报头版头条内容精华摘要_2026年10月23日_财经新闻",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHVoVEp4NFFxdTZnQ08tdXZPbnRndVZWRVJSN2hLOEpPZ25lcDZLSWVuZ0c2VjhzczdjalFOYzJTZEhEcm5QTm1",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "机构称A股配置性价比不断提升",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kWjl6Rjd3OUNYNks2X2NscmJram04YUoyOUl2VVp1dkxQX3daTnhORUw0T2kyYThjbFZjV19KQ3ZWbnJEelZ2ZVl",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "小美讲财经 | 可转债回撤为何能修复？资产底层属性与历史复盘",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRG9XODY0NnZYZlFtRGNHVkNNNlVkQ0oxbTRFVGcwN1lPcnkwYmRQcU9Od0tSMzBTanRnMGlnMXFlMDhLU2theEh",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "高盛警告“逼空风险”：对冲基金股票空头押注升至近五年高位，科技股成关键战场",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdzRZRllkWnRReTRPdFlxd1BmRUJ2R3FadW5XOTZldTIzaVc1dzJ4ajdhWEY3MURDNDNYay1UMk9vMmpjY1FPd3J",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "江波龙募68亿港元H股新低收盘为易方达A股定增价22%_证券要闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sWXBSeXE4c1lwNEt0aUlodHV1YU9nNG9SME84a082Z0FLaXhydTZvMll5V09lQVZzU0hqNWNZSUQtd1dSVlhNcEl",
       "source_url": "http://news.cnfol.com",
       "source": "中金在线"
     },
     {
-      "title": "亚太股市集体大跌，原因找到了",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BekVRY0I3X3V2YWQyczFXNzNHb0lJUzhyeXhwUTdDTVZoNzYzS2tlc0xjZjlTN1VsM0NkUmZsRXVkR3I4WlpTSkR",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "异动速递丨日韩股市集体收跌",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS1FUX1FnRm9hV0R3aFF5OWpLTVprZXQyVHlWZW9JY05NWlcxNlJuOFE3NE5WUkJtUWljazl4V0xwZjl6QmxCWEN",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
-    },
-    {
-      "title": "“易中天”暴跌，4000只股票待涨，中金支招对冲AI风险",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hTVE1c1lPYVJsVHRnSV8tNEZJZGpiMklFMVFnYXNKSHF1RUttV1ppWGRDeEZIOXJiSzFqR0FVT0FYNnpwM0ZDakN",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "工行股价，再创历史新高",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xeHppN3M5UFF0ZDJ5WUZQdlJuS1lUUjBJdk5mN3Jqb01zbmNYamo2TDhyNDJWdWQ2MXlTOEVEbEtvSk1PelcxczN",
-      "source_url": "https://cj.sina.cn",
-      "source": "finance.sina.com.cn"
-    },
-    {
-      "title": "股市午报：A股超3900只个股飘绿，三大指数集体下跌，创业板指跌超2%",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wejVHRFRnWUJ4aWRWdlN6amRfcG9TbGNiOUVIRERMTTJHX2xkN3luTlByWGlva3FmWEdmc0R5NkVaMzl1NDJ4em0",
+      "title": "突发三大利空！亚太股市全线暴跌，A股失守3700点，美股盘前大跳水",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XdGZlMkdsQWNaci1OOVhudVRMT0VGaVZYbFhXSklfYXVRUzV5RV9OWE11WFhiOThrakJTaEZvWDl3WjZlMGRJSWh",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     }

@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 12,
+    "raw_dedup_junk": 62,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.cn": 12,
+      "sina.cn": 10,
+      "sina.com.cn": 6,
       "rediandf.com": 5,
-      "china.com": 4,
-      "ctdsb.net": 2,
-      "cztv.com": 2,
-      "co.nz": 1,
-      "wenxuecity.com": 1,
-      "starnewskorea.com": 1,
-      "mk.co.kr": 1,
-      "csdn.net": 1
+      "starnewskorea.com": 2,
+      "china.com": 2,
+      "yzwb.net": 2,
+      "vietnam.vn": 1,
+      "yxrb.net": 1,
+      "smarthey.com": 1,
+      "scol.com.cn": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 12,
-    "relaxed_72h": 0,
+    "fresh1_24h": 13,
+    "page_fresh": 2,
+    "relaxed_72h": 12,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "《鬼灭之刃：无限城篇第二章》动画电影或定档2027年9月15日，票房7.93亿美",
+      "t": "致敬长征路上的无名英雄",
       "d": "sohu.com"
     },
     {
-      "t": "火爆新游与千帧电竞齐登场！| AMD核聚变2026北京站展区介绍",
-      "d": "gcores.com"
+      "t": "首届阿曼中国电影周在马斯喀特开幕",
+      "d": "gmw.cn"
     },
     {
-      "t": "2026电竞显示器品牌排行榜揭秘高端技术博弈",
+      "t": "2026北京亦庄·未来游戏电竞科技大会成功举办",
       "d": "sohu.com"
     },
     {
-      "t": "首部亚洲象主题IMAX原创纪录电影《象行记》全国首映礼在北京举办",
-      "d": "ifeng.com"
+      "t": "赛事终章的欢呼声漫过羊城，中国的《荒野乱斗》电竞才刚刚开始\"/> 主站 商城 论",
+      "d": "163.com"
     },
     {
-      "t": "从春晚爆款IP到剧场力作 原创舞剧《锦鲤》即将首演",
-      "d": "chinanews.com.cn"
+      "t": "国产原创动画电影《落凡尘》重映定档10月24日",
+      "d": "cri.cn"
     },
     {
-      "t": "浙江体彩解锁“电影+体育+体彩”融合新玩法",
-      "d": "cnr.cn"
+      "t": "“手握10篇SCI”的医学生节目上盲猜病情引争议，人民日报：临床不是秀场，医学容",
+      "d": "163.com"
     },
     {
-      "t": "首部亚洲象主题IMAX原创纪录电影《象行记》全国首映礼在北京举办--国际",
-      "d": "people.com.cn"
+      "t": "AI +实拍量产前夜，制片人怎么重算这套降本账？",
+      "d": "huxiu.com"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 37,
-    "trusted": 7,
+    "raw_dedup_junk": 53,
+    "trusted": 13,
     "non_trusted_top": {
-      "autohome.com.cn": 5,
-      "in-en.com": 4,
-      "sina.com.cn": 4,
-      "ne21.com": 2,
-      "solarzoom.com": 2,
+      "autohome.com.cn": 9,
+      "sina.com.cn": 8,
+      "indexbox.io": 5,
+      "news18a.com": 2,
       "sina.cn": 2,
-      "wenxuan.news": 1,
-      "seetao.com": 1,
-      "paultan.org": 1,
-      "china.com": 1
+      "gessey.com": 1,
+      "ne21.com": 1,
+      "voc.com.cn": 1,
+      "ycnews.cn": 1,
+      "wedoany.com": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 7,
-    "relaxed_72h": 0,
+    "fresh1_24h": 10,
+    "page_fresh": 1,
+    "relaxed_72h": 10,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "“十五五”开局锚定提质升级 风电行业转向可靠替代与系统协同",
+      "t": "德国专家曾质疑：中国人不懂电车污染更严重嘛？还自称环保大国？",
       "d": "sohu.com"
     },
     {
-      "t": "实力持续获认可｜东方日升多点落地，光储产品项目接连开花",
+      "t": "AI服务器功耗攀升，功率半导体打开新增长空间",
+      "d": "sohu.com"
+    },
+    {
+      "t": "东北-20℃的冬天，思格光储系统怎么答题？",
       "d": "solarbe.com"
     },
     {
-      "t": "华能山东分公司所属光伏电站配建储能项目工程总承包（EPC）招标公告发布",
+      "t": "储能出海三岔口：欧洲、中东、东南亚，第一站怎么选？",
       "d": "solarbe.com"
     },
     {
-      "t": "内蒙古华电达茂旗首期100万千瓦风光制氢项目高压级联磷酸铁锂电化学储能设备采购招",
-      "d": "solarbe.com"
+      "t": "“浙里共赢” 搭台 助浙江储能产业链接全球市场",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "宁德时代换电生态加速“扩圈”",
-      "d": "10jqka.com.cn"
+      "t": "比亚迪公布第三代秦 PLUS 座舱",
+      "d": "ifeng.com"
     },
     {
-      "t": "晶科能源钱晶：以光伏、储能、AI为“三驾马车”，企业拐点或在2028年到来",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "浅水退潮，深水上涨：2026 年中国储能的五种水位",
-      "d": "solarbe.com"
+      "t": "劳斯莱斯同款对开门！仰望旗舰轿车即将发布，还会有固态电池？",
+      "d": "ifeng.com"
     }
   ]
 }
