@@ -1,53 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 31,
-    "trusted": 20,
+    "raw_dedup_junk": 44,
+    "trusted": 28,
     "non_trusted_top": {
-      "sina.com.cn": 2,
-      "mydrivers.com": 2,
-      "enanyang.my": 1,
-      "indexbox.io": 1,
+      "sina.com.cn": 3,
+      "yeeyi.com": 2,
+      "china.com": 2,
+      "chosun.com": 2,
+      "jrj.com.cn": 1,
+      "guandian.cn": 1,
+      "jpchinapress.com": 1,
       "sina.cn": 1,
-      "moomoo.com": 1,
-      "voc.com.cn": 1,
-      "stockstar.com": 1,
-      "chosun.com": 1
+      "finet.com.cn": 1,
+      "stockstar.com": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 9,
+    "fresh1_24h": 28,
+    "page_fresh": 24,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "美国政府再出手，强化芯片供应链",
+      "t": "【IC风云榜候选企业10】兴福电子铸就集成电路材料国产化标杆",
       "d": "sohu.com"
     },
     {
-      "t": "美股芯片半导体全线重挫，英伟达市值一夜蒸发1.5万亿元，闪迪、AMD、英特尔跌逾",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "美股收盘：纳指重挫近700点跌2.6%，道指微涨；存储芯片股集体大跌，闪迪、海力",
+      "t": "IC风云榜候选企业11 电波微讯：玻璃基射频芯片实现全球规模化量产",
       "d": "sohu.com"
     },
     {
-      "t": "21:31:18【费城半导体指数开盘跌4% AI硬件个股普遍全线下挫】",
-      "d": "cls.cn"
-    },
-    {
-      "t": "中微公司，半导体设备重要突破",
+      "t": "总投资10亿！光掩模基板基地，冲刺12月投产",
       "d": "eet-china.com"
     },
     {
-      "t": "纷纷扩产！多家光通信企业最新公告！",
+      "t": "黄仁勋：对英伟达与长鑫合作持开放态度，美国限制加速中国芯片产业发展",
+      "d": "laoyaoba.com"
+    },
+    {
+      "t": "国科微年内第二次上调合封KGD存储产品价格，11月起按美元绝对值提价",
       "d": "eet-china.com"
     },
     {
-      "t": "直击海光信息业绩会：算力基础设施加速扩容新一代芯片算力密度、互联带宽等指标上将显",
-      "d": "cls.cn"
+      "t": "三展首聚，链动全球 | APE 2027亚洲光电博览会构建“光电+半导体+电子”",
+      "d": "iccsz.com"
+    },
+    {
+      "t": "中汽芯奚文霞：三项强标落地，驱动汽车功能安全向车规芯片底层溯源",
+      "d": "xinhuanet.com"
     }
   ]
 }

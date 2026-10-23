@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 48,
+  "total": 37,
   "samples": [
     {
-      "title": "微软计划借助AI让原生WinUI应用开发变得更简单- Windows 11",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ycTZ4S1BxUGJ2QV9qa2NIcC1WMFl1QmIyczNEZjZvX0hGT3hVSTB0bDZLVzJmTVBLT2FzRnVQQU02WWkwdmx2X3o",
-      "source_url": "https://www.cnbeta.com.tw",
-      "source": "cnBeta.COM"
+      "title": "豆包抢成交，千问造“铲子”：“双11”撕开字节与阿里AI电商分水岭",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WeE01ampEb1lJQWlCYjc1NlB2ZkpESHBWeFF4dDNLQ0tXZ0g3MVNSVF9ZdldndVJkNzlDZHByaHBUc1k3NTN3SEl",
+      "source_url": "https://www.mrjjxw.com",
+      "source": "www.mrjjxw.com"
     },
     {
-      "title": "AI走进个人财务：从信息工具到决策伙伴",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UTWxoTFNZc04xT1JuQkJQNXpuZGQwdXpDRExMSUdoTEk5czI3UlgyRVhaNDVaVFNJal80aDBsN29VSXRweFJTaWN",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "斗泉首秀2026北京钱博会 AI钱币对版、真假鉴别与价格查询将集中亮相",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JSUp5Tkl4b2FodVdCSlNOYW96X2pYVmpvZy1SQW8xcnF5amJoY3lROXluanVaNk5ZLV9NcUhwS20wNW1uYl9NUmN",
+      "source_url": "https://hea.china.com",
+      "source": "中华网"
     },
     {
-      "title": "微软低调测试全新AI记忆工具Pantheon Windows 11迎来非截屏版Recall",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FUGZjaFBMOXZLVmk3V3ZPVE5LTGFWUThMYlNOeGRUdXFCTTNtOE1uSjczYlhjcnJqVjN3SzJRZXlaVkpiWk5PT0Z",
-      "source_url": "https://www.cnbeta.com.tw",
-      "source": "cnBeta.COM"
+      "title": "河北成安：做实人工智能培训助力县域数智化转型",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JaGpTQnhMMDhWcHhhOTFUZWlYVHVtY216bWJxRzAtdmJqOER0UElNbUdYZHlobm1lQUdjTkRZc19aS25nc0FYbm9",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "The Browser Company 将停止维护 Arc，转而专注于 Dia",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOFQ3QlJRV1gxMGNjdjZGa0YyTDZfZ3REM1M3UGFiVDVlZXM1STRpUTc5ZVZDZi00Rlg3OHg5ZG94bjh4TEhDRm0",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "“银发族”赶潮AI新课堂 解锁智慧晚年",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUtBcmc2LTVrb3RjSmpJdnN3aVRjbElHZTlGdW9xUGJValNiVDdjX0F3M0lmeDY4N3JvQ2l5ODIxSnJlZ2piNW5",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "ARTEX AI 现身针对日本企业的攻击,GMO 证实约 20 家企业成目标",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVTh6UjFDMWpUNWFaZG1yaXZCM01NSXlJVXFGSnBIdVNCeC1IX2ZnOFFNWGVTU19ocWZ2Q25feEZfVDN6RjZ3ZDB",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "2026金融街论坛｜人工智能深度嵌入金融业务，风控成为必答题",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FUGcydldNaTFGM3R1UmpiMlduYVlBSmFNMUt1N2hsckZ4aG4xZWFWZnpwdjBOa0E3LU1URldQdi1wTFRmblhnOEF",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "Agentic AI Foundation 首年新增四个项目，托管项目总数达到 10 个",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUW05Yk5MNjFpOHh1VFpGRU1EbC1fT3BiVHlWNFF1V0c2RkRSTkY0RTdnNEhTek9JclY2QTdKamdwRlBIdmZiSzJ",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "区财政局组织“财政小课堂”活动AI应用助力高效办公",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zdzVPYjhRY3p0OUVLY1hvMVd4STVUU0pzS1R2OHoyZzV4bWZzdnQxbGc3LWFReGFmUmJoaE5WUWlCbVNpMjlVNnd",
+      "source_url": "https://www.lg.gov.cn",
+      "source": "龙岗政府在线"
     }
   ]
 }

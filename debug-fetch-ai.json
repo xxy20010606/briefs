@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 54,
+  "total": 50,
   "samples": [
     {
-      "title": "工业大模型牵手精密制造，深圳搭建产业协同新平台",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSjl1ZjdQdGh4dHBnektKa0lKWEpiUWo2TXBZczZhY2RNampQVE1XQTl1YjFFeEpOOTFhblpCb3BuUTczaVdNRDQ",
+      "title": "数商云：以定制化Agent智能体，为企业搭建自主AI工作中枢",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORklPdlR6SFd5M250SFFpVnFMRUk4SmUzcHVXRnEwMGdLaHhqX1pjYVpXUmZnbEdkZ05iRVVSRVo2ajU4aW8zemZ",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "数美科技获评国家级专精特新“小巨人”企业",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxVU01Uldzdkl3QzFMUHU0ampNa0tGRGp6YU5JeU52NjVqeEYzMlNJYlpRUm82bVRuWTRYMlJDWUZyZzlkWUQ4VUh",
+      "source_url": "https://tech.china.com",
+      "source": "中华网"
+    },
+    {
+      "title": "科大讯飞“1024”开发者节观察：以国产AI赋能千行百业",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLTFwTjc2dkViNi12TzJTLUZPRkZiQTlPSVhkaHBCbG5Sb2F5N3B6OURiMzZTaVpJdEc2Z3F1OE1hckFxUGZzZEp",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
     },
     {
-      "title": "成立一年之际，广东发布国家人工智能应用中试基地（医疗领域）阶段成果",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xREx5Smk1LUJxdEtXcENwaUhWTFh6Mnp3Tm5kQzdnSzNYNnQ5V3NndVhySzcwckREVUVmaE9oZUF2cUxVMU5zSkJ",
+      "title": "千里科技发布2.0成果，百万装车后，智驾原生大模型迎量产",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzV5TVdNTnZCZkRrZWc4SkVFSy12eWNoSDVJX21IZTJlVFFtWWZIQTg3YjRNSjlGY285cDJYZUdNRWJ1RVM2WjR",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
+    },
+    {
+      "title": "专访大模型数据工程开拓者康小宇",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVVWc2dXMjVxWlhYaUtkXzB6YW40ZlVkLVBlYzA4ak43MVpGb0REaGNUVzM2a1VEMkh2M3lqT0dvVUVlYlFvdm9",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
+    },
+    {
+      "title": "济南高新区正丰中学举办AI智能体赋能教育教学专题培训",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRjktZjRDdHQzQktFTC13SVRRUDVNbjd4TUo0WmpPY3o4bXN0VXBlZ1JSbS1jY19YZkNQY0dveUtnNGlZM1JxUXZ",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
-    },
-    {
-      "title": "全球首款无花果智慧大脑“智果”将在第33届杨凌农高会发布",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DclQ4QVVXYU5ZV3ZGZWRENXYwZTVpTTB0VjZJRTh0N2FMLXVzMHJFTlM1Nl9xakN6U0x4Y1phUzFLRTYtZU9VdjN",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "OpenAI前沿模型及Codex将登陆谷歌云 云厂商正成AI模型核心分销渠道",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zRmRpcjE2NzBLUzJvRDVSWHc3LXEyT2d3bGRXLWlJZFRsSkp4b0tpdy0yOFh0dlpueVF3R0czdy1vVmJTekFsdw?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "DeepSeek，拟获千亿融资",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQXplVDZGQ3gtR3lENjVranpic0w1RmpNQkFNNnVIUzhnbW9nenhaQmo1MUtNOU5LV25UR2FyT094NkgyN2sySVR",
-      "source_url": "https://news.sina.cn",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "中国工程院院士邓中翰：将CPU所承载的规则约束嵌入大模型底层，可减少AI幻觉",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fOWxtQV9icFVYU21UbGM2LWtJZXdmVDJnTklwQV9YWUdaN2s1V240a2U2dHdPQVRPcWJaZkN0TjIwZ2dQYzJ4VTh",
-      "source_url": "https://www.nbd.com.cn",
-      "source": "每日经济新闻"
     }
   ]
 }

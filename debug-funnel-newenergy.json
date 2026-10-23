@@ -1,54 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 53,
+    "raw_dedup_junk": 51,
     "trusted": 13,
     "non_trusted_top": {
-      "autohome.com.cn": 9,
-      "sina.com.cn": 8,
-      "indexbox.io": 5,
+      "autohome.com.cn": 8,
+      "sina.com.cn": 4,
+      "wedoany.com": 3,
+      "indexbox.io": 3,
+      "stockstar.com": 2,
       "news18a.com": 2,
       "sina.cn": 2,
-      "gessey.com": 1,
-      "ne21.com": 1,
-      "voc.com.cn": 1,
-      "ycnews.cn": 1,
-      "wedoany.com": 1
+      "yzwb.net": 1,
+      "fsonline.com.cn": 1,
+      "fjsen.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 1,
-    "relaxed_72h": 10,
+    "fresh1_24h": 13,
+    "page_fresh": 11,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "德国专家曾质疑：中国人不懂电车污染更严重嘛？还自称环保大国？",
+      "t": "这两年全世界好像不怎么关心环保了，我们中国为啥还在坚定推动呢？",
+      "d": "guancha.cn"
+    },
+    {
+      "t": "2026年度“21世纪·新能新质”应用优秀案例征集启动",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "集微咨询发布《2026中国第三代半导体材料行业上市公司研究》报告",
       "d": "sohu.com"
     },
     {
-      "t": "AI服务器功耗攀升，功率半导体打开新增长空间",
+      "t": "天合储能全栈实力亮相2026储能大会，解码中国经验出海路径",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "锚定中东欧！科华数能助力罗马尼亚储能项目投运",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "比亚迪商用车亮相2026绿色数字智能交通博览会",
       "d": "sohu.com"
     },
     {
-      "t": "东北-20℃的冬天，思格光储系统怎么答题？",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "储能出海三岔口：欧洲、中东、东南亚，第一站怎么选？",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "“浙里共赢” 搭台 助浙江储能产业链接全球市场",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "比亚迪公布第三代秦 PLUS 座舱",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "劳斯莱斯同款对开门！仰望旗舰轿车即将发布，还会有固态电池？",
-      "d": "ifeng.com"
+      "t": "东南亚的电动汽车，被低估了-36氪",
+      "d": "36kr.com"
     }
   ]
 }

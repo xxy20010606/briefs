@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 54,
-    "trusted": 21,
+    "raw_dedup_junk": 50,
+    "trusted": 16,
     "non_trusted_top": {
-      "sina.com.cn": 10,
-      "sina.cn": 2,
-      "stockstar.com": 2,
-      "ac.cn": 2,
-      "zhiding.cn": 2,
-      "cbndata.com": 1,
-      "scol.com.cn": 1,
-      "leikeji.com": 1,
-      "yzwb.net": 1,
-      "jschina.com.cn": 1
+      "sina.com.cn": 13,
+      "icloudnews.net": 4,
+      "china.com": 3,
+      "jrj.com.cn": 2,
+      "pasqualepillitteri.it": 2,
+      "aibase.com": 2,
+      "stockstar.com": 1,
+      "caiwennews.com": 1,
+      "jiemodui.com": 1,
+      "shm.com.cn": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 6,
-    "relaxed_72h": 12,
+    "fresh1_24h": 16,
+    "page_fresh": 15,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "工业大模型牵手精密制造，深圳搭建产业协同新平台",
+      "t": "科大讯飞“1024”开发者节观察：以国产AI赋能千行百业",
       "d": "sohu.com"
     },
     {
-      "t": "AI并非替代者，而是自我的延伸",
+      "t": "千里科技发布2.0成果，百万装车后，智驾原生大模型迎量产",
       "d": "sohu.com"
     },
     {
-      "t": "具身智能最好变现机会：全力卖给大模型公司！",
+      "t": "上海累计超过200款大模型完成备案",
       "d": "eet-china.com"
     },
     {
-      "t": "600亿元国家AI基金投向了谁-36氪",
-      "d": "36kr.com"
+      "t": "MiniMax开源M3.1 Flash，“Flash”模型为何成为AI新潮流？",
+      "d": "eastmoney.com"
     },
     {
-      "t": "科大讯飞发布新一代国产大模型，刘庆峰最新发声",
+      "t": "合肥高新区一大模型入选国家级案例",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "层层解密中孚AI布局，不止产品，更是战略",
       "d": "10jqka.com.cn"
     },
     {
-      "t": "OpenAI前沿模型及Codex将登陆谷歌云 云厂商正成AI模型核心分销渠道",
-      "d": "cls.cn"
-    },
-    {
-      "t": "中国工程院院士邓中翰：将CPU所承载的规则约束嵌入大模型底层，可减少AI幻觉",
-      "d": "nbd.com.cn"
+      "t": "“耕天·旱地农业大模型”发布 赋能旱地农业数字化转型",
+      "d": "gmw.cn"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 48,
-    "trusted": 14,
+    "raw_dedup_junk": 37,
+    "trusted": 9,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "unite.ai": 4,
-      "pasqualepillitteri.it": 3,
+      "sina.com.cn": 5,
+      "unite.ai": 5,
       "cnbeta.com.tw": 2,
-      "on.cc": 2,
-      "ikanchai.com": 2,
-      "stockstar.com": 2,
-      "zhiding.cn": 2,
-      "sina.cn": 2,
-      "blockchain.news": 1
+      "pasqualepillitteri.it": 2,
+      "mrjjxw.com": 1,
+      "china.com": 1,
+      "lg.gov.cn": 1,
+      "yzwb.net": 1,
+      "zhiding.cn": 1,
+      "epochtimes.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 5,
-    "relaxed_72h": 9,
+    "fresh1_24h": 9,
+    "page_fresh": 9,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "从数据中心缺电到AI法律工具：10个新生意来了-36氪",
-      "d": "36kr.com"
-    },
-    {
-      "t": "Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺",
-      "d": "geekpark.net"
-    },
-    {
-      "t": "资本开抢AI 3D，「御三家」半年吸纳超80亿元-36氪",
-      "d": "36kr.com"
-    },
-    {
-      "t": "企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "落地一年，广东这个“AI车间”，正在悄悄改变你我看病的方式",
+      "t": "把生活需求搓成专属应用，「千问Go!」上线“我的应用”",
       "d": "sohu.com"
     },
     {
-      "t": "科技企业“加盟”沪上咖啡节 AI生产力工具拥抱实体小微业态",
-      "d": "chinanews.com.cn"
+      "t": "AI房产经纪人，第一单成交了",
+      "d": "36kr.com"
     },
     {
-      "t": "AI登上双11货架，大模型开始按“件”卖",
-      "d": "bjnews.com.cn"
+      "t": "腾讯QClaw公测188天后宣布停服，大厂个人助理竞争转向通用助手整合",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "曾鸣最新万字演讲：当下，像极了1993",
+      "d": "36kr.com"
+    },
+    {
+      "t": "产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元",
+      "d": "36kr.com"
+    },
+    {
+      "t": "海淀这里变身AI主场！2026 AI创造者嘉年华现场直击——",
+      "d": "sohu.com"
+    },
+    {
+      "t": "层层解密中孚AI布局，不止产品，更是战略",
+      "d": "10jqka.com.cn"
     }
   ]
 }

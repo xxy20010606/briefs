@@ -1,48 +1,48 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 10,
+    "raw_dedup_junk": 44,
+    "trusted": 8,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "moomoo.com": 7,
-      "futunn.com": 4,
-      "china.com": 2,
-      "fx168news.com": 1,
-      "jin10.com": 1,
-      "stockstar.com": 1,
-      "sina.cn": 1,
-      "eastmoney.com": 1
+      "sina.com.cn": 20,
+      "moomoo.com": 4,
+      "sina.cn": 3,
+      "futunn.com": 3,
+      "investing.com": 2,
+      "cnfin.com": 1,
+      "china.com": 1,
+      "techflowpost.com": 1,
+      "fx168news.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 0,
-    "relaxed_72h": 6,
+    "fresh1_24h": 8,
+    "page_fresh": 5,
+    "relaxed_72h": 1,
     "final": 6,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "江波龙募68亿港元H股新低收盘为易方达A股定增价22%_证券要闻",
-      "d": "cnfol.com"
+      "t": "创金合信基金魏凤春：成长反弹的基本条件判断",
+      "d": "sohu.com"
     },
     {
-      "t": "破发股*ST卓然跌停 A股共募13亿IPO国投证券保荐_证券要闻",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "破发股ST瀚川跌6.96% 2019上市2募资16.5亿国投证券保荐_证券要闻",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "又“崩”了！国际金价失守4100美元大关",
+      "t": "纳指大跌2.6%，热门科技股纷纷下挫；DeepSeek拟融资1000亿元丨港股早",
       "d": "eastmoney.com"
     },
     {
-      "t": "高利率压垮美国楼市：销售暴跌、开工下滑，华尔街却浑然不觉",
-      "d": "wallstreetcn.com"
+      "t": "港股调整背后：机构操作分化 静待“黄金坑”",
+      "d": "eastmoney.com"
     },
     {
-      "t": "野村警告：当前AI信用风险与互联网泡沫、雷曼危机前惊人相似，一切都取决于油价",
+      "t": "美股科技股走弱，苹果逆势涨超1%",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "A股失守3700点，该不该阶段性暂停IPO？",
+      "d": "sohu.com"
+    },
+    {
+      "t": "AI崩盘终极推演：泡沫可能在2028年初破裂，美国科技股或断崖式暴跌40%！",
       "d": "wallstreetcn.com"
     }
   ]

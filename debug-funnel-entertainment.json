@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 62,
-    "trusted": 15,
+    "raw_dedup_junk": 66,
+    "trusted": 25,
     "non_trusted_top": {
-      "sina.cn": 10,
-      "sina.com.cn": 6,
+      "sina.cn": 7,
       "rediandf.com": 5,
-      "starnewskorea.com": 2,
-      "china.com": 2,
-      "yzwb.net": 2,
+      "china.com": 5,
+      "tidenews.com.cn": 2,
+      "chinapress.com.my": 1,
+      "starnewskorea.com": 1,
       "vietnam.vn": 1,
-      "yxrb.net": 1,
-      "smarthey.com": 1,
-      "scol.com.cn": 1
+      "mrjjxw.com": 1,
+      "sina.com.cn": 1,
+      "olympics.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 2,
-    "relaxed_72h": 12,
+    "fresh1_24h": 25,
+    "page_fresh": 24,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "致敬长征路上的无名英雄",
+      "t": "《三星堆》投资过千万，票房血扑，但会有更多AI电影上映",
       "d": "sohu.com"
     },
     {
-      "t": "首届阿曼中国电影周在马斯喀特开幕",
-      "d": "gmw.cn"
+      "t": "首部AI院线电影票房遇冷，但字节、快手仍在冲击大银幕",
+      "d": "36kr.com"
     },
     {
-      "t": "2026北京亦庄·未来游戏电竞科技大会成功举办",
+      "t": "全能水桶性能旗舰怎么选？一加16横评导购：FPS枪神，兼顾日常与影像",
       "d": "sohu.com"
     },
     {
-      "t": "赛事终章的欢呼声漫过羊城，中国的《荒野乱斗》电竞才刚刚开始\"/> 主站 商城 论",
-      "d": "163.com"
+      "t": "2026北京亦庄·未来游戏电竞季启动 打造原创游戏电竞科技品牌",
+      "d": "people.com.cn"
     },
     {
-      "t": "国产原创动画电影《落凡尘》重映定档10月24日",
-      "d": "cri.cn"
+      "t": "三星堆古蜀文明与AI碰撞，电影《三星堆：未来往事》全国上映",
+      "d": "bjnews.com.cn"
     },
     {
-      "t": "“手握10篇SCI”的医学生节目上盲猜病情引争议，人民日报：临床不是秀场，医学容",
-      "d": "163.com"
-    },
-    {
-      "t": "AI +实拍量产前夜，制片人怎么重算这套降本账？",
+      "t": "AI短剧带动传媒股涨停：供需两旺但成本收益重分配，利润多流向平台",
       "d": "huxiu.com"
+    },
+    {
+      "t": "21对话｜播放量破亿的古人rap短片，出自一位传统影视人",
+      "d": "21jingji.com"
     }
   ]
 }

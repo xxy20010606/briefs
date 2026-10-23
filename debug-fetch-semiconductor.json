@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 31,
+  "total": 44,
   "samples": [
     {
-      "title": "华为海思芯片再遭美国封杀 2款监控装置禁入市场",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jWHI0bnVFanowYkswejUzX19hM25EWnNXS000NWNqZHp4SVBYM2lacldtVk9YVERVQU5wemlTZXYtSTlsbk1MbDN",
-      "source_url": "https://www.enanyang.my",
-      "source": "e南洋"
-    },
-    {
-      "title": "美国政府再出手，强化芯片供应链",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTU00Tmw1TDUxN3BUVmlJU0E3OFhkMS1hQ0Zzc3g4VlJqbDBveUtDclRVMVNpcTIwb0prdzNYYTRPV2lUSFRkMjB",
+      "title": "【IC风云榜候选企业10】兴福电子铸就集成电路材料国产化标杆",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0hEVndTclhJVVdrY2pYanE2RXY4WkNad3J1ZmhBaE5FRzFPNWloVTV5b1MtdmtFSGJPd1VINUVVSTJBeVRnU3l",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
     },
     {
-      "title": "美股芯片半导体全线重挫，英伟达市值一夜蒸发1.5万亿元，闪迪、AMD、英特尔跌逾8%",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZWUw4Y2FKbHJ5Qm5pUl9sbDF1U29oVU9SV0JaclR5emNKd1lNZUEyNHpvYm5ucmlKanZ3bV9PVVdhaWpaWHpRMDB",
-      "source_url": "https://news.10jqka.com.cn",
-      "source": "同花顺"
+      "title": "日本半导体设备协会（SEAJ）：日本9月芯片制造设备订单额同比增长48.2%。",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hdFN6aU5JYzh3WDdzSU1QZlFmcW9iWXdtbjJCVzBNYXRLOXVTN2dLTXNidjJkZWt0T3Q4RUVNYmZjVm5mQ01tcEt",
+      "source_url": "https://m.jrj.com.cn",
+      "source": "金融界"
     },
     {
-      "title": "美股收盘：纳指重挫近700点跌2.6%，道指微涨；存储芯片股集体大跌，闪迪、海力士跌超8%；半导体全",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnBQdU94QnhNR05UWWVFcVRWWVRwaWMzX0tGN0djdjdSUUJsbXBIdEFqR0Ywb1FRMnlzV0tpVHZnZ09OdFViQlV",
+      "title": "IC风云榜候选企业11 电波微讯：玻璃基射频芯片实现全球规模化量产",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0cxajFWVUdUZHQtYmFNWUkySkJjblpvQjR3OUFUNmlTQjdlY0JVMExhc2phWlpCVXhHY0R2Tks3OG9Yd0VCNVN",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
     },
     {
-      "title": "AI交易连遭暴击！避险升温，芯片指数收跌近7%，AI产业链全线溃败前、散户抢筹创纪录",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zZ2hVMVNCZWZFZi1BcnRrSWV3Y3k0QTFiVVNpVVc1WHpUcWFyZG55VHdrNWNoT09vMG5FWXFPYU04X3BCVElBYVJ",
-      "source_url": "https://wallstreetcn.com",
-      "source": "华尔街见闻"
+      "title": "集微咨询发布《2026H1全球半导体激光通信芯片行业上市公司研究报告》：AI算力引爆高速光芯片超级周",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR1FCY1dEc0FINW1VYmJaMFY4SjNvazBrNlg4b0RGRDNSTlZYTUNDaEE5YnEzbDZZWHRYb0kwejBUY1RIeml0c2d",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
     },
     {
-      "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌超6%，CoreWeave大跌10%",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaam5hTGJ1MzJlMXd4NWpidnl1amE5bFVvZ0lwaFF1OEpvY21LTGxxZUNldE9nX3BWdVgxSlB5S3BLZlcta2NOSG5",
-      "source_url": "https://wallstreetcn.com",
-      "source": "华尔街见闻"
+      "title": "总投资10亿！光掩模基板基地，冲刺12月投产",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84aUpzS0Yxa2xUSTZhVTRmYzVhT2ZOQXh5S2IwVlN3XzZZR0VXZUplck81d2ZBbFE1ZEFIT3ljUGV5SmR4ZGplZFh",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "黄仁勋：对英伟达与长鑫合作持开放态度，美国限制加速中国芯片产业发展",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9Cb3Q4UmJkVmtMVG4xdjRJaFM4aXhDVFZxNmlPTnB2dDhsTHREeEt5QUpfX0kya3NQelhZdmNBRVlTSFk?oc=5",
+      "source_url": "http://laoyaoba.com",
+      "source": "集微网"
     }
   ]
 }

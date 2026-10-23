@@ -1,7 +1,25 @@
 {
   "type": "entertainment",
-  "total": 62,
+  "total": 66,
   "samples": [
+    {
+      "title": "《三星堆》投资过千万，票房血扑，但会有更多AI电影上映",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUppNkJ0UVpBbXdSVnJGOE9QRXJDSFY1eTJ4Z0JvX2I1MGhtTUVFamxYa3k1cU1XeDdOOVJrczRCN1VpTmpCSFB",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐"
+    },
+    {
+      "title": "《暗杀者们》掀历史争议 新加坡电影节坚持上映",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNejJlMDF1bFFfeXk3d25aYVdXVDR1RlY5TkQ0TTZZU0pmdDVnUGlHdy1CTm9qRmtHUnUxQ2ZEMjB2SU9iMlJfQWt",
+      "source_url": "https://johor.chinapress.com.my",
+      "source": "China Press"
+    },
+    {
+      "title": "首部AI院线电影票房遇冷，但字节、快手仍在冲击大银幕",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yNTFFcFRsUl9NNE1NeGpNR2MxT3QxelEwbnBLcm0tV0U4cTZncnNzd29ja0E3aU5hb3I3ZlhFMG9nOFRXVTlBc1h",
+      "source_url": "http://www.36kr.com",
+      "source": "36Kr"
+    },
     {
       "title": "金贤珠X裴贤圣《失乐园》，连续两日蝉联韩国电影票房冠军……《吉伊卡哇》观众数逼近200万 [★电影票",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iZlhUVnFmVlVETC1ReGN1aTBVS1NTM1FuU1JHWXJ1V0Q0NEM1TmRiXzAyNmFvcF94Q1RLeENKRFpLNG5DajQtdGd",
@@ -15,26 +33,8 @@
       "source": "Vietnam.vn"
     },
     {
-      "title": "首部亚洲象主题IMAX原创纪录电影《象行记》 全国首映礼在北京举办",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56V0hiYVJMU2VoQWhaWUducWZyM0luTXJjbGN4QnI2SDEza0RvQzhWM1N1czJqM0VtcG5rSm5ZVnF1Rkc5amJGQVF",
-      "source_url": "https://www.rediandf.com",
-      "source": "rediandf.com"
-    },
-    {
-      "title": "预售开启！犯罪电影《愤怒的老虎》叩问人性边界，恶意围猎直击灵魂",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12U0ZWam1JUVRqNzV1cDNLMnFfZlZHVlhpS3RIYklqbzVRTjZLU3EwNDNSbUt0WEl5U2t1R2x3VHR3YUFfR1F6Njh",
-      "source_url": "https://www.rediandf.com",
-      "source": "rediandf.com"
-    },
-    {
-      "title": "Mardi Mercredi 首推UNISEX系列 SEVENTEEN成员JEONGHAN出任全球品",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yMkxLdEdnTnIxbGxZaXVQUjg3NURCZG5Ed01FN3pQTm85REdTSzhwc2lrd3JrZHh1WFE0UnZhQXdjYkdZUE5OeUZ",
-      "source_url": "https://www.rediandf.com",
-      "source": "rediandf.com"
-    },
-    {
-      "title": "人民空军出品、海西传媒承制《家书1936》10月20日上线 致敬长征胜利90周年",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xVVYyV1VoZjN5a01Wa1YzYmNLUkVzWDJOYXEwOXc4VHctRVFyaTUtTnVHMUZac1lpTWg2TDZyVjRxR0JHTkRYN1Z",
+      "title": "光影为笔，人物为墨 导演王辉：在对称画幅里安放乱世深情",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wc1lJQldScTVnOExBTXdtWWx2YnlURnM5Q2t6WkFQNlZWUW1GYUFKOUM3MGNkZmNuVlBpTDRrQzJLTWtwcVBITDV",
       "source_url": "https://www.rediandf.com",
       "source": "rediandf.com"
     }
