@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 50,
+  "total": 57,
   "samples": [
     {
-      "title": "数商云：以定制化Agent智能体，为企业搭建自主AI工作中枢",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORklPdlR6SFd5M250SFFpVnFMRUk4SmUzcHVXRnEwMGdLaHhqX1pjYVpXUmZnbEdkZ05iRVVSRVo2ajU4aW8zemZ",
+      "title": "【企业风采】《人民日报》报道北京AI信控：千方鲲巢·信控智能体落地",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81bmpMRFVuV19oMlAyaHRWNVZrenl0a3lNX05obklnbFYzWlc0aUhnWll5R1p6MUlnNVU5bW5ZLXExRDMzS0N5Zmt",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
     },
     {
-      "title": "数美科技获评国家级专精特新“小巨人”企业",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxVU01Uldzdkl3QzFMUHU0ampNa0tGRGp6YU5JeU52NjVqeEYzMlNJYlpRUm82bVRuWTRYMlJDWUZyZzlkWUQ4VUh",
-      "source_url": "https://tech.china.com",
-      "source": "中华网"
+      "title": "V4全系列模型上线后，DeepSeek Harness开发者预览版开放测试",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wd0JWNXNkT3NmUy1UV09ldm1iSXY3dTllQ1o1ZFg5MFZPS1BRY3RCTUJLc05UYWJTb1R6VHhoT0NXM3hJQU5xLQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "科大讯飞“1024”开发者节观察：以国产AI赋能千行百业",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLTFwTjc2dkViNi12TzJTLUZPRkZiQTlPSVhkaHBCbG5Sb2F5N3B6OURiMzZTaVpJdEc2Z3F1OE1hckFxUGZzZEp",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "title": "未来网络发展大会:《2026 Token驱动的大模型推理效能优化技术白皮书｜投资分析》",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JVnJPR0E3VlEySW1FLUd6eVdjTjlIYkJFU3dQN2FtaG1GY0hzbnRzSjZKblBwS29oYlhOOVhsVll5YUpaWll0TEt",
+      "source_url": "https://www.fxbaogao.com",
+      "source": "发现报告"
     },
     {
-      "title": "千里科技发布2.0成果，百万装车后，智驾原生大模型迎量产",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORzV5TVdNTnZCZkRrZWc4SkVFSy12eWNoSDVJX21IZTJlVFFtWWZIQTg3YjRNSjlGY285cDJYZUdNRWJ1RVM2WjR",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "title": "丘成桐警示：国际AI巨头在数学上指数级进化，中国学者必须告别“线性追赶”",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxUWI0Z3d0NThDNzdpaUtuT3did2RYUlhFbFFBZ3JlYlpBa00wUUJCTTh5ZW9wNXFZR0Y0SjdxMm0xc1lDZlNsS1h",
+      "source_url": "https://user.guancha.cn",
+      "source": "风闻"
     },
     {
-      "title": "专访大模型数据工程开拓者康小宇",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVVWc2dXMjVxWlhYaUtkXzB6YW40ZlVkLVBlYzA4ak43MVpGb0REaGNUVzM2a1VEMkh2M3lqT0dvVUVlYlFvdm9",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "title": "南威软件的AI转型：从政务智能体走向算力与C端应用",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KZVpFaGtnNUVXVjV2VzZxb2ZtUEQwZElWUG9fMGZqM1RwQnJjSWR3TS1tX0hPaHFhLXZLX3d0dElJMHc0U19CM3p",
+      "source_url": "https://finance.eastmoney.com",
+      "source": "东方财富"
     },
     {
-      "title": "济南高新区正丰中学举办AI智能体赋能教育教学专题培训",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRjktZjRDdHQzQktFTC13SVRRUDVNbjd4TUo0WmpPY3o4bXN0VXBlZ1JSbS1jY19YZkNQY0dveUtnNGlZM1JxUXZ",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "紫光计算机两款AI工作站通过人工智能终端智能化L3级能力认证，夯实国产AI+产品算力底座",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtWm1SSmpidmdCM0ZUWndydG9NUU5OdXVEOVR1LUNHR1BqLVVyMElkSWhBQk50X0p5VWFJUXRYLTBEOWpHaUVkdkJ",
+      "source_url": "https://news.sina.cn",
+      "source": "新浪新闻_手机新浪网"
     }
   ]
 }

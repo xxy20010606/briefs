@@ -1,49 +1,34 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 44,
-    "trusted": 8,
+    "raw_dedup_junk": 23,
+    "trusted": 5,
     "non_trusted_top": {
-      "sina.com.cn": 20,
-      "moomoo.com": 4,
-      "sina.cn": 3,
-      "futunn.com": 3,
-      "investing.com": 2,
-      "cnfin.com": 1,
+      "sina.com.cn": 6,
+      "stockstar.com": 2,
+      "orientaldaily.com.my": 2,
+      "jrj.com.cn": 2,
+      "fx678.com": 1,
+      "bihainews.com": 1,
+      "sina.cn": 1,
+      "jin10.com": 1,
       "china.com": 1,
-      "techflowpost.com": 1,
-      "fx168news.com": 1
+      "hstong.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 5,
-    "relaxed_72h": 1,
-    "final": 6,
+    "fresh1_24h": 4,
+    "page_fresh": 0,
+    "relaxed_72h": 2,
+    "final": 2,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "创金合信基金魏凤春：成长反弹的基本条件判断",
-      "d": "sohu.com"
+      "t": "美联储10月会议前瞻：暂停加息仍是一次政策校准",
+      "d": "163.com"
     },
     {
-      "t": "纳指大跌2.6%，热门科技股纷纷下挫；DeepSeek拟融资1000亿元丨港股早",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "港股调整背后：机构操作分化 静待“黄金坑”",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "美股科技股走弱，苹果逆势涨超1%",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "A股失守3700点，该不该阶段性暂停IPO？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "AI崩盘终极推演：泡沫可能在2028年初破裂，美国科技股或断崖式暴跌40%！",
-      "d": "wallstreetcn.com"
+      "t": "恒生科技指数上涨2.05%，虚拟现实板块表现强势｜港股收评",
+      "d": "21jingji.com"
     }
   ]
 }

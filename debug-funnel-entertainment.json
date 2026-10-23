@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 66,
-    "trusted": 25,
+    "raw_dedup_junk": 52,
+    "trusted": 24,
     "non_trusted_top": {
-      "sina.cn": 7,
-      "rediandf.com": 5,
-      "china.com": 5,
-      "tidenews.com.cn": 2,
-      "chinapress.com.my": 1,
-      "starnewskorea.com": 1,
+      "sina.cn": 5,
+      "sina.com.cn": 4,
+      "rediandf.com": 2,
+      "66wz.com": 1,
       "vietnam.vn": 1,
-      "mrjjxw.com": 1,
-      "sina.com.cn": 1,
-      "olympics.com": 1
+      "17173.com": 1,
+      "foro3d.com": 1,
+      "cnnb.com.cn": 1,
+      "oeeee.com": 1,
+      "yynews.com.cn": 1
     },
-    "fresh1_24h": 25,
-    "page_fresh": 24,
-    "relaxed_72h": 0,
+    "fresh1_24h": 18,
+    "page_fresh": 3,
+    "relaxed_72h": 20,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "《三星堆》投资过千万，票房血扑，但会有更多AI电影上映",
+      "t": "2026北京亦庄·未来游戏电竞科技大会成功举办",
       "d": "sohu.com"
     },
     {
-      "t": "首部AI院线电影票房遇冷，但字节、快手仍在冲击大银幕",
-      "d": "36kr.com"
+      "t": "国内首部持证AI院线片上映，博纳股价迎反弹涨超4%",
+      "d": "jiemian.com"
     },
     {
-      "t": "全能水桶性能旗舰怎么选？一加16横评导购：FPS枪神，兼顾日常与影像",
-      "d": "sohu.com"
+      "t": "国家大剧院新版歌剧《长征》首演",
+      "d": "gmw.cn"
     },
     {
-      "t": "2026北京亦庄·未来游戏电竞季启动 打造原创游戏电竞科技品牌",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "三星堆古蜀文明与AI碰撞，电影《三星堆：未来往事》全国上映",
+      "t": "光影铭刻伟大远征，电影《四渡》延长上映至11月30日",
       "d": "bjnews.com.cn"
     },
     {
-      "t": "AI短剧带动传媒股涨停：供需两旺但成本收益重分配，利润多流向平台",
-      "d": "huxiu.com"
+      "t": "赛事流量如何变产业增量？亦庄构筑电竞生态底座",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "21对话｜播放量破亿的古人rap短片，出自一位传统影视人",
-      "d": "21jingji.com"
+      "t": "HKC真电竞品牌日燃动京城，联合京东携手人气嘉宾共筑电竞狂欢",
+      "d": "sohu.com"
+    },
+    {
+      "t": "三星堆刻符串起古今，AI长片《三星堆：未来往事》今日上映- 国际在线移动版",
+      "d": "cri.cn"
     }
   ]
 }

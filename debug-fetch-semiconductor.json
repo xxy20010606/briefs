@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 44,
+  "total": 27,
   "samples": [
     {
-      "title": "【IC风云榜候选企业10】兴福电子铸就集成电路材料国产化标杆",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0hEVndTclhJVVdrY2pYanE2RXY4WkNad3J1ZmhBaE5FRzFPNWloVTV5b1MtdmtFSGJPd1VINUVVSTJBeVRnU3l",
+      "title": "透视半导体成绩单",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY011cGprMEdZS1hjZnVDMzVxZWF1ZXIzRzB4MkFMY3B5OUJfS2otTFR6Snh0c3NqcEN3MXpobVB5VXR0NnAtdXp",
       "source_url": "https://m.sohu.com",
       "source": "搜狐"
     },
     {
-      "title": "日本半导体设备协会（SEAJ）：日本9月芯片制造设备订单额同比增长48.2%。",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hdFN6aU5JYzh3WDdzSU1QZlFmcW9iWXdtbjJCVzBNYXRLOXVTN2dLTXNidjJkZWt0T3Q4RUVNYmZjVm5mQ01tcEt",
-      "source_url": "https://m.jrj.com.cn",
-      "source": "金融界"
+      "title": "US 费城半导体指数",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNOFJRUlh6eHlUM2xfV1pYWWtBX3ZMVzV0V2FUY25DS3RWOE12TjZWa3V1UnI0MWROZUhnUmlTaUdmUDNFTElxVWl",
+      "source_url": "https://wap.cj.sina.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "IC风云榜候选企业11 电波微讯：玻璃基射频芯片实现全球规模化量产",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0cxajFWVUdUZHQtYmFNWUkySkJjblpvQjR3OUFUNmlTQjdlY0JVMExhc2phWlpCVXhHY0R2Tks3OG9Yd0VCNVN",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUlBkNVdaVGxNUG1fbEJ0YjhMYjZHZ3hleHY2aXI3MkRsNTNqVlZyWFJ6ZUMxcTBUT3Qyb3JRblZqTEdudzlWbQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "集微咨询发布《2026H1全球半导体激光通信芯片行业上市公司研究报告》：AI算力引爆高速光芯片超级周",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR1FCY1dEc0FINW1VYmJaMFY4SjNvazBrNlg4b0RGRDNSTlZYTUNDaEE5YnEzbDZZWHRYb0kwejBUY1RIeml0c2d",
+      "title": "粤芯半导体(301660.SZ)：公司聚焦模拟和数模混合芯片领域_公司新闻_财经",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZZWVlNk8xMzMxSy1BNlJqdzEtbENjcFdRRTN4ZDNqX0REQkxtY1pkd0ljaTF3ZzVXUjBHRGZzeGhZMDM4QU1OYkZ",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
+    },
+    {
+      "title": "逆向投资半导体，VGT相较DRAM和SOXX的优势是什么？",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQZGtrUlBsRUVEazVxV2ZvREFVQ1Z5V2FJcWJXWks3Ql9FZjFQSi0xbW5yVWNjYXBndDVINDBhYXpvazhfQjR6MXB",
+      "source_url": "https://nai500.com",
+      "source": "NAI500"
+    },
+    {
+      "title": "喜报丨扬杰科技摘得金辑奖2026最佳技术实践应用奖",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VWmdrSFVsLWNCM0kxaE0yZEJvODRyS3dLSk5XbmNfT0VsN1RHMmNGYVRtM3J6OFctbFh3aVkyaVRvUVUxcE4taXZ",
       "source_url": "https://k.sina.com.cn",
       "source": "新浪网"
-    },
-    {
-      "title": "总投资10亿！光掩模基板基地，冲刺12月投产",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84aUpzS0Yxa2xUSTZhVTRmYzVhT2ZOQXh5S2IwVlN3XzZZR0VXZUplck81d2ZBbFE1ZEFIT3ljUGV5SmR4ZGplZFh",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
-    },
-    {
-      "title": "黄仁勋：对英伟达与长鑫合作持开放态度，美国限制加速中国芯片产业发展",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9Cb3Q4UmJkVmtMVG4xdjRJaFM4aXhDVFZxNmlPTnB2dDhsTHREeEt5QUpfX0kya3NQelhZdmNBRVlTSFk?oc=5",
-      "source_url": "http://laoyaoba.com",
-      "source": "集微网"
     }
   ]
 }

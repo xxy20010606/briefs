@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 37,
-    "trusted": 9,
+    "raw_dedup_junk": 41,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 5,
-      "unite.ai": 5,
-      "cnbeta.com.tw": 2,
-      "pasqualepillitteri.it": 2,
-      "mrjjxw.com": 1,
-      "china.com": 1,
-      "lg.gov.cn": 1,
-      "yzwb.net": 1,
+      "pasqualepillitteri.it": 9,
+      "sina.com.cn": 6,
+      "ac.cn": 2,
+      "oschina.net": 1,
+      "epochtimes.com": 1,
       "zhiding.cn": 1,
-      "epochtimes.com": 1
+      "xiaguangshe.com": 1,
+      "jfdaily.com": 1,
+      "yeeyi.com": 1,
+      "panewslab.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 9,
-    "relaxed_72h": 0,
+    "fresh1_24h": 10,
+    "page_fresh": 2,
+    "relaxed_72h": 11,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "把生活需求搓成专属应用，「千问Go!」上线“我的应用”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "AI房产经纪人，第一单成交了",
-      "d": "36kr.com"
-    },
-    {
-      "t": "腾讯QClaw公测188天后宣布停服，大厂个人助理竞争转向通用助手整合",
+      "t": "AI文创进入工业化阶段：生成式人工智能从创作工具演变为生产系统",
       "d": "huxiu.com"
     },
     {
-      "t": "曾鸣最新万字演讲：当下，像极了1993",
-      "d": "36kr.com"
+      "t": "Personal Agent成Q4最热AI赛道：Meta、OpenAI、Anth",
+      "d": "huxiu.com"
     },
     {
-      "t": "产品观察丨前OPPO老兵做了款AI旅行眼鏡，众筹超40万美元",
-      "d": "36kr.com"
+      "t": "南威软件的AI转型：从政务智能体走向算力与C端应用",
+      "d": "eastmoney.com"
     },
     {
-      "t": "海淀这里变身AI主场！2026 AI创造者嘉年华现场直击——",
+      "t": "突发利好！物理AI概念股集体爆发，多股业绩有望大增",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "“千问Go!”上线“我的应用”，不懂编程也能手搓学习、生活个人应用",
       "d": "sohu.com"
     },
     {
-      "t": "层层解密中孚AI布局，不止产品，更是战略",
-      "d": "10jqka.com.cn"
+      "t": "沙特放大招，人类退居二线，AI员工上岗，智能体互相谈生意",
+      "d": "sohu.com"
+    },
+    {
+      "t": "支付机构争相让中小商户用上AI，打着什么算盘",
+      "d": "ifeng.com"
     }
   ]
 }
