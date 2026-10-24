@@ -1,54 +1,46 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 41,
-    "trusted": 13,
+    "raw_dedup_junk": 29,
+    "trusted": 5,
     "non_trusted_top": {
-      "pasqualepillitteri.it": 9,
-      "sina.com.cn": 6,
-      "ac.cn": 2,
+      "pasqualepillitteri.it": 6,
+      "sina.com.cn": 4,
+      "sina.cn": 3,
+      "fxbaogao.com": 1,
+      "ebiotrade.com": 1,
       "oschina.net": 1,
-      "epochtimes.com": 1,
-      "zhiding.cn": 1,
-      "xiaguangshe.com": 1,
-      "jfdaily.com": 1,
-      "yeeyi.com": 1,
-      "panewslab.com": 1
+      "unite.ai": 1,
+      "icloudnews.net": 1,
+      "cyzone.cn": 1,
+      "ichaoqi.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 2,
-    "relaxed_72h": 11,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 4,
+    "page_fresh": 4,
+    "relaxed_72h": 1,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "AI文创进入工业化阶段：生成式人工智能从创作工具演变为生产系统",
-      "d": "huxiu.com"
+      "t": "扎克伯格的AI新版图：买下Sundial让数据分析变成“聊天”那么简单",
+      "d": "ifeng.com"
     },
     {
-      "t": "Personal Agent成Q4最热AI赛道：Meta、OpenAI、Anth",
-      "d": "huxiu.com"
+      "t": "让AI替你花钱，Muse带火的这波风潮能刮多久？",
+      "d": "sohu.com"
+    },
+    {
+      "t": "小巧机身驱动本地千亿级大模型：联想AI主机P7预览版亮相，同步启动“先享计划”",
+      "d": "sohu.com"
+    },
+    {
+      "t": "双11购物车里的AI暗战",
+      "d": "36kr.com"
     },
     {
       "t": "南威软件的AI转型：从政务智能体走向算力与C端应用",
       "d": "eastmoney.com"
-    },
-    {
-      "t": "突发利好！物理AI概念股集体爆发，多股业绩有望大增",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "“千问Go!”上线“我的应用”，不懂编程也能手搓学习、生活个人应用",
-      "d": "sohu.com"
-    },
-    {
-      "t": "沙特放大招，人类退居二线，AI员工上岗，智能体互相谈生意",
-      "d": "sohu.com"
-    },
-    {
-      "t": "支付机构争相让中小商户用上AI，打着什么算盘",
-      "d": "ifeng.com"
     }
   ]
 }

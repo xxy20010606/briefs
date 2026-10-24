@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 27,
+  "total": 31,
   "samples": [
     {
-      "title": "透视半导体成绩单",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY011cGprMEdZS1hjZnVDMzVxZWF1ZXIzRzB4MkFMY3B5OUJfS2otTFR6Snh0c3NqcEN3MXpobVB5VXR0NnAtdXp",
+      "title": "2026年，可以称之为“中国存储芯片元年”",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGJoWnZqaWVzMGZpYnFIZVRDU1AzUDRfOGFUM282VTJlRmlUUjZJNmxwcF9ZT0xsNENla2ZLR0tLdHQ0TjVkbU1",
       "source_url": "https://m.sohu.com",
-      "source": "搜狐"
+      "source": "搜狐网"
     },
     {
-      "title": "US 费城半导体指数",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNOFJRUlh6eHlUM2xfV1pYWWtBX3ZMVzV0V2FUY25DS3RWOE12TjZWa3V1UnI0MWROZUhnUmlTaUdmUDNFTElxVWl",
-      "source_url": "https://wap.cj.sina.cn",
-      "source": "手机新浪网"
+      "title": "ACCON 2026高端芯片产业创新发展大会圆满落幕",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZU5CNE5YNzdmQzh5dWlYYWx0S1JYNEdFNmFiV2dtalBtd1BCV3hZd19MZGdMVE5PTC1WS1BFdmswVWZiS0tHeGp",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUlBkNVdaVGxNUG1fbEJ0YjhMYjZHZ3hleHY2aXI3MkRsNTNqVlZyWFJ6ZUMxcTBUT3Qyb3JRblZqTEdudzlWbQ?",
+      "title": "源杰科技：公司产能扩充正按业务需求推进",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIRTdhRWszTXJIeS1JQXVSQjNDcmJXZk9vWkhxby1URkxJbk1ld3AyMDZqVmprUWNFNzJSZDBxdC1TQk9mTE51TjQ",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "美出口管制下英伟达芯片在中国黑市价格翻倍",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVHRlWVExVklCb3NDN1RNc0d1SlNmdUxqOUJvX1R1bDRfYmVqc0JTV3Z5SU1FLUJyOEl5RjljZURFMmsyS0J6SE1",
+      "source_url": "https://cnnews.chosun.com",
+      "source": "朝鮮日報中文版"
+    },
+    {
+      "title": "半导体设备供不应求！阿斯麦公布强劲财报：已有客户咨询2030年订单",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iM1h2amVhMngzTnM3M05XbHlTbHd0U2pNTi1RWDZTQkZoY2ZnSG54eEtwMzB4OXFtbVFtdExBQjFiWm5mb2FYMw?",
       "source_url": "https://www.cls.cn",
       "source": "财联社"
     },
     {
-      "title": "粤芯半导体(301660.SZ)：公司聚焦模拟和数模混合芯片领域_公司新闻_财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZZWVlNk8xMzMxSy1BNlJqdzEtbENjcFdRRTN4ZDNqX0REQkxtY1pkd0ljaTF3ZzVXUjBHRGZzeGhZMDM4QU1OYkZ",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "逆向投资半导体，VGT相较DRAM和SOXX的优势是什么？",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQZGtrUlBsRUVEazVxV2ZvREFVQ1Z5V2FJcWJXWks3Ql9FZjFQSi0xbW5yVWNjYXBndDVINDBhYXpvazhfQjR6MXB",
-      "source_url": "https://nai500.com",
-      "source": "NAI500"
-    },
-    {
-      "title": "喜报丨扬杰科技摘得金辑奖2026最佳技术实践应用奖",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VWmdrSFVsLWNCM0kxaE0yZEJvODRyS3dLSk5XbmNfT0VsN1RHMmNGYVRtM3J6OFctbFh3aVkyaVRvUVUxcE4taXZ",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "FINE 2027 先进半导体展：甄选1000+新材料，抢滩AI算力、功率与光电产业大市场！",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zejZnby02YVVKSDZmY3FvQ1ZDWk9kNHE5S1RSOUdITjVwVmkzdi0wM3VpWjJvRy04YVNVN1lsY0VVeFZRdU1FSVc",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     }
   ]
 }

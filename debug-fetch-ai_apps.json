@@ -1,40 +1,40 @@
 {
   "type": "ai_apps",
-  "total": 41,
+  "total": 29,
   "samples": [
     {
-      "title": "Railway 遭黑客攻击，最多 100,000 个 workspace 的密钥面临风险",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDNfYXZkeHBsdkZjbVVfUng5UUJuU0x1UTB5dEFMcTlkeHE3S25CSEhPYVR6elVyajBEMFI5bUVNWG4wZlBOVHZ",
+      "title": "AI短剧出海与创业生态受关注",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpQkhodTdwd0g0STJZWGs2b0dIbFRlcU5qVmFlbllWWlFDdEhFWmt6QURXX1JkMk42Qm9LVGhaakJFSUhnbkZaQkd",
+      "source_url": "https://k.sina.com.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "GEP:《人工智能在采购中的可实现未来｜投资分析》",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxa0gyRXlveHd6MWxGWHNoN093Zm43Mm53WlRNdWxRU2dPTFVNTTVnaHVWd3ZPQ2t3LVlrdl8zYkRabmluWUdKSk8",
+      "source_url": "https://www.fxbaogao.com",
+      "source": "发现报告"
+    },
+    {
+      "title": "Libre应用程序推出AI餐食血糖影响预测功能：通过照片评估并提供个性化控糖建议",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FRmVnVWtveER6SndTaFJkWE13S29JSVNaeElZclJUOGd3M0c4M19kTi0xZ05sb3c3ZDkwOW1JYVpzVklYSHI4TnU",
+      "source_url": "https://www.ebiotrade.com",
+      "source": "生物通"
+    },
+    {
+      "title": "Claude Code 上线 MCP Tasks，长任务在后台运行",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObDZJVVhtcDVIeF84Qkt2OFZYRVpjTEkzTGJQOHAyMWVNbHdZdmpCNkh0WjVWS1p0RFQ1OVpxUkJ6ZmRuTW9yS3J",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
+    },
+    {
+      "title": "美国禁止联邦机构使用 DeepSeek，融资轮约 120 亿美元",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2cwdTNTU0p2MC1uSElubXp3eTFRWVpLc3V5UU5hMlg0Ujl0TGFtZkJ0ZXNCT0FJaTBJcEV2cVg5ZWhfckJuam5",
       "source_url": "https://pasqualepillitteri.it",
       "source": "Pasquale Pillitteri"
     },
     {
       "title": "Kimi K3.1 Pro 发布，上下文达 100 万 token，开放权重将于 11 月 4 日前",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORWJBaVk1UVA1amZwVmwxZHhhQmg3LUswOFpYdFlwZmNMekFzOGVqOU5fRkNoVi1ITkRMUlF1cVBXazlxMkwyMGd",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "时间序列预测选哪个 AI？TimesFM-3、Chronos-2、Timestral 对比",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY014VUVSVGUyQmhsQkY2cjczYnowbjZuQWJ1dk9TakJyOEpqX3BCSXNKXzJTOEFFRm5mM1RKWEpsNjIxd1VMX21",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "2026 上海开源软件应用创新大赛「开源 AI 工具赛道」决赛名单公布- OSCHINA",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwRjlDLUdZMFIxNktqazNrVHoxSEcyN0lkNUNyOTdRcjI4akpQdWlXQ3JIdk1aMWlhbHI5Vnc0bDdhTl8xb2NOYTA",
-      "source_url": "https://www.oschina.net",
-      "source": "开源 × AI · 开发者生态社区"
-    },
-    {
-      "title": "南威软件的AI转型：从政务智能体走向算力与C端应用",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KZVpFaGtnNUVXVjV2VzZxb2ZtUEQwZElWUG9fMGZqM1RwQnJjSWR3TS1tX0hPaHFhLXZLX3d0dElJMHc0U19CM3p",
-      "source_url": "https://finance.eastmoney.com",
-      "source": "东方财富"
-    },
-    {
-      "title": "Canva Craft 上线 Dream Lab，Canva 首个图像生成模型",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQllPMTFpYUF4WVRCSkFoY1p1ck5oSkFtdGlZOEdtWFRpZ1ZOZHR6WlhqMEhiQjNSSEYtcF85V0pkM2hjV3VPd1N",
       "source_url": "https://pasqualepillitteri.it",
       "source": "Pasquale Pillitteri"
     }

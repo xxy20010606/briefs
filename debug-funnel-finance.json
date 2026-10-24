@@ -1,34 +1,32 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 23,
-    "trusted": 5,
+    "raw_dedup_junk": 20,
+    "trusted": 6,
     "non_trusted_top": {
-      "sina.com.cn": 6,
-      "stockstar.com": 2,
-      "orientaldaily.com.my": 2,
-      "jrj.com.cn": 2,
-      "fx678.com": 1,
-      "bihainews.com": 1,
-      "sina.cn": 1,
-      "jin10.com": 1,
-      "china.com": 1,
-      "hstong.com": 1
+      "sina.com.cn": 9,
+      "moomoo.com": 3,
+      "stockstar.com": 1,
+      "jin10.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 0,
+    "fresh1_24h": 5,
+    "page_fresh": 1,
     "relaxed_72h": 2,
-    "final": 2,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
+    {
+      "t": "“AI算力过剩论”搅动美股半导体板块：10月市值蒸发2.2万亿美元，马斯克、黄仁",
+      "d": "10jqka.com.cn"
+    },
     {
       "t": "美联储10月会议前瞻：暂停加息仍是一次政策校准",
       "d": "163.com"
     },
     {
-      "t": "恒生科技指数上涨2.05%，虚拟现实板块表现强势｜港股收评",
-      "d": "21jingji.com"
+      "t": "港股科网股大反攻，小米涨超5%，A股券商、零售板块逆势走强，上海九百3连板",
+      "d": "10jqka.com.cn"
     }
   ]
 }

@@ -1,54 +1,51 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 27,
-    "trusted": 12,
+    "raw_dedup_junk": 31,
+    "trusted": 20,
     "non_trusted_top": {
-      "sina.cn": 3,
-      "stockstar.com": 2,
+      "sina.cn": 2,
+      "chosun.com": 2,
+      "icsmart.cn": 2,
       "sina.com.cn": 2,
-      "nai500.com": 1,
-      "donews.com": 1,
-      "futunn.com": 1,
-      "hk01.com": 1,
-      "gz-cmc.com": 1,
-      "infoobs.com": 1,
-      "lavx.hu": 1
+      "mydrivers.com": 1,
+      "cjn.cn": 1,
+      "moomoo.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 4,
-    "relaxed_72h": 5,
+    "fresh1_24h": 20,
+    "page_fresh": 12,
+    "relaxed_72h": 3,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "透视半导体成绩单",
+      "t": "2026年，可以称之为“中国存储芯片元年”",
       "d": "sohu.com"
     },
     {
-      "t": "ITIF：AI驱动存储芯片短缺属结构性错配，美国政策应扩大长期产能而非干预分配",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "8.39亿元！AI应用跨界磷化铟企业，签下重大采购合同",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "海信乾照南昌基地增资扩产，未来显示芯片项目拟投资2.28亿元",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "寒武纪三季度营收35.31亿元 归母净利同比增147.74%",
+      "t": "ACCON 2026高端芯片产业创新发展大会圆满落幕",
       "d": "sohu.com"
     },
     {
-      "t": "韬定律之外，中国芯片还有另外一条路？",
-      "d": "guancha.cn"
+      "t": "FINE 2027 先进半导体展：甄选1000+新材料，抢滩AI算力、功率与光电",
+      "d": "eet-china.com"
     },
     {
-      "t": "美股芯片、光通信板块，盘前集体上涨",
-      "d": "21jingji.com"
+      "t": "2026 混合键合元年：先进封装设备领域的\"隐形冠军\"Besi 装备全景解读——",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "AI芯片催热玻璃基板，友达布局金属化、RDL与中介层",
+      "d": "laoyaoba.com"
+    },
+    {
+      "t": "韩国央行：芯片热潮持续提振经济 芯片价格有望进一步增长",
+      "d": "cls.cn"
+    },
+    {
+      "t": "上周散户“创纪录”抄底美国芯片杠杆ETF，本周跌爆了",
+      "d": "wallstreetcn.com"
     }
   ]
 }

@@ -1,54 +1,42 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 57,
-    "trusted": 22,
+    "raw_dedup_junk": 31,
+    "trusted": 9,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "sina.cn": 4,
-      "ac.cn": 4,
-      "pasqualepillitteri.it": 2,
-      "fxbaogao.com": 1,
-      "mrjjxw.com": 1,
-      "ikanchai.com": 1,
-      "guandian.cn": 1,
-      "smartcity.team": 1,
-      "techwalker.com": 1
+      "sina.com.cn": 7,
+      "sina.cn": 2,
+      "voc.com.cn": 2,
+      "zqrb.cn": 1,
+      "icloudnews.net": 1,
+      "china.com": 1,
+      "bjd.com.cn": 1,
+      "cnhubei.com": 1,
+      "csdn.net": 1,
+      "zaochenbao.com": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 4,
-    "relaxed_72h": 16,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 8,
+    "page_fresh": 3,
+    "relaxed_72h": 1,
+    "final": 4,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "Token扎堆上架电商双11，最多只便宜3块钱？",
-      "d": "36kr.com"
+      "t": "大模型搭建语言桥梁：广外“文脉・汉语道”助力全球中文智慧教学- 中国日报网",
+      "d": "chinadaily.com.cn"
     },
     {
-      "t": "AI信徒王兴兴一段话，宇树涨了54%，但考验在后面",
-      "d": "36kr.com"
+      "t": "信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍",
+      "d": "thepaper.cn"
     },
     {
-      "t": "“让 Token 不空转”，讯飞如何把 Agent 推进企业核心流程",
-      "d": "infoq.cn"
+      "t": "多个App拒绝豆包手机助手 金融机构对外部智能体说“不”",
+      "d": "21jingji.com"
     },
     {
       "t": "南威软件的AI转型：从政务智能体走向算力与C端应用",
       "d": "eastmoney.com"
-    },
-    {
-      "t": "美股低开，三大电信股齐跌4%；国办：减缓人工智能应用就业替代影响；花旗证券中国获",
-      "d": "nbd.com.cn"
-    },
-    {
-      "t": "讯飞星火医疗大模型V3.7升级，AI患者管理3.0发布并启动行业标准共建",
-      "d": "sohu.com"
-    },
-    {
-      "t": "Momenta曹旭东：世界模型加速智驾摩尔定律，2028年将迎来L4规模化拐点",
-      "d": "sohu.com"
     }
   ]
 }

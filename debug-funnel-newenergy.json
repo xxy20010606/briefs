@@ -1,42 +1,50 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 33,
-    "trusted": 5,
+    "raw_dedup_junk": 36,
+    "trusted": 6,
     "non_trusted_top": {
-      "autohome.com.cn": 8,
+      "autohome.com.cn": 12,
       "sina.com.cn": 5,
-      "stockstar.com": 4,
-      "sina.cn": 3,
-      "sdnews.com.cn": 1,
-      "sznews.com": 1,
-      "in-en.com": 1,
-      "epochtimes.com": 1,
-      "idnfinancials.com": 1,
-      "ua.news": 1
+      "stockstar.com": 3,
+      "sina.cn": 2,
+      "ne21.com": 1,
+      "gansudaily.com.cn": 1,
+      "vietnam.vn": 1,
+      "news18a.com": 1,
+      "mywheels.my": 1,
+      "atvnewsonline.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 0,
-    "relaxed_72h": 4,
-    "final": 4,
+    "fresh1_24h": 6,
+    "page_fresh": 6,
+    "relaxed_72h": 0,
+    "final": 6,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "这两年全世界好像不怎么关心环保了，我们中国为啥还在坚定推动呢？",
-      "d": "guancha.cn"
+      "t": "这家公司2年涨7倍，光伏产业还有哪些“金贝”待捡？_市场掘金_市场",
+      "d": "cnfol.com"
     },
     {
-      "t": "中能建转让3家新能源公司股权！",
+      "t": "甘肃环县：追风逐光“绿”动发展",
       "d": "sohu.com"
     },
     {
-      "t": "三安光电：实控人林秀成被检察机关批准逮捕",
-      "d": "sohu.com"
+      "t": "高速＋换电＋光伏，陕西交控牵手宁德时代要干三件大事",
+      "d": "eet-china.com"
     },
     {
-      "t": "长时储能的发展趋势如何？从2小时到8小时，头部企业提前卡位的逻辑",
-      "d": "sohu.com"
+      "t": "一周碳要闻：全国碳市场配额累计成交突破10亿吨（碳报第217期）",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "狂飙之后的防火墙：新国标落地，存量储能迎来看不见的风险大考",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "A股反弹 逾4500只个股上涨 机构：多重积极因素将支撑市场逐步企稳",
+      "d": "cnstock.com"
     }
   ]
 }

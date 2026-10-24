@@ -1,29 +1,41 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 52,
-    "trusted": 24,
+    "raw_dedup_junk": 40,
+    "trusted": 20,
     "non_trusted_top": {
-      "sina.cn": 5,
       "sina.com.cn": 4,
-      "rediandf.com": 2,
-      "66wz.com": 1,
-      "vietnam.vn": 1,
+      "sina.cn": 4,
+      "china.com": 2,
+      "haiwaiwai.com": 1,
+      "creaders.net": 1,
+      "rediandf.com": 1,
       "17173.com": 1,
-      "foro3d.com": 1,
-      "cnnb.com.cn": 1,
-      "oeeee.com": 1,
-      "yynews.com.cn": 1
+      "yzwb.net": 1,
+      "jpchinapress.com": 1,
+      "hangzhou.com.cn": 1
     },
-    "fresh1_24h": 18,
-    "page_fresh": 3,
-    "relaxed_72h": 20,
+    "fresh1_24h": 19,
+    "page_fresh": 18,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2026北京亦庄·未来游戏电竞科技大会成功举办",
+      "t": "首部拿“龙标”的AI电影，上映次日票房仅50万",
+      "d": "163.com"
+    },
+    {
+      "t": "首部拿到“龙标”AI电影正式上映 上映两日票房40万元",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "从《早春晴朗》《逐玉》到《伟大的长征》《法官的荣耀》，“济南出品”火遍海内外",
+      "d": "sohu.com"
+    },
+    {
+      "t": "Q3剧集发行观察：《夜旅人》换脸重生、孟子义双剧下证、尾鱼IP双响",
       "d": "sohu.com"
     },
     {
@@ -31,24 +43,12 @@
       "d": "jiemian.com"
     },
     {
-      "t": "国家大剧院新版歌剧《长征》首演",
-      "d": "gmw.cn"
+      "t": "对话AI神曲《过来人》创作者王琨喆：AI时代，流量爆款是否能被“设计”？",
+      "d": "thepaper.cn"
     },
     {
-      "t": "光影铭刻伟大远征，电影《四渡》延长上映至11月30日",
-      "d": "bjnews.com.cn"
-    },
-    {
-      "t": "赛事流量如何变产业增量？亦庄构筑电竞生态底座",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "HKC真电竞品牌日燃动京城，联合京东携手人气嘉宾共筑电竞狂欢",
-      "d": "sohu.com"
-    },
-    {
-      "t": "三星堆刻符串起古今，AI长片《三星堆：未来往事》今日上映- 国际在线移动版",
-      "d": "cri.cn"
+      "t": "意大利老牌歌剧院唱响“中国扇”，飞吻献给上海观众",
+      "d": "yicai.com"
     }
   ]
 }
