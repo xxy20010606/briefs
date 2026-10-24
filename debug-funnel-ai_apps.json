@@ -1,46 +1,46 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 29,
+    "raw_dedup_junk": 42,
     "trusted": 5,
     "non_trusted_top": {
-      "pasqualepillitteri.it": 6,
+      "pasqualepillitteri.it": 16,
       "sina.com.cn": 4,
-      "sina.cn": 3,
-      "fxbaogao.com": 1,
-      "ebiotrade.com": 1,
-      "oschina.net": 1,
-      "unite.ai": 1,
-      "icloudnews.net": 1,
-      "cyzone.cn": 1,
-      "ichaoqi.com": 1
+      "stockstar.com": 2,
+      "mydrivers.com": 2,
+      "mezha.net": 2,
+      "ikanchai.com": 1,
+      "moomoo.com": 1,
+      "china.com": 1,
+      "pingwest.com": 1,
+      "autohome.com.cn": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 4,
-    "relaxed_72h": 1,
+    "fresh1_24h": 5,
+    "page_fresh": 1,
+    "relaxed_72h": 4,
     "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "扎克伯格的AI新版图：买下Sundial让数据分析变成“聊天”那么简单",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "让AI替你花钱，Muse带火的这波风潮能刮多久？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "小巧机身驱动本地千亿级大模型：联想AI主机P7预览版亮相，同步启动“先享计划”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "双11购物车里的AI暗战",
+      "t": "「豆包工作」上线，AI巨头狂卷办公场景，独立客户端成标配？",
       "d": "36kr.com"
     },
     {
-      "t": "南威软件的AI转型：从政务智能体走向算力与C端应用",
-      "d": "eastmoney.com"
+      "t": "中国移动携手主流车企发布业内首个汽车行业AI基座，让车企无需自建即可按需取用",
+      "d": "sohu.com"
+    },
+    {
+      "t": "从算力到场景：AI如何真正走进产业——第三届“科技产业金融协同发展论坛”人工智能",
+      "d": "sohu.com"
+    },
+    {
+      "t": "国家队认证！信通院评测健康垂类AI应用，百度四项第一",
+      "d": "sohu.com"
+    },
+    {
+      "t": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
+      "d": "leiphone.com"
     }
   ]
 }

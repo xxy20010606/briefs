@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 31,
+  "total": 36,
   "samples": [
     {
-      "title": "大模型搭建语言桥梁：广外“文脉・汉语道”助力全球中文智慧教学- 中国日报网",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93THhqV3hsNUkwSV95MG85YkdqcmFiR0FOSnRmSkF0dTBFZzdlRXlvYTZJLVNTSjFqRXFFMjJMVnoydGl5dlFCU09",
-      "source_url": "https://gd.chinadaily.com.cn",
-      "source": "China Daily"
+      "title": "放大“人工智能+制造”加速器作用",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wUUZKSFZSU3E5MExrZkk1SzVDSzBZNjQyRUV6dEhzQ1lWSWxZelh2QlAzUEpXaVB2YXNDc3pjSjN2YWdxay1BSkF",
+      "source_url": "http://www.jingjiribao.cn",
+      "source": "www.jingjiribao.cn"
     },
     {
-      "title": "3万亿级参数规模 全球最大开源AI大模型上新",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT2MzcWdwZm9HWUlHYkZMMjEzRmFTT2JOZXJ5RVNwY0JNVDlCQ0dsQmN1Z0dMU3ZRcm9XclRJbHZDUE1FNzM0elB",
-      "source_url": "https://k.sina.com.cn",
-      "source": "新浪网"
+      "title": "“Token自由”如何实现？联想AI主机P7预览版以国产双芯驱动本地千亿级大模型",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XREF5ZUo5Q3dCRElMM3hUSVMtS3VDVGdXTTBSQThPaDdYV1E5clpoTUNLUGRmQkVWdkJacDB0MnRGZHpoUkJRVy0",
+      "source_url": "https://telecom.chinabyte.com",
+      "source": "比特网"
     },
     {
-      "title": "对内智小能，对外“人家+”战略：海尔智家的AI转型有多彻底",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KMU9naFAzWkd3TmJJUHVxZ0I4cGU5b3Z0bHQzdHNMWjVnVTdpLWFBa1djR3hobU9kZG1neFJFdXFvLUJlaTFHMXN",
-      "source_url": "https://user.guancha.cn",
-      "source": "风闻"
+      "title": "V4全系列模型上线后，DeepSeek Harness开发者预览版开放测试",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wd0JWNXNkT3NmUy1UV09ldm1iSXY3dTllQ1o1ZFg5MFZPS1BRY3RCTUJLc05UYWJTb1R6VHhoT0NXM3hJQU5xLQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "数据投毒、批量造谣、时间空白……当日本用AI篡改历史",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mbVdTTGlYNmZmc0pULTVBU2hQY3RaemlYdUZIU2hGNDlPem8wRzJxRFlNNU9KUUstakJja05sMi1YMnd1UXdaNmt",
-      "source_url": "https://finance.sina.cn",
+      "title": "中国信通院：国内词元服务每秒吞吐量较2025年翻倍，仍低于国外",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsSU5LTTExM0JQYUxGTW0tRWhlanJfZHZ3T0I3SWRpYnBHaVl0WkdyTDhSXzNBWUNwRi1RaEd2ZW5xWm5jTTQ4M0d",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
+    },
+    {
+      "title": "中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9La3dxMVlzeEZfaGZ4Zm1FR3UxZlFGbUhicklNbnJuekg5dFpkUzlXQzROUjJPek9MN2xiNUZYM1ViMmNXTmloUjd",
+      "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "朗新科技阐释业务发展实践成果",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2QXVmR1RUXzZhcE14NHdOb194aUxHNVZzOGpidm5DVS1melU2MnozV0pKS1BKSWdiaE9MZ3NNVjVlZXFobnlKM1Z",
-      "source_url": "http://m.zqrb.cn",
-      "source": "m.zqrb.cn"
-    },
-    {
-      "title": "信通院报告：大模型价格回升明显，词元价格较去年下半年翻倍，日均消耗量增长3倍",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NREU0Z0xtcWRJOFRTRVNpUDBGaGFCVTB6Q3VwMV82czA2ZDVVSmI5TEowdHdxeFFiY2dzNk52MzV6aC1MRzREdlh",
-      "source_url": "https://www.thepaper.cn",
-      "source": "ThePaper.cn"
+      "title": "垂域大模型看山东丨以应用场景牵引模型创新 人工智能赋能千行百业",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTF9heU94UVpHaVV5WUtRTWxRQUdPX0g5NHdkWk41Z0dlQ0lXU016a242VTZoemdXTWVhbWFxSUc1ZXY1c3ZQNzR",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     }
   ]
 }

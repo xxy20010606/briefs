@@ -1,30 +1,18 @@
 {
   "type": "semiconductor",
-  "total": 31,
+  "total": 26,
   "samples": [
     {
-      "title": "2026年，可以称之为“中国存储芯片元年”",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGJoWnZqaWVzMGZpYnFIZVRDU1AzUDRfOGFUM282VTJlRmlUUjZJNmxwcF9ZT0xsNENla2ZLR0tLdHQ0TjVkbU1",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUlBkNVdaVGxNUG1fbEJ0YjhMYjZHZ3hleHY2aXI3MkRsNTNqVlZyWFJ6ZUMxcTBUT3Qyb3JRblZqTEdudzlWbQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "ACCON 2026高端芯片产业创新发展大会圆满落幕",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZU5CNE5YNzdmQzh5dWlYYWx0S1JYNEdFNmFiV2dtalBtd1BCV3hZd19MZGdMVE5PTC1WS1BFdmswVWZiS0tHeGp",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "源杰科技：公司产能扩充正按业务需求推进",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIRTdhRWszTXJIeS1JQXVSQjNDcmJXZk9vWkhxby1URkxJbk1ld3AyMDZqVmprUWNFNzJSZDBxdC1TQk9mTE51TjQ",
-      "source_url": "https://finance.sina.cn",
+      "title": "美国：这个我是真没卡住! 中国第三代半导体全面崛起! 拿下 90% 市场!",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRHVjaktIYkVYTEJ5UmpwcEROYlU2Ml9EZTdIdm0yb0JKcEhVSUppSDdMcDd1WWw0Nmdfcml2N1ROOEJKSW9ld1h",
+      "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
-    },
-    {
-      "title": "美出口管制下英伟达芯片在中国黑市价格翻倍",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVHRlWVExVklCb3NDN1RNc0d1SlNmdUxqOUJvX1R1bDRfYmVqc0JTV3Z5SU1FLUJyOEl5RjljZURFMmsyS0J6SE1",
-      "source_url": "https://cnnews.chosun.com",
-      "source": "朝鮮日報中文版"
     },
     {
       "title": "半导体设备供不应求！阿斯麦公布强劲财报：已有客户咨询2030年订单",
@@ -33,10 +21,22 @@
       "source": "财联社"
     },
     {
-      "title": "FINE 2027 先进半导体展：甄选1000+新材料，抢滩AI算力、功率与光电产业大市场！",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zejZnby02YVVKSDZmY3FvQ1ZDWk9kNHE5S1RSOUdITjVwVmkzdi0wM3VpWjJvRy04YVNVN1lsY0VVeFZRdU1FSVc",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "美光93亿美元扩建广岛项目动工 预计2028下半年出货HBM",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE94dWRHSUNMSGEyczRSS3ZHQ3JlMFY3cVRTcmpadkpmY0ZQQmRSb19rS1lzMlJaaTBqMXYyWlJHVVFHaTFCUGxTNQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tZmJ1Z3AtaGlHMG1MVDU3bEUwVTVxbmQ0SGYzQU9XUGdyek5NcjVhMWtpek9XLXFSdjdqWVlqYS0wTzZnOExfTg?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "Terafab有望威胁到台积电？ 分析师警告：马斯克+英特尔=大麻烦！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXMGJObGtkNUJDUkhiMTVyNTI3TFN5ZWZwV0FkZmRqLVAzQXhjR09uS204VnVEZXV2cDc2TFVEM2Ewai12TVJWdQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }

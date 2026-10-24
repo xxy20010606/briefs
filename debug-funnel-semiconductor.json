@@ -1,51 +1,50 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 31,
-    "trusted": 20,
+    "raw_dedup_junk": 26,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.cn": 2,
-      "chosun.com": 2,
-      "icsmart.cn": 2,
+      "sina.cn": 3,
       "sina.com.cn": 2,
+      "foro3d.com": 1,
       "mydrivers.com": 1,
-      "cjn.cn": 1,
-      "moomoo.com": 1
+      "china.com": 1,
+      "cinie.net": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 12,
-    "relaxed_72h": 3,
+    "fresh1_24h": 16,
+    "page_fresh": 3,
+    "relaxed_72h": 9,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2026年，可以称之为“中国存储芯片元年”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "ACCON 2026高端芯片产业创新发展大会圆满落幕",
-      "d": "sohu.com"
-    },
-    {
-      "t": "FINE 2027 先进半导体展：甄选1000+新材料，抢滩AI算力、功率与光电",
+      "t": "盛美上海单晶圆高温SPM设备迭代！",
       "d": "eet-china.com"
     },
     {
-      "t": "2026 混合键合元年：先进封装设备领域的\"隐形冠军\"Besi 装备全景解读——",
-      "d": "eet-china.com"
+      "t": "芯碁微装(09630)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
     },
     {
-      "t": "AI芯片催热玻璃基板，友达布局金属化、RDL与中介层",
-      "d": "laoyaoba.com"
+      "t": "半导体设备ETF易方达(SZ159558)股票股价_股价行情_讨论_资讯_财报_",
+      "d": "xueqiu.com"
     },
     {
-      "t": "韩国央行：芯片热潮持续提振经济 芯片价格有望进一步增长",
+      "t": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基",
       "d": "cls.cn"
     },
     {
-      "t": "上周散户“创纪录”抄底美国芯片杠杆ETF，本周跌爆了",
-      "d": "wallstreetcn.com"
+      "t": "Terafab有望威胁到台积电？ 分析师警告：马斯克+英特尔=大麻烦！",
+      "d": "cls.cn"
+    },
+    {
+      "t": "GeForce短缺是假的！英伟达逼云厂商买用不了的AI芯片 RTX 5090沦为",
+      "d": "sohu.com"
+    },
+    {
+      "t": "Nvidia携手韩企，AI联盟进军电子元件",
+      "d": "sohu.com"
     }
   ]
 }

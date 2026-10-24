@@ -1,50 +1,42 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 36,
-    "trusted": 6,
+    "raw_dedup_junk": 31,
+    "trusted": 7,
     "non_trusted_top": {
-      "autohome.com.cn": 12,
-      "sina.com.cn": 5,
-      "stockstar.com": 3,
-      "sina.cn": 2,
-      "ne21.com": 1,
-      "gansudaily.com.cn": 1,
+      "autohome.com.cn": 11,
+      "sina.com.cn": 9,
+      "tianjinwe.com": 1,
+      "sina.cn": 1,
       "vietnam.vn": 1,
-      "news18a.com": 1,
-      "mywheels.my": 1,
-      "atvnewsonline.com": 1
+      "ycnews.cn": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 6,
-    "relaxed_72h": 0,
-    "final": 6,
+    "fresh1_24h": 7,
+    "page_fresh": 2,
+    "relaxed_72h": 3,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "这家公司2年涨7倍，光伏产业还有哪些“金贝”待捡？_市场掘金_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "甘肃环县：追风逐光“绿”动发展",
+      "t": "日本先研究出了氢能电池，申请了上千个专利，等着躺着挣钱，结果比亚迪、特斯拉不用，",
       "d": "sohu.com"
     },
     {
-      "t": "高速＋换电＋光伏，陕西交控牵手宁德时代要干三件大事",
-      "d": "eet-china.com"
+      "t": "比亚迪(SZ002594)_比亚迪怎么样",
+      "d": "xueqiu.com"
+    },
+    {
+      "t": "湖北下发“十五五”能源体系新规：风、光新增约30GW，推进绿电直连、算电协同",
+      "d": "sohu.com"
+    },
+    {
+      "t": "创业环保前三季度实现营收34.47亿元，净利润达7.18亿元",
+      "d": "sohu.com"
     },
     {
       "t": "一周碳要闻：全国碳市场配额累计成交突破10亿吨（碳报第217期）",
       "d": "bjnews.com.cn"
-    },
-    {
-      "t": "狂飙之后的防火墙：新国标落地，存量储能迎来看不见的风险大考",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "A股反弹 逾4500只个股上涨 机构：多重积极因素将支撑市场逐步企稳",
-      "d": "cnstock.com"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 40,
-    "trusted": 20,
+    "raw_dedup_junk": 42,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "sina.cn": 4,
-      "china.com": 2,
-      "haiwaiwai.com": 1,
-      "creaders.net": 1,
+      "hupu.com": 4,
+      "hk01.com": 3,
+      "jinantimes.com.cn": 2,
+      "bjd.com.cn": 2,
+      "sina.com.cn": 2,
+      "epochtimes.com": 1,
+      "starnewskorea.com": 1,
       "rediandf.com": 1,
-      "17173.com": 1,
-      "yzwb.net": 1,
-      "jpchinapress.com": 1,
-      "hangzhou.com.cn": 1
+      "atvnewsonline.com": 1,
+      "cm3721.com": 1
     },
-    "fresh1_24h": 19,
-    "page_fresh": 18,
-    "relaxed_72h": 0,
+    "fresh1_24h": 5,
+    "page_fresh": 2,
+    "relaxed_72h": 11,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "首部拿“龙标”的AI电影，上映次日票房仅50万",
+      "t": "早读｜首部AI电影上映两天以来票房“平静”",
+      "d": "sohu.com"
+    },
+    {
+      "t": "【艺评】舞台那么大，何必只有一种“好看”",
+      "d": "sohu.com"
+    },
+    {
+      "t": "京西电竞节焕新亮相首钢园 产业矩阵激活区域新动能",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "2026全国小剧场京剧“群英会”剧目展演启幕",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "看完孟子义新剧《尚公主》，不禁感慨：古偶剧靠炒CP，真是缘木求鱼！",
       "d": "163.com"
     },
     {
-      "t": "首部拿到“龙标”AI电影正式上映 上映两日票房40万元",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "从《早春晴朗》《逐玉》到《伟大的长征》《法官的荣耀》，“济南出品”火遍海内外",
-      "d": "sohu.com"
-    },
-    {
-      "t": "Q3剧集发行观察：《夜旅人》换脸重生、孟子义双剧下证、尾鱼IP双响",
-      "d": "sohu.com"
-    },
-    {
-      "t": "国内首部持证AI院线片上映，博纳股价迎反弹涨超4%",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "对话AI神曲《过来人》创作者王琨喆：AI时代，流量爆款是否能被“设计”？",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "意大利老牌歌剧院唱响“中国扇”，飞吻献给上海观众",
+      "t": "戏剧大师最后的作品来沪，在舞台上呈现无穷无尽的大海",
       "d": "yicai.com"
+    },
+    {
+      "t": "2026横店影视文化产业发展大会举行，东阳打出“政策+科技+国际传播”组合拳",
+      "d": "chinadaily.com.cn"
     }
   ]
 }
