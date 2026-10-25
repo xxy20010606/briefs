@@ -1,50 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 25,
-    "trusted": 15,
+    "raw_dedup_junk": 33,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.com.cn": 2,
-      "c114.net.cn": 2,
+      "sina.com.cn": 4,
       "stockstar.com": 2,
-      "jin10.com": 2,
-      "leikeji.com": 1,
-      "icsmart.cn": 1
+      "chosun.com": 2,
+      "voc.com.cn": 1,
+      "voi.id": 1,
+      "moomoo.com": 1,
+      "sphericalinsights.com": 1,
+      "blockweeks.com": 1,
+      "futunn.com": 1,
+      "sina.cn": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 9,
-    "relaxed_72h": 2,
+    "fresh1_24h": 16,
+    "page_fresh": 3,
+    "relaxed_72h": 9,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "三安光电实控人林秀成因涉嫌职务侵占、挪用资金罪被批准逮捕",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "最大芯片IPO告吹",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "法国媒体：中国芯片产业，已形成“3+2”格局，美国限制不住了",
+      "t": "鹏华基金罗英宇旗下鹏华国证半导体芯片ETF三季报最新持仓，重仓寒武纪",
       "d": "sohu.com"
     },
     {
-      "t": "行进中国｜老机床“退役” 新产线“上岗”",
-      "d": "sohu.com"
+      "t": "公告全知道",
+      "d": "cls.cn"
     },
     {
-      "t": "港交所推出两大新指数",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "[深度解析] 高压SiC/GaN芯片嵌埋式PCB封装全路径解析：晶圆->镀铜->",
-      "d": "eet-china.com"
+      "t": "“最牛天使”夏佐全，将迎来一个新IPO",
+      "d": "36kr.com"
     },
     {
       "t": "深水！中国稀土最严禁令随时落地！台积电可能成为第一个停摆的芯片厂！",
       "d": "guancha.cn"
+    },
+    {
+      "t": "芯德半导体通过港交所聆讯：前4个月营收3.6亿元，同比增长17%",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "德明利三季报：归母净利润同比增29倍，企业级存储业务放量",
+      "d": "sohu.com"
+    },
+    {
+      "t": "存储龙头，三季度净利猛增超2900%！",
+      "d": "10jqka.com.cn"
     }
   ]
 }

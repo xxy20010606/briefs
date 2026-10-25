@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 15,
+    "raw_dedup_junk": 33,
+    "trusted": 13,
     "non_trusted_top": {
+      "sina.com.cn": 4,
       "sina.cn": 4,
-      "sina.com.cn": 3,
-      "lavx.hu": 2,
-      "bjd.com.cn": 1,
-      "worldjournal.com": 1,
-      "jinantimes.com.cn": 1,
-      "rednet.cn": 1,
-      "ichaoqi.com": 1,
-      "csdn.net": 1,
-      "jingjiribao.cn": 1
+      "ichaoqi.com": 2,
+      "autohome.com.cn": 1,
+      "ac.cn": 1,
+      "ac.id": 1,
+      "voc.com.cn": 1,
+      "icloudnews.net": 1,
+      "cztv.com": 1,
+      "shobserver.cn": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 3,
+    "relaxed_72h": 9,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "算力新场景丨在政务服务中心 像买水电一样买token",
+      "t": "斯坦福Nature正刊：论文不只用来读，还能直接跑",
       "d": "sohu.com"
     },
     {
-      "t": "垂域大模型看山东｜以应用场景牵引模型创新 人工智能赋能千行百业",
+      "t": "Town获1.08亿美元B轮融资估值10亿，主打中小企业AI智能体",
       "d": "sohu.com"
     },
     {
-      "t": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振中国AI“",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应",
+      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
       "d": "36kr.com"
     },
     {
-      "t": "财新闻｜全球最大开源AI大模型上新！Kimi K3.1 Pro横空出世",
-      "d": "caixin.com"
-    },
-    {
-      "t": "AMD以约82亿美元全股票交易收购World Labs，李飞飞将任执行副总裁兼首",
+      "t": "广电AI采购转向词元订阅：北京台300万元购火山引擎Seedance，云南台6天",
       "d": "huxiu.com"
     },
     {
-      "t": "超1/4程序员已转型，AI与芯片成高薪新风口",
-      "d": "21jingji.com"
+      "t": "算力新场景丨在政务服务中心 像买水电一样买token",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "“人工智能+”开辟新范式：AI赋能科幻IP再“叙事”",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "阿里千问蒋冠军谈个人AI智能体技术框架：需要模型、记忆与生态协同推进",
+      "d": "ifeng.com"
     }
   ]
 }

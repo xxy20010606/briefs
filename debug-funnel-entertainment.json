@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 46,
-    "trusted": 11,
+    "raw_dedup_junk": 53,
+    "trusted": 12,
     "non_trusted_top": {
-      "china.com": 4,
+      "hupu.com": 6,
+      "sina.cn": 4,
+      "sina.com.cn": 4,
       "bjd.com.cn": 3,
-      "hk01.com": 2,
-      "sina.com.cn": 2,
-      "360.com": 2,
-      "zjol.com.cn": 2,
-      "hangzhou.com.cn": 2,
-      "jfdaily.com": 1,
-      "epochtimes.com": 1,
-      "rediandf.com": 1
+      "cnbeta.com.tw": 2,
+      "yzwb.net": 2,
+      "cztv.com": 1,
+      "aboluowang.com": 1,
+      "yuanxian1.com": 1,
+      "com.sg": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 10,
-    "relaxed_72h": 1,
+    "fresh1_24h": 9,
+    "page_fresh": 3,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "首部龙标AI电影《三星堆：未来往事》上映：票房不足80万，故事能否说服观众？",
+      "t": "AI长片首获“龙标”却票房遇冷：技术过关了，观众还没买账",
       "d": "sohu.com"
     },
     {
-      "t": "耗资1亿上映3天就被判死刑，票房仅202万，流量明星成一个笑话",
+      "t": "肖战南京演唱会唱《满足》突然哭了！出道十年首场巡演，500万人想看背后的真诚",
       "d": "sohu.com"
     },
     {
-      "t": "在前滩，产城融合构筑栖息沃土",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "“毛不易情商”上热搜，吃瓜群众没必要断章取义 | 新京报快评",
+      "t": "“剧好生活”视听潮集11月3日开集，爆款IP周边一次逛够",
       "d": "bjnews.com.cn"
     },
     {
-      "t": "“2026年致敬经典·国际修复电影展”苏州启幕",
+      "t": "首部AI院线电影遇冷，上映3天收获115万票房",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "电竞嘉年华首设社区组上海张江以赛为媒聚商留才-中新社上海",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "娱乐资本论实测六大模型写餐饮商战短剧：Claude最有“烧心味”，豆包擅长生成金",
-      "d": "huxiu.com"
+      "t": "2026京西电竞节启幕，点亮石景山“电竞之城”城市名片",
+      "d": "ifeng.com"
     },
     {
-      "t": "成本千万替掉三亿实拍，国内首部AI电影来了",
-      "d": "ifeng.com"
+      "t": "国内首部 AI 院线长片《三星堆：未来往事》，票房过百万",
+      "d": "ithome.com"
     }
   ]
 }

@@ -1,40 +1,40 @@
 {
   "type": "finance",
-  "total": 33,
+  "total": 37,
   "samples": [
     {
-      "title": "谁能在三季度跨过百亿门槛？17家私募新晋百亿，9家重返",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MUlVwbi1tcmxSUG5jYm5TakNqd2dmTzVOWndzNXJNdG1yeWJtN3BaOHozUjIwU0tiOHlkRjQ2aGJBdTJJdWdFSjR",
+      "title": "高盛：散户交易较2025年末降45%，家庭买盘仍成美股“压舱石” 维持标普500年底看涨至8000点",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXRWeDFLTTZnSTJyQ2NTNjRQVEJUdkVSdC1xYjRlSlJNR0x0QldtcDBta1pSVTFFancybFQtblRiOWZqdmJuaEp",
+      "source_url": "https://www.moomoo.com",
+      "source": "Moomoo"
+    },
+    {
+      "title": "A股估值吸引力正在显现",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeGZVcTloVXRySFpFazZmODBINUJpc2Q5X2JaV0MyNlEyUFRUUWtNamdHRERBZlZKcHppMW1yaGxLZUNQV0dsOHN",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "688808拟赴港 净利暴增18倍",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DNFdIc0t6QzJVcnBXM21VTkl3S0d5QjE1c1VBYlU5T0ExN1NEVDJqVktUY1BxX2xOQ3hfVE5ReHdjYi13VV9qeWZ",
+      "title": "A股：大家要做好心理预期，未来一个月，股市很可能再次经历8月份的行情！",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2NnWHh3bWtiWGtaUjcxUUkzRHBYbnBsRVhDOC16OFN3UEJ5SC1Kd1Y1aHR1aFhFaW9ZVmg1WFJXdHg1N3pxSlV",
+      "source_url": "https://c.m.163.com",
+      "source": "网易新闻客户端"
+    },
+    {
+      "title": "两日净流入逾千亿元 资金借道股票型ETF入市",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OZ3VKSUdaQ21pX1ZfUUVrLXRPdFNwOGF1bTR3TGl0NHNNYnNrZmcxMGpNakFuTENtTTVrbmtXR0NuNVNUOWNSZTd",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "600507，35亿“接盘”亏损资产",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WTHUxeVRfeElXZ1pNdnhmcXM5b3I2UENzbEZfd3g3NXBnNVJGbmVHYVpXMEI1UDNmaE9mVGZoOGVxQUNUckNpVVc",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "韩国存储双雄杠杆ETF价格上窜下跳 政府周四将开会讨论对策",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QWEtic2EyTlZuVnpPdXRza0FQb0Q3UWJmNzZER0k2TW9XejBLcURRcEdGTWtrTjlsc1FMcGhuOGZTWWVzdUFjbQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "下周打新！全直驱数控机床第一股，来了",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xcUNLZUtPYTVYN1EzQmdqREttZFB1U1VMZTJYTTdhdUpyMDUyLXQ5YnNQWUw0dndoeEtFVktjQzN0cklfSmZMX3d",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "上证系列综合指数，明起有重要调整",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oalFvUC1wanpoZFVTMGUzaFBXdGJCTzc2Vm02WG9wajE0YkZuVW9qZnQ1NWpQOUg1VjJfbjExTFhGLUlTNVlJRE5",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "港股不认“散户热度”，瘦西湖推迟上市",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLS1mdm1LN2hvcFc5dE5lcHQ5MHJodi1SZ0VFbmc5ckNfUHJUSjNjLWNnaXQxRHNDeXJBazdoQV81QVpoOGVHWHd",
+      "title": "股票ETF15天净流入3198亿，这些主题ETF却遭抛售",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3FsT1RMLVBMM01NUDllRkdyQTZvZnlCdXZ5UVYySkNZelBUejFKSTg2Q0NjSnFycTR5YjdxeF9IY09mbTY2Zng",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     }

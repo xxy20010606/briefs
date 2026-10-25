@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 25,
+  "total": 33,
   "samples": [
     {
-      "title": "“千问Go!”上线“我的应用”，人人都能手搓自己的生活小工具",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2RYUW1QRFNPRS03VEcybXJ5dEpNeHRNTmVjWDFFM0owZFNab0V6LWh6TXdkMy1lSDFCSVViUDdiY2xVaWlFeTF",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "端云协同成为人工智能落地新路径",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zeUhaRm1EY24ta1llaDZiY0prRENrMnZmWGJBZGRoXzlGQjkzeURKRHdKaTQ4ZlBSVDJyVU9HOFlwZWU4RTBKYkJ",
+      "title": "AI功能实用的手机推荐哪款？实测3款能替你干活的机型+FAQ",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UbjdYOVUxdnQ3dFNvV3J6OVhTVHAxZ2NUR1pBUDhQY05oQzdJTk9wcm00RDRCSkVkNThLVzBxcmVJOEFUNjVWYk9",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBENTZOTzVFS3pIYmg4amVKSjB1aFhFYnF1X0NyYk9TbWFjaTFkSXdmZDBIX2NBNTRQQy1JcWJqdUV6ZVlibzFzMnJ",
-      "source_url": "https://m.36kr.com",
-      "source": "36氪"
+      "title": "新加坡管理大学代表团访问复旦大学",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UbGYxaF9FVzBmU1ZLci1ZRkpHZ0gtSnAzNEJ3Ylh4QkdUUTNHUURaZ1ozbG44TVd3c24tYWE2RTA1eVZBd1JCR2s",
+      "source_url": "https://wmzx.fudan.edu.cn",
+      "source": "复旦大学"
     },
     {
-      "title": "硅谷的天才们怎么天天研究让 AI 在《我的世界》里砍树？-36氪",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zZUd4cXhsYnM1cUZkWkNkanNGMUNhMmxPTUlFVVlZVi1NVGR2czdGYXJNN2JMTVE3NWNxb2JXeFVTVFYzVm1rUkI",
-      "source_url": "https://www.36kr.com",
-      "source": "36kr"
+      "title": "Google 与 refurbed 推出 ChromeOS Flex U 盘，Windows 10 ",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTFZwTFpSSjZpdWlmN1lMbXBaX2pEaWdxQ1R6RVItTnM4aElMb2hIZi1jYXdlaEoyYUlyQ0puR3JtYmVPYkJlZUl",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     },
     {
-      "title": "智领金融•数创未来——AI赋能金融高质量发展论坛在京举办",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBheVJGUkNBX3Q1empidGozRGVxY0tTRnY4QjBFdTZ0UHhFSjJIX290U1IzTmttV0FkRDBPQ2N0WnZaVXgxYmpVNFM",
-      "source_url": "https://xinwen.bjd.com.cn",
-      "source": "京报网"
+      "title": "Nanbeige4.3-33B开源发布，在编程任务上挑战Qwen3.8-27B",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNHc4R1hkQjJLVGQ5SGpJNGE1ZGVfUGd6aXI1ZjRMcTRaa3VKWEo1OU1PVjVxdENyUWVwaDY2SEhjN1hHclZSNU4",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     },
     {
-      "title": "AI周报|Meta旗下Muse下载量突破1000万；长鑫与美光产生技术分歧",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3kxNUFxVi1sUFVIV1FxQ3o1dENGS3R4WHFsTG01aDl4LTJUNzM0Nnc1aWNYcXczaFlpQ0FIWHY5QjJiM0UwdnI",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "Claude Code 为 Kindle 越狱，移除亚马逊预装软件并上线 Tailscale",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTm1oekpmZnBJcW9LblNSWmRlTEZDV054VnZqMG8tS0w5X0FaemE0WWlGeElfcGMxVHZTa1RHdHZRT0tHN1hrbVU",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
+    },
+    {
+      "title": "GPU-Unlock发布，为RTX 30解锁FP16和BF16以加速本地AI",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVW5nNVZwcHNhd1Z6R3BFaXducmpJOEFVUHV5b2JIelVPbEZXcklxVklhdWYtNV91TzlTTFRSdV9lY0Y2VXZ4Yzg",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     }
   ]
 }

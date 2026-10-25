@@ -1,53 +1,34 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 31,
-    "trusted": 10,
+    "raw_dedup_junk": 40,
+    "trusted": 2,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "autohome.com.cn": 5,
-      "itdcw.com": 3,
+      "autohome.com.cn": 17,
+      "sina.com.cn": 10,
+      "tianjinwe.com": 2,
+      "seetao.com": 2,
+      "voi.id": 2,
+      "aksxw.com": 1,
+      "eeo.com.cn": 1,
       "stockstar.com": 1,
-      "ycnews.cn": 1,
-      "wedoany.com": 1,
-      "tianjinwe.com": 1,
-      "auto-sight.com": 1,
-      "asiae.co.kr": 1
+      "icswb.com": 1,
+      "eastmoney.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 7,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤3条"
+    "fresh1_24h": 1,
+    "page_fresh": 1,
+    "relaxed_72h": 1,
+    "final": 2,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "吉林靖宇抽蓄电站地下厂房通风洞顺利贯通！",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "惠阳50MW/300MWh铁铬液流电池独立储能项目通过节能审查",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "临安又添省级“新星”！这些产业凭什么这么能打？",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "回旋镖来了！美国接连封禁比亚迪，先是叠加100%高额关税，又宣布从10月26日起",
+      "t": "超5GW！隆基、爱旭、晶科、通威等10企拿下光伏大单！",
       "d": "sohu.com"
     },
     {
-      "t": "比亚迪ADR(BYDDY)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "日本先研究出了氢能电池，申请了上千个专利，等着躺着挣钱，结果比亚迪、特斯拉不用，",
-      "d": "sohu.com"
-    },
-    {
-      "t": "长距离绿氢输送示范工程北京段落地，铺就“西氢东送”动脉",
-      "d": "sohu.com"
+      "t": "合康新能三大主业成长逻辑清晰 定增加码驱动转型",
+      "d": "eastmoney.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 35,
+  "total": 33,
   "samples": [
     {
-      "title": "算力新场景丨在政务服务中心 像买水电一样买token",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUI0MU5RbDJSOUlnT3BGeG5vQlh3bXoyU3k5OEpTWm1xUjM4azVFUXktNm5tMTNDUGZDRjg4SUl2Vmp6SlV0NzR",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "端云协同成为人工智能落地新路径",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zeUhaRm1EY24ta1llaDZiY0prRENrMnZmWGJBZGRoXzlGQjkzeURKRHdKaTQ4ZlBSVDJyVU9HOFlwZWU4RTBKYkJ",
+      "title": "四川省人大常委会副主任王菲：打造辨识度高、示范性强的四川数智健康产业样板",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWTlFaFoteXJpVXFLcGRtcW92cE4xRHdFMFF6TjRyT2V6TzgzcEJGUEhWRDhMNTBOWmszYllqWS1LUzVTVHBSVlR",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "性能接近顶配，价格只要1/5，国产大模型更能打了",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0UDZ2VF9LcUktSHQxTmJXTTZuZkNWU1ZyajJ5ZWk2cC1QTFlnUVlmUE9hR1hJY0tyUk5wbTBScGY3bzJJbllMWUR",
-      "source_url": "https://news.bjd.com.cn",
-      "source": "京报网"
+      "title": "你手机里的“豆包”，凭什么席卷车圈？",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hOTBORU9iOHNFYTFURjR6NWFPZFhBazJCUUw5Y3M0UnNURGk4MWNaVGxMRVJXaW5jcXlUWVdpRWwtOW9nbXBYcmg",
+      "source_url": "https://chejiahao.autohome.com.cn",
+      "source": "汽车之家"
     },
     {
-      "title": "中國兩大AI模型完成登記 開放海外授權",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLZno2MTljelVnakpaRTl0RHllNlMyNzAtNGxZVG1MeS1EMGZ2OTFMenlmR3JwUFNteGdONnNsbV9CalFfTU84N3l",
-      "source_url": "https://www.worldjournal.com",
-      "source": "世界新聞網"
-    },
-    {
-      "title": "垂域大模型看山东 | 以应用场景牵引模型创新 人工智能赋能千行百业",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NekdjY3YzNTN6N0ZsTFZVX2FMUnREcnRVUmk3UE4wV1JYUVlhZ2ttajZFNEdLRF9DSG1HdExRejctN0FEMGZlM3J",
-      "source_url": "https://www.jinantimes.com.cn",
-      "source": "新黄河"
-    },
-    {
-      "title": "垂域大模型看山东｜以应用场景牵引模型创新 人工智能赋能千行百业",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVXo2bUZ1WWdRR05JMllYU1RDYkdJWEhQRHluSWVxU3JveG84eGpnNldzYlJJVWhVc2Qta1JjcW52eHFQSFU3WnN",
+      "title": "层层解密中孚AI布局，不止产品，更是战略",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSVNUM3FpMTVtR3l5Z1VhOExpT0FDV1dSTy1lelZLQ2paUloySlFDdjdhWV9hN0c1RUdVYXpPb2MxWlRmXzRmNkc",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
+    },
+    {
+      "title": "韩KRAFTON AI预览Raon-1 mini模型：30B-A4B，可与Meta Muse Gli",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZNHNaUzdRUVV5bFRNaVQyeTNDcnUxUDVILWFmSVlTYzF0akRIUEdST1BpT2R6WlFNLTM2OWo2OGdpRzZqMDZGX1B",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "AI大模型狂飙，面板行业也扛不住了",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tNE1yWEgyZVdJTmVaLXFFZXktS1V3eDQ5ZG5uLXRWNlAwc1loc2IxSHpFOXlVNGhhZHFFcERfckpfLTR2a0VyNWF",
+      "source_url": "https://www.ichaoqi.com",
+      "source": "潮起网"
+    },
+    {
+      "title": "广电AI采购转向词元订阅：北京台300万元购火山引擎Seedance，云南台6天启动三项目",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NbmFjNG93NEZ6U0NZN05Wa2MxZmdqbHZKTDdhLW1BU0p3QmtSVXBrcElVWVpKQ1NGZXJIWWNNV0pGbDFuMGZTOHI",
+      "source_url": "https://www.huxiu.com",
+      "source": "虎嗅"
     }
   ]
 }

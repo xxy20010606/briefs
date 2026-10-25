@@ -1,27 +1,34 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 33,
-    "trusted": 4,
+    "raw_dedup_junk": 37,
+    "trusted": 6,
     "non_trusted_top": {
-      "sina.com.cn": 20,
-      "moomoo.com": 4,
-      "stockstar.com": 1,
-      "eastmoney.com": 1,
-      "tradingkey.com": 1,
-      "5m88.com": 1,
+      "sina.com.cn": 21,
+      "stockstar.com": 5,
+      "moomoo.com": 2,
+      "sina.cn": 1,
+      "investing.com": 1,
       "futunn.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 1,
-    "relaxed_72h": 0,
-    "final": 1,
+    "fresh1_24h": 6,
+    "page_fresh": 2,
+    "relaxed_72h": 1,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "重大信号：极度超卖！国际大行，突然发声！",
-      "d": "21jingji.com"
+      "t": "A股：大家要做好心理预期，未来一个月，股市很可能再次经历8月份的行情！",
+      "d": "163.com"
+    },
+    {
+      "t": "油价高企扰动全球央行降息节奏",
+      "d": "sohu.com"
+    },
+    {
+      "t": "美联储9月加息25个基点，A股跌至3600点，AI资本开支与高利率风险受关注",
+      "d": "huxiu.com"
     }
   ]
 }

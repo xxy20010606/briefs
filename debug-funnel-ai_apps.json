@@ -1,50 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 25,
-    "trusted": 12,
+    "raw_dedup_junk": 33,
+    "trusted": 8,
     "non_trusted_top": {
-      "pasqualepillitteri.it": 8,
-      "sina.com.cn": 1,
-      "bjd.com.cn": 1,
-      "ebiotrade.com": 1,
-      "digitaltoday.co.kr": 1,
-      "chinabyte.com": 1
+      "pasqualepillitteri.it": 9,
+      "sina.com.cn": 7,
+      "mydrivers.com": 2,
+      "fudan.edu.cn": 1,
+      "528btc.com": 1,
+      "pku.edu.cn": 1,
+      "upx8.com": 1,
+      "dayoo.com": 1,
+      "icloudnews.net": 1,
+      "ac.cn": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 11,
-    "relaxed_72h": 1,
+    "fresh1_24h": 7,
+    "page_fresh": 1,
+    "relaxed_72h": 7,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "“千问Go!”上线“我的应用”，人人都能手搓自己的生活小工具",
-      "d": "sohu.com"
-    },
-    {
-      "t": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应",
+      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
       "d": "36kr.com"
-    },
-    {
-      "t": "硅谷的天才们怎么天天研究让 AI 在《我的世界》里砍树？-36氪",
-      "d": "36kr.com"
-    },
-    {
-      "t": "AI周报|Meta旗下Muse下载量突破1000万；长鑫与美光产生技术分歧",
-      "d": "sohu.com"
     },
     {
       "t": "港交所推出两大新指数",
       "d": "21jingji.com"
     },
     {
-      "t": "从Copy to China到Born Global：属于中国AI创业者的新时代",
-      "d": "eet-china.com"
+      "t": "金融圈，刷屏了！“像真的研究员那样工作”，易方达、广发、汇添富、南方、招商等基金",
+      "d": "sohu.com"
     },
     {
-      "t": "灵基落地“跑出”实效 AI正驶入企业经营管理深水区",
-      "d": "eastmoney.com"
+      "t": "从AI“小白”到应用能手！看“老工艺人”如何闯出数字化“破局”之路",
+      "d": "sohu.com"
+    },
+    {
+      "t": "一场草坪上的AI奇遇：2026 AI创造者嘉年华燃动海淀｜甲子光年",
+      "d": "sohu.com"
+    },
+    {
+      "t": "资本开抢AI 3D，“御三家”半年吸纳超80亿元",
+      "d": "sohu.com"
+    },
+    {
+      "t": "本周 AI 项目推荐｜ Hypit、Synvas、Pexo...AI 视频赛道还",
+      "d": "sohu.com"
     }
   ]
 }
