@@ -1,50 +1,50 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 26,
-    "trusted": 17,
+    "raw_dedup_junk": 25,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.cn": 3,
       "sina.com.cn": 2,
-      "foro3d.com": 1,
-      "mydrivers.com": 1,
-      "china.com": 1,
-      "cinie.net": 1
+      "c114.net.cn": 2,
+      "stockstar.com": 2,
+      "jin10.com": 2,
+      "leikeji.com": 1,
+      "icsmart.cn": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 3,
-    "relaxed_72h": 9,
+    "fresh1_24h": 15,
+    "page_fresh": 9,
+    "relaxed_72h": 2,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "盛美上海单晶圆高温SPM设备迭代！",
+      "t": "三安光电实控人林秀成因涉嫌职务侵占、挪用资金罪被批准逮捕",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "最大芯片IPO告吹",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "法国媒体：中国芯片产业，已形成“3+2”格局，美国限制不住了",
+      "d": "sohu.com"
+    },
+    {
+      "t": "行进中国｜老机床“退役” 新产线“上岗”",
+      "d": "sohu.com"
+    },
+    {
+      "t": "港交所推出两大新指数",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "[深度解析] 高压SiC/GaN芯片嵌埋式PCB封装全路径解析：晶圆->镀铜->",
       "d": "eet-china.com"
     },
     {
-      "t": "芯碁微装(09630)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "半导体设备ETF易方达(SZ159558)股票股价_股价行情_讨论_资讯_财报_",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基",
-      "d": "cls.cn"
-    },
-    {
-      "t": "Terafab有望威胁到台积电？ 分析师警告：马斯克+英特尔=大麻烦！",
-      "d": "cls.cn"
-    },
-    {
-      "t": "GeForce短缺是假的！英伟达逼云厂商买用不了的AI芯片 RTX 5090沦为",
-      "d": "sohu.com"
-    },
-    {
-      "t": "Nvidia携手韩企，AI联盟进军电子元件",
-      "d": "sohu.com"
+      "t": "深水！中国稀土最严禁令随时落地！台积电可能成为第一个停摆的芯片厂！",
+      "d": "guancha.cn"
     }
   ]
 }

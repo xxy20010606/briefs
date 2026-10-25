@@ -2,41 +2,52 @@
   "type": "newenergy",
   "stages": {
     "raw_dedup_junk": 31,
-    "trusted": 7,
+    "trusted": 10,
     "non_trusted_top": {
-      "autohome.com.cn": 11,
-      "sina.com.cn": 9,
+      "sina.com.cn": 7,
+      "autohome.com.cn": 5,
+      "itdcw.com": 3,
+      "stockstar.com": 1,
+      "ycnews.cn": 1,
+      "wedoany.com": 1,
       "tianjinwe.com": 1,
-      "sina.cn": 1,
-      "vietnam.vn": 1,
-      "ycnews.cn": 1
+      "auto-sight.com": 1,
+      "asiae.co.kr": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 2,
-    "relaxed_72h": 3,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 10,
+    "page_fresh": 7,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤3条"
   },
   "final": [
+    {
+      "t": "吉林靖宇抽蓄电站地下厂房通风洞顺利贯通！",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "惠阳50MW/300MWh铁铬液流电池独立储能项目通过节能审查",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "临安又添省级“新星”！这些产业凭什么这么能打？",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "回旋镖来了！美国接连封禁比亚迪，先是叠加100%高额关税，又宣布从10月26日起",
+      "d": "sohu.com"
+    },
+    {
+      "t": "比亚迪ADR(BYDDY)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
+    },
     {
       "t": "日本先研究出了氢能电池，申请了上千个专利，等着躺着挣钱，结果比亚迪、特斯拉不用，",
       "d": "sohu.com"
     },
     {
-      "t": "比亚迪(SZ002594)_比亚迪怎么样",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "湖北下发“十五五”能源体系新规：风、光新增约30GW，推进绿电直连、算电协同",
+      "t": "长距离绿氢输送示范工程北京段落地，铺就“西氢东送”动脉",
       "d": "sohu.com"
-    },
-    {
-      "t": "创业环保前三季度实现营收34.47亿元，净利润达7.18亿元",
-      "d": "sohu.com"
-    },
-    {
-      "t": "一周碳要闻：全国碳市场配额累计成交突破10亿吨（碳报第217期）",
-      "d": "bjnews.com.cn"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 42,
-    "trusted": 13,
+    "raw_dedup_junk": 46,
+    "trusted": 11,
     "non_trusted_top": {
-      "hupu.com": 4,
-      "hk01.com": 3,
-      "jinantimes.com.cn": 2,
-      "bjd.com.cn": 2,
+      "china.com": 4,
+      "bjd.com.cn": 3,
+      "hk01.com": 2,
       "sina.com.cn": 2,
+      "360.com": 2,
+      "zjol.com.cn": 2,
+      "hangzhou.com.cn": 2,
+      "jfdaily.com": 1,
       "epochtimes.com": 1,
-      "starnewskorea.com": 1,
-      "rediandf.com": 1,
-      "atvnewsonline.com": 1,
-      "cm3721.com": 1
+      "rediandf.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 2,
-    "relaxed_72h": 11,
+    "fresh1_24h": 11,
+    "page_fresh": 10,
+    "relaxed_72h": 1,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "早读｜首部AI电影上映两天以来票房“平静”",
+      "t": "首部龙标AI电影《三星堆：未来往事》上映：票房不足80万，故事能否说服观众？",
       "d": "sohu.com"
     },
     {
-      "t": "【艺评】舞台那么大，何必只有一种“好看”",
+      "t": "耗资1亿上映3天就被判死刑，票房仅202万，流量明星成一个笑话",
       "d": "sohu.com"
     },
     {
-      "t": "京西电竞节焕新亮相首钢园 产业矩阵激活区域新动能",
+      "t": "在前滩，产城融合构筑栖息沃土",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "2026全国小剧场京剧“群英会”剧目展演启幕",
+      "t": "“毛不易情商”上热搜，吃瓜群众没必要断章取义 | 新京报快评",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "“2026年致敬经典·国际修复电影展”苏州启幕",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "看完孟子义新剧《尚公主》，不禁感慨：古偶剧靠炒CP，真是缘木求鱼！",
-      "d": "163.com"
+      "t": "娱乐资本论实测六大模型写餐饮商战短剧：Claude最有“烧心味”，豆包擅长生成金",
+      "d": "huxiu.com"
     },
     {
-      "t": "戏剧大师最后的作品来沪，在舞台上呈现无穷无尽的大海",
-      "d": "yicai.com"
-    },
-    {
-      "t": "2026横店影视文化产业发展大会举行，东阳打出“政策+科技+国际传播”组合拳",
-      "d": "chinadaily.com.cn"
+      "t": "成本千万替掉三亿实拍，国内首部AI电影来了",
+      "d": "ifeng.com"
     }
   ]
 }

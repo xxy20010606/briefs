@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 36,
+  "total": 35,
   "samples": [
     {
-      "title": "放大“人工智能+制造”加速器作用",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wUUZKSFZSU3E5MExrZkk1SzVDSzBZNjQyRUV6dEhzQ1lWSWxZelh2QlAzUEpXaVB2YXNDc3pjSjN2YWdxay1BSkF",
-      "source_url": "http://www.jingjiribao.cn",
-      "source": "www.jingjiribao.cn"
+      "title": "算力新场景丨在政务服务中心 像买水电一样买token",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUI0MU5RbDJSOUlnT3BGeG5vQlh3bXoyU3k5OEpTWm1xUjM4azVFUXktNm5tMTNDUGZDRjg4SUl2Vmp6SlV0NzR",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "“Token自由”如何实现？联想AI主机P7预览版以国产双芯驱动本地千亿级大模型",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XREF5ZUo5Q3dCRElMM3hUSVMtS3VDVGdXTTBSQThPaDdYV1E5clpoTUNLUGRmQkVWdkJacDB0MnRGZHpoUkJRVy0",
-      "source_url": "https://telecom.chinabyte.com",
-      "source": "比特网"
-    },
-    {
-      "title": "V4全系列模型上线后，DeepSeek Harness开发者预览版开放测试",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wd0JWNXNkT3NmUy1UV09ldm1iSXY3dTllQ1o1ZFg5MFZPS1BRY3RCTUJLc05UYWJTb1R6VHhoT0NXM3hJQU5xLQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "中国信通院：国内词元服务每秒吞吐量较2025年翻倍，仍低于国外",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsSU5LTTExM0JQYUxGTW0tRWhlanJfZHZ3T0I3SWRpYnBHaVl0WkdyTDhSXzNBWUNwRi1RaEd2ZW5xWm5jTTQ4M0d",
-      "source_url": "https://tech.ifeng.com",
-      "source": "凤凰网科技"
-    },
-    {
-      "title": "中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9La3dxMVlzeEZfaGZ4Zm1FR3UxZlFGbUhicklNbnJuekg5dFpkUzlXQzROUjJPek9MN2xiNUZYM1ViMmNXTmloUjd",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "垂域大模型看山东丨以应用场景牵引模型创新 人工智能赋能千行百业",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTF9heU94UVpHaVV5WUtRTWxRQUdPX0g5NHdkWk41Z0dlQ0lXU016a242VTZoemdXTWVhbWFxSUc1ZXY1c3ZQNzR",
+      "title": "端云协同成为人工智能落地新路径",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zeUhaRm1EY24ta1llaDZiY0prRENrMnZmWGJBZGRoXzlGQjkzeURKRHdKaTQ4ZlBSVDJyVU9HOFlwZWU4RTBKYkJ",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
+    },
+    {
+      "title": "性能接近顶配，价格只要1/5，国产大模型更能打了",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0UDZ2VF9LcUktSHQxTmJXTTZuZkNWU1ZyajJ5ZWk2cC1QTFlnUVlmUE9hR1hJY0tyUk5wbTBScGY3bzJJbllMWUR",
+      "source_url": "https://news.bjd.com.cn",
+      "source": "京报网"
+    },
+    {
+      "title": "中國兩大AI模型完成登記 開放海外授權",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLZno2MTljelVnakpaRTl0RHllNlMyNzAtNGxZVG1MeS1EMGZ2OTFMenlmR3JwUFNteGdONnNsbV9CalFfTU84N3l",
+      "source_url": "https://www.worldjournal.com",
+      "source": "世界新聞網"
+    },
+    {
+      "title": "垂域大模型看山东 | 以应用场景牵引模型创新 人工智能赋能千行百业",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NekdjY3YzNTN6N0ZsTFZVX2FMUnREcnRVUmk3UE4wV1JYUVlhZ2ttajZFNEdLRF9DSG1HdExRejctN0FEMGZlM3J",
+      "source_url": "https://www.jinantimes.com.cn",
+      "source": "新黄河"
+    },
+    {
+      "title": "垂域大模型看山东｜以应用场景牵引模型创新 人工智能赋能千行百业",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVXo2bUZ1WWdRR05JMllYU1RDYkdJWEhQRHluSWVxU3JveG84eGpnNldzYlJJVWhVc2Qta1JjcW52eHFQSFU3WnN",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     }
   ]
 }

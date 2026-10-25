@@ -1,42 +1,27 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 34,
-    "trusted": 8,
+    "raw_dedup_junk": 33,
+    "trusted": 4,
     "non_trusted_top": {
-      "sina.com.cn": 11,
-      "jin10.com": 4,
-      "sinchew.com.my": 3,
-      "eastmoney.com": 2,
-      "or100.cc": 1,
+      "sina.com.cn": 20,
+      "moomoo.com": 4,
       "stockstar.com": 1,
-      "blockweeks.com": 1,
-      "sina.cn": 1,
-      "moomoo.com": 1,
-      "hstong.com": 1
+      "eastmoney.com": 1,
+      "tradingkey.com": 1,
+      "5m88.com": 1,
+      "futunn.com": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 2,
-    "relaxed_72h": 2,
-    "final": 4,
+    "fresh1_24h": 4,
+    "page_fresh": 1,
+    "relaxed_72h": 0,
+    "final": 1,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "工商银行(01398)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "标普500指数(.INX)股票股价_行情_走势图_资讯",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "重大信号：极度超卖，国际大行突然发声",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "“AI算力过剩论”搅动美股半导体板块：10月市值蒸发2.2万亿美元，马斯克、黄仁",
-      "d": "10jqka.com.cn"
+      "t": "重大信号：极度超卖！国际大行，突然发声！",
+      "d": "21jingji.com"
     }
   ]
 }

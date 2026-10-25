@@ -1,53 +1,53 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 36,
-    "trusted": 11,
+    "raw_dedup_junk": 35,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "ac.cn": 5,
-      "jingjiribao.cn": 1,
-      "chinabyte.com": 1,
-      "klsescreener.com": 1,
-      "iqilu.com": 1,
-      "jschina.com.cn": 1,
-      "zaochenbao.com": 1,
-      "mydrivers.com": 1,
-      "hzsc.com.cn": 1
+      "sina.cn": 4,
+      "sina.com.cn": 3,
+      "lavx.hu": 2,
+      "bjd.com.cn": 1,
+      "worldjournal.com": 1,
+      "jinantimes.com.cn": 1,
+      "rednet.cn": 1,
+      "ichaoqi.com": 1,
+      "csdn.net": 1,
+      "jingjiribao.cn": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 1,
-    "relaxed_72h": 9,
+    "fresh1_24h": 14,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "Work Buddy续命，但不能帮腾讯拿到AI船票",
+      "t": "算力新场景丨在政务服务中心 像买水电一样买token",
+      "d": "sohu.com"
+    },
+    {
+      "t": "垂域大模型看山东｜以应用场景牵引模型创新 人工智能赋能千行百业",
+      "d": "sohu.com"
+    },
+    {
+      "t": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振中国AI“",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应",
       "d": "36kr.com"
     },
     {
-      "t": "中国信通院：国内词元服务每秒吞吐量较2025年翻倍，仍低于国外",
-      "d": "ifeng.com"
+      "t": "财新闻｜全球最大开源AI大模型上新！Kimi K3.1 Pro横空出世",
+      "d": "caixin.com"
     },
     {
-      "t": "玉渊谭天：“中国AI禁令”是怎么回事",
-      "d": "cls.cn"
+      "t": "AMD以约82亿美元全股票交易收购World Labs，李飞飞将任执行副总裁兼首",
+      "d": "huxiu.com"
     },
     {
-      "t": "金现代“金智大模型”完成国家生成式人工智能服务备案",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "大模型商业化迎来TaaS时刻！科大讯飞让Token交付结果",
-      "d": "sohu.com"
-    },
-    {
-      "t": "全球最大开源模型再突破！京企月之暗面发布新一代大模型",
-      "d": "sohu.com"
-    },
-    {
-      "t": "多个App拒绝豆包手机助手 金融机构对外部智能体说“不”",
+      "t": "超1/4程序员已转型，AI与芯片成高薪新风口",
       "d": "21jingji.com"
     }
   ]

@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 42,
+  "total": 25,
   "samples": [
     {
-      "title": "Perplexity发布Decider for Mac，可在本地免费运行的决策模型",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGFIVmluSlpfcl9ZWkc2dGhEb1BBYU0yUEJISmRtaFJWaGk5elBRZW5kWVVGQ1c0N3dHYnhSdVQtc1N6Tm9zRnd",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "“千问Go!”上线“我的应用”，人人都能手搓自己的生活小工具",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM2RYUW1QRFNPRS03VEcybXJ5dEpNeHRNTmVjWDFFM0owZFNab0V6LWh6TXdkMy1lSDFCSVViUDdiY2xVaWlFeTF",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "Azure Application Gateway被报存在缺陷，?x=.js可绕过403",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzBSRVdEc3dzRmdSdXF1UHhxMFFsZFRMRXJsSmJURVI3N25TSUFPSmdGa0ZsblJRQVJyNk5ScEViZ05uUHhXdlk",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "端云协同成为人工智能落地新路径",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zeUhaRm1EY24ta1llaDZiY0prRENrMnZmWGJBZGRoXzlGQjkzeURKRHdKaTQ4ZlBSVDJyVU9HOFlwZWU4RTBKYkJ",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "最佳 AI 代码安全审计工具对比",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNkxWOU0wT014M0N6QWdzTXptRHFlblZmdlNLTlFNZHQ5STlyM0MtcXdsMEgyS3hXRDRjV1RvOENpb2FvMzhISDB",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBENTZOTzVFS3pIYmg4amVKSjB1aFhFYnF1X0NyYk9TbWFjaTFkSXdmZDBIX2NBNTRQQy1JcWJqdUV6ZVlibzFzMnJ",
+      "source_url": "https://m.36kr.com",
+      "source": "36氪"
     },
     {
-      "title": "如何在你的项目中使用 Cloudflare 的 security-audit 技能",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmtNSGFqTldsOTNvWi02cGhnZFBDbTViVGZ1Q3hXcVNPVGVHVnZsT09VZm1XaVVBaVJsd2RRTnJNOTZ1YU12QXp",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "硅谷的天才们怎么天天研究让 AI 在《我的世界》里砍树？-36氪",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zZUd4cXhsYnM1cUZkWkNkanNGMUNhMmxPTUlFVVlZVi1NVGR2czdGYXJNN2JMTVE3NWNxb2JXeFVTVFYzVm1rUkI",
+      "source_url": "https://www.36kr.com",
+      "source": "36kr"
     },
     {
-      "title": "Pieter Levels发布用Claude Code制作的GTA San Andreas新任务",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmZUNG5HbmNfZ0lOT2VqdmZ0N3d1ZElURlloMllERU9CM3AtTll5c0lSUW1GNXFtRE1rZGV0U0d6bVpyMWh0ZjV",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "智领金融•数创未来——AI赋能金融高质量发展论坛在京举办",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBheVJGUkNBX3Q1empidGozRGVxY0tTRnY4QjBFdTZ0UHhFSjJIX290U1IzTmttV0FkRDBPQ2N0WnZaVXgxYmpVNFM",
+      "source_url": "https://xinwen.bjd.com.cn",
+      "source": "京报网"
     },
     {
-      "title": "Anthropic披露Mythos 5为何在AISI测试中攻击真实的人",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObzd6VmNpYTlMam5acDhZUEJnblhPeUlJNzBFQ202QlQwSnBoS1E1S2s2LUtlbFJza09FbVdhRm9FTjRETnlNcE5",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "AI周报|Meta旗下Muse下载量突破1000万；长鑫与美光产生技术分歧",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3kxNUFxVi1sUFVIV1FxQ3o1dENGS3R4WHFsTG01aDl4LTJUNzM0Nnc1aWNYcXczaFlpQ0FIWHY5QjJiM0UwdnI",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     }
   ]
 }

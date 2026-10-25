@@ -1,46 +1,50 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 42,
-    "trusted": 5,
+    "raw_dedup_junk": 25,
+    "trusted": 12,
     "non_trusted_top": {
-      "pasqualepillitteri.it": 16,
-      "sina.com.cn": 4,
-      "stockstar.com": 2,
-      "mydrivers.com": 2,
-      "mezha.net": 2,
-      "ikanchai.com": 1,
-      "moomoo.com": 1,
-      "china.com": 1,
-      "pingwest.com": 1,
-      "autohome.com.cn": 1
+      "pasqualepillitteri.it": 8,
+      "sina.com.cn": 1,
+      "bjd.com.cn": 1,
+      "ebiotrade.com": 1,
+      "digitaltoday.co.kr": 1,
+      "chinabyte.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 1,
-    "relaxed_72h": 4,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 11,
+    "page_fresh": 11,
+    "relaxed_72h": 1,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "「豆包工作」上线，AI巨头狂卷办公场景，独立客户端成标配？",
+      "t": "“千问Go!”上线“我的应用”，人人都能手搓自己的生活小工具",
+      "d": "sohu.com"
+    },
+    {
+      "t": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应",
       "d": "36kr.com"
     },
     {
-      "t": "中国移动携手主流车企发布业内首个汽车行业AI基座，让车企无需自建即可按需取用",
+      "t": "硅谷的天才们怎么天天研究让 AI 在《我的世界》里砍树？-36氪",
+      "d": "36kr.com"
+    },
+    {
+      "t": "AI周报|Meta旗下Muse下载量突破1000万；长鑫与美光产生技术分歧",
       "d": "sohu.com"
     },
     {
-      "t": "从算力到场景：AI如何真正走进产业——第三届“科技产业金融协同发展论坛”人工智能",
-      "d": "sohu.com"
+      "t": "港交所推出两大新指数",
+      "d": "21jingji.com"
     },
     {
-      "t": "国家队认证！信通院评测健康垂类AI应用，百度四项第一",
-      "d": "sohu.com"
+      "t": "从Copy to China到Born Global：属于中国AI创业者的新时代",
+      "d": "eet-china.com"
     },
     {
-      "t": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
-      "d": "leiphone.com"
+      "t": "灵基落地“跑出”实效 AI正驶入企业经营管理深水区",
+      "d": "eastmoney.com"
     }
   ]
 }
