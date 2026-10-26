@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 53,
-    "trusted": 12,
+    "raw_dedup_junk": 73,
+    "trusted": 25,
     "non_trusted_top": {
-      "hupu.com": 6,
+      "china.com": 9,
       "sina.cn": 4,
-      "sina.com.cn": 4,
-      "bjd.com.cn": 3,
-      "cnbeta.com.tw": 2,
+      "vietnam.vn": 3,
+      "hupu.com": 3,
+      "shobserver.cn": 2,
+      "3dmgame.com": 2,
       "yzwb.net": 2,
-      "cztv.com": 1,
-      "aboluowang.com": 1,
-      "yuanxian1.com": 1,
-      "com.sg": 1
+      "cjn.cn": 2,
+      "360.com": 2,
+      "xmnn.cn": 2
     },
-    "fresh1_24h": 9,
-    "page_fresh": 3,
-    "relaxed_72h": 8,
+    "fresh1_24h": 25,
+    "page_fresh": 23,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "AI长片首获“龙标”却票房遇冷：技术过关了，观众还没买账",
+      "t": "首部AI电影上映4天票房仅100余万元，技术“里程碑”为何没成市场“通行证”？",
       "d": "sohu.com"
     },
     {
-      "t": "肖战南京演唱会唱《满足》突然哭了！出道十年首场巡演，500万人想看背后的真诚",
+      "t": "首部AI院线电影票房遇冷！电影上映4天票房仅119万！",
       "d": "sohu.com"
     },
     {
-      "t": "“剧好生活”视听潮集11月3日开集，爆款IP周边一次逛够",
-      "d": "bjnews.com.cn"
-    },
-    {
-      "t": "首部AI院线电影遇冷，上映3天收获115万票房",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "电竞嘉年华首设社区组上海张江以赛为媒聚商留才-中新社上海",
+      "t": "京西电竞节焕新亮相首钢园 产业矩阵激活区域新动能",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "2026京西电竞节启幕，点亮石景山“电竞之城”城市名片",
-      "d": "ifeng.com"
+      "t": "南财法治通丨造谣天价票被行拘 律师：收了钱，性质立刻变诈骗",
+      "d": "21jingji.com"
     },
     {
-      "t": "国内首部 AI 院线长片《三星堆：未来往事》，票房过百万",
-      "d": "ithome.com"
+      "t": "杜甫、刘邦和孙悟空的rap刷屏，唱哭全网年轻人",
+      "d": "36kr.com"
+    },
+    {
+      "t": "周末戏相逢丨2026年闽台青少年街舞展演活动在福州举办",
+      "d": "cctv.com"
+    },
+    {
+      "t": "大麦演出主办肖战巡演南京开唱，强实名“秒级核验”助力超2.5万观众有序入场",
+      "d": "ce.cn"
     }
   ]
 }

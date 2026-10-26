@@ -1,54 +1,52 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 33,
-    "trusted": 17,
+    "raw_dedup_junk": 41,
+    "trusted": 24,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "stockstar.com": 2,
-      "chosun.com": 2,
-      "voc.com.cn": 1,
-      "voi.id": 1,
-      "moomoo.com": 1,
-      "sphericalinsights.com": 1,
-      "blockweeks.com": 1,
+      "sina.com.cn": 7,
+      "sina.cn": 3,
+      "esmchina.com": 2,
       "futunn.com": 1,
-      "sina.cn": 1
+      "china.com": 1,
+      "enanyang.my": 1,
+      "voc.com.cn": 1,
+      "icsmart.cn": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 3,
-    "relaxed_72h": 9,
+    "fresh1_24h": 24,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "鹏华基金罗英宇旗下鹏华国证半导体芯片ETF三季报最新持仓，重仓寒武纪",
-      "d": "sohu.com"
+      "t": "海外机构密集发声！业绩端验证行业景气存储芯片或迎估值修复窗口_市场测评_市场",
+      "d": "cnfol.com"
     },
     {
-      "t": "公告全知道",
-      "d": "cls.cn"
+      "t": "优质标的一票难求，广东国资嵌套多层资本抢滩全国芯片龙头",
+      "d": "21jingji.com"
     },
     {
-      "t": "“最牛天使”夏佐全，将迎来一个新IPO",
-      "d": "36kr.com"
+      "t": "探路者：旗下通途半导体与端侧大模型推理AI芯片头部企业战略合作",
+      "d": "eastmoney.com"
     },
     {
-      "t": "深水！中国稀土最严禁令随时落地！台积电可能成为第一个停摆的芯片厂！",
+      "t": "长鑫拒绝苹果",
       "d": "guancha.cn"
     },
     {
-      "t": "芯德半导体通过港交所聆讯：前4个月营收3.6亿元，同比增长17%",
-      "d": "ifeng.com"
+      "t": "美国FCC首次动用新规禁止搭载海思芯片设备入境，两款民用产品被拦",
+      "d": "eet-china.com"
     },
     {
-      "t": "德明利三季报：归母净利润同比增29倍，企业级存储业务放量",
+      "t": "芯片板块全线回调，半导体设备ETF易方达（159558）逆势获4200万份净申购",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "不黑不吹，使用纯国产设备，我们可能连28nm芯片都搞不定",
       "d": "sohu.com"
-    },
-    {
-      "t": "存储龙头，三季度净利猛增超2900%！",
-      "d": "10jqka.com.cn"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 33,
+  "total": 60,
   "samples": [
     {
-      "title": "四川省人大常委会副主任王菲：打造辨识度高、示范性强的四川数智健康产业样板",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWTlFaFoteXJpVXFLcGRtcW92cE4xRHdFMFF6TjRyT2V6TzgzcEJGUEhWRDhMNTBOWmszYllqWS1LUzVTVHBSVlR",
+      "title": "逆向自家三星电视却遭 OpenAI 永久封号？安全研究员怒购 8 台 AI 主机，转向本地大模型",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zWkJQcW1waUU1QlBiX0FWVWFGSXVHTGVOWk91bUpFWDVTRzR0M1VYRURWTzdBNXpUVlZKdjVDdmVHMXVxbVVTTGx",
+      "source_url": "https://www.techflowpost.com",
+      "source": "深潮TechFlow"
+    },
+    {
+      "title": "运河边长出的国产AI，为世界造电影",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwOGpuX3BFbmRvTUc5QXJEUzBGMjctYUhrbU9URHZMc01tcEo1SmVHRUgyaWQwcHJTVjRsY1BIWGg1bDgycTVaa3A",
+      "source_url": "https://www.gongshunews.com",
+      "source": "拱墅"
+    },
+    {
+      "title": "文汇海报 | 国产AI闯入前沿数学，不止于解题",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mbFVTekVOMG9WQjNRcXlTcUFCNnQyQ0xfSTVWVnY0S3ljNF9BRUNnR3l4aDFCbWJnZk1jdDJtbHBsQVRuNWQ4dU9",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "你手机里的“豆包”，凭什么席卷车圈？",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hOTBORU9iOHNFYTFURjR6NWFPZFhBazJCUUw5Y3M0UnNURGk4MWNaVGxMRVJXaW5jcXlUWVdpRWwtOW9nbXBYcmg",
-      "source_url": "https://chejiahao.autohome.com.cn",
-      "source": "汽车之家"
-    },
-    {
-      "title": "层层解密中孚AI布局，不止产品，更是战略",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSVNUM3FpMTVtR3l5Z1VhOExpT0FDV1dSTy1lelZLQ2paUloySlFDdjdhWV9hN0c1RUdVYXpPb2MxWlRmXzRmNkc",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "韩KRAFTON AI预览Raon-1 mini模型：30B-A4B，可与Meta Muse Gli",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZNHNaUzdRUVV5bFRNaVQyeTNDcnUxUDVILWFmSVlTYzF0akRIUEdST1BpT2R6WlFNLTM2OWo2OGdpRzZqMDZGX1B",
+      "title": "【IPO追踪】视觉中国收备案反馈 四问直指AI合规与诉讼",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc0Z0R0NVVll1MEcxWkhzZ3hrVXk2YncxWEFDSXluREdtYjJ6QnN0dzg2TU5URU5COUd6SXlhV2FzejF0dlhxYjJ",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "AI大模型狂飙，面板行业也扛不住了",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tNE1yWEgyZVdJTmVaLXFFZXktS1V3eDQ5ZG5uLXRWNlAwc1loc2IxSHpFOXlVNGhhZHFFcERfckpfLTR2a0VyNWF",
-      "source_url": "https://www.ichaoqi.com",
-      "source": "潮起网"
+      "title": "科大讯飞董事长刘庆峰：抛出AI三大关切端云一体星火X2.6训练提效4倍_公司新闻_财经",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtX3ZDOUptYVdaaGFDT3JYYlZjY3JJTmFPN2NDaGR3YUhKclR2em1QTXNxVEVPMHZ4VWRSdlJGb0VfMmZiaVNNc0R",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "广电AI采购转向词元订阅：北京台300万元购火山引擎Seedance，云南台6天启动三项目",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NbmFjNG93NEZ6U0NZN05Wa2MxZmdqbHZKTDdhLW1BU0p3QmtSVXBrcElVWVpKQ1NGZXJIWWNNV0pGbDFuMGZTOHI",
-      "source_url": "https://www.huxiu.com",
-      "source": "虎嗅"
+      "title": "探路者：旗下通途半导体与端侧大模型推理AI芯片头部企业战略合作",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sd1A4SHc4QzI0YmNxNWVBaXhpQ21RVFk5U01EbTkzX1pnUTdKVU5CckZ0NWgzeGlPZS1BdmxjMGxLQmJSRTFGdTZ",
+      "source_url": "https://wap.cj.sina.cn",
+      "source": "手机新浪网"
     }
   ]
 }

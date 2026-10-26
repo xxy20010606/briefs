@@ -1,34 +1,45 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 37,
-    "trusted": 6,
+    "raw_dedup_junk": 43,
+    "trusted": 8,
     "non_trusted_top": {
-      "sina.com.cn": 21,
-      "stockstar.com": 5,
-      "moomoo.com": 2,
-      "sina.cn": 1,
-      "investing.com": 1,
-      "futunn.com": 1
+      "sina.com.cn": 12,
+      "moomoo.com": 10,
+      "sina.cn": 4,
+      "futunn.com": 3,
+      "tmgm.com": 2,
+      "china.com": 1,
+      "hstong.com": 1,
+      "cngold.com.cn": 1,
+      "investing.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 2,
-    "relaxed_72h": 1,
-    "final": 3,
+    "fresh1_24h": 8,
+    "page_fresh": 5,
+    "relaxed_72h": 0,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "A股：大家要做好心理预期，未来一个月，股市很可能再次经历8月份的行情！",
-      "d": "163.com"
-    },
-    {
       "t": "油价高企扰动全球央行降息节奏",
-      "d": "sohu.com"
+      "d": "ce.cn"
     },
     {
-      "t": "美联储9月加息25个基点，A股跌至3600点，AI资本开支与高利率风险受关注",
-      "d": "huxiu.com"
+      "t": "港股早报｜港交所推出人工智能及半导体指数 紫金矿业前三季度净利润同比增超50%",
+      "d": "cls.cn"
+    },
+    {
+      "t": "港股本周要闻前瞻｜全球多家央行公布利率决议 中际旭创等公司披露业绩",
+      "d": "cls.cn"
+    },
+    {
+      "t": "快手-W(01024)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
+    },
+    {
+      "t": "京东健康(06618)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
     }
   ]
 }

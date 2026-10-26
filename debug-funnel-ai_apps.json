@@ -2,53 +2,53 @@
   "type": "ai_apps",
   "stages": {
     "raw_dedup_junk": 33,
-    "trusted": 8,
+    "trusted": 11,
     "non_trusted_top": {
-      "pasqualepillitteri.it": 9,
-      "sina.com.cn": 7,
-      "mydrivers.com": 2,
-      "fudan.edu.cn": 1,
-      "528btc.com": 1,
-      "pku.edu.cn": 1,
-      "upx8.com": 1,
-      "dayoo.com": 1,
-      "icloudnews.net": 1,
-      "ac.cn": 1
+      "sina.com.cn": 2,
+      "zhiding.cn": 2,
+      "oschina.net": 2,
+      "pasqualepillitteri.it": 2,
+      "mydrivers.com": 1,
+      "66wz.com": 1,
+      "baijing.cn": 1,
+      "qudong.com": 1,
+      "tradingview.com": 1,
+      "china.com": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 1,
-    "relaxed_72h": 7,
+    "fresh1_24h": 11,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "d": "36kr.com"
+      "t": "20名儿童化身观察员，AI助力“童智”改造社区微空间",
+      "d": "sohu.com"
     },
     {
-      "t": "港交所推出两大新指数",
+      "t": "华厦眼科展示AI辅助医生工作站应用 连锁医疗网络支撑数智化诊疗探索",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "从Agent到Skill：餐饮老板的AI机会，藏在“小事”里",
+      "d": "sohu.com"
+    },
+    {
+      "t": "就业友好成为AI应用标尺 人机协作推动岗位技能迭代",
       "d": "21jingji.com"
     },
     {
-      "t": "金融圈，刷屏了！“像真的研究员那样工作”，易方达、广发、汇添富、南方、招商等基金",
-      "d": "sohu.com"
+      "t": "场景出题，AI赋能！广州市直机关首届人工智能应用大赛举行",
+      "d": "21jingji.com"
     },
     {
-      "t": "从AI“小白”到应用能手！看“老工艺人”如何闯出数字化“破局”之路",
-      "d": "sohu.com"
+      "t": "从“工具”跃升为“生产力”， AI重构电影生产逻辑",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "一场草坪上的AI奇遇：2026 AI创造者嘉年华燃动海淀｜甲子光年",
-      "d": "sohu.com"
-    },
-    {
-      "t": "资本开抢AI 3D，“御三家”半年吸纳超80亿元",
-      "d": "sohu.com"
-    },
-    {
-      "t": "本周 AI 项目推荐｜ Hypit、Synvas、Pexo...AI 视频赛道还",
-      "d": "sohu.com"
+      "t": "江西首个“OPC社区+万兆光网”融合应用试点落地南昌",
+      "d": "ifeng.com"
     }
   ]
 }

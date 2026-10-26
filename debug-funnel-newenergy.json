@@ -1,34 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 40,
-    "trusted": 2,
+    "raw_dedup_junk": 59,
+    "trusted": 10,
     "non_trusted_top": {
-      "autohome.com.cn": 17,
-      "sina.com.cn": 10,
+      "autohome.com.cn": 11,
+      "ne21.com": 7,
+      "sina.com.cn": 7,
+      "in-en.com": 5,
+      "wedoany.com": 4,
+      "gessey.com": 2,
       "tianjinwe.com": 2,
-      "seetao.com": 2,
       "voi.id": 2,
-      "aksxw.com": 1,
-      "eeo.com.cn": 1,
-      "stockstar.com": 1,
-      "icswb.com": 1,
-      "eastmoney.com": 1
+      "stockstar.com": 2,
+      "mydrivers.com": 1
     },
-    "fresh1_24h": 1,
-    "page_fresh": 1,
-    "relaxed_72h": 1,
-    "final": 2,
-    "cap": "不限同域"
+    "fresh1_24h": 9,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "超5GW！隆基、爱旭、晶科、通威等10企拿下光伏大单！",
+      "t": "特变电工29项输配电及新能源电力装备一次性通过国家级新产品鉴定",
       "d": "sohu.com"
     },
     {
-      "t": "合康新能三大主业成长逻辑清晰 定增加码驱动转型",
-      "d": "eastmoney.com"
+      "t": "光伏企业跨界AIDC分化显现：算电协同落地仍受建设周期与供需错配制约",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "喜报｜热烈祝贺国综绿能 200MW/800MWh 电网侧独立储能项目顺利并网",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "中国生产的电动车已占据韩国44.2%市场 冲击现代起亚",
+      "d": "sohu.com"
+    },
+    {
+      "t": "奇瑞考虑加拿大建厂 中国车企集体瞄准美国市场",
+      "d": "gasgoo.com"
+    },
+    {
+      "t": "固态电池概念震荡回升 上海洗霸触及涨停",
+      "d": "163.com"
+    },
+    {
+      "t": "宋EV300电机性能如何？",
+      "d": "autohome.com.cn"
     }
   ]
 }

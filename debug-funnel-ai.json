@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 33,
-    "trusted": 13,
+    "raw_dedup_junk": 60,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "sina.cn": 4,
-      "ichaoqi.com": 2,
-      "autohome.com.cn": 1,
-      "ac.cn": 1,
-      "ac.id": 1,
-      "voc.com.cn": 1,
-      "icloudnews.net": 1,
-      "cztv.com": 1,
-      "shobserver.cn": 1
+      "sina.com.cn": 9,
+      "sina.cn": 6,
+      "techwalker.com": 4,
+      "eastmoney.com": 4,
+      "stockstar.com": 3,
+      "techflowpost.com": 2,
+      "zhiding.cn": 2,
+      "icloudnews.net": 2,
+      "fxbaogao.com": 2,
+      "gongshunews.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 3,
-    "relaxed_72h": 9,
+    "fresh1_24h": 14,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "斯坦福Nature正刊：论文不只用来读，还能直接跑",
-      "d": "sohu.com"
+      "t": "垂直大模型赋能精密制造，湾区这场大会探寻智造升级新路径",
+      "d": "21jingji.com"
     },
     {
-      "t": "Town获1.08亿美元B轮融资估值10亿，主打中小企业AI智能体",
-      "d": "sohu.com"
-    },
-    {
-      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+      "t": "京东Aidol创造营DemoShow路演直播圆满落幕 多元 AI 硬件解锁未来生",
       "d": "36kr.com"
     },
     {
-      "t": "广电AI采购转向词元订阅：北京台300万元购火山引擎Seedance，云南台6天",
-      "d": "huxiu.com"
+      "t": "环比增长801%，DeepSeek一款大模型单周调用量登顶全球第一！MiniMa",
+      "d": "nbd.com.cn"
     },
     {
-      "t": "算力新场景丨在政务服务中心 像买水电一样买token",
-      "d": "cnr.cn"
+      "t": "市场利好提振人工智能股 群核科技盘中一度涨近15%",
+      "d": "cls.cn"
     },
     {
-      "t": "“人工智能+”开辟新范式：AI赋能科幻IP再“叙事”",
+      "t": "发布专业智能体Navos Pro 2026TGC科技增长大会在广州举行",
+      "d": "cctv.com"
+    },
+    {
+      "t": "DHH & 任旭东共话 Agent 时代的协作与创新 | GOSIM Shenz",
+      "d": "cyol.com"
+    },
+    {
+      "t": "从问答走向交付：AI智能体转向生产线，释放了哪些信号？",
       "d": "chinanews.com.cn"
-    },
-    {
-      "t": "阿里千问蒋冠军谈个人AI智能体技术框架：需要模型、记忆与生态协同推进",
-      "d": "ifeng.com"
     }
   ]
 }
