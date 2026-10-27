@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 59,
+  "total": 17,
   "samples": [
     {
+      "title": "TÜV莱茵2026华东区新能源及新型电力系统先进技术大会在盐城举办",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtOWYwZTF2Z0VnZnF2MHhEazNaTW1SUnA1WmdpTzQ0cEtOTDNBWFQ4ZVhLaVlKcUFDUVpnU21ZaEJEaWlTcjdFZEs",
+      "source_url": "https://m.dtm.com.cn",
+      "source": "m.dtm.com.cn"
+    },
+    {
       "title": "特变电工29项输配电及新能源电力装备一次性通过国家级新产品鉴定",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaE9MdGtmYUpGb1pXcmhUbnJKM2JnVnhRQXVsZlZEbGx4dTJ2SFAzbnlpSXZOTFhoZ2VySVRYMGQ0c1k4SW9jTVF",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbXgtVS1UUGl1cWYzWTM5cjFqbFdGYTVmbGdjN0FWbHVSLUJOcUxRX3gzRFgwZkxIaTNYZm1WUFFJUVhka09NLTd",
       "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "source": "搜狐网"
     },
     {
-      "title": "太阳成第一大电源 我国风光累计装机破20亿千瓦",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5OWhYRjJLU3h1cWVOU3F4QW9ybW1yRS0zcEtNenRleVM5VVY4c2FBNTU5ZXZLZFpSYTZ3bjF0SEs5UnpsdldSMFF",
-      "source_url": "https://news.mydrivers.com",
-      "source": "驱动之家"
+      "title": "“在韩国能卖得更便宜，没必要买贵车”……“白菜价”中国车，PHEV发起全面攻势 [世上万车]",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYeEN3eEV0XzdmSzNyeE1IOHgwV2g2UkhERXpkSzdTcTVqbHJwa2YwbzZVV015ZGJsd1lHTjhGT1dKaVZyTG1FZHQ",
+      "source_url": "https://www.mk.co.kr",
+      "source": "매일경제"
     },
     {
-      "title": "从沙戈荒到算电协同|甘肃新能源大基地会议圆满落幕，产业蓝皮书重磅发布",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtM0RoNzJGdlFEdHpYa3loMzNxRldOZEZMMnRPMllqQkhIbmdaM3R2aFJVRi1adnBvb1g4a21aQXQwUmtNazZDZ0h",
-      "source_url": "https://www.ne21.com",
-      "source": "世纪新能源网"
+      "title": "【图】将于10月27日上市/轴距达2800mm 全新比亚迪秦PLUS正式亮相",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VT2p0X05zSkFlRlhoZW5BSFBhdnRrLWhMWlB3T1Z0VUpmeVJqMnpOYzlqY2I2cS1UaC1MRWZfM0hyR1cxNldvQjJ",
+      "source_url": "https://m.autohome.com.cn",
+      "source": "汽车之家"
     },
     {
-      "title": "瑞迪微电子完成亿元融资",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ieldJWml0dEVfLXliR2pXNlpacFBNOEQ0VDE2bFNIa21JemtvdmdzM19PbHVoVTcxbkUyVHUzeE54YXozUUNIYl8",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "比亚迪超豪华电动轿车或于11月5日左右在迪拜首发",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeUtySXU2UUJpQlNfNC1zMTNpalA3N0JVZUJQVW9GNG1NbXdNT1AwTFYzVHFsVFJFLWRqUWVKaGV5OHl3cGstS3J",
+      "source_url": "https://mezha.net",
+      "source": "Mezha.net"
     },
     {
-      "title": "中国新闻网：从一座老电站到一张能源网：赣黔渝革命老区的绿色转型路径",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10OUpmcElCT0ZQLUFmMEM0SzE4b0IyTzhEN3Q3c2otT2szWEtLRHJhZi1laUsyNjlyLVpqZjg5bGo0SWlUb1BwVEd",
-      "source_url": "https://chinapower.org.cn",
-      "source": "电力头条"
-    },
-    {
-      "title": "“专属绿色电厂”是怎样建成的？探访甘肃电投庆阳“绿电聚合”试点项目建设一线",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aSUpKYnpjZFM5YWpCcFZ5Mm50U2s4MnpyWDJ0emtSTDkxUi1SRG1XZmhTYTRQNnBjS29seFdRN3ZpY0hzY2IzOGl",
-      "source_url": "https://gansu.gansudaily.com.cn",
-      "source": "每日甘肃网"
+      "title": "Tiny Corp 的 Tinybox 配置器移除了Nvidia 选项，采用6张 GPU 的 AMD",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMDlnbmZLelVMY0JDcEhUWlZubjZhUThIUGZuSXBYTjEyT0RjYU9WdGhrbEcxTXQwWnlfdWV0S0VWUUlQRE1NcmZ",
+      "source_url": "https://mezha.net",
+      "source": "Mezha.net"
     }
   ]
 }

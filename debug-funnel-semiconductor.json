@@ -1,52 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 41,
-    "trusted": 24,
+    "raw_dedup_junk": 45,
+    "trusted": 23,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "sina.cn": 3,
-      "esmchina.com": 2,
-      "futunn.com": 1,
-      "china.com": 1,
-      "enanyang.my": 1,
-      "voc.com.cn": 1,
-      "icsmart.cn": 1
+      "sina.com.cn": 9,
+      "futunn.com": 2,
+      "stockstar.com": 2,
+      "creaders.net": 1,
+      "digitaltoday.co.kr": 1,
+      "digitimes.com.tw": 1,
+      "sina.cn": 1,
+      "news18a.com": 1,
+      "chosun.com": 1,
+      "or100.cc": 1
     },
-    "fresh1_24h": 24,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 21,
+    "page_fresh": 10,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "海外机构密集发声！业绩端验证行业景气存储芯片或迎估值修复窗口_市场测评_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "优质标的一票难求，广东国资嵌套多层资本抢滩全国芯片龙头",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "探路者：旗下通途半导体与端侧大模型推理AI芯片头部企业战略合作",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "长鑫拒绝苹果",
-      "d": "guancha.cn"
-    },
-    {
-      "t": "美国FCC首次动用新规禁止搭载海思芯片设备入境，两款民用产品被拦",
+      "t": "意法半导体发布高精度单芯片MEMS压力传感器，实现海拔与水深监测功能二合一",
       "d": "eet-china.com"
     },
     {
-      "t": "芯片板块全线回调，半导体设备ETF易方达（159558）逆势获4200万份净申购",
-      "d": "eastmoney.com"
+      "t": "总投资5.58亿元，超高压功率半导体器件生产项目签约！",
+      "d": "sohu.com"
     },
     {
-      "t": "不黑不吹，使用纯国产设备，我们可能连28nm芯片都搞不定",
+      "t": "长鑫拒绝苹果等海外订单！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "2DMEMS探针卡产品订单放量 强一股份Q3净利同比增34.10%",
+      "d": "cls.cn"
+    },
+    {
+      "t": "被禁运后中国猛买DUV光刻机，美国专家慌了：这招我们当年也用过",
       "d": "sohu.com"
+    },
+    {
+      "t": "给芯片做微雕的北大学霸，携年入7亿的鲁汶仪器冲IPO",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "集成电路与半导体产业链收并购研究报告（2026）",
+      "d": "21jingji.com"
     }
   ]
 }

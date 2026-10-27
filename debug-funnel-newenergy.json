@@ -1,25 +1,25 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 59,
-    "trusted": 10,
+    "raw_dedup_junk": 17,
+    "trusted": 4,
     "non_trusted_top": {
-      "autohome.com.cn": 11,
-      "ne21.com": 7,
-      "sina.com.cn": 7,
-      "in-en.com": 5,
-      "wedoany.com": 4,
-      "gessey.com": 2,
-      "tianjinwe.com": 2,
-      "voi.id": 2,
-      "stockstar.com": 2,
-      "mydrivers.com": 1
+      "mezha.net": 2,
+      "in-en.com": 2,
+      "dtm.com.cn": 1,
+      "mk.co.kr": 1,
+      "leikeji.com": 1,
+      "starnewskorea.com": 1,
+      "autohome.com.cn": 1,
+      "jgvogel.cn": 1,
+      "sina.cn": 1,
+      "jinantimes.com.cn": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 8,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 3,
+    "page_fresh": 0,
+    "relaxed_72h": 3,
+    "final": 3,
+    "cap": "不限同域"
   },
   "final": [
     {
@@ -27,28 +27,12 @@
       "d": "sohu.com"
     },
     {
-      "t": "光伏企业跨界AIDC分化显现：算电协同落地仍受建设周期与供需错配制约",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "喜报｜热烈祝贺国综绿能 200MW/800MWh 电网侧独立储能项目顺利并网",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "中国生产的电动车已占据韩国44.2%市场 冲击现代起亚",
-      "d": "sohu.com"
-    },
-    {
-      "t": "奇瑞考虑加拿大建厂 中国车企集体瞄准美国市场",
-      "d": "gasgoo.com"
-    },
-    {
-      "t": "固态电池概念震荡回升 上海洗霸触及涨停",
-      "d": "163.com"
-    },
-    {
-      "t": "宋EV300电机性能如何？",
+      "t": "比亚迪e6的电机功率是多少？",
       "d": "autohome.com.cn"
+    },
+    {
+      "t": "锂钠混合储能！菏泽普元200MW/400MWh独立储能电站并网",
+      "d": "solarbe.com"
     }
   ]
 }

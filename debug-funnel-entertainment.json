@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 73,
-    "trusted": 25,
+    "raw_dedup_junk": 49,
+    "trusted": 12,
     "non_trusted_top": {
-      "china.com": 9,
-      "sina.cn": 4,
-      "vietnam.vn": 3,
-      "hupu.com": 3,
-      "shobserver.cn": 2,
-      "3dmgame.com": 2,
-      "yzwb.net": 2,
-      "cjn.cn": 2,
-      "360.com": 2,
-      "xmnn.cn": 2
+      "sina.cn": 8,
+      "hupu.com": 5,
+      "bjd.com.cn": 2,
+      "stockstar.com": 2,
+      "mydrivers.com": 2,
+      "china.com": 2,
+      "hangzhou.com.cn": 2,
+      "newrank.cn": 1,
+      "vietnam.vn": 1,
+      "hk01.com": 1
     },
-    "fresh1_24h": 25,
-    "page_fresh": 23,
-    "relaxed_72h": 0,
+    "fresh1_24h": 10,
+    "page_fresh": 2,
+    "relaxed_72h": 10,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "首部AI电影上映4天票房仅100余万元，技术“里程碑”为何没成市场“通行证”？",
+      "t": "国内首部AI院线电影《三星堆：未来往事》上映3日票房仅百万，制作2年成本千万级仍",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "石景山“电竞之城”城市名片持续闪亮",
       "d": "sohu.com"
     },
     {
-      "t": "首部AI院线电影票房遇冷！电影上映4天票房仅119万！",
+      "t": "上映4天票房120万元！首部AI院线影片不及预期，AI影视下一站走向哪",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "职业电竞显示器品牌有哪些？赛场认证爱攻AGON硬实力",
       "d": "sohu.com"
     },
     {
-      "t": "京西电竞节焕新亮相首钢园 产业矩阵激活区域新动能",
-      "d": "chinanews.com.cn"
+      "t": "全民参与点亮科创商圈 张江电竞嘉年华解锁文体融合新场景",
+      "d": "people.com.cn"
     },
     {
-      "t": "南财法治通丨造谣天价票被行拘 律师：收了钱，性质立刻变诈骗",
-      "d": "21jingji.com"
+      "t": "博纳影业跌停！《三星堆：未来往事》4天票房仅123万，AI影视剧商业模式仍待验证",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "杜甫、刘邦和孙悟空的rap刷屏，唱哭全网年轻人",
-      "d": "36kr.com"
-    },
-    {
-      "t": "周末戏相逢丨2026年闽台青少年街舞展演活动在福州举办",
-      "d": "cctv.com"
-    },
-    {
-      "t": "大麦演出主办肖战巡演南京开唱，强实名“秒级核验”助力超2.5万观众有序入场",
-      "d": "ce.cn"
+      "t": "蓝盈莹乌镇戏剧节被偶遇，和男友同游，路遇聋哑人求助暖心帮忙",
+      "d": "163.com"
     }
   ]
 }

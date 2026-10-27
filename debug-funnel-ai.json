@@ -2,53 +2,53 @@
   "type": "ai",
   "stages": {
     "raw_dedup_junk": 60,
-    "trusted": 14,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.com.cn": 9,
-      "sina.cn": 6,
-      "techwalker.com": 4,
-      "eastmoney.com": 4,
-      "stockstar.com": 3,
-      "techflowpost.com": 2,
-      "zhiding.cn": 2,
-      "icloudnews.net": 2,
-      "fxbaogao.com": 2,
-      "gongshunews.com": 1
+      "sina.com.cn": 16,
+      "orcarouter.ai": 8,
+      "sina.cn": 3,
+      "stockstar.com": 2,
+      "mpaypass.com.cn": 2,
+      "csdn.net": 1,
+      "guandian.cn": 1,
+      "fxbaogao.com": 1,
+      "cnmo.com": 1,
+      "zjol.com.cn": 1
     },
     "fresh1_24h": 14,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
+    "page_fresh": 5,
+    "relaxed_72h": 11,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "垂直大模型赋能精密制造，湾区这场大会探寻智造升级新路径",
-      "d": "21jingji.com"
+      "t": "“看不见的外贸”畅跑全球，词元出海为什么在这里实现？",
+      "d": "ce.cn"
     },
     {
-      "t": "京东Aidol创造营DemoShow路演直播圆满落幕 多元 AI 硬件解锁未来生",
+      "t": "聚合67款大模型 词元平台功能强",
+      "d": "sohu.com"
+    },
+    {
+      "t": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜",
       "d": "36kr.com"
     },
     {
-      "t": "环比增长801%，DeepSeek一款大模型单周调用量登顶全球第一！MiniMa",
-      "d": "nbd.com.cn"
+      "t": "穆胜咨询发布人机协同团队研究：AI智能体成员工，企业需重构人效与治理",
+      "d": "huxiu.com"
     },
     {
-      "t": "市场利好提振人工智能股 群核科技盘中一度涨近15%",
-      "d": "cls.cn"
+      "t": "56岁周鸿祎罕见“服软”：避开大厂锋芒、做AI的苦生意",
+      "d": "36kr.com"
     },
     {
-      "t": "发布专业智能体Navos Pro 2026TGC科技增长大会在广州举行",
-      "d": "cctv.com"
+      "t": "四大华尔街巨头630亿美元豪掷Anthropic算力，博通为芯片残值托底",
+      "d": "wallstreetcn.com"
     },
     {
-      "t": "DHH & 任旭东共话 Agent 时代的协作与创新 | GOSIM Shenz",
-      "d": "cyol.com"
-    },
-    {
-      "t": "从问答走向交付：AI智能体转向生产线，释放了哪些信号？",
-      "d": "chinanews.com.cn"
+      "t": "城堡证券：AI交易已无容错空间，资本开支沦为\"双向风险\"",
+      "d": "wallstreetcn.com"
     }
   ]
 }

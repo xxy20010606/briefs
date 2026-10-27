@@ -1,54 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 33,
-    "trusted": 11,
+    "raw_dedup_junk": 26,
+    "trusted": 9,
     "non_trusted_top": {
-      "sina.com.cn": 2,
       "zhiding.cn": 2,
-      "oschina.net": 2,
-      "pasqualepillitteri.it": 2,
-      "mydrivers.com": 1,
-      "66wz.com": 1,
-      "baijing.cn": 1,
-      "qudong.com": 1,
-      "tradingview.com": 1,
-      "china.com": 1
+      "donews.com": 2,
+      "unite.ai": 1,
+      "blockchain.news": 1,
+      "stockstar.com": 1,
+      "moomoo.com": 1,
+      "oschina.net": 1,
+      "ichaoqi.com": 1,
+      "sh.gov.cn": 1,
+      "morketing.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
+    "fresh1_24h": 9,
+    "page_fresh": 5,
+    "relaxed_72h": 4,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "20名儿童化身观察员，AI助力“童智”改造社区微空间",
+      "t": "券商晨会精华：AI+办公打开下一个万亿级市场",
+      "d": "163.com"
+    },
+    {
+      "t": "【投融资动态】K2 Lab天使+融资，融资额数千万人民币，投资方为凯泰资本",
       "d": "sohu.com"
     },
     {
-      "t": "华厦眼科展示AI辅助医生工作站应用 连锁医疗网络支撑数智化诊疗探索",
-      "d": "10jqka.com.cn"
+      "t": "AI开始参与芯片设计：模型公司、EDA厂商与初创公司竞逐RSI闭环",
+      "d": "huxiu.com"
     },
     {
-      "t": "从Agent到Skill：餐饮老板的AI机会，藏在“小事”里",
+      "t": "最火离职名单-36氪",
+      "d": "36kr.com"
+    },
+    {
+      "t": "56岁周鸿祎罕见“服软”：避开大厂锋芒、做AI的苦生意",
+      "d": "36kr.com"
+    },
+    {
+      "t": "当一场AI大会没有了围墙｜甲子光年",
       "d": "sohu.com"
     },
     {
-      "t": "就业友好成为AI应用标尺 人机协作推动岗位技能迭代",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "场景出题，AI赋能！广州市直机关首届人工智能应用大赛举行",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "从“工具”跃升为“生产力”， AI重构电影生产逻辑",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "江西首个“OPC社区+万兆光网”融合应用试点落地南昌",
-      "d": "ifeng.com"
+      "t": "个人Agent赛道升温：Today AI获超2亿美元融资，阿里腾讯字节加速布局",
+      "d": "huxiu.com"
     }
   ]
 }
