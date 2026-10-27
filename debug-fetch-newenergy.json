@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 17,
+  "total": 43,
   "samples": [
     {
-      "title": "TÜV莱茵2026华东区新能源及新型电力系统先进技术大会在盐城举办",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtOWYwZTF2Z0VnZnF2MHhEazNaTW1SUnA1WmdpTzQ0cEtOTDNBWFQ4ZVhLaVlKcUFDUVpnU21ZaEJEaWlTcjdFZEs",
-      "source_url": "https://m.dtm.com.cn",
-      "source": "m.dtm.com.cn"
+      "title": "湖北新型能源体系十五五规划发布 2030年建成新型储能8GW 新增顶峰保供独立储能力争2GW",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5TFdlTDF3cXF3UHVlMmRVUDdleWppVTNrLWJXMUZqSHhEbWJLVkV1UnBtVmNqSm0xc21NQnpydEtNekJHRkc1QWU",
+      "source_url": "https://www.gessey.com",
+      "source": "www.gessey.com"
     },
     {
-      "title": "特变电工29项输配电及新能源电力装备一次性通过国家级新产品鉴定",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbXgtVS1UUGl1cWYzWTM5cjFqbFdGYTVmbGdjN0FWbHVSLUJOcUxRX3gzRFgwZkxIaTNYZm1WUFFJUVhka09NLTd",
+      "title": "600MWh储能分两期落地，罗马尼亚东部大型光储项目推进提速",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QRmJUaWVzUmJYaUJxUm1rbkEyTk41YWhObm1Pcm43TlEzbzFkSHZpQUY5dnhMUTJhYk0xLUhqZWluX2FhQ0UxQ2l",
+      "source_url": "https://www.seetao.com",
+      "source": "见道网"
+    },
+    {
+      "title": "AI加持！协鑫运营科技数智集控落地盐城，赋能全域新能源管控",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zbi1LdFFCLVkyY2NDbGVhY2pTT2w3cEZSQVRIRTNKVXVucmRVN2pNNzVxSkZnVUFUbV9pT3BtMlphR04xV3k1NUV",
+      "source_url": "https://www.ne21.com",
+      "source": "世纪新能源网"
+    },
+    {
+      "title": "无人机 3D打印 光伏储能！六盘水这所中学的科学课有点“硬核”",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGJOdFl2cnJ2cGE4ZlRXLVlWNVhsTi14b28xN3JEd3NIdTFzaWlwUkYyaF9FclRCYkZOcURQMmFjMHpEdFJHUWR",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "“在韩国能卖得更便宜，没必要买贵车”……“白菜价”中国车，PHEV发起全面攻势 [世上万车]",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYeEN3eEV0XzdmSzNyeE1IOHgwV2g2UkhERXpkSzdTcTVqbHJwa2YwbzZVV015ZGJsd1lHTjhGT1dKaVZyTG1FZHQ",
-      "source_url": "https://www.mk.co.kr",
-      "source": "매일경제"
+      "title": "TÜV莱茵2026华东区新能源及新型电力系统先进技术大会在盐城举办",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZHdoV05yN2pwU0NybEh2MUdUZ1k3al9PMExMRmFJWE9JNmlYMFRCZDZUTk11aXF6cm1GSHdpZVdYRTVnS1pOcll",
+      "source_url": "https://hb.china.com",
+      "source": "中华网"
     },
     {
-      "title": "【图】将于10月27日上市/轴距达2800mm 全新比亚迪秦PLUS正式亮相",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VT2p0X05zSkFlRlhoZW5BSFBhdnRrLWhMWlB3T1Z0VUpmeVJqMnpOYzlqY2I2cS1UaC1MRWZfM0hyR1cxNldvQjJ",
-      "source_url": "https://m.autohome.com.cn",
-      "source": "汽车之家"
-    },
-    {
-      "title": "比亚迪超豪华电动轿车或于11月5日左右在迪拜首发",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeUtySXU2UUJpQlNfNC1zMTNpalA3N0JVZUJQVW9GNG1NbXdNT1AwTFYzVHFsVFJFLWRqUWVKaGV5OHl3cGstS3J",
-      "source_url": "https://mezha.net",
-      "source": "Mezha.net"
-    },
-    {
-      "title": "Tiny Corp 的 Tinybox 配置器移除了Nvidia 选项，采用6张 GPU 的 AMD",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMDlnbmZLelVMY0JDcEhUWlZubjZhUThIUGZuSXBYTjEyT0RjYU9WdGhrbEcxTXQwWnlfdWV0S0VWUUlQRE1NcmZ",
-      "source_url": "https://mezha.net",
-      "source": "Mezha.net"
+      "title": "悦达储能 SOURCE POWER 户用光储产品亮相中国国际农机展",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGOUhHaVNYbm5KaGxVSEFDSHFzNmthQmsxSkZPdmc3eUpIdVMyNmVuUURaYWVXZXBNc2ZsdXVlVzAyNXdmYnZtVWV",
+      "source_url": "https://mcn.solarbe.com",
+      "source": "碳索储能网"
     }
   ]
 }

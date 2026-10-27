@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 60,
+  "total": 39,
   "samples": [
     {
-      "title": "GPT-6.1 Terra 深夜来袭：比旗舰快 3 倍，事实错误率暴降近 70%！价格仅1/10",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlZ4Wk1FMUlKSDB1dmpncFZPaThPSTZhMGJwZ3RwYkJzVzh0T091U0otV09qQkIzczZITl9JZ1pnUkpmSmREeFV",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "Token经济重塑成本与价值，AI的“经济账”该怎么算？",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOZGc4RFRwTVV2bWlEZTFjZFBrYjhWQkxZaTdPQW9rQzdGTTgzeFlZbDlkLUdYSnFYczZMdEcyLU42QUt4eFlOWXR",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "Meta：多模态推理每个Token精准奖励",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TQS1iS1ZVSExRMUdwWVN4LVE3RW5pdWV3d1BJNk5yMG53UlN6cVRLam1UcTh4U3pkVzRYNkg5aTZ1YTlGN211S2d",
+      "title": "2026年10月27日总第30期",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zckd2N0RlbWMzU3ljM1hVTWNKcE1waDRVcG0yYzU3dzFDYWtKZmQ3bzBDblJONmpMd3R3RV9hb3I2ajhYRDBkUXJ",
+      "source_url": "https://cbgc.scol.com.cn",
+      "source": "川观新闻"
+    },
+    {
+      "title": "多项世界第一和世界首创！世航沧穹大模型给海洋机器人装上“最强大脑”",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rOVhZSktVZzBMSVNxRDR3MjdmYnNFMWtkNXVBM3FESkFBdlFQbkFzYnhxS2RPLUxrdnZ2NHF3MTZSV1hwUHB6eER",
       "source_url": "https://blog.csdn.net",
       "source": "CSDN博客"
     },
     {
-      "title": "凯迪思设计系统推出芯片设计AI模型 可供芯片制造商内部运行",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoQkdtQVExTmJnUDFvZHlzUV9Ub1I1NWRGNnhUTlVfaW16V2laNDByX0tmUE94TElEMGl4dWFHRGU3Qjc1SHdUSjd",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
-    },
-    {
-      "title": "“看不见的外贸”畅跑全球，词元出海为什么在这里实现？",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QdzdPaFNxSEF1UnBHZk5NdzJqU2RGanNmSzdwQWdONzVnMVFCVm5iRl9sZkRzSHhpd2FiR0E3dTV5d3lPTExsWmd",
-      "source_url": "http://www.ce.cn",
-      "source": "中国经济网"
-    },
-    {
-      "title": "聚合67款大模型 词元平台功能强",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc3JOVUxiSFQ0dENxRE91cU9KTUpJRV8yTWhDVzJZR1VMM2NsdFl2X2o5cDBiNkY3ZzJjdWpNS2RNLVp4SE1vWFU",
+      "title": "马上消费牵头编制金融大模型IEEE国际标准正式发布",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2xJdUp2TWNfX0FNVEFzLW5xeXhBR0VaWXowU3VWaXlTNm9mQlN6QWpBYVJ6LXZFQk1LeXU4VzlWQTJtNXl1N2V",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "四大华尔街巨头630亿美元豪掷Anthropic算力，博通为芯片残值托底",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUWFBmTkhOYUZRYjJUdC14TF83MDRlV0tIQnJnVUEwQVBVTGY5Z2ZOSDBoNE5hV1NmRVQ2RlEtdW5zaWdPSUtfNnA",
-      "source_url": "https://wallstreetcn.com",
-      "source": "华尔街见闻"
+      "title": "一家省重点智库的AI“转身”——广东省省情调查研究中心如何把大模型“用进”决策研究",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4QURYZ2hfc0UwOFctaE5OQkpwRjIzcWk0Z0FXbF9xU0ZCV1g1c012MVBMem5uZTZwTzFVemlIbTAtRlVwQmx0UVV",
+      "source_url": "http://time-weekly.com",
+      "source": "时代在线"
+    },
+    {
+      "title": "哪家智驾行驶体验最丝滑？三套主流系统类人老司机质感解析",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JWVFxYldGUDZwWnFzbEk5eGJNUEJoZE5vendUa2FmR2NxYUJOak9WOTUtc3FaVEVSMVMtQm1hZFUwR3hPMTVJemw",
+      "source_url": "https://chejiahao.autohome.com.cn",
+      "source": "汽车之家"
     }
   ]
 }

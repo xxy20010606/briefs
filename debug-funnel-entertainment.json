@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 12,
+    "raw_dedup_junk": 42,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.cn": 8,
-      "hupu.com": 5,
+      "sina.cn": 3,
+      "china.com": 3,
+      "hupu.com": 2,
       "bjd.com.cn": 2,
-      "stockstar.com": 2,
-      "mydrivers.com": 2,
-      "china.com": 2,
-      "hangzhou.com.cn": 2,
+      "kyodonews.net": 2,
       "newrank.cn": 1,
-      "vietnam.vn": 1,
-      "hk01.com": 1
+      "sina.com.cn": 1,
+      "beijing.gov.cn": 1,
+      "mk.co.kr": 1,
+      "vietnam.vn": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 2,
-    "relaxed_72h": 10,
+    "fresh1_24h": 11,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "国内首部AI院线电影《三星堆：未来往事》上映3日票房仅百万，制作2年成本千万级仍",
+      "t": "上映4天票房仅123万 上座率跌至0.2% 首部院线AI长片票房遭遇滑铁卢",
+      "d": "cls.cn"
+    },
+    {
+      "t": "S16热搜刷屏，LPL品牌赞助商玩转“第二赛场”",
+      "d": "sohu.com"
+    },
+    {
+      "t": "首部AI院线电影《三星堆：未来往事》上映，AI长片加速进入院线与长视频平台",
       "d": "huxiu.com"
     },
     {
-      "t": "石景山“电竞之城”城市名片持续闪亮",
+      "t": "李媛：长视频的深度沉浸感会永远被需要",
       "d": "sohu.com"
     },
     {
-      "t": "上映4天票房120万元！首部AI院线影片不及预期，AI影视下一站走向哪",
-      "d": "thepaper.cn"
+      "t": "跟随野象足迹，看见人与自然温柔以待",
+      "d": "xinhuanet.com"
     },
     {
-      "t": "职业电竞显示器品牌有哪些？赛场认证爱攻AGON硬实力",
-      "d": "sohu.com"
+      "t": "郎朗新年音乐会将在长沙上演",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "全民参与点亮科创商圈 张江电竞嘉年华解锁文体融合新场景",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "博纳影业跌停！《三星堆：未来往事》4天票房仅123万，AI影视剧商业模式仍待验证",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "蓝盈莹乌镇戏剧节被偶遇，和男友同游，路遇聋哑人求助暖心帮忙",
-      "d": "163.com"
+      "t": "电视剧《小城良方》热播 演员肖战：这部剧是温暖有用的“良方”",
+      "d": "cnr.cn"
     }
   ]
 }

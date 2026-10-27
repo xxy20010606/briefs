@@ -1,7 +1,25 @@
 {
   "type": "entertainment",
-  "total": 49,
+  "total": 42,
   "samples": [
+    {
+      "title": "上映4天票房仅123万 上座率跌至0.2% 首部院线AI长片票房遭遇滑铁卢",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkeVNKVHdkU2pxWEZoV2x1TEw4QVFLX3FsQUV3aGMxejczc21LTG9ESHE3OHRCakw3UjZ1LVhwOTNNSS1QbzlXMQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "每场只有1名观众？国内首部AI全流程院线电影《三星堆：未来往事》上映4天，票房仅破百万",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tNEFtdHB1VGFQNFgwZmhMbFk0cXBBcUNpcW8ySFVJaUYtS1cxOEJEa3g1Nmp2QmwzbUNpSXp1RW9Na0lGSnlQR3l",
+      "source_url": "https://wallstreetcn.com",
+      "source": "华尔街见闻"
+    },
+    {
+      "title": "2026总票房破315亿！“跟着电影去运动”解锁消费新场景",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUFNuY2ZvQnloMXlBeFpsT1NEOWVOSVJUdjR0THlWRFd5X05pelBhV3dNQTNsZHNMNXRTcWRHbGtmT00yRkJxck1",
+      "source_url": "http://news.sina.cn",
+      "source": "新浪新闻_手机新浪网"
+    },
     {
       "title": "上映4天票房120万，《三星堆：未来往事》到底怎么样？我们和看过的人聊了聊",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QM1pOcGx4QnhUdTJfdE9CWGRubDNGTmdBSTQ3a3RGdlAtdkNxZ1pOMG43MkZtck1ySGVVUkRWd1ozcG9Dc2ZoVWl",
@@ -9,34 +27,16 @@
       "source": "新榜"
     },
     {
+      "title": "首部AI院线电影票房遇冷 商业化究竟难在哪？",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wdEM4U0FZT0dZQm5LMXhkWDBQb3NzaEJIYmhrS3ByeGFDUkV1dVN5azZVUG0wSDR1YzdpUnlvR1pGNVlIUDVHY3F",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
       "title": "首部拿到龙标的AI电影《三星堆：未来往事》内地院线首日票房30万。 ​",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84aG5KalJrdzBOdW5QX2Nrd0wyV01oQkpwd3kxdkpDMmpmM2JDU1BmcFE2dlhjU3RBTzNzVy1ITk5EVy1EeDctMnA",
       "source_url": "https://www.sina.cn",
       "source": "手机新浪网"
-    },
-    {
-      "title": "上映4天票房120万元！首部AI院线影片不及预期，AI影视下一站走向哪",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xNXB3Sk53MnBERmpJeWl3WkszU05UTWxZTDNpbHNmekhobXc4elgyRk1NOTdPSlZJRDlBdURKcEhRaERmMWoyMnh",
-      "source_url": "https://www.thepaper.cn",
-      "source": "ThePaper.cn"
-    },
-    {
-      "title": "《人口贩卖营》票房超过了李海的电影，创下新纪录。",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkk1b1Z1T3I0cnNZSEd4LXhYdmxIMXBFU3VZZTFFOWVQSHVHWWVMaW9RRzVSTG5yOV9kdUFBYUF3OFcydXpNcDR",
-      "source_url": "https://www.vietnam.vn",
-      "source": "Vietnam.vn"
-    },
-    {
-      "title": "国内首部AI院线电影《三星堆：未来往事》上映3日票房仅百万，制作2年成本千万级仍暴露AI长片硬伤",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94cC1nT3k5LWxGdkFOQnlkUmR6X3Z4ZHdUa2Q2d1hLZWRNWUE0WmxKMDR3emRoanhfNUd5U2RCcDRPYklrWENvNzZ",
-      "source_url": "https://www.huxiu.com",
-      "source": "虎嗅网"
-    },
-    {
-      "title": "上映四天票房不到120万元，AI电影的“故事”不好讲",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jX0ZWZjVDS21HbzlMYTJCckZDeDVlY2VPYl83RHNTWExPOUI4ZmJxSXc5NzRFcURkU1FTcXJVVDFyUHJNZFMzMTV",
-      "source_url": "https://news.bjd.com.cn",
-      "source": "京报网"
     }
   ]
 }

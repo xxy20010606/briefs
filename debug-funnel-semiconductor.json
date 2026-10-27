@@ -1,54 +1,52 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 23,
+    "raw_dedup_junk": 36,
+    "trusted": 26,
     "non_trusted_top": {
-      "sina.com.cn": 9,
-      "futunn.com": 2,
-      "stockstar.com": 2,
-      "creaders.net": 1,
-      "digitaltoday.co.kr": 1,
-      "digitimes.com.tw": 1,
-      "sina.cn": 1,
-      "news18a.com": 1,
-      "chosun.com": 1,
+      "sina.com.cn": 2,
+      "esmchina.com": 2,
+      "yemacaijing.com": 1,
+      "fxbaogao.com": 1,
+      "indexbox.io": 1,
+      "jrj.com.cn": 1,
+      "futunn.com": 1,
       "or100.cc": 1
     },
-    "fresh1_24h": 21,
-    "page_fresh": 10,
-    "relaxed_72h": 8,
+    "fresh1_24h": 26,
+    "page_fresh": 21,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "意法半导体发布高精度单芯片MEMS压力传感器，实现海拔与水深监测功能二合一",
+      "t": "芯片制造格局，被改写",
+      "d": "36kr.com"
+    },
+    {
+      "t": "显示驱动IC厂投向Micro LED光互联",
       "d": "eet-china.com"
     },
     {
-      "t": "总投资5.58亿元，超高压功率半导体器件生产项目签约！",
-      "d": "sohu.com"
-    },
-    {
-      "t": "长鑫拒绝苹果等海外订单！",
+      "t": "韩国央行警告：美国AI支出若放缓，芯片出口恐缩水千亿美元",
       "d": "eet-china.com"
     },
     {
-      "t": "2DMEMS探针卡产品订单放量 强一股份Q3净利同比增34.10%",
-      "d": "cls.cn"
-    },
-    {
-      "t": "被禁运后中国猛买DUV光刻机，美国专家慌了：这招我们当年也用过",
-      "d": "sohu.com"
-    },
-    {
-      "t": "给芯片做微雕的北大学霸，携年入7亿的鲁汶仪器冲IPO",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "集成电路与半导体产业链收并购研究报告（2026）",
+      "t": "半导体封测年会将于11月4日至6日举行 多家上市公司参会",
       "d": "21jingji.com"
+    },
+    {
+      "t": "集微咨询发布《2026中国半导体IP/EDA行业上市公司研究报告》：AI ASI",
+      "d": "laoyaoba.com"
+    },
+    {
+      "t": "半导体封测，扩产潮来袭！",
+      "d": "sohu.com"
+    },
+    {
+      "t": "台积电先进封装报价拟涨最高20%，科创50再度下挫跌逾2%，寒武纪跌超3%，科创",
+      "d": "jiemian.com"
     }
   ]
 }

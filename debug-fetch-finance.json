@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 22,
+  "total": 42,
   "samples": [
     {
-      "title": "四大证券报头版头条内容精华摘要_2026年10月27日_财经新闻",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1R19ZQzNyZW5QQmw3d2dQQ1IzaW84MGxtZkF1UjZScDNqUTlCYkFiVHlNOWxnNkdHVW5OblNXX2VqTFlSdjVWWll",
+      "title": "股市午报：A股三大指数高开低走！银行板块涨幅居前，建设银行，股价再创历史新高",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aQ0gzNUh5YzJfWGVMZ3NWMXFfcXN4OW1DMWF4bGlad2s4UkNXOHRzQnRMZjlDLWc4TjZkV3IxdjFhVnBrWUVMNnd",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "10月27日外盘头条：巴西股市暴跌特朗普质疑卢拉胜选苹果承认少量iPhoneDuo内屏裂纹Anthr",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOGo2S2lTVGl3LWdveF82MFd6WXZJRUZVZzVJNHYxS2J5cDdjaXdZdjNkMlpNSE9zQ2FXWFo0d0xRelZLbVRBaDk",
+      "title": "韩国股市，暴力反弹！",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XYXhyemlNN29BWmdQdWdQMTVRMUlIRURnei1NOTZxYkVIOW1DLTZKOFoxdHdaUV9yaXZFREdtNFhNeEI0SjdCSmR",
+      "source_url": "https://cj.sina.cn",
+      "source": "finance.sina.com.cn"
+    },
+    {
+      "title": "巴西股市下跌13.88%，创6年来最大跌幅",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FUUNNcHpiZjluV0pqR1RYdHBUeHZiTFAxU29ZSEJteWVVY2REV3QwbU5vaU1UbE83aVFNOHBfR09IZzVQZTZ0cDB",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "宇树科技股份有限公司股票交易异常波动公告",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41NFVqSElHM3pNT3lJbF9Ua2dpbGZCa3UzcW5vSHh0LUhxYWowVnRNQlh0VE40clBVSEx0ODlyTER0R2liQTJKOVl",
+      "title": "韩国股市，涨到“熔断”！",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcEY1d1B4Q1R3MnM3WTNrQm5rTlZXUXFjaEZsWjlOSzhVd0ZUQ1pBcDVkNnliaUk4a3FEaWJuandjcU5wc1JHdGt",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "深圳市华盛昌科技实业股份有限公司股票交易异常波动公告",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yTFMyc3RFc3pBejl5eWhwU3Zwa3RFU29PMUt1T0w5bngybHc3Y0VSUFlkclpJeGhNMVZQdThOT0hCV2ljdy1yaUZ",
+      "title": "韩国股市暴涨",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRmhHVUgxTmVmQlJ0OWNEMVQ0NklkS2syRXh6RXA4aFRUN2dVbk4zd1BGU2FzeWxwb1BTYk9ZWkVDQTBCZmNzQTh",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "常州银河世纪微电子股份有限公司2024年限制性股票激励计划第二个归属期归属结果暨股份上市公告（定向发",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jMHBpSzU5OTBSY2RWUEFITE8zdHY3YlV0UEEtemxNLVVmZmwzZU53X01RWEtVT0FscnNHcmVVMW1URXR1WVlPWlV",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "上海海优威新材料股份有限公司2026年员工持股计划完成股票非交易过户的公告",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LQnhJbEF5My1NaVQwUWRHU1VCTWxaajJxdF8tcWdiclpCRnV1bDVaMkw2eElBRVhFTFZ4WTJ2N0F5MEg3ZHB2QVR",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "资金面与股市资金流向日评20261027",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONFk3QXc5anVtLVpDLXJtTXpPd25scHNsRENtSHBsN0J4Q2R4Vk1aSTk4Z201SHlwNnBMQ3NFQXJJeFMwYUZaMUx",
+      "source_url": "https://cj.sina.com.cn",
+      "source": "finance.sina.com.cn"
     }
   ]
 }

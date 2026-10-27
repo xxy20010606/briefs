@@ -1,34 +1,34 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 22,
-    "trusted": 5,
+    "raw_dedup_junk": 42,
+    "trusted": 8,
     "non_trusted_top": {
-      "sina.com.cn": 11,
-      "moomoo.com": 2,
-      "jin10.com": 1,
+      "sina.com.cn": 14,
+      "stockstar.com": 5,
+      "moomoo.com": 5,
+      "futunn.com": 3,
+      "fx168news.com": 2,
+      "sina.cn": 1,
       "tmgm.com": 1,
-      "futunn.com": 1,
-      "stockstar.com": 1
+      "wenxuan.news": 1,
+      "china.com": 1,
+      "fxbaogao.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 2,
+    "fresh1_24h": 8,
+    "page_fresh": 1,
     "relaxed_72h": 1,
-    "final": 3,
+    "final": 2,
     "cap": "不限同域"
   },
   "final": [
-    {
-      "t": "海外研选日报1026 | 荷兰合作银行：美联储12月料再加息 2028年才启动降",
-      "d": "cls.cn"
-    },
     {
       "t": "美股高开存储股、光通信股普涨特斯拉开涨3.3%_市场分析",
       "d": "cnfol.com"
     },
     {
-      "t": "【环球财经】东京股市两大股指涨跌互现",
-      "d": "21jingji.com"
+      "t": "美联储决议临近，黄金多空争夺4000美元关口",
+      "d": "wallstreetcn.com"
     }
   ]
 }

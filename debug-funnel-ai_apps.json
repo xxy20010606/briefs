@@ -1,54 +1,38 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 26,
-    "trusted": 9,
+    "raw_dedup_junk": 18,
+    "trusted": 3,
     "non_trusted_top": {
-      "zhiding.cn": 2,
-      "donews.com": 2,
+      "digitaltoday.co.kr": 2,
+      "sina.com.cn": 1,
+      "fxbaogao.com": 1,
+      "mydrivers.com": 1,
+      "hkcna.hk": 1,
+      "donews.com": 1,
+      "aibase.com": 1,
+      "zhiding.cn": 1,
       "unite.ai": 1,
-      "blockchain.news": 1,
-      "stockstar.com": 1,
-      "moomoo.com": 1,
-      "oschina.net": 1,
-      "ichaoqi.com": 1,
-      "sh.gov.cn": 1,
-      "morketing.com": 1
+      "fx168news.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 5,
-    "relaxed_72h": 4,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 3,
+    "page_fresh": 3,
+    "relaxed_72h": 0,
+    "final": 3,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "券商晨会精华：AI+办公打开下一个万亿级市场",
-      "d": "163.com"
-    },
-    {
-      "t": "【投融资动态】K2 Lab天使+融资，融资额数千万人民币，投资方为凯泰资本",
+      "t": "融资13亿，前豆包负责人再创业：做AI助理，但不好赚钱",
       "d": "sohu.com"
     },
     {
-      "t": "AI开始参与芯片设计：模型公司、EDA厂商与初创公司竞逐RSI闭环",
-      "d": "huxiu.com"
+      "t": "从教室机房到教育考试场景，国产OS加速进入教学教务一线",
+      "d": "ifeng.com"
     },
     {
-      "t": "最火离职名单-36氪",
-      "d": "36kr.com"
-    },
-    {
-      "t": "56岁周鸿祎罕见“服软”：避开大厂锋芒、做AI的苦生意",
-      "d": "36kr.com"
-    },
-    {
-      "t": "当一场AI大会没有了围墙｜甲子光年",
+      "t": "长亭科技发布开源百智办公：可管可私有",
       "d": "sohu.com"
-    },
-    {
-      "t": "个人Agent赛道升温：Today AI获超2亿美元融资，阿里腾讯字节加速布局",
-      "d": "huxiu.com"
     }
   ]
 }

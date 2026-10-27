@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 26,
+  "total": 18,
   "samples": [
     {
-      "title": "从提示词到智能体：AI如何重塑营销团队",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aYjhIY0RndkR0OEd1T1RENVIxZXJLZl9JTWtEa0RwNTM0LVI5TG91dmF1czlxWmRGUDJQY3ZEOVV5ZnJjdllJSnQ",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "致远互联前三季度营收增长8.25% AI关联合同签约额增长87.58%",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LMTZXUjJOMElWMy11MTN2UGU0N1JlV1VuRFZWdngtdERLRGF1cHRwbUpHOG1QR0hJSXlOVUFPbHFyNDk0ajFxZ2p",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "币安概述了涵盖应用工具、工作流程和代理操作系统的人工智能套件",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTJQQ2Nac3Zqa2F5bVY0LTRyYnVvRHBIOXJWSmlDTmROOFltUFk1N2ZSM3NiOWFRdmpOcmNwREN4RkZYNEVUUjE",
-      "source_url": "https://blockchain.news",
-      "source": "blockchain.news"
+      "title": "智享会:《从“用工”到“赋能”：数字化技术如何重塑企业外包管理》",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TZTlSWDU2U2VmQUQ3QzY5TzVnYUdfNzVNMFl0Z2JZZWRzMGRSUlNmUkVuQkhEZTNJQmF2emdHeHpuVmQ4bXg5R2p",
+      "source_url": "https://www.fxbaogao.com",
+      "source": "发现报告"
     },
     {
-      "title": "第一创业(002797.SZ)：公司投行业务探索应用AI工具辅助提升尽职调查效率_公司新闻",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EZHB6bU5JTHpub3dSWHhKcmJab0o1cjl5WkdoU29jb1pvMVRIaWtDQ3ZmZE9ERzI1dGhpUW1rUzNLNnJydGsxUEd",
-      "source_url": "https://finance.stockstar.com",
-      "source": "证券之星"
+      "title": "聚焦Physical AI+Agentic AI 安谋科技极术社区联合开源AIOS联盟共探具身智能落",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSR3AtYjFGMGNwdHlSb2ZldHR5bGlqN1Q0a3pCVS1GTV9DcTBvalZRb0x3TzU5RE41YUNqTEl5UTNtRUEzYmdlRjh",
+      "source_url": "https://news.mydrivers.com",
+      "source": "驱动之家"
     },
     {
-      "title": "美图AI业务加速：1983万付费用户背后，生产力应用正在接棒",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CVlY0MXFWUUI2Z2JGUzJnUWx0aloxejB6Q2xVWlUxZkZ3TURzdlpwYk92TkRxdHdYQXVWUU9QWGR0WkxjOGZIVDR",
-      "source_url": "https://www.moomoo.com",
-      "source": "Moomoo"
+      "title": "湾区行 | 对话腾讯刘樟伟：如何将AI从“工具”变成“同事”？",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00ZVU1ZzhQTkZodHpWSmFhT3pJeFB1Nkl5aWNxczdocXlVc2JaUXhjQ3hhc29DTVRVWm4zSlVJelk5eHJxVC1yQU5",
+      "source_url": "https://www.hkcna.hk",
+      "source": "www.hkcna.hk"
     },
     {
-      "title": "开源中国「AI新生派」走进山东大学软件学院：从技术认知到动手实战，探索 AI 时代开发者成长路径",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pWnpyVEhRUmJ2X1J1N2ExYi1VSlFiWml3ODVfTzl4UGRwc3RNLV9QUkdFbWV6YXB4R0RPR0dmTE5NT0pTdzlQLWU",
-      "source_url": "https://www.oschina.net",
-      "source": "OSCHINA"
+      "title": "JobKorea：AI应用普及带动招聘启事篇幅拉长，岗位要求披露更细",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYnVpVXd4RHpfUFpxUk8yN3l5dmpQbHhMMEt6YU5aZHNpbTY1bmpGMUpfWkVHaXEwbVl0X0w5dTJKVXRQZnpUWlJ",
+      "source_url": "https://www.digitaltoday.co.kr",
+      "source": "디지털투데이"
     },
     {
-      "title": "Anthropic推出Claude Duet：面向职场人士的智能体应用-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IbFczRWlGaHAwNlJUMTlnMS1jU0RHRWs3ZnBRQXBBc2VaNC14QXFSZk9fVzdBeDlMQ0owZndwaEFQY3VKazVIbUZ",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "从Agent到Skill：餐饮老板的AI机会，藏在“小事”里",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwc2paTjQ3anA5eDhHUWN0Um41TFJOU29OenhualFtUWZvWEg1d0pkWTN4cURYTFFMSm9DWC1Ydm1XcExBU0dOV1h",
+      "source_url": "https://www.donews.com",
+      "source": "DoNews"
     }
   ]
 }

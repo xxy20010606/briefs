@@ -1,38 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 17,
-    "trusted": 4,
+    "raw_dedup_junk": 43,
+    "trusted": 15,
     "non_trusted_top": {
-      "mezha.net": 2,
-      "in-en.com": 2,
-      "dtm.com.cn": 1,
-      "mk.co.kr": 1,
-      "leikeji.com": 1,
-      "starnewskorea.com": 1,
-      "autohome.com.cn": 1,
-      "jgvogel.cn": 1,
-      "sina.cn": 1,
-      "jinantimes.com.cn": 1
+      "autohome.com.cn": 12,
+      "sina.com.cn": 3,
+      "sina.cn": 2,
+      "gessey.com": 1,
+      "seetao.com": 1,
+      "ne21.com": 1,
+      "china.com": 1,
+      "news18a.com": 1,
+      "digitaltoday.co.kr": 1,
+      "mk.co.kr": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 0,
-    "relaxed_72h": 3,
-    "final": 3,
-    "cap": "不限同域"
+    "fresh1_24h": 15,
+    "page_fresh": 11,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "特变电工29项输配电及新能源电力装备一次性通过国家级新产品鉴定",
+      "t": "无人机 3D打印 光伏储能！六盘水这所中学的科学课有点“硬核”",
       "d": "sohu.com"
     },
     {
-      "t": "比亚迪e6的电机功率是多少？",
-      "d": "autohome.com.cn"
+      "t": "悦达储能 SOURCE POWER 户用光储产品亮相中国国际农机展",
+      "d": "solarbe.com"
     },
     {
-      "t": "锂钠混合储能！菏泽普元200MW/400MWh独立储能电站并网",
+      "t": "湖北能源首个风光储一体化项目全面转入安装攻坚阶段",
       "d": "solarbe.com"
+    },
+    {
+      "t": "比亚迪版劳斯莱斯，曝光了",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "固态电池：政策定了2030，龙头却说才是第4级",
+      "d": "sohu.com"
+    },
+    {
+      "t": "中国产业链助力欧洲重卡减碳",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "上海发布能源装备产业创新发展三年行动方案",
+      "d": "cpnn.com.cn"
     }
   ]
 }

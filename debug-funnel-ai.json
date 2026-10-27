@@ -1,53 +1,53 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 60,
-    "trusted": 17,
+    "raw_dedup_junk": 39,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 16,
-      "orcarouter.ai": 8,
-      "sina.cn": 3,
-      "stockstar.com": 2,
-      "mpaypass.com.cn": 2,
-      "csdn.net": 1,
+      "sina.com.cn": 8,
+      "csdn.net": 2,
+      "scol.com.cn": 1,
+      "autohome.com.cn": 1,
       "guandian.cn": 1,
-      "fxbaogao.com": 1,
-      "cnmo.com": 1,
-      "zjol.com.cn": 1
+      "mydrivers.com": 1,
+      "hzsc.com.cn": 1,
+      "whnews.cn": 1,
+      "ncsti.gov.cn": 1,
+      "tsinghua.edu.cn": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 5,
-    "relaxed_72h": 11,
+    "fresh1_24h": 13,
+    "page_fresh": 11,
+    "relaxed_72h": 2,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "“看不见的外贸”畅跑全球，词元出海为什么在这里实现？",
-      "d": "ce.cn"
-    },
-    {
-      "t": "聚合67款大模型 词元平台功能强",
+      "t": "马上消费牵头编制金融大模型IEEE国际标准正式发布",
       "d": "sohu.com"
     },
     {
-      "t": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜",
-      "d": "36kr.com"
+      "t": "一家省重点智库的AI“转身”——广东省省情调查研究中心如何把大模型“用进”决策研",
+      "d": "time-weekly.com"
     },
     {
-      "t": "穆胜咨询发布人机协同团队研究：AI智能体成员工，企业需重构人效与治理",
-      "d": "huxiu.com"
+      "t": "源创计划首期路演：五个AI硬科技项目集中亮相，智源学者加速从实验室走向产业一线",
+      "d": "leiphone.com"
     },
     {
-      "t": "56岁周鸿祎罕见“服软”：避开大厂锋芒、做AI的苦生意",
-      "d": "36kr.com"
+      "t": "综合交通运输大模型智能体创新应用大赛湖北创佳绩",
+      "d": "sohu.com"
     },
     {
-      "t": "四大华尔街巨头630亿美元豪掷Anthropic算力，博通为芯片残值托底",
-      "d": "wallstreetcn.com"
+      "t": "Anthropic冲刺万亿级IPO引共振 智谱涨近9%领跑市场",
+      "d": "cls.cn"
     },
     {
-      "t": "城堡证券：AI交易已无容错空间，资本开支沦为\"双向风险\"",
+      "t": "AI巨头IPO，正式启动！",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "创业板、科创50集体下跌，银行逆势拉升、建行再创新高，生物医药调整，恒科指跌0.",
       "d": "wallstreetcn.com"
     }
   ]
