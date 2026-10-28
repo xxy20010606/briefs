@@ -1,52 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 36,
-    "trusted": 26,
+    "raw_dedup_junk": 38,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.com.cn": 2,
-      "esmchina.com": 2,
-      "yemacaijing.com": 1,
-      "fxbaogao.com": 1,
-      "indexbox.io": 1,
-      "jrj.com.cn": 1,
+      "sina.com.cn": 8,
+      "chosun.com": 3,
+      "pedaily.cn": 1,
+      "cnbeta.com.tw": 1,
+      "c114.net.cn": 1,
+      "cheaa.com": 1,
       "futunn.com": 1,
-      "or100.cc": 1
+      "voc.com.cn": 1,
+      "stockstar.com": 1,
+      "siscmag.com": 1
     },
-    "fresh1_24h": 26,
-    "page_fresh": 21,
-    "relaxed_72h": 0,
+    "fresh1_24h": 13,
+    "page_fresh": 5,
+    "relaxed_72h": 9,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "芯片制造格局，被改写",
-      "d": "36kr.com"
-    },
-    {
-      "t": "显示驱动IC厂投向Micro LED光互联",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "韩国央行警告：美国AI支出若放缓，芯片出口恐缩水千亿美元",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "半导体封测年会将于11月4日至6日举行 多家上市公司参会",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "集微咨询发布《2026中国半导体IP/EDA行业上市公司研究报告》：AI ASI",
-      "d": "laoyaoba.com"
-    },
-    {
-      "t": "半导体封测，扩产潮来袭！",
+      "t": "美股半导体、芯片股，走强",
       "d": "sohu.com"
     },
     {
-      "t": "台积电先进封装报价拟涨最高20%，科创50再度下挫跌逾2%，寒武纪跌超3%，科创",
-      "d": "jiemian.com"
+      "t": "美股半导体、存储芯片大涨，费城半导体指数涨近400点，西部数据涨近7%，AMD涨",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "重大利好！AI算力驱动，存储芯片龙头，Q3归母净利大增26倍",
+      "d": "sohu.com"
+    },
+    {
+      "t": "23:04:11【纳斯达克综合指数涨1% 芯片半导体股票涨幅明显】",
+      "d": "cls.cn"
+    },
+    {
+      "t": "增长869.79%！业绩增长源于磷化铟，后附主要玩家盘点",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "韩央行警告：若AI投资放缓 韩国芯片明年出口额或较预期少千亿美元",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "圣邦股份8.33亿元现金收购上海申矽凌微电子58.2878%股份，补强传感器芯片",
+      "d": "eet-china.com"
     }
   ]
 }

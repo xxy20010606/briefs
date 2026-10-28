@@ -1,54 +1,42 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 15,
+    "raw_dedup_junk": 22,
+    "trusted": 4,
     "non_trusted_top": {
-      "autohome.com.cn": 12,
-      "sina.com.cn": 3,
-      "sina.cn": 2,
-      "gessey.com": 1,
-      "seetao.com": 1,
+      "sina.com.cn": 6,
+      "gessey.com": 3,
+      "cnbeta.com.tw": 1,
       "ne21.com": 1,
-      "china.com": 1,
-      "news18a.com": 1,
-      "digitaltoday.co.kr": 1,
-      "mk.co.kr": 1
+      "seetao.com": 1,
+      "inabr.com": 1,
+      "sina.cn": 1,
+      "ua.news": 1,
+      "autohome.com.cn": 1,
+      "myzaker.com": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 11,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 3,
+    "page_fresh": 0,
+    "relaxed_72h": 4,
+    "final": 4,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "无人机 3D打印 光伏储能！六盘水这所中学的科学课有点“硬核”",
+      "t": "特变电工29项输配电及新能源电力装备一次性通过国家级新产品鉴定",
       "d": "sohu.com"
     },
     {
-      "t": "悦达储能 SOURCE POWER 户用光储产品亮相中国国际农机展",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "湖北能源首个风光储一体化项目全面转入安装攻坚阶段",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "比亚迪版劳斯莱斯，曝光了",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "固态电池：政策定了2030，龙头却说才是第4级",
-      "d": "sohu.com"
-    },
-    {
-      "t": "中国产业链助力欧洲重卡减碳",
-      "d": "xinhuanet.com"
+      "t": "中国电动车在墨西哥份额升至15%、占据90%电动市场，比亚迪超特斯拉成全球最大",
+      "d": "ifeng.com"
     },
     {
       "t": "上海发布能源装备产业创新发展三年行动方案",
       "d": "cpnn.com.cn"
+    },
+    {
+      "t": "国润储能：“十五五”加力发展长时储能，山西跑出一匹“黑马”",
+      "d": "ifeng.com"
     }
   ]
 }

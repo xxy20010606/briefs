@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 43,
+  "total": 22,
   "samples": [
     {
-      "title": "湖北新型能源体系十五五规划发布 2030年建成新型储能8GW 新增顶峰保供独立储能力争2GW",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5TFdlTDF3cXF3UHVlMmRVUDdleWppVTNrLWJXMUZqSHhEbWJLVkV1UnBtVmNqSm0xc21NQnpydEtNekJHRkc1QWU",
+      "title": "太阳能发电悄然超越核电：成本暴跌、中国制造与储能革命重塑全球能源格局- 视点·观察",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBRkEzR19nN3dBTzdGRlNMOFFZT2hZU2Nyb0Q5d1UycnhLMHdQb0hUdUowQ2lzZXRrR1ZTMFdsRVlKV0F3YW5NVjh",
+      "source_url": "https://www.cnbeta.com.tw",
+      "source": "cnBeta.COM"
+    },
+    {
+      "title": "无锡这座零碳园区如何让AI管好每一度电",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVy1TdkUyNVQ5NjIwV2JETmZrNVpFbDhENzN1NFN3VmN0VmRCbEcxMUdEWHNRQ1lldm51aXEwTUcyQUFTbmlpVUU",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "“谷存峰送”！金昌这个大型储能电站并网发电",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uQTAtM3BFalBid3N0bnBDdGVTcmljanA4Rm9pUXI1Vi1GOUNLd25kUjk1ckd0SzkxSjYwN1o1cjk4OUhhSEJHVTR",
+      "source_url": "https://news.sina.com.cn",
+      "source": "新浪新闻_手机新浪网"
+    },
+    {
+      "title": "东锅新能源四川100MW光伏项目环评拟获批，总投资4.05亿元配建氢储能站",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NMnRzYlMtTHZ6MG9yMXlLbzhQejdEMDVLWUJkVi04ako5MVJZNGE3ejY2ZGRVVURwdld4WEE5TVI2TDB0ZHMyMm9",
+      "source_url": "https://www.gessey.com",
+      "source": "https://www.gessey.com/"
+    },
+    {
+      "title": "阳光新能源内蒙古200MW/800MWh储能项目开工，计划2027年全容量并网",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hTlhCeWZ2SEJwdkpDYVR5ZTJKYVEtS1RKekRpMjNEVm82MVEyNUNZM2RJVzA0c2hNN0RDbFM4WWR2dGRXbVJpdW1",
       "source_url": "https://www.gessey.com",
       "source": "www.gessey.com"
     },
     {
-      "title": "600MWh储能分两期落地，罗马尼亚东部大型光储项目推进提速",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QRmJUaWVzUmJYaUJxUm1rbkEyTk41YWhObm1Pcm43TlEzbzFkSHZpQUY5dnhMUTJhYk0xLUhqZWluX2FhQ0UxQ2l",
-      "source_url": "https://www.seetao.com",
-      "source": "见道网"
-    },
-    {
-      "title": "AI加持！协鑫运营科技数智集控落地盐城，赋能全域新能源管控",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zbi1LdFFCLVkyY2NDbGVhY2pTT2w3cEZSQVRIRTNKVXVucmRVN2pNNzVxSkZnVUFUbV9pT3BtMlphR04xV3k1NUV",
-      "source_url": "https://www.ne21.com",
-      "source": "世纪新能源网"
-    },
-    {
-      "title": "无人机 3D打印 光伏储能！六盘水这所中学的科学课有点“硬核”",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGJOdFl2cnJ2cGE4ZlRXLVlWNVhsTi14b28xN3JEd3NIdTFzaWlwUkYyaF9FclRCYkZOcURQMmFjMHpEdFJHUWR",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "TÜV莱茵2026华东区新能源及新型电力系统先进技术大会在盐城举办",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZHdoV05yN2pwU0NybEh2MUdUZ1k3al9PMExMRmFJWE9JNmlYMFRCZDZUTk11aXF6cm1GSHdpZVdYRTVnS1pOcll",
-      "source_url": "https://hb.china.com",
-      "source": "中华网"
-    },
-    {
-      "title": "悦达储能 SOURCE POWER 户用光储产品亮相中国国际农机展",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGOUhHaVNYbm5KaGxVSEFDSHFzNmthQmsxSkZPdmc3eUpIdVMyNmVuUURaYWVXZXBNc2ZsdXVlVzAyNXdmYnZtVWV",
-      "source_url": "https://mcn.solarbe.com",
-      "source": "碳索储能网"
+      "title": "首航新能源亮相印度REI 2026：印度太阳能装机150.26GW催生储能需求，全场景光储方案深耕南",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HQXo3UHYxRzlBREtOa0RKY0t5eWFpLUZXRE5HSGhSTHpFMmQwdUVoNnF4NWRwVk0zV3B3SmtELUZPWHlNYmY4aEd",
+      "source_url": "https://www.gessey.com",
+      "source": "www.gessey.com"
     }
   ]
 }

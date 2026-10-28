@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 42,
-    "trusted": 11,
+    "raw_dedup_junk": 37,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.cn": 3,
-      "china.com": 3,
-      "hupu.com": 2,
-      "bjd.com.cn": 2,
-      "kyodonews.net": 2,
-      "newrank.cn": 1,
-      "sina.com.cn": 1,
-      "beijing.gov.cn": 1,
-      "mk.co.kr": 1,
-      "vietnam.vn": 1
+      "sina.cn": 5,
+      "sina.com.cn": 3,
+      "bjd.com.cn": 3,
+      "yzwb.net": 2,
+      "mnewstv.com": 1,
+      "hupu.com": 1,
+      "henan100.com": 1,
+      "orientaldaily.com.my": 1,
+      "weibo.com": 1,
+      "hangzhou.com.cn": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
+    "fresh1_24h": 9,
+    "page_fresh": 2,
+    "relaxed_72h": 12,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "上映4天票房仅123万 上座率跌至0.2% 首部院线AI长片票房遭遇滑铁卢",
-      "d": "cls.cn"
-    },
-    {
-      "t": "S16热搜刷屏，LPL品牌赞助商玩转“第二赛场”",
+      "t": "大陆AI歌曲《过来人》引岛内共鸣，台媒：AI可提供低门槛交流方式，让两岸民众重新",
       "d": "sohu.com"
     },
     {
-      "t": "首部AI院线电影《三星堆：未来往事》上映，AI长片加速进入院线与长视频平台",
-      "d": "huxiu.com"
+      "t": "用语言敲开文化的大门（我眼中的中国）",
+      "d": "people.com.cn"
     },
     {
-      "t": "李媛：长视频的深度沉浸感会永远被需要",
+      "t": "沪游双周报｜第三季度国内游戏市场销售达925.22亿元",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "4天票房124万元，上座率不足1%！国内首部AI院线电影上映遇冷",
       "d": "sohu.com"
     },
     {
-      "t": "跟随野象足迹，看见人与自然温柔以待",
-      "d": "xinhuanet.com"
+      "t": "中信建投：AI艺人、AI综艺有望接棒AI短剧 成为AI+影视爆发点",
+      "d": "eastmoney.com"
     },
     {
-      "t": "郎朗新年音乐会将在长沙上演",
+      "t": "香港浸大举办电影节表彰青年电影人 章子怡获荣誉教授衔",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "电视剧《小城良方》热播 演员肖战：这部剧是温暖有用的“良方”",
-      "d": "cnr.cn"
+      "t": "京剧《杨门女将》在江苏南京上演",
+      "d": "xinhuanet.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 36,
+  "total": 38,
   "samples": [
     {
-      "title": "芯片制造格局，被改写",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtSmdqMVFMUVFPZmh4MjUzV0xJT3diQXRpemQybER0aElDMURyRDZ3Qll3blV0WDktRWhGM1hvRkFiUmJQa1pPdWF",
-      "source_url": "http://www.36kr.com",
-      "source": "36Kr"
+      "title": "MRAM国产产业链，正在打通",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JeXhuRTVGSlYyZDkxcjVyYnV4cy1BeWdUOUszS29SSEQ4a2FkNzh1QlpxTU1MNU9ZR29keXJOVVVJaDh3azNQem5",
+      "source_url": "https://news.pedaily.cn",
+      "source": "投资界"
     },
     {
-      "title": "“福建前首富”栽了！背后500亿三安光电正转型半导体",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56MUVKbTdOU1pmYXVVa2lwVEcxanBWTm8wMDlSNjNmMm4xMURPdU41NU05a3A1MHpUak14SldwZGhYYVo2ZFA0d1Z",
-      "source_url": "https://www.yemacaijing.com",
-      "source": "野马财经"
+      "title": "美股半导体、芯片股，走强",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBianFZY0Mxdk9zZW1vLWprMmhRUjF5dTRwNFM0RXhFeWVHbzdjSU9ZTFEtd0pSdnpiaG56NC1CdjVOS05iWFZVZHR",
+      "source_url": "https://www.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "显示驱动IC厂投向Micro LED光互联",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83ZF9zUUpjT1lld3lKUzFGalpWdE81SG1hWU5GTmNPQUxheGQ2WHNCU01malZIOXNSMTJjUlRwRGdHQUdWeW10ZXR",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "昨夜！美芯片股大涨，油价回落",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9reHdSRFRiN0dDYVkyZVV1QjBkcW1BcDg2V2dwSFNfbnhmZWMzc0lZSHgzWTM0OTA5RjJMYzdPdUlRb0JobFFaR1F",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "韩国央行警告：美国AI支出若放缓，芯片出口恐缩水千亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3V2dxQW5xczNVUmtCeWc2RUVja1E4d0UyMWl4LWRYUTN2N1VkU3AxQkJSSlItN0ljMzZsaXpOd21scWxEM0VZR3A",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "美股半导体、存储芯片大涨，费城半导体指数涨近400点，西部数据涨近7%，AMD涨超5%，特斯拉市值一",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xd1piQTA5b2MtaVdhNUJVaFU4NzZHeDN4a2hJSnBCaldvWW5vTFRTcklfYjVNUGgwSHgwRUFYcXI4V0tlblAzd2p",
+      "source_url": "https://news.10jqka.com.cn",
+      "source": "同花顺财经"
     },
     {
-      "title": "半导体封测年会将于11月4日至6日举行 多家上市公司参会",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN0MyZTljMGd2bWhuY3cwOTJsNGxMRXZ0cERLMk14ZUVfLV9RZENwQnhiMDZ2M1VjMkRiTTRzSzhSU2hGYWozdUp",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
+      "title": "美国制裁也拦不住…中企用自研芯片建成超大型数据中心",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcGNqOFh3cmNYQTlpRnIxdzJ4X1VHdTZXZGl6eFNFYXVVMWZObHpUYm5TXzBWLXRITzl4djBNaEpLb2lMbGJFaEl",
+      "source_url": "https://cnnews.chosun.com",
+      "source": "朝鮮日報中文版"
     },
     {
-      "title": "AI 算力大年将至，芯片、存储需求暴涨！",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCUnBnRVZrY3ljWFl4U1E4WkpXcE0xbndsMWpBbkN0a1NtdkVnaXNHVS1EOFdmdE12YndNakVEN3VNbEVwcFl5ekZ",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "AI“金丝雀”拉响警报：韩国芯片出口繁荣背后的千亿美元隐忧",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wYzZ0b3N6ODR3OGRzeW9UakFiVFdycDhiWERvcWc4WkJONjJoMkhrS2RvUm43VnJZTTh2b0Rxd0JGR3JGR3dGZEp",
+      "source_url": "https://news.sina.com.cn",
+      "source": "新浪新闻_手机新浪网"
     }
   ]
 }

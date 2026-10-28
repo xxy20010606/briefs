@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 39,
+  "total": 56,
   "samples": [
     {
-      "title": "Token经济重塑成本与价值，AI的“经济账”该怎么算？",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOZGc4RFRwTVV2bWlEZTFjZFBrYjhWQkxZaTdPQW9rQzdGTTgzeFlZbDlkLUdYSnFYczZMdEcyLU42QUt4eFlOWXR",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "AI读不懂业务语言，AI就不能在企业真正落地",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3MGVKSkZyUTQ2YTVkSXNqb1VWWkpoejlESTFjcEQ1OXQ2TTZYTklDZ2xzc2pXcWN1OWpSREZXeW9IWkZZN2Jwejh",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "2026年10月27日总第30期",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zckd2N0RlbWMzU3ljM1hVTWNKcE1waDRVcG0yYzU3dzFDYWtKZmQ3bzBDblJONmpMd3R3RV9hb3I2ajhYRDBkUXJ",
-      "source_url": "https://cbgc.scol.com.cn",
-      "source": "川观新闻"
+      "title": "DeepSeek正式向美国AI霸权宣战！",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fTE1GTmJhSDhvYktVTk5MaDJvdEZhVlF4SkhUb2RvUVBnS2lENWJMZWNDYm91TmJwaFBVWHR2alFqRnJVT1k2R1J",
+      "source_url": "https://user.guancha.cn",
+      "source": "风闻"
     },
     {
-      "title": "多项世界第一和世界首创！世航沧穹大模型给海洋机器人装上“最强大脑”",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rOVhZSktVZzBMSVNxRDR3MjdmYnNFMWtkNXVBM3FESkFBdlFQbkFzYnhxS2RPLUxrdnZ2NHF3MTZSV1hwUHB6eER",
-      "source_url": "https://blog.csdn.net",
-      "source": "CSDN博客"
-    },
-    {
-      "title": "马上消费牵头编制金融大模型IEEE国际标准正式发布",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2xJdUp2TWNfX0FNVEFzLW5xeXhBR0VaWXowU3VWaXlTNm9mQlN6QWpBYVJ6LXZFQk1LeXU4VzlWQTJtNXl1N2V",
+      "title": "【企业风采】海淀新一代3万亿级开源大模型发布！继续成为全球最大",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdWFXNWNzaDNXZVAwX3ZxNVl1c3J3VkJGQkJybkRKOXV1V3JRODE1SjBqMmFPWjJicG1vY0FSSGlSSUh1VUlNSnN",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "一家省重点智库的AI“转身”——广东省省情调查研究中心如何把大模型“用进”决策研究",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4QURYZ2hfc0UwOFctaE5OQkpwRjIzcWk0Z0FXbF9xU0ZCV1g1c012MVBMem5uZTZwTzFVemlIbTAtRlVwQmx0UVV",
-      "source_url": "http://time-weekly.com",
-      "source": "时代在线"
+      "title": "调研与思考丨深耕物理AI主赛道加速赋能产业融合——长沙加快人工智能与产业融合发展的对策建议",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYMHpDenh0NjFaM1NoZmVzYnNHQ2hnbDdJbHRkY1M0NzU0ektmcXZTVkJVWl9kWGJCSnFra1o0T3Z3QzBkZmZHWkN",
+      "source_url": "https://m.voc.com.cn",
+      "source": "新湖南"
     },
     {
-      "title": "哪家智驾行驶体验最丝滑？三套主流系统类人老司机质感解析",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JWVFxYldGUDZwWnFzbEk5eGJNUEJoZE5vendUa2FmR2NxYUJOak9WOTUtc3FaVEVSMVMtQm1hZFUwR3hPMTVJemw",
-      "source_url": "https://chejiahao.autohome.com.cn",
-      "source": "汽车之家"
+      "title": "AI理财建议并不差，拉开差距的是你怎么问——来自麻省理工斯隆管理学院的最新研究",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0xRakZ5WTFVUUdlVXhyNHh5R0ZCR3hHRzQ4TjNiV2dHeUdHWnVyUkI2ODZjdkUyTEE4UGg1Z1JNd0VSOHc1VTF",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "为“聪明”的智能体系好“安全带”",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XTnE2Ym51NUh0QlNtT2pWZElNa2t4UzNQTGNPT0JiV1pyVWhpaFJXbFNNMWw1TFZWODNVaVBMLXpsQTB4Q3ZEZUV",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     }
   ]
 }

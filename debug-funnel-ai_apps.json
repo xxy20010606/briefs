@@ -1,38 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 18,
-    "trusted": 3,
+    "raw_dedup_junk": 24,
+    "trusted": 8,
     "non_trusted_top": {
-      "digitaltoday.co.kr": 2,
-      "sina.com.cn": 1,
-      "fxbaogao.com": 1,
-      "mydrivers.com": 1,
-      "hkcna.hk": 1,
-      "donews.com": 1,
-      "aibase.com": 1,
+      "unite.ai": 3,
+      "sina.com.cn": 3,
+      "csdn.net": 2,
       "zhiding.cn": 1,
-      "unite.ai": 1,
-      "fx168news.com": 1
+      "sfccn.com": 1,
+      "hk01.com": 1,
+      "stockstar.com": 1,
+      "itheat.com": 1,
+      "302.ai": 1,
+      "ebrun.com": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 3,
-    "relaxed_72h": 0,
-    "final": 3,
-    "cap": "不限同域"
+    "fresh1_24h": 7,
+    "page_fresh": 5,
+    "relaxed_72h": 3,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "融资13亿，前豆包负责人再创业：做AI助理，但不好赚钱",
+      "t": "360 图龙锋通过信通院漏洞挖掘能力评估，AI 安全攻防工具走向标准化测评",
       "d": "sohu.com"
     },
     {
-      "t": "从教室机房到教育考试场景，国产OS加速进入教学教务一线",
+      "t": "英伟达拟出资30亿美元认购Meta新股 双方深化AI智能体合作",
+      "d": "cls.cn"
+    },
+    {
+      "t": "中层消失，Token狂热退潮，硅谷工程师眼里的「AI创业下半场」",
+      "d": "36kr.com"
+    },
+    {
+      "t": "Agent下半场生死局：“上下文”成为新的价值衡量基线",
+      "d": "36kr.com"
+    },
+    {
+      "t": "贯通企业AI场景与技术——新道FTC-YonSuite企业AI交付工坊五门课程发",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "Muse之后，灵光2.0让Personal Agent接手中国式日常",
+      "d": "leiphone.com"
+    },
+    {
+      "t": "小米REDMI Book 14/16 2027笔记本发布，6799元起",
       "d": "ifeng.com"
-    },
-    {
-      "t": "长亭科技发布开源百智办公：可管可私有",
-      "d": "sohu.com"
     }
   ]
 }

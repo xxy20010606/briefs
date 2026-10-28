@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 18,
+  "total": 24,
   "samples": [
     {
-      "title": "致远互联前三季度营收增长8.25% AI关联合同签约额增长87.58%",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LMTZXUjJOMElWMy11MTN2UGU0N1JlV1VuRFZWdngtdERLRGF1cHRwbUpHOG1QR0hJSXlOVUFPbHFyNDk0ajFxZ2p",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "AI让家庭作业时代走向终结-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WTGJTWlA5QlliMzRrbFBneG1sUDV5VkVSdEJQQTc0OEE3NXpna3o4TlJEZktyTDVBZDQ2SnF6Rzd5NTdHS3c5QkE",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
     },
     {
-      "title": "智享会:《从“用工”到“赋能”：数字化技术如何重塑企业外包管理》",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TZTlSWDU2U2VmQUQ3QzY5TzVnYUdfNzVNMFl0Z2JZZWRzMGRSUlNmUkVuQkhEZTNJQmF2emdHeHpuVmQ4bXg5R2p",
-      "source_url": "https://www.fxbaogao.com",
-      "source": "发现报告"
+      "title": "南方财经全媒体集团",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiLVdVSkdXb29tR2hVdFlVZHZwNlJwTlpwX0ZaVUVjSWc2bGRicUEwbi1HTVNiYnAwdk9weWV6ZzNSSUI4ZVQwNWF",
+      "source_url": "https://m.sfccn.com",
+      "source": "南方财经"
     },
     {
-      "title": "聚焦Physical AI+Agentic AI 安谋科技极术社区联合开源AIOS联盟共探具身智能落",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSR3AtYjFGMGNwdHlSb2ZldHR5bGlqN1Q0a3pCVS1GTV9DcTBvalZRb0x3TzU5RE41YUNqTEl5UTNtRUEzYmdlRjh",
-      "source_url": "https://news.mydrivers.com",
-      "source": "驱动之家"
+      "title": "年度十大AI工具排行榜出炉 ChatGPT蝉联榜首 新晋模型强势入围",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPeHVJd09vNjY1SWQwNTFhUWFrNFhESUlmcnFWejR0ZGFyVFdjVldFMjFaT3ZTam5oZ1JaUUxlX0QzWGlfRjczR18",
+      "source_url": "https://global.hk01.com",
+      "source": "香港01"
     },
     {
-      "title": "湾区行 | 对话腾讯刘樟伟：如何将AI从“工具”变成“同事”？",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00ZVU1ZzhQTkZodHpWSmFhT3pJeFB1Nkl5aWNxczdocXlVc2JaUXhjQ3hhc29DTVRVWm4zSlVJelk5eHJxVC1yQU5",
-      "source_url": "https://www.hkcna.hk",
-      "source": "www.hkcna.hk"
+      "title": "Oracle宣布推出由OpenAI网络安全模型驱动的AI安全网格",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcVhVaU5zTXllcXBQdUVvcER6WnRoQmlvLVg1T0ZCMDhYbkMzMFFpZ3M1NVlKbnVZb3NfTVEwbDNHN2pWRHRTbzF",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "JobKorea：AI应用普及带动招聘启事篇幅拉长，岗位要求披露更细",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYnVpVXd4RHpfUFpxUk8yN3l5dmpQbHhMMEt6YU5aZHNpbTY1bmpGMUpfWkVHaXEwbVl0X0w5dTJKVXRQZnpUWlJ",
-      "source_url": "https://www.digitaltoday.co.kr",
-      "source": "디지털투데이"
+      "title": "Opera 推出 WebAI，将本地 AI 模型引入其浏览器",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbjRzbHBEeENwck8xa1hINVN1SV9fNVdRTlNOY1VBVUhfaFJDYkxOWEhLamN4WWdLb1pvc0t1SFhQOEdTSDlSd25",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "从Agent到Skill：餐饮老板的AI机会，藏在“小事”里",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwc2paTjQ3anA5eDhHUWN0Um41TFJOU29OenhualFtUWZvWEg1d0pkWTN4cURYTFFMSm9DWC1Ydm1XcExBU0dOV1h",
-      "source_url": "https://www.donews.com",
-      "source": "DoNews"
+      "title": "Apple Creator Studio 新增 AI 助手和生成式工具",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWw2b3lMaXU1czRVWE94bkY0UktNVHUzSWI3UG1vZ21pTXZDTlRCejJJU2xSNk5vMjNieXVTdXJkZ0RCekFVY0F",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     }
   ]
 }
