@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 24,
+  "total": 23,
   "samples": [
+    {
+      "title": "智见未来·创新无界｜中外友人相聚杭州，共探AI时代创业新机遇",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTJ6WE9WMFRvb2JNeTFkMFREQzl5SEluTWdQaVNjM0M4LVZRMi1PdVJSd0lqR1FScGNVU21VYXlpUkMtNjY4akd",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "AI狂飙之后：技术与治理的五重错位",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YaW9RYUZ4ejlETVpyaTB4VHltdHpqWjdUc2NCZUtLcGtWb1daQk1sZ1pBQm1xZzZaRi03bkhIYmxTYi1CYTE1WHR",
+      "source_url": "https://www.thepaper.cn",
+      "source": "ThePaper.cn"
+    },
+    {
+      "title": "学校非教学科研人员AI素养培训（第二期）顺利举行",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RV3FGVzZnSmNIX0xFbUY4VHVHYUxUOGNSZzZSd09EMjNnbVo0RjR1VTZsR3NIWW5lcWt1QkV3d211VWtTdXl4QkZ",
+      "source_url": "https://wellan.zuel.edu.cn",
+      "source": "文澜新闻网"
+    },
+    {
+      "title": "OpenAI如何将编程工具打造成全天候私人助手Dots-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13NWxDaGZfMUplSzVXdk5FQVRzcnZtb2FfVFpCTnUwaWNEYzZBUEtTck9vb2JXYTVIbGdVWElKNGsxUGZneHFwS2V",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
+    },
+    {
+      "title": "SAP 赋能 AI 开发者打造核心应用，将业务意图转变为自主执行",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObnFzc1JMWDRjTVhXalMyZ0RSYlFqR245bl9Kd2dXQWE0aGlQZlUwQjZudWQxLUJOMDYtYUJmVlR4eGYybkxzUUd",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
     {
       "title": "AI让家庭作业时代走向终结-AI应用",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WTGJTWlA5QlliMzRrbFBneG1sUDV5VkVSdEJQQTc0OEE3NXpna3o4TlJEZktyTDVBZDQ2SnF6Rzd5NTdHS3c5QkE",
       "source_url": "https://www.zhiding.cn",
       "source": "至顶网"
-    },
-    {
-      "title": "南方财经全媒体集团",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiLVdVSkdXb29tR2hVdFlVZHZwNlJwTlpwX0ZaVUVjSWc2bGRicUEwbi1HTVNiYnAwdk9weWV6ZzNSSUI4ZVQwNWF",
-      "source_url": "https://m.sfccn.com",
-      "source": "南方财经"
-    },
-    {
-      "title": "年度十大AI工具排行榜出炉 ChatGPT蝉联榜首 新晋模型强势入围",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPeHVJd09vNjY1SWQwNTFhUWFrNFhESUlmcnFWejR0ZGFyVFdjVldFMjFaT3ZTam5oZ1JaUUxlX0QzWGlfRjczR18",
-      "source_url": "https://global.hk01.com",
-      "source": "香港01"
-    },
-    {
-      "title": "Oracle宣布推出由OpenAI网络安全模型驱动的AI安全网格",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcVhVaU5zTXllcXBQdUVvcER6WnRoQmlvLVg1T0ZCMDhYbkMzMFFpZ3M1NVlKbnVZb3NfTVEwbDNHN2pWRHRTbzF",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "Opera 推出 WebAI，将本地 AI 模型引入其浏览器",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbjRzbHBEeENwck8xa1hINVN1SV9fNVdRTlNOY1VBVUhfaFJDYkxOWEhLamN4WWdLb1pvc0t1SFhQOEdTSDlSd25",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "Apple Creator Studio 新增 AI 助手和生成式工具",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWw2b3lMaXU1czRVWE94bkY0UktNVHUzSWI3UG1vZ21pTXZDTlRCejJJU2xSNk5vMjNieXVTdXJkZ0RCekFVY0F",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
     }
   ]
 }

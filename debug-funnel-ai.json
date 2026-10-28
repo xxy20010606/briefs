@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 56,
-    "trusted": 17,
+    "raw_dedup_junk": 36,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.com.cn": 9,
-      "gz-cmc.com": 3,
-      "techwalker.com": 3,
-      "cnpiw.cn": 2,
-      "ac.cn": 2,
-      "sina.cn": 2,
-      "unite.ai": 2,
+      "cnbeta.com.tw": 2,
+      "china.com": 2,
       "orcarouter.ai": 2,
-      "pasqualepillitteri.it": 2,
-      "voc.com.cn": 1
+      "scol.com.cn": 1,
+      "ichaoqi.com": 1,
+      "eastmoney.com": 1,
+      "weeklyonstock.com": 1,
+      "techwalker.com": 1,
+      "ac.cn": 1,
+      "cnpiw.cn": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 7,
-    "relaxed_72h": 7,
+    "fresh1_24h": 14,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "AI读不懂业务语言，AI就不能在企业真正落地",
-      "d": "eet-china.com"
+      "t": "海南师范大学与中国知网联合研发的“海南省数智教育大模型”发布",
+      "d": "chinadaily.com.cn"
     },
     {
-      "t": "【企业风采】海淀新一代3万亿级开源大模型发布！继续成为全球最大",
+      "t": "招商进入AI时代 广东将发布产业招商大模型",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "彭博：2030年中国有望领跑全球大模型",
       "d": "sohu.com"
     },
     {
-      "t": "奇妙啦比联创景林彦：手机大模型无法替代实体，AI潮玩追求的是长久情感羁绊",
+      "t": "速递｜超进化智能完成数亿元天使轮融资，以万卡训练经验打造研究基础模型",
       "d": "sohu.com"
+    },
+    {
+      "t": "软文发稿平台怎么选怎么配？2026年AI收录时代的组合布局思路",
+      "d": "ifeng.com"
     },
     {
       "t": "大模型辅导作业？孩子用工具须有度",
-      "d": "sohu.com"
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "海量数据肖枫：AI存在“不可能三角”，标向量混合数据库筑牢智能基座",
-      "d": "cls.cn"
-    },
-    {
-      "t": "Agent下半场生死局：“上下文”成为新的价值衡量基线",
-      "d": "36kr.com"
-    },
-    {
-      "t": "Anthropic内部系统被AI攻破！员工薪酬全曝光了",
-      "d": "sohu.com"
+      "t": "DeepSeek Bot民间版作者来了！中国AI智能体大会，北京站12月见",
+      "d": "zhidx.com"
     }
   ]
 }

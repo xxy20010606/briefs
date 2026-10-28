@@ -1,33 +1,32 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 17,
-    "trusted": 7,
+    "raw_dedup_junk": 28,
+    "trusted": 4,
     "non_trusted_top": {
-      "futunn.com": 4,
-      "sina.com.cn": 3,
-      "fx678.com": 1,
-      "moomoo.com": 1,
-      "jrj.com.cn": 1
+      "sina.com.cn": 12,
+      "moomoo.com": 3,
+      "stockstar.com": 2,
+      "sina.cn": 2,
+      "hstong.com": 2,
+      "cnfin.com": 1,
+      "jin10.com": 1,
+      "futunn.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 1,
-    "relaxed_72h": 2,
-    "final": 3,
+    "fresh1_24h": 4,
+    "page_fresh": 2,
+    "relaxed_72h": 0,
+    "final": 2,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "“美联储传声筒”：美联储转向紧缩周期，正是“前瞻指引”发挥作用之时",
+      "t": "Anthropic上市进入倒计时，史上最大IPO渐行渐近！恒生科技ETF华泰柏瑞",
       "d": "sohu.com"
     },
     {
-      "t": "【环球财经】东京股市两大股指反弹",
+      "t": "恒生科技指数上涨1.8%，光通信板块涨幅居前｜港股午评",
       "d": "21jingji.com"
-    },
-    {
-      "t": "利率其实并不高？市场预期未来十年美国短期利率均值达到4.3%",
-      "d": "wallstreetcn.com"
     }
   ]
 }

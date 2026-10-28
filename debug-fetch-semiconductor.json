@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 38,
+  "total": 40,
   "samples": [
     {
-      "title": "MRAM国产产业链，正在打通",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JeXhuRTVGSlYyZDkxcjVyYnV4cy1BeWdUOUszS29SSEQ4a2FkNzh1QlpxTU1MNU9ZR29keXJOVVVJaDh3azNQem5",
-      "source_url": "https://news.pedaily.cn",
-      "source": "投资界"
+      "title": "英特尔前CEO基辛格押注Z2RAM内存架构",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kZzVEWnIwMktka1UxY1dsaGZ4QUw5MHZNZExhbFR5dFJybDJKbjVYSlFjWEFTVFRnNnJRN0dBQWx2TVNiVlNUcmh",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "美股半导体、芯片股，走强",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBianFZY0Mxdk9zZW1vLWprMmhRUjF5dTRwNFM0RXhFeWVHbzdjSU9ZTFEtd0pSdnpiaG56NC1CdjVOS05iWFZVZHR",
-      "source_url": "https://www.sohu.com",
-      "source": "搜狐网"
+      "title": "倒计时开启！2027半导体投资年会暨IC风云榜颁奖典礼12月登陆成都",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAtVFY1dVJIY0s3cWpvazYyZlJtdWdBT1hhRFYzYWxNS0s1aS1GTHRLOTdBM0VWRFpKYXh1MWFlbWVLekk?oc=5",
+      "source_url": "http://laoyaoba.com",
+      "source": "集微网"
     },
     {
-      "title": "昨夜！美芯片股大涨，油价回落",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9reHdSRFRiN0dDYVkyZVV1QjBkcW1BcDg2V2dwSFNfbnhmZWMzc0lZSHgzWTM0OTA5RjJMYzdPdUlRb0JobFFaR1F",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "台积电据传拟将先进封装价格最高上调20%，全球先进封装进入集中扩产期丨盘中雷达",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1FweWJWWExSaDJydkREUUJfZ3B4eGRFLUt2YXhBampRakgwb3Q2WXdRNFgtQ2RmUjRTOWQyNGVreFI3Z0JuSDh",
+      "source_url": "https://m.21jingji.com",
+      "source": "21财经"
     },
     {
-      "title": "美股半导体、存储芯片大涨，费城半导体指数涨近400点，西部数据涨近7%，AMD涨超5%，特斯拉市值一",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xd1piQTA5b2MtaVdhNUJVaFU4NzZHeDN4a2hJSnBCaldvWW5vTFRTcklfYjVNUGgwSHgwRUFYcXI4V0tlblAzd2p",
-      "source_url": "https://news.10jqka.com.cn",
-      "source": "同花顺财经"
+      "title": "11 亿欧元加码！英飞凌打造全球首座 300mm GaN 功率半导体量产厂",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fMGNYdUlxSWttZDB3Yk5XdmVxbVN6RDNMeXVHa0lVT2I3bVlKRjRfQjI0cVlieWJNbk12cWY1eVVYYnd0bmFqRE1",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "美国制裁也拦不住…中企用自研芯片建成超大型数据中心",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcGNqOFh3cmNYQTlpRnIxdzJ4X1VHdTZXZGl6eFNFYXVVMWZObHpUYm5TXzBWLXRITzl4djBNaEpLb2lMbGJFaEl",
-      "source_url": "https://cnnews.chosun.com",
-      "source": "朝鮮日報中文版"
+      "title": "磷化铟，爆了！",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14akFFQ3BGZGFnZUZaRXRUTVI4U2JsNnRSdjV4Q3ZkN18yUkFxTnVRd0RtZXBDeWQ2TkVfTEt0S29YMnRpVWNNNWV",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "AI“金丝雀”拉响警报：韩国芯片出口繁荣背后的千亿美元隐忧",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wYzZ0b3N6ODR3OGRzeW9UakFiVFdycDhiWERvcWc4WkJONjJoMkhrS2RvUm43VnJZTTh2b0Rxd0JGR3JGR3dGZEp",
-      "source_url": "https://news.sina.com.cn",
-      "source": "新浪新闻_手机新浪网"
+      "title": "【热点】隔夜费半+SK海力士业绩点燃，科创芯片设计ETF招商(589390)权重思瑞浦、普冉股份涨超",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JT25FTWo4ZEYyUzVTT29CUVBNd0MyUTl0QXZMMEpUbXN4Z3FVbzhkcHdhTVQwc2JWQTl2SVhfUDI5ckExRDBUaDJ",
+      "source_url": "https://m.jrj.com.cn",
+      "source": "金融界"
     }
   ]
 }

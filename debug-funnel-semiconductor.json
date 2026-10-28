@@ -1,54 +1,50 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 38,
-    "trusted": 17,
+    "raw_dedup_junk": 40,
+    "trusted": 26,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "chosun.com": 3,
-      "pedaily.cn": 1,
-      "cnbeta.com.tw": 1,
-      "c114.net.cn": 1,
-      "cheaa.com": 1,
-      "futunn.com": 1,
-      "voc.com.cn": 1,
-      "stockstar.com": 1,
-      "siscmag.com": 1
+      "sina.com.cn": 7,
+      "jrj.com.cn": 2,
+      "stockstar.com": 2,
+      "mydrivers.com": 1,
+      "china.com": 1,
+      "voc.com.cn": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 5,
-    "relaxed_72h": 9,
+    "fresh1_24h": 25,
+    "page_fresh": 19,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "美股半导体、芯片股，走强",
-      "d": "sohu.com"
-    },
-    {
-      "t": "美股半导体、存储芯片大涨，费城半导体指数涨近400点，西部数据涨近7%，AMD涨",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "重大利好！AI算力驱动，存储芯片龙头，Q3归母净利大增26倍",
-      "d": "sohu.com"
-    },
-    {
-      "t": "23:04:11【纳斯达克综合指数涨1% 芯片半导体股票涨幅明显】",
-      "d": "cls.cn"
-    },
-    {
-      "t": "增长869.79%！业绩增长源于磷化铟，后附主要玩家盘点",
+      "t": "英特尔前CEO基辛格押注Z2RAM内存架构",
       "d": "eet-china.com"
     },
     {
-      "t": "韩央行警告：若AI投资放缓 韩国芯片明年出口额或较预期少千亿美元",
-      "d": "eastmoney.com"
+      "t": "倒计时开启！2027半导体投资年会暨IC风云榜颁奖典礼12月登陆成都",
+      "d": "laoyaoba.com"
     },
     {
-      "t": "圣邦股份8.33亿元现金收购上海申矽凌微电子58.2878%股份，补强传感器芯片",
+      "t": "11 亿欧元加码！英飞凌打造全球首座 300mm GaN 功率半导体量产厂",
       "d": "eet-china.com"
+    },
+    {
+      "t": "AI全产业链集体发力，中韩半导体ETF、机器人ETF涨超7%，科创芯片设计ETF",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "海外存储巨头业绩大超预期，半导体、芯片板块早盘反弹，半导体设备ETF易方达（15",
+      "d": "sohu.com"
+    },
+    {
+      "t": "SK海力士三季度营业利润同比大增632%，半导体全链业绩与存储荒共振",
+      "d": "sohu.com"
+    },
+    {
+      "t": "美股费城半导体指数大涨，油价下挫",
+      "d": "ifeng.com"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 37,
-    "trusted": 14,
+    "raw_dedup_junk": 63,
+    "trusted": 25,
     "non_trusted_top": {
-      "sina.cn": 5,
+      "yule.com.cn": 5,
+      "hupu.com": 4,
       "sina.com.cn": 3,
-      "bjd.com.cn": 3,
-      "yzwb.net": 2,
+      "sina.cn": 2,
+      "yeeyi.com": 1,
+      "1688.com.au": 1,
+      "ntdtv.com": 1,
       "mnewstv.com": 1,
-      "hupu.com": 1,
-      "henan100.com": 1,
-      "orientaldaily.com.my": 1,
-      "weibo.com": 1,
-      "hangzhou.com.cn": 1
+      "scol.com.cn": 1,
+      "icloudnews.net": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 2,
-    "relaxed_72h": 12,
+    "fresh1_24h": 25,
+    "page_fresh": 23,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "大陆AI歌曲《过来人》引岛内共鸣，台媒：AI可提供低门槛交流方式，让两岸民众重新",
+      "t": "《八仙！》上映100天仍居票房前五：高口碑长尾效应正在改写电影市场",
       "d": "sohu.com"
     },
     {
-      "t": "用语言敲开文化的大门（我眼中的中国）",
+      "t": "首部AI电影的“票房答卷”怎么看",
+      "d": "sohu.com"
+    },
+    {
+      "t": "电影《心迷宫之三重罪》定档11月7日，高分话剧《心迷宫》原班人马实力出演",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "看完首部AI院线电影，我收回说《牛来》是年度烂片",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "《我心芬芳——徐霞独唱作品专辑》在京首发",
       "d": "people.com.cn"
     },
     {
-      "t": "沪游双周报｜第三季度国内游戏市场销售达925.22亿元",
-      "d": "thepaper.cn"
+      "t": "原创纪录电影《象行记》今起登陆院线 讲述中国亚洲象保护故事",
+      "d": "cyol.com"
     },
     {
-      "t": "4天票房124万元，上座率不足1%！国内首部AI院线电影上映遇冷",
-      "d": "sohu.com"
-    },
-    {
-      "t": "中信建投：AI艺人、AI综艺有望接棒AI短剧 成为AI+影视爆发点",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "香港浸大举办电影节表彰青年电影人 章子怡获荣誉教授衔",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "京剧《杨门女将》在江苏南京上演",
-      "d": "xinhuanet.com"
+      "t": "博纳影业AI院线电影《三星堆：未来往事》上映后票房遇冷，累计134.8万元",
+      "d": "huxiu.com"
     }
   ]
 }

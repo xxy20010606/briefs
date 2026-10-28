@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 56,
+  "total": 36,
   "samples": [
     {
-      "title": "AI读不懂业务语言，AI就不能在企业真正落地",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3MGVKSkZyUTQ2YTVkSXNqb1VWWkpoejlESTFjcEQ1OXQ2TTZYTklDZ2xzc2pXcWN1OWpSREZXeW9IWkZZN2Jwejh",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "中国工程院院士到场授课 四川千余名机关干部职工齐学人工智能",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02Z0VKV25hNUdIRThEb3JVWm9UWkc4NV9OcGdZbGRCQ3dodkJJQ1dQUXZSSmVZY1Q4V3BoY1ZfVjdzNHl0d2s4Mk9",
+      "source_url": "https://sichuan.scol.com.cn",
+      "source": "四川新闻"
     },
     {
-      "title": "DeepSeek正式向美国AI霸权宣战！",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fTE1GTmJhSDhvYktVTk5MaDJvdEZhVlF4SkhUb2RvUVBnS2lENWJMZWNDYm91TmJwaFBVWHR2alFqRnJVT1k2R1J",
-      "source_url": "https://user.guancha.cn",
-      "source": "风闻"
+      "title": "AI的“时薪”，正在超越“打工人”的身价",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YaHRudGtkTmlkZUZ1MXR1SjF2eUl1ME1jQS1qeWJfYW1WXzVfanB4OUhpU1ZMNGhtNjN1SlRNWWQ0N29GamN0d0d",
+      "source_url": "https://www.ichaoqi.com",
+      "source": "潮起网"
     },
     {
-      "title": "【企业风采】海淀新一代3万亿级开源大模型发布！继续成为全球最大",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdWFXNWNzaDNXZVAwX3ZxNVl1c3J3VkJGQkJybkRKOXV1V3JRODE1SjBqMmFPWjJicG1vY0FSSGlSSUh1VUlNSnN",
-      "source_url": "https://m.sohu.com",
+      "title": "海南师范大学与中国知网联合研发的“海南省数智教育大模型”发布",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4dGZRMVhLM0JpeGo3MUFPY2RUSTFKQkJWM1BfTVJZVWIxcm00TnlUX1ZqUXlLbjc1bU5CMG90R0FTNUJmbUtWTEh",
+      "source_url": "https://hain.chinadaily.com.cn",
+      "source": "China Daily"
+    },
+    {
+      "title": "谷歌推出新模型Genie4，AI生成的世界竟然可以实时操控?#谷歌#Genie4#AI#大模型#交互",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6aXplWklxcV9CZzhlandFYjVOdzcyN1hEaldrSDZqTExyRkNXQzVvX1NNeUYwa01tRHpnT3VQcmtzLURObFpOYU5",
+      "source_url": "https://caifuhao.eastmoney.com",
+      "source": "财富号"
+    },
+    {
+      "title": "招商进入AI时代 广东将发布产业招商大模型",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMkNOcDlvUlZzVjJFQlpOWk51LWl4ZTZ2Ry13UE50Q2ROOC1OMk5BckZ2QnN6bVpDZHM1czgwU1hJalJERWJUNGh",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
+    },
+    {
+      "title": "彭博：2030年中国有望领跑全球大模型",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVY4ZUxXVzdHWWZRMjM5NXJ1cEZ4OHJFNFFFYlV0V2RYYlpqanhZZG9kNTBnb2lrVUpSZ0RNVG0yOGtlUGV3eGp",
+      "source_url": "https://www.sohu.com",
       "source": "搜狐网"
-    },
-    {
-      "title": "调研与思考丨深耕物理AI主赛道加速赋能产业融合——长沙加快人工智能与产业融合发展的对策建议",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYMHpDenh0NjFaM1NoZmVzYnNHQ2hnbDdJbHRkY1M0NzU0ektmcXZTVkJVWl9kWGJCSnFra1o0T3Z3QzBkZmZHWkN",
-      "source_url": "https://m.voc.com.cn",
-      "source": "新湖南"
-    },
-    {
-      "title": "AI理财建议并不差，拉开差距的是你怎么问——来自麻省理工斯隆管理学院的最新研究",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0xRakZ5WTFVUUdlVXhyNHh5R0ZCR3hHRzQ4TjNiV2dHeUdHWnVyUkI2ODZjdkUyTEE4UGg1Z1JNd0VSOHc1VTF",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "为“聪明”的智能体系好“安全带”",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XTnE2Ym51NUh0QlNtT2pWZElNa2t4UzNQTGNPT0JiV1pyVWhpaFJXbFNNMWw1TFZWODNVaVBMLXpsQTB4Q3ZEZUV",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
     }
   ]
 }
