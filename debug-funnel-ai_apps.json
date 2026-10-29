@@ -1,46 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 20,
-    "trusted": 5,
+    "raw_dedup_junk": 42,
+    "trusted": 15,
     "non_trusted_top": {
+      "ebrun.com": 4,
       "sina.com.cn": 3,
-      "ac.cn": 3,
-      "zhiding.cn": 2,
-      "xhby.net": 1,
-      "unite.ai": 1,
-      "jfdaily.com.cn": 1,
-      "sina.cn": 1,
-      "digitaltoday.co.kr": 1,
-      "frostchina.com": 1,
-      "dahecube.com": 1
+      "digitaltoday.co.kr": 3,
+      "unite.ai": 3,
+      "globalpod.cn": 2,
+      "zhiding.cn": 1,
+      "wenxuecity.com": 1,
+      "jfdaily.com": 1,
+      "hunantoday.cn": 1,
+      "ichaoqi.com": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 1,
-    "relaxed_72h": 4,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 15,
+    "page_fresh": 14,
+    "relaxed_72h": 1,
+    "final": 7,
+    "cap": "同域≤3条"
   },
   "final": [
+    {
+      "t": "为Agent而生，腾讯网盘发布！打通办公套件，支持跨Agent调用",
+      "d": "sohu.com"
+    },
+    {
+      "t": "腾讯发布Buddy One等AI新品，汤道生：AI应用从个人提效拓展至企业协同与",
+      "d": "sohu.com"
+    },
+    {
+      "t": "AI提效流于表面，企业数智转型如何真正落地？",
+      "d": "sohu.com"
+    },
+    {
+      "t": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "【每日瞰AI】Google发布Gemini 4 Carbon，超越Opus 5.",
+      "d": "eet-china.com"
+    },
     {
       "t": "腾讯的“回马枪”：不推独立App，微信悄悄反击字节",
       "d": "36kr.com"
     },
     {
-      "t": "拥抱数字法治新变革，东莞律协举办AI能力提升特训营",
-      "d": "sohu.com"
-    },
-    {
-      "t": "钛动科技发布行业首个Pro Agent, TGC 2026齐聚AI投资人与创业者",
-      "d": "sohu.com"
-    },
-    {
-      "t": "南通市人工智能创业者沙龙第五期举行",
-      "d": "news.cn"
-    },
-    {
-      "t": "打个响指就能拍照？浙江AI产业进入“应用扩张期”",
-      "d": "21jingji.com"
+      "t": "券商晨会精华：AI+办公打开下一个万亿级市场",
+      "d": "cls.cn"
     }
   ]
 }

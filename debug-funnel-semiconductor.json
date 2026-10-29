@@ -1,52 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 38,
-    "trusted": 20,
+    "raw_dedup_junk": 40,
+    "trusted": 22,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "sina.cn": 2,
-      "stockstar.com": 2,
       "chosun.com": 2,
-      "tianjinwe.com": 1,
-      "moomoo.com": 1,
-      "chnfund.com": 1,
-      "esmchina.com": 1
+      "guandian.cn": 2,
+      "futunn.com": 2,
+      "sina.com.cn": 1,
+      "investing.com": 1,
+      "ajudaily.com": 1,
+      "stockstar.com": 1,
+      "enanyang.my": 1,
+      "mk.co.kr": 1,
+      "caiwennews.com": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 9,
-    "relaxed_72h": 11,
+    "fresh1_24h": 21,
+    "page_fresh": 17,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "英飞凌将在欧洲建设全球首座300毫米氮化镓功率半导体大规模量产基地",
+      "t": "芯片如何走进脑机接口与智慧医疗？第五届南渡江论坛11月海口见！",
       "d": "eet-china.com"
     },
     {
-      "t": "半导体工厂火灾！",
+      "t": "“疯狂的”TI汽车芯片，到底什么情况？",
       "d": "eet-china.com"
     },
     {
-      "t": "半导体的未来：从新材料到新芯片，AI能否推动自身进化？_精彩视频为您呈现",
-      "d": "36kr.com"
+      "t": "芯片需求回暖，意法半导体预计第四季度营收将增长",
+      "d": "sohu.com"
     },
     {
-      "t": "AI芯片，逼近掩模极限",
-      "d": "36kr.com"
+      "t": "日本芯片设备9月销售额首破6000亿日元 创单月历史新高",
+      "d": "laoyaoba.com"
     },
     {
-      "t": "18:20:13【豪威集团第三季度净利润环比增长50% 存储芯片供需阶段性调整】",
-      "d": "cls.cn"
+      "t": "芯片板块回调，芯片ETF国泰（512760）标的指数回调超3%，连续2日获资金净",
+      "d": "163.com"
     },
     {
-      "t": "17:47:13【国产算力芯片企业三季度业绩亮眼，科创芯片设计ETF易方达（58",
-      "d": "cls.cn"
+      "t": "锚定算力半导体全链条，锐科激光构建完整国产光源产品矩阵",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "紫光国微：以创新驱动多元发展 持续强化经营韧性",
-      "d": "eastmoney.com"
+      "t": "给AI芯片“退烧”：国内首款12英寸多晶碳化硅衬底在长沙问世",
+      "d": "ifeng.com"
     }
   ]
 }

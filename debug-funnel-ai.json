@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 48,
-    "trusted": 17,
+    "raw_dedup_junk": 63,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.com.cn": 12,
-      "techwalker.com": 5,
-      "csdn.net": 2,
-      "zjol.com.cn": 2,
-      "cheaa.com": 1,
-      "mrjjxw.com": 1,
-      "ichaoqi.com": 1,
-      "sina.cn": 1,
-      "yzwb.net": 1,
-      "mydrivers.com": 1
+      "sina.com.cn": 10,
+      "eastmoney.com": 5,
+      "csdn.net": 4,
+      "techwalker.com": 3,
+      "china.com": 3,
+      "zhiding.cn": 2,
+      "unite.ai": 2,
+      "blockweeks.com": 2,
+      "mydrivers.com": 1,
+      "com.sg": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 5,
-    "relaxed_72h": 10,
+    "fresh1_24h": 14,
+    "page_fresh": 14,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "AI早报 | 宇树将与红杉中国成立“杉宇·创计划”；OpenAI计划采购谷歌AI",
-      "d": "jiemian.com"
+      "t": "既能快问快答，又会深度分析，全国首个“海商法大模型”衍生出6个专门智能体",
+      "d": "sohu.com"
     },
     {
-      "t": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜",
+      "t": "百度研发“世界模型”，瞄准自动驾驶",
       "d": "36kr.com"
     },
     {
-      "t": "开源不再是屏幕里沉默的代码",
+      "t": "维基百科的WikiProject AI Cleanup 对抗大模型生成垃圾内容",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "浙江加速推进人工智能OPC创新发展，十条举措支持杭州、宁波、温州、嘉兴先行先试",
       "d": "sohu.com"
     },
     {
-      "t": "中国大模型公司AI数据负责人密集换防，数据战略转向外采与合成",
-      "d": "huxiu.com"
+      "t": "7亿用户之后：生成式人工智能普及过半 应用治理成为重点",
+      "d": "21jingji.com"
     },
     {
-      "t": "有的听得懂贵州九市州方言！一批贴合贵州民生需求的AI大模型成果发布",
-      "d": "sohu.com"
+      "t": "【每日瞰AI】Google发布Gemini 4 Carbon，超越Opus 5.",
+      "d": "eet-china.com"
     },
     {
-      "t": "用人工智能给中药材做“体检”",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "共建可信GEO传播生态 共启AI营销新模式！实朴科技与山东商报达成深度战略合作",
-      "d": "ifeng.com"
+      "t": "Seeds | 押注大模型“递归自我改进”，超进化完成数亿元天使轮融资",
+      "d": "gasgoo.com"
     }
   ]
 }

@@ -1,40 +1,40 @@
 {
   "type": "ai",
-  "total": 48,
+  "total": 63,
   "samples": [
     {
-      "title": "2026中国家用电器技术大会召开，擘画家电 “十五五” 技术发展新蓝图",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QaVE2ZV8zYkM5ZWFEa2tZWE53b0JIWmxZZ3h6Y29zRFRaV2R5UkhyWktaNUh6TTQ0UEdlSFR2RURCMjhTeWlPZGx",
-      "source_url": "https://news.cheaa.com",
-      "source": "中国家电网"
+      "title": "既能快问快答，又会深度分析，全国首个“海商法大模型”衍生出6个专门智能体",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNmxsRkFoUE9PTTZJWnFiS0ExckFOV3lNZmQtdFFlVWltYmppZlBJcnE3T0ZHa05nWk9PeUkybnptU2JtLTZpZkp",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "AI早报 | 宇树将与红杉中国成立“杉宇·创计划”；OpenAI计划采购谷歌AI芯片",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40ajFuV2U0c0dGa2FLdG9VeDhRRnY1SEdSUHR5SFliMER0a2dTZHFRaDJBeTJhT09zM253UUZCbUNGemp5TERpVVh",
-      "source_url": "https://www.jiemian.com",
-      "source": "Jiemian.com"
+      "title": "百度研发“世界模型”，瞄准自动驾驶",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jcE5RbnRnUEtSdHU0UGdMbG40cnZHTktXQmdDZDBXMThBbnYzV3lVZnYzNVBSY09JNnlWdFFDdjRJcDBNWkxHVm5",
+      "source_url": "http://www.36kr.com",
+      "source": "36Kr"
     },
     {
-      "title": "给AI模型装一个\"路痴向导\"：合成数据如何教会多模态大模型看图",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90Tkg5djU1SE1kWWNUS0VDM3I3NTVMN2d4REtKMUhINGhWM3M5U1hFSXFQSmhoQkY3d0hLYVpkc1piVno4TXpieU5",
-      "source_url": "https://www.techwalker.com",
-      "source": "科技行者"
+      "title": "维基百科的WikiProject AI Cleanup 对抗大模型生成垃圾内容",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkdzB6RVdCQTJaeEM4LUt0eHozYVpiM2s3YkZ1dFNhSU1BRExSQzdXZDFSOHdKRHlwZ1RmZ0gtQU9sTTBnOWtxWUF",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "AI能看懂视频里的物理世界吗？一篇让大模型集体现形的测试",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FVEtnR0Y2S2N0MDNjTG5ycVAzTHlJWm5xNW4wREF5LXNjRlN3VGRpLU8tbDBpUmlWaUpJRGhwZ21hdzJxU1Y0enV",
-      "source_url": "https://www.techwalker.com",
-      "source": "科技行者"
+      "title": "中国电信“AI大讲堂”走进甘肃高校 多款AI权益产品赋能学子智慧成长",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PaEp3NHBfNkluYy1hR3BHSm5OdV9NN3Y5ekNMQk5BN2stSXNrdHh4YnRCd2ZJbnk2SHdXamdBd3pWMHF3QXd2NmZ",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "豆包辟谣“15万名群演肖像声音喂给大模型”；美团拟发布点心债筹资80亿元｜未来商业早参",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oaEQzWElNRHpPdk02RkV2N0QxNDBmUnZLcnNmUUhiWWRrakNKd0tVaTFXaHRxRFZJSnczTkhrbW95N2ZsUG9wbmJ",
-      "source_url": "https://www.mrjjxw.com",
-      "source": "https://www.mrjjxw.com/"
+      "title": "浙江加速推进人工智能OPC创新发展，十条举措支持杭州、宁波、温州、嘉兴先行先试",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTDE1M3V1di0wWWstNVlPeDVHQm1qaDBDdndOT3ZaQlI3S0dGbTdpMnV3Z3UxelpPa29LeVpGQXd5RVFTczdKX0N",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "2026年我国人工智能国家标准建设明显提速！",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nR2xBZDhjakFuZnhhb0FyNFYyX1cwUGZBUkdHRVEtaHZfMVdlbWRha0ZHUWRiaGZZLTJfM1hXdjVpRUlFNWRtYkN",
+      "title": "成都AI链主企业考拉悠然完成B++轮融资，强化世界模型赛道领先地位",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeTdnMTZUcHNaRUk4Uk9RMnV6cEhGempkbmhCeU9CVFdha3doZmQyZkxDOW9EOUtqcTd1cXMxTTh6b1ZhNzlTcmp",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     }

@@ -1,30 +1,38 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 25,
-    "trusted": 3,
+    "raw_dedup_junk": 37,
+    "trusted": 9,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "sina.cn": 3,
-      "futunn.com": 3,
-      "moomoo.com": 2,
-      "hk01.com": 2,
+      "sina.com.cn": 8,
+      "moomoo.com": 6,
+      "china.com": 2,
+      "jin10.com": 2,
+      "sina.cn": 2,
+      "tmgm.com": 2,
+      "futunn.com": 2,
       "cnfin.com": 1,
-      "tmgm.com": 1,
-      "jin10.com": 1,
-      "longbridge.com": 1,
-      "eastmoney.com": 1
+      "smm.cn": 1,
+      "jrj.com.cn": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 0,
-    "relaxed_72h": 1,
-    "final": 1,
+    "fresh1_24h": 9,
+    "page_fresh": 3,
+    "relaxed_72h": 0,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "【环球财经】东京股市两大股指涨跌互现",
+      "t": "预计美联储12月会议将再次加息25基点｜券商晨会",
+      "d": "163.com"
+    },
+    {
+      "t": "贝森特称美联储继续加息未必是错误，高盛却预计本轮紧缩幅度有限",
       "d": "sohu.com"
+    },
+    {
+      "t": "恒生科技指数下跌1.98%，保险板块表现强势｜港股午评",
+      "d": "21jingji.com"
     }
   ]
 }

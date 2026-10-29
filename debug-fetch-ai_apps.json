@@ -1,7 +1,19 @@
 {
   "type": "ai_apps",
-  "total": 20,
+  "total": 42,
   "samples": [
+    {
+      "title": "为Agent而生，腾讯网盘发布！打通办公套件，支持跨Agent调用",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnVuc3dRUGJNaElRd1Z5T2VTQ25oZmRaMW9EejRTVkkzUWtuSTRLRUktclJ5UFE5aXV2QzZUMVdPQkVMOHFGRTJ",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "中国电信“AI大讲堂”走进甘肃高校 多款AI权益产品赋能学子智慧成长",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PaEp3NHBfNkluYy1hR3BHSm5OdV9NN3Y5ekNMQk5BN2stSXNrdHh4YnRCd2ZJbnk2SHdXamdBd3pWMHF3QXd2NmZ",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
     {
       "title": "Apple创作者工作室上线AI助手与MotionVFX工具-AI应用",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vRXV0S1FlVF91a2JYcWVmcDZrcERsUk9ja1lLS1llbFpUM2psaUVWYUJFQjZRc2gtVU5hYkM2VzNXMW1UbGFFaWl",
@@ -9,33 +21,21 @@
       "source": "至顶网"
     },
     {
-      "title": "人工智能重构金融底层逻辑",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TYkM2dzZMQkd4Q0VqeFpFbUJoODVNZUFXVlFfeXZ3TXlQMlNpQk9uOFR3dnlhbHZTVXRXMmNuN2hJTmR4QXJNMWx",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "AI进入财富管理深水区：财富管理服务体系加速重构",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wREIzU0NZLVQ4d0F6MWk4SndQRGw1OVFvLVRaYU1JZTVobnpfOC1LTVp2bGdsRzVYNFphMFdQTG81SG51VTREVnJ",
-      "source_url": "https://www.xhby.net",
-      "source": "新华报业网"
-    },
-    {
-      "title": "IBM推出AI工具简化大型机现代化改造-AI基础设施",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFbkVoUTlXbktPZEpWcHpReF9meTExLVB6N2Q1R1UtbWdKN1M0eWxyZ0RtbHdXbW9QN0NzY3NsbTdfbXNHXzh5ZUR",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
-    },
-    {
-      "title": "Swimlane 为 Turbine 新增自定义 AI 威胁检测和双向 MCP 支持",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUd2eUFzSU1FYmQySHRXVk1vSmFnajAxTzVPOXRSWDd4cURUMm5pUzA0YjFmTVp1YXJTaFdOcWZUX0hta1RfM1R",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "拥抱数字法治新变革，东莞律协举办AI能力提升特训营",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUx2SnJmMlY4bkpydjcwdUtuelRxWWRMaDl5eTVUVktXRWh5YjVlZHlOY0ZoV3FsVmo1U003SGNGZS1DUDg0N1B",
+      "title": "腾讯发布Buddy One等AI新品，汤道生：AI应用从个人提效拓展至企业协同与决策运营",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPakZldzZfRU9MZXhJTGItR1BoU1ZBVW9oZDdKU2dDMGxhWUFTY243OXZEYlkxOFlvQ0pQbVI1ME80dnRWd1hBSWt",
       "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "AI提效流于表面，企业数智转型如何真正落地？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdE12TnVPbldGRnhMT0tyR1lFRjFlRjlYVHlSZ2hfeE1vMzZlbWZVb24ySmp2Vi13YlhfZnFyeHM0eld5Njc1NF9",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "不再喊“全网最低价”口号，今年双十一靠什么留住消费者？",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1JiSEtBLTEzQVRTbVNlMFh5Mlh0Q2I0dGJ2N1cwcTd5UU5PcWVPLUlrS3otdUdacFdIUGpJVVphVFRvWmc0TFZ",
+      "source_url": "https://www.sohu.com",
       "source": "搜狐网"
     }
   ]

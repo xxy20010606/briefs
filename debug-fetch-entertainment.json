@@ -1,13 +1,7 @@
 {
   "type": "entertainment",
-  "total": 52,
+  "total": 46,
   "samples": [
-    {
-      "title": "首部“龙标”AI电影《三星堆：未来往事》上映：技术跑通，故事能否说服观众？",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ21nSkJ0eWRuOGpraE1VQ25jWXNhbElEaTVpNW9WVnhybGdDc1lna3NBMWl1V3h3cU5EcUlzWnVNUnFkQzVnTXB",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
     {
       "title": "上映4天票房仅123万 上座率跌至0.2% 首部院线AI长片票房遭遇滑铁卢",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkeVNKVHdkU2pxWEZoV2x1TEw4QVFLX3FsQUV3aGMxejczc21LTG9ESHE3OHRCakw3UjZ1LVhwOTNNSS1QbzlXMQ?",
@@ -15,28 +9,34 @@
       "source": "财联社"
     },
     {
-      "title": "7部越南电影票房超过4000亿越南盾。",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwaGtfS2lZOXdObll0YUI1cDV4cV9KaTRZOW96a2FrWWZlMzdpbk90TFdIMl85RVFIc1pwOTdUSndVOF9vLU55a2p",
-      "source_url": "https://www.vietnam.vn",
-      "source": "Vietnam.vn"
-    },
-    {
-      "title": "首部AI院线电影《三星堆：未来往事》票房惨败！媒体锐评：不如《牛来》",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42aW85dmlXQ1ozTWFmTzB4RC1ibWM0ZmhseFZ3aURNNU9NbEpZc0dWX0FoMWhfQTVacWJKN3puR3FILUppQXY5Wkk",
-      "source_url": "https://news.mydrivers.com",
-      "source": "驱动之家"
-    },
-    {
-      "title": "首部AI电影遇冷：投资千万票房仅137万，百人厅只一个观众",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTzNLQnc4bmFBY3hyRFBINUlyODdieWg1OVF2M29lLXRETG9KSGUtMm9PR0ZnQ19zSlBSNGRGams4WHB6Rl8yQ0d",
+      "title": "首部AI院线长片六天票房137万，博纳影业还要交几部学费？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdHBXVFU2R2xucE40NjR2VVFqUE5Cb2lOLUhKRmMzRkdoZ1FUNFhLbWVJeFdnaVJfRkRiMV9YRGVLcWRxbWdwQ29",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "《重庆号》官宣！正午阳光顶级阵容集结，张若昀胡先煦共赴热血航程",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95ai0tTjRfOWNzM3FiNjMyWnBWbDRQSUNLTHd0MFJwdlNoTTFCY3M0QWZ4dDBzUWxhaFo2T2Y3UUMwck9mU09vM1B",
-      "source_url": "https://www.rediandf.com",
-      "source": "rediandf.com"
+      "title": "国家电影局：2026年国产影片海外累计票房突破4.5亿元_滚动新闻",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55UjZHa3ZQb2xXWFpiRVluT2ZyeGI5RGRHZktUZ1RLLVM5OVB4bG9xelRrWE5jcjRCcHBqTUx4RXNfSU91RWZzRWJ",
+      "source_url": "https://finance.stockstar.com",
+      "source": "证券之星"
+    },
+    {
+      "title": "首部AI电影遇冷：投资千万票房仅137万，百人厅只一个观众",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeVpmOERyVko5ZmVZNkZSbno4UjZxT3lZTEVOU1FUTmFPRzZSRmdkckM1Y2ZzaTFKSkk3c2Fwd2ZVTXppSDJ0VGx",
+      "source_url": "https://weibo.com",
+      "source": "微博"
+    },
+    {
+      "title": "开始推理吧官宣第五季 原班人马去留成谜",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15UDhidlpiOTNqNUtwQ3BoNmNzaVUwSG5nREJPd19GXzZneV9NZXFNLWRjRk50bkhpT0YwU3JqdHg2VGw2RDBBUVB",
+      "source_url": "https://ent.china.com",
+      "source": "中华网娱乐"
+    },
+    {
+      "title": "[流言板]BLG分享对阵TLAW赛事Vlog-Xun看抽签：我们打T1吧",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OQl96WjdLQ1Z0RTZPckdQRm9nMjJCVWxhU0drUUtkQS0xdGdhSHlaa3doOFZVenpEaHY1RnJQV3dhanotOTBqQ0R",
+      "source_url": "https://bbs.hupu.com",
+      "source": "虎扑体育网"
     }
   ]
 }

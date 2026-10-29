@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 52,
-    "trusted": 15,
+    "raw_dedup_junk": 46,
+    "trusted": 11,
     "non_trusted_top": {
-      "bjd.com.cn": 6,
-      "sina.cn": 4,
-      "sina.com.cn": 4,
-      "yzwb.net": 4,
-      "rediandf.com": 2,
-      "hangzhou.com.cn": 2,
-      "vietnam.vn": 1,
-      "mydrivers.com": 1,
-      "pedaily.cn": 1,
-      "zgm.cn": 1
+      "sina.cn": 3,
+      "stockstar.com": 2,
+      "weibo.com": 2,
+      "china.com": 2,
+      "hupu.com": 2,
+      "sina.com.cn": 2,
+      "cnhubei.com": 2,
+      "foro3d.com": 1,
+      "sortiraparis.com": 1,
+      "chinadaily.com.cn": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 4,
-    "relaxed_72h": 11,
+    "fresh1_24h": 11,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "首部“龙标”AI电影《三星堆：未来往事》上映：技术跑通，故事能否说服观众？",
+      "t": "首部AI院线长片六天票房137万，博纳影业还要交几部学费？",
       "d": "sohu.com"
     },
     {
-      "t": "2026最后两个月电影院要“杀疯”了：《复联5》内地提前上映，《沙丘3》终章，《",
+      "t": "掀红色视听热潮四川体系化推出长征主题作品",
       "d": "sohu.com"
     },
     {
-      "t": "文质彬彬·每日好词语| 酌奇而不失其贞",
-      "d": "cyol.com"
+      "t": "离婚这几年，马伊琍可太过瘾了",
+      "d": "163.com"
     },
     {
-      "t": "上映4天票房仅123万 上座率跌至0.2% 首部院线AI长片票房遭遇滑铁卢",
-      "d": "cls.cn"
+      "t": "2026年7月至9月，338部国产微短剧、网络动画片获得发行许可-中新网",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "2026成都演唱会门票怎么买？这份10—12月购票攻略，帮你省心高效拿下门票",
-      "d": "ifeng.com"
+      "t": "生态兴·国剧强——2026电视剧（网络剧）论坛即将启幕",
+      "d": "gmw.cn"
     },
     {
-      "t": "许嵩、张杰、杨丞琳、周华健演唱会齐打折，在哪能买到靠谱的折扣门票？",
-      "d": "ifeng.com"
+      "t": "2026紫金文化艺术节闭幕 无锡多部作品斩获荣誉",
+      "d": "news.cn"
     },
     {
-      "t": "2026 江苏大剧院戏剧节迎重磅剧目北京人艺《哈姆雷特》即将开演- 中国日报网",
-      "d": "chinadaily.com.cn"
+      "t": "莫斯科“天鹅”来到厦门",
+      "d": "chinanews.com.cn"
     }
   ]
 }

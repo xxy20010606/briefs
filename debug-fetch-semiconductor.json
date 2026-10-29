@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 38,
+  "total": 40,
   "samples": [
     {
-      "title": "启芯半导体“牵手” 天津工大推动集成电路创新发展",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQld0SnpjemE2dnZBVVZEZ3RqYjdZelBCRFFLSGJXT1JZM0VMa0kxYXozLTdnRDhOU1hQalhmUmhWbVpDQmxKR1V",
-      "source_url": "https://epaper.tianjinwe.com",
-      "source": "天津日报"
+      "title": "芯片如何走进脑机接口与智慧医疗？第五届南渡江论坛11月海口见！",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BMkdQZDJZNy0ydVlnb2pPNjVuVmhqRUt1VWI3SmdLbnBrYm52WVctR1pwT1h6SDhYXzRtRnZ5TVkxdVR1ekhEMUN",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "台积电A14有望打破8年技术瓶颈 实现全球最小SRAM单元尺寸",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvQUNEZlJMUnl3SEdmLXZBcmM5b0R3eFUwbHh4OVdCZTFLNEhiSDJhODJzbmtvY1YzbUw0VXZpZDRYenl5cG9rWQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
-    },
-    {
-      "title": "华为双十一焕新季发布会举行 麒麟“韬定律”芯片成关注重点",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yR00tNVhqRl9XLUtib0JnQktSUmtENnVCR3pRYnM0WTFNNDJ2WGdwbUY2ckREdkJFYi1lOFQzcklWZVBQRnFrRWh",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "“小”试锋芒｜以“碳”为基，护航半导体产业全链条",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BajBhbTZRRXBBV0dXUWk2QTFYa3psNnk3bTg3anlKVmdVNTVfREhoaDIzblI5bnFPWmREV194NXdGc3BjNVRrcDJ",
-      "source_url": "https://news.sina.com.cn",
-      "source": "新浪新闻_手机新浪网"
-    },
-    {
-      "title": "美股三大指数集体高开，存储芯片板块普涨，SK海力士涨超8%",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbDZaN1Y1OWJlR3lTcERKZ05sSEhtc25fTERzVDhOOW95VG1xRVRpeXRnb1VtVnZtcnRWei01alo0TXI1WUFFRmp",
+      "title": "【解盘】台积电酝酿提价+SK海力士业绩炸裂！科创芯片设计ETF招商(589390)放量超110%！",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVzc0OHByNDc5em9MSWVKMGFCbUF1VXR0VzVNcGJlNEp2RVlWLXB0Q2dOQlltTllUQ1VVYzk3b2VDQ0FsbVhFR1Z",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "#外媒刷屏韬芯片# 从华为Mate 90系列搭载自研韬芯片，到国产芯片在架构创新上不断探索，国产半导",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LYU5BZ2c3SldxbmIxMXJ5VTE3Mzlzczk2R0pFYlUyXzI0NV9QYkFQV01TeHlwV2NNNlBHNl9kNjh5X041OTJ2YmZ",
-      "source_url": "https://www.sina.cn",
-      "source": "手机新浪网"
+      "title": "“疯狂的”TI汽车芯片，到底什么情况？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPbVJ5bTRDNnp1QnB3Zm00Rm50YkxLS1NDQllHdjNVcUt0UjVLT2t1N3pRMmtaSS1GWHJBekgtb0thTkI0RnNVOEV",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
+    },
+    {
+      "title": "中国长鑫存储为腾讯供应价值200亿元人民币的DRAM",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSWM4STlIR01xM1JvdjB0TEJNM0M1UXlBNXNsMEFTWlgwYUpsc3JaNkVEeUNFQlVDSmpna0lqNkYwdnp2V0E3a2x",
+      "source_url": "https://cnnews.chosun.com",
+      "source": "朝鮮日報中文版"
+    },
+    {
+      "title": "美股AI芯片板块全线收涨，超威半导体涨5.45%丨美股复盘",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWk55dkJ3T3lQZHRlRi1DYi1FTkk4SEZKMGktUTcxWl9JQkRTek13QUgxdjNJTmdMUVd0bV9VUHI2X1IyQ3FOeXU",
+      "source_url": "https://m.21jingji.com",
+      "source": "21财经"
+    },
+    {
+      "title": "意法半导体受AI芯片需求提振，预计第四季度营收将进一步增长 提供者 Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yNXNYdWthQllPdXZEWWlWa3B4azVqLXVtMFM0d2NfN0NFUFBKeHE2emhVMjlYVC1uYmlYd0dQSldkcjc1TU9xa0Q",
+      "source_url": "https://cn.investing.com",
+      "source": "英为财情 Investing.com"
     }
   ]
 }

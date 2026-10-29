@@ -1,50 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 27,
-    "trusted": 7,
+    "raw_dedup_junk": 55,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "in-en.com": 2,
-      "autohome.com.cn": 2,
-      "bjd.com.cn": 2,
+      "in-en.com": 12,
+      "autohome.com.cn": 11,
+      "ne21.com": 7,
+      "jingjiribao.cn": 1,
+      "wedoany.com": 1,
       "100ec.cn": 1,
-      "mrjjxw.com": 1,
-      "yzwb.net": 1,
-      "stockstar.com": 1,
-      "nbs.cn": 1,
-      "prnasia.com": 1
+      "digitaltoday.co.kr": 1,
+      "stheadline.com": 1,
+      "sina.com.cn": 1,
+      "myzaker.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 1,
-    "relaxed_72h": 5,
-    "final": 6,
-    "cap": "不限同域"
+    "fresh1_24h": 10,
+    "page_fresh": 9,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "【投融资动态】维发科技C轮融资，融资额亿级人民币，投资方为国科新能创投、华泰紫金",
+      "t": "北京明确储能与光伏发展目标；内蒙古电网储能装机突破2000万千瓦｜新能源早参",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "江苏南通：绿电助力农民丰收",
       "d": "sohu.com"
     },
     {
-      "t": "常州构建新能源生态链 以绿色动能铸就“双万亿之城”",
-      "d": "news.cn"
-    },
-    {
-      "t": "比亚迪王传福荣获2026中国汽车工业最高荣誉饶斌奖",
-      "d": "sohu.com"
-    },
-    {
-      "t": "王传福获2026汽车工业饶斌奖！“想做一道证明题，证明中国新能源可以，中国汽车可",
-      "d": "sohu.com"
-    },
-    {
-      "t": "海外电站接连起火，储能安全正在经历一场大考！",
-      "d": "sohu.com"
-    },
-    {
-      "t": "突破2000万千瓦！内蒙古电网新型储能装机规模稳居全国省级电网前列",
+      "t": "金诚信股份与格林沃德就刚果（金）迪库路希铜矿光储微网项目举行签约仪式",
       "d": "solarbe.com"
+    },
+    {
+      "t": "金昌一大型储能电站并网发电",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "技术为王 成就梦想——比亚迪以“长期主义”推进体系化领先",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "全球能源冲击下 中国“绿牌”顶住风浪",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "宁德时代携手INTILION在德瑞奥部署3GWh天恒钠电储能系统",
+      "d": "sohu.com"
     }
   ]
 }
