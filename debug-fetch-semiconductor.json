@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 40,
+  "total": 38,
   "samples": [
     {
-      "title": "英特尔前CEO基辛格押注Z2RAM内存架构",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kZzVEWnIwMktka1UxY1dsaGZ4QUw5MHZNZExhbFR5dFJybDJKbjVYSlFjWEFTVFRnNnJRN0dBQWx2TVNiVlNUcmh",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "启芯半导体“牵手” 天津工大推动集成电路创新发展",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQld0SnpjemE2dnZBVVZEZ3RqYjdZelBCRFFLSGJXT1JZM0VMa0kxYXozLTdnRDhOU1hQalhmUmhWbVpDQmxKR1V",
+      "source_url": "https://epaper.tianjinwe.com",
+      "source": "天津日报"
     },
     {
-      "title": "倒计时开启！2027半导体投资年会暨IC风云榜颁奖典礼12月登陆成都",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAtVFY1dVJIY0s3cWpvazYyZlJtdWdBT1hhRFYzYWxNS0s1aS1GTHRLOTdBM0VWRFpKYXh1MWFlbWVLekk?oc=5",
-      "source_url": "http://laoyaoba.com",
-      "source": "集微网"
+      "title": "台积电A14有望打破8年技术瓶颈 实现全球最小SRAM单元尺寸",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvQUNEZlJMUnl3SEdmLXZBcmM5b0R3eFUwbHh4OVdCZTFLNEhiSDJhODJzbmtvY1YzbUw0VXZpZDRYenl5cG9rWQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "台积电据传拟将先进封装价格最高上调20%，全球先进封装进入集中扩产期丨盘中雷达",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1FweWJWWExSaDJydkREUUJfZ3B4eGRFLUt2YXhBampRakgwb3Q2WXdRNFgtQ2RmUjRTOWQyNGVreFI3Z0JuSDh",
-      "source_url": "https://m.21jingji.com",
-      "source": "21财经"
+      "title": "华为双十一焕新季发布会举行 麒麟“韬定律”芯片成关注重点",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yR00tNVhqRl9XLUtib0JnQktSUmtENnVCR3pRYnM0WTFNNDJ2WGdwbUY2ckREdkJFYi1lOFQzcklWZVBQRnFrRWh",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "11 亿欧元加码！英飞凌打造全球首座 300mm GaN 功率半导体量产厂",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fMGNYdUlxSWttZDB3Yk5XdmVxbVN6RDNMeXVHa0lVT2I3bVlKRjRfQjI0cVlieWJNbk12cWY1eVVYYnd0bmFqRE1",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "“小”试锋芒｜以“碳”为基，护航半导体产业全链条",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BajBhbTZRRXBBV0dXUWk2QTFYa3psNnk3bTg3anlKVmdVNTVfREhoaDIzblI5bnFPWmREV194NXdGc3BjNVRrcDJ",
+      "source_url": "https://news.sina.com.cn",
+      "source": "新浪新闻_手机新浪网"
     },
     {
-      "title": "磷化铟，爆了！",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14akFFQ3BGZGFnZUZaRXRUTVI4U2JsNnRSdjV4Q3ZkN18yUkFxTnVRd0RtZXBDeWQ2TkVfTEt0S29YMnRpVWNNNWV",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "美股三大指数集体高开，存储芯片板块普涨，SK海力士涨超8%",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbDZaN1Y1OWJlR3lTcERKZ05sSEhtc25fTERzVDhOOW95VG1xRVRpeXRnb1VtVnZtcnRWei01alo0TXI1WUFFRmp",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "【热点】隔夜费半+SK海力士业绩点燃，科创芯片设计ETF招商(589390)权重思瑞浦、普冉股份涨超",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JT25FTWo4ZEYyUzVTT29CUVBNd0MyUTl0QXZMMEpUbXN4Z3FVbzhkcHdhTVQwc2JWQTl2SVhfUDI5ckExRDBUaDJ",
-      "source_url": "https://m.jrj.com.cn",
-      "source": "金融界"
+      "title": "#外媒刷屏韬芯片# 从华为Mate 90系列搭载自研韬芯片，到国产芯片在架构创新上不断探索，国产半导",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LYU5BZ2c3SldxbmIxMXJ5VTE3Mzlzczk2R0pFYlUyXzI0NV9QYkFQV01TeHlwV2NNNlBHNl9kNjh5X041OTJ2YmZ",
+      "source_url": "https://www.sina.cn",
+      "source": "手机新浪网"
     }
   ]
 }

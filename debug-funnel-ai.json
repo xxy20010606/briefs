@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 36,
-    "trusted": 15,
+    "raw_dedup_junk": 48,
+    "trusted": 17,
     "non_trusted_top": {
-      "cnbeta.com.tw": 2,
-      "china.com": 2,
-      "orcarouter.ai": 2,
-      "scol.com.cn": 1,
+      "sina.com.cn": 12,
+      "techwalker.com": 5,
+      "csdn.net": 2,
+      "zjol.com.cn": 2,
+      "cheaa.com": 1,
+      "mrjjxw.com": 1,
       "ichaoqi.com": 1,
-      "eastmoney.com": 1,
-      "weeklyonstock.com": 1,
-      "techwalker.com": 1,
-      "ac.cn": 1,
-      "cnpiw.cn": 1
+      "sina.cn": 1,
+      "yzwb.net": 1,
+      "mydrivers.com": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 12,
-    "relaxed_72h": 0,
+    "fresh1_24h": 15,
+    "page_fresh": 5,
+    "relaxed_72h": 10,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "海南师范大学与中国知网联合研发的“海南省数智教育大模型”发布",
-      "d": "chinadaily.com.cn"
+      "t": "AI早报 | 宇树将与红杉中国成立“杉宇·创计划”；OpenAI计划采购谷歌AI",
+      "d": "jiemian.com"
     },
     {
-      "t": "招商进入AI时代 广东将发布产业招商大模型",
-      "d": "21jingji.com"
+      "t": "拿下86亿元，今年华为系创业者攻占了具身智能融资榜",
+      "d": "36kr.com"
     },
     {
-      "t": "彭博：2030年中国有望领跑全球大模型",
+      "t": "开源不再是屏幕里沉默的代码",
       "d": "sohu.com"
     },
     {
-      "t": "速递｜超进化智能完成数亿元天使轮融资，以万卡训练经验打造研究基础模型",
+      "t": "中国大模型公司AI数据负责人密集换防，数据战略转向外采与合成",
+      "d": "huxiu.com"
+    },
+    {
+      "t": "有的听得懂贵州九市州方言！一批贴合贵州民生需求的AI大模型成果发布",
       "d": "sohu.com"
     },
     {
-      "t": "软文发稿平台怎么选怎么配？2026年AI收录时代的组合布局思路",
+      "t": "用人工智能给中药材做“体检”",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "共建可信GEO传播生态 共启AI营销新模式！实朴科技与山东商报达成深度战略合作",
       "d": "ifeng.com"
-    },
-    {
-      "t": "大模型辅导作业？孩子用工具须有度",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "DeepSeek Bot民间版作者来了！中国AI智能体大会，北京站12月见",
-      "d": "zhidx.com"
     }
   ]
 }

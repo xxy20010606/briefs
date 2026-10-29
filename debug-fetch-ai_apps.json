@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 23,
+  "total": 20,
   "samples": [
     {
-      "title": "智见未来·创新无界｜中外友人相聚杭州，共探AI时代创业新机遇",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOTJ6WE9WMFRvb2JNeTFkMFREQzl5SEluTWdQaVNjM0M4LVZRMi1PdVJSd0lqR1FScGNVU21VYXlpUkMtNjY4akd",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "AI狂飙之后：技术与治理的五重错位",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YaW9RYUZ4ejlETVpyaTB4VHltdHpqWjdUc2NCZUtLcGtWb1daQk1sZ1pBQm1xZzZaRi03bkhIYmxTYi1CYTE1WHR",
-      "source_url": "https://www.thepaper.cn",
-      "source": "ThePaper.cn"
-    },
-    {
-      "title": "学校非教学科研人员AI素养培训（第二期）顺利举行",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RV3FGVzZnSmNIX0xFbUY4VHVHYUxUOGNSZzZSd09EMjNnbVo0RjR1VTZsR3NIWW5lcWt1QkV3d211VWtTdXl4QkZ",
-      "source_url": "https://wellan.zuel.edu.cn",
-      "source": "文澜新闻网"
-    },
-    {
-      "title": "OpenAI如何将编程工具打造成全天候私人助手Dots-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13NWxDaGZfMUplSzVXdk5FQVRzcnZtb2FfVFpCTnUwaWNEYzZBUEtTck9vb2JXYTVIbGdVWElKNGsxUGZneHFwS2V",
+      "title": "Apple创作者工作室上线AI助手与MotionVFX工具-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vRXV0S1FlVF91a2JYcWVmcDZrcERsUk9ja1lLS1llbFpUM2psaUVWYUJFQjZRc2gtVU5hYkM2VzNXMW1UbGFFaWl",
       "source_url": "https://www.zhiding.cn",
       "source": "至顶网"
     },
     {
-      "title": "SAP 赋能 AI 开发者打造核心应用，将业务意图转变为自主执行",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObnFzc1JMWDRjTVhXalMyZ0RSYlFqR245bl9Kd2dXQWE0aGlQZlUwQjZudWQxLUJOMDYtYUJmVlR4eGYybkxzUUd",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "人工智能重构金融底层逻辑",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TYkM2dzZMQkd4Q0VqeFpFbUJoODVNZUFXVlFfeXZ3TXlQMlNpQk9uOFR3dnlhbHZTVXRXMmNuN2hJTmR4QXJNMWx",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "AI让家庭作业时代走向终结-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WTGJTWlA5QlliMzRrbFBneG1sUDV5VkVSdEJQQTc0OEE3NXpna3o4TlJEZktyTDVBZDQ2SnF6Rzd5NTdHS3c5QkE",
+      "title": "AI进入财富管理深水区：财富管理服务体系加速重构",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wREIzU0NZLVQ4d0F6MWk4SndQRGw1OVFvLVRaYU1JZTVobnpfOC1LTVp2bGdsRzVYNFphMFdQTG81SG51VTREVnJ",
+      "source_url": "https://www.xhby.net",
+      "source": "新华报业网"
+    },
+    {
+      "title": "IBM推出AI工具简化大型机现代化改造-AI基础设施",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFbkVoUTlXbktPZEpWcHpReF9meTExLVB6N2Q1R1UtbWdKN1M0eWxyZ0RtbHdXbW9QN0NzY3NsbTdfbXNHXzh5ZUR",
       "source_url": "https://www.zhiding.cn",
       "source": "至顶网"
+    },
+    {
+      "title": "Swimlane 为 Turbine 新增自定义 AI 威胁检测和双向 MCP 支持",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUd2eUFzSU1FYmQySHRXVk1vSmFnajAxTzVPOXRSWDd4cURUMm5pUzA0YjFmTVp1YXJTaFdOcWZUX0hta1RfM1R",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
+    },
+    {
+      "title": "拥抱数字法治新变革，东莞律协举办AI能力提升特训营",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUx2SnJmMlY4bkpydjcwdUtuelRxWWRMaDl5eTVUVktXRWh5YjVlZHlOY0ZoV3FsVmo1U003SGNGZS1DUDg0N1B",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     }
   ]
 }

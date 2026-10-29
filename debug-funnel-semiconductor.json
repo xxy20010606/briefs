@@ -1,50 +1,52 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 40,
-    "trusted": 26,
+    "raw_dedup_junk": 38,
+    "trusted": 20,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "jrj.com.cn": 2,
+      "sina.com.cn": 8,
+      "sina.cn": 2,
       "stockstar.com": 2,
-      "mydrivers.com": 1,
-      "china.com": 1,
-      "voc.com.cn": 1
+      "chosun.com": 2,
+      "tianjinwe.com": 1,
+      "moomoo.com": 1,
+      "chnfund.com": 1,
+      "esmchina.com": 1
     },
-    "fresh1_24h": 25,
-    "page_fresh": 19,
-    "relaxed_72h": 0,
+    "fresh1_24h": 17,
+    "page_fresh": 9,
+    "relaxed_72h": 11,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "英特尔前CEO基辛格押注Z2RAM内存架构",
+      "t": "英飞凌将在欧洲建设全球首座300毫米氮化镓功率半导体大规模量产基地",
       "d": "eet-china.com"
     },
     {
-      "t": "倒计时开启！2027半导体投资年会暨IC风云榜颁奖典礼12月登陆成都",
-      "d": "laoyaoba.com"
-    },
-    {
-      "t": "11 亿欧元加码！英飞凌打造全球首座 300mm GaN 功率半导体量产厂",
+      "t": "半导体工厂火灾！",
       "d": "eet-china.com"
     },
     {
-      "t": "AI全产业链集体发力，中韩半导体ETF、机器人ETF涨超7%，科创芯片设计ETF",
-      "d": "21jingji.com"
+      "t": "半导体的未来：从新材料到新芯片，AI能否推动自身进化？_精彩视频为您呈现",
+      "d": "36kr.com"
     },
     {
-      "t": "海外存储巨头业绩大超预期，半导体、芯片板块早盘反弹，半导体设备ETF易方达（15",
-      "d": "sohu.com"
+      "t": "AI芯片，逼近掩模极限",
+      "d": "36kr.com"
     },
     {
-      "t": "SK海力士三季度营业利润同比大增632%，半导体全链业绩与存储荒共振",
-      "d": "sohu.com"
+      "t": "18:20:13【豪威集团第三季度净利润环比增长50% 存储芯片供需阶段性调整】",
+      "d": "cls.cn"
     },
     {
-      "t": "美股费城半导体指数大涨，油价下挫",
-      "d": "ifeng.com"
+      "t": "17:47:13【国产算力芯片企业三季度业绩亮眼，科创芯片设计ETF易方达（58",
+      "d": "cls.cn"
+    },
+    {
+      "t": "紫光国微：以创新驱动多元发展 持续强化经营韧性",
+      "d": "eastmoney.com"
     }
   ]
 }

@@ -1,54 +1,46 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 23,
-    "trusted": 8,
+    "raw_dedup_junk": 20,
+    "trusted": 5,
     "non_trusted_top": {
-      "zhiding.cn": 3,
-      "unite.ai": 2,
-      "sina.com.cn": 2,
-      "zuel.edu.cn": 1,
-      "gongkong.com": 1,
-      "caiwennews.com": 1,
-      "pedaily.cn": 1,
-      "me.news": 1,
+      "sina.com.cn": 3,
+      "ac.cn": 3,
+      "zhiding.cn": 2,
+      "xhby.net": 1,
+      "unite.ai": 1,
+      "jfdaily.com.cn": 1,
       "sina.cn": 1,
-      "aibase.com": 1
+      "digitaltoday.co.kr": 1,
+      "frostchina.com": 1,
+      "dahecube.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 7,
-    "relaxed_72h": 1,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 3,
+    "page_fresh": 1,
+    "relaxed_72h": 4,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "智见未来·创新无界｜中外友人相聚杭州，共探AI时代创业新机遇",
+      "t": "腾讯的“回马枪”：不推独立App，微信悄悄反击字节",
+      "d": "36kr.com"
+    },
+    {
+      "t": "拥抱数字法治新变革，东莞律协举办AI能力提升特训营",
       "d": "sohu.com"
     },
     {
-      "t": "AI狂飙之后：技术与治理的五重错位",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "SAP 赋能 AI 开发者打造核心应用，将业务意图转变为自主执行",
+      "t": "钛动科技发布行业首个Pro Agent, TGC 2026齐聚AI投资人与创业者",
       "d": "sohu.com"
     },
     {
-      "t": "DeepSeek Bot民间版作者来了！中国AI智能体大会，北京站12月见",
-      "d": "zhidx.com"
+      "t": "南通市人工智能创业者沙龙第五期举行",
+      "d": "news.cn"
     },
     {
-      "t": "188天就退场，大厂AI产品正在加速洗牌",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "券商晨会精华：AI+办公打开下一个万亿级市场",
-      "d": "cls.cn"
+      "t": "打个响指就能拍照？浙江AI产业进入“应用扩张期”",
+      "d": "21jingji.com"
     }
   ]
 }

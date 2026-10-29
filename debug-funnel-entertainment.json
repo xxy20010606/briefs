@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 63,
-    "trusted": 25,
+    "raw_dedup_junk": 52,
+    "trusted": 15,
     "non_trusted_top": {
-      "yule.com.cn": 5,
-      "hupu.com": 4,
-      "sina.com.cn": 3,
-      "sina.cn": 2,
-      "yeeyi.com": 1,
-      "1688.com.au": 1,
-      "ntdtv.com": 1,
-      "mnewstv.com": 1,
-      "scol.com.cn": 1,
-      "icloudnews.net": 1
+      "bjd.com.cn": 6,
+      "sina.cn": 4,
+      "sina.com.cn": 4,
+      "yzwb.net": 4,
+      "rediandf.com": 2,
+      "hangzhou.com.cn": 2,
+      "vietnam.vn": 1,
+      "mydrivers.com": 1,
+      "pedaily.cn": 1,
+      "zgm.cn": 1
     },
-    "fresh1_24h": 25,
-    "page_fresh": 23,
-    "relaxed_72h": 0,
+    "fresh1_24h": 14,
+    "page_fresh": 4,
+    "relaxed_72h": 11,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "《八仙！》上映100天仍居票房前五：高口碑长尾效应正在改写电影市场",
+      "t": "首部“龙标”AI电影《三星堆：未来往事》上映：技术跑通，故事能否说服观众？",
       "d": "sohu.com"
     },
     {
-      "t": "首部AI电影的“票房答卷”怎么看",
+      "t": "2026最后两个月电影院要“杀疯”了：《复联5》内地提前上映，《沙丘3》终章，《",
       "d": "sohu.com"
     },
     {
-      "t": "电影《心迷宫之三重罪》定档11月7日，高分话剧《心迷宫》原班人马实力出演",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "看完首部AI院线电影，我收回说《牛来》是年度烂片",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "《我心芬芳——徐霞独唱作品专辑》在京首发",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "原创纪录电影《象行记》今起登陆院线 讲述中国亚洲象保护故事",
+      "t": "文质彬彬·每日好词语| 酌奇而不失其贞",
       "d": "cyol.com"
     },
     {
-      "t": "博纳影业AI院线电影《三星堆：未来往事》上映后票房遇冷，累计134.8万元",
-      "d": "huxiu.com"
+      "t": "上映4天票房仅123万 上座率跌至0.2% 首部院线AI长片票房遭遇滑铁卢",
+      "d": "cls.cn"
+    },
+    {
+      "t": "2026成都演唱会门票怎么买？这份10—12月购票攻略，帮你省心高效拿下门票",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "许嵩、张杰、杨丞琳、周华健演唱会齐打折，在哪能买到靠谱的折扣门票？",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "2026 江苏大剧院戏剧节迎重磅剧目北京人艺《哈姆雷特》即将开演- 中国日报网",
+      "d": "chinadaily.com.cn"
     }
   ]
 }

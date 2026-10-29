@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 36,
+  "total": 48,
   "samples": [
     {
-      "title": "中国工程院院士到场授课 四川千余名机关干部职工齐学人工智能",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02Z0VKV25hNUdIRThEb3JVWm9UWkc4NV9OcGdZbGRCQ3dodkJJQ1dQUXZSSmVZY1Q4V3BoY1ZfVjdzNHl0d2s4Mk9",
-      "source_url": "https://sichuan.scol.com.cn",
-      "source": "四川新闻"
+      "title": "2026中国家用电器技术大会召开，擘画家电 “十五五” 技术发展新蓝图",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QaVE2ZV8zYkM5ZWFEa2tZWE53b0JIWmxZZ3h6Y29zRFRaV2R5UkhyWktaNUh6TTQ0UEdlSFR2RURCMjhTeWlPZGx",
+      "source_url": "https://news.cheaa.com",
+      "source": "中国家电网"
     },
     {
-      "title": "AI的“时薪”，正在超越“打工人”的身价",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YaHRudGtkTmlkZUZ1MXR1SjF2eUl1ME1jQS1qeWJfYW1WXzVfanB4OUhpU1ZMNGhtNjN1SlRNWWQ0N29GamN0d0d",
-      "source_url": "https://www.ichaoqi.com",
-      "source": "潮起网"
+      "title": "AI早报 | 宇树将与红杉中国成立“杉宇·创计划”；OpenAI计划采购谷歌AI芯片",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40ajFuV2U0c0dGa2FLdG9VeDhRRnY1SEdSUHR5SFliMER0a2dTZHFRaDJBeTJhT09zM253UUZCbUNGemp5TERpVVh",
+      "source_url": "https://www.jiemian.com",
+      "source": "Jiemian.com"
     },
     {
-      "title": "海南师范大学与中国知网联合研发的“海南省数智教育大模型”发布",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4dGZRMVhLM0JpeGo3MUFPY2RUSTFKQkJWM1BfTVJZVWIxcm00TnlUX1ZqUXlLbjc1bU5CMG90R0FTNUJmbUtWTEh",
-      "source_url": "https://hain.chinadaily.com.cn",
-      "source": "China Daily"
+      "title": "给AI模型装一个\"路痴向导\"：合成数据如何教会多模态大模型看图",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90Tkg5djU1SE1kWWNUS0VDM3I3NTVMN2d4REtKMUhINGhWM3M5U1hFSXFQSmhoQkY3d0hLYVpkc1piVno4TXpieU5",
+      "source_url": "https://www.techwalker.com",
+      "source": "科技行者"
     },
     {
-      "title": "谷歌推出新模型Genie4，AI生成的世界竟然可以实时操控?#谷歌#Genie4#AI#大模型#交互",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6aXplWklxcV9CZzhlandFYjVOdzcyN1hEaldrSDZqTExyRkNXQzVvX1NNeUYwa01tRHpnT3VQcmtzLURObFpOYU5",
-      "source_url": "https://caifuhao.eastmoney.com",
-      "source": "财富号"
+      "title": "AI能看懂视频里的物理世界吗？一篇让大模型集体现形的测试",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FVEtnR0Y2S2N0MDNjTG5ycVAzTHlJWm5xNW4wREF5LXNjRlN3VGRpLU8tbDBpUmlWaUpJRGhwZ21hdzJxU1Y0enV",
+      "source_url": "https://www.techwalker.com",
+      "source": "科技行者"
     },
     {
-      "title": "招商进入AI时代 广东将发布产业招商大模型",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMkNOcDlvUlZzVjJFQlpOWk51LWl4ZTZ2Ry13UE50Q2ROOC1OMk5BckZ2QnN6bVpDZHM1czgwU1hJalJERWJUNGh",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
+      "title": "豆包辟谣“15万名群演肖像声音喂给大模型”；美团拟发布点心债筹资80亿元｜未来商业早参",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oaEQzWElNRHpPdk02RkV2N0QxNDBmUnZLcnNmUUhiWWRrakNKd0tVaTFXaHRxRFZJSnczTkhrbW95N2ZsUG9wbmJ",
+      "source_url": "https://www.mrjjxw.com",
+      "source": "https://www.mrjjxw.com/"
     },
     {
-      "title": "彭博：2030年中国有望领跑全球大模型",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVY4ZUxXVzdHWWZRMjM5NXJ1cEZ4OHJFNFFFYlV0V2RYYlpqanhZZG9kNTBnb2lrVUpSZ0RNVG0yOGtlUGV3eGp",
-      "source_url": "https://www.sohu.com",
-      "source": "搜狐网"
+      "title": "2026年我国人工智能国家标准建设明显提速！",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nR2xBZDhjakFuZnhhb0FyNFYyX1cwUGZBUkdHRVEtaHZfMVdlbWRha0ZHUWRiaGZZLTJfM1hXdjVpRUlFNWRtYkN",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     }
   ]
 }

@@ -1,54 +1,50 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 52,
-    "trusted": 11,
+    "raw_dedup_junk": 27,
+    "trusted": 7,
     "non_trusted_top": {
-      "autohome.com.cn": 11,
-      "sina.com.cn": 9,
-      "ne21.com": 5,
-      "sina.cn": 4,
-      "cnfin.com": 1,
-      "smm.cn": 1,
-      "cinie.net": 1,
-      "in-en.com": 1,
+      "sina.com.cn": 3,
+      "in-en.com": 2,
+      "autohome.com.cn": 2,
+      "bjd.com.cn": 2,
+      "100ec.cn": 1,
+      "mrjjxw.com": 1,
+      "yzwb.net": 1,
       "stockstar.com": 1,
-      "sxcoal.com": 1
+      "nbs.cn": 1,
+      "prnasia.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 9,
-    "relaxed_72h": 1,
-    "final": 7,
-    "cap": "同域≤3条"
+    "fresh1_24h": 5,
+    "page_fresh": 1,
+    "relaxed_72h": 5,
+    "final": 6,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "百兆瓦压缩气体储能项目并网：新能源产业，不能只押注光伏板和风机",
+      "t": "【投融资动态】维发科技C轮融资，融资额亿级人民币，投资方为国科新能创投、华泰紫金",
       "d": "sohu.com"
     },
     {
-      "t": "海外工商储再进阶！昱能科技与丹麦HeatSave A/S公司签署战略合作",
-      "d": "solarbe.com"
+      "t": "常州构建新能源生态链 以绿色动能铸就“双万亿之城”",
+      "d": "news.cn"
     },
     {
-      "t": "AI加持！ 协鑫运营科技数智集控落地盐城，赋能全域新能源管控",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "宁夏平罗县共享储能电站项目进入施工冲刺阶段",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "2026年前三季度电力交易量同比增长18.9%；前三季度电气机械业利润同比下降5",
-      "d": "163.com"
-    },
-    {
-      "t": "比亚迪把纯电重卡卖进了化工物流：密尔克卫首批Q3牵引车交付",
+      "t": "比亚迪王传福荣获2026中国汽车工业最高荣誉饶斌奖",
       "d": "sohu.com"
     },
     {
-      "t": "【图】售6.29万元起 尺寸全面升级/可选激光雷达 全新比亚迪海鸥上市",
-      "d": "autohome.com.cn"
+      "t": "王传福获2026汽车工业饶斌奖！“想做一道证明题，证明中国新能源可以，中国汽车可",
+      "d": "sohu.com"
+    },
+    {
+      "t": "海外电站接连起火，储能安全正在经历一场大考！",
+      "d": "sohu.com"
+    },
+    {
+      "t": "突破2000万千瓦！内蒙古电网新型储能装机规模稳居全国省级电网前列",
+      "d": "solarbe.com"
     }
   ]
 }

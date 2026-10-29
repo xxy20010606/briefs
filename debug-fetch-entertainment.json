@@ -1,28 +1,10 @@
 {
   "type": "entertainment",
-  "total": 63,
+  "total": 52,
   "samples": [
     {
-      "title": "看完首部AI院线电影，我收回说《牛来》是年度烂片-yeeyi",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQMXBGek1pNzdjRktYakMwZE83cV9aOGJEeHNHaHZjU0tQMGU0eVBWZUlFaGhSSmljSl9iaUhXQVdHaDFqYl9oME1",
-      "source_url": "https://www.yeeyi.com",
-      "source": "yeeyi"
-    },
-    {
-      "title": "中国23亿票房，烂番茄开分0分，《功夫女足》败在质量还是水土不服？",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTSE5ubDZ5dUQ1VHNUelBtZ1NBYmNsRDllWTQtS2pjNHJQNllkbnN6Vzg0MEJadUJlTlBtUUJXN0JJbTZBZmZIcmR",
-      "source_url": "https://user.guancha.cn",
-      "source": "风闻"
-    },
-    {
-      "title": "《八仙！》上映100天仍居票房前五：高口碑长尾效应正在改写电影市场",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNamZ0YUVWWnVJeENBREVvMGlodnRwWnpjeWpiMFVCN05ScHdrRjVpWUJpWEdXWnRsVEpoNHpVVTl0U2l0TlRsc09",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "首部AI电影的“票房答卷”怎么看",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPenJPOTREcDhhOHpvbV9OOGprRnR2ZzZWSzJQYngteU4yZW03bUg5cnR3YndqUVRxM2ZHWnRSSGNRUzhDc1d3bTF",
+      "title": "首部“龙标”AI电影《三星堆：未来往事》上映：技术跑通，故事能否说服观众？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ21nSkJ0eWRuOGpraE1VQ25jWXNhbElEaTVpNW9WVnhybGdDc1lna3NBMWl1V3h3cU5EcUlzWnVNUnFkQzVnTXB",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
@@ -33,10 +15,28 @@
       "source": "财联社"
     },
     {
-      "title": "上映4天票房120万元！首部AI院线影片不及预期，AI影视下一站走向哪",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40UEt2bDJEOFBCcF9tTWMxQmdQWnFwc0txX242S1E2R05UeTE2b2Z6dlVKdEF1d21VMWNRYXlvTlhzSExiamtoZ2h",
-      "source_url": "https://www.1688.com.au",
-      "source": "1688澳洲新闻网"
+      "title": "7部越南电影票房超过4000亿越南盾。",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwaGtfS2lZOXdObll0YUI1cDV4cV9KaTRZOW96a2FrWWZlMzdpbk90TFdIMl85RVFIc1pwOTdUSndVOF9vLU55a2p",
+      "source_url": "https://www.vietnam.vn",
+      "source": "Vietnam.vn"
+    },
+    {
+      "title": "首部AI院线电影《三星堆：未来往事》票房惨败！媒体锐评：不如《牛来》",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42aW85dmlXQ1ozTWFmTzB4RC1ibWM0ZmhseFZ3aURNNU9NbEpZc0dWX0FoMWhfQTVacWJKN3puR3FILUppQXY5Wkk",
+      "source_url": "https://news.mydrivers.com",
+      "source": "驱动之家"
+    },
+    {
+      "title": "首部AI电影遇冷：投资千万票房仅137万，百人厅只一个观众",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTzNLQnc4bmFBY3hyRFBINUlyODdieWg1OVF2M29lLXRETG9KSGUtMm9PR0ZnQ19zSlBSNGRGams4WHB6Rl8yQ0d",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "《重庆号》官宣！正午阳光顶级阵容集结，张若昀胡先煦共赴热血航程",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95ai0tTjRfOWNzM3FiNjMyWnBWbDRQSUNLTHd0MFJwdlNoTTFCY3M0QWZ4dDBzUWxhaFo2T2Y3UUMwck9mU09vM1B",
+      "source_url": "https://www.rediandf.com",
+      "source": "rediandf.com"
     }
   ]
 }
