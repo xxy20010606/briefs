@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 66,
+  "total": 40,
   "samples": [
     {
-      "title": "看不见的AI资产，需要看得见的保障",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Rcng3SWdueFU0N08wdnlYN1pkdzRTWl9ZRHhBaW95T1lIRy1CYWZIMEpNa3otdWd6VVFCZFBuVy1QenNVTzI2bVN",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "给AI模型做\"记忆手术\"：如何让它只忘该忘的,不忘不该忘的",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05MDdPNm1CektPWEl2ODQ4N0lCRmlvQnhHbDdkSkdWRnVhbHZBNU5TcWVlZ24wVUViX1RnUXRHMFBOOGRheGR4OGZ",
-      "source_url": "https://www.techwalker.com",
-      "source": "科技行者"
-    },
-    {
-      "title": "法律AI只会判对错，不会判好坏：一个让机器学会\"懂法\"的打分系统",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3ZGppNFFSc3VxcDlYQkhYWFNMbnB4VnIwRlBuMEtpZFJxTHE2dzFsTjA2Qmx2UVJrbFg0ZzNtLURkX3kxUm5NMUR",
-      "source_url": "https://www.techwalker.com",
-      "source": "科技行者"
-    },
-    {
-      "title": "深读｜AI办事员，从“会唠”到“会办”卡在哪？",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeUxjYWZLT0xZeFo0cWpkc29Vb1hZUUlfSElmbTN4N2syNTV3aFI3NDVnU2lCdTZkUWdFenEzOWMwVjZvSlQxNW0",
+      "title": "水滴公司沈鹏入选“2026胡润U40中国创业先锋”榜单",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclBqamRVcWdWWlBzclJvRnlwY3Zub0lMUW42Q3lydXVKY1RKbnRmOXFLT1Y1c3hNX3dMNzRXZWstOWdpVXJqWnB",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "垂域大模型看山东｜山东特联：给气瓶装上“AI安全大脑”",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wMHFqLWlpbkswSmRXOHRSTDI3X0plUmpIOHVhcW9jdUdjYW42YUMxOUpoWFhaQkRfOXI3QUx4aEJUdGNkWmRPV2p",
-      "source_url": "http://www.jn001.com",
-      "source": "www.jn001.com"
+      "title": "天鹜科技与瑞孚迪达成战略合作，共建AI for Science创新生态",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yX3Jaa0dSaVRIUkJPM0lsSXBTQjFKNFUwdUQxdm55SUt0YmUzZWd0VDgwakk2RWx6YTNDSXdjWC15cUhUeXlYNFl",
+      "source_url": "https://tech.china.com",
+      "source": "中华网"
     },
     {
-      "title": "教AI叠蛋白质，结果它学会了看地图",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yZ3JnSVV1NzcxZVpYcWtVMm5tYlpOZ0lGUUU5a0VOWW1CTkY5QkdUUnFSZnBxMkNmR2FqNzh6TlBUQVd6ZUl4WER",
+      "title": "宏杉科技亮相2026数据存储产业大会：存力筑基，共启AI新机遇",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BeW84N0IySHgzMF9jYm9JemxuZjVjZlI5SG1NU3JIbTJwb1RRbUlDMzFOclRMbVp3SF9MdDVFcUMzcGZvcDJTRC1",
+      "source_url": "https://tech.china.com",
+      "source": "中华网"
+    },
+    {
+      "title": "53亿次调用见证课堂实践：天学网AI英语教育体系助推因材施教规模化落地",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Qb1JLZHRoaUM2dmFXY1ROel83ZmxodzBaVWJ2b2hQaVVPQWpCNWpMZUFBNWFaUjIxbFRGVGd6aUt5R0laV2dsTzd",
+      "source_url": "https://hainan.ifeng.com",
+      "source": "凤凰网"
+    },
+    {
+      "title": "从梯度到能力：一个学生模型如何同时跟四位老师学习",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sdFQyaEJtMmwxVEJTbHpyMlVjQ25XN0JKdnU5Q05nSnhhcl9JbWptUVVyN1lqTFBlSnBBWjBnMTIxQVQwU1JaWl9",
       "source_url": "https://www.techwalker.com",
       "source": "科技行者"
+    },
+    {
+      "title": "谷歌发布Gemini 4 Carbon重夺大模型第一：Artificial Analysis智能指数",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GWnVhQUUxbEZ6ZkFqN3I3VE1nYVN5OWU3RC1meExEWlM4cTY5M1UwYk40dDJFTkkyOEdvNUZOd3RXOGloWjVDZXJ",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     }
   ]
 }

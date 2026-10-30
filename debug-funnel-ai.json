@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 66,
-    "trusted": 21,
+    "raw_dedup_junk": 40,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 11,
-      "orcarouter.ai": 6,
-      "techwalker.com": 3,
-      "icloudnews.net": 3,
-      "guandian.cn": 2,
-      "stockstar.com": 2,
-      "jn001.com": 1,
-      "pasqualepillitteri.it": 1,
-      "storagereview.com": 1,
-      "hebtv.com": 1
+      "stockstar.com": 5,
+      "china.com": 3,
+      "sina.com.cn": 3,
+      "techwalker.com": 2,
+      "hebccw.cn": 2,
+      "sina.cn": 1,
+      "66wz.com": 1,
+      "ofweek.com": 1,
+      "lmtw.com": 1,
+      "hangzhou.com.cn": 1
     },
-    "fresh1_24h": 18,
-    "page_fresh": 4,
-    "relaxed_72h": 14,
+    "fresh1_24h": 13,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "深读｜AI办事员，从“会唠”到“会办”卡在哪？",
+      "t": "水滴公司沈鹏入选“2026胡润U40中国创业先锋”榜单",
       "d": "sohu.com"
     },
     {
-      "t": "别再盯着800 亿美元亏损了，Anthropic 的 AI 造 AI 已推进到2",
-      "d": "leiphone.com"
+      "t": "53亿次调用见证课堂实践：天学网AI英语教育体系助推因材施教规模化落地",
+      "d": "ifeng.com"
     },
     {
-      "t": "DeepSeek 又一开源重器！深挖 DeepInfer 究竟藏着多少技术狠活？",
-      "d": "leiphone.com"
+      "t": "谷歌发布Gemini 4 Carbon重夺大模型第一：Artificial An",
+      "d": "eet-china.com"
     },
     {
-      "t": "医疗健康产业日报(10.28) : 医疗科技新动态",
+      "t": "《2026 AI 技术演进与 2027 趋势前瞻：从 Agent 到自主智能》",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "【深度】银行的AI应用边界",
       "d": "sohu.com"
     },
     {
-      "t": "2026年中国贵金属论坛在昆明举行 AI与贵金属“双向奔赴”成焦点",
-      "d": "chinanews.com.cn"
+      "t": "四川首个可商用矿产勘查垂域大模型发布- 中国日报网",
+      "d": "chinadaily.com.cn"
     },
     {
-      "t": "立而不破 启云方推动AI成为产业生产力",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "27岁清华教授创业押注RSI，首款模型开源！3个月融了近4亿",
-      "d": "zhidx.com"
+      "t": "深兰科技联合华为，发布全球首款大模型智能体工作手机 Wowoker",
+      "d": "time-weekly.com"
     }
   ]
 }

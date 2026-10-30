@@ -1,53 +1,53 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 58,
-    "trusted": 21,
+    "raw_dedup_junk": 50,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.cn": 5,
-      "bjd.com.cn": 3,
-      "sina.com.cn": 2,
-      "360.com": 2,
-      "rediandf.com": 2,
-      "17173.com": 2,
+      "rediandf.com": 4,
+      "sina.cn": 3,
+      "china.com": 3,
+      "zhengguannews.cn": 2,
+      "bjd.com.cn": 2,
+      "2500sz.com": 2,
       "hangzhou.com.cn": 2,
-      "pingwest.com": 1,
-      "zol.com.cn": 1,
-      "beijing.gov.cn": 1
+      "aboluowang.com": 1,
+      "jkn.co.kr": 1,
+      "sfccn.com": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 4,
-    "relaxed_72h": 17,
+    "fresh1_24h": 15,
+    "page_fresh": 14,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "国产影片出海进入新阶段 科技赋能拓展传播新空间",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "“中国联合展台”闪耀非洲电视节--国际",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "APEC“中国年” 人文湾区添华章",
+      "t": "上映多时票房只有18万，李连杰电影惨败，被零零后演员新片打懵了",
       "d": "sohu.com"
     },
     {
-      "t": "李劼人经典之作《死水微澜》出版90周年 即将迎来全新舞台剧演绎",
+      "t": "《给阿嬷的情书》11月将在意大利公映！米兰等多地影院排片",
       "d": "sohu.com"
     },
     {
-      "t": "5款职业赛事电竞显示器推荐 职业选手都在用的选择",
-      "d": "qq.com"
+      "t": "《心迷宫之三重罪》定档11.7 犯罪悬疑佳作改编",
+      "d": "cri.cn"
     },
     {
-      "t": "已故演员高秀敏和张少华被印上祭祀用品，当地民政局介入核查",
+      "t": "中式民俗悬疑力作《阴阳路惊魂》定档10月30日全国上映 解锁东方国风惊悚新体验",
       "d": "ifeng.com"
     },
     {
-      "t": "《尚公主》海外同步播出 多平台登顶热播榜",
+      "t": "电影《手捧繁星》定档11月6日 一段重获勇气的旅程",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "电影《勇敢女孩合唱团》热映 主创多城路演传递大山歌声",
+      "d": "cri.cn"
+    },
+    {
+      "t": "蒋非默艺术展用现代视觉语言诠释传统禅宗文化",
       "d": "chinanews.com.cn"
     }
   ]

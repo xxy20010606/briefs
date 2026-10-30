@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 15,
+  "total": 29,
   "samples": [
     {
-      "title": "腾讯推出跨应用AI办公平台 在激烈竞争中寻求新增长点",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zRTlaMWtwOU9kYnNudjdPbnItckpReURDX0QzRWJNWHF1alp1dTNRb2dpdHdjekhuNURfeldkZUF6Ul9maE14cl9",
-      "source_url": "https://www.zaochenbao.com",
-      "source": "早晨报"
+      "title": "调查：企业AI应用已普及，但实现转型级成效者仅16%",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRVBmdjVSaGpfNUczX1FtYS01RHZmUGs4T0paeGIyZDFaZEhXaWpzZDZBbmFnMF92aFF3SlVFRTlFVTdlS2NHcGh",
+      "source_url": "https://www.digitaltoday.co.kr",
+      "source": "디지털투데이"
     },
     {
-      "title": "把AI用成“数字员工”！静安这场实操讲堂干货满满_上观新闻",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WZnVjZllDdlplNGVlQmFKQjVseDgxTHBZZEZWYndmblZ3TW92MEwwNUtQcDJoNFdoQlVsekFENVdxX0tmRFdvY3B",
-      "source_url": "https://www.jfdaily.com",
-      "source": "上观新闻"
+      "title": "小红书全资拿下圆周旅迹，AI行程工具能补全种草闭环吗？",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSEloOFlqOGlSM3ZOR1pucGhrRDVWNXZXcU5DQWMzUlIxbDd5V1dtb0lNaXhMOWpTelFUTzFaaWdUX0dTSkJDTFV",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "Anthropic推出新工具帮企业看清AI投入产出-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fMlNyNnI5eVhkNXZmaFc2dUY4V2habmJ1YWsxWDhzdVpUcmRsYWV5bTlXejVwT3lBc2NEMVd0TGsxaWNmTWFzOFh",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "沃尔玛覆盖210万员工推AI培训 一线员工工具使用信心达84%",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOQUc1ZEZGVmdLSTBVV3Z0ZnhMOU05SW1jbVBEa0hzZFBjald2MUhNb08tWWlKTUE1RGpRUVNrLWpsZmhGLTFWaWZ",
+      "source_url": "https://www.ebrun.com",
+      "source": "亿邦动力网"
     },
     {
-      "title": "Granola加入语音听写，语音AI应用正趋向一体化工具",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaTFjeTQwb0V2U2VmNFZ3SEJZY2RENDlUcTNvZlRkcmxOSzdKSkNYM3R6dXRKSkRzUEZTUFUwMHBDZ2w1ZmZWNWV",
-      "source_url": "https://mezha.net",
-      "source": "Mezha.net"
+      "title": "从佣金宝到AI友好 国金证券与腾讯十二年合作开启崭新序章",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LcF8zckVkalhrc2lPdUZ4Q3FrQ1pVbDVHbGx0X2p0WUx1QV9HV2Vsd0FiSFJCdW96VkhsZEItek1YOTZkQi1zNnh",
+      "source_url": "https://www.nbd.com.cn",
+      "source": "每日经济新闻"
     },
     {
-      "title": "端侧AI 选型别踩坑！2026 年国内端侧AI 芯片企业推荐与选购指南_行业新闻",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UVGI0OWlYTVFDQ0I3YVU3SVFTUTY4UXEwR1F0cVhRMTZqQUxHNEpRSzJWaWhYQW9WSkNYcUFNM1RQM0hmalFBLUw",
-      "source_url": "https://finance.stockstar.com",
-      "source": "证券之星"
+      "title": "基于AI本地化应用的金融智能体开发",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXEzMXpHZzlSOFAxbWdvcWRka2pBQXZMSW9MUUc3YUtHN1ljTVJCS3p0WkNwVTA0NUg5YUZiWlY0Z2pmQ2FiY2h",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "不会用AI做营销？10月31日这场培训，手把手教你搭AI工作流",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6YUtmLVZzMzdFQm9rdTVIaWdqeEhDYktyY29aNGNLZlRjc29IWTlTTTh4ZVR6QUs0RjM4VUcwZmtJQ0hFM2dnWUh",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "腾讯Marvis上线 Coding 管家 远程调用桌面AI工具",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Fb2haN0twbFBManBRb2U1dDhuWmlqOFdnZy1PQngyMGJrcDBDVkdRZjE3LVdvdmhWNV9aTk1LMkVSaVBfS1ZuaTF",
+      "source_url": "https://news.mydrivers.com",
+      "source": "驱动之家"
     }
   ]
 }

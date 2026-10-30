@@ -1,45 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 29,
+    "raw_dedup_junk": 44,
     "trusted": 8,
     "non_trusted_top": {
-      "autohome.com.cn": 6,
-      "ne21.com": 4,
-      "sina.com.cn": 4,
+      "ne21.com": 9,
+      "autohome.com.cn": 8,
+      "sina.com.cn": 3,
       "in-en.com": 2,
-      "sfccn.com": 1,
-      "digitaltoday.co.kr": 1,
-      "idnfinancials.com": 1,
-      "wsj.com": 1,
-      "paultan.org": 1
+      "itdcw.com": 2,
+      "sina.cn": 2,
+      "prnasia.com": 1,
+      "gscn.com.cn": 1,
+      "voi.id": 1,
+      "ichaoqi.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 1,
-    "relaxed_72h": 4,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 8,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
+    {
+      "t": "比亚迪大唐、小米澎程N90新人上位，SUV尺寸越大越好卖？",
+      "d": "sohu.com"
+    },
+    {
+      "t": "从“跑马圈地”到“拼内功”：万座快充站到底在算哪笔账？",
+      "d": "gasgoo.com"
+    },
+    {
+      "t": "撤销内燃机淘汰禁令的德国，在给“造血机器” 续命",
+      "d": "gasgoo.com"
+    },
+    {
+      "t": "福特CEO法利叫板比亚迪：新技术令电机等部件效率“高出 30%”",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "北京将构建“一轴驱动、五区支撑”绿色能源产业空间布局",
+      "d": "sohu.com"
+    },
     {
       "t": "宁德时代钠电出海再下一城：牵手德国INTILION，剑指3GWh",
       "d": "eet-china.com"
     },
     {
-      "t": "光伏跨界玩家，4年不到子公司拟申请破产！上海艾录2023年掏3650万元合作入行",
-      "d": "nbd.com.cn"
-    },
-    {
-      "t": "宁德时代固态电池研发获进展，20Ah电芯剑指500Wh/kg",
-      "d": "sohu.com"
-    },
-    {
-      "t": "绿色产能遍地生长，世界仍在和1.5℃赛跑",
-      "d": "qq.com"
-    },
-    {
-      "t": "国轩高科前三季度营收超去年全年，储能出海与欧洲布局提速",
-      "d": "21jingji.com"
+      "t": "固态电池中试产能集中落地 产业发展进入关键窗口期",
+      "d": "cls.cn"
     }
   ]
 }

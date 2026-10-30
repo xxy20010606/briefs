@@ -1,53 +1,53 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 44,
-    "trusted": 22,
+    "raw_dedup_junk": 43,
+    "trusted": 24,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "smm.cn": 1,
-      "guandian.cn": 1,
-      "stockstar.com": 1,
-      "jin10.com": 1,
-      "moomoo.com": 1,
-      "kuai.media": 1,
-      "cjn.cn": 1,
-      "indexbox.io": 1,
-      "ctdsb.net": 1
+      "sina.com.cn": 5,
+      "sina.cn": 2,
+      "stockstar.com": 2,
+      "caiwennews.com": 1,
+      "china.com": 1,
+      "rfidchina.org": 1,
+      "abnotebook.com": 1,
+      "tiangong.edu.cn": 1,
+      "eastmoney.com": 1,
+      "leidacj.com": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 9,
-    "relaxed_72h": 10,
+    "fresh1_24h": 22,
+    "page_fresh": 16,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "接连被收购，这项电源技术被模拟巨头盯上了",
+      "t": "星思半导体亮相2026卫星应用大会，携手思朗科技展示星地融合技术成果",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "演讲报告征集！【空白掩模与合成石英材料技术论坛2026】将于12月3-4日在苏州",
       "d": "eet-china.com"
     },
     {
-      "t": "美股收盘：三大指数齐跌，纳指大跌1.38%；存储芯片多数下挫，闪迪跌超5%，美光",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "大湾区3D IC先进封装创新中心发起，聚焦“两个协同”刚需",
+      "t": "总投资10亿元，韶光芯材FPD光掩模基板项目预计12月投产",
       "d": "eet-china.com"
     },
     {
-      "t": "700 TOPS参数！新芯航途发布大模型智驾芯片，台积电等产业伙伴到场",
-      "d": "cls.cn"
+      "t": "量子材料机理发现平台、AI药物研发工作站、二维半导体芯片……10个前沿项目在交易",
+      "d": "sohu.com"
     },
     {
-      "t": "海外存储巨头业绩大超预期，半导体、芯片板块早盘反弹，半导体设备ETF易方达（15",
-      "d": "cls.cn"
-    },
-    {
-      "t": "美股半导体巨头重挫12%，芯片股深夜下挫，英特尔、美光、闪迪跌超3%，医药龙头大",
+      "t": "佰维存储持股公司在武汉成立半导体公司",
       "d": "10jqka.com.cn"
     },
     {
-      "t": "赴京绘 “芯” 蓝图！市半导体产业办在京佛人才发展会议开展产业推介",
+      "t": "我科研团队实现红外感光材料在芯片表面直接生“长”",
+      "d": "stdaily.com"
+    },
+    {
+      "t": "本土厂商发力，半导体硅片变局初现？",
       "d": "sohu.com"
     }
   ]

@@ -1,40 +1,40 @@
 {
   "type": "newenergy",
-  "total": 29,
+  "total": 44,
   "samples": [
     {
-      "title": "展会直击 | 正信光电亮相 Nigeria Energy 2026，携综合能源解决方案深化本地合作",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DSzNjdFkwYUFBcURxbnZLbHlNR3BRbENNZ1ZVMWozdXY2YnlaSXNxdHJMVXJlTVV4bzZ0QlN6d1FIX1JxaUNvVFI",
-      "source_url": "https://www.ne21.com",
-      "source": "世纪新能源网"
-    },
-    {
-      "title": "南方财经全媒体集团",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3b1VZQ3RqVmh3Um5Jbk9Wam1aTHZoYnVUZUhNR3ZHWkRSbEFValhhU1c5Z2hTUTNITzRKY3lQOGYwcHdKNmdpX3d",
-      "source_url": "https://www.sfccn.com",
-      "source": "南方财经"
-    },
-    {
-      "title": "宁夏中卫市废止100MW光伏项目",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3bnd5cHRIR3Q5NGIteEMxZnlSNnJLMEFYY0tLNERkSWFaNHRJdVEya2pEV0ZfWDJhQWlhWURCejliMzZ1MFBNZG4",
-      "source_url": "https://newenergy.in-en.com",
-      "source": "国际新能源网"
-    },
-    {
-      "title": "上市公司跨界光伏，4年不到子公司拟申请破产！2023年掏3650万元合作入行，今子公司已负债超681",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVFRnOXBYUC1GOVNCaTQzWlI4SnRfbXBTTzVYWE5vY0c2alNTLUVaVGdDSHgzMW43R3JuUGQyUE5VNlJxVmJWVC1",
+      "title": "河南省级示范光储充一体化重卡充换电项目投运",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WUlRBWHBUckFHZURnc2hYSlh6clNqZ3VqMkg1YjJ2YjhIRTZQLWhCSWpZNWt3OFhBOVYyUXRBRTF2dlV2RFhtS25",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "光伏跨界玩家，4年不到子公司拟申请破产！上海艾录2023年掏3650万元合作入行，今子公司已负债超6",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5eGRjb3VJR1pneEdmd19oMTNXTXIweVBvQkZ4ZzRNVWFfV0h1VDYzdUw0R1hpM1V0dVpmQ2RUSWJhckFSdjhSYy1",
-      "source_url": "https://www.nbd.com.cn",
-      "source": "每日经济新闻"
+      "title": "昱能科技亮相澳大利亚&哥伦比亚双展， 以全场景光储方案夯实全球化版图",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCeThNRlhCYkhVbVVqZTZjWkJMUVNzS2kxM2dxOW95cmRpbk5NdENqU3c1Z09GbnZzVXJwWFNYSWNTaWlTVlRJSmJ",
+      "source_url": "https://www.prnasia.com",
+      "source": "美通社"
     },
     {
-      "title": "日本鹿儿岛实证：晶科飞虎3弱光优势凸显，对比N型BC增益超7%",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qeXQ1N0dlbVY5VHNwSy1Ub1M3WE11UThzcVkwVFNFRkZETHFrV2VBM096eFBuREtkY0tlakE5MUE2bkhsQUphdlN",
+      "title": "百公里氢耗100g！20000台氢能共享两轮车落地长沙！",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BY0dXa0J3eGV4Y19LWE1sbGVFMmg3MWdaandwNE5kaDFWN284YThJMTNwTEtPUE9EMzFCclR6NDVQX2hiMTg1U0d",
+      "source_url": "https://www.ne21.com",
+      "source": "世纪新能源网"
+    },
+    {
+      "title": "从芯到网 赋能澳洲｜海辰储能携8h长时储能一体化方案亮相 All Energy Australia ",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iTDFTUDVQYUU3MVlOeWtLQ3VQWGlRVm1qYTNnaXpxd0hnQjZURmFidXVCNDlMcGpHT0FhdEUxOGt5TzgtV0VXLXF",
+      "source_url": "https://www.ne21.com",
+      "source": "世纪新能源网"
+    },
+    {
+      "title": "派能科技发布新一代家庭储能解决方案Force NEX",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51TWRUeWQtSnNvQ1ZTQkR4VXhzUEhHSzZzeFNTYzh0Ym44bnlfMnBUT3o4OWFXMnpMVHkydF9zTGtQM2dQeS1uT2N",
+      "source_url": "https://www.ne21.com",
+      "source": "世纪新能源网"
+    },
+    {
+      "title": "华致巡礼 | 新材料企业背后的新账本：不再为“用电”反复开会",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SLVVvdndlYmxubEpDc2ZTbzdtSEU1bVdaYXdJRFhNRlEtazdrYjJoR2hGSzBkbHA5eUZIYW5DTjVycDRVUTBNVFB",
       "source_url": "https://www.ne21.com",
       "source": "世纪新能源网"
     }
