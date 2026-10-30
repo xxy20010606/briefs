@@ -1,53 +1,53 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 46,
-    "trusted": 11,
+    "raw_dedup_junk": 58,
+    "trusted": 21,
     "non_trusted_top": {
-      "sina.cn": 3,
-      "stockstar.com": 2,
-      "weibo.com": 2,
-      "china.com": 2,
-      "hupu.com": 2,
+      "sina.cn": 5,
+      "bjd.com.cn": 3,
       "sina.com.cn": 2,
-      "cnhubei.com": 2,
-      "foro3d.com": 1,
-      "sortiraparis.com": 1,
-      "chinadaily.com.cn": 1
+      "360.com": 2,
+      "rediandf.com": 2,
+      "17173.com": 2,
+      "hangzhou.com.cn": 2,
+      "pingwest.com": 1,
+      "zol.com.cn": 1,
+      "beijing.gov.cn": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
+    "fresh1_24h": 17,
+    "page_fresh": 4,
+    "relaxed_72h": 17,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "首部AI院线长片六天票房137万，博纳影业还要交几部学费？",
+      "t": "国产影片出海进入新阶段 科技赋能拓展传播新空间",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "“中国联合展台”闪耀非洲电视节--国际",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "APEC“中国年” 人文湾区添华章",
       "d": "sohu.com"
     },
     {
-      "t": "掀红色视听热潮四川体系化推出长征主题作品",
+      "t": "李劼人经典之作《死水微澜》出版90周年 即将迎来全新舞台剧演绎",
       "d": "sohu.com"
     },
     {
-      "t": "离婚这几年，马伊琍可太过瘾了",
-      "d": "163.com"
+      "t": "5款职业赛事电竞显示器推荐 职业选手都在用的选择",
+      "d": "qq.com"
     },
     {
-      "t": "2026年7月至9月，338部国产微短剧、网络动画片获得发行许可-中新网",
-      "d": "chinanews.com.cn"
+      "t": "已故演员高秀敏和张少华被印上祭祀用品，当地民政局介入核查",
+      "d": "ifeng.com"
     },
     {
-      "t": "生态兴·国剧强——2026电视剧（网络剧）论坛即将启幕",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "2026紫金文化艺术节闭幕 无锡多部作品斩获荣誉",
-      "d": "news.cn"
-    },
-    {
-      "t": "莫斯科“天鹅”来到厦门",
+      "t": "《尚公主》海外同步播出 多平台登顶热播榜",
       "d": "chinanews.com.cn"
     }
   ]

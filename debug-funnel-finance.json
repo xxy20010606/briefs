@@ -1,38 +1,46 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 37,
-    "trusted": 9,
+    "raw_dedup_junk": 40,
+    "trusted": 8,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "moomoo.com": 6,
-      "china.com": 2,
-      "jin10.com": 2,
-      "sina.cn": 2,
-      "tmgm.com": 2,
+      "sina.com.cn": 10,
+      "moomoo.com": 8,
+      "sinchew.com.my": 2,
+      "cnfin.com": 2,
+      "stockstar.com": 2,
       "futunn.com": 2,
-      "cnfin.com": 1,
-      "smm.cn": 1,
-      "jrj.com.cn": 1
+      "sina.cn": 1,
+      "jin10.com": 1,
+      "zaochenbao.com": 1,
+      "on.cc": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 3,
-    "relaxed_72h": 0,
-    "final": 3,
+    "fresh1_24h": 5,
+    "page_fresh": 1,
+    "relaxed_72h": 4,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "预计美联储12月会议将再次加息25基点｜券商晨会",
-      "d": "163.com"
+      "t": "10.30股市早8点丨险资三季度利润骤降……_证券要闻",
+      "d": "cnfol.com"
     },
     {
-      "t": "贝森特称美联储继续加息未必是错误，高盛却预计本轮紧缩幅度有限",
+      "t": "途虎-W(09690)10月29日耗资约598.5万港元回购51.75万股_股市",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "破发股*ST仕净跌14.11% IPO国联民生保荐两募资共6.2亿_证券要闻",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "破发股*ST康乐跌6.01% 2023年上市即巅峰中信证券保荐_证券要闻",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "美联储利率调控节奏变化 面临多重难题",
       "d": "sohu.com"
-    },
-    {
-      "t": "恒生科技指数下跌1.98%，保险板块表现强势｜港股午评",
-      "d": "21jingji.com"
     }
   ]
 }

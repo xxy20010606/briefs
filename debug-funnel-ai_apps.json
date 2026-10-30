@@ -1,54 +1,34 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 42,
-    "trusted": 15,
+    "raw_dedup_junk": 15,
+    "trusted": 2,
     "non_trusted_top": {
-      "ebrun.com": 4,
-      "sina.com.cn": 3,
-      "digitaltoday.co.kr": 3,
-      "unite.ai": 3,
-      "globalpod.cn": 2,
-      "zhiding.cn": 1,
-      "wenxuecity.com": 1,
+      "sina.com.cn": 2,
+      "mydrivers.com": 2,
+      "zaochenbao.com": 1,
       "jfdaily.com": 1,
-      "hunantoday.cn": 1,
-      "ichaoqi.com": 1
+      "zhiding.cn": 1,
+      "mezha.net": 1,
+      "stockstar.com": 1,
+      "ichaoqi.com": 1,
+      "donews.com": 1,
+      "ac.cn": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 14,
+    "fresh1_24h": 2,
+    "page_fresh": 1,
     "relaxed_72h": 1,
-    "final": 7,
-    "cap": "同域≤3条"
+    "final": 2,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "为Agent而生，腾讯网盘发布！打通办公套件，支持跨Agent调用",
+      "t": "王腾发布今日宜休两款旗舰睡眠产品，以AI软硬协同构建睡眠科技生态",
       "d": "sohu.com"
     },
     {
-      "t": "腾讯发布Buddy One等AI新品，汤道生：AI应用从个人提效拓展至企业协同与",
+      "t": "AI办公不止“三国杀”：百度掀桌子，腾讯、阿里、字节排座次",
       "d": "sohu.com"
-    },
-    {
-      "t": "AI提效流于表面，企业数智转型如何真正落地？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "【每日瞰AI】Google发布Gemini 4 Carbon，超越Opus 5.",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "腾讯的“回马枪”：不推独立App，微信悄悄反击字节",
-      "d": "36kr.com"
-    },
-    {
-      "t": "券商晨会精华：AI+办公打开下一个万亿级市场",
-      "d": "cls.cn"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 63,
-    "trusted": 14,
+    "raw_dedup_junk": 66,
+    "trusted": 21,
     "non_trusted_top": {
-      "sina.com.cn": 10,
-      "eastmoney.com": 5,
-      "csdn.net": 4,
+      "sina.com.cn": 11,
+      "orcarouter.ai": 6,
       "techwalker.com": 3,
-      "china.com": 3,
-      "zhiding.cn": 2,
-      "unite.ai": 2,
-      "blockweeks.com": 2,
-      "mydrivers.com": 1,
-      "com.sg": 1
+      "icloudnews.net": 3,
+      "guandian.cn": 2,
+      "stockstar.com": 2,
+      "jn001.com": 1,
+      "pasqualepillitteri.it": 1,
+      "storagereview.com": 1,
+      "hebtv.com": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 14,
-    "relaxed_72h": 0,
+    "fresh1_24h": 18,
+    "page_fresh": 4,
+    "relaxed_72h": 14,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "既能快问快答，又会深度分析，全国首个“海商法大模型”衍生出6个专门智能体",
+      "t": "深读｜AI办事员，从“会唠”到“会办”卡在哪？",
       "d": "sohu.com"
     },
     {
-      "t": "百度研发“世界模型”，瞄准自动驾驶",
-      "d": "36kr.com"
+      "t": "别再盯着800 亿美元亏损了，Anthropic 的 AI 造 AI 已推进到2",
+      "d": "leiphone.com"
     },
     {
-      "t": "维基百科的WikiProject AI Cleanup 对抗大模型生成垃圾内容",
-      "d": "eet-china.com"
+      "t": "DeepSeek 又一开源重器！深挖 DeepInfer 究竟藏着多少技术狠活？",
+      "d": "leiphone.com"
     },
     {
-      "t": "浙江加速推进人工智能OPC创新发展，十条举措支持杭州、宁波、温州、嘉兴先行先试",
+      "t": "医疗健康产业日报(10.28) : 医疗科技新动态",
       "d": "sohu.com"
     },
     {
-      "t": "7亿用户之后：生成式人工智能普及过半 应用治理成为重点",
-      "d": "21jingji.com"
+      "t": "2026年中国贵金属论坛在昆明举行 AI与贵金属“双向奔赴”成焦点",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "【每日瞰AI】Google发布Gemini 4 Carbon，超越Opus 5.",
-      "d": "eet-china.com"
+      "t": "立而不破 启云方推动AI成为产业生产力",
+      "d": "xinhuanet.com"
     },
     {
-      "t": "Seeds | 押注大模型“递归自我改进”，超进化完成数亿元天使轮融资",
-      "d": "gasgoo.com"
+      "t": "27岁清华教授创业押注RSI，首款模型开源！3个月融了近4亿",
+      "d": "zhidx.com"
     }
   ]
 }

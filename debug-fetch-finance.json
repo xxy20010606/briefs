@@ -1,40 +1,40 @@
 {
   "type": "finance",
-  "total": 37,
+  "total": 40,
   "samples": [
     {
-      "title": "A股三季报，谁在领跑？",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3UGRGT2xxeFZobV9XTTEtNnNCMnRZbC1mX3dYeWpaVUIxMW4xekloT3VxZWNDZmJuZkU2VE5xRk14ZzNpWVdtYlF",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "10.30股市早8点丨险资三季度利润骤降……_证券要闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FVkR3Zld2NWMyV0d3ZzZ6M3hXWkRBVVF2dWNmVjN3OXRIM1JpVUM5aFl4c3lPTWkyS2NCUENnOUJSNDZ4dlFyeW5",
+      "source_url": "http://news.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "股市午报：A股近4700只个股飘绿，三大指数集体下跌，创业板指跌超3%！半导体下跌，银行、白酒上涨",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yZVdhVDhCX0w1eEFQSnZjUmR1TGxHYjFWUzBJOW9Yb0VmeVBzZlpKN0VsQWk2emsxdTF5S1JMYV9vcW52UVEzU29",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "股市 | 星洲网 Sin Chew Daily Malaysia Latest News and H",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9taDE2UDBmRU1tMUFYZVRZTGcyTHMyR21VdERoWllBb1JFMFZzVVpNUndnTlhrY25TWGxJNFdGdFQ3MFRBUkZmUER",
+      "source_url": "https://www.sinchew.com.my",
+      "source": "Sin Chew Daily"
     },
     {
-      "title": "【环球财经】巴西股市连续第三个交易日下跌 雷亚尔小幅回升",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wa3R2ZklGeFVsWG9MUzUwQ3Z4UklGXzFhRmRJTWF3NnJDZ1JXbnVaWldoeF9XNFFDbkhCb3NheEFwaDNJSTZIeVJ",
+      "title": "【环球财经】权重科技股拖累 纽约股市三大股指29日均下跌",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Jb2xkNV9Lckc1VWJnNGdrNEVZUE1WdlR6N1kwT1JhQ203cksxRUhyWXZRNnNCYldDSWVRMEQwVlVVZHoyYmNjUzQ",
       "source_url": "https://www.cnfin.com",
       "source": "中国金融信息网"
     },
     {
-      "title": "日韩股市，快速拉升！",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01bFd1cV9jWWNSaWhhdHZxTmdqMmZOSU50TExiRTJkM2ZfRG9Xb0FfNkFzRHQ0a0JFSlQtSk0zMVhNbEk4QUpVbjQ",
+      "title": "四大证券报头版头条内容精华摘要_2026年10月30日_财经新闻",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSnR3RE5RV0c3NHpVcU82SGN6NkxHMVhDUmljNEJHYzJDaUZnQ1pmQ1NOcVZKZGlkTS1zcWpxdGRpNExQSTc5bnp",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "日韩股市拉升，SK海力士涨近4%，爱德万测试大涨5%",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5S0loQ21la1dyVG1vZ3J2MWEtYjM0dmlycVRGWlNwbVF5bWNtRGRWNG9QSW1NZzVyNGdxbVV4SzFDZFY4d2VPMEZ",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "【环球财经】伦敦股市29日上涨",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vcklQdlNuYWhsYVNUTXlLUDZNTElsTHJseWM3cktPVFJRaFlCR2xUc1FEclhReHJDd2t1R3puVUJnU3hjeHlUVlZ",
+      "source_url": "https://www.cnfin.com",
+      "source": "中国金融信息网"
     },
     {
-      "title": "操盘必读：影响股市利好或利空消息_2026年10月29日_财经新闻",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWVEVEVOclY0TDJRWDFXSjJNQXRtcmNqcV9KMHpVcDluWEZDdXZQbE9ZMm1HWHZUYVRLSWIzZmVqMG4zY1Z0TEl",
+      "title": "纽约股市三大股指29日下跌",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TdUp0dVRIY2U4RnVMSUh4M2dKWFBoNF9RNkRWc1RxRzJ3amhnNFc5TENJeTVRQ1p1dG5hUjBUZWpfYXlzZ3Bfc3h",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     }

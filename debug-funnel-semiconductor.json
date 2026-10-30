@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 40,
+    "raw_dedup_junk": 44,
     "trusted": 22,
     "non_trusted_top": {
-      "chosun.com": 2,
-      "guandian.cn": 2,
-      "futunn.com": 2,
-      "sina.com.cn": 1,
-      "investing.com": 1,
-      "ajudaily.com": 1,
+      "sina.com.cn": 8,
+      "smm.cn": 1,
+      "guandian.cn": 1,
       "stockstar.com": 1,
-      "enanyang.my": 1,
-      "mk.co.kr": 1,
-      "caiwennews.com": 1
+      "jin10.com": 1,
+      "moomoo.com": 1,
+      "kuai.media": 1,
+      "cjn.cn": 1,
+      "indexbox.io": 1,
+      "ctdsb.net": 1
     },
-    "fresh1_24h": 21,
-    "page_fresh": 17,
-    "relaxed_72h": 0,
+    "fresh1_24h": 20,
+    "page_fresh": 9,
+    "relaxed_72h": 10,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "芯片如何走进脑机接口与智慧医疗？第五届南渡江论坛11月海口见！",
+      "t": "接连被收购，这项电源技术被模拟巨头盯上了",
       "d": "eet-china.com"
     },
     {
-      "t": "“疯狂的”TI汽车芯片，到底什么情况？",
+      "t": "美股收盘：三大指数齐跌，纳指大跌1.38%；存储芯片多数下挫，闪迪跌超5%，美光",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "大湾区3D IC先进封装创新中心发起，聚焦“两个协同”刚需",
       "d": "eet-china.com"
     },
     {
-      "t": "芯片需求回暖，意法半导体预计第四季度营收将增长",
-      "d": "sohu.com"
+      "t": "700 TOPS参数！新芯航途发布大模型智驾芯片，台积电等产业伙伴到场",
+      "d": "cls.cn"
     },
     {
-      "t": "日本芯片设备9月销售额首破6000亿日元 创单月历史新高",
-      "d": "laoyaoba.com"
+      "t": "海外存储巨头业绩大超预期，半导体、芯片板块早盘反弹，半导体设备ETF易方达（15",
+      "d": "cls.cn"
     },
     {
-      "t": "芯片板块回调，芯片ETF国泰（512760）标的指数回调超3%，连续2日获资金净",
-      "d": "163.com"
-    },
-    {
-      "t": "锚定算力半导体全链条，锐科激光构建完整国产光源产品矩阵",
+      "t": "美股半导体巨头重挫12%，芯片股深夜下挫，英特尔、美光、闪迪跌超3%，医药龙头大",
       "d": "10jqka.com.cn"
     },
     {
-      "t": "给AI芯片“退烧”：国内首款12英寸多晶碳化硅衬底在长沙问世",
-      "d": "ifeng.com"
+      "t": "赴京绘 “芯” 蓝图！市半导体产业办在京佛人才发展会议开展产业推介",
+      "d": "sohu.com"
     }
   ]
 }

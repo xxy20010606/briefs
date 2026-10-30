@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 42,
+  "total": 15,
   "samples": [
     {
-      "title": "为Agent而生，腾讯网盘发布！打通办公套件，支持跨Agent调用",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnVuc3dRUGJNaElRd1Z5T2VTQ25oZmRaMW9EejRTVkkzUWtuSTRLRUktclJ5UFE5aXV2QzZUMVdPQkVMOHFGRTJ",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "腾讯推出跨应用AI办公平台 在激烈竞争中寻求新增长点",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zRTlaMWtwOU9kYnNudjdPbnItckpReURDX0QzRWJNWHF1alp1dTNRb2dpdHdjekhuNURfeldkZUF6Ul9maE14cl9",
+      "source_url": "https://www.zaochenbao.com",
+      "source": "早晨报"
     },
     {
-      "title": "中国电信“AI大讲堂”走进甘肃高校 多款AI权益产品赋能学子智慧成长",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PaEp3NHBfNkluYy1hR3BHSm5OdV9NN3Y5ekNMQk5BN2stSXNrdHh4YnRCd2ZJbnk2SHdXamdBd3pWMHF3QXd2NmZ",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "把AI用成“数字员工”！静安这场实操讲堂干货满满_上观新闻",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WZnVjZllDdlplNGVlQmFKQjVseDgxTHBZZEZWYndmblZ3TW92MEwwNUtQcDJoNFdoQlVsekFENVdxX0tmRFdvY3B",
+      "source_url": "https://www.jfdaily.com",
+      "source": "上观新闻"
     },
     {
-      "title": "Apple创作者工作室上线AI助手与MotionVFX工具-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vRXV0S1FlVF91a2JYcWVmcDZrcERsUk9ja1lLS1llbFpUM2psaUVWYUJFQjZRc2gtVU5hYkM2VzNXMW1UbGFFaWl",
+      "title": "Anthropic推出新工具帮企业看清AI投入产出-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fMlNyNnI5eVhkNXZmaFc2dUY4V2habmJ1YWsxWDhzdVpUcmRsYWV5bTlXejVwT3lBc2NEMVd0TGsxaWNmTWFzOFh",
       "source_url": "https://www.zhiding.cn",
       "source": "至顶网"
     },
     {
-      "title": "腾讯发布Buddy One等AI新品，汤道生：AI应用从个人提效拓展至企业协同与决策运营",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPakZldzZfRU9MZXhJTGItR1BoU1ZBVW9oZDdKU2dDMGxhWUFTY243OXZEYlkxOFlvQ0pQbVI1ME80dnRWd1hBSWt",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "Granola加入语音听写，语音AI应用正趋向一体化工具",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaTFjeTQwb0V2U2VmNFZ3SEJZY2RENDlUcTNvZlRkcmxOSzdKSkNYM3R6dXRKSkRzUEZTUFUwMHBDZ2w1ZmZWNWV",
+      "source_url": "https://mezha.net",
+      "source": "Mezha.net"
     },
     {
-      "title": "AI提效流于表面，企业数智转型如何真正落地？",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdE12TnVPbldGRnhMT0tyR1lFRjFlRjlYVHlSZ2hfeE1vMzZlbWZVb24ySmp2Vi13YlhfZnFyeHM0eld5Njc1NF9",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "端侧AI 选型别踩坑！2026 年国内端侧AI 芯片企业推荐与选购指南_行业新闻",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UVGI0OWlYTVFDQ0I3YVU3SVFTUTY4UXEwR1F0cVhRMTZqQUxHNEpRSzJWaWhYQW9WSkNYcUFNM1RQM0hmalFBLUw",
+      "source_url": "https://finance.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "不再喊“全网最低价”口号，今年双十一靠什么留住消费者？",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1JiSEtBLTEzQVRTbVNlMFh5Mlh0Q2I0dGJ2N1cwcTd5UU5PcWVPLUlrS3otdUdacFdIUGpJVVphVFRvWmc0TFZ",
-      "source_url": "https://www.sohu.com",
-      "source": "搜狐网"
+      "title": "不会用AI做营销？10月31日这场培训，手把手教你搭AI工作流",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6YUtmLVZzMzdFQm9rdTVIaWdqeEhDYktyY29aNGNLZlRjc29IWTlTTTh4ZVR6QUs0RjM4VUcwZmtJQ0hFM2dnWUh",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     }
   ]
 }
