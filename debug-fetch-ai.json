@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 40,
+  "total": 34,
   "samples": [
     {
-      "title": "水滴公司沈鹏入选“2026胡润U40中国创业先锋”榜单",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclBqamRVcWdWWlBzclJvRnlwY3Zub0lMUW42Q3lydXVKY1RKbnRmOXFLT1Y1c3hNX3dMNzRXZWstOWdpVXJqWnB",
+      "title": "可免费生成粤语歌，香港自研AI助手“港话通”推出AI音乐功能",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZi1fQUc4VkZWUFpYQzN1QTZiWWtpeWluRUhfNjd4aExPaTdXU09oQmZxTnBTTjhWOVFSalMxNnNZOHZERmF0eDN",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "秦安：微软6万人“自愿离职”不是瘦身，是AI改写分配规则的第一声警报",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGNnb2NRU1lfWnA5TEdKbjFSOXhBa3dydUxkNmZFbldfTGV4X2RHenhkdVZpeVJHczM5c25zdHdWTV9IWDdTQTU",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "天鹜科技与瑞孚迪达成战略合作，共建AI for Science创新生态",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yX3Jaa0dSaVRIUkJPM0lsSXBTQjFKNFUwdUQxdm55SUt0YmUzZWd0VDgwakk2RWx6YTNDSXdjWC15cUhUeXlYNFl",
-      "source_url": "https://tech.china.com",
-      "source": "中华网"
+      "title": "顶尖科学家在沪热议：AI赋能科研，但也要小心“用AI的危险”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40QmcxUGtWNmJtdnQwbGdRNmgweEFKYVZDN3JzWHV1aDBRTHV2R2NPbjhZQWd5ZDNUX2wyNlFUX240blBEWkZicUN",
+      "source_url": "https://www.jfdaily.com.cn",
+      "source": "上观新闻"
     },
     {
-      "title": "宏杉科技亮相2026数据存储产业大会：存力筑基，共启AI新机遇",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BeW84N0IySHgzMF9jYm9JemxuZjVjZlI5SG1NU3JIbTJwb1RRbUlDMzFOclRMbVp3SF9MdDVFcUMzcGZvcDJTRC1",
-      "source_url": "https://tech.china.com",
-      "source": "中华网"
-    },
-    {
-      "title": "53亿次调用见证课堂实践：天学网AI英语教育体系助推因材施教规模化落地",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Qb1JLZHRoaUM2dmFXY1ROel83ZmxodzBaVWJ2b2hQaVVPQWpCNWpMZUFBNWFaUjIxbFRGVGd6aUt5R0laV2dsTzd",
-      "source_url": "https://hainan.ifeng.com",
+      "title": "砍掉原有机器人项目、裁撤VLA团队、押注AI智能体工作手机：深兰科技转身，“造血”仍是考题",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82aTRxT1BYRl8zSlpiVjlKN1BFT3JjdHBuY0pFN0ZvY1E0TlRfYU5zZTFDUnEyMmRhQnNMbTZpQWExUG1BSjU4WA?",
+      "source_url": "https://i.ifeng.com",
       "source": "凤凰网"
     },
     {
-      "title": "从梯度到能力：一个学生模型如何同时跟四位老师学习",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sdFQyaEJtMmwxVEJTbHpyMlVjQ25XN0JKdnU5Q05nSnhhcl9JbWptUVVyN1lqTFBlSnBBWjBnMTIxQVQwU1JaWl9",
-      "source_url": "https://www.techwalker.com",
-      "source": "科技行者"
+      "title": "打通AI落地安全链路，讯众通信-讯捷算网重磅发布“安全词元通道”",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HMGw5aDA3N1NJelpqYVd1TzNmaU04aXpvdm9hbUZScEdwVVZWLXllc1hKWUVjTGxhUjJLSC01QUpVb2o3U3dhcVJ",
+      "source_url": "https://www.bjnews.com.cn",
+      "source": "新京报"
     },
     {
-      "title": "谷歌发布Gemini 4 Carbon重夺大模型第一：Artificial Analysis智能指数",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GWnVhQUUxbEZ6ZkFqN3I3VE1nYVN5OWU3RC1meExEWlM4cTY5M1UwYk40dDJFTkkyOEdvNUZOd3RXOGloWjVDZXJ",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "8个月出货20万颗、拿下40+车型，这颗国产大模型芯片凭什么？",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80WEh6T25LOFBCOUttSHJETGdRcVYtSnFpTFZfNGxGZnZqYXg1UENJUEpna3FlNmpDOV9MZUxzTVhBWEdNZ3NSQWR",
+      "source_url": "https://www.mittrchina.com",
+      "source": "麻省理工科技评论"
     }
   ]
 }

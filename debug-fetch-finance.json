@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 37,
+  "total": 28,
   "samples": [
     {
-      "title": "A股收报：沪指跌破3600点",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jQmFKTEsxS0xTOTR2ZnZrYVlpUnkxSnVsenl1d1lqTzlUaS10elotUk5sWTBqRjZ6c0RydkxLeE55VkxhSW5oNWV",
+      "title": "日本股市，迎重大调整",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VLTBTXzJfdDdBV3EwNmZXMnNua1FCS2RRUHJXQ3E2X0dXeHdMLTJyTmloT3hTbG5kSmw5VFJ4eFNaQ2lNcFpYa01",
+      "source_url": "https://finance.ifeng.com",
+      "source": "凤凰网财经"
+    },
+    {
+      "title": "10月31日收盘：股市剧烈震荡纳指创下6月以来最差单日表现英特尔大跌29% 投资者抛售科技股",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0prVXdxTTdYYWp2SThscnVjZHAyNWREUXJKajRGWklxdXN2M2RkXzhBOTRYSFZHS2ZfZkpxczhIUmZfdGlUUVp",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "创纪录了。。全球老登股集体爆发",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbG1WQTREWGxKazdfVWxyOHN1ZUVIX2JUZWlIUkE2cDZhcnJINVAzcndHcTB4aVQwUUxBM2xsbkRwWVd5d0FmeGI",
+      "title": "美国科技股因AI成本担忧大幅下跌",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaGRXakdrXzZRNDFNcDZ3UFVoODJXQXBybF9tQjFWQ1BBbGxvbXNOcFc4NkhRMEZQYlVlZzIwMzJadXZYVDVHSHp",
       "source_url": "https://finance.sina.com.cn",
       "source": "新浪财经"
     },
     {
-      "title": "A股指数还有新低，曙光已经不远！熊市行情，哪些投资机会？哪些介入",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLV3hWX0gxVW5BMlFQQU1rSURsdnBJaE4xQWY0RG1HRXltdWMzSmhOYl9sa2d0QVZLNFh4Q0h3Z1RWX3o0VGxtdWt",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "美股避险情绪升温！小摩：资金开始转向低波动率股票但尚未大规模撤离风险资产_滚动新闻",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OUW8wT0tWQ2c1Q3Q5MnJJQlByMFNvczBkaFVFdnJNQVVIRXV4RThXNHpYY1BIeUxhQ21ROXpIOGFwM2JfY1NSVnh",
+      "source_url": "https://finance.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "A股“一哥”，新信号！",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPek5uMVRSY21VM2E2S0FjQldvOWxRQWdkQzl2alp6clBDUWpHc0V3bm1HSHlHbXZwb0h0eDh1bVRxY2VyOC1Ycjh",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "印度股市领跑亚洲，“低AI敞口”避风港吸引力上升_滚动新闻_财经",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzelRiZFRuSVNoTnpSV0VrMmVUZVR4OXE1VnRTckNmc2lGd0thYXRCUDdKMzhvczNpcEtSZmpLNU5fWnItY3czamV",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "长鑫科技，直线拉起",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xSUZydktxUXRUSjVVR2V2eFRIZWVHaENrbDVRY1dmN0NHWDJyMTJJMjNjRGlBWnVWZ1hkUS04MTJZc2R0aUpGUlZ",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "多家A股公司，拟大手笔分红",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFRVpUSXV0enR4OW1oeTRLbXdEZkxKbW5vSlVuTmhyU05fU2VvSlJQb3FndmtrUF84b2dYdm1yUm5sZzFjYWxNa2o",
-      "source_url": "https://cj.sina.cn",
-      "source": "新浪网"
+      "title": "破发股君实生物连亏10年3季上市2募资共86亿元_证券要闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Xd2ptbGE2dUR5RDVDLTFzSU5makN6cXVoZnViYm9NVXFRbzVtNGdjY1dPYkxJTnhIem1wYWFYNFRiWFV5T1M3UGo",
+      "source_url": "http://news.cnfol.com",
+      "source": "中金在线"
     }
   ]
 }

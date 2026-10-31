@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 40,
-    "trusted": 13,
+    "raw_dedup_junk": 34,
+    "trusted": 12,
     "non_trusted_top": {
-      "stockstar.com": 5,
-      "china.com": 3,
-      "sina.com.cn": 3,
-      "techwalker.com": 2,
-      "hebccw.cn": 2,
-      "sina.cn": 1,
-      "66wz.com": 1,
-      "ofweek.com": 1,
-      "lmtw.com": 1,
-      "hangzhou.com.cn": 1
+      "sina.com.cn": 4,
+      "sina.cn": 2,
+      "yemacaijing.com": 2,
+      "jfdaily.com.cn": 1,
+      "mittrchina.com": 1,
+      "beijing.gov.cn": 1,
+      "techwalker.com": 1,
+      "sdnews.com.cn": 1,
+      "secrss.com": 1,
+      "jfdaily.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 12,
-    "relaxed_72h": 0,
+    "fresh1_24h": 9,
+    "page_fresh": 2,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "水滴公司沈鹏入选“2026胡润U40中国创业先锋”榜单",
+      "t": "秦安：微软6万人“自愿离职”不是瘦身，是AI改写分配规则的第一声警报",
       "d": "sohu.com"
     },
     {
-      "t": "53亿次调用见证课堂实践：天学网AI英语教育体系助推因材施教规模化落地",
+      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
+      "d": "36kr.com"
+    },
+    {
+      "t": "砍掉原有机器人项目、裁撤VLA团队、押注AI智能体工作手机：深兰科技转身，“造血",
       "d": "ifeng.com"
     },
     {
-      "t": "谷歌发布Gemini 4 Carbon重夺大模型第一：Artificial An",
-      "d": "eet-china.com"
+      "t": "打通AI落地安全链路，讯众通信-讯捷算网重磅发布“安全词元通道”",
+      "d": "bjnews.com.cn"
     },
     {
-      "t": "《2026 AI 技术演进与 2027 趋势前瞻：从 Agent 到自主智能》",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "【深度】银行的AI应用边界",
+      "t": "AI 赋能产业全链条，汕头移动助力澄海打造“玩具智造策源地”",
       "d": "sohu.com"
     },
     {
-      "t": "四川首个可商用矿产勘查垂域大模型发布- 中国日报网",
-      "d": "chinadaily.com.cn"
+      "t": "台积电为一家成立仅3年的国产芯片公司站台，直言工艺已备好",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "深兰科技联合华为，发布全球首款大模型智能体工作手机 Wowoker",
-      "d": "time-weekly.com"
+      "t": "工业AI时代来了？鼎捷数智利润增近三倍，新签AI订单增两倍",
+      "d": "21jingji.com"
     }
   ]
 }

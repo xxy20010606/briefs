@@ -1,46 +1,38 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 37,
-    "trusted": 8,
+    "raw_dedup_junk": 28,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 13,
-      "moomoo.com": 5,
-      "sina.cn": 3,
+      "sina.com.cn": 8,
       "stockstar.com": 2,
-      "orientaldaily.com.my": 1,
-      "cnfin.com": 1,
-      "klsescreener.com": 1,
-      "crntt.com": 1,
-      "idnfinancials.com": 1,
-      "futunn.com": 1
+      "tmgm.com": 2,
+      "sina.cn": 2,
+      "fx168news.com": 2,
+      "investing.com": 1,
+      "tradesmax.com": 1,
+      "jin10.com": 1,
+      "enanyang.my": 1,
+      "moomoo.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 5,
-    "relaxed_72h": 0,
-    "final": 5,
+    "fresh1_24h": 6,
+    "page_fresh": 1,
+    "relaxed_72h": 2,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "破发股海通发展激励股解禁中信证券保荐上市募15亿_证券要闻",
+      "t": "日本股市，迎重大调整",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "破发股君实生物连亏10年3季上市2募资共86亿元_证券要闻",
       "d": "cnfol.com"
     },
     {
-      "t": "【环球财经】权重科技股拖累 纽约股市三大股指29日均下跌",
+      "t": "金价：大家不用等待了！不出意外的话，金价或会重走历史的老路",
       "d": "sohu.com"
-    },
-    {
-      "t": "恒生指数上涨1.64%，互联网保险板块持续活跃｜港股午评",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "美股科技股大跌亚太开局分化 AI硬件链遭遇“现金流拷问”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "港股早报｜美9月核心PCE同比涨3.1% 澜起科技前三季度净利同比增超90%",
-      "d": "cls.cn"
     }
   ]
 }

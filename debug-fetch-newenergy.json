@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 44,
+  "total": 36,
   "samples": [
     {
-      "title": "河南省级示范光储充一体化重卡充换电项目投运",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WUlRBWHBUckFHZURnc2hYSlh6clNqZ3VqMkg1YjJ2YjhIRTZQLWhCSWpZNWt3OFhBOVYyUXRBRTF2dlV2RFhtS25",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "2026前三季新型储能新增84GWh......｜新能源产研",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmdBcnF6azdQYTcydUQ2ajZxR3VVVnpYR1VRbEVKMkFVa2Y5QUxzTTloTUtxbHp6d0Zla1ZNcUhsRlB1eUZ6NDM",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "昱能科技亮相澳大利亚&哥伦比亚双展， 以全场景光储方案夯实全球化版图",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCeThNRlhCYkhVbVVqZTZjWkJMUVNzS2kxM2dxOW95cmRpbk5NdENqU3c1Z09GbnZzVXJwWFNYSWNTaWlTVlRJSmJ",
-      "source_url": "https://www.prnasia.com",
-      "source": "美通社"
+      "title": "光伏行业三季报收官：爱旭单季扭亏 BC与储能撑起未来",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zVWUwVXpWT19GNWV2ME9lbVJLNVBqeUNuSTBrRUNjdHZGZUdtZXlaOHRmeGR1cjkwMTU4ZGZ3YUhRLTZXdXk5czV",
+      "source_url": "https://www.caiwennews.com",
+      "source": "https://www.caiwennews.com/"
     },
     {
-      "title": "百公里氢耗100g！20000台氢能共享两轮车落地长沙！",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BY0dXa0J3eGV4Y19LWE1sbGVFMmg3MWdaandwNE5kaDFWN284YThJMTNwTEtPUE9EMzFCclR6NDVQX2hiMTg1U0d",
+      "title": "一座工业城市的零碳生态野心",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qTmRfMmxyZ2NBZUdXTUw1MUhmc0tXbGEwSEYzeFNacmxxN1ppZUpGNWtzLVlKZzRKOWxqRGFGSG1Obmlia2RESzV",
       "source_url": "https://www.ne21.com",
       "source": "世纪新能源网"
     },
     {
-      "title": "从芯到网 赋能澳洲｜海辰储能携8h长时储能一体化方案亮相 All Energy Australia ",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iTDFTUDVQYUU3MVlOeWtLQ3VQWGlRVm1qYTNnaXpxd0hnQjZURmFidXVCNDlMcGpHT0FhdEUxOGt5TzgtV0VXLXF",
+      "title": "河南驻马店公司西平风电项目取得建设用地考古勘探批复",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JV1B5RGR2Yy1xcG1qUnpObFFBRmRzX293N2ZFdDhkTkh4UnpMZXFQcUVDeVduX0hRX2FrdC1SZUhxZXhrOVJ6U2s",
+      "source_url": "https://wind.in-en.com",
+      "source": "国际风电网"
+    },
+    {
+      "title": "聚焦新场景！巡鹰储能首批50MWh移动储能系统发运交付",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TX3UyaUJ3bXNEQVZKMzVyYTN6dWtZSDljNG9aVXRlRmRzVFFpcXdlVjlWTDZNaUpEOFl5eDFNaWFycEc0c2ZheWh",
       "source_url": "https://www.ne21.com",
       "source": "世纪新能源网"
     },
     {
-      "title": "派能科技发布新一代家庭储能解决方案Force NEX",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51TWRUeWQtSnNvQ1ZTQkR4VXhzUEhHSzZzeFNTYzh0Ym44bnlfMnBUT3o4OWFXMnpMVHkydF9zTGtQM2dQeS1uT2N",
-      "source_url": "https://www.ne21.com",
-      "source": "世纪新能源网"
-    },
-    {
-      "title": "华致巡礼 | 新材料企业背后的新账本：不再为“用电”反复开会",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SLVVvdndlYmxubEpDc2ZTbzdtSEU1bVdaYXdJRFhNRlEtazdrYjJoR2hGSzBkbHA5eUZIYW5DTjVycDRVUTBNVFB",
-      "source_url": "https://www.ne21.com",
-      "source": "世纪新能源网"
+      "title": "渗透率破50%，为何大量电车却在停车场吃灰？京能新能源步怀进：重卡是生产资料，光拼参数算不对账",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUdGJtZ3g2WTVwa2JzLVk3LTY5QThMRGU2aDEyQUtMN0VJUTVtTF80RUZnZVNlaHh1WWIyRnhPYzl2aWpkNmN4N2Q",
+      "source_url": "https://chd.in-en.com",
+      "source": "国际充换电网"
     }
   ]
 }

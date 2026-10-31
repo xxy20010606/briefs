@@ -1,53 +1,53 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 15,
+    "raw_dedup_junk": 52,
+    "trusted": 17,
     "non_trusted_top": {
-      "rediandf.com": 4,
-      "sina.cn": 3,
-      "china.com": 3,
-      "zhengguannews.cn": 2,
+      "sina.cn": 5,
+      "hupu.com": 5,
+      "rediandf.com": 3,
+      "sina.com.cn": 2,
+      "china.com": 2,
+      "hizh.cn": 2,
       "bjd.com.cn": 2,
-      "2500sz.com": 2,
-      "hangzhou.com.cn": 2,
-      "aboluowang.com": 1,
-      "jkn.co.kr": 1,
-      "sfccn.com": 1
+      "vietnam.vn": 1,
+      "seehua.com": 1,
+      "mk.co.kr": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 14,
-    "relaxed_72h": 0,
+    "fresh1_24h": 13,
+    "page_fresh": 2,
+    "relaxed_72h": 15,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "上映多时票房只有18万，李连杰电影惨败，被零零后演员新片打懵了",
+      "t": "一滴水也能映出四海五洲！交响套曲《珠江》世界首演在即",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "第32届明斯克国际电影节开幕--国际",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "中国首部AI生成电影票房惨败",
       "d": "sohu.com"
     },
     {
-      "t": "《给阿嬷的情书》11月将在意大利公映！米兰等多地影院排片",
+      "t": "票数第一！电竞粤超跑出广东文体消费新热度",
       "d": "sohu.com"
     },
     {
-      "t": "《心迷宫之三重罪》定档11.7 犯罪悬疑佳作改编",
-      "d": "cri.cn"
+      "t": "2026总票房超315亿元 影院不断创新多元化服务",
+      "d": "cyol.com"
     },
     {
-      "t": "中式民俗悬疑力作《阴阳路惊魂》定档10月30日全国上映 解锁东方国风惊悚新体验",
-      "d": "ifeng.com"
+      "t": "马上评丨祭祀用品盯上了已故演员？亵渎、缺德、违法",
+      "d": "thepaper.cn"
     },
     {
-      "t": "电影《手捧繁星》定档11月6日 一段重获勇气的旅程",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "电影《勇敢女孩合唱团》热映 主创多城路演传递大山歌声",
-      "d": "cri.cn"
-    },
-    {
-      "t": "蒋非默艺术展用现代视觉语言诠释传统禅宗文化",
+      "t": "海外社媒“becoming Chinese”走红 中国“黄金纸”成新宠",
       "d": "chinanews.com.cn"
     }
   ]

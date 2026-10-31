@@ -1,54 +1,53 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 29,
-    "trusted": 10,
+    "raw_dedup_junk": 31,
+    "trusted": 15,
     "non_trusted_top": {
-      "digitaltoday.co.kr": 2,
-      "mydrivers.com": 2,
-      "yeeyi.com": 2,
-      "sina.com.cn": 2,
-      "ac.cn": 2,
-      "ebrun.com": 1,
-      "shanghai.gov.cn": 1,
-      "eeo.com.cn": 1,
-      "cyzone.cn": 1,
-      "pedaily.cn": 1
+      "sina.com.cn": 4,
+      "pasqualepillitteri.it": 3,
+      "unite.ai": 2,
+      "ichaoqi.com": 2,
+      "stockstar.com": 1,
+      "sina.cn": 1,
+      "csdn.net": 1,
+      "blockweeks.com": 1,
+      "dtm.com.cn": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 8,
-    "relaxed_72h": 0,
+    "fresh1_24h": 12,
+    "page_fresh": 4,
+    "relaxed_72h": 10,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "小红书全资拿下圆周旅迹，AI行程工具能补全种草闭环吗？",
+      "t": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
+      "d": "ifanr.com"
+    },
+    {
+      "t": "用AI怕泄密？深圳发布全国首个AI工具应用商业秘密保护指引",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "Local Code本地AI助手工具登陆Mac",
+      "d": "qq.com"
+    },
+    {
+      "t": "AI应用商业化加速推进，港股互联网板块低位反弹，港股通互联网ETF易方达（513",
+      "d": "cls.cn"
+    },
+    {
+      "t": "晨星携手腾讯云签署战略合作备忘录，拟打造AI投资工具",
       "d": "sohu.com"
     },
     {
-      "t": "从佣金宝到AI友好 国金证券与腾讯十二年合作开启崭新序章",
+      "t": "是求职搭子，还是隐形对手？秋招季这样被AI改变……",
+      "d": "sohu.com"
+    },
+    {
+      "t": "腾讯发布Buddy One与企业级Agent能力，把AI从对话工具变成生产力",
       "d": "nbd.com.cn"
-    },
-    {
-      "t": "基于AI本地化应用的金融智能体开发",
-      "d": "sohu.com"
-    },
-    {
-      "t": "对话腾讯汤道生：AI办公竞争才刚刚开始，WorkBuddy优势是开放战略",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "腾讯文档升级发布AI原生编辑引擎：支持多人、多Agent同一份文档中协作",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "腾讯的Agent生态，在造一种“看得见全局”的AI",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "腾讯发布跨应用AI协同体系Buddy One，港股通互联网ETF华夏（52091",
-      "d": "163.com"
     }
   ]
 }

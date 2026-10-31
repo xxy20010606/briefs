@@ -1,54 +1,30 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 44,
-    "trusted": 8,
+    "raw_dedup_junk": 36,
+    "trusted": 1,
     "non_trusted_top": {
-      "ne21.com": 9,
-      "autohome.com.cn": 8,
-      "sina.com.cn": 3,
-      "in-en.com": 2,
-      "itdcw.com": 2,
-      "sina.cn": 2,
+      "autohome.com.cn": 15,
+      "sina.com.cn": 6,
+      "ne21.com": 4,
+      "in-en.com": 4,
+      "caiwennews.com": 1,
+      "sina.cn": 1,
+      "ua.news": 1,
+      "cfi.net.cn": 1,
       "prnasia.com": 1,
-      "gscn.com.cn": 1,
-      "voi.id": 1,
-      "ichaoqi.com": 1
+      "smm.cn": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 8,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 1,
+    "page_fresh": 0,
+    "relaxed_72h": 1,
+    "final": 1,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "比亚迪大唐、小米澎程N90新人上位，SUV尺寸越大越好卖？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "从“跑马圈地”到“拼内功”：万座快充站到底在算哪笔账？",
+      "t": "宁德时代推进全固态电池研发至20安时电芯阶段 计划2027 年小规模生产",
       "d": "gasgoo.com"
-    },
-    {
-      "t": "撤销内燃机淘汰禁令的德国，在给“造血机器” 续命",
-      "d": "gasgoo.com"
-    },
-    {
-      "t": "福特CEO法利叫板比亚迪：新技术令电机等部件效率“高出 30%”",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "北京将构建“一轴驱动、五区支撑”绿色能源产业空间布局",
-      "d": "sohu.com"
-    },
-    {
-      "t": "宁德时代钠电出海再下一城：牵手德国INTILION，剑指3GWh",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "固态电池中试产能集中落地 产业发展进入关键窗口期",
-      "d": "cls.cn"
     }
   ]
 }

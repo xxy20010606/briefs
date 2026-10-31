@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 24,
+    "raw_dedup_junk": 41,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.com.cn": 5,
-      "sina.cn": 2,
+      "sina.com.cn": 10,
+      "sina.cn": 4,
       "stockstar.com": 2,
-      "caiwennews.com": 1,
-      "china.com": 1,
-      "rfidchina.org": 1,
-      "abnotebook.com": 1,
-      "tiangong.edu.cn": 1,
-      "eastmoney.com": 1,
-      "leidacj.com": 1
+      "moomoo.com": 2,
+      "asiae.co.kr": 1,
+      "hafoo.com.hk": 1,
+      "tradingview.com": 1,
+      "vietnam.vn": 1,
+      "shkjb.com": 1,
+      "semi.org.cn": 1
     },
-    "fresh1_24h": 22,
-    "page_fresh": 16,
+    "fresh1_24h": 13,
+    "page_fresh": 9,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "星思半导体亮相2026卫星应用大会，携手思朗科技展示星地融合技术成果",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "演讲报告征集！【空白掩模与合成石英材料技术论坛2026】将于12月3-4日在苏州",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "总投资10亿元，韶光芯材FPD光掩模基板项目预计12月投产",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "量子材料机理发现平台、AI药物研发工作站、二维半导体芯片……10个前沿项目在交易",
+      "t": "美股讯号 | 英特尔股价重挫逾28%，半导体行业承压 ｜#美股资讯# #英特尔#",
       "d": "sohu.com"
     },
     {
-      "t": "佰维存储持股公司在武汉成立半导体公司",
-      "d": "10jqka.com.cn"
+      "t": "AI驱动业绩强劲增长 半导体产业景气度有望攀新高",
+      "d": "cnstock.com"
     },
     {
-      "t": "我科研团队实现红外感光材料在芯片表面直接生“长”",
-      "d": "stdaily.com"
-    },
-    {
-      "t": "本土厂商发力，半导体硅片变局初现？",
+      "t": "美股讯号 | 英特尔股价大跌逾28%，芯片行业整体承压 ｜#美股资讯# #英特尔",
       "d": "sohu.com"
+    },
+    {
+      "t": "23:34:18【美股半导体板块遭遇重挫 费城半导体指数跌超7% 英特尔暴跌28",
+      "d": "cls.cn"
+    },
+    {
+      "t": "21:31:33【美股半导体板块遭遇重挫 费城半导体指数跌超5.6%】",
+      "d": "cls.cn"
+    },
+    {
+      "t": "宏光半导体，加码GaN赛道！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "一触即应，智控万家——比亚迪半导体家电触控MCU，让智能家电拥有更灵敏的“感知力",
+      "d": "eet-china.com"
     }
   ]
 }
