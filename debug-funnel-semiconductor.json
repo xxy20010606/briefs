@@ -1,54 +1,53 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 41,
-    "trusted": 14,
+    "raw_dedup_junk": 38,
+    "trusted": 20,
     "non_trusted_top": {
-      "sina.com.cn": 10,
-      "sina.cn": 4,
+      "sina.com.cn": 7,
+      "sina.cn": 3,
       "stockstar.com": 2,
-      "moomoo.com": 2,
+      "haiwaiwai.com": 1,
+      "wenxuecity.com": 1,
+      "jfdaily.com": 1,
+      "caiwennews.com": 1,
       "asiae.co.kr": 1,
-      "hafoo.com.hk": 1,
-      "tradingview.com": 1,
-      "vietnam.vn": 1,
-      "shkjb.com": 1,
-      "semi.org.cn": 1
+      "moomoo.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 9,
+    "fresh1_24h": 20,
+    "page_fresh": 14,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "美股讯号 | 英特尔股价重挫逾28%，半导体行业承压 ｜#美股资讯# #英特尔#",
+      "t": "英特尔股价一夜暴跌28%，半导体芯片板块震荡，科技股行情承压",
+      "d": "163.com"
+    },
+    {
+      "t": "形势严峻！日本是中国最大的芯片设备进口国，随时可能断供",
       "d": "sohu.com"
+    },
+    {
+      "t": "回暖实锤！意法半导体Q4指引超预期",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "营收净利大增 603986三季度遭北向资金减持",
+      "d": "sohu.com"
+    },
+    {
+      "t": "美股三大指数全线收跌，存储芯片股重挫，英特尔暴跌超28%",
+      "d": "21jingji.com"
     },
     {
       "t": "AI驱动业绩强劲增长 半导体产业景气度有望攀新高",
       "d": "cnstock.com"
     },
     {
-      "t": "美股讯号 | 英特尔股价大跌逾28%，芯片行业整体承压 ｜#美股资讯# #英特尔",
-      "d": "sohu.com"
-    },
-    {
-      "t": "23:34:18【美股半导体板块遭遇重挫 费城半导体指数跌超7% 英特尔暴跌28",
-      "d": "cls.cn"
-    },
-    {
-      "t": "21:31:33【美股半导体板块遭遇重挫 费城半导体指数跌超5.6%】",
-      "d": "cls.cn"
-    },
-    {
-      "t": "宏光半导体，加码GaN赛道！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "一触即应，智控万家——比亚迪半导体家电触控MCU，让智能家电拥有更灵敏的“感知力",
-      "d": "eet-china.com"
+      "t": "康美特的前世今生：葛世立掌舵二十年深耕高分子新材料赛道，打破海外技术垄断布局先进",
+      "d": "ifeng.com"
     }
   ]
 }

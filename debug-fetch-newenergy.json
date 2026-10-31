@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 36,
+  "total": 27,
   "samples": [
+    {
+      "title": "储能装机达167GW/435GWh！到2030年算力用电8000亿千瓦时",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOczFtZmZFdjVyZG53d3hRNm5UMl9CV0I5YmJ6bDNtbktrWWc2Uk95U1Z3czczN1NORWhsclBfY2p0UUNKS2VCd0V",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "匠心聚能！《天府工匠》创新季聚焦先进能源新优势",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObG1ZeEJBeVB4aWNnRk41RlZZQ19uMDFhSElyWW92VlQyaUVEUUY5Znh3dlQ5bHVCbTlUU1U2ajQ2THFob2JrNHJ",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "2026年10月浙江厌氧胶厂家考察要点有哪些？上门技术沟通与需求确认建议",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvVnFmV2NFM09EOHFybHlaQnMtSHpMNDhrUDNZYS1MYS1yNEdheE1keEVMTk96Y3VFdjh3em9KaDZSZnhHdl9tU05",
+      "source_url": "http://www.gongkong.com",
+      "source": "中国工控网"
+    },
+    {
+      "title": "2026年10月上海3m厌氧胶厂家采购参考：供应链备选与断供风险核验参考",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9URW9RNXppRU5wRldINHRfSTREdzh5Ym8zc0NIRjdYaWtNbWdWTklTcGVkQzlQMWdyeGlNbk9aZ09NaXk4bkJvZXl",
+      "source_url": "http://www.gongkong.com",
+      "source": "中国工控网"
+    },
+    {
+      "title": "全球最大！青海格尔木60MW液态空气储能国家示范项目并网发电",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQOGFheUktV3RIUmRFeXZYaXdycjNCcm9mOVl6WFktZEpRNDZLaEl0RTBSQTkwQllsTTRNbTd6OU13UTFuZ1NnNjl",
+      "source_url": "https://mcn.solarbe.com",
+      "source": "碳索储能网"
+    },
     {
       "title": "2026前三季新型储能新增84GWh......｜新能源产研",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcmdBcnF6azdQYTcydUQ2ajZxR3VVVnpYR1VRbEVKMkFVa2Y5QUxzTTloTUtxbHp6d0Zla1ZNcUhsRlB1eUZ6NDM",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
-    },
-    {
-      "title": "光伏行业三季报收官：爱旭单季扭亏 BC与储能撑起未来",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zVWUwVXpWT19GNWV2ME9lbVJLNVBqeUNuSTBrRUNjdHZGZUdtZXlaOHRmeGR1cjkwMTU4ZGZ3YUhRLTZXdXk5czV",
-      "source_url": "https://www.caiwennews.com",
-      "source": "https://www.caiwennews.com/"
-    },
-    {
-      "title": "一座工业城市的零碳生态野心",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qTmRfMmxyZ2NBZUdXTUw1MUhmc0tXbGEwSEYzeFNacmxxN1ppZUpGNWtzLVlKZzRKOWxqRGFGSG1Obmlia2RESzV",
-      "source_url": "https://www.ne21.com",
-      "source": "世纪新能源网"
-    },
-    {
-      "title": "河南驻马店公司西平风电项目取得建设用地考古勘探批复",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JV1B5RGR2Yy1xcG1qUnpObFFBRmRzX293N2ZFdDhkTkh4UnpMZXFQcUVDeVduX0hRX2FrdC1SZUhxZXhrOVJ6U2s",
-      "source_url": "https://wind.in-en.com",
-      "source": "国际风电网"
-    },
-    {
-      "title": "聚焦新场景！巡鹰储能首批50MWh移动储能系统发运交付",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TX3UyaUJ3bXNEQVZKMzVyYTN6dWtZSDljNG9aVXRlRmRzVFFpcXdlVjlWTDZNaUpEOFl5eDFNaWFycEc0c2ZheWh",
-      "source_url": "https://www.ne21.com",
-      "source": "世纪新能源网"
-    },
-    {
-      "title": "渗透率破50%，为何大量电车却在停车场吃灰？京能新能源步怀进：重卡是生产资料，光拼参数算不对账",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUdGJtZ3g2WTVwa2JzLVk3LTY5QThMRGU2aDEyQUtMN0VJUTVtTF80RUZnZVNlaHh1WWIyRnhPYzl2aWpkNmN4N2Q",
-      "source_url": "https://chd.in-en.com",
-      "source": "国际充换电网"
     }
   ]
 }

@@ -1,26 +1,31 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 31,
-    "trusted": 15,
+    "raw_dedup_junk": 28,
+    "trusted": 6,
     "non_trusted_top": {
-      "sina.com.cn": 4,
       "pasqualepillitteri.it": 3,
+      "sina.com.cn": 3,
       "unite.ai": 2,
-      "ichaoqi.com": 2,
-      "stockstar.com": 1,
-      "sina.cn": 1,
+      "ichaoqi.com": 1,
       "csdn.net": 1,
-      "blockweeks.com": 1,
-      "dtm.com.cn": 1
+      "sina.cn": 1,
+      "bjd.com.cn": 1,
+      "zijing.com.cn": 1,
+      "tradingview.com": 1,
+      "newswav.com": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 4,
-    "relaxed_72h": 10,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 6,
+    "page_fresh": 5,
+    "relaxed_72h": 0,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
+    {
+      "t": "从启航到传承，苏职大恒隆AI单证智服订单班接力赋能智慧港口建设",
+      "d": "sohu.com"
+    },
     {
       "t": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
       "d": "ifanr.com"
@@ -34,20 +39,8 @@
       "d": "qq.com"
     },
     {
-      "t": "AI应用商业化加速推进，港股互联网板块低位反弹，港股通互联网ETF易方达（513",
-      "d": "cls.cn"
-    },
-    {
-      "t": "晨星携手腾讯云签署战略合作备忘录，拟打造AI投资工具",
+      "t": "从小米离职后王腾首次公开亮相，谈“蹭雷军流量”",
       "d": "sohu.com"
-    },
-    {
-      "t": "是求职搭子，还是隐形对手？秋招季这样被AI改变……",
-      "d": "sohu.com"
-    },
-    {
-      "t": "腾讯发布Buddy One与企业级Agent能力，把AI从对话工具变成生产力",
-      "d": "nbd.com.cn"
     }
   ]
 }

@@ -1,24 +1,22 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 28,
-    "trusted": 7,
+    "raw_dedup_junk": 21,
+    "trusted": 8,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "stockstar.com": 2,
-      "tmgm.com": 2,
-      "sina.cn": 2,
-      "fx168news.com": 2,
-      "investing.com": 1,
-      "tradesmax.com": 1,
+      "sina.com.cn": 5,
+      "moomoo.com": 2,
+      "cnfin.com": 1,
+      "sina.cn": 1,
       "jin10.com": 1,
-      "enanyang.my": 1,
-      "moomoo.com": 1
+      "tradesmax.com": 1,
+      "jrj.com.cn": 1,
+      "futunn.com": 1
     },
-    "fresh1_24h": 6,
+    "fresh1_24h": 7,
     "page_fresh": 1,
-    "relaxed_72h": 2,
-    "final": 3,
+    "relaxed_72h": 1,
+    "final": 2,
     "cap": "不限同域"
   },
   "final": [
@@ -27,12 +25,8 @@
       "d": "ifeng.com"
     },
     {
-      "t": "破发股君实生物连亏10年3季上市2募资共86亿元_证券要闻",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "金价：大家不用等待了！不出意外的话，金价或会重走历史的老路",
-      "d": "sohu.com"
+      "t": "美股科技股大幅调整，谷歌大跌12%；港股新股冷热分化丨港股早报",
+      "d": "21jingji.com"
     }
   ]
 }

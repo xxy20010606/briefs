@@ -1,12 +1,30 @@
 {
   "type": "finance",
-  "total": 28,
+  "total": 21,
   "samples": [
     {
-      "title": "日本股市，迎重大调整",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VLTBTXzJfdDdBV3EwNmZXMnNua1FCS2RRUHJXQ3E2X0dXeHdMLTJyTmloT3hTbG5kSmw5VFJ4eFNaQ2lNcFpYa01",
-      "source_url": "https://finance.ifeng.com",
-      "source": "凤凰网财经"
+      "title": "股市面面观丨A股三季报收官：逾73%公司实现盈利 电子、有色净利增速居前",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwd3JvOWJsYjE3RVU3RDFRSktwVjM4T0lNcjZGelAxLW1icktBVlVoVEVkZkZsODFQTUxNTWdwcHFPOEhXbjBXckV",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "大瓜！股票研究员转行AI短剧",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMLUdsbUg1TVpFSVJzY19iVHpoMUZZcm5GLThIMzJTY1E5LTFJaHJDUlpzX2VBRTFDVXNSUXdRRXJoLU1OdWktbzZ",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "【环球财经】科技股遭抛售 纽约股市三大股指30日均显著下跌",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xM19aWk5rZlNCT0FObHA5dE1sd3dzUXRraUNXTnpwMzBlSzVRNWdCOEpmQ3VkV3VBRG5RNkhPY1NiSkM3ODdQbW1",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "【环球财经】伦敦股市30日上涨",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HcDF4eGV5OEg4dnJWVmsyc25FWjVEbU91V09rOGtiMU9ZdDZneWdIQWc3NXRKWWYxZlRIZFA2d2NZa0NsTmJRbkx",
+      "source_url": "https://www.cnfin.com",
+      "source": "中国金融信息网"
     },
     {
       "title": "10月31日收盘：股市剧烈震荡纳指创下6月以来最差单日表现英特尔大跌29% 投资者抛售科技股",
@@ -15,28 +33,10 @@
       "source": "新浪财经"
     },
     {
-      "title": "美国科技股因AI成本担忧大幅下跌",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaGRXakdrXzZRNDFNcDZ3UFVoODJXQXBybF9tQjFWQ1BBbGxvbXNOcFc4NkhRMEZQYlVlZzIwMzJadXZYVDVHSHp",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "美股避险情绪升温！小摩：资金开始转向低波动率股票但尚未大规模撤离风险资产_滚动新闻",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OUW8wT0tWQ2c1Q3Q5MnJJQlByMFNvczBkaFVFdnJNQVVIRXV4RThXNHpYY1BIeUxhQ21ROXpIOGFwM2JfY1NSVnh",
-      "source_url": "https://finance.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "印度股市领跑亚洲，“低AI敞口”避风港吸引力上升_滚动新闻_财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzelRiZFRuSVNoTnpSV0VrMmVUZVR4OXE1VnRTckNmc2lGd0thYXRCUDdKMzhvczNpcEtSZmpLNU5fWnItY3czamV",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "破发股君实生物连亏10年3季上市2募资共86亿元_证券要闻",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Xd2ptbGE2dUR5RDVDLTFzSU5makN6cXVoZnViYm9NVXFRbzVtNGdjY1dPYkxJTnhIem1wYWFYNFRiWFV5T1M3UGo",
-      "source_url": "http://news.cnfol.com",
-      "source": "中金在线"
+      "title": "日本股市，迎重大调整",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VLTBTXzJfdDdBV3EwNmZXMnNua1FCS2RRUHJXQ3E2X0dXeHdMLTJyTmloT3hTbG5kSmw5VFJ4eFNaQ2lNcFpYa01",
+      "source_url": "https://finance.ifeng.com",
+      "source": "凤凰网财经"
     }
   ]
 }

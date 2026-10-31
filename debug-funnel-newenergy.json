@@ -1,30 +1,38 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 36,
-    "trusted": 1,
+    "raw_dedup_junk": 27,
+    "trusted": 3,
     "non_trusted_top": {
-      "autohome.com.cn": 15,
-      "sina.com.cn": 6,
-      "ne21.com": 4,
-      "in-en.com": 4,
-      "caiwennews.com": 1,
-      "sina.cn": 1,
-      "ua.news": 1,
-      "cfi.net.cn": 1,
-      "prnasia.com": 1,
-      "smm.cn": 1
+      "autohome.com.cn": 5,
+      "sina.com.cn": 4,
+      "ne21.com": 3,
+      "gongkong.com": 2,
+      "sina.cn": 2,
+      "itdcw.com": 2,
+      "fznews.com.cn": 1,
+      "china.com": 1,
+      "yeeyi.com": 1,
+      "cfi.net.cn": 1
     },
-    "fresh1_24h": 1,
-    "page_fresh": 0,
-    "relaxed_72h": 1,
-    "final": 1,
+    "fresh1_24h": 3,
+    "page_fresh": 3,
+    "relaxed_72h": 0,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "宁德时代推进全固态电池研发至20安时电芯阶段 计划2027 年小规模生产",
-      "d": "gasgoo.com"
+      "t": "匠心聚能！《天府工匠》创新季聚焦先进能源新优势",
+      "d": "sohu.com"
+    },
+    {
+      "t": "全球最大！青海格尔木60MW液态空气储能国家示范项目并网发电",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "欣旺达三季报：营收同比高增46%，扣非净利逐季改善｜看财报",
+      "d": "sohu.com"
     }
   ]
 }

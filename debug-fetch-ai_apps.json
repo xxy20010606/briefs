@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 31,
+  "total": 28,
   "samples": [
     {
-      "title": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB4SFhXc3pvNEthVVdWSzJPVWkzbExCamFYclFodHhlbnFWRFpOZzQ1MDNlUk5abVJJblU4aWhWUWNNWlE?oc=5",
-      "source_url": "https://www.ifanr.com",
-      "source": "爱范儿"
-    },
-    {
-      "title": "用AI怕泄密？深圳发布全国首个AI工具应用商业秘密保护指引",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN1VKdExxdW1wRmRkVHdRdkNBOC1fdWxRUC1EX2NXQVZVV0VEdnp2dmhud0ZwV1dWUzRrYTZFNG9xWGV2Z1p5a1V",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
-    },
-    {
-      "title": "小米发布开源 OCR 模型 Xiaomi-OCR-0，仅 0.8B 参数，可读文档",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjRsX0NPbWJicVB1SGt2ME15dHlRTGFHQ2xXNURFbGdyM0VtTFI1UlFoa1h5T1hYSWNfZW9jVklKc1habExVQkF",
+      "title": "日本小学生海报被指用AI，喜多方市叫停作品公开",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNlFwb0IwaXZsZzduSm85d1A4bFBOY0d3S0RkNXFtOUFYc09RUUZtV04zcEswczNoLXNlUDhXa2pJN1ZDR2R3NHQ",
       "source_url": "https://pasqualepillitteri.it",
       "source": "Pasquale Pillitteri"
     },
     {
-      "title": "百度搜索实现递归自我进化，百度App的价值正在被重新定义",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXVnhMNzg2dTZsUVIyajRBdVpqWkxqQkN0RlR4Sm1ZbXlDVC1ubHBDWnI5X1o2WGJ4YlpEOXJZajFDNnQ0cWJSOGg",
-      "source_url": "https://k.sina.com.cn",
+      "title": "重大突破！Alice自研模型首家实现用一个MCP连接全域金融能力",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16cFBfZXhRRHJGazVuanIwSzFQalBrQ1ZlTDhXX1gtalUwRzMzQzZXVEI2MnJFZE1wMHZsVHlVb2dvcVppMHRDZkZ",
+      "source_url": "https://www.ichaoqi.com",
+      "source": "潮起网"
+    },
+    {
+      "title": "2026罗技创享日启幕，集结职场“宝藏班底”探索工作新可能",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xcHpxMnV4NVpRbW5LN0pHcVFQWTMtSHdacUwxb2FyMWxzaTg1UmtfbTFBTUVMa0NtcmZVYzJkdDk1X0Y5U3AxMDE",
+      "source_url": "https://www.csdn.net",
+      "source": "CSDN"
+    },
+    {
+      "title": "从启航到传承，苏职大恒隆AI单证智服订单班接力赋能智慧港口建设",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkNzF6NTJGMjc0R0NHazJRY0VvdEtsdUJzLXNWa25JSDI0ZjFLTEtCNGlrS05iUDFQTVNMT0h1Q2owand4dW1oSzN",
+      "source_url": "https://www.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "青岛企业数字化转型T云GEO服务测评解析",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYM2t1UnllSWEtWExSNVlLN1BtNHdLTTY1WTFidFprQ01LVk5wVDhDMkZCV3ljOFJ0elBPNXV5X21VOEsxTXNvSnR",
+      "source_url": "https://t.cj.sina.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "面向教师的 Teachy AI，使用方法与免费版内容",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwcFRPenphcDF6eDBXUXN2QW1ZdDU4TUNFcnhqWXRTLVQzd21xTU5ic2k0MUhNdHl4Yk9aam40Yk05TlZQc241MlY",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "Local Code本地AI助手工具登陆Mac",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5U0RITGVxM2lQNkhuVVhJeWt1aWpJbENtVUFqN3NITXY0OEY2WHM1dE82Vlk3ZWRwaWZlTmY3eXdPVXltbWpVZF9",
-      "source_url": "https://news.qq.com",
-      "source": "QQ News"
+      "title": "猎聘“非凡2026”全国企业共创会圆满收官，共探AI时代组织进化新路径",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QZEQyQ1RiZkdwcUtlalVaSEJjYzJpcElPYk1meXphZkpsUTAtUWhDMGpvV29fM3FLXzdhZ3BBRXpocUhVR0lZR0F",
+      "source_url": "https://news.bjd.com.cn",
+      "source": "京报网"
     }
   ]
 }

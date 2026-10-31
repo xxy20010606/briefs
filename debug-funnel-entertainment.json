@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 52,
-    "trusted": 17,
+    "raw_dedup_junk": 50,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.cn": 5,
-      "hupu.com": 5,
-      "rediandf.com": 3,
-      "sina.com.cn": 2,
-      "china.com": 2,
+      "bjd.com.cn": 6,
+      "sina.com.cn": 3,
+      "hupu.com": 3,
+      "youth.cn": 2,
       "hizh.cn": 2,
-      "bjd.com.cn": 2,
-      "vietnam.vn": 1,
-      "seehua.com": 1,
-      "mk.co.kr": 1
+      "stockstar.com": 1,
+      "westca.com": 1,
+      "sina.cn": 1,
+      "molihua.org": 1,
+      "hk01.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 2,
-    "relaxed_72h": 15,
+    "fresh1_24h": 15,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "一滴水也能映出四海五洲！交响套曲《珠江》世界首演在即",
+      "t": "AI电影上映一周票房不到150万，AI电影败走院线",
+      "d": "sohu.com"
+    },
+    {
+      "t": "草原之上，沐瞳为草根电竞搭起擂台",
+      "d": "sohu.com"
+    },
+    {
+      "t": "人宠同台共演舞台剧 狗狗“演员”长春首秀萌动全场",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "心理悬疑话剧《心理游戏》中文版首演",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "弦歌赴约 情满草原 2026年内蒙古文化活动季收官",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "2026年金鸡百花电影生活季将于11月6日启幕",
       "d": "xinhuanet.com"
     },
     {
       "t": "第32届明斯克国际电影节开幕--国际",
       "d": "people.com.cn"
-    },
-    {
-      "t": "中国首部AI生成电影票房惨败",
-      "d": "sohu.com"
-    },
-    {
-      "t": "票数第一！电竞粤超跑出广东文体消费新热度",
-      "d": "sohu.com"
-    },
-    {
-      "t": "2026总票房超315亿元 影院不断创新多元化服务",
-      "d": "cyol.com"
-    },
-    {
-      "t": "马上评丨祭祀用品盯上了已故演员？亵渎、缺德、违法",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "海外社媒“becoming Chinese”走红 中国“黄金纸”成新宠",
-      "d": "chinanews.com.cn"
     }
   ]
 }

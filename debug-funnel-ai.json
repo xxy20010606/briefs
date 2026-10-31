@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 34,
-    "trusted": 12,
+    "raw_dedup_junk": 37,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.com.cn": 4,
+      "sina.com.cn": 9,
       "sina.cn": 2,
-      "yemacaijing.com": 2,
-      "jfdaily.com.cn": 1,
-      "mittrchina.com": 1,
-      "beijing.gov.cn": 1,
-      "techwalker.com": 1,
-      "sdnews.com.cn": 1,
-      "secrss.com": 1,
-      "jfdaily.com": 1
+      "sfccn.com": 1,
+      "china.com": 1,
+      "icloudnews.net": 1,
+      "donews.com": 1,
+      "wenxuan.news": 1,
+      "xinouzhou.com": 1,
+      "bjd.com.cn": 1,
+      "cnhubei.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 2,
-    "relaxed_72h": 8,
+    "fresh1_24h": 11,
+    "page_fresh": 8,
+    "relaxed_72h": 2,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "秦安：微软6万人“自愿离职”不是瘦身，是AI改写分配规则的第一声警报",
+      "t": "奥特曼：PC上装内存太浪费，最好留给AI数据中心",
       "d": "sohu.com"
     },
     {
-      "t": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重",
-      "d": "36kr.com"
-    },
-    {
-      "t": "砍掉原有机器人项目、裁撤VLA团队、押注AI智能体工作手机：深兰科技转身，“造血",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "打通AI落地安全链路，讯众通信-讯捷算网重磅发布“安全词元通道”",
-      "d": "bjnews.com.cn"
-    },
-    {
-      "t": "AI 赋能产业全链条，汕头移动助力澄海打造“玩具智造策源地”",
+      "t": "苹果 AI 正式接入国产千问！国行 iPhone 用户福音，11 月 4 日开启",
       "d": "sohu.com"
     },
     {
-      "t": "台积电为一家成立仅3年的国产芯片公司站台，直言工艺已备好",
-      "d": "10jqka.com.cn"
+      "t": "AI智驾芯片战局生变，XHEART的差异化突围路径",
+      "d": "sohu.com"
     },
     {
-      "t": "工业AI时代来了？鼎捷数智利润增近三倍，新签AI订单增两倍",
-      "d": "21jingji.com"
+      "t": "国行Apple智能定档12月：接入千问，苹果AI入华的“端云分工”与市场补课",
+      "d": "sohu.com"
+    },
+    {
+      "t": "人工智能产业日报(10.30) : AI行业动态",
+      "d": "sohu.com"
+    },
+    {
+      "t": "可灵AI完成198亿融资：Kling 4.0强势发布 IPO或成下一站",
+      "d": "sohu.com"
+    },
+    {
+      "t": "企业智能体如何走进实际业务？网易智企探索企业AI应用新路径",
+      "d": "sohu.com"
     }
   ]
 }
