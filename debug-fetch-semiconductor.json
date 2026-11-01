@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 21,
+  "total": 24,
   "samples": [
     {
-      "title": "AI光通信驱动光子芯片市场增长，InP晶圆产能成为增长的关键",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6dGVYSWsxa2o5QjJqeXFEY25LTUJLbmx4UTBiWVFWakhTdGhBWG5nY1JncXpHbG4yc0p6MVdzNkZCVURGR1RjaGV",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "当AI开始“造芯”，人类最需要哪种能力？",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mZjEtLVBWNkNxTnk5ZW5fWFpjRGRib3ozeFVVX1JTMDZKMkVBTFNPRjlfc1dTZ21ZZ3ZzZFItaFNKTkJwS215dll",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "台积电A14有望打破8年技术瓶颈 实现全球最小SRAM单元尺寸",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvQUNEZlJMUnl3SEdmLXZBcmM5b0R3eFUwbHh4OVdCZTFLNEhiSDJhODJzbmtvY1YzbUw0VXZpZDRYenl5cG9rWQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "智能家居的拐点来了？真正值得关注的是这些芯片",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vVXdUTjVfNlNsXzAzSEU4emppNExLNWU1d0kzUDd3Q3dsakY5M2c3Ykg5MGJoQW9rTVQ3NklGeEx4Y2VDa2dxSDV",
+      "source_url": "https://t.cj.sina.cn",
+      "source": "新浪网"
     },
     {
-      "title": "全志科技前三季度归母净利润6.59亿元 同比增136.76%",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWtqcTNtS2FaMTlVcTJsaHdTMmU3ejk3UkJoS01GSGM4V0pOUGExeEJyNE1pV3pjaUNyVlNILWhMZnd2NmtOX2N",
+      "title": "呈现中国芯片世界从“无芯”到“有芯”，《高贵的匍匐：“龙芯之母”黄令仪》出版",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeTl0SjB2OVFGY2tvbWFVVmhhYTJBUFViSmFvZzZKT0tvSV8yODRDTGhfQzlJX0JLOUNKSHBaTVJSNVhDTGlvNnd",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "美股三大指数集体收跌 费城半导体指数跌7.2%",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa0JTV3BBcUdnZmU4NjMxMUV4d0J4a1lsSVVtS1podjBVb256S1EwdFlidU9zd3dTamF4Vm1YbC15U2tfbTJ1dVB",
-      "source_url": "https://finance.sina.cn",
+      "title": "闪迪、英特尔、英伟达、SK海力士暗盘集体拉升，芯片利好传来",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyVUxHNWZIb0VMbEZNX3lpdm5qbzl1RTZsNnhjVUo4RHBscXhWeEFOQWd2czJMcmhldGdhUnJ1R05Xd04xMll5ZTl",
+      "source_url": "https://cj.sina.cn",
       "source": "新浪财经"
     },
     {
-      "title": "17个优质项目集中签约 投资额达105 亿元",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVXdERVNoNHVQWlRxVllwbmR3cl9USzB6MDlRODFSZzlVVUlqRUFUZEE2TGpvV3FheVoxOENMdEVRVkozbllXT3J",
-      "source_url": "https://epaper.tianjinwe.com",
-      "source": "天津日报"
+      "title": "DRAM技术，走到岔路口",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIQmtPSXNKelRoUEVfNG5zNE9RUEhGVDNDcV9XR0lvRnpWWllmWVR2U0xVU1U3bkc2T1ZqRUVJdUkwM0ZEQVJVMlB",
+      "source_url": "https://news.pedaily.cn",
+      "source": "投资界"
     },
     {
-      "title": "IC插座市场展望2035：半导体测试与先进封装驱动需求加速",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEZ0ZTEza2RGS2tJOGh3cTV3blNUVWZydDNfdU1IN1VhUDNVWW8xU2ZoM0ZCUFJVVnZSanV5cXVjSTltRloyay1",
-      "source_url": "https://www.indexbox.io",
-      "source": "新闻和统计"
+      "title": "利空被过度放大？杰富瑞：半导体设备火爆行情将持续至2028年！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tQ21fZG10RVlUM3A4d09ydEYzSFJIUHFVN2xVV2JOOGM3c3IwMzJOSFpUSnFXc3hSb3U1anQ4eGllQ2ZGUW1ONA?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }

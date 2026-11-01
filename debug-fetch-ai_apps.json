@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 12,
+  "total": 18,
   "samples": [
     {
-      "title": "谷歌推出 Android MCP 测试版,应用开始直接对接AI智能体",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcmdpMHNmY1RRVXZ6QXNMV05kc21nUEFwV1R1SHA3emkxS3p2dy1SZUdZMWxPNklIcm9wTHdVcGN0ZHR6WHNpZFV",
+      "title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2V29EOXF6VVZ0STdwNTNTRFE2UDFOdzExU0hBYUJMV2hLN2RPc1MyVnAtRnRFd0F0dUpJeU1HRnFVZUUxeGRyc2Z",
+      "source_url": "https://www.infoq.cn",
+      "source": "InfoQ.cn"
+    },
+    {
+      "title": "Gemini 推出可共享的头像，朋友能出现在你的 AI 视频和图片里",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbi0zRmlOcjhYSHpLSXNkbU9xN2lPYi1JRTVzX1pIaEhtSVRYNmlZQ0JnUF9ETjZiS21jRTZVZ2hTbDNlRlctbW1",
       "source_url": "https://pasqualepillitteri.it",
       "source": "Pasquale Pillitteri"
     },
     {
-      "title": "Reddit股价暴跌30%，确认谷歌搜索流量大幅下滑，AI Mode成主因",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcmIxZ3c4STQ2RkRhbWk1YkxwUTc1SW1pU1kxUk1TYnZlODVjRHRfR3ZGaXlJVU5jMzAtNFU1aXdMT3BPQzUwR2l",
+      "title": "Balmuda 推出 Good Morning Radio,为 The Clock 打造的 AI 电",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGxIcTd2aGJSY3U1dnd4VkhYRHFYb19kMEJUXzJOX0pMZ2Z4V21ZeVVqdEJsOXJnUUx4UEtRWmZPdDFzQmstQjd",
       "source_url": "https://pasqualepillitteri.it",
       "source": "Pasquale Pillitteri"
     },
     {
-      "title": "从工具到经营智能体：钱潮杯解码跨境AI落地新图景",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRWY5M1poZjVxRmhrQ05HSWRTVGNrdkEyRm1qUVV3bGNBeVJ5MFlXbzE5R09xNzM1ZDRyYjlOY3ZIdThRNld2Rnh",
-      "source_url": "http://www.zj.chinanews.com.cn",
-      "source": "中国新闻网"
+      "title": "用AI怕泄密？深圳发布全国首个AI工具应用商业秘密保护指引",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSzFZdVBqYzJvWDljcE1makRkWjYxNTgxSTRKUklxeU16cFRZNDBXMExkaW04b2VucEh3T0dyRzFSQkIyUGd1SjR",
+      "source_url": "http://finance.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "AMD 为嵌入式设计与开发全周期注入Agentic AI 强大能力- 设计与应用",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94RVBtTTlBZS13SXJfNkk0eXhkMVRRRjZ3eGR1eFRhNUlfcnpXb2x1MGxkSC1Jdy1yb05zTUp1RWlJNkhfQXkxblZ",
-      "source_url": "https://www.siscmag.com",
-      "source": "半导体芯科技"
+      "title": "Chainalysis遭网络攻击，部分客户信息泄露",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWlqcXNmS0NvRmlOWmZBOWpFUGhLYWtEdnZ0aDhlWmtfQ1RfaVBrSm5RRDlLNHg3RDVZTzZJYWtmeHJsaVJXLUs",
+      "source_url": "https://www.digitaltoday.co.kr",
+      "source": "디지털투데이"
     },
     {
-      "title": "万得旗下Alice正式独立！",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GOU9CMjV5SVI5bmxOSGVfV2pLczl3bzdMb0lEeGdjREpiSUVRbzNXdGw1ZWpsVnRzb2c5YWc1R0xVcGtxYmZXWU9",
+      "title": "学AI实操本领 拓创业就业新路——嘉定“AI启航・创无止境”AIGC创业训练营顺利结营",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XNmpYQnlsVjROWWVVS3ZOTUt1dXVTdm91VjhuR2VqOG5ZN2tkS2RIN2gxUTNlVzdrLTFwZ3NmdFZGNE1qNHdsMEZ",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
-    },
-    {
-      "title": "金融数据批量接入AI智能体，专业投研机构如何更好服务个人投资者？",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWY3SVlSV0x4eU9GMHc3ckxuWjBFUjdPTlZjdno3eWpUYmdjbmlyeE04U3J2MXpGdV9POXMzNW9wTk1BS3Q2bUR",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
     }
   ]
 }

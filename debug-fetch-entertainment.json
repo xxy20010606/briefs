@@ -1,7 +1,31 @@
 {
   "type": "entertainment",
-  "total": 37,
+  "total": 45,
   "samples": [
+    {
+      "title": "演员邵老五回应“陕西导演街头求人看电影”：刷到视频心头一酸",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nZDhrekpFWV8zVjhQeXUtYm9wNHNDRHg2bFNTSFdiOVlTVGJuaW5iNEpGVU5tYWJSLTlCRjA0cktaUExhWHpTTFN",
+      "source_url": "https://news.ifeng.com",
+      "source": "凤凰网"
+    },
+    {
+      "title": "中国首部AI院线长片上映，你会买票吗？",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84MldxS2xjejc0M1hLVEs4ektEX0p3ZU9jWktUQjNJenpPR0JTWkxLTTd2NTVIeGdVZ19fVXlIS3JGV1NFcVVJVFh",
+      "source_url": "http://k.sina.com.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "撤档三个月后，国产动画电影《三国第一部：争洛阳》 重映票房破 1000 万",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRVBIZ3ZhaWJnVERSR1p3SjFBQjhHS1ZSaTl1Yzh2enBRVkwyREE0OG10S0toaW9BNDhjNExqNnA3OEtZaXFxbkd",
+      "source_url": "https://tech.sina.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "成本千万票房不到150万？首部AI电影《三星堆：未来往事》败走大银幕",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvT1pkVmo1eGtsekFBTWVxazFtUGV4SmFlWHhUV3NJMHJCOGVGQXFJUTBaVkZlZ2JQelUwa0RfeTk1bUUwVnRwRmh",
+      "source_url": "https://www.thepaper.cn",
+      "source": "ThePaper.cn"
+    },
     {
       "title": "吉伊卡哇突破250万人次登顶……连布拉德·皮特也没能阻挡 [MK票房榜]",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQNy0xemVTcWlsLTZCRVk1SWhPbmltQmowNnNJN3hMXzJhbFVrTDlnS0xacThOVnAxMDYzWEgtNkZxelRKMUh0R05",
@@ -9,34 +33,10 @@
       "source": "매일경제"
     },
     {
-      "title": "首部AI电影成本千万周票房不到150万 AI电影败走院线",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hamVMbHRCUmZFU0RyekVaeHp0QU53UktETmZqNUI3V0U1OERWN1JMTTdrZ1FOc1BZOFpwaEp5aFVuQlJVcEN3Rmh",
-      "source_url": "https://news.china.com",
-      "source": "中华网"
-    },
-    {
-      "title": "[流言板]赛事官方：自2022年以来，Gumayusi首次在S赛中遭到淘汰",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNazQ4cHU5SnRacDJvbzVXWW13WUJLdlhicm5jNXVGYkpfT1VKdkwxMXVEM1Jqb0tTT0dTR3ZueTFCeG4zV2RhNnR",
-      "source_url": "https://bbs.hupu.com",
-      "source": "虎扑体育"
-    },
-    {
-      "title": "[流言板]LPL赛事官方：锋芒破重围，壮志续征程，恭喜BLG晋级淘汰赛",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QVER0U0VTU1pTcVVZcm9kUVh4VTJxbnFTQVZpdVo4aUdIUGJ2YjhQeGk5Tzl5eVpXQ2t5RVY0NXhMRGtMYVVRLTJ",
-      "source_url": "https://bbs.hupu.com",
-      "source": "虎扑体育"
-    },
-    {
-      "title": "[流言板]赛事官方分享LYON选手粉丝寄语：永不放弃",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZV0Q2R1ZGU3liNXluR3E3R3Mzd191XzBOMlljSGFITjJ3TnpTbUhXY2R0OWV6dlN4eDRldDBWZHJvUk5KbGZuYTB",
-      "source_url": "https://bbs.hupu.com",
-      "source": "虎扑体育"
-    },
-    {
-      "title": "[赛事视频]赛后采访Ezeir：我们会带着最后的VCT之魂走下去的",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAxeGRXdFFmSTVIRE9haG1zTUdhVFphU2l3dWdTQWFJQVd3MzQwZmNST0NmZ0FkRzVMUHMzREpYZGM3N1owVjY2Z2x",
-      "source_url": "https://bbs.hupu.com",
-      "source": "虎扑体育"
+      "title": "莱卡工作室出品的《野林》预计本周末北美票房将达到25.2万美元",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWkFLY2wxWFZ5b1k3YzZnQ0pHUWNKN1Z2T3NENDhPaDY5X2FMVTl4ODdZdVEzZ3d5MWYtc3RXUVFseGpQdU5sWnl",
+      "source_url": "https://www.animationmagazine.net",
+      "source": "Animation Magazine"
     }
   ]
 }

@@ -1,36 +1,34 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 12,
-    "trusted": 5,
+    "raw_dedup_junk": 18,
+    "trusted": 4,
     "non_trusted_top": {
+      "sina.com.cn": 6,
       "pasqualepillitteri.it": 2,
-      "sina.com.cn": 2,
-      "siscmag.com": 1,
-      "autohome.com.cn": 1,
-      "sina.cn": 1
+      "sina.cn": 2,
+      "digitaltoday.co.kr": 1,
+      "stockstar.com": 1,
+      "theblockbeats.info": 1,
+      "ac.cn": 1
     },
     "fresh1_24h": 4,
-    "page_fresh": 0,
-    "relaxed_72h": 4,
-    "final": 4,
+    "page_fresh": 3,
+    "relaxed_72h": 0,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "从工具到经营智能体：钱潮杯解码跨境AI落地新图景",
-      "d": "chinanews.com.cn"
+      "t": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
+      "d": "infoq.cn"
     },
     {
-      "t": "金融数据批量接入AI智能体，专业投研机构如何更好服务个人投资者？",
+      "t": "不再单打独斗，腾讯医疗AI“组团上岗”",
       "d": "sohu.com"
     },
     {
-      "t": "从“懂回答”到“能执行”：Zoho如何让AI走进企业业务",
-      "d": "leiphone.com"
-    },
-    {
-      "t": "王腾创办的今日宜休发布智能戒指与智能温控系统：聚焦夜晚8小时，要构建AI睡眠科技",
+      "t": "国艺·新尚｜焕新家庭绿色体验",
       "d": "sohu.com"
     }
   ]

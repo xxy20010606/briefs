@@ -1,32 +1,38 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 17,
+    "raw_dedup_junk": 10,
     "trusted": 4,
     "non_trusted_top": {
-      "sina.cn": 4,
-      "autohome.com.cn": 4,
-      "sina.com.cn": 3,
-      "wedoany.com": 2
+      "hsw.cn": 1,
+      "itdcw.com": 1,
+      "sina.com.cn": 1,
+      "autohome.com.cn": 1,
+      "sina.cn": 1,
+      "indexbox.io": 1
     },
     "fresh1_24h": 4,
-    "page_fresh": 1,
-    "relaxed_72h": 2,
-    "final": 3,
+    "page_fresh": 4,
+    "relaxed_72h": 0,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "阳光电源又憋了两个大招",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "深耕绿色金融实践 赋能零碳产业提质升级——江南金融租赁助力综合能源项目高质量发展",
+      "t": "山东发展新能源集团拿下单州新型储能科技79%股权，人事同步调整！",
       "d": "sohu.com"
     },
     {
-      "t": "中电高密风光储一体化项目首批8台风机顺利并网",
+      "t": "东吴解读Q3基金电新持仓：工控上升，电动车、光伏、风电、电力设备、储能板块均下降",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "陈伟丽：泰国汽车产业正在向电动汽车转型，进一步发展电池和高端汽车零部件产业",
       "d": "sohu.com"
+    },
+    {
+      "t": "15000次循环！中创新航枣庄基地588Ah电芯下线",
+      "d": "solarbe.com"
     }
   ]
 }

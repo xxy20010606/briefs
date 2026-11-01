@@ -1,24 +1,30 @@
 {
   "type": "ai",
-  "total": 22,
+  "total": 26,
   "samples": [
     {
-      "title": "V4全系列模型上线后，DeepSeek Harness开发者预览版开放测试",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wd0JWNXNkT3NmUy1UV09ldm1iSXY3dTllQ1o1ZFg5MFZPS1BRY3RCTUJLc05UYWJTb1R6VHhoT0NXM3hJQU5xLQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "国产大模型“借船出海” 一站式AI创作平台打造“全球创作工厂”",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qTVBLTmRRWTgtLWt6U2xjTDdfWWo3bzFDRjNpMXl2cmd3UmFBeTItWlpwamVuYXlTSFhTYm5yQV9mQ2p1dTRUTV9",
+      "source_url": "https://www.peoplecen.com",
+      "source": "人民财经网"
     },
     {
       "title": "算力网加速织就 助力数字中国建设",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjd1JGb2JuTEJEYTZTVkZkWFVTN2hSc3hQYnkySDZnNlFTVllwT25ORTdnZ1AxaUR3MGVKcll5RDRpY1V1T2ZqbUR",
-      "source_url": "https://news.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xRjVLeUVIS3VpSXA5TEJ2QWJzRjhlbHNWSU9zdmoxQnNhVUg5T3dmbkJpV19zaExTeXMyWkxsc3UtOERRS2d4b1V",
+      "source_url": "https://news.sina.cn",
       "source": "新浪新闻_手机新浪网"
     },
     {
-      "title": "身在河北，服务北京！环京算力供给走廊加快构建",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEZWhZUEtIdDNqcDVSQ29SdW5pSlBvT052SGdMV08yMUo4UV9UbE00cTZkWjR1QjVXc2FWR01wQkdtVHpLT0c0U2N",
-      "source_url": "https://xinwen.bjd.com.cn",
-      "source": "京报网"
+      "title": "AI赋能千行百业一线观察丨“AI+消费”的N种可能",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQXBSUmxtcm1WX043WExqaVBhUjZxUFg2RFJGMk5tMnQ2eE9iQThvU09ONjVndGFCM0R0ZFVrRFFfcUFNU21tTEh",
+      "source_url": "https://www.news.cn",
+      "source": "新华网"
+    },
+    {
+      "title": "启元机器人：具身导航的终局，从大模型到后训练的范式迁移｜甲子光年",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrSDVRLTY3ZUhseC0yNGptUzRoYkI0b2I0QzZuekhZRUQzZzlRX3pwV1liWVByX3dVQm5kcG9ObUR3dVljS3JkbUx",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
     },
     {
       "title": "最新封面报道之二｜最赚钱“AI实验室”IPO揭幕",
@@ -27,16 +33,10 @@
       "source": "财新周刊"
     },
     {
-      "title": "第140届广交会第三期开展",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uUWJhUWtoenM0NzlWUWhyS2REb1dVejBJX2RFeS0yX1F2dVRfa2xYX0FFQmtzZHNaMGZDdkVnZTZCdkhBUUZRVW5",
-      "source_url": "https://news.sina.com.cn",
-      "source": "新浪新闻_手机新浪网"
-    },
-    {
-      "title": "海亮科技亮相教装展 懂教育的AI成焦点",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Pd2ZveW9ZZUFpbkVwdmFVUHNGc19HWDZ2Y1FtdVNzMmg4LXJ5QTFkQktMUFBMT2wwQmtVZ2tBT2NrYUpTeGtkZG5",
-      "source_url": "https://tech.china.com",
-      "source": "中华网"
+      "title": "AI搜索品牌失焦的生成式引擎优化路径",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEc1bkdzWkZiR1dnci05TmpFNmw1NTBJbkpycGNYRDFqaER4a0wtSS1GcDZibzZNWVloTHJtWXR0SHlYbjUzQ0U",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     }
   ]
 }

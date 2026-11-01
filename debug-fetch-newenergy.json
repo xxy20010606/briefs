@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 17,
+  "total": 10,
   "samples": [
     {
+      "title": "高原新能源“充电宝”破解供电难题 绿色电力保障民生需求",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SQXVZMnd4UW8tR2RnRjBkUm44X1U2eFlKT0ZkQnU5c0hfTXFfY3ctaVAxWERxaW1Hc0dSU3g4ZnhwR0lqYzhDVHR",
+      "source_url": "http://news.hsw.cn",
+      "source": "华商网"
+    },
+    {
+      "title": "山东发展新能源集团拿下单州新型储能科技79%股权，人事同步调整！",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMkQ4NDdlMEk0Mjl3M240c1NaRWpQbHBXWVo4Z2pWcTA4cVN4WVhXTGRfUGNfeTZUblB5SWUwRDd3NjcwcGZaUTB",
+      "source_url": "https://www.sohu.com",
+      "source": "搜狐网"
+    },
+    {
       "title": "东吴解读Q3基金电新持仓：工控上升，电动车、光伏、风电、电力设备、储能板块均下降",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3NGeG5KT2M0ODRTYzlIYTRTQ3FvMnRlNTJVR3lqNXpXcEtfUXViUXdMVDEzZEtfdXV2WkloZ2l2c1gwaGw5ZE9",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SMVlZNEpzdUhtWE4zZlp3N0VzbW82RGJHVUlTWWlvQjh5Z3NxNl9ULTNpNmRqS3RaQ21EdnYwM1g1MlE2cm0yMXl",
+      "source_url": "http://xg.stock.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "韩国斗山将为NuScale小型模块化反应堆制造压力容器",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XdHlpam9OMnNvWUhTbVlRUlY0VEpoWmVoOUpiWGlFQ0xJcTc1QlNKWmZpV2M3QzlkcmVEOWpScHBaSVhlMk5DZjR",
-      "source_url": "https://www.wedoany.com",
-      "source": "维度网"
+      "title": "陈伟丽：泰国汽车产业正在向电动汽车转型，进一步发展电池和高端汽车零部件产业",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGRRT2lHcWFLY2pYMDFwUzJqWjZXUHJSWE9pcE5MbE5jM0xJLVVuRm1TNXV1SVBaTHNhMEFKbkphT3BzM0NzWlh",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "新型电力系统三大指数，看看哪只是你想要的？",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14QVdWTVFhckgwZHhPTEVCVnJrcHd2dWdjR05BR2xxTEMyejRlTklLTG5MOVluTjFyXzF6SnpMSUlydllqNTVDag?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "百亿零碳投资提速 比亚迪电池循环经济产业园落地辽宁营口",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00RlNTWG1NcG5TcFlfYjUwdlVZekJpRlhDY1JtdzRRSHprQXJZcTNoendNSUlhd0FFcjhJRzl2S2ZUUVhfaXZBTHV",
+      "source_url": "https://www.itdcw.com",
+      "source": "https://www.itdcw.com/"
     },
     {
-      "title": "陕建转身，一家省级建工企业在存量时代“开新局”",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX3pfTl9PZ3MtWlQ3RGFrckF0dlFibmtnNEhCNDZOSUJUdUZhRVlVc0hmbDdHLTlPTVM4SF9aSzhhbEcyZTh4bXp",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "阳光电源A股股东户数增加4.45万户增幅15.94%，流通A股户均持股4899.44股降幅13.75",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uOUM3anpqZDJKVWN2Y0lYVHRuVUdhYjktVjNGdm5Pc29vNUxnQTRlWEFoblVGek1CNVczWFppSnN3a1FJb3ZKb04",
-      "source_url": "https://finance.sina.cn",
-      "source": "finance.sina.com.cn"
-    },
-    {
-      "title": "阳光电源又憋了两个大招",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TOS05WFFxb0RtRS1WWndMOUtaTTVobzNoVGJ6SHlmcWlCZ2JiaW1NZmRLcFpZTWVvQXdSNVJiSXBTblA5WmU1aXF",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑"
+      "title": "高志凯亲历比亚迪三阶段，王传福愿景一一实现",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHhxZENVaFp6YlZBWUZtQlVRNUsyYWhJVVlYTlFWSXlKbzJlQktFVGFMLUVXTndFT2dLRENDb3J3SGR5YVUzcHV",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     }
   ]
 }

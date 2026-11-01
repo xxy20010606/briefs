@@ -1,32 +1,21 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 21,
-    "trusted": 6,
+    "raw_dedup_junk": 27,
+    "trusted": 4,
     "non_trusted_top": {
-      "sina.com.cn": 5,
-      "moomoo.com": 4,
-      "jkn.co.kr": 1,
-      "idnfinancials.com": 1,
-      "sinchew.com.my": 1,
-      "cacnews.ca": 1,
-      "hstong.com": 1,
-      "eastmoney.com": 1
+      "sina.com.cn": 16,
+      "moomoo.com": 3,
+      "sina.cn": 1,
+      "jin10.com": 1,
+      "stockstar.com": 1,
+      "on.cc": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 1,
-    "relaxed_72h": 1,
-    "final": 2,
+    "fresh1_24h": 4,
+    "page_fresh": 0,
+    "relaxed_72h": 0,
+    "final": 0,
     "cap": "不限同域"
   },
-  "final": [
-    {
-      "t": "港股通互联网(CSI931637)股票股价_行情_走势图_资讯",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "专栏｜中美利差创新低，人民币为何还能升值？",
-      "d": "caixin.com"
-    }
-  ]
+  "final": []
 }

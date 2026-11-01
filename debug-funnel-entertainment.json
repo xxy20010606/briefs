@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 37,
-    "trusted": 12,
+    "raw_dedup_junk": 45,
+    "trusted": 13,
     "non_trusted_top": {
-      "hupu.com": 7,
-      "bjd.com.cn": 5,
-      "kagit.kr": 2,
-      "mk.co.kr": 1,
-      "china.com": 1,
-      "sina.cn": 1,
+      "bjd.com.cn": 4,
+      "sina.cn": 3,
+      "hupu.com": 3,
+      "yzwb.net": 3,
+      "china.com": 2,
+      "youth.cn": 2,
       "sina.com.cn": 1,
-      "zijing.com.cn": 1,
-      "zgm.cn": 1,
-      "myzaker.com": 1
+      "mk.co.kr": 1,
+      "animationmagazine.net": 1,
+      "hk01.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 3,
-    "relaxed_72h": 9,
+    "fresh1_24h": 13,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "《愤怒的老虎》定档10月23日：朱正廷蒋梦婕在老宅绝境撕开人性恶念的獠牙",
+      "t": "演员邵老五回应“陕西导演街头求人看电影”：刷到视频心头一酸",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "成本千万票房不到150万？首部AI电影《三星堆：未来往事》败走大银幕",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "专访深湾创科总经理：电竞粤超的消费场景“新”在哪",
       "d": "sohu.com"
     },
     {
-      "t": "【文体市场面面观】“电影+体育”不是简单做加法",
-      "d": "ce.cn"
-    },
-    {
-      "t": "2026年内蒙古文化活动季收官",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "22.4万票断层第一，电竞粤超为何成了广东消费新场景的“票王”？",
+      "t": "电竞粤超何以领跑广东消费新场景？",
       "d": "sohu.com"
     },
     {
-      "t": "正式启幕！第六届粤港澳大湾区文化艺术节来了，交响套曲《珠江》成功世界首演",
-      "d": "21jingji.com"
+      "t": "AI电影，正在将电影院逼进“死胡同”？",
+      "d": "thepaper.cn"
     },
     {
-      "t": "首部AI院线电影“遇冷”",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "“同唱友谊歌”——2026中越金曲音乐盛典在河内举行",
+      "t": "警方通报“谢霆锋演唱会被扔荧光棒”：已对违法行为人作出行政处罚",
       "d": "chinanews.com.cn"
+    },
+    {
+      "t": "2026中国广播电视精品创作大会动画论坛亮点前瞻",
+      "d": "gmw.cn"
     }
   ]
 }

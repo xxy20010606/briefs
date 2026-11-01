@@ -1,46 +1,50 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 21,
-    "trusted": 10,
+    "raw_dedup_junk": 24,
+    "trusted": 15,
     "non_trusted_top": {
-      "stockstar.com": 2,
-      "sina.cn": 1,
-      "tianjinwe.com": 1,
-      "indexbox.io": 1,
-      "worldjournal.com": 1,
-      "hsw.cn": 1,
-      "pasqualepillitteri.it": 1,
-      "ifnews.com": 1,
+      "sina.com.cn": 3,
+      "sina.cn": 2,
+      "pedaily.cn": 1,
       "vietnam.vn": 1,
-      "yeeyi.com": 1
+      "eastmoney.com": 1,
+      "stockstar.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 2,
-    "relaxed_72h": 3,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 15,
+    "page_fresh": 11,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "AI光通信驱动光子芯片市场增长，InP晶圆产能成为增长的关键",
+      "t": "呈现中国芯片世界从“无芯”到“有芯”，《高贵的匍匐：“龙芯之母”黄令仪》出版",
+      "d": "sohu.com"
+    },
+    {
+      "t": "希腊政府，发力芯片产业",
+      "d": "sohu.com"
+    },
+    {
+      "t": "当AI“吞噬”内存",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "芯德半导体，68.84亿-76.85亿，ai半导体封测服务供应商",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "张坤的最新科技投资逻辑：独管产品加芯片，共管产品减电子",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "芯片是\"刻\"出来的，不是\"画\"出来的 —— 一份讲义讲把等离子体材料相互作用原理",
       "d": "eet-china.com"
     },
     {
-      "t": "全志科技前三季度归母净利润6.59亿元 同比增136.76%",
-      "d": "sohu.com"
-    },
-    {
-      "t": "英伟达展示下一代CPO方案",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "OpenAI CEO到访三星 会谈约50名高管 存储芯片及AI基础设施合作是重点",
-      "d": "cls.cn"
-    },
-    {
-      "t": "集微咨询发布《2026年测试设备行业研究报告》",
-      "d": "sohu.com"
+      "t": "AI光通信驱动光子芯片市场增长，InP晶圆产能成为增长的关键",
+      "d": "eet-china.com"
     }
   ]
 }
