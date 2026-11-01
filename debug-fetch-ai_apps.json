@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 28,
+  "total": 12,
   "samples": [
     {
-      "title": "日本小学生海报被指用AI，喜多方市叫停作品公开",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNlFwb0IwaXZsZzduSm85d1A4bFBOY0d3S0RkNXFtOUFYc09RUUZtV04zcEswczNoLXNlUDhXa2pJN1ZDR2R3NHQ",
+      "title": "谷歌推出 Android MCP 测试版,应用开始直接对接AI智能体",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcmdpMHNmY1RRVXZ6QXNMV05kc21nUEFwV1R1SHA3emkxS3p2dy1SZUdZMWxPNklIcm9wTHdVcGN0ZHR6WHNpZFV",
       "source_url": "https://pasqualepillitteri.it",
       "source": "Pasquale Pillitteri"
     },
     {
-      "title": "重大突破！Alice自研模型首家实现用一个MCP连接全域金融能力",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16cFBfZXhRRHJGazVuanIwSzFQalBrQ1ZlTDhXX1gtalUwRzMzQzZXVEI2MnJFZE1wMHZsVHlVb2dvcVppMHRDZkZ",
-      "source_url": "https://www.ichaoqi.com",
-      "source": "潮起网"
+      "title": "Reddit股价暴跌30%，确认谷歌搜索流量大幅下滑，AI Mode成主因",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcmIxZ3c4STQ2RkRhbWk1YkxwUTc1SW1pU1kxUk1TYnZlODVjRHRfR3ZGaXlJVU5jMzAtNFU1aXdMT3BPQzUwR2l",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     },
     {
-      "title": "2026罗技创享日启幕，集结职场“宝藏班底”探索工作新可能",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xcHpxMnV4NVpRbW5LN0pHcVFQWTMtSHdacUwxb2FyMWxzaTg1UmtfbTFBTUVMa0NtcmZVYzJkdDk1X0Y5U3AxMDE",
-      "source_url": "https://www.csdn.net",
-      "source": "CSDN"
+      "title": "从工具到经营智能体：钱潮杯解码跨境AI落地新图景",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRWY5M1poZjVxRmhrQ05HSWRTVGNrdkEyRm1qUVV3bGNBeVJ5MFlXbzE5R09xNzM1ZDRyYjlOY3ZIdThRNld2Rnh",
+      "source_url": "http://www.zj.chinanews.com.cn",
+      "source": "中国新闻网"
     },
     {
-      "title": "从启航到传承，苏职大恒隆AI单证智服订单班接力赋能智慧港口建设",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkNzF6NTJGMjc0R0NHazJRY0VvdEtsdUJzLXNWa25JSDI0ZjFLTEtCNGlrS05iUDFQTVNMT0h1Q2owand4dW1oSzN",
-      "source_url": "https://www.sohu.com",
-      "source": "搜狐网"
+      "title": "AMD 为嵌入式设计与开发全周期注入Agentic AI 强大能力- 设计与应用",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94RVBtTTlBZS13SXJfNkk0eXhkMVRRRjZ3eGR1eFRhNUlfcnpXb2x1MGxkSC1Jdy1yb05zTUp1RWlJNkhfQXkxblZ",
+      "source_url": "https://www.siscmag.com",
+      "source": "半导体芯科技"
     },
     {
-      "title": "青岛企业数字化转型T云GEO服务测评解析",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYM2t1UnllSWEtWExSNVlLN1BtNHdLTTY1WTFidFprQ01LVk5wVDhDMkZCV3ljOFJ0elBPNXV5X21VOEsxTXNvSnR",
-      "source_url": "https://t.cj.sina.cn",
+      "title": "万得旗下Alice正式独立！",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GOU9CMjV5SVI5bmxOSGVfV2pLczl3bzdMb0lEeGdjREpiSUVRbzNXdGw1ZWpsVnRzb2c5YWc1R0xVcGtxYmZXWU9",
+      "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "猎聘“非凡2026”全国企业共创会圆满收官，共探AI时代组织进化新路径",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QZEQyQ1RiZkdwcUtlalVaSEJjYzJpcElPYk1meXphZkpsUTAtUWhDMGpvV29fM3FLXzdhZ3BBRXpocUhVR0lZR0F",
-      "source_url": "https://news.bjd.com.cn",
-      "source": "京报网"
+      "title": "金融数据批量接入AI智能体，专业投研机构如何更好服务个人投资者？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWY3SVlSV0x4eU9GMHc3ckxuWjBFUjdPTlZjdno3eWpUYmdjbmlyeE04U3J2MXpGdV9POXMzNW9wTk1BS3Q2bUR",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     }
   ]
 }

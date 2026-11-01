@@ -1,54 +1,46 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 37,
-    "trusted": 11,
+    "raw_dedup_junk": 22,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 9,
-      "sina.cn": 2,
-      "sfccn.com": 1,
+      "sina.com.cn": 3,
+      "bjd.com.cn": 2,
+      "ac.cn": 2,
+      "pasqualepillitteri.it": 2,
       "china.com": 1,
-      "icloudnews.net": 1,
-      "donews.com": 1,
-      "wenxuan.news": 1,
-      "xinouzhou.com": 1,
-      "bjd.com.cn": 1,
-      "cnhubei.com": 1
+      "shobserver.cn": 1,
+      "pedaily.cn": 1,
+      "bbtnews.com.cn": 1,
+      "leikeji.com": 1,
+      "longbridge.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 8,
-    "relaxed_72h": 2,
-    "final": 7,
+    "fresh1_24h": 5,
+    "page_fresh": 1,
+    "relaxed_72h": 4,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "奥特曼：PC上装内存太浪费，最好留给AI数据中心",
+      "t": "DeepSeek发布最新Agent架构，让AI指挥AI干活",
       "d": "sohu.com"
     },
     {
-      "t": "苹果 AI 正式接入国产千问！国行 iPhone 用户福音，11 月 4 日开启",
+      "t": "最新封面报道之二｜最赚钱“AI实验室”IPO揭幕",
+      "d": "caixin.com"
+    },
+    {
+      "t": "“大模型”+仿人机器人如何落地？孟庆虎：不追求大而全 | 大湾区科学论坛",
       "d": "sohu.com"
     },
     {
-      "t": "AI智驾芯片战局生变，XHEART的差异化突围路径",
-      "d": "sohu.com"
+      "t": "以具身智能推动因材施教规模化“一核三翼一生态”五年战略",
+      "d": "cyol.com"
     },
     {
-      "t": "国行Apple智能定档12月：接入千问，苹果AI入华的“端云分工”与市场补课",
-      "d": "sohu.com"
-    },
-    {
-      "t": "人工智能产业日报(10.30) : AI行业动态",
-      "d": "sohu.com"
-    },
-    {
-      "t": "可灵AI完成198亿融资：Kling 4.0强势发布 IPO或成下一站",
-      "d": "sohu.com"
-    },
-    {
-      "t": "企业智能体如何走进实际业务？网易智企探索企业AI应用新路径",
-      "d": "sohu.com"
+      "t": "智能体年均增长超一倍，百度智能云给智能体配了套新底座",
+      "d": "zhidx.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 38,
+  "total": 21,
   "samples": [
     {
-      "title": "「Intel翻车」掀起芯片产业地震，单日市值缩水千亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SQjI2ZXVIay02SXd3bG5IZk9MTGprNmFmcVpGSkFfSEhHdDIydy1rVkhMOUo4UllrRnFJOUdibVoxaHlkVXhBVg?",
-      "source_url": "https://haiwaiwai.com",
-      "source": "https://haiwaiwai.com/"
+      "title": "AI光通信驱动光子芯片市场增长，InP晶圆产能成为增长的关键",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6dGVYSWsxa2o5QjJqeXFEY25LTUJLbmx4UTBiWVFWakhTdGhBWG5nY1JncXpHbG4yc0p6MVdzNkZCVURGR1RjaGV",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑"
     },
     {
-      "title": "英特尔股价一夜暴跌28%，半导体芯片板块震荡，科技股行情承压",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aTDd3cGFCWW4zYnZLdzUwR1RTMDNYM2FpUkNiVkVYNlFiSDB2YzBGSUExVE93M1BXb096ZFFta092ckJWZDc4VjN",
-      "source_url": "https://c.m.163.com",
-      "source": "网易新闻客户端"
+      "title": "台积电A14有望打破8年技术瓶颈 实现全球最小SRAM单元尺寸",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvQUNEZlJMUnl3SEdmLXZBcmM5b0R3eFUwbHh4OVdCZTFLNEhiSDJhODJzbmtvY1YzbUw0VXZpZDRYenl5cG9rWQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "创52年纪录！Intel一天暴跌30%，带崩全球半导体",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84V3diaS1sTHhFbE9jXzVMUnJwRmozZUpCcUFQbVVQOXZVaHhCZDJEYUw0UE05aU42ZTBmMmI1dXBiVlBUeFlqQVd",
-      "source_url": "https://www.wenxuecity.com",
-      "source": "文学城"
+      "title": "全志科技前三季度归母净利润6.59亿元 同比增136.76%",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWtqcTNtS2FaMTlVcTJsaHdTMmU3ejk3UkJoS01GSGM4V0pOUGExeEJyNE1pV3pjaUNyVlNILWhMZnd2NmtOX2N",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "集成电路人才如何培养？上大探索：校企共建专项班 课题100%来自产业",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qOThGekQ4TElNNW1qNEJBc1QxdGxUNDNOYW1CMC1NNGxOQ1FaRkRVMVBfZl84bXlvQmMtU2dZZE00U0w1T0F6ZF9",
-      "source_url": "https://www.jfdaily.com",
-      "source": "上观新闻"
-    },
-    {
-      "title": "存储芯片下跌只是刚刚开始",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52aXdsRW1IMHBpN1ZoQzRTbkRxN3pXN1phb21FNEczZXhvd3NmQ240aXRjcVYwYVNFb2hwellaYV9uMUx2ZTIxaGV",
-      "source_url": "https://user.guancha.cn",
-      "source": "风闻"
-    },
-    {
-      "title": "业内专家集聚未来半导体平行论坛，纵论AI与半导体融合的“下一个十年”",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHUzlTWk1TdlR0LUFheU4tLTBmT1RvdU1zd21iYzlWR193bDVMNTc3LWNhV196R3pkdFpBY1R5U3ZXZ3VtTTVtclQ",
-      "source_url": "https://finance.sina.com.cn",
+      "title": "美股三大指数集体收跌 费城半导体指数跌7.2%",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa0JTV3BBcUdnZmU4NjMxMUV4d0J4a1lsSVVtS1podjBVb256S1EwdFlidU9zd3dTamF4Vm1YbC15U2tfbTJ1dVB",
+      "source_url": "https://finance.sina.cn",
       "source": "新浪财经"
+    },
+    {
+      "title": "17个优质项目集中签约 投资额达105 亿元",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVXdERVNoNHVQWlRxVllwbmR3cl9USzB6MDlRODFSZzlVVUlqRUFUZEE2TGpvV3FheVoxOENMdEVRVkozbllXT3J",
+      "source_url": "https://epaper.tianjinwe.com",
+      "source": "天津日报"
+    },
+    {
+      "title": "IC插座市场展望2035：半导体测试与先进封装驱动需求加速",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcEZ0ZTEza2RGS2tJOGh3cTV3blNUVWZydDNfdU1IN1VhUDNVWW8xU2ZoM0ZCUFJVVnZSanV5cXVjSTltRloyay1",
+      "source_url": "https://www.indexbox.io",
+      "source": "新闻和统计"
     }
   ]
 }

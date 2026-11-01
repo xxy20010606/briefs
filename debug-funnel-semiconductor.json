@@ -1,53 +1,46 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 38,
-    "trusted": 20,
+    "raw_dedup_junk": 21,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "sina.cn": 3,
       "stockstar.com": 2,
-      "haiwaiwai.com": 1,
-      "wenxuecity.com": 1,
-      "jfdaily.com": 1,
-      "caiwennews.com": 1,
-      "asiae.co.kr": 1,
-      "moomoo.com": 1
+      "sina.cn": 1,
+      "tianjinwe.com": 1,
+      "indexbox.io": 1,
+      "worldjournal.com": 1,
+      "hsw.cn": 1,
+      "pasqualepillitteri.it": 1,
+      "ifnews.com": 1,
+      "vietnam.vn": 1,
+      "yeeyi.com": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 14,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 9,
+    "page_fresh": 2,
+    "relaxed_72h": 3,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "英特尔股价一夜暴跌28%，半导体芯片板块震荡，科技股行情承压",
-      "d": "163.com"
-    },
-    {
-      "t": "形势严峻！日本是中国最大的芯片设备进口国，随时可能断供",
-      "d": "sohu.com"
-    },
-    {
-      "t": "回暖实锤！意法半导体Q4指引超预期",
+      "t": "AI光通信驱动光子芯片市场增长，InP晶圆产能成为增长的关键",
       "d": "eet-china.com"
     },
     {
-      "t": "营收净利大增 603986三季度遭北向资金减持",
+      "t": "全志科技前三季度归母净利润6.59亿元 同比增136.76%",
       "d": "sohu.com"
     },
     {
-      "t": "美股三大指数全线收跌，存储芯片股重挫，英特尔暴跌超28%",
-      "d": "21jingji.com"
+      "t": "英伟达展示下一代CPO方案",
+      "d": "eastmoney.com"
     },
     {
-      "t": "AI驱动业绩强劲增长 半导体产业景气度有望攀新高",
-      "d": "cnstock.com"
+      "t": "OpenAI CEO到访三星 会谈约50名高管 存储芯片及AI基础设施合作是重点",
+      "d": "cls.cn"
     },
     {
-      "t": "康美特的前世今生：葛世立掌舵二十年深耕高分子新材料赛道，打破海外技术垄断布局先进",
-      "d": "ifeng.com"
+      "t": "集微咨询发布《2026年测试设备行业研究报告》",
+      "d": "sohu.com"
     }
   ]
 }

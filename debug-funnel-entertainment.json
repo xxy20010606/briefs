@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 15,
+    "raw_dedup_junk": 37,
+    "trusted": 12,
     "non_trusted_top": {
-      "bjd.com.cn": 6,
-      "sina.com.cn": 3,
-      "hupu.com": 3,
-      "youth.cn": 2,
-      "hizh.cn": 2,
-      "stockstar.com": 1,
-      "westca.com": 1,
+      "hupu.com": 7,
+      "bjd.com.cn": 5,
+      "kagit.kr": 2,
+      "mk.co.kr": 1,
+      "china.com": 1,
       "sina.cn": 1,
-      "molihua.org": 1,
-      "hk01.com": 1
+      "sina.com.cn": 1,
+      "zijing.com.cn": 1,
+      "zgm.cn": 1,
+      "myzaker.com": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 8,
+    "page_fresh": 3,
+    "relaxed_72h": 9,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "AI电影上映一周票房不到150万，AI电影败走院线",
+      "t": "《愤怒的老虎》定档10月23日：朱正廷蒋梦婕在老宅绝境撕开人性恶念的獠牙",
       "d": "sohu.com"
     },
     {
-      "t": "草原之上，沐瞳为草根电竞搭起擂台",
+      "t": "【文体市场面面观】“电影+体育”不是简单做加法",
+      "d": "ce.cn"
+    },
+    {
+      "t": "2026年内蒙古文化活动季收官",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "22.4万票断层第一，电竞粤超为何成了广东消费新场景的“票王”？",
       "d": "sohu.com"
     },
     {
-      "t": "人宠同台共演舞台剧 狗狗“演员”长春首秀萌动全场",
+      "t": "正式启幕！第六届粤港澳大湾区文化艺术节来了，交响套曲《珠江》成功世界首演",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "首部AI院线电影“遇冷”",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "“同唱友谊歌”——2026中越金曲音乐盛典在河内举行",
       "d": "chinanews.com.cn"
-    },
-    {
-      "t": "心理悬疑话剧《心理游戏》中文版首演",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "弦歌赴约 情满草原 2026年内蒙古文化活动季收官",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "2026年金鸡百花电影生活季将于11月6日启幕",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "第32届明斯克国际电影节开幕--国际",
-      "d": "people.com.cn"
     }
   ]
 }
