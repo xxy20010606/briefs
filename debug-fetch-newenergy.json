@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 10,
+  "total": 22,
   "samples": [
     {
-      "title": "高原新能源“充电宝”破解供电难题 绿色电力保障民生需求",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SQXVZMnd4UW8tR2RnRjBkUm44X1U2eFlKT0ZkQnU5c0hfTXFfY3ctaVAxWERxaW1Hc0dSU3g4ZnhwR0lqYzhDVHR",
-      "source_url": "http://news.hsw.cn",
-      "source": "华商网"
+      "title": "储能装机达167GW/435GWh！到2030年算力用电8000亿千瓦时",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jQmYtMjNTZno3ZjhGRzF3cm5CTlpuaDNPZ2V6Tm5xOVcxN2gxZm03TnJpWDhEMm1IVGJfbXc5R0JhaDYxYzVzci0",
+      "source_url": "http://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "山东发展新能源集团拿下单州新型储能科技79%股权，人事同步调整！",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMkQ4NDdlMEk0Mjl3M240c1NaRWpQbHBXWVo4Z2pWcTA4cVN4WVhXTGRfUGNfeTZUblB5SWUwRDd3NjcwcGZaUTB",
+      "title": "苏州夫妻联手操盘，580亿光伏巨头过冬",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EWF9PZFpibUZvTjJWcW5xMWV6VWtLMllhdnU0VlYzQlhycnBteDJjU05oOVlFdjVCcE5BRk9KdkVXa3NueGNiM1F",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "空中丝路达四海 航空枢纽托举陕西外贸增速领跑全国",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DckhPamZpZlRlNmgxVEJQZml3X0w2cjlrSFBoQ1k4Snhxb3FxRHBGTGVsNnc2VGtDQUpYWUZLOXNUZXpEQnZnU0U",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "霍尔木兹海峡危机，意外带火了中国新能源",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzMnpkQ0dsazhVUEFhbGs0ZGdGeEcwOFhBVWZtOFlLWjhTVk5LanFuWFNJeFMwTFZVa3l4c01qNFF6d2I0RWdPY3l",
+      "source_url": "https://www.thepaper.cn",
+      "source": "ThePaper.cn"
+    },
+    {
+      "title": "南十字星下的中国能源军团：All-Energy Australia 2026 背后的光储棋局",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51RnRUZndUSzFRVWJOVVlQSzBiak9OM0NOX2hQVXhHRTQtY1lnakZfWHByWTdqd0J0Rm8waWI1UG01dnhmOHNkWm9",
+      "source_url": "https://www.ichaoqi.com",
+      "source": "潮起网"
+    },
+    {
+      "title": "国产碳化硅功率器件加工装备成功量产交付",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVFhMLWNfVmtxalNQbFprbUNvWUpwd3M1RS04ZFZLNWRva0s2VzJUaHUzVnUyc2dNMmlGTHRMOVRremtFT1NfYmJ",
       "source_url": "https://www.sohu.com",
       "source": "搜狐网"
-    },
-    {
-      "title": "东吴解读Q3基金电新持仓：工控上升，电动车、光伏、风电、电力设备、储能板块均下降",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SMVlZNEpzdUhtWE4zZlp3N0VzbW82RGJHVUlTWWlvQjh5Z3NxNl9ULTNpNmRqS3RaQ21EdnYwM1g1MlE2cm0yMXl",
-      "source_url": "http://xg.stock.cnfol.com",
-      "source": "中金在线"
-    },
-    {
-      "title": "陈伟丽：泰国汽车产业正在向电动汽车转型，进一步发展电池和高端汽车零部件产业",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGRRT2lHcWFLY2pYMDFwUzJqWjZXUHJSWE9pcE5MbE5jM0xJLVVuRm1TNXV1SVBaTHNhMEFKbkphT3BzM0NzWlh",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "百亿零碳投资提速 比亚迪电池循环经济产业园落地辽宁营口",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00RlNTWG1NcG5TcFlfYjUwdlVZekJpRlhDY1JtdzRRSHprQXJZcTNoendNSUlhd0FFcjhJRzl2S2ZUUVhfaXZBTHV",
-      "source_url": "https://www.itdcw.com",
-      "source": "https://www.itdcw.com/"
-    },
-    {
-      "title": "高志凯亲历比亚迪三阶段，王传福愿景一一实现",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHhxZENVaFp6YlZBWUZtQlVRNUsyYWhJVVlYTlFWSXlKbzJlQktFVGFMLUVXTndFT2dLRENDb3J3SGR5YVUzcHV",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
     }
   ]
 }

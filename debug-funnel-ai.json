@@ -2,53 +2,49 @@
   "type": "ai",
   "stages": {
     "raw_dedup_junk": 26,
-    "trusted": 8,
+    "trusted": 6,
     "non_trusted_top": {
-      "sina.com.cn": 4,
+      "sina.com.cn": 5,
+      "csdn.net": 3,
       "sina.cn": 3,
-      "icloudnews.net": 2,
-      "ac.cn": 2,
-      "peoplecen.com": 1,
-      "beijing.gov.cn": 1,
+      "pasqualepillitteri.it": 2,
       "jfdaily.com": 1,
-      "pasqualepillitteri.it": 1,
+      "guandian.cn": 1,
+      "chinadaily.com.cn": 1,
       "hk01.com": 1,
-      "zjol.com.cn": 1
+      "moomoo.com": 1,
+      "enanyang.my": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 5,
-    "relaxed_72h": 2,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 4,
+    "page_fresh": 3,
+    "relaxed_72h": 3,
+    "final": 6,
+    "cap": "不限同域"
   },
   "final": [
     {
+      "t": "图观中国| 激增1400倍的Token背后，中国大模型正在悄悄改变什么？",
+      "d": "guancha.cn"
+    },
+    {
       "t": "AI赋能千行百业一线观察丨“AI+消费”的N种可能",
-      "d": "news.cn"
+      "d": "china.com.cn"
     },
     {
-      "t": "奋楫争先 青企担当｜极视角：扎根产业现场，锻造青岛AI视觉力量",
-      "d": "ifeng.com"
+      "t": "DeepSeek大动作！Agent商业化有望提速这14股业绩逐季高增(名单)",
+      "d": "eastmoney.com"
     },
     {
-      "t": "新华视点丨AI赋能电力 如何更好守住万家灯火",
-      "d": "news.cn"
-    },
-    {
-      "t": "百度确认副总裁吴甜离职，由97年复旦大学博士孙天祥接棒",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "Agent改写算力账本，CPU不再是AI服务器的配角？",
-      "d": "huxiu.com"
+      "t": "“链上鲁渝”大模型专场产业协作对接活动在渝举行",
+      "d": "sohu.com"
     },
     {
       "t": "最新封面报道之二｜最赚钱“AI实验室”IPO揭幕",
       "d": "caixin.com"
     },
     {
-      "t": "清华联合无问芯穹、智元提出具身智能群体经验学习范式",
-      "d": "zhidx.com"
+      "t": "科大国创AI应用服务商在行动系列报道AI“驻站”上岗，储能电站有了“最强大脑”",
+      "d": "10jqka.com.cn"
     }
   ]
 }

@@ -1,38 +1,37 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 10,
-    "trusted": 4,
+    "raw_dedup_junk": 22,
+    "trusted": 3,
     "non_trusted_top": {
-      "hsw.cn": 1,
-      "itdcw.com": 1,
-      "sina.com.cn": 1,
-      "autohome.com.cn": 1,
-      "sina.cn": 1,
-      "indexbox.io": 1
+      "autohome.com.cn": 6,
+      "sina.com.cn": 4,
+      "sina.cn": 3,
+      "ichaoqi.com": 1,
+      "52hrtt.com": 1,
+      "tibet.cn": 1,
+      "idnfinancials.com": 1,
+      "stockstar.com": 1,
+      "seetao.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 4,
-    "relaxed_72h": 0,
-    "final": 4,
+    "fresh1_24h": 3,
+    "page_fresh": 0,
+    "relaxed_72h": 3,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "山东发展新能源集团拿下单州新型储能科技79%股权，人事同步调整！",
+      "t": "霍尔木兹海峡危机，意外带火了中国新能源",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "国产碳化硅功率器件加工装备成功量产交付",
       "d": "sohu.com"
     },
     {
-      "t": "东吴解读Q3基金电新持仓：工控上升，电动车、光伏、风电、电力设备、储能板块均下降",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "陈伟丽：泰国汽车产业正在向电动汽车转型，进一步发展电池和高端汽车零部件产业",
+      "t": "带领中国新能源汽车走向全球，王传福荣获中国汽车工业最高荣誉",
       "d": "sohu.com"
-    },
-    {
-      "t": "15000次循环！中创新航枣庄基地588Ah电芯下线",
-      "d": "solarbe.com"
     }
   ]
 }

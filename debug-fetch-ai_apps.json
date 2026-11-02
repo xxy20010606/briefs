@@ -1,7 +1,19 @@
 {
   "type": "ai_apps",
-  "total": 18,
+  "total": 6,
   "samples": [
+    {
+      "title": "纽约市禁止学校使用AI一年，研究怎么说",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYW55eXpFMEp0eTU2Tl9kckd6UHlrUUdmVVAzSklNcDAwSnFjR3VlU0NNZENZNFdfMEFHRkFydHQ5VVhDTGNHNmp",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
+    },
+    {
+      "title": "AI进入真实业务层：换道容易拆墙难，当IT方案没人用，主导权该还给谁？",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LVTJleE84R2JvNmRxeFZoTWo5UlRoRE92Qld1XzNneTdzRFZzVEI4eWJVbWpCY3FFZkdJMl8xMzIwclAydldOa0x",
+      "source_url": "https://www.nbd.com.cn",
+      "source": "每日经济新闻"
+    },
     {
       "title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2V29EOXF6VVZ0STdwNTNTRFE2UDFOdzExU0hBYUJMV2hLN2RPc1MyVnAtRnRFd0F0dUpJeU1HRnFVZUUxeGRyc2Z",
@@ -9,34 +21,22 @@
       "source": "InfoQ.cn"
     },
     {
-      "title": "Gemini 推出可共享的头像，朋友能出现在你的 AI 视频和图片里",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbi0zRmlOcjhYSHpLSXNkbU9xN2lPYi1JRTVzX1pIaEhtSVRYNmlZQ0JnUF9ETjZiS21jRTZVZ2hTbDNlRlctbW1",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "对话希扬资本姚致远：AI消费硬件，投老二、老三意义不大",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EMWpfSjFPckgxLW5fa0NCSnRTNURJNEtRQVZZUmZOcTRfd0I0c0lOZ3p2RDhlQkp5VWljdFIwTjlWWTcxT1VGdk5",
+      "source_url": "https://user.guancha.cn",
+      "source": "风闻"
     },
     {
-      "title": "Balmuda 推出 Good Morning Radio,为 The Clock 打造的 AI 电",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGxIcTd2aGJSY3U1dnd4VkhYRHFYb19kMEJUXzJOX0pMZ2Z4V21ZeVVqdEJsOXJnUUx4UEtRWmZPdDFzQmstQjd",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "国艺·新尚｜焕新家庭绿色体验",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkxaT0UxdHk1enEwYUFLZ1U4QVcydVpZUlBCOHV1akQ4TnlSSUhfZ251RVprMnFjNVZDaWMzSl8xTnVYaEwybnE",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪网"
     },
     {
-      "title": "用AI怕泄密？深圳发布全国首个AI工具应用商业秘密保护指引",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSzFZdVBqYzJvWDljcE1makRkWjYxNTgxSTRKUklxeU16cFRZNDBXMExkaW04b2VucEh3T0dyRzFSQkIyUGd1SjR",
-      "source_url": "http://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "Chainalysis遭网络攻击，部分客户信息泄露",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWlqcXNmS0NvRmlOWmZBOWpFUGhLYWtEdnZ0aDhlWmtfQ1RfaVBrSm5RRDlLNHg3RDVZTzZJYWtmeHJsaVJXLUs",
-      "source_url": "https://www.digitaltoday.co.kr",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "学AI实操本领 拓创业就业新路——嘉定“AI启航・创无止境”AIGC创业训练营顺利结营",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XNmpYQnlsVjROWWVVS3ZOTUt1dXVTdm91VjhuR2VqOG5ZN2tkS2RIN2gxUTNlVzdrLTFwZ3NmdFZGNE1qNHdsMEZ",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "ThinkingAI Agentic Engine全新发布！打通用户洞察与增长验证闭环",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aVmVtaWJUb1pOXzFYYVFOaVRxbGdOUUE1dGROU1pVOFViM2liYWRBSkQyOVZZejczaEsyWE1BUXBrcDk1Y3FGWEZ",
+      "source_url": "https://news.tom.com",
+      "source": "TOM"
     }
   ]
 }

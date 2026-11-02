@@ -1,50 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 24,
-    "trusted": 15,
+    "raw_dedup_junk": 22,
+    "trusted": 8,
     "non_trusted_top": {
-      "sina.com.cn": 3,
+      "digitimes.com.tw": 2,
+      "sina.com.cn": 2,
+      "guandian.cn": 2,
       "sina.cn": 2,
-      "pedaily.cn": 1,
+      "vanpeople.com": 1,
+      "hubeidaily.net": 1,
       "vietnam.vn": 1,
-      "eastmoney.com": 1,
-      "stockstar.com": 1
+      "enanyang.my": 1,
+      "17173.com": 1,
+      "jkn.co.kr": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 11,
-    "relaxed_72h": 0,
+    "fresh1_24h": 5,
+    "page_fresh": 4,
+    "relaxed_72h": 3,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "呈现中国芯片世界从“无芯”到“有芯”，《高贵的匍匐：“龙芯之母”黄令仪》出版",
-      "d": "sohu.com"
+      "t": "美股AI芯片板块全线大跌，AMD跌10.88%丨美股复盘",
+      "d": "eastmoney.com"
     },
     {
-      "t": "希腊政府，发力芯片产业",
-      "d": "sohu.com"
+      "t": "国产IP核：幕后英雄，加快发展",
+      "d": "cnstock.com"
     },
     {
-      "t": "当AI“吞噬”内存",
+      "t": "美国芯片股在暗盘交易中集体走强",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "券商晨会精华：一旦市场情绪否极泰来，重点关注行业景气度上行的方向_市场测评_市场",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "从技术分析角度看调整目标在哪里？｜程大爷论市",
       "d": "21jingji.com"
     },
     {
-      "t": "芯德半导体，68.84亿-76.85亿，ai半导体封测服务供应商",
-      "d": "ifeng.com"
+      "t": "世界顶尖科学家校园行活动走进上海大学共话科学突破新范式-中新社上海",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "张坤的最新科技投资逻辑：独管产品加芯片，共管产品减电子",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "芯片是\"刻\"出来的，不是\"画\"出来的 —— 一份讲义讲把等离子体材料相互作用原理",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "AI光通信驱动光子芯片市场增长，InP晶圆产能成为增长的关键",
-      "d": "eet-china.com"
+      "t": "业内大咖集聚上海临港，纵论AI与半导体融合的“下一个十年”",
+      "d": "gmw.cn"
     }
   ]
 }

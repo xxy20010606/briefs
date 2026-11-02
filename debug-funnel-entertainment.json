@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 13,
+    "raw_dedup_junk": 37,
+    "trusted": 16,
     "non_trusted_top": {
-      "bjd.com.cn": 4,
-      "sina.cn": 3,
       "hupu.com": 3,
-      "yzwb.net": 3,
+      "360.com": 2,
+      "sina.com.cn": 2,
+      "sina.cn": 2,
       "china.com": 2,
-      "youth.cn": 2,
-      "sina.com.cn": 1,
-      "mk.co.kr": 1,
-      "animationmagazine.net": 1,
-      "hk01.com": 1
+      "bjd.com.cn": 2,
+      "epochtimes.com": 1,
+      "jfdaily.com.cn": 1,
+      "yzwb.net": 1,
+      "qianlong.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 12,
+    "page_fresh": 6,
+    "relaxed_72h": 9,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "演员邵老五回应“陕西导演街头求人看电影”：刷到视频心头一酸",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "成本千万票房不到150万？首部AI电影《三星堆：未来往事》败走大银幕",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "专访深湾创科总经理：电竞粤超的消费场景“新”在哪",
+      "t": "用“火眼金睛”识破换脸把戏（我身边的最强大脑）",
       "d": "sohu.com"
     },
     {
-      "t": "电竞粤超何以领跑广东消费新场景？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "AI电影，正在将电影院逼进“死胡同”？",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "警方通报“谢霆锋演唱会被扔荧光棒”：已对违法行为人作出行政处罚",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "2026中国广播电视精品创作大会动画论坛亮点前瞻",
+      "t": "文化新三样·CPOPwave中国潮流IP全球对话即将举行",
       "d": "gmw.cn"
+    },
+    {
+      "t": "戏剧之桥连接艺术与生活——第十三届乌镇戏剧节印象",
+      "d": "gmw.cn"
+    },
+    {
+      "t": "2026年山西省群众文化活动戏曲票友大赛落幕",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "歌剧《长征》十年磨砺致敬伟大远征",
+      "d": "sohu.com"
+    },
+    {
+      "t": "如何摆脱非洲文学的刻板印象 | 专访穆罕默德·姆布加尔·萨尔",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "舞剧《妈祖》系列报道⑩︱本网组图：走进舞剧《妈祖》的台前幕后",
+      "d": "cctv.com"
     }
   ]
 }
