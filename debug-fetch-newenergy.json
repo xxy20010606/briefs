@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 22,
+  "total": 31,
   "samples": [
     {
-      "title": "储能装机达167GW/435GWh！到2030年算力用电8000亿千瓦时",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jQmYtMjNTZno3ZjhGRzF3cm5CTlpuaDNPZ2V6Tm5xOVcxN2gxZm03TnJpWDhEMm1IVGJfbXc5R0JhaDYxYzVzci0",
-      "source_url": "http://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "苏州夫妻联手操盘，580亿光伏巨头过冬",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EWF9PZFpibUZvTjJWcW5xMWV6VWtLMllhdnU0VlYzQlhycnBteDJjU05oOVlFdjVCcE5BRk9KdkVXa3NueGNiM1F",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "空中丝路达四海 航空枢纽托举陕西外贸增速领跑全国",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DckhPamZpZlRlNmgxVEJQZml3X0w2cjlrSFBoQ1k4Snhxb3FxRHBGTGVsNnc2VGtDQUpYWUZLOXNUZXpEQnZnU0U",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "霍尔木兹海峡危机，意外带火了中国新能源",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzMnpkQ0dsazhVUEFhbGs0ZGdGeEcwOFhBVWZtOFlLWjhTVk5LanFuWFNJeFMwTFZVa3l4c01qNFF6d2I0RWdPY3l",
-      "source_url": "https://www.thepaper.cn",
-      "source": "ThePaper.cn"
-    },
-    {
-      "title": "南十字星下的中国能源军团：All-Energy Australia 2026 背后的光储棋局",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51RnRUZndUSzFRVWJOVVlQSzBiak9OM0NOX2hQVXhHRTQtY1lnakZfWHByWTdqd0J0Rm8waWI1UG01dnhmOHNkWm9",
-      "source_url": "https://www.ichaoqi.com",
-      "source": "潮起网"
-    },
-    {
-      "title": "国产碳化硅功率器件加工装备成功量产交付",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVFhMLWNfVmtxalNQbFprbUNvWUpwd3M1RS04ZFZLNWRva0s2VzJUaHUzVnUyc2dNMmlGTHRMOVRremtFT1NfYmJ",
-      "source_url": "https://www.sohu.com",
+      "title": "这家光伏和储能龙头股价承压，但分析师重申看多态度",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzVsNDRxZElBQV8zV0dhX01XamZCZTFZZEkwczQydXBoLUdYWjlkYi1La3d2Sm1oc0IyblNiRzY5NUFuR3pBTDA",
+      "source_url": "https://m.sohu.com",
       "source": "搜狐网"
+    },
+    {
+      "title": "中国绿发阜康10万千瓦塔式熔盐光热项目顺利并网发电",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFZEZVektCMnlyN3FQRmJCajFJem43MHA2UDgxV3l6dnRkME0yOW9NMXN5Q2gtSjltS1UwWm44aFNidnlDS1QtV3N",
+      "source_url": "https://www.ne21.com",
+      "source": "世纪新能源网"
+    },
+    {
+      "title": "如何避免产业政策导致行业亏损？",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uWDZvQXRuM0h1RWQzY3RBRGI0eHRic2xLSWZJQk8zMEVsQjNPaEk3b3JiSUpITVFVaHVnRHNZTEQ5cm1fRWVEeW9",
+      "source_url": "https://www.ne21.com",
+      "source": "世纪新能源网"
+    },
+    {
+      "title": "中国电建华东院预中标！华润610.4MW海上风电",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyeThtY2E4TTFyNjNuTzd5RHgyd3hKX3FtLWRybV9SSGRSRFlMSGFYN2RsLXUybEw2allzdHhkWk03aVo1MDlPREF",
+      "source_url": "https://www.ne21.com",
+      "source": "世纪新能源网"
+    },
+    {
+      "title": "2GW！隆基签组件大单",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QOFhMUGVWRFdHQk42d0VBakViNU4yWkZJaV81VUg3Zzh1ZWtjcDdmdXhzTUxOM25vdTNhMW1IM3NQbFI2dmFRZVU",
+      "source_url": "https://www.ne21.com",
+      "source": "世纪新能源网"
+    },
+    {
+      "title": "中石化原董事长被查！",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OcmpMSnA3cXhXeXZrdzQxTXVqbHhOWExZRGZKRkpzZDY5Rl9SSy1QYzhvLWhZdnZjaGI4N2hlZTloYUNDM09kVUM",
+      "source_url": "https://www.ne21.com",
+      "source": "世纪新能源网"
     }
   ]
 }

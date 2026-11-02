@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 6,
+  "total": 19,
   "samples": [
     {
-      "title": "纽约市禁止学校使用AI一年，研究怎么说",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYW55eXpFMEp0eTU2Tl9kckd6UHlrUUdmVVAzSklNcDAwSnFjR3VlU0NNZENZNFdfMEFHRkFydHQ5VVhDTGNHNmp",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "【鲁泰集团】鲁泰·飞书协同办公与AI应用项目正式启动",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XdDY5TG1lbnlLNS1IWlFza0d1RExiMlFzZHNYbmpXZVZRdFAwVHZPazJpVHY0a3c0THFqNUhUaTNDLVlzekJibTd",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "AI进入真实业务层：换道容易拆墙难，当IT方案没人用，主导权该还给谁？",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LVTJleE84R2JvNmRxeFZoTWo5UlRoRE92Qld1XzNneTdzRFZzVEI4eWJVbWpCY3FFZkdJMl8xMzIwclAydldOa0x",
-      "source_url": "https://www.nbd.com.cn",
-      "source": "每日经济新闻"
+      "title": "七维教育亮相第88届教装展，重磅发布“评估+AI”双引擎生态",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42U1FSNkJjcU1ndGh0aWticy1WT2lmeFFNMmpBZHBqa2hra0FBYUNKaUlJTDV1UmR6T3BuMC11QW0yTllIdXFWUkR",
+      "source_url": "https://mtz.china.com",
+      "source": "中华网"
     },
     {
-      "title": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2V29EOXF6VVZ0STdwNTNTRFE2UDFOdzExU0hBYUJMV2hLN2RPc1MyVnAtRnRFd0F0dUpJeU1HRnFVZUUxeGRyc2Z",
-      "source_url": "https://www.infoq.cn",
-      "source": "InfoQ.cn"
+      "title": "海高激光启动“百度搭子”AI深度应用项目，破解跨系统效率瓶颈",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uVXdMTzRDeGtPVTRzRE8wMWxzbFJTWUhXMko3b185YS02cURaNHNOSW5GOEczVUVoa0lTWUUxV2twZjZjazlhUg?",
+      "source_url": "https://www.pingwest.com",
+      "source": "品玩"
     },
     {
-      "title": "对话希扬资本姚致远：AI消费硬件，投老二、老三意义不大",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EMWpfSjFPckgxLW5fa0NCSnRTNURJNEtRQVZZUmZOcTRfd0I0c0lOZ3p2RDhlQkp5VWljdFIwTjlWWTcxT1VGdk5",
-      "source_url": "https://user.guancha.cn",
-      "source": "风闻"
+      "title": "首份AI应用调查，香港证监会划四大监管重点，AI不能替人背锅",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94bFdNTXI5dWNzM0NQZ3MyYm03Nnk3UjlEckJ2WUhTSFczSEcyLV92NmFGQXNRNmxqc3RRak5najYwUEI4T3FWNUQ",
+      "source_url": "https://finance.ifeng.com",
+      "source": "凤凰网财经"
     },
     {
-      "title": "国艺·新尚｜焕新家庭绿色体验",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkxaT0UxdHk1enEwYUFLZ1U4QVcydVpZUlBCOHV1akQ4TnlSSUhfZ251RVprMnFjNVZDaWMzSl8xTnVYaEwybnE",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪网"
+      "title": "游族网络三季报营收净利双增，AI+算力构筑新增长曲线_滚动新闻",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nbTNPWXpqVlA4Y2E2cFphUkVRMWVLdHpLS2NiU293U3ZobFFIMW9JWW9XNkJZOEswVWhsaUxsVjdrR2JtUGJ4dHk",
+      "source_url": "https://finance.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "ThinkingAI Agentic Engine全新发布！打通用户洞察与增长验证闭环",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aVmVtaWJUb1pOXzFYYVFOaVRxbGdOUUE1dGROU1pVOFViM2liYWRBSkQyOVZZejczaEsyWE1BUXBrcDk1Y3FGWEZ",
-      "source_url": "https://news.tom.com",
-      "source": "TOM"
+      "title": "600715，上演“地天板”",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UcFJ1dmtWaGR2V05pb2pQYzJlY2txZENyU1dfMjN6UjZmTjhQUm40MGNlTWk2VmRtVG1kelB6RkZTRjMtWHdUbHZ",
+      "source_url": "https://finance.ifeng.com",
+      "source": "凤凰网财经"
     }
   ]
 }

@@ -1,50 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 24,
-    "trusted": 6,
+    "raw_dedup_junk": 43,
+    "trusted": 13,
     "non_trusted_top": {
-      "moomoo.com": 4,
-      "sina.com.cn": 3,
-      "futunn.com": 3,
-      "sina.cn": 2,
-      "stockstar.com": 1,
-      "investing.com": 1,
-      "fx168news.com": 1,
-      "china.com": 1,
-      "tradingkey.com": 1,
-      "hk01.com": 1
+      "sina.com.cn": 9,
+      "stockstar.com": 3,
+      "com.sg": 2,
+      "tmgm.com": 2,
+      "hstong.com": 2,
+      "jkn.co.kr": 1,
+      "kyungjeilbo.com": 1,
+      "sina.cn": 1,
+      "sfccn.com": 1,
+      "aboluowang.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 2,
-    "relaxed_72h": 4,
-    "final": 6,
-    "cap": "不限同域"
+    "fresh1_24h": 12,
+    "page_fresh": 11,
+    "relaxed_72h": 1,
+    "final": 7,
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "港股早报｜股票回购增持专项贷款或新增两千亿级 美股纳指周五跌近3%",
+      "t": "破发股*ST康乐跌8.13% 2023年上市即巅峰中信证券保荐_股市聚焦_市场_",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "破发股*ST仕净跌6.18% IPO国联民生保荐两募资共6.2亿_股市聚焦_市场",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "ST南新连亏5年3季 2020年上市募12亿元西部证券保荐_股市聚焦_市场_中金",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "金价创一年多新低，见底了吗？",
+      "d": "sohu.com"
+    },
+    {
+      "t": "商品市场波动加大 私募控回撤调结构",
       "d": "21jingji.com"
     },
     {
-      "t": "泡泡玛特(09992)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "金融监管部门将召开座谈会，A股将迎哪些利好？",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "中外资机构：中国股市逐步接近周期性底部",
-      "d": "21jingji.com"
+      "t": "港股早报｜股票回购增持专项贷款或新增两千亿级 美股纳指跌近3%",
+      "d": "cls.cn"
     },
     {
       "t": "专栏｜中美利差创新低，人民币为何还能升值？",
       "d": "caixin.com"
-    },
-    {
-      "t": "报告：资本市场助力中国AI产业链融资",
-      "d": "163.com"
     }
   ]
 }

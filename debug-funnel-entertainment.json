@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 37,
+    "raw_dedup_junk": 62,
     "trusted": 16,
     "non_trusted_top": {
-      "hupu.com": 3,
-      "360.com": 2,
+      "sina.cn": 5,
+      "china.com": 4,
+      "bjd.com.cn": 4,
       "sina.com.cn": 2,
-      "sina.cn": 2,
-      "china.com": 2,
-      "bjd.com.cn": 2,
-      "epochtimes.com": 1,
-      "jfdaily.com.cn": 1,
-      "yzwb.net": 1,
-      "qianlong.com": 1
+      "workercn.cn": 2,
+      "cjn.cn": 2,
+      "jsxc.gov.cn": 2,
+      "ofweek.com": 1,
+      "17173.com": 1,
+      "mydrivers.com": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 6,
-    "relaxed_72h": 9,
+    "fresh1_24h": 16,
+    "page_fresh": 15,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "用“火眼金睛”识破换脸把戏（我身边的最强大脑）",
+      "t": "成本千万票房不到150万？首部AI电影《三星堆：未来往事》败走大银幕，出品方博纳",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "10.26-11.1内地一周票房报收1.78亿 《生化危机：爆发夜》四连冠累计票",
       "d": "sohu.com"
     },
     {
-      "t": "文化新三样·CPOPwave中国潮流IP全球对话即将举行",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "戏剧之桥连接艺术与生活——第十三届乌镇戏剧节印象",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "2026年山西省群众文化活动戏曲票友大赛落幕",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "歌剧《长征》十年磨砺致敬伟大远征",
+      "t": "电影《琴弓师》定档 11.17：让世界听见江南匠心奏响中国琴弓",
       "d": "sohu.com"
     },
     {
-      "t": "如何摆脱非洲文学的刻板印象 | 专访穆罕默德·姆布加尔·萨尔",
-      "d": "bjnews.com.cn"
+      "t": "模仿刘德华出道，《伟大的长征》他第3次演陈云，去标签成功，转型特型演员",
+      "d": "163.com"
     },
     {
-      "t": "舞剧《妈祖》系列报道⑩︱本网组图：走进舞剧《妈祖》的台前幕后",
-      "d": "cctv.com"
+      "t": "游戏影视板块点评丨指数盘中涨超8%，AI短剧与互动影游催化升温",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "东北话陆剧火到台湾！台湾网友追剧上头，发起“东北话听力”挑战-中新网",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "川籍音乐家节日管弦乐团全球首演 40余位川籍音乐家携乐归乡",
+      "d": "chinanews.com.cn"
     }
   ]
 }

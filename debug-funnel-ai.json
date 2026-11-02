@@ -1,50 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 26,
-    "trusted": 6,
+    "raw_dedup_junk": 47,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.com.cn": 5,
+      "stockstar.com": 4,
       "csdn.net": 3,
-      "sina.cn": 3,
-      "pasqualepillitteri.it": 2,
-      "jfdaily.com": 1,
+      "sina.com.cn": 3,
+      "hangzhou.com.cn": 2,
+      "techwalker.com": 2,
+      "smartcity.team": 1,
+      "zjol.com.cn": 1,
+      "tom.com": 1,
       "guandian.cn": 1,
-      "chinadaily.com.cn": 1,
-      "hk01.com": 1,
-      "moomoo.com": 1,
-      "enanyang.my": 1
+      "hzsc.com.cn": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 3,
-    "relaxed_72h": 3,
-    "final": 6,
-    "cap": "不限同域"
+    "fresh1_24h": 15,
+    "page_fresh": 15,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "图观中国| 激增1400倍的Token背后，中国大模型正在悄悄改变什么？",
-      "d": "guancha.cn"
+      "t": "“互联网之光”博览会|这片“新空间”，让AI加速进入现实世界",
+      "d": "gmw.cn"
     },
     {
-      "t": "AI赋能千行百业一线观察丨“AI+消费”的N种可能",
-      "d": "china.com.cn"
-    },
-    {
-      "t": "DeepSeek大动作！Agent商业化有望提速这14股业绩逐季高增(名单)",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "“链上鲁渝”大模型专场产业协作对接活动在渝举行",
+      "t": "算力铺底、5G入海，见证齐鲁产业“智变”",
       "d": "sohu.com"
     },
     {
-      "t": "最新封面报道之二｜最赚钱“AI实验室”IPO揭幕",
-      "d": "caixin.com"
+      "t": "国内首个\"自进化\"金融增强大模型轩辕4.5来了 #度小满 #香港金融科技周 #人",
+      "d": "sohu.com"
     },
     {
-      "t": "科大国创AI应用服务商在行动系列报道AI“驻站”上岗，储能电站有了“最强大脑”",
-      "d": "10jqka.com.cn"
+      "t": "瞭望访谈｜破局智能体安全挑战-瞭望周刊社",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "对话智谱、银河通用、光轮、滴普：“大语言模型究竟会不会把具身模型吃掉？”｜甲子光",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "聚力自主AI创新，西安人工智能与词元经济发展大会赋能数字经济新发展",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "趋境科技联合智谱、摩尔线程共创国产高品质 AI Token 工厂新范式",
+      "d": "leiphone.com"
     }
   ]
 }

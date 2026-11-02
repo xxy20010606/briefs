@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 22,
-    "trusted": 8,
+    "raw_dedup_junk": 44,
+    "trusted": 27,
     "non_trusted_top": {
-      "digitimes.com.tw": 2,
-      "sina.com.cn": 2,
+      "stockstar.com": 3,
       "guandian.cn": 2,
       "sina.cn": 2,
-      "vanpeople.com": 1,
-      "hubeidaily.net": 1,
-      "vietnam.vn": 1,
-      "enanyang.my": 1,
-      "17173.com": 1,
-      "jkn.co.kr": 1
+      "straitstimes.com": 1,
+      "zhonghongwang.com": 1,
+      "chosun.com": 1,
+      "asiae.co.kr": 1,
+      "semi.org.cn": 1,
+      "eeworld.com.cn": 1,
+      "ofweek.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 4,
-    "relaxed_72h": 3,
+    "fresh1_24h": 25,
+    "page_fresh": 19,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "美股AI芯片板块全线大跌，AMD跌10.88%丨美股复盘",
-      "d": "eastmoney.com"
+      "t": "传三星2030年底全面退出8英寸晶圆代工 生产线终止运营",
+      "d": "sohu.com"
     },
     {
-      "t": "国产IP核：幕后英雄，加快发展",
-      "d": "cnstock.com"
+      "t": "安森美半导体(ON.US)Q3业绩放榜在即 AI数据中心业务、毛利率及Q4指引成",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "美国芯片股在暗盘交易中集体走强",
-      "d": "bjnews.com.cn"
+      "t": "演讲报告征集！【空白掩模与合成石英材料技术论坛2026】将于12月3-4日在苏州",
+      "d": "eet-china.com"
     },
     {
-      "t": "券商晨会精华：一旦市场情绪否极泰来，重点关注行业景气度上行的方向_市场测评_市场",
-      "d": "cnfol.com"
+      "t": "全网60万+产业粉丝，芯片超人媒体合作更新啦！",
+      "d": "eet-china.com"
     },
     {
-      "t": "从技术分析角度看调整目标在哪里？｜程大爷论市",
-      "d": "21jingji.com"
+      "t": "韩国半导体与计算机出口激增，国内半导体设备企业三季报高增且订单饱满",
+      "d": "sohu.com"
     },
     {
-      "t": "世界顶尖科学家校园行活动走进上海大学共话科学突破新范式-中新社上海",
-      "d": "chinanews.com.cn"
+      "t": "10:42:16【半导体芯片链周度深调，AI算力产业进展密集落地】",
+      "d": "cls.cn"
     },
     {
-      "t": "业内大咖集聚上海临港，纵论AI与半导体融合的“下一个十年”",
-      "d": "gmw.cn"
+      "t": "芯片板块估值低位凸显配置价值，芯片ETF国泰（512760）连续4日获资金净流入",
+      "d": "163.com"
     }
   ]
 }

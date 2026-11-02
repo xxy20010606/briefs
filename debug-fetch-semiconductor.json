@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 22,
+  "total": 44,
   "samples": [
     {
-      "title": "美股AI芯片板块全线大跌，AMD跌10.88%丨美股复盘",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xejVfTkh2SEQ1bjRyZ3lTeDB3Zmo2V29USVVfUjFOWk1uVVdMdGx6YlB2ZzRvd3VlX1JWVnN3WXdSSnBPeWk2Vy1",
-      "source_url": "https://emwap.eastmoney.com",
-      "source": "东方财富"
+      "title": "投资者对人工智能支出热潮的审查日益加剧，但大型科技公司不太可能放弃",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcjlYRFlSbmlCQm1ib2NxOGtyRS1IRzNvR2tLaHYzUGc0aE9zSDctNFBUeHpkQ2VmWDR6QVpUb0xzR3hueGdCODU",
+      "source_url": "https://www.straitstimes.com",
+      "source": "The Straits Times"
     },
     {
-      "title": "川普芯片梦受阻劳动力短缺和政策限制成挑战",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kYU15dE9LVnIzdTlsYVoyN3JvajcyVzE1cC0yS1lTMnotOS1KVkZsdUYxZ1RxVVZrNS11cUZJTUVrUy1VVGpBeDZ",
-      "source_url": "https://info.vanpeople.com",
-      "source": "VanPeople"
+      "title": "传三星2030年底全面退出8英寸晶圆代工 生产线终止运营",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFp3RnhpQUU0WDlVZTJjYlZYN0ZGZTFrdGQ3d0t4UVJiOEhkU29UcjJpbXRIS3Z0XzBESGc3elJBZWV2OV9Ld2N",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "走进芯片“无人区”光谷长出“梧桐树”",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4ycW1KSTA2cnJOSWZDRGJ1TXhZSEk2cjJLVWxzN1Z6cTFUV2NPcTNDS3FnamZUY2J6UEQteEY3ZWtYN0d4VXd3bWt",
-      "source_url": "https://news.hubeidaily.net",
-      "source": "湖北日报传媒集团"
+      "title": "链通“芯”路，创领新质｜IC China 2026邀全产业链共赴北京产业盛会",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4ydmdYelBNa2pLSWZMQnA1a1dHVmI3ZXhibkN2cGFnOWJQVVJ4ZWJyYWtKd283Nm0zc3BYd1ozS2piLWJtUnQ2Y0Q",
+      "source_url": "https://www.zhonghongwang.com",
+      "source": "中宏网"
     },
     {
-      "title": "DIGITIMES Today：联发科全面澄清ASIC业务传言| 台湾愈来愈重视研发| 中国本土AI",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXdnRkdOVGxMR0JYOGNMQ3R2ajluMTdFeDVOWU15TDhuNUNpRE5nbENIbDdsNkJXVnpVQzBHZDlJempiVV8wTnp",
-      "source_url": "https://gb-www.digitimes.com.tw",
-      "source": "DIGITIMES"
+      "title": "张坤的最新科技投资逻辑：独管产品加芯片，共管产品减电子",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzRKQUZKN2pjMHFCWFo2Zk9MSmFET2p5U19FU19MZEVhYldBN2ZrRHlmRFRIdE9ZaWZBWXRXMkZRVm1kSTY3dXl",
+      "source_url": "https://m.21jingji.com",
+      "source": "21财经"
     },
     {
-      "title": "中国本土AI芯片替代H200 华为、寒武纪、平头哥各有战线",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUV4UzhYUUVXV044TW9hVlVpemtnNEgxSHRJX2lmWDhTUXhYWmZKSXYxbDczeEg4VElsN01JZ1B5VHpUdm1xWXl",
-      "source_url": "https://gb-www.digitimes.com.tw",
-      "source": "DIGITIMES"
+      "title": "安森美半导体(ON.US)Q3业绩放榜在即 AI数据中心业务、毛利率及Q4指引成最大看点",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ENUJrSVhtVGlFTWRlOGZVMndOVHJBLWMtTldpVlk0NnpFRTdTUjkxUWdTRXA0ZXI5eVYweUJLMDlWMzBETVpnNHN",
+      "source_url": "https://news.10jqka.com.cn",
+      "source": "同花顺财经"
     },
     {
-      "title": "国产IP核：幕后英雄，加快发展",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxYVljTlBFNV9IZURQLVJSaXRDd2MtaTI5cGlJSjhieWZKOUxYeVNxZTVUQk83V0I1T0tDZ1Vwc29UczdqeUF1YTM",
-      "source_url": "https://paper.cnstock.com",
-      "source": "上海证券报电子版"
+      "title": "台湾，推进扩大对大陆半导体出口管制…涵盖芯片、材料、设备",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLUhJREY3Q05OcVAtUVNxNjFMS2hvclFDRHk1LXA4NGdTMVhQQzBMYm1GNHc0Z1pUSXhtUXpOMFpPdklJaUJEV2h",
+      "source_url": "http://cnnews.chosun.com",
+      "source": "朝鮮日報中文版"
     }
   ]
 }
