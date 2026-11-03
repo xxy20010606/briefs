@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 40,
-    "trusted": 10,
+    "raw_dedup_junk": 56,
+    "trusted": 20,
     "non_trusted_top": {
-      "sina.com.cn": 10,
-      "gz-cmc.com": 2,
-      "techwalker.com": 2,
-      "unite.ai": 2,
-      "chinadaily.com.cn": 1,
-      "aibase.com": 1,
-      "tongji.edu.cn": 1,
-      "infoobs.com": 1,
-      "pedaily.cn": 1,
-      "hunantoday.cn": 1
+      "sina.com.cn": 4,
+      "chinadaily.com.cn": 2,
+      "jfdaily.com.cn": 2,
+      "stockstar.com": 2,
+      "53ai.com": 2,
+      "csdn.net": 2,
+      "aibase.com": 2,
+      "cpem.org.cn": 1,
+      "sfccn.com": 1,
+      "hzsc.com.cn": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 6,
-    "relaxed_72h": 2,
+    "fresh1_24h": 20,
+    "page_fresh": 18,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "当人工智能遇见生命科学：2026中国生物技术创新大会在苏州举行",
-      "d": "thepaper.cn"
+      "t": "喜添7款大模型备案！广州天河再创历史新高",
+      "d": "21jingji.com"
     },
     {
-      "t": "密集发布先进产品技术，广泛讨论人工智能发展，乌镇互联网大会热议开源共享",
-      "d": "sohu.com"
+      "t": "水滴水守大模型荣获2026世界互联网大会“新光”产品奖",
+      "d": "cnr.cn"
     },
     {
-      "t": "Token登上“双十一”货架",
-      "d": "cyol.com"
-    },
-    {
-      "t": "美团发布新一代大模型LongCat-2.5：国模国芯 多指标登顶第一",
+      "t": "GPT-6 Astra 爆改 Qwen 大脑：只动 0.016% 参数，数学成绩",
       "d": "ifeng.com"
     },
     {
-      "t": "AI独角兽创始人最新判断：90%企业AI场景，已经不需要最强模型",
-      "d": "36kr.com"
+      "t": "十三年，乌镇峰会从“看风景”到“看算力”",
+      "d": "bjnews.com.cn"
     },
     {
-      "t": "DeepSeek发布智能体新架构：让AI管AI",
-      "d": "cls.cn"
-    },
-    {
-      "t": "数智浪潮下的山东产业新变局",
+      "t": "AI时代青年科学家创业创新生态论坛在温州举行",
       "d": "stdaily.com"
+    },
+    {
+      "t": "乌镇峰会，如何“智”见未来？",
+      "d": "ce.cn"
+    },
+    {
+      "t": "蔡崇信乌镇谈AI：中国开源模型下载量、衍生模型数等关键指标保持领先",
+      "d": "thepaper.cn"
     }
   ]
 }

@@ -1,41 +1,42 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 20,
+    "raw_dedup_junk": 51,
     "trusted": 4,
     "non_trusted_top": {
-      "ne21.com": 5,
-      "sina.com.cn": 3,
-      "in-en.com": 2,
-      "energytrend.cn": 1,
-      "stockstar.com": 1,
-      "autohome.com.cn": 1,
-      "gdshe.org": 1,
-      "digitimes.com.tw": 1,
-      "smm.cn": 1
+      "ne21.com": 17,
+      "autohome.com.cn": 8,
+      "in-en.com": 4,
+      "stockstar.com": 2,
+      "wedoany.com": 2,
+      "caiwennews.com": 2,
+      "solarzoom.com": 2,
+      "hirohida.com": 1,
+      "gessey.com": 1,
+      "seetao.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 4,
-    "relaxed_72h": 0,
+    "fresh1_24h": 3,
+    "page_fresh": 3,
+    "relaxed_72h": 1,
     "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
+      "t": "SiC/GaN需求上行，10家A股三代半企业表现如何？一文盘点",
+      "d": "sohu.com"
+    },
+    {
       "t": "倒送电一次成功！中材节能乌兹别克斯坦纳沃伊300MW光伏+75MWh储能项目传喜",
       "d": "solarbe.com"
     },
     {
-      "t": "券商率先落地碳交易现货，产学研碳捕集中心成立推动碳中和迈入实质阶段",
-      "d": "sohu.com"
-    },
-    {
-      "t": "碳金融现货交易落地与产学研研发中心成立，低碳产业进入实质性融合阶段",
-      "d": "sohu.com"
-    },
-    {
       "t": "北美政策红利加持，韩系储能反攻真的无懈可击？",
       "d": "eet-china.com"
+    },
+    {
+      "t": "三季报收官，电池板块业绩成色几何？",
+      "d": "21jingji.com"
     }
   ]
 }

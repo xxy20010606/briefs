@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 29,
+  "total": 22,
   "samples": [
     {
-      "title": "长川科技获得外观设计专利授权：“半导体芯片分选测试机”",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0s2VnktMnBPUjlidUVaWW1xSlAzcUVBVVJob1VYUmplS1R3WUhKcmR2aV9NcnVSdTl3QVBvRjMwaGNqbGRqajU",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "Nordic率先完成蓝牙高速吞吐量芯片级验证，速率提升近四倍",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ERjdmaW5uXzhVeE41YWxuNWtZd3UxMVRYS0RRLWxqOTNac2N2WkhsUW1TazJReU85c2VtTU8wYkUxc3dEcUlCdmt",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "钻石，拯救芯片!",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DbGppdGllYmFIdHI4anA3RDZianBnczFyeHpxNmRZVzBkcExja2NzU29SWERjQnJjWUlFY3Qwd2dGX1kzQ1Yya3p",
-      "source_url": "https://www.infoobs.com",
-      "source": "信息化观察网"
+      "title": "一年内三涨价！汽车芯片龙头恩智浦再发调价函明年1月1日生效_热点推荐",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xQkpkU0hQdTZ3WTkxWGpGTFVyVW9Ha3JMTWFRNXhvQm85cldKSUJwVkd1R3FFTHZjMW1yZXE5MS1ZbGpUNklobXJ",
+      "source_url": "https://auto.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "月出货突破2000万颗硅光芯片 SiFotonics深耕高端AI光互连市场 资本赋能全球化高速增长",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JS016N3lMaWtNY1FvaG9BS0F1emREZEVNcGZORVBwOUJxV2Y2UXhzT2ZkZjRSdFoxTDRlWEZhcEVfVU1xbnFBa1N",
-      "source_url": "http://www.iccsz.com",
-      "source": "讯石光通讯网"
+      "title": "汽车芯片大厂再发调价函，明年1月起涨价",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTbWdtZ1U0UmFxellWVnZNUm9CMUlZQUV0U3l6N19yQjdGRTM1cUhpcmI0WWhxeDFPdmh4aFNtTWRvNGV6MUNBOW4",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "中信建投研报称AI需求高景气驱动功率半导体涨价潮",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nV0RIVE1pZUNycEo4bS0yZUFMcjlWRUotUmhSRnRtb3ZoR3pGOTJ1U3V1bjRxSVE4VWdMdkJhcTcwUm9RemUtOXR",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
+      "title": "三星退出8英寸芯片代工，中国大陆厂商会受益吗？",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpemFLRnpIcXN3b2RzVktxYmJDcmRVa1Y2SFBnVlU0c2k1OVV1OU9NQ3BHNVhESnNUMHQySDBGV1MxYnlHRGhwSHJ",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "爱信开发磁性技术新型半导体 功耗较同类芯片降低约98%",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EbzhNdGwxYlB1aXM0d1d6dFNMQi1sOF8tbXJtTEpOb2cxUEV1MW9WVXc0dTYwODdtaEdiUk90V2ltOHA0LW9kWUx",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
+      "title": "CarbonSemi2026丨5G 迈向6G，滤波器芯片如何跟上？深圳汇芯通信成士其研究员：SAW ",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jWW4tREdpRmJ0VTVLOFVIS3AwWkVjOE9XVlVkQTJNRkNJbDJoX3hRMTRGcERzcUUxTVp2b2ozMWlGdGV3dlRoZ1B",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "芯片股正遭遇“信心危机”，但情况或许不像表象那样悲观",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV0JjSFVVdGRPVTRKemJwcGNLSEhaM1BpZmx1LXl1TGNSVVU3R0RSZkpHNXZIbTQ3bmhBOEZQQWFJM1RqQVlNaW4",
-      "source_url": "https://cn.wsj.com",
-      "source": "华尔街日报中文网"
+      "title": "防堵破口台湾经济部严管芯片输大陆学界力挺(图) 半導體 | 出口管制| 中國 | 社会民生",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByNkJoUnplMDA1Z3d0N0w5MzdNZmNsc2s1M1hUc1FMNU5MS24tM2I3V09qS1lQNUtSQ3RYeXlTRFhRRXQ0U1BVQ3E",
+      "source_url": "https://www.secretchina.com",
+      "source": "看中国网"
     }
   ]
 }

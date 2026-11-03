@@ -1,43 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 16,
-    "trusted": 8,
+    "raw_dedup_junk": 40,
+    "trusted": 11,
     "non_trusted_top": {
-      "unite.ai": 2,
-      "on.cc": 1,
-      "hk01.com": 1,
-      "quasa.io": 1,
-      "stockstar.com": 1,
-      "80aj.com": 1,
-      "sina.com.cn": 1
+      "stockstar.com": 4,
+      "sina.com.cn": 3,
+      "unite.ai": 3,
+      "mydrivers.com": 1,
+      "ichaoqi.com": 1,
+      "zjol.com.cn": 1,
+      "venturesquare.net": 1,
+      "sz.gov.cn": 1,
+      "infoobs.com": 1,
+      "wedoany.com": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 1,
-    "relaxed_72h": 4,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 11,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "AI独角兽创始人最新判断：90%企业AI场景，已经不需要最强模型",
-      "d": "36kr.com"
+      "t": "开会不用熬夜写纪要！南疆这个 AI 小工具从技能赛场走向办公一线",
+      "d": "sohu.com"
     },
     {
-      "t": "腾讯云王慧星：让WorkBuddy从“好用的工具”成长为“可进化的生产力系统”",
-      "d": "xinhuanet.com"
+      "t": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon 北京",
+      "d": "infoq.cn"
     },
     {
-      "t": "ThinkingAI Agentic Engine全新发布！助力专业增长能力走向",
+      "t": "一周超百万个数据库：Supabase如何让所有人都能成为建造者",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "AI产品淘汰赛开始：最快 76 天消失，千万用户也难逃破产",
+      "d": "leiphone.com"
+    },
+    {
+      "t": "产品与渠道双线发力，每日互动生态伙伴大会释放AI业务拓展新信号",
       "d": "ifeng.com"
     },
     {
-      "t": "今晚李佳琦直播首卖“Token”，阿里陈宇森做客直播间",
+      "t": "办公 AI 的分水岭：不是流量，而是入口从哪来",
       "d": "ifeng.com"
     },
     {
-      "t": "小蝶记账×WorkBuddy专版发布，助力电商卖家从选品到经营一站式搞定",
-      "d": "ifeng.com"
+      "t": "【每日瞰AI】李佳琦直播间半小时卖出 2 万亿 Token；下一代GPT 或将近",
+      "d": "eet-china.com"
     }
   ]
 }

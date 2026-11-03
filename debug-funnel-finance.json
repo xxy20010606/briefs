@@ -1,51 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 19,
-    "trusted": 11,
+    "raw_dedup_junk": 36,
+    "trusted": 18,
     "non_trusted_top": {
-      "moomoo.com": 2,
-      "stockstar.com": 1,
+      "sina.cn": 3,
+      "sina.com.cn": 3,
+      "stockstar.com": 2,
+      "hk01.com": 1,
+      "chinapress.com.my": 1,
       "sfccn.com": 1,
-      "china.com": 1,
-      "fx678.com": 1,
-      "jrj.com.cn": 1,
-      "on.cc": 1
+      "epochtimes.com": 1,
+      "cnfin.com": 1,
+      "techflowpost.com": 1,
+      "china.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 10,
+    "fresh1_24h": 17,
+    "page_fresh": 17,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "股票回购增持贷款利率，有望降至1.6%",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "承辉国际(01094)转仓市值总计581.3万港元占比7.05% 从宏智证券转出",
+      "t": "破发股云涌科技跌6.59% 2020年上市募6.7亿浙商证券保荐_股市聚焦_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "中宝新材(02439)转仓市值总计1652.28万港元占比6.23% 从粤商国际",
+      "t": "破发股华大智造跌6.72% 2022年上市募36亿中信证券保荐_股市聚焦_市场_",
       "d": "cnfol.com"
+    },
+    {
+      "t": "集体低开！创业板指跌超1%！美股要“通宵”了， A股怎么看？网友：以后白天还要看",
+      "d": "sohu.com"
+    },
+    {
+      "t": "股票型ETF持续净流入 11月首个交易日A股放量上涨",
+      "d": "21jingji.com"
     },
     {
       "t": "【环球财经】科技股继续承压 纽约股市三大股指2日涨跌不一",
       "d": "sohu.com"
     },
     {
-      "t": "【环球财经】伦敦股市2日上涨",
-      "d": "sohu.com"
+      "t": "A股：大家做好心理预期，股市拐点来了，或将重演2015年的行情？",
+      "d": "163.com"
     },
     {
-      "t": "港股早报｜三部门部署资本市场两项工具 热门中概股普涨",
-      "d": "cls.cn"
-    },
-    {
-      "t": "纳斯达克12月6日将上线23/5交易制度，夜间交易覆盖A股主要时段",
-      "d": "huxiu.com"
+      "t": "A股：不必等突破3600点了，不出意外，股市要这样走了！",
+      "d": "163.com"
     }
   ]
 }

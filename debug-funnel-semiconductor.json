@@ -1,53 +1,50 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 29,
-    "trusted": 14,
+    "raw_dedup_junk": 22,
+    "trusted": 15,
     "non_trusted_top": {
-      "guandian.cn": 4,
-      "sina.com.cn": 2,
+      "stockstar.com": 1,
+      "secretchina.com": 1,
+      "aboluowang.com": 1,
       "infoobs.com": 1,
+      "guandian.cn": 1,
       "wsj.com": 1,
-      "eastmoney.com": 1,
-      "vietnam.vn": 1,
-      "indexbox.io": 1,
-      "pjtime.com": 1,
-      "cnbeta.com.tw": 1,
-      "tikr.com": 1
+      "cn3x.com.cn": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 6,
-    "relaxed_72h": 6,
+    "fresh1_24h": 14,
+    "page_fresh": 13,
+    "relaxed_72h": 1,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "长川科技获得外观设计专利授权：“半导体芯片分选测试机”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "月出货突破2000万颗硅光芯片 SiFotonics深耕高端AI光互连市场 资本",
-      "d": "iccsz.com"
-    },
-    {
-      "t": "“中国芯”与“十五五”一起跃动",
-      "d": "cyol.com"
-    },
-    {
-      "t": "广东释放“芯”链效应：粤芯半导体前三季收入超去年全年",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "20:53:18【半导体、芯片板块震荡反弹，半导体设备ETF易方达（159558",
-      "d": "cls.cn"
-    },
-    {
-      "t": "周刊丨半导体行业投融周动态（10.26—11.01）",
+      "t": "Nordic率先完成蓝牙高速吞吐量芯片级验证，速率提升近四倍",
       "d": "eet-china.com"
     },
     {
-      "t": "涨价潮后，三季度哪些本土MCU企业吃到了红利？",
+      "t": "汽车芯片大厂再发调价函，明年1月起涨价",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "三星退出8英寸芯片代工，中国大陆厂商会受益吗？",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "CarbonSemi2026丨5G 迈向6G，滤波器芯片如何跟上？深圳汇芯通信成",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "注册资本9亿！长鑫科技成立新公司",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "演讲报告征集！【空白掩模与合成石英材料技术论坛2026】将于12月3-4日在苏州",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "17家芯片分销商三季报：谁赚翻了？谁还在挣扎？",
       "d": "eet-china.com"
     }
   ]
