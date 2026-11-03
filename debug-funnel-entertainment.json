@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 62,
-    "trusted": 16,
+    "raw_dedup_junk": 39,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.cn": 5,
-      "china.com": 4,
       "bjd.com.cn": 4,
-      "sina.com.cn": 2,
-      "workercn.cn": 2,
-      "cjn.cn": 2,
-      "jsxc.gov.cn": 2,
-      "ofweek.com": 1,
-      "17173.com": 1,
-      "mydrivers.com": 1
+      "sina.com.cn": 3,
+      "china.com": 3,
+      "hupu.com": 2,
+      "sina.cn": 2,
+      "sortiraparis.com": 2,
+      "hangzhou.com.cn": 2,
+      "stockstar.com": 1,
+      "3dmgame.com": 1,
+      "mrjjxw.com": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 15,
+    "fresh1_24h": 11,
+    "page_fresh": 9,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "成本千万票房不到150万？首部AI电影《三星堆：未来往事》败走大银幕，出品方博纳",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "10.26-11.1内地一周票房报收1.78亿 《生化危机：爆发夜》四连冠累计票",
+      "t": "电视剧《峨眉》全阵容官宣并首发预告 国内首部古建拟人化探案剧引全网期待",
       "d": "sohu.com"
     },
     {
-      "t": "电影《琴弓师》定档 11.17：让世界听见江南匠心奏响中国琴弓",
+      "t": "《深度安静》定档11月19日艺联专线上映 张孝全林依晨演绎创伤婚姻",
       "d": "sohu.com"
     },
     {
-      "t": "模仿刘德华出道，《伟大的长征》他第3次演陈云，去标签成功，转型特型演员",
-      "d": "163.com"
+      "t": "交响乐剧《培尔·金特》在锡演出",
+      "d": "news.cn"
     },
     {
-      "t": "游戏影视板块点评丨指数盘中涨超8%，AI短剧与互动影游催化升温",
-      "d": "eastmoney.com"
+      "t": "电影《感恩号·大篷车》弘扬孝道美德",
+      "d": "xinhuanet.com"
     },
     {
-      "t": "东北话陆剧火到台湾！台湾网友追剧上头，发起“东北话听力”挑战-中新网",
-      "d": "chinanews.com.cn"
+      "t": "横店影视文化产业发展大会在浙江举行",
+      "d": "ce.cn"
     },
     {
-      "t": "川籍音乐家节日管弦乐团全球首演 40余位川籍音乐家携乐归乡",
-      "d": "chinanews.com.cn"
+      "t": "烟火背后 风云激荡",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "AI漫剧降本之后：IP、制作、分发、变现四环节谁拿走利润",
+      "d": "10jqka.com.cn"
     }
   ]
 }

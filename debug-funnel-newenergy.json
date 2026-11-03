@@ -1,54 +1,41 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 31,
-    "trusted": 10,
+    "raw_dedup_junk": 20,
+    "trusted": 4,
     "non_trusted_top": {
-      "ne21.com": 8,
-      "autohome.com.cn": 3,
-      "caiwennews.com": 2,
-      "wedoany.com": 1,
-      "zhiding.cn": 1,
-      "asiae.co.kr": 1,
-      "idnfinancials.com": 1,
-      "sina.cn": 1,
-      "fxbaogao.com": 1,
-      "stockstar.com": 1
+      "ne21.com": 5,
+      "sina.com.cn": 3,
+      "in-en.com": 2,
+      "energytrend.cn": 1,
+      "stockstar.com": 1,
+      "autohome.com.cn": 1,
+      "gdshe.org": 1,
+      "digitimes.com.tw": 1,
+      "smm.cn": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 10,
+    "fresh1_24h": 4,
+    "page_fresh": 4,
     "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "final": 4,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "这家光伏和储能龙头股价承压，但分析师重申看多态度",
-      "d": "sohu.com"
-    },
-    {
-      "t": "160MW/640MWh储能工程并网！时代天源助力宁夏80万千瓦光伏光储协同",
+      "t": "倒送电一次成功！中材节能乌兹别克斯坦纳沃伊300MW光伏+75MWh储能项目传喜",
       "d": "solarbe.com"
     },
     {
-      "t": "全球新能源科技品牌竞争格局解析——兼论阳光电源的技术创新与品牌实践",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "高原新能源“充电宝”破解供电难题 绿色电力保障民生需求",
-      "d": "cyol.com"
-    },
-    {
-      "t": "碳金融业务落地叠加产学研融合迈入实质阶段，新能源产业获双重催化",
+      "t": "券商率先落地碳交易现货，产学研碳捕集中心成立推动碳中和迈入实质阶段",
       "d": "sohu.com"
     },
     {
-      "t": "国家级零碳园区案例⑧——山西阳泉高新技术产业开发区",
-      "d": "thepaper.cn"
+      "t": "碳金融现货交易落地与产学研研发中心成立，低碳产业进入实质性融合阶段",
+      "d": "sohu.com"
     },
     {
-      "t": "电池板块强势反弹！估值临近极低位，“剪刀差”信号驱动修复",
-      "d": "jiemian.com"
+      "t": "北美政策红利加持，韩系储能反攻真的无懈可击？",
+      "d": "eet-china.com"
     }
   ]
 }

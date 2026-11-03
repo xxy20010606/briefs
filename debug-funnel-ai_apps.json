@@ -1,50 +1,39 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 19,
+    "raw_dedup_junk": 16,
     "trusted": 8,
     "non_trusted_top": {
-      "sina.com.cn": 1,
-      "china.com": 1,
-      "pingwest.com": 1,
+      "unite.ai": 2,
+      "on.cc": 1,
+      "hk01.com": 1,
+      "quasa.io": 1,
       "stockstar.com": 1,
-      "weeklyonstock.com": 1,
-      "jrj.com.cn": 1,
-      "ac.cn": 1,
-      "zhiding.cn": 1,
-      "techflowpost.com": 1,
-      "pai.com.cn": 1
+      "80aj.com": 1,
+      "sina.com.cn": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 7,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤3条"
+    "fresh1_24h": 7,
+    "page_fresh": 1,
+    "relaxed_72h": 4,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "首份AI应用调查，香港证监会划四大监管重点，AI不能替人背锅",
+      "t": "AI独角兽创始人最新判断：90%企业AI场景，已经不需要最强模型",
+      "d": "36kr.com"
+    },
+    {
+      "t": "腾讯云王慧星：让WorkBuddy从“好用的工具”成长为“可进化的生产力系统”",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "ThinkingAI Agentic Engine全新发布！助力专业增长能力走向",
       "d": "ifeng.com"
     },
     {
-      "t": "600715，上演“地天板”",
+      "t": "今晚李佳琦直播首卖“Token”，阿里陈宇森做客直播间",
       "d": "ifeng.com"
-    },
-    {
-      "t": "浙江安吉：推动“人工智能+制造”从“单点场景”走向“平台底座”",
-      "d": "chinadaily.com.cn"
-    },
-    {
-      "t": "AI时代职场人的三种反应：经验依赖、工具依赖与趋势焦虑背后的判断力缺失",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "RSI研讨会来了，面壁智能智能进化首席科学家与LlamaFactory作者已就位",
-      "d": "zhidx.com"
-    },
-    {
-      "t": "AI办公赛道正面竞速：入口之争后，续费期才是检验窗口",
-      "d": "guancha.cn"
     },
     {
       "t": "小蝶记账×WorkBuddy专版发布，助力电商卖家从选品到经营一站式搞定",

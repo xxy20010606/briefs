@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 44,
+  "total": 29,
   "samples": [
     {
-      "title": "投资者对人工智能支出热潮的审查日益加剧，但大型科技公司不太可能放弃",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcjlYRFlSbmlCQm1ib2NxOGtyRS1IRzNvR2tLaHYzUGc0aE9zSDctNFBUeHpkQ2VmWDR6QVpUb0xzR3hueGdCODU",
-      "source_url": "https://www.straitstimes.com",
-      "source": "The Straits Times"
-    },
-    {
-      "title": "传三星2030年底全面退出8英寸晶圆代工 生产线终止运营",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFp3RnhpQUU0WDlVZTJjYlZYN0ZGZTFrdGQ3d0t4UVJiOEhkU29UcjJpbXRIS3Z0XzBESGc3elJBZWV2OV9Ld2N",
+      "title": "长川科技获得外观设计专利授权：“半导体芯片分选测试机”",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0s2VnktMnBPUjlidUVaWW1xSlAzcUVBVVJob1VYUmplS1R3WUhKcmR2aV9NcnVSdTl3QVBvRjMwaGNqbGRqajU",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
     },
     {
-      "title": "链通“芯”路，创领新质｜IC China 2026邀全产业链共赴北京产业盛会",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4ydmdYelBNa2pLSWZMQnA1a1dHVmI3ZXhibkN2cGFnOWJQVVJ4ZWJyYWtKd283Nm0zc3BYd1ozS2piLWJtUnQ2Y0Q",
-      "source_url": "https://www.zhonghongwang.com",
-      "source": "中宏网"
+      "title": "钻石，拯救芯片!",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DbGppdGllYmFIdHI4anA3RDZianBnczFyeHpxNmRZVzBkcExja2NzU29SWERjQnJjWUlFY3Qwd2dGX1kzQ1Yya3p",
+      "source_url": "https://www.infoobs.com",
+      "source": "信息化观察网"
     },
     {
-      "title": "张坤的最新科技投资逻辑：独管产品加芯片，共管产品减电子",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzRKQUZKN2pjMHFCWFo2Zk9MSmFET2p5U19FU19MZEVhYldBN2ZrRHlmRFRIdE9ZaWZBWXRXMkZRVm1kSTY3dXl",
-      "source_url": "https://m.21jingji.com",
-      "source": "21财经"
+      "title": "月出货突破2000万颗硅光芯片 SiFotonics深耕高端AI光互连市场 资本赋能全球化高速增长",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JS016N3lMaWtNY1FvaG9BS0F1emREZEVNcGZORVBwOUJxV2Y2UXhzT2ZkZjRSdFoxTDRlWEZhcEVfVU1xbnFBa1N",
+      "source_url": "http://www.iccsz.com",
+      "source": "讯石光通讯网"
     },
     {
-      "title": "安森美半导体(ON.US)Q3业绩放榜在即 AI数据中心业务、毛利率及Q4指引成最大看点",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ENUJrSVhtVGlFTWRlOGZVMndOVHJBLWMtTldpVlk0NnpFRTdTUjkxUWdTRXA0ZXI5eVYweUJLMDlWMzBETVpnNHN",
-      "source_url": "https://news.10jqka.com.cn",
-      "source": "同花顺财经"
+      "title": "中信建投研报称AI需求高景气驱动功率半导体涨价潮",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nV0RIVE1pZUNycEo4bS0yZUFMcjlWRUotUmhSRnRtb3ZoR3pGOTJ1U3V1bjRxSVE4VWdMdkJhcTcwUm9RemUtOXR",
+      "source_url": "https://www.guandian.cn",
+      "source": "观点网"
     },
     {
-      "title": "台湾，推进扩大对大陆半导体出口管制…涵盖芯片、材料、设备",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLUhJREY3Q05OcVAtUVNxNjFMS2hvclFDRHk1LXA4NGdTMVhQQzBMYm1GNHc0Z1pUSXhtUXpOMFpPdklJaUJEV2h",
-      "source_url": "http://cnnews.chosun.com",
-      "source": "朝鮮日報中文版"
+      "title": "爱信开发磁性技术新型半导体 功耗较同类芯片降低约98%",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EbzhNdGwxYlB1aXM0d1d6dFNMQi1sOF8tbXJtTEpOb2cxUEV1MW9WVXc0dTYwODdtaEdiUk90V2ltOHA0LW9kWUx",
+      "source_url": "https://www.guandian.cn",
+      "source": "观点网"
+    },
+    {
+      "title": "芯片股正遭遇“信心危机”，但情况或许不像表象那样悲观",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV0JjSFVVdGRPVTRKemJwcGNLSEhaM1BpZmx1LXl1TGNSVVU3R0RSZkpHNXZIbTQ3bmhBOEZQQWFJM1RqQVlNaW4",
+      "source_url": "https://cn.wsj.com",
+      "source": "华尔街日报中文网"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 47,
-    "trusted": 15,
+    "raw_dedup_junk": 40,
+    "trusted": 10,
     "non_trusted_top": {
-      "stockstar.com": 4,
-      "csdn.net": 3,
-      "sina.com.cn": 3,
-      "hangzhou.com.cn": 2,
+      "sina.com.cn": 10,
+      "gz-cmc.com": 2,
       "techwalker.com": 2,
-      "smartcity.team": 1,
-      "zjol.com.cn": 1,
-      "tom.com": 1,
-      "guandian.cn": 1,
-      "hzsc.com.cn": 1
+      "unite.ai": 2,
+      "chinadaily.com.cn": 1,
+      "aibase.com": 1,
+      "tongji.edu.cn": 1,
+      "infoobs.com": 1,
+      "pedaily.cn": 1,
+      "hunantoday.cn": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 15,
-    "relaxed_72h": 0,
+    "fresh1_24h": 9,
+    "page_fresh": 6,
+    "relaxed_72h": 2,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "“互联网之光”博览会|这片“新空间”，让AI加速进入现实世界",
-      "d": "gmw.cn"
+      "t": "当人工智能遇见生命科学：2026中国生物技术创新大会在苏州举行",
+      "d": "thepaper.cn"
     },
     {
-      "t": "算力铺底、5G入海，见证齐鲁产业“智变”",
+      "t": "密集发布先进产品技术，广泛讨论人工智能发展，乌镇互联网大会热议开源共享",
       "d": "sohu.com"
     },
     {
-      "t": "国内首个\"自进化\"金融增强大模型轩辕4.5来了 #度小满 #香港金融科技周 #人",
-      "d": "sohu.com"
+      "t": "Token登上“双十一”货架",
+      "d": "cyol.com"
     },
     {
-      "t": "瞭望访谈｜破局智能体安全挑战-瞭望周刊社",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "对话智谱、银河通用、光轮、滴普：“大语言模型究竟会不会把具身模型吃掉？”｜甲子光",
+      "t": "美团发布新一代大模型LongCat-2.5：国模国芯 多指标登顶第一",
       "d": "ifeng.com"
     },
     {
-      "t": "聚力自主AI创新，西安人工智能与词元经济发展大会赋能数字经济新发展",
-      "d": "jiemian.com"
+      "t": "AI独角兽创始人最新判断：90%企业AI场景，已经不需要最强模型",
+      "d": "36kr.com"
     },
     {
-      "t": "趋境科技联合智谱、摩尔线程共创国产高品质 AI Token 工厂新范式",
-      "d": "leiphone.com"
+      "t": "DeepSeek发布智能体新架构：让AI管AI",
+      "d": "cls.cn"
+    },
+    {
+      "t": "数智浪潮下的山东产业新变局",
+      "d": "stdaily.com"
     }
   ]
 }

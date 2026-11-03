@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 19,
+  "total": 16,
   "samples": [
     {
-      "title": "【鲁泰集团】鲁泰·飞书协同办公与AI应用项目正式启动",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XdDY5TG1lbnlLNS1IWlFza0d1RExiMlFzZHNYbmpXZVZRdFAwVHZPazJpVHY0a3c0THFqNUhUaTNDLVlzekJibTd",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "花旗调查：港消费者对更进阶AI应用接受程度提高｜即时新闻｜产经｜on.cc东网",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRU1xaHRpQXU1Q0w5bElfTTlMTV85S1Rua0ZYQlhoblZqVVJXdnNTX19yemlsQllrd212bTBuaFRRaTVhZFFEd0d",
+      "source_url": "https://hk.on.cc",
+      "source": "on.cc東網"
     },
     {
-      "title": "七维教育亮相第88届教装展，重磅发布“评估+AI”双引擎生态",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42U1FSNkJjcU1ndGh0aWticy1WT2lmeFFNMmpBZHBqa2hra0FBYUNKaUlJTDV1UmR6T3BuMC11QW0yTllIdXFWUkR",
-      "source_url": "https://mtz.china.com",
-      "source": "中华网"
+      "title": "保禄六世书院学生挑战AI Prompting 活用AI工具培养创意思维",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPaHhwVEZPUnp4V1UzS29sWkhubzh4YUI4WFZzRlVnRTZkbGI0dURnejdZMFMyeDl2d19mYXBBamluV3M5blVNMEh",
+      "source_url": "https://global.hk01.com",
+      "source": "香港01"
     },
     {
-      "title": "海高激光启动“百度搭子”AI深度应用项目，破解跨系统效率瓶颈",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uVXdMTzRDeGtPVTRzRE8wMWxzbFJTWUhXMko3b185YS02cURaNHNOSW5GOEczVUVoa0lTWUUxV2twZjZjazlhUg?",
-      "source_url": "https://www.pingwest.com",
-      "source": "品玩"
+      "title": "DeepSeek上新模式强化智能体能力：一句话定制AI插件，公开提示词搞定3D可视化到视频编辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IazNsTmZZNlpBcHJ0S0xYZVc2OVVXeDBUREQtelhGVHpWS0pxbnZ1ekpqMlBFVkxTWG5TVHhzNU9pbmZHR1NKcEZ",
+      "source_url": "https://wallstreetcn.com",
+      "source": "华尔街见闻"
     },
     {
-      "title": "首份AI应用调查，香港证监会划四大监管重点，AI不能替人背锅",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94bFdNTXI5dWNzM0NQZ3MyYm03Nnk3UjlEckJ2WUhTSFczSEcyLV92NmFGQXNRNmxqc3RRak5najYwUEI4T3FWNUQ",
-      "source_url": "https://finance.ifeng.com",
-      "source": "凤凰网财经"
+      "title": "ON1 将 Photo RAW 2027 带到 Mac 和 Windows，加入本地 AI 工具",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkJ0OGxYaHo0WkZ6QUkxc0V6enV6T2JrdEt2Y1lXeWpSZmpBcjhtdk94M3hiWGdUOTU3NXJLd3UwTmZWZlJfM2V",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "游族网络三季报营收净利双增，AI+算力构筑新增长曲线_滚动新闻",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nbTNPWXpqVlA4Y2E2cFphUkVRMWVLdHpLS2NiU293U3ZobFFIMW9JWW9XNkJZOEswVWhsaUxsVjdrR2JtUGJ4dHk",
-      "source_url": "https://finance.stockstar.com",
-      "source": "证券之星"
+      "title": "ComfyUI 2026：最强大的基于节点的 AI 生成工具",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMUxIdnRselRscTlTbUtkTERhTndjODZvVU41eml3cGRlSHoyRVdBeFVVRUZDRTdUZDh2Z3dmemgzd1o5QW9oLVh",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
     },
     {
-      "title": "600715，上演“地天板”",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UcFJ1dmtWaGR2V05pb2pQYzJlY2txZENyU1dfMjN6UjZmTjhQUm40MGNlTWk2VmRtVG1kelB6RkZTRjMtWHdUbHZ",
-      "source_url": "https://finance.ifeng.com",
-      "source": "凤凰网财经"
+      "title": "腾讯云王慧星：让WorkBuddy从“好用的工具”成长为“可进化的生产力系统”",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRE54em5YdTlMUTBObUx5eXVESmdCdkpkOHc2RmZxQUNCMXYxakgycmFkeS1MRFJKOU9MZEkyVV9faEY5SExUbnR",
+      "source_url": "http://jjckb.xinhuanet.com",
+      "source": "经济参考报"
     }
   ]
 }

@@ -1,54 +1,51 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 13,
+    "raw_dedup_junk": 19,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.com.cn": 9,
-      "stockstar.com": 3,
-      "com.sg": 2,
-      "tmgm.com": 2,
-      "hstong.com": 2,
-      "jkn.co.kr": 1,
-      "kyungjeilbo.com": 1,
-      "sina.cn": 1,
+      "moomoo.com": 2,
+      "stockstar.com": 1,
       "sfccn.com": 1,
-      "aboluowang.com": 1
+      "china.com": 1,
+      "fx678.com": 1,
+      "jrj.com.cn": 1,
+      "on.cc": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 11,
-    "relaxed_72h": 1,
+    "fresh1_24h": 10,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "破发股*ST康乐跌8.13% 2023年上市即巅峰中信证券保荐_股市聚焦_市场_",
+      "t": "股票回购增持贷款利率，有望降至1.6%",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "承辉国际(01094)转仓市值总计581.3万港元占比7.05% 从宏智证券转出",
       "d": "cnfol.com"
     },
     {
-      "t": "破发股*ST仕净跌6.18% IPO国联民生保荐两募资共6.2亿_股市聚焦_市场",
+      "t": "中宝新材(02439)转仓市值总计1652.28万港元占比6.23% 从粤商国际",
       "d": "cnfol.com"
     },
     {
-      "t": "ST南新连亏5年3季 2020年上市募12亿元西部证券保荐_股市聚焦_市场_中金",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "金价创一年多新低，见底了吗？",
+      "t": "【环球财经】科技股继续承压 纽约股市三大股指2日涨跌不一",
       "d": "sohu.com"
     },
     {
-      "t": "商品市场波动加大 私募控回撤调结构",
-      "d": "21jingji.com"
+      "t": "【环球财经】伦敦股市2日上涨",
+      "d": "sohu.com"
     },
     {
-      "t": "港股早报｜股票回购增持专项贷款或新增两千亿级 美股纳指跌近3%",
+      "t": "港股早报｜三部门部署资本市场两项工具 热门中概股普涨",
       "d": "cls.cn"
     },
     {
-      "t": "专栏｜中美利差创新低，人民币为何还能升值？",
-      "d": "caixin.com"
+      "t": "纳斯达克12月6日将上线23/5交易制度，夜间交易覆盖A股主要时段",
+      "d": "huxiu.com"
     }
   ]
 }

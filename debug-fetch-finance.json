@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 44,
+  "total": 19,
   "samples": [
     {
-      "title": "破发股*ST康乐跌8.13% 2023年上市即巅峰中信证券保荐_股市聚焦_市场_中金在线",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZMmlzdWhzOHVxX2dselJIVENxck90LVo4TUotVUROSmZ4aXpEZ09tTzhJWldtRVVPNy1ET21SaFItM3lDblZJQnc",
+      "title": "股票回购增持贷款利率，有望降至1.6%",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qVU1CY21XNTV1WmI0NjY0R1dpLVVlR0NOQi1taVpiR2RWVDNJZGRhWmNzODdEQ1kxOGpzWGJaNEdQNWNDbHN4TkJ",
+      "source_url": "https://finance.ifeng.com",
+      "source": "凤凰网财经"
+    },
+    {
+      "title": "承辉国际(01094)转仓市值总计581.3万港元占比7.05% 从宏智证券转出3420.65万股_",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PNWt2SkZHNWFaNDlCUDd4SjJ2NTZsVUNyT1plXzlxeEJuU0hvWWZ4b2xVVTJYejBfTDVfYnRZbkJDOGZvckNodzd",
       "source_url": "http://sc.stock.cnfol.com",
       "source": "中金在线"
     },
     {
-      "title": "破发股*ST仕净跌6.18% IPO国联民生保荐两募资共6.2亿_股市聚焦_市场_中金在线",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1seG5ZOVk5VU9uR2ZSWHpaT1M4bXZLVkF6amVMb1Fvb2FlT194Vnl3Y3g0eG5nNFUyd3VqRm9PdkpISDE1dl9qUEx",
+      "title": "中宝新材(02439)转仓市值总计1652.28万港元占比6.23% 从粤商国际证券转出5311万股",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85WjhvYWloLXRqUTUzMUNoeXhRN29xTnZwRG8tdE15SWVqeS1jYkhsQl96MFBFVUpzaTJSWHdwQW1KbElFbU9qVVg",
       "source_url": "http://sc.stock.cnfol.com",
       "source": "中金在线"
     },
     {
-      "title": "ST南新连亏5年3季 2020年上市募12亿元西部证券保荐_股市聚焦_市场_中金在线",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuY0wwZFdUX1FHb1dPN1IySDNIbmprQ29xQ1VCY0tsS1VwVkY1R21nSk01Nm5IUzFTNEowa1RaSWhNd0VTUTRmT2d",
+      "title": "继续为AI支出“输血”！传甲骨文(ORCL.US)接近以11%折价发售100亿美元股票，定价116美",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXaUl5VTJiNDhyLXlBV25NejNURjV3TC03Sm1NVmw0QXBIcUVDZkY0UGI5TXIzOUE1UmdQRTdUekhrSDdLZm0tSnB",
       "source_url": "http://sc.stock.cnfol.com",
       "source": "中金在线"
     },
     {
-      "title": "LG化学出售股份，LG新能源股价下跌: 韩国股市: 财经日报",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yRGpGaU5JeWdfMFNKNzFwdmhNZFVnbENkWXVlZHc5NDQxU0hTUXBSNkNLbFVmSEY5Wnd4WnFlSjFTZDl3Q1pYOHo",
-      "source_url": "https://news.jkn.co.kr",
-      "source": "재경일보"
+      "title": "韩股“存储双雄”，开盘跳水",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuZ0wtNGdHZ2dEaGN1MmczNTdqM3ozRVM4VHRGNmE4TkhSOVNuNHZZYzlPWGI5TnJHRldPQmtERVIwVnZjMFluM1k",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "东吴证券第3季营收降57%净利降71% 股价涨幅垫底证券股_股市聚焦_市场_中金在线",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mMWJQbWNnMmYwNG04UFJfb3VSNV9VNEhSbXFtdXNFRWRNcDE4SUJab2lnN0JEMnBEeDZiUVk2Zm95ZVRFRUNEOVF",
-      "source_url": "http://sc.stock.cnfol.com",
-      "source": "中金在线"
-    },
-    {
-      "title": "中国股市经历最糟糕的一个月，金融监管机构讨论市场稳定措施",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZTFoyeFpCMlZjT1VDTzNPMGFvU1ZkWDFFakVBNVl3Yjdpc2JjTVpqb0RWLU4wWUVwRDVPX25CLXdpSHZkQlZKNWh",
-      "source_url": "https://china.kyungjeilbo.com",
-      "source": "亚洲日报"
+      "title": "南方财经全媒体集团",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aQkFZZTV3YXctSkIxS2ZpYkRLdkxkUHpxeHNsa3kyQnlHeF9PS053bHBLZ3ZKMzJlb3RmTG1odlZQSnJtRE1haXV",
+      "source_url": "https://www.sfccn.com",
+      "source": "南方财经"
     }
   ]
 }
