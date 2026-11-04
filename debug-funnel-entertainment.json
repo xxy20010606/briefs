@@ -1,53 +1,53 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 53,
-    "trusted": 13,
+    "raw_dedup_junk": 67,
+    "trusted": 16,
     "non_trusted_top": {
-      "iheima.com": 12,
+      "iheima.com": 11,
       "rediandf.com": 4,
-      "bjd.com.cn": 3,
-      "17173.com": 2,
-      "yeeyi.com": 2,
-      "sina.cn": 2,
-      "hupu.com": 2,
-      "china.com": 2,
-      "cnjiwang.com": 2,
-      "dzwww.com": 1
+      "sina.cn": 3,
+      "yule.com.cn": 3,
+      "china.com": 3,
+      "hk01.com": 2,
+      "chinapress.com.my": 1,
+      "vietnam.vn": 1,
+      "arch-web.com.tw": 1,
+      "starnewskorea.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 5,
-    "relaxed_72h": 8,
+    "fresh1_24h": 16,
+    "page_fresh": 16,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "电视剧行业迎“稳量提质”转折：明星中心制回归剧本中心制，AI贯穿生产全链条",
-      "d": "thepaper.cn"
+      "t": "16城集结完毕！\"电竞徽超\"总决赛落地合肥！",
+      "d": "people.com.cn"
     },
     {
-      "t": "离谱到家！《玉簟秋》大结局，是我今年看过最两极反转的结局",
-      "d": "163.com"
-    },
-    {
-      "t": "刘学义：这个角色，让我读懂守护的意义",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "旧韵新生，长歌未歇——舞台剧《长恨歌》的焕新之旅",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "A-Lin巡演第45场泉州火热开唱 闽南语互动邀约广州年度收官",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "《尚公主》热度遇冷？孟子义李昀锐三搭CP营销过猛，反噬路人缘",
+      "t": "2026电竞显示器品牌排行榜：谁定义高端显示标准",
       "d": "sohu.com"
     },
     {
-      "t": "2026中国广播电视精品报告发布活动在京举行",
+      "t": "外媒曝《冰雪奇缘3》将以安娜和克里斯托夫的婚礼开场 新反派为冰系女性",
+      "d": "sohu.com"
+    },
+    {
+      "t": "2026年南京、苏州、常州、无锡、镇江等地演唱会购票攻略+周边一站式购买指南",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "“启航‘十五五’·视听新征程”大视听展亮相2026中国广播电视精品创作大会",
+      "d": "gmw.cn"
+    },
+    {
+      "t": "世界剧院联盟国际青年艺术周启幕 汇聚八位顶尖赛事冠军",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "2026“致敬经典·修复电影论坛”举办",
       "d": "chinanews.com.cn"
     }
   ]

@@ -1,38 +1,38 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 42,
+    "raw_dedup_junk": 33,
     "trusted": 3,
     "non_trusted_top": {
-      "quasa.io": 8,
-      "unite.ai": 5,
-      "pasqualepillitteri.it": 5,
-      "zhiding.cn": 4,
+      "zhiding.cn": 3,
+      "icloudnews.net": 3,
       "stockstar.com": 2,
-      "sina.com.cn": 2,
-      "ctnews.com.cn": 1,
-      "hk01.com": 1,
-      "csdn.net": 1,
-      "mk.co.kr": 1
+      "guandian.cn": 2,
+      "cifnews.com": 2,
+      "caiwennews.com": 2,
+      "mk.co.kr": 2,
+      "mydrivers.com": 1,
+      "sina.com.cn": 1,
+      "aibase.com": 1
     },
     "fresh1_24h": 3,
-    "page_fresh": 1,
-    "relaxed_72h": 2,
+    "page_fresh": 3,
+    "relaxed_72h": 0,
     "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "AI酒吧遇到创业大街",
-      "d": "cyol.com"
-    },
-    {
-      "t": "AI安全走向体系化竞争：网易智企三层防护体系释放哪些产业信号",
-      "d": "sohu.com"
-    },
-    {
-      "t": "AI口语应用进入场景深耕阶段：从「可栗口语」看工具如何落到练习闭环",
+      "t": "高通AI Hub中国版来了！芯讯通模组接住“落地”这一棒",
       "d": "ifeng.com"
+    },
+    {
+      "t": "给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon 北京",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "AI酒吧遇到创业大街",
+      "d": "chinanews.com.cn"
     }
   ]
 }

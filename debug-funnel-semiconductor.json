@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 43,
-    "trusted": 23,
+    "raw_dedup_junk": 40,
+    "trusted": 19,
     "non_trusted_top": {
-      "vietnam.vn": 6,
-      "stockstar.com": 4,
-      "guandian.cn": 2,
-      "zhiding.cn": 1,
-      "cjn.cn": 1,
-      "ua.news": 1,
+      "stockstar.com": 9,
+      "smm.cn": 2,
+      "jrj.com.cn": 2,
+      "caiwennews.com": 1,
+      "china.com": 1,
+      "mydrivers.com": 1,
       "tradingview.com": 1,
-      "sina.com.cn": 1,
-      "kuai.media": 1,
-      "vovworld.vn": 1
+      "zhiding.cn": 1,
+      "weeklyonstock.com": 1,
+      "wenxuan.news": 1
     },
     "fresh1_24h": 19,
-    "page_fresh": 12,
+    "page_fresh": 18,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "钻石“长”出新本领 金刚石闪耀芯片散热新赛道",
-      "d": "chinanews.com.cn"
+      "t": "中国台湾拟进一步限制大陆半导体出口 违规转运处罚加重",
+      "d": "caixin.com"
     },
     {
-      "t": "“中国芯”集成电路产业促进大会举行",
-      "d": "cnr.cn"
+      "t": "【IC风云榜候选企业20】破局端侧“内存墙”瓶颈 迈特芯以全国产3D-TPU芯片",
+      "d": "laoyaoba.com"
     },
     {
-      "t": "美股科技巨头集体反弹，芯片股走强",
-      "d": "eastmoney.com"
+      "t": "思瑞浦20cm涨停、寒武纪涨超10%，科创芯片设计ETF招商(589390)标的",
+      "d": "jiemian.com"
     },
     {
-      "t": "迈威尔1150亿美元并购朗美通 AI光互连版图重构",
-      "d": "eastmoney.com"
+      "t": "恩智浦拟调整部分芯片价格，汽车业务恢复增长",
+      "d": "21jingji.com"
     },
     {
-      "t": "光通信价值链上移 半导体厂商踊跃“追光”",
+      "t": "罕见！这一板块，“20CM”涨停潮",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "消息称部分半导体设备制造商已启动2029年供应谈判",
       "d": "ifeng.com"
     },
     {
-      "t": "AI改变半导体晶圆厂运作",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "Anthropic上市前推介Claude芯片设计能力 称可缩短定制芯片研发周期",
-      "d": "cls.cn"
+      "t": "A股突变，午后芯片股爆发！",
+      "d": "10jqka.com.cn"
     }
   ]
 }

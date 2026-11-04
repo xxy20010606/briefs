@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 30,
-    "trusted": 14,
+    "raw_dedup_junk": 54,
+    "trusted": 24,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "stockstar.com": 2,
+      "sina.com.cn": 5,
+      "stockstar.com": 5,
+      "moomoo.com": 3,
+      "cnfin.com": 2,
+      "sina.cn": 2,
+      "jrj.com.cn": 2,
+      "stheadline.com": 2,
       "futunn.com": 2,
-      "hstong.com": 2,
-      "cnfin.com": 1,
-      "yzwb.net": 1,
-      "sfccn.com": 1,
-      "jin10.com": 1,
-      "china.com": 1,
-      "moomoo.com": 1
+      "hepingribao.id": 1,
+      "renminbao.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 7,
-    "relaxed_72h": 6,
+    "fresh1_24h": 23,
+    "page_fresh": 20,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "11.04股市早8点丨科技股或率先V型反转",
+      "t": "A股，午后暴涨！发生了什么？_股市要闻_市场",
       "d": "cnfol.com"
     },
     {
-      "t": "正味集团(02147)供股获有效接纳约36.13% 净筹约1.6亿港元_股市直播",
+      "t": "破发股*ST康乐跌2.37% 2023年上市即巅峰中信证券保荐_证券要闻",
       "d": "cnfol.com"
+    },
+    {
+      "t": "美国中期选举重磅频传，美股、韩股、日股全线重挫",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "【环球财经】伦敦股市3日下跌",
+      "d": "sohu.com"
     },
     {
       "t": "央行行长潘功胜：维护股票、债券、外汇等金融市场平稳运行，守住不发生系统性金融风险",
       "d": "163.com"
     },
     {
-      "t": "港股早报｜潘功胜指出要维护金融市场平稳运行 中际旭创澄清市场传言",
-      "d": "cls.cn"
+      "t": "科技股反弹 双创指数强势领涨 反转行情来了吗？",
+      "d": "yicai.com"
     },
     {
-      "t": "黄金怎么了？还能买吗？",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "美股芯片、光通信股大反弹，闪迪涨超5%，英伟达市值重回全球第一",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "中国旭阳集团：11月3日斥资153.13万港元回购100万股",
-      "d": "eastmoney.com"
+      "t": "指数大幅拉升 市场带量突破 中期反转行情来了？",
+      "d": "yicai.com"
     }
   ]
 }

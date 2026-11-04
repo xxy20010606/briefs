@@ -1,30 +1,54 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 2,
+    "raw_dedup_junk": 54,
+    "trusted": 10,
     "non_trusted_top": {
-      "autohome.com.cn": 8,
-      "ne21.com": 7,
-      "sina.com.cn": 6,
+      "autohome.com.cn": 9,
+      "ne21.com": 8,
+      "in-en.com": 3,
+      "caiwennews.com": 2,
+      "stockstar.com": 2,
+      "sina.com.cn": 2,
       "sina.cn": 2,
-      "tianjinwe.com": 1,
-      "in-en.com": 1,
-      "energytrend.cn": 1,
-      "zjol.com.cn": 1,
-      "shangbaoindonesia.com": 1,
-      "moomoo.com": 1
+      "zhshbao.com": 1,
+      "gessey.com": 1,
+      "gsjb.com": 1
     },
-    "fresh1_24h": 2,
-    "page_fresh": 0,
+    "fresh1_24h": 10,
+    "page_fresh": 8,
     "relaxed_72h": 1,
-    "final": 1,
-    "cap": "不限同域"
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "10月比亚迪、吉利、奇瑞、长安、零跑销量同比环比均较强增长，稳定了新能源车增长态",
+      "t": "龙头释放储能出货翻倍信号，光伏板块能否困境反转？",
       "d": "sohu.com"
+    },
+    {
+      "t": "20%涨停！光伏、电池爆发！美国中期选举引发异动",
+      "d": "wallstreetcn.com"
+    },
+    {
+      "t": "【国际快讯】泰国拟将进口电动车消费税上调至35%；特斯拉10月中国产电动车销量同",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "储能狂飙的下半场：装机翻着跟头涨，企业怎么才跟得上？",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "“企创智享云”专题直播课预告丨锂离子电池储能安全问题及对策",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "全钒液流电池：“十五五”长时储能迎来规模化窗口期",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "【图】扎堆上新！全新比亚迪唐/仰望鼎曜/方程豹钛9领衔 11月新车前瞻",
+      "d": "autohome.com.cn"
     }
   ]
 }

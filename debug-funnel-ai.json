@@ -2,53 +2,53 @@
   "type": "ai",
   "stages": {
     "raw_dedup_junk": 52,
-    "trusted": 13,
+    "trusted": 15,
     "non_trusted_top": {
-      "china.com": 4,
-      "hzsc.com.cn": 2,
-      "sina.cn": 2,
-      "quasa.io": 2,
-      "unite.ai": 2,
-      "ac.cn": 2,
-      "jschina.com.cn": 1,
-      "shobserver.cn": 1,
-      "vbdata.cn": 1,
-      "pedaily.cn": 1
+      "icloudnews.net": 8,
+      "sina.com.cn": 4,
+      "csdn.net": 3,
+      "bjd.com.cn": 2,
+      "techwalker.com": 2,
+      "stockstar.com": 1,
+      "guandian.cn": 1,
+      "pingwest.com": 1,
+      "sfccn.com": 1,
+      "zhiding.cn": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 2,
-    "relaxed_72h": 8,
+    "fresh1_24h": 15,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "大学开始发Token了，算力平台成高校“新基建”",
+      "t": "【IC风云榜候选企业20】破局端侧“内存墙”瓶颈 迈特芯以全国产3D-TPU芯片",
+      "d": "laoyaoba.com"
+    },
+    {
+      "t": "Transformer 架构还能咋改？严骏驰团队提供两条思路 | CNCC 20",
+      "d": "leiphone.com"
+    },
+    {
+      "t": "恒生科技指数成分股多点上涨，半导体与AI大模型企业同步走强",
       "d": "sohu.com"
     },
     {
-      "t": "腾讯混元Hy4即将发布：预览版位列Agent Arena全球第十，任务成本比Ki",
+      "t": "水滴公司沈鹏出席乌镇互联网大会 共话AI普惠保障新方向",
+      "d": "nbd.com.cn"
+    },
+    {
+      "t": "专访群核科技董事长黄晓煌：通用大模型不会替代空间智能，确定能力边界是关键",
       "d": "ifeng.com"
     },
     {
-      "t": "高熙：人工智能的竞赛中，真正的对手是时间",
-      "d": "gmw.cn"
+      "t": "后摩智能低调完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期",
+      "d": "zhidx.com"
     },
     {
-      "t": "乌镇峰会观察：中国开源AI大模型持续“圈粉”",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "国内三大顶尖大模型负责人乌镇同台对话：开源后如何防范风险",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "从AI大模型到具身智能、低空安全，2026安博会五大亮点引关注",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "三晋文化大模型“晋问AI”上线 数字人“晋豆”同步发布",
-      "d": "chinanews.com.cn"
+      "t": "人工智能产业日报(11.03) : AI行业新动态",
+      "d": "sohu.com"
     }
   ]
 }

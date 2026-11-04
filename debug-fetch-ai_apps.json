@@ -1,7 +1,31 @@
 {
   "type": "ai_apps",
-  "total": 42,
+  "total": 33,
   "samples": [
+    {
+      "title": "Windows 11原生测速工具开发内幕：一个人一天完成！AI功不可没",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YNlFOYzJzWGdOeVZCWHdwTjh5RUhQRldBd204UUxSQ0M0b0J5bHlPQ1dXNVJzUFRWb2NMa3VUcmlMRGxKUXRhUVZ",
+      "source_url": "https://news.mydrivers.com",
+      "source": "驱动之家"
+    },
+    {
+      "title": "互联网存量时代，短剧凭什么杀出重围？红果短剧用户反超豆包，AI降本叠加出海增量，AI短剧行业发展值得",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93dVVOakcxR0ZCdzZSQlRpRm9VWV80OHhSZHc1X0RmelhBbk1vYmVIbktMaXB1cnEzcFZaVVhIV1lzS0lmbkhRLVF",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "贝索斯植发照片系伪造，AI换脸再引社交媒体热议-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEN1VyZllaTlMyWGZPS0ZDVUJHcDM1UFJjQkZrVEdhMVN2M2xJTldHbmcwWE5FWjF3X3FVUGJsMHMtcjFvUFp6ZGw",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
+    },
+    {
+      "title": "谷歌允许学校禁用AI工具，但代价是无法使用搜索引擎-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11eE54ZWpKVmVoMEdpRFl5clRjMTB3MC1zRlJSN01kQTFSYkJuWWVGM0VxaEZpRnV3UkpXQ1YxQ3ljSm93NzA0cXd",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
+    },
     {
       "title": "OpenAI称ChatGPT搜索功能正在追赶谷歌-AI应用",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PZHlQVVMtZVNsQTdad3VoLWRDUmJadl9IRzd1Q2VVeXFFY0xMMXc2UWx1bFNCWGowemMwd1ZYaGNlSWgxMzJhb0F",
@@ -9,34 +33,10 @@
       "source": "至顶网"
     },
     {
-      "title": "中国AI功能来了！苹果(AAPL.US)发布iOS 27.3测试版：上线Watch AI倾听工具与全",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KRzJmT2xxT2VqLUxOX3h1UWI5Qm5CSWtHeHBzOFVPSFJlaWZ5UkpKaFVPbFEyblJtRnpDT0ZqV2JhekdvYkk2ekl",
-      "source_url": "https://finance.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "信雅达11月3日回应AI智能体话题：五层能力体系推动金融智能化升级_公司新闻",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51bkZkVE83ZUQzbUh0NWQtUmxMMV9INl9EQUU2dlAxR2g4eE9mN18yOTQwVG1FY2Z4Mi1XcGlVdllURDZxUDN0N3J",
-      "source_url": "https://stock.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "Apple 面向自定义应用集成开放 Siri AI 开发者预览版",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmhjZG1hMGJIVHhJbGhpWE56eWV5cnMzekVNODRXLTg1Ql9JdDQ3STRTM29LaDdhd0lBMERIa2lMSFBUQ1ZFVkJ",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "Apple 智能登陆中国，阿里千问担当 ChatGPT 的角色",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2tWSER0OXN2eVJVOUpVb2RpZlBPNUxmQ0MzbjVleXFhYWxvRG1GZ1ZhVTh5a1I4RloyemoxRGYtSE5xQnd2MEM",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
-    },
-    {
-      "title": "谷歌宣布禁用AI的学校将无法使用搜索",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HdnBCQW15YjRfMlB0N09haHQ2Wkd2WFZHUnVqVTc0QjhSdUg5NzUzcmNWU19URmFZWjdRVl9lTWhtZkxlY1U0eGk",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "高通AI Hub中国版来了！芯讯通模组接住“落地”这一棒",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xeXJieGtEMEZvNnFqS0lMbk5zT0xqTm9vNVY2SThMdXBOdFlPNmFrai1FVHJyNG4xU213RjdTZE81YlZLdmFIdk9",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
     }
   ]
 }
