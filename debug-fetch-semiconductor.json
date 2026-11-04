@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 22,
+  "total": 43,
   "samples": [
     {
-      "title": "Nordic率先完成蓝牙高速吞吐量芯片级验证，速率提升近四倍",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ERjdmaW5uXzhVeE41YWxuNWtZd3UxMVRYS0RRLWxqOTNac2N2WkhsUW1TazJReU85c2VtTU8wYkUxc3dEcUlCdmt",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
+      "title": "AI重塑半导体制造流程，工程师决策效率大幅提升-芯片",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYNjFWemZpcDRheUdJM2ttTU45VERUUTZRU2tYZHBYSkJiYUI0S21OVk1Ta21vcEc2VEo4VnBwRGtKWlRrdmZGTU5",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
     },
     {
-      "title": "一年内三涨价！汽车芯片龙头恩智浦再发调价函明年1月1日生效_热点推荐",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xQkpkU0hQdTZ3WTkxWGpGTFVyVW9Ha3JMTWFRNXhvQm85cldKSUJwVkd1R3FFTHZjMW1yZXE5MS1ZbGpUNklobXJ",
-      "source_url": "https://auto.stockstar.com",
+      "title": "钻石“长”出新本领 金刚石闪耀芯片散热新赛道",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PS1NtaHIwMm85cEllS3JkY3V2MzNfdnd4YlNhbndlUVlCLXNUYTlQckNpdXhLRlZHYXFRTjZpX2h6MzJYcGlvMXJ",
+      "source_url": "https://www.chinanews.com.cn",
+      "source": "中国新闻网"
+    },
+    {
+      "title": "“中国芯”集成电路产业促进大会举行",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rZkNDcXFXR0hYTjZySkxtREIzd0hjMTF4cDgybWFKSmd3N3hrcjZEMjhDc1NoVGVQZElpWWJyT2IyeS1XWGxhUXV",
+      "source_url": "https://www.cnr.cn",
+      "source": "央广网"
+    },
+    {
+      "title": "美股科技巨头集体反弹，芯片股走强",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CRVpUbzFqYWRfOE9HSnBVelZCeEVjN0ZhTVhSbnZFZHNlanlSUUx4eFpwa20tWmh2ak1xNmhwOVJhdUFESXVsRGY",
+      "source_url": "https://finance.eastmoney.com",
+      "source": "东方财富"
+    },
+    {
+      "title": "武汉的这颗“芯”有多硬",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iNmlncFZtMUJ4bkNxcXlZcmVWXzBKMU1ISXhsMm5fZGVYWG5tYkN3aE8zSDJXdHBWLUkzbzdjXzNrajduNDBRdDh",
+      "source_url": "http://news.cjn.cn",
+      "source": "长江网"
+    },
+    {
+      "title": "深南电路11月3日回应半导体封装基板话题：FC-BGA类封装基板已具备26层及以下批量生产能力",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnV09FRGp0X2xRWEU0VlVUX25nb1RpX3JXZnA3SWl5QVp2RW4tZnQxV3BYU0VmYk1qSGYyX3Q3M1VnVnV6YnJheDN",
+      "source_url": "https://stock.stockstar.com",
       "source": "证券之星"
-    },
-    {
-      "title": "汽车芯片大厂再发调价函，明年1月起涨价",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTbWdtZ1U0UmFxellWVnZNUm9CMUlZQUV0U3l6N19yQjdGRTM1cUhpcmI0WWhxeDFPdmh4aFNtTWRvNGV6MUNBOW4",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
-    },
-    {
-      "title": "三星退出8英寸芯片代工，中国大陆厂商会受益吗？",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpemFLRnpIcXN3b2RzVktxYmJDcmRVa1Y2SFBnVlU0c2k1OVV1OU9NQ3BHNVhESnNUMHQySDBGV1MxYnlHRGhwSHJ",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
-    },
-    {
-      "title": "CarbonSemi2026丨5G 迈向6G，滤波器芯片如何跟上？深圳汇芯通信成士其研究员：SAW ",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jWW4tREdpRmJ0VTVLOFVIS3AwWkVjOE9XVlVkQTJNRkNJbDJoX3hRMTRGcERzcUUxTVp2b2ozMWlGdGV3dlRoZ1B",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
-    },
-    {
-      "title": "防堵破口台湾经济部严管芯片输大陆学界力挺(图) 半導體 | 出口管制| 中國 | 社会民生",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByNkJoUnplMDA1Z3d0N0w5MzdNZmNsc2s1M1hUc1FMNU5MS24tM2I3V09qS1lQNUtSQ3RYeXlTRFhRRXQ0U1BVQ3E",
-      "source_url": "https://www.secretchina.com",
-      "source": "看中国网"
     }
   ]
 }

@@ -1,51 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 22,
-    "trusted": 15,
+    "raw_dedup_junk": 43,
+    "trusted": 23,
     "non_trusted_top": {
-      "stockstar.com": 1,
-      "secretchina.com": 1,
-      "aboluowang.com": 1,
-      "infoobs.com": 1,
-      "guandian.cn": 1,
-      "wsj.com": 1,
-      "cn3x.com.cn": 1
+      "vietnam.vn": 6,
+      "stockstar.com": 4,
+      "guandian.cn": 2,
+      "zhiding.cn": 1,
+      "cjn.cn": 1,
+      "ua.news": 1,
+      "tradingview.com": 1,
+      "sina.com.cn": 1,
+      "kuai.media": 1,
+      "vovworld.vn": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 13,
-    "relaxed_72h": 1,
+    "fresh1_24h": 19,
+    "page_fresh": 12,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "Nordic率先完成蓝牙高速吞吐量芯片级验证，速率提升近四倍",
-      "d": "eet-china.com"
+      "t": "钻石“长”出新本领 金刚石闪耀芯片散热新赛道",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "汽车芯片大厂再发调价函，明年1月起涨价",
-      "d": "eet-china.com"
+      "t": "“中国芯”集成电路产业促进大会举行",
+      "d": "cnr.cn"
     },
     {
-      "t": "三星退出8英寸芯片代工，中国大陆厂商会受益吗？",
-      "d": "eet-china.com"
+      "t": "美股科技巨头集体反弹，芯片股走强",
+      "d": "eastmoney.com"
     },
     {
-      "t": "CarbonSemi2026丨5G 迈向6G，滤波器芯片如何跟上？深圳汇芯通信成",
-      "d": "eet-china.com"
+      "t": "迈威尔1150亿美元并购朗美通 AI光互连版图重构",
+      "d": "eastmoney.com"
     },
     {
-      "t": "注册资本9亿！长鑫科技成立新公司",
-      "d": "eet-china.com"
+      "t": "光通信价值链上移 半导体厂商踊跃“追光”",
+      "d": "ifeng.com"
     },
     {
-      "t": "演讲报告征集！【空白掩模与合成石英材料技术论坛2026】将于12月3-4日在苏州",
-      "d": "eet-china.com"
+      "t": "AI改变半导体晶圆厂运作",
+      "d": "ifeng.com"
     },
     {
-      "t": "17家芯片分销商三季报：谁赚翻了？谁还在挣扎？",
-      "d": "eet-china.com"
+      "t": "Anthropic上市前推介Claude芯片设计能力 称可缩短定制芯片研发周期",
+      "d": "cls.cn"
     }
   ]
 }

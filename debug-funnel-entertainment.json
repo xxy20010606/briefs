@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 15,
+    "raw_dedup_junk": 53,
+    "trusted": 13,
     "non_trusted_top": {
-      "bjd.com.cn": 4,
-      "stockstar.com": 2,
+      "iheima.com": 12,
+      "rediandf.com": 4,
+      "bjd.com.cn": 3,
+      "17173.com": 2,
+      "yeeyi.com": 2,
       "sina.cn": 2,
       "hupu.com": 2,
       "china.com": 2,
-      "yule.com.cn": 2,
-      "westca.com": 1,
-      "games.gg": 1,
-      "mrjjxw.com": 1,
-      "gzastv.cn": 1
+      "cnjiwang.com": 2,
+      "dzwww.com": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 9,
+    "page_fresh": 5,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "《深度安静》定档11月19日艺联专线上映 张孝全林依晨演绎创伤婚姻",
-      "d": "sohu.com"
+      "t": "电视剧行业迎“稳量提质”转折：明星中心制回归剧本中心制，AI贯穿生产全链条",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "离谱到家！《玉簟秋》大结局，是我今年看过最两极反转的结局",
+      "d": "163.com"
+    },
+    {
+      "t": "刘学义：这个角色，让我读懂守护的意义",
+      "d": "gmw.cn"
+    },
+    {
+      "t": "旧韵新生，长歌未歇——舞台剧《长恨歌》的焕新之旅",
+      "d": "gmw.cn"
     },
     {
       "t": "A-Lin巡演第45场泉州火热开唱 闽南语互动邀约广州年度收官",
       "d": "ifeng.com"
     },
     {
-      "t": "舞剧《天工开物》将第六次进京 以明制美学再现中华奇书",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "中法联合制作，莫扎特歌剧《魔笛》11月登台国家大剧院",
-      "d": "bjnews.com.cn"
-    },
-    {
-      "t": "11月杭州演唱会扎堆：谢霆锋、王嘉尔、汪苏泷、李健、陈小春、5566等15组音乐",
+      "t": "《尚公主》热度遇冷？孟子义李昀锐三搭CP营销过猛，反噬路人缘",
       "d": "sohu.com"
     },
     {
-      "t": "《兰香如故》越看越不对劲：这届观众追的到底是宅斗剧，还是“她”的大型考古现场？",
-      "d": "163.com"
-    },
-    {
-      "t": "《爸爸的荷花镇》｜每日一书",
-      "d": "bjnews.com.cn"
+      "t": "2026中国广播电视精品报告发布活动在京举行",
+      "d": "chinanews.com.cn"
     }
   ]
 }

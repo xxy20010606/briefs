@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 56,
-    "trusted": 20,
+    "raw_dedup_junk": 52,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "chinadaily.com.cn": 2,
-      "jfdaily.com.cn": 2,
-      "stockstar.com": 2,
-      "53ai.com": 2,
-      "csdn.net": 2,
-      "aibase.com": 2,
-      "cpem.org.cn": 1,
-      "sfccn.com": 1,
-      "hzsc.com.cn": 1
+      "china.com": 4,
+      "hzsc.com.cn": 2,
+      "sina.cn": 2,
+      "quasa.io": 2,
+      "unite.ai": 2,
+      "ac.cn": 2,
+      "jschina.com.cn": 1,
+      "shobserver.cn": 1,
+      "vbdata.cn": 1,
+      "pedaily.cn": 1
     },
-    "fresh1_24h": 20,
-    "page_fresh": 18,
-    "relaxed_72h": 0,
+    "fresh1_24h": 9,
+    "page_fresh": 2,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "喜添7款大模型备案！广州天河再创历史新高",
-      "d": "21jingji.com"
+      "t": "大学开始发Token了，算力平台成高校“新基建”",
+      "d": "sohu.com"
     },
     {
-      "t": "水滴水守大模型荣获2026世界互联网大会“新光”产品奖",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "GPT-6 Astra 爆改 Qwen 大脑：只动 0.016% 参数，数学成绩",
+      "t": "腾讯混元Hy4即将发布：预览版位列Agent Arena全球第十，任务成本比Ki",
       "d": "ifeng.com"
     },
     {
-      "t": "十三年，乌镇峰会从“看风景”到“看算力”",
-      "d": "bjnews.com.cn"
+      "t": "高熙：人工智能的竞赛中，真正的对手是时间",
+      "d": "gmw.cn"
     },
     {
-      "t": "AI时代青年科学家创业创新生态论坛在温州举行",
-      "d": "stdaily.com"
+      "t": "乌镇峰会观察：中国开源AI大模型持续“圈粉”",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "乌镇峰会，如何“智”见未来？",
-      "d": "ce.cn"
-    },
-    {
-      "t": "蔡崇信乌镇谈AI：中国开源模型下载量、衍生模型数等关键指标保持领先",
+      "t": "国内三大顶尖大模型负责人乌镇同台对话：开源后如何防范风险",
       "d": "thepaper.cn"
+    },
+    {
+      "t": "从AI大模型到具身智能、低空安全，2026安博会五大亮点引关注",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "三晋文化大模型“晋问AI”上线 数字人“晋豆”同步发布",
+      "d": "chinanews.com.cn"
     }
   ]
 }

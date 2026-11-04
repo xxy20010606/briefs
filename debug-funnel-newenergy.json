@@ -1,42 +1,30 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 51,
-    "trusted": 4,
+    "raw_dedup_junk": 35,
+    "trusted": 2,
     "non_trusted_top": {
-      "ne21.com": 17,
       "autohome.com.cn": 8,
-      "in-en.com": 4,
-      "stockstar.com": 2,
-      "wedoany.com": 2,
-      "caiwennews.com": 2,
-      "solarzoom.com": 2,
-      "hirohida.com": 1,
-      "gessey.com": 1,
-      "seetao.com": 1
+      "ne21.com": 7,
+      "sina.com.cn": 6,
+      "sina.cn": 2,
+      "tianjinwe.com": 1,
+      "in-en.com": 1,
+      "energytrend.cn": 1,
+      "zjol.com.cn": 1,
+      "shangbaoindonesia.com": 1,
+      "moomoo.com": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 3,
+    "fresh1_24h": 2,
+    "page_fresh": 0,
     "relaxed_72h": 1,
-    "final": 4,
+    "final": 1,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "SiC/GaN需求上行，10家A股三代半企业表现如何？一文盘点",
+      "t": "10月比亚迪、吉利、奇瑞、长安、零跑销量同比环比均较强增长，稳定了新能源车增长态",
       "d": "sohu.com"
-    },
-    {
-      "t": "倒送电一次成功！中材节能乌兹别克斯坦纳沃伊300MW光伏+75MWh储能项目传喜",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "北美政策红利加持，韩系储能反攻真的无懈可击？",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "三季报收官，电池板块业绩成色几何？",
-      "d": "21jingji.com"
     }
   ]
 }

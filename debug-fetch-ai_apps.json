@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 40,
+  "total": 42,
   "samples": [
     {
-      "title": "从零售数字化到AI办公 李宁与腾讯云合作再进一步",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jeGpvcDhIVnlFNXlEQ09kM1NNYkU3NHVhc0Fta1NtY2JMVmRhOG5CODB1TXI3UUNyc2ZUY2lndERMU0JHNm81NEw",
-      "source_url": "https://news.mydrivers.com",
-      "source": "驱动之家"
+      "title": "OpenAI称ChatGPT搜索功能正在追赶谷歌-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PZHlQVVMtZVNsQTdad3VoLWRDUmJadl9IRzd1Q2VVeXFFY0xMMXc2UWx1bFNCWGowemMwd1ZYaGNlSWgxMzJhb0F",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
     },
     {
-      "title": "向半成品告别，AI应用“飞入寻常百姓家”",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0bDZqemdWWWdkZFNyRDRZTzlyODBpbFdiMlBsWkwxZ0Y4RDg3d29mRjJJMEpTMC1sQXRTQS1mcnFpWkk5bG0wMlZ",
-      "source_url": "https://www.ichaoqi.com",
-      "source": "潮起网"
+      "title": "中国AI功能来了！苹果(AAPL.US)发布iOS 27.3测试版：上线Watch AI倾听工具与全",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KRzJmT2xxT2VqLUxOX3h1UWI5Qm5CSWtHeHBzOFVPSFJlaWZ5UkpKaFVPbFEyblJtRnpDT0ZqV2JhekdvYkk2ekl",
+      "source_url": "https://finance.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "刘茜：未成年人AI应用面临多重现实挑战 需要社、家、校协同发力",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lUkdZSHAzdWhVcDlZR3J6SndXc1VCenY3SEZTMVRxU1UyUFM0ZGJKY2JiNk52TjJYTUUzcTROZ2J3UTRUU3pfc1N",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "信雅达11月3日回应AI智能体话题：五层能力体系推动金融智能化升级_公司新闻",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51bkZkVE83ZUQzbUh0NWQtUmxMMV9INl9EQUU2dlAxR2g4eE9mN18yOTQwVG1FY2Z4Mi1XcGlVdllURDZxUDN0N3J",
+      "source_url": "https://stock.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "高通AI Hub向中国开发者开放 助力终端侧AI生态创新发展",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGRjZtQU9zQjR6WmZ4VWJHOHNOaGQzTklwSjdpcUhocHNfSHhwcE8tTU1PbTJNMDJYdmZGOUdzeHh6MEc0Qmo4TUN",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "Apple 面向自定义应用集成开放 Siri AI 开发者预览版",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmhjZG1hMGJIVHhJbGhpWE56eWV5cnMzekVNODRXLTg1Ql9JdDQ3STRTM29LaDdhd0lBMERIa2lMSFBUQ1ZFVkJ",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "从云端到产业一线，“AI进车间”的浙江路径",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55N0EyYy12OElLYjQyUl9Eb0x2c3BxNDRHWE9GUjdKWlR3WHFuNkVsa3Y4WDJySXZtOGVqRW96N2ZYY2d5VEluZ3R",
-      "source_url": "https://cs.zjol.com.cn",
-      "source": "地方频道"
+      "title": "Apple 智能登陆中国，阿里千问担当 ChatGPT 的角色",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2tWSER0OXN2eVJVOUpVb2RpZlBPNUxmQ0MzbjVleXFhYWxvRG1GZ1ZhVTh5a1I4RloyemoxRGYtSE5xQnd2MEM",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     },
     {
-      "title": "釜山创意经济创新中心为中小企业和微型企业举办实用型生成式人工智能培训",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MWFlmNW1xdmNkQ0JCbklCZnRsSzFXa2N4Sjh1UlZjX3VUcFNzWFNPT0hWTmpya3VhSzRnZ3Y5T2JxUEVYang5SF9",
-      "source_url": "https://www.venturesquare.net",
-      "source": "벤처스퀘어"
+      "title": "谷歌宣布禁用AI的学校将无法使用搜索",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HdnBCQW15YjRfMlB0N09haHQ2Wkd2WFZHUnVqVTc0QjhSdUg5NzUzcmNWU19URmFZWjdRVl9lTWhtZkxlY1U0eGk",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     }
   ]
 }

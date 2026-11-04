@@ -1,54 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 36,
-    "trusted": 18,
+    "raw_dedup_junk": 30,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.cn": 3,
       "sina.com.cn": 3,
       "stockstar.com": 2,
-      "hk01.com": 1,
-      "chinapress.com.my": 1,
-      "sfccn.com": 1,
-      "epochtimes.com": 1,
+      "futunn.com": 2,
+      "hstong.com": 2,
       "cnfin.com": 1,
-      "techflowpost.com": 1,
-      "china.com": 1
+      "yzwb.net": 1,
+      "sfccn.com": 1,
+      "jin10.com": 1,
+      "china.com": 1,
+      "moomoo.com": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 17,
-    "relaxed_72h": 0,
+    "fresh1_24h": 10,
+    "page_fresh": 7,
+    "relaxed_72h": 6,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "破发股云涌科技跌6.59% 2020年上市募6.7亿浙商证券保荐_股市聚焦_市场",
+      "t": "11.04股市早8点丨科技股或率先V型反转",
       "d": "cnfol.com"
     },
     {
-      "t": "破发股华大智造跌6.72% 2022年上市募36亿中信证券保荐_股市聚焦_市场_",
+      "t": "正味集团(02147)供股获有效接纳约36.13% 净筹约1.6亿港元_股市直播",
       "d": "cnfol.com"
     },
     {
-      "t": "集体低开！创业板指跌超1%！美股要“通宵”了， A股怎么看？网友：以后白天还要看",
-      "d": "sohu.com"
-    },
-    {
-      "t": "股票型ETF持续净流入 11月首个交易日A股放量上涨",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "【环球财经】科技股继续承压 纽约股市三大股指2日涨跌不一",
-      "d": "sohu.com"
-    },
-    {
-      "t": "A股：大家做好心理预期，股市拐点来了，或将重演2015年的行情？",
+      "t": "央行行长潘功胜：维护股票、债券、外汇等金融市场平稳运行，守住不发生系统性金融风险",
       "d": "163.com"
     },
     {
-      "t": "A股：不必等突破3600点了，不出意外，股市要这样走了！",
-      "d": "163.com"
+      "t": "港股早报｜潘功胜指出要维护金融市场平稳运行 中际旭创澄清市场传言",
+      "d": "cls.cn"
+    },
+    {
+      "t": "黄金怎么了？还能买吗？",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "美股芯片、光通信股大反弹，闪迪涨超5%，英伟达市值重回全球第一",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "中国旭阳集团：11月3日斥资153.13万港元回购100万股",
+      "d": "eastmoney.com"
     }
   ]
 }

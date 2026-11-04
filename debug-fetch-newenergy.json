@@ -1,18 +1,24 @@
 {
   "type": "newenergy",
-  "total": 51,
+  "total": 35,
   "samples": [
     {
-      "title": "160MW/640MWh储能工程并网！时代天源助力宁夏80万千瓦光伏光储协同-发电侧-储能项目",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00QTk0N3dCcVFjVmw5TjlZUnBlUmhSTFB1UVlqWlctb2hqNXlOdWxOSVJuSE5GMzVwR0VLMkZSSHFYTHplWHZkcTR",
-      "source_url": "https://mchuneng.in-en.com",
-      "source": "国际储能网"
+      "title": "探索新能源资源循环全生命周期绿色转型",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLVE2ZjNXTjhfRzZCUzZXVU1mWjk3Zkx3ZFNOZlVxWVFjZjJCV1V6RU56Ulhnc0cxV3F4OGpCV1FoUHlKb0VPMTB",
+      "source_url": "https://epaper.tianjinwe.com",
+      "source": "天津日报"
     },
     {
-      "title": "20亿千瓦风光之后，电力设备开始忙起来了_公司新闻_财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SdW1aX2JwZE5ZUjR1VWdnRXJCSThpSDlKd1k2cm1DRGdZVEdBcXNWNG5yY0k5Q01NRmU1Z3VkTnNiV28zVXBhaTF",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
+      "title": "大唐146亿元风光氢储醇项目获批",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tWlNqdTJJZmYtaVpNNHVYUHpjNU50cXFjRzBGR2tfdHNXc1B6UkZSQlJRa0F0dUM4UHEyeC1qY0lha2czMHhZNnV",
+      "source_url": "https://www.ne21.com",
+      "source": "世纪新能源网"
+    },
+    {
+      "title": "宁德时代中标内蒙古300MW/1.2GWh储能设备采购！",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVY0hRZ2hFeUNsS2VCaW5PS2tnV3BiRWNGMHI2VmZLWXhucnRmckJpNnFVUUV3NU9vc0NLM3E1VEh0M2phb2dPUWF",
+      "source_url": "https://www.ne21.com",
+      "source": "世纪新能源网"
     },
     {
       "title": "我国高原新能源装机比重达52.9%",
@@ -21,22 +27,16 @@
       "source": "世纪新能源网"
     },
     {
-      "title": "浙江省绍兴市诸暨市启动新能源中重型营运货车购车补贴申报-电动汽车-新能源汽车",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91MmhqSFlQSTdBUlM1NHd5UnYxV2xKcXJMQ1ZTNzU1enEzTHQtZDlfVmU0TXNDT2hQZ0NzakhFY21NU1pwdG5CWUV",
-      "source_url": "https://chd.in-en.com",
-      "source": "国际充换电网"
+      "title": "340MW风电项目！河北石家庄公示拟申报纳入省年度开发建设方案风光项目",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10YVlxa1lUZFdyNlN4cWg4eHFJS3R2TUFRZkliTi12c2ZaeC1KVWdrYUNzT2JNenhPdm1zVkRwbHpnVEFLbjMzTjl",
+      "source_url": "https://wind.in-en.com",
+      "source": "国际风电网"
     },
     {
-      "title": "SiC/GaN需求上行，10家A股三代半企业表现如何？一文盘点",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenZZVkRaRnBmeWdRYWdDRm54cWdETlNtSzVUWV9hWEIzMnhKQmpLTlNDWW1KemhNWlRWcXhKQTUtalFpY0c1Mnc",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "保加利亚Tenevo储能项目获6000万欧元融资",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVcE8wUFgzZi02NU9MVjdNQlRVZHpkTTZkbFRCUjFpeFF3S0taUVJwV3l6LUNVWTVVNDFibE9RV2RCWF9FbHF4U3Z",
-      "source_url": "https://www.wedoany.com",
-      "source": "维度网"
+      "title": "阳光电源等5家储能头部企业发布2026年三季报",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEbVNJckZXSlVkWE9XUWxQdlZoY3BIaS01RVFILTVTZXJvUkVJbm81UFNhaktGSm4ybm9wQUcxTkhoNzJNdkktOGh",
+      "source_url": "https://www.energytrend.cn",
+      "source": "集邦新能源网"
     }
   ]
 }
