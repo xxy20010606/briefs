@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 52,
+  "total": 25,
   "samples": [
     {
-      "title": "乌镇照见AI走进生活_滚动新闻_财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zSVhNVzNpV1pFSkdRNWxGYlJtRGpTNWY1Z0prUWpUZlEwdnlUemZTYnc1bXpINkJrVGhoRTNjWTdWTlRMaUd1ZHl",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
+      "title": "从“手搓”AI到“AI造AI” 大模型自进化驶入快车道",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrSEFHTzBlOWp4UW5SaUR6QW81S3JhdVNIX2I1a0hscEV4c0JSaHhGQ3VPeTk0N01nUTFvdVp3eEtmVzVfYnQtUlI",
+      "source_url": "http://news.cnhubei.com",
+      "source": "荆楚网"
     },
     {
-      "title": "【IC风云榜候选企业20】破局端侧“内存墙”瓶颈 迈特芯以全国产3D-TPU芯片筑牢AI算力底座",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBPZ0pHWmhGaWpQSDdUNW1USVJ1Z1ZmQnJIY19WS2d5c3ZHbXRvMXRwTndoaDBPUkZFbHVCYWl2RUw0blVtVGZ2TGl",
-      "source_url": "https://www.laoyaoba.com",
-      "source": "集微网"
+      "title": "中国大模型开源开放，逻辑在哪里？",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tenYzcnpRWkFuSGZEUXFWcnhVRktKVS1udFRjZjRuSVhJM0M2TUdwR1ppLWEyc0trMEVfZEFwLVNscXV1T1RlaXJ",
+      "source_url": "https://m.voc.com.cn",
+      "source": "新湖南"
     },
     {
-      "title": "显卡也能“无线连接”？本地大模型迎来一种新的扩展方案",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QQThsNVlXdVRhM29KZ1lGS3hjaDFlb1o2Z08wWTV4TVJ2eDBkQzM5R1RfX0FpS2F1TnZGbW85WGJkb2hIaEZrNEg",
-      "source_url": "https://blog.csdn.net",
-      "source": "CSDN博客"
+      "title": "乌镇观察：从一座“词元工厂”看山东AI路径——不追参数，追场景",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CRmdFWUxPRHZNTUc5SjJYZ1dFOGprcU5CSkd2QWtXWGFNcjRfTEUzcVJSdjU5Ylp3eFpIYy1nWmhkZW16ZlU5S2h",
+      "source_url": "https://sd.ifeng.com",
+      "source": "凤凰网山东"
     },
     {
-      "title": "行云科技官宣与火山引擎合作：打通 AI算力生态",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GV2ppMjJwZHlJcVc4cjNqeXZCYzBRUGYwaFJVUzV1UHdwR1Z2RDV5Z0FWMGpzeU9rNzJMQnZ0ekc4ZnloLUV1Z21",
-      "source_url": "https://www.icloudnews.net",
-      "source": "www.icloudnews.net"
+      "title": "WAIE2026（第十届）人工智能产业大会圆满收官！",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPQ0VuY3hoU1dhZzlSOFl2Vkd4RVQtMHE4dFprNFZNakF5YTFBcjdtQXk5dUZoUXJHWWZXRk5EcTBRbFhrUnNDbTV",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "AI渗透康养全链路，7.3万张家庭养老床位接入平台",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zdWxxQ0dXYXRLSUVkQkpsaXRFX2NTMGg5ZFdKM0lxaHdkMjJ3QUZ3SkJpS1VGOW81OG5lQjFIRkdkaV9MYjEwVlI",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
+      "title": "2026年世界互联网大会乌镇峰会勾勒开源开放新图景",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DUldRWkVQc2JGYkxpdkpVR0dLUGwzT3RtQmhkMDlzam1xOGJmT3ZWRXAzU19ldG9IUWVkZE9MT0lfMzlPWVBwMGV",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "中兴通讯兴云数科“小语种国家大模型建设应用综合解决方案“荣获世界互联网大会“首发成果奖”",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rZHdBcG00MU5LcWNwMDVIRE84N3BibktPZUxlanFudUtRY3NlU2dZc1VvVW5yd3A3MEdtZUZ3WlRyTEVVcFplUnd",
-      "source_url": "https://www.icloudnews.net",
-      "source": "www.icloudnews.net"
+      "title": "DeepSeek 工程师高熙乌镇谈开源：想让 AGI 更快到来，“对手不是其他公司，而是时间”",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xdjJUQ1lKWGFlcmZpU1dmNUQzaTBQNU12NW55U3ZIMDBWQlE3UE1QcXhJSkRoMU50R1dTOXFoTHJYYXpmZlhyTw?",
+      "source_url": "https://hub.baai.ac.cn",
+      "source": "智源社区"
     }
   ]
 }

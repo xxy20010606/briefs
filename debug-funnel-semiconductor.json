@@ -1,54 +1,53 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 40,
-    "trusted": 19,
+    "raw_dedup_junk": 19,
+    "trusted": 10,
     "non_trusted_top": {
-      "stockstar.com": 9,
-      "smm.cn": 2,
-      "jrj.com.cn": 2,
-      "caiwennews.com": 1,
-      "china.com": 1,
-      "mydrivers.com": 1,
-      "tradingview.com": 1,
-      "zhiding.cn": 1,
-      "weeklyonstock.com": 1,
-      "wenxuan.news": 1
+      "prnasia.com": 1,
+      "awtmt.com": 1,
+      "voachinese.com": 1,
+      "rfi.fr": 1,
+      "mezha.net": 1,
+      "qdnd.vn": 1,
+      "sina.com.cn": 1,
+      "news18a.com": 1,
+      "cfi.net.cn": 1
     },
-    "fresh1_24h": 19,
-    "page_fresh": 18,
-    "relaxed_72h": 0,
+    "fresh1_24h": 7,
+    "page_fresh": 5,
+    "relaxed_72h": 5,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "中国台湾拟进一步限制大陆半导体出口 违规转运处罚加重",
-      "d": "caixin.com"
+      "t": "Arm Flexible Access方案：90+款Arm IP，一个订阅全拿到",
+      "d": "eet-china.com"
     },
     {
-      "t": "【IC风云榜候选企业20】破局端侧“内存墙”瓶颈 迈特芯以全国产3D-TPU芯片",
-      "d": "laoyaoba.com"
+      "t": "半导体ETF罕见批量涨停，是反转还是超跌修复？",
+      "d": "cls.cn"
     },
     {
-      "t": "思瑞浦20cm涨停、寒武纪涨超10%，科创芯片设计ETF招商(589390)标的",
-      "d": "jiemian.com"
+      "t": "全球半导体材料龙头，进军金刚石",
+      "d": "eet-china.com"
     },
     {
-      "t": "恩智浦拟调整部分芯片价格，汽车业务恢复增长",
-      "d": "21jingji.com"
+      "t": "【焦点复盘】双创指数创2个多月单日最大涨幅，全市场超350股涨超10%，20余只",
+      "d": "cls.cn"
     },
     {
-      "t": "罕见！这一板块，“20CM”涨停潮",
-      "d": "21jingji.com"
+      "t": "11月4科创芯片、半导体、证券、互联网、黄金、创新药ETF被大抛售，手把手教你学",
+      "d": "sohu.com"
     },
     {
-      "t": "消息称部分半导体设备制造商已启动2029年供应谈判",
-      "d": "ifeng.com"
+      "t": "越南设计出首款安全芯片，采用RISC-V和28纳米制程",
+      "d": "guancha.cn"
     },
     {
-      "t": "A股突变，午后芯片股爆发！",
-      "d": "10jqka.com.cn"
+      "t": "IPO问询复盘｜半导体“小巨人”上海隐冠流动性风险获关注",
+      "d": "cnfol.com"
     }
   ]
 }

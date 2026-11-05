@@ -1,54 +1,42 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 52,
-    "trusted": 15,
+    "raw_dedup_junk": 25,
+    "trusted": 5,
     "non_trusted_top": {
-      "icloudnews.net": 8,
-      "sina.com.cn": 4,
-      "csdn.net": 3,
-      "bjd.com.cn": 2,
-      "techwalker.com": 2,
-      "stockstar.com": 1,
-      "guandian.cn": 1,
-      "pingwest.com": 1,
-      "sfccn.com": 1,
-      "zhiding.cn": 1
+      "ac.cn": 3,
+      "sina.com.cn": 2,
+      "unite.ai": 2,
+      "cnhubei.com": 1,
+      "voc.com.cn": 1,
+      "hizh.cn": 1,
+      "scol.com.cn": 1,
+      "mydrivers.com": 1,
+      "bjd.com.cn": 1,
+      "mpaypass.com.cn": 1
     },
-    "fresh1_24h": 15,
-    "page_fresh": 12,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 3,
+    "page_fresh": 2,
+    "relaxed_72h": 2,
+    "final": 4,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "【IC风云榜候选企业20】破局端侧“内存墙”瓶颈 迈特芯以全国产3D-TPU芯片",
-      "d": "laoyaoba.com"
-    },
-    {
-      "t": "Transformer 架构还能咋改？严骏驰团队提供两条思路 | CNCC 20",
-      "d": "leiphone.com"
-    },
-    {
-      "t": "恒生科技指数成分股多点上涨，半导体与AI大模型企业同步走强",
-      "d": "sohu.com"
-    },
-    {
-      "t": "水滴公司沈鹏出席乌镇互联网大会 共话AI普惠保障新方向",
-      "d": "nbd.com.cn"
-    },
-    {
-      "t": "专访群核科技董事长黄晓煌：通用大模型不会替代空间智能，确定能力边界是关键",
+      "t": "乌镇观察：从一座“词元工厂”看山东AI路径——不追参数，追场景",
       "d": "ifeng.com"
     },
     {
-      "t": "后摩智能低调完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期",
-      "d": "zhidx.com"
+      "t": "银行AI进入规模化运行阶段，日均token消耗量最高超800亿，价值转化尚需时日",
+      "d": "cls.cn"
     },
     {
-      "t": "人工智能产业日报(11.03) : AI行业新动态",
-      "d": "sohu.com"
+      "t": "专访群核科技董事长黄晓煌：通用大模型不会替代空间智能，确定能力边界是关键",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "从这场乌镇对话，读懂构建AI开源生态关键词",
+      "d": "news.cn"
     }
   ]
 }

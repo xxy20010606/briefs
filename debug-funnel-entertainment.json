@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 67,
+    "raw_dedup_junk": 50,
     "trusted": 16,
     "non_trusted_top": {
-      "iheima.com": 11,
-      "rediandf.com": 4,
+      "iheima.com": 6,
       "sina.cn": 3,
-      "yule.com.cn": 3,
-      "china.com": 3,
-      "hk01.com": 2,
-      "chinapress.com.my": 1,
-      "vietnam.vn": 1,
-      "arch-web.com.tw": 1,
-      "starnewskorea.com": 1
+      "starnewskorea.com": 2,
+      "dianyingjie.com.cn": 2,
+      "china.com": 2,
+      "xmnn.cn": 2,
+      "bjd.com.cn": 2,
+      "epochtimes.com": 1,
+      "528btc.com": 1,
+      "wenxuecity.com": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 16,
-    "relaxed_72h": 0,
+    "fresh1_24h": 10,
+    "page_fresh": 6,
+    "relaxed_72h": 10,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "16城集结完毕！\"电竞徽超\"总决赛落地合肥！",
+      "t": "明晚开播，27集爱情剧江苏卫视呈现，《偷偷藏不住》姊妹篇，即将大火",
+      "d": "163.com"
+    },
+    {
+      "t": "谭松韵自认“笨演员”，谈《兰香如故》“生理性害怕”",
+      "d": "163.com"
+    },
+    {
+      "t": "手搓婚纱照定制微电影 AI风吹到婚庆市场",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "外媒：高效率、强共情，中国微短剧全球圈粉",
+      "d": "china.com.cn"
+    },
+    {
+      "t": "让中式美学扎根生活",
       "d": "people.com.cn"
     },
     {
-      "t": "2026电竞显示器品牌排行榜：谁定义高端显示标准",
-      "d": "sohu.com"
+      "t": "“青绿”何以长青（面对面）",
+      "d": "people.com.cn"
     },
     {
-      "t": "外媒曝《冰雪奇缘3》将以安娜和克里斯托夫的婚礼开场 新反派为冰系女性",
-      "d": "sohu.com"
-    },
-    {
-      "t": "2026年南京、苏州、常州、无锡、镇江等地演唱会购票攻略+周边一站式购买指南",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "“启航‘十五五’·视听新征程”大视听展亮相2026中国广播电视精品创作大会",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "世界剧院联盟国际青年艺术周启幕 汇聚八位顶尖赛事冠军",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "2026“致敬经典·修复电影论坛”举办",
-      "d": "chinanews.com.cn"
+      "t": "金元证券：给予中国电影增持评级",
+      "d": "10jqka.com.cn"
     }
   ]
 }

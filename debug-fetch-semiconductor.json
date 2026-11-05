@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 40,
+  "total": 19,
   "samples": [
     {
-      "title": "中国台湾拟进一步限制大陆半导体出口 违规转运处罚加重",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XOE5OanFDNm1RaHNrUGRBZEU3eWhuUXpxdVo1MjNFUjg5alRpQm1PNExhVTZzSUd3bURIZDkweE5wYV9icTNHVER",
-      "source_url": "https://companies.caixin.com",
-      "source": "财新"
+      "title": "博世成立独立半导体事业部：2028年1月起运营，目标2030年营收50亿欧元",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JRnVyYzV3QWpaSG1sVjdiNm5wVzRqaWJORDdkUXVQMXd5dXZIV2NmbkJVbTE1R0ZCeUJqU1pRV2x1MWJRSTlhQmo",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "11月4日新洁能涨停：半导体，汽车芯片，国产芯片概念热股_个股掘金",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9obURxV0k3ODJWNG43NVFUVWwwNklpTWszaFlvdkRCM2tzOEN2SlNjZTB3NllIVGJtNzZueW9yOTdiZmpJZV9hQWx",
-      "source_url": "http://stock.stockstar.com",
-      "source": "证券之星"
+      "title": "Arm Flexible Access方案：90+款Arm IP，一个订阅全拿到",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnWURudEh3Q2JxWENtdHMtejZZTURGNUhZRDBEOGNWb3NZbkluVTFldUlaRzZKQ2czOU9IUVl2eDZTWXFBcGlXeWV",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "半导体板块午后狂飙逾10% 个股掀20CM涨停潮 拓荆科技等近18股涨停【热股】",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1oVmduTUNaTkxSUGJvQS1XNzZHWjRONENHclhUS2RmSVcwdUVjVmZUNVJZU21Ib19rZ2JxS0VlajIzelpCdmxkR1J",
-      "source_url": "https://news.smm.cn",
-      "source": "上海有色金属网"
+      "title": "三星进博会观察|云边之间， 芯片集群如何托举智能出行",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wVXNZYlM1SE96Z0p3bXBzZGhpWmFvTmZrc3ZMYXZxMWoxODZUeDFlTzhzZjBVWjhSVk5Gc2F3Qlo1b0c3d0JkTmh",
+      "source_url": "https://www.prnasia.com",
+      "source": "美通社"
     },
     {
-      "title": "11月4日华峰测控涨停：半导体，国产芯片，第三代半导体概念热股_个股掘金",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyTGxoZUZJV1piOXR3RlpmY3VqZVhwZXVyOU5Ud0hRZGQxeUN1V2RfUWw2Y2pobHNEOXAtNm5vUTdaSS1kY25HaUV",
-      "source_url": "https://stock.stockstar.com",
-      "source": "证券之星"
+      "title": "高通Q4财季超预期但盈利指引逊色，手机业务承压、数据中心转型提速｜财报见闻",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00RV9IdmozdC1oeHlGVXJsaHVQcl9iRVFTYUlXRE9yZy1sSHBBRjF5Nm1DYkRCcXRYd3NhX1JwLXRtalpVSENwZ25",
+      "source_url": "https://awtmt.com",
+      "source": "全天候科技"
     },
     {
-      "title": "11月4日金海通涨停：半导体，国产芯片概念热股_个股掘金",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85WkJvcG95R0FNY2JMcXRuTTJ4czg0em5pZjNVa21PUDdoQk5qdkVHUGtJZC1NVElmaDNmMkN4eFVhSFZqdlgwSzh",
-      "source_url": "https://stock.stockstar.com",
-      "source": "证券之星"
+      "title": "林佳龙指台湾是美国实现科技主导的伙伴而非对手 美国务院回应：台积电投资有助美芯片生产",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTlNMY1E5c1dVa19ZN0w4VDFuNlFfZG1yY1gtMkVzTlYxanZhU0ZhZjU5c2ZjU0JFS3dvb3ZZYnY5Q1dHV05pRk1",
+      "source_url": "https://www.voachinese.com",
+      "source": "美国之音"
     },
     {
-      "title": "11月4日中科飞测涨停：高带宽存储器HBM，半导体，国产芯片概念热股_个股掘金",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mVWduaU9LMTZPUk9HSGJ2RmhYZEdWNDFFMkxOQjdDQVYzVThjc29CbzJjQ1h5TElSbVhXUkJTTEMtbkQwcldWWHB",
-      "source_url": "https://stock.stockstar.com",
-      "source": "证券之星"
+      "title": "荷兰安世半导体起诉闻泰科技及其创始人 要求赔偿损失",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPWWJDV0psVXNwMU80dWRWSWR0Rm41Y0N1dkhTZm5vTGVDTFhLMW96Zmw0NHh0RWZYQUNYNTBxUkp2VW5lZWl6S3p",
+      "source_url": "https://www.rfi.fr",
+      "source": "RFI"
     }
   ]
 }

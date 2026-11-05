@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 54,
+  "total": 26,
   "samples": [
     {
-      "title": "A股，午后暴涨！发生了什么？_股市要闻_市场",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FZHMtcU9KaUJMRWdZT1VOT3VOYWtCQjY0dXg3TWlzdUpWaGIzY3c3R3RRc294bkhJcHB4bDY2anVUUVpjaW0yXzh",
+      "title": "【隔夜市场回顾】昨日A股强势拉升；美股三大指数集体收涨_滚动新闻_财经",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBNXh0eTZxODBoQ2pNVlVLVl8zUjZoc3k2ck10MUhGa0hIaS1Fbk5VV1ZnQVV3eUFTVE5FcklDWndXNDhkTE9XYkF",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
+    },
+    {
+      "title": "聚水潭(06687)11月4日斥资约37.63万港元回购3.54万股_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBweld4ZW41aHVCN3ZxVk16cXhBeXlYd2k4ZUdPbzJxaHpHVFROVDZENFFUQmQzOGVUS1VmYXhRakdjRk0taTJpajR",
       "source_url": "http://sc.stock.cnfol.com",
       "source": "中金在线"
     },
     {
-      "title": "破发股*ST康乐跌2.37% 2023年上市即巅峰中信证券保荐_证券要闻",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rb3BJdldybEpZWWdPV1Y0aTFvekgydmt1S0NpblQ0bERBSmxvbkVTV3lzaHZqTWhnaDU3Y2lZaER3MWl3TnZmZDJ",
-      "source_url": "http://news.cnfol.com",
+      "title": "中泰证券：险资年化总投资收益率1.44% 看好A股底部企稳后保险板块布局良机_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04Q2VYcmJKVXl4dlI3b0hVcENWMk82UVpmWWhtY1I3VWpmaG9WczlVT2U3YlV1eFpNV2FxTm0yYmJWTUJhdm9COF9",
+      "source_url": "http://sc.stock.cnfol.com",
       "source": "中金在线"
     },
     {
-      "title": "兴业能源革新股票邹慧离任增聘刘文婷成立来亏近30%_证券要闻",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IdmxvMnpVVjRhR2hHM19nelVoTUtsaHFLa3AwZXpRbTBMWVNUeVEwZDNMVnBqdGN3Qk1fYWd1WEowTWFIM1RkNi0",
-      "source_url": "http://news.cnfol.com",
+      "title": "招商证券：国内稳市政策密集发布前期超跌方向有望迎来反弹窗口_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2UGlDRU9LMFlIQ241MHJ5T20zVUJ0NVZxN2pKenpxVlNOb3hseGpQNnJGSWZQMnZDd25wMWpHMmpJeV94blUydkN",
+      "source_url": "http://sc.stock.cnfol.com",
       "source": "中金在线"
     },
     {
-      "title": "诺德策略回报股票型基金增聘顾钰成立4年亏损近17%_证券要闻",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42dHpvN0FKQmxoQWNYWlRSUzNSSDBSbk0wa0lFaHc1X3BlZVdZaG9wcm1BOG9sd3p3LWU1NlU2Z3BFX2E4d1hlSkl",
-      "source_url": "http://news.cnfol.com",
-      "source": "中金在线"
+      "title": "中银证券首席经济学家徐高：我国股票市场稳定发展的前景没有改变_证券时报_媒体广场",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VakdrTVJZUEtkbXE4UTFYMEZqTzJKVEhOS1VKQ182VWd3bVduVlVfd015V3R6T2RKS1dJYmp6a3B1UDE1R184MjV",
+      "source_url": "https://finance.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "英媒：中国金融监管层要求投行暂停推进IPO",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPOXQxcjdYeUdmc0hYcEF2UWNMY3RWdmdtMW81Rlc1N1ZOUnI5VEZnTzQzNDFoWWxBY3Y5M21LaXV2anFYWWJkTmN",
-      "source_url": "https://www.hepingribao.id",
-      "source": "和平日报"
-    },
-    {
-      "title": "中国人民银行加力实施股票回购增持再贷款政策_证券要闻",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkMGNXc3VnYU90ME9nY2dUdjQwaU9qN2dRcFAxWHZVdXdjOTRPV21BN2tPMktmZmdvVm04QTBlRVBkR0RGTGdpY0J",
-      "source_url": "http://news.cnfol.com",
-      "source": "中金在线"
+      "title": "美股年末反弹来了？华尔街交易机构押注中期选举后上涨，选前仓位出清成核心看涨论据_滚动新闻_财经",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zMjM3eEh2RmNRZUJKN3VvUFRtOGsxbGc5VGhET2FlRTJZVTI0ZW12ZjVNUGlKUzlqVzVERGNrcWhUU0FRNXloY2d",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
     }
   ]
 }

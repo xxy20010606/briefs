@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 33,
+  "total": 19,
   "samples": [
     {
-      "title": "Windows 11原生测速工具开发内幕：一个人一天完成！AI功不可没",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YNlFOYzJzWGdOeVZCWHdwTjh5RUhQRldBd204UUxSQ0M0b0J5bHlPQ1dXNVJzUFRWb2NMa3VUcmlMRGxKUXRhUVZ",
-      "source_url": "https://news.mydrivers.com",
-      "source": "驱动之家"
+      "title": "对话腾讯健康吴文达：医疗AI不缺新应用，核心是如何融入真实业务流",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KMEstbkFRb0MtWHgwMEdsTDV6cmZ5SUltWFlYOU0yVHNQeVRVWE9IUTNRWEswcnNuV2c0TnhDTURDcDlsOXdZ?oc",
+      "source_url": "https://www.vbdata.cn",
+      "source": "动脉网"
     },
     {
-      "title": "互联网存量时代，短剧凭什么杀出重围？红果短剧用户反超豆包，AI降本叠加出海增量，AI短剧行业发展值得",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93dVVOakcxR0ZCdzZSQlRpRm9VWV80OHhSZHc1X0RmelhBbk1vYmVIbktMaXB1cnEzcFZaVVhIV1lzS0lmbkhRLVF",
+      "title": "曙光云发布首个政企可信桌面级AI智能体OneBox",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2ZUYU5MVERLc3VfNWxKNFoyanNZQ1BtVFBEbmo3VkduZTVteFlvQWp6ZGV0Nk96M1RRSWxmcHo1MXQ5OWtXSW5",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "苹果葛越：AI不会取代App，将推动应用生态进一步发展",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WT3hKdW9TMWh2YS13d2N2cXFWbkI5SjU0UHRZWWpWVTQxMUt2R3R3amNLYmVOVV9vSlJacXcxNzE3c19xN1FuS2k",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "贝索斯植发照片系伪造，AI换脸再引社交媒体热议-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEN1VyZllaTlMyWGZPS0ZDVUJHcDM1UFJjQkZrVEdhMVN2M2xJTldHbmcwWE5FWjF3X3FVUGJsMHMtcjFvUFp6ZGw",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "苹果副总裁：AI不会取代App，而是成为其“放大器”",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ReXdSOWkzRGlHNzRkSGx0eXpDRmNKREZMa0l3ZmJGQ2s0S19MWEhOSTVlUXJXQ2gzR1U4ZW5oN2JGOEsxMUhseGI",
+      "source_url": "https://news.china.com",
+      "source": "中华网"
     },
     {
-      "title": "谷歌允许学校禁用AI工具，但代价是无法使用搜索引擎-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11eE54ZWpKVmVoMEdpRFl5clRjMTB3MC1zRlJSN01kQTFSYkJuWWVGM0VxaEZpRnV3UkpXQ1YxQ3ljSm93NzA0cXd",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "HentAI AI：创新型应用＆平台完全指南 AI",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQR0hfUUJ2SXIwVXM1N1N3Y2s3SmZjb29FSFB5M2xUS0E2REw1SzE3S2lOaTUyS1pZdlBjdy1Sa1FHeXBzUWpxV29",
+      "source_url": "https://www.law.com",
+      "source": "Law.com"
     },
     {
-      "title": "OpenAI称ChatGPT搜索功能正在追赶谷歌-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PZHlQVVMtZVNsQTdad3VoLWRDUmJadl9IRzd1Q2VVeXFFY0xMMXc2UWx1bFNCWGowemMwd1ZYaGNlSWgxMzJhb0F",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
-    },
-    {
-      "title": "高通AI Hub中国版来了！芯讯通模组接住“落地”这一棒",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xeXJieGtEMEZvNnFqS0lMbk5zT0xqTm9vNVY2SThMdXBOdFlPNmFrai1FVHJyNG4xU213RjdTZE81YlZLdmFIdk9",
-      "source_url": "https://tech.ifeng.com",
-      "source": "凤凰网科技"
+      "title": "【会员风采】美格智能携手高通技术公司，共建软硬件协同的物理 AI 生态服务",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PX25JVGFUdkduSkZCUUozTjM4aHdTNmJ4SEVaX201MThtZTA2S0hiRmFmX00wUm9PbFB4LVdIaGNiWm8teURJVVF",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     }
   ]
 }

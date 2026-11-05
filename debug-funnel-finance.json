@@ -1,54 +1,52 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 54,
-    "trusted": 24,
+    "raw_dedup_junk": 26,
+    "trusted": 9,
     "non_trusted_top": {
-      "sina.com.cn": 5,
-      "stockstar.com": 5,
-      "moomoo.com": 3,
+      "stockstar.com": 4,
+      "sina.com.cn": 3,
       "cnfin.com": 2,
-      "sina.cn": 2,
-      "jrj.com.cn": 2,
-      "stheadline.com": 2,
-      "futunn.com": 2,
-      "hepingribao.id": 1,
-      "renminbao.com": 1
+      "investing.com": 2,
+      "sfccn.com": 2,
+      "fx678.com": 2,
+      "com.sg": 1,
+      "on.cc": 1
     },
-    "fresh1_24h": 23,
-    "page_fresh": 20,
-    "relaxed_72h": 0,
+    "fresh1_24h": 7,
+    "page_fresh": 5,
+    "relaxed_72h": 4,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "A股，午后暴涨！发生了什么？_股市要闻_市场",
+      "t": "聚水潭(06687)11月4日斥资约37.63万港元回购3.54万股_股市直播_",
       "d": "cnfol.com"
     },
     {
-      "t": "破发股*ST康乐跌2.37% 2023年上市即巅峰中信证券保荐_证券要闻",
+      "t": "中泰证券：险资年化总投资收益率1.44% 看好A股底部企稳后保险板块布局良机_股",
       "d": "cnfol.com"
     },
     {
-      "t": "美国中期选举重磅频传，美股、韩股、日股全线重挫",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "【环球财经】伦敦股市3日下跌",
+      "t": "陆家嘴财经早餐2026年11月5日星期四",
       "d": "sohu.com"
     },
     {
-      "t": "央行行长潘功胜：维护股票、债券、外汇等金融市场平稳运行，守住不发生系统性金融风险",
-      "d": "163.com"
+      "t": "腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
     },
     {
-      "t": "科技股反弹 双创指数强势领涨 反转行情来了吗？",
+      "t": "韩国股市，重大改革",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "全球瞭望：美科技股大幅回调 原油有望加入美债成资金避风港？",
       "d": "yicai.com"
     },
     {
-      "t": "指数大幅拉升 市场带量突破 中期反转行情来了？",
-      "d": "yicai.com"
+      "t": "民主党大胜、美联储利好？独立性获“保护伞”，特朗普掌控难度陡增",
+      "d": "wallstreetcn.com"
     }
   ]
 }
