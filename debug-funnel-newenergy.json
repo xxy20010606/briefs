@@ -1,28 +1,52 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 14,
-    "trusted": 3,
+    "raw_dedup_junk": 34,
+    "trusted": 8,
     "non_trusted_top": {
-      "ne21.com": 7,
-      "sina.com.cn": 2,
-      "un.org": 1,
-      "autohome.com.cn": 1
+      "ne21.com": 15,
+      "sina.com.cn": 4,
+      "jrj.com.cn": 2,
+      "moomoo.com": 1,
+      "notebookcheck-cn.com": 1,
+      "autohome.com.cn": 1,
+      "bjd.com.cn": 1,
+      "in-en.com": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 1,
-    "relaxed_72h": 1,
-    "final": 2,
-    "cap": "不限同域"
+    "fresh1_24h": 8,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "浙江景宁抽蓄项目开关站GIS楼顺利封顶",
-      "d": "solarbe.com"
+      "t": "【VIP日报】光伏、储能概念走强， 栏目以机构视角解读行业前景 提及相关公司大涨",
+      "d": "cls.cn"
     },
     {
-      "t": "技术迭代应用“多点开花”电动化提速“点亮”电池指数版图",
-      "d": "ifeng.com"
+      "t": "新版“站在光里”出现了？光伏板块大爆发，“易中天”却集体大跌",
+      "d": "nbd.com.cn"
+    },
+    {
+      "t": "今日行业动态｜四川新型储能项目建设三年行动方案：新增规模超13GW/26GWh！",
+      "d": "sohu.com"
+    },
+    {
+      "t": "【板块异动】新能源汽车盘中拉升2.8%！两股涨停，机构看好出海韧性",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "【板块异动】光伏设备盘中暴涨7.38%！多股涨停，海外政策利好点燃行情",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "比亚迪香港布局充电网络，与爱车集团合营企业进入公示期_车市动态",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "装机数据点燃光伏行情：告别“内卷”，新能源赛道集体回血",
+      "d": "cnfol.com"
     }
   ]
 }

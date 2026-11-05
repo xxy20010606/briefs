@@ -1,42 +1,46 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 19,
-    "trusted": 4,
+    "raw_dedup_junk": 20,
+    "trusted": 5,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "law.com": 3,
       "china.com": 2,
+      "mydrivers.com": 2,
+      "c114.net.cn": 2,
+      "pai.com.cn": 2,
+      "zhiding.cn": 1,
+      "stockstar.com": 1,
+      "chinaventure.com.cn": 1,
       "vbdata.cn": 1,
       "lmtw.com": 1,
-      "yeeyi.com": 1,
-      "53ai.com": 1,
-      "ac.cn": 1,
-      "xiaguangshe.com": 1,
-      "ichaoqi.com": 1
+      "ofweek.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 1,
-    "relaxed_72h": 3,
-    "final": 4,
+    "fresh1_24h": 5,
+    "page_fresh": 5,
+    "relaxed_72h": 0,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "“双11”卖爆了的Token，国内多所高校官宣免费发！大学里的Token用在哪里",
-      "d": "sohu.com"
-    },
-    {
-      "t": "曙光云发布首个政企可信桌面级AI智能体OneBox",
-      "d": "sohu.com"
-    },
-    {
-      "t": "口语工具进入对话式AI阶段：英语app推荐该看哪些技术能力",
+      "t": "从“会用 AI”到“能交付 AI”，新知 NewSeekAI 上新两大实战训练项",
       "d": "ifeng.com"
     },
     {
-      "t": "印尼总统普拉博沃及多名高官遭非法监听 3名嫌疑人被拘 含现任总统办公厅主任",
-      "d": "ifeng.com"
+      "t": "个人Agent上桌，谁先露了怯？",
+      "d": "sohu.com"
+    },
+    {
+      "t": "首款鸿蒙台式机华为擎云HM650系列发布：搭载麒麟X90桌面处理器，实现100%",
+      "d": "sohu.com"
+    },
+    {
+      "t": "OpenAI挖走Claude Code核心操盘手！前产品负责人Cat Wu正式加",
+      "d": "sohu.com"
+    },
+    {
+      "t": "华为宣布鸿蒙电脑应用超21000款 含办公、编程等领域",
+      "d": "sohu.com"
     }
   ]
 }

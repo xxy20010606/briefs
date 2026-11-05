@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 19,
+  "total": 34,
   "samples": [
     {
-      "title": "博世成立独立半导体事业部：2028年1月起运营，目标2030年营收50亿欧元",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JRnVyYzV3QWpaSG1sVjdiNm5wVzRqaWJORDdkUXVQMXd5dXZIV2NmbkJVbTE1R0ZCeUJqU1pRV2x1MWJRSTlhQmo",
+      "title": "财联社11月5日电，美股存储芯片股盘前延续跌势，SK海力士、西部数据跌超4%，美光科技、闪迪跌超3%",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hYkVBVnM1M2hEencySmtMd3ZNbjc4Zl9uX2pHdnJveExCTEF4Q0pYTTMxZldvTFFDWnRoTXVYR3VEUTNiMHBfQQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "三星前员工获刑5年！一场技术泄密案，揭开全球芯片人才争夺战",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeGstNkJyUURGUXNTaG95bHpnMDY2MjNiTTBLb05XWjJMbDNCSWVza2hZSkhta0RqN1pDdk8yeGUwS0RVZEFhUm5",
+      "source_url": "https://www.fx168news.com",
+      "source": "FX168财经"
+    },
+    {
+      "title": "400万颗！4家企业披露碳化硅主驱芯片上车进展",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05SWJxMHpKbmZSdV9lOTFsN3FZNjBlajAwNGM5OG00TzV2WnQ2MGtJMzlJNGpVMlhWTTZORkQyT1ZrT2FfWE1RZFV",
       "source_url": "https://www.eet-china.com",
       "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "Arm Flexible Access方案：90+款Arm IP，一个订阅全拿到",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnWURudEh3Q2JxWENtdHMtejZZTURGNUhZRDBEOGNWb3NZbkluVTFldUlaRzZKQ2czOU9IUVl2eDZTWXFBcGlXeWV",
+      "title": "消息称部分半导体设备制造商已启动2029年供应谈判",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UcW94Qk5mMnlXTnhfYWNZRmFMaFBWQzBMZThld0p2MXV0cnBxMkNJajdWeFJHREVnS0g4aDNnN3c3N01zS2NVSEJ",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "年产6000片！睿晶半导体高端光掩膜版项目最新进展",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yMVpNdmxaVXh1ckd2eXp6dnVhVmdlYWNVUXRQaWZMMkJrWU9nWTBDX2N1Mm1zM3MwMVRJQ0VuUEpsNzJYWlpfSUR",
       "source_url": "https://www.eet-china.com",
       "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "三星进博会观察|云边之间， 芯片集群如何托举智能出行",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wVXNZYlM1SE96Z0p3bXBzZGhpWmFvTmZrc3ZMYXZxMWoxODZUeDFlTzhzZjBVWjhSVk5Gc2F3Qlo1b0c3d0JkTmh",
-      "source_url": "https://www.prnasia.com",
-      "source": "美通社"
-    },
-    {
-      "title": "高通Q4财季超预期但盈利指引逊色，手机业务承压、数据中心转型提速｜财报见闻",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE00RV9IdmozdC1oeHlGVXJsaHVQcl9iRVFTYUlXRE9yZy1sSHBBRjF5Nm1DYkRCcXRYd3NhX1JwLXRtalpVSENwZ25",
-      "source_url": "https://awtmt.com",
-      "source": "全天候科技"
-    },
-    {
-      "title": "林佳龙指台湾是美国实现科技主导的伙伴而非对手 美国务院回应：台积电投资有助美芯片生产",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTlNMY1E5c1dVa19ZN0w4VDFuNlFfZG1yY1gtMkVzTlYxanZhU0ZhZjU5c2ZjU0JFS3dvb3ZZYnY5Q1dHV05pRk1",
-      "source_url": "https://www.voachinese.com",
-      "source": "美国之音"
-    },
-    {
-      "title": "荷兰安世半导体起诉闻泰科技及其创始人 要求赔偿损失",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPWWJDV0psVXNwMU80dWRWSWR0Rm41Y0N1dkhTZm5vTGVDTFhLMW96Zmw0NHh0RWZYQUNYNTBxUkp2VW5lZWl6S3p",
-      "source_url": "https://www.rfi.fr",
-      "source": "RFI"
+      "title": "数亿B+轮！中科卓尔，国产高端空白掩模版突围",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HTjF2clBFeHRINmdGMFlCTEZXXy1SUUZhSWZaMXJWcHhBOU83OTVGZF9UeHdGQ3JhUFJEZHhKQ2RzNkNyNi12RVp",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     }
   ]
 }

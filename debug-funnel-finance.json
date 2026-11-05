@@ -2,51 +2,45 @@
   "type": "finance",
   "stages": {
     "raw_dedup_junk": 26,
-    "trusted": 9,
+    "trusted": 7,
     "non_trusted_top": {
-      "stockstar.com": 4,
-      "sina.com.cn": 3,
-      "cnfin.com": 2,
-      "investing.com": 2,
-      "sfccn.com": 2,
-      "fx678.com": 2,
-      "com.sg": 1,
-      "on.cc": 1
+      "sina.com.cn": 5,
+      "jrj.com.cn": 3,
+      "stockstar.com": 3,
+      "sina.cn": 2,
+      "orientaldaily.com.my": 1,
+      "cnfin.com": 1,
+      "sfccn.com": 1,
+      "moomoo.com": 1,
+      "investing.com": 1,
+      "hstong.com": 1
     },
     "fresh1_24h": 7,
-    "page_fresh": 5,
-    "relaxed_72h": 4,
-    "final": 7,
-    "cap": "同域≤2条"
+    "page_fresh": 3,
+    "relaxed_72h": 2,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "聚水潭(06687)11月4日斥资约37.63万港元回购3.54万股_股市直播_",
+      "t": "港股异动| 内银股尾盘涨幅扩大建行(00939)再创新高美银指内银盈利改善但上行",
       "d": "cnfol.com"
     },
     {
-      "t": "中泰证券：险资年化总投资收益率1.44% 看好A股底部企稳后保险板块布局良机_股",
+      "t": "江南新材(603124.SH)：向特定对象发行A 股股票申请获得上交所受理_股市",
       "d": "cnfol.com"
     },
     {
-      "t": "陆家嘴财经早餐2026年11月5日星期四",
-      "d": "sohu.com"
+      "t": "港股全线大涨",
+      "d": "eastmoney.com"
     },
     {
-      "t": "腾讯控股(00700)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "韩国股市，重大改革",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "全球瞭望：美科技股大幅回调 原油有望加入美债成资金避风港？",
+      "t": "美中期选举正式投票国际金价震荡收跌｜工行连线",
       "d": "yicai.com"
     },
     {
-      "t": "民主党大胜、美联储利好？独立性获“保护伞”，特朗普掌控难度陡增",
-      "d": "wallstreetcn.com"
+      "t": "许鸣鸣：资金加持 静待转机",
+      "d": "yicai.com"
     }
   ]
 }

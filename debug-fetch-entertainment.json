@@ -1,7 +1,25 @@
 {
   "type": "entertainment",
-  "total": 50,
+  "total": 66,
   "samples": [
+    {
+      "title": "不仅字节时间，AI影视入口也要被字节包圆了",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCdEVub1RYV3ZOLTYwalJEWklxa2l1aDM1aDFUZENGM29sTnk4QVdXNG1EWDVVSWl5S1JtNGdKVUlNMlV5MkNrSFl",
+      "source_url": "https://www.cm3721.com",
+      "source": "传媒头条"
+    },
+    {
+      "title": "《生化危机：爆发夜》密钥延期 票房口碑双丰收",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sajlhLXpERWc4RGtRNHp3aGFZckZFb1Q2T3pYZUxBMFdqVnMtcEJpcHBFa1NLUnBhYkZwd1V3bUZRMGNfMEV0Y2V",
+      "source_url": "https://ent.china.com",
+      "source": "中华网娱乐"
+    },
+    {
+      "title": "票房破143亿!朱一龙新戏将合作陈思诚,男二号依旧是梁家辉",
+      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNVEVFdV9SSi1lYlVyRlVuWUFiN2k4dmlCRmN3dGtab3ZXM21xTWtubC1yX2dtYkE1TmwtaUp1Rk1rQ3ZRWVFmYkR",
+      "source_url": "https://www.westca.com",
+      "source": "加西网"
+    },
     {
       "title": "《哥吉拉-0.0》首日票房狂飆 破日本影史紀錄",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKVkp6Zl84Y0d5OUxwcGJ4SzQ4VjQwQjZCdUJKMzFtcVkwLVRGSzRkZTI0VzN4b091VFZfcVNIYkIySFJ4aWtfLU5",
@@ -15,28 +33,10 @@
       "source": "스타뉴스"
     },
     {
-      "title": "《希望》法国上映，当地媒体盛赞“美学与视觉冲击”[K-EYES]",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGWUtJY3V1MVVmdUZiQjVXOEpHVkNUeGVhTElSUVVka3M1QzlXYTR2ejBnVU83WmtuOTBXVHg0ZWRpMmo3WEZOUml",
-      "source_url": "https://www.starnewskorea.com",
-      "source": "스타뉴스"
-    },
-    {
-      "title": "《You Can See Everything》获准在国际空间站放映，欧洲上映还未开始",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1WExmMW5RWktsR3QtY0Z6Q293eFNPZ0NISGRUS1VQelJEMVJXbEI1eDFwWF9TaFNOMGU1Q3VXWEpDMkx2TktpVk1",
-      "source_url": "https://m.528btc.com",
-      "source": "币界网"
-    },
-    {
-      "title": "又一大佬暴雷！曾出品《长津湖》如今发不起工资 明星妻子被连累",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vUVJlM1N1eWhHTkx2QlhLY3A0WkJlMHRleW9DNlNVYVVCTVlJM1hGWGlDSEY2aDlXNVNHUHR4VVFuOTM1Y00tUEN",
-      "source_url": "https://www.wenxuecity.com",
-      "source": "文学城"
-    },
-    {
-      "title": "“做好零票房的准备 仍想拼万分之一的机会”",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WUXdMb3dOalNKMDNlcDdYRmVpT1RfaWxsOTBvU0ZqNzh2SFp4aVlXTW42VXJXdkVMYU5ScmRWSFhGaVpmakRHaUR",
-      "source_url": "http://hsb.hspress.net",
-      "source": "华商报电子版"
+      "title": "《最终面试》力压布拉德·皮特，首映首日登顶 [MK票房榜]",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42U0NMbEpnN3hkV0dCeURiVGdPTldvbXRyRlU5UWNsMHlnUmRKenhfanktbzVjc2I0MUtROUdTN0RBcG1halRVLW5",
+      "source_url": "https://www.mk.co.kr",
+      "source": "매일경제"
     }
   ]
 }

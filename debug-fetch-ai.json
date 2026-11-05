@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 25,
+  "total": 50,
   "samples": [
     {
-      "title": "从“手搓”AI到“AI造AI” 大模型自进化驶入快车道",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrSEFHTzBlOWp4UW5SaUR6QW81S3JhdVNIX2I1a0hscEV4c0JSaHhGQ3VPeTk0N01nUTFvdVp3eEtmVzVfYnQtUlI",
-      "source_url": "http://news.cnhubei.com",
-      "source": "荆楚网"
+      "title": "首张！人工智能渗透测试系统（增强级）检测证书揭秘",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QamlwZzB2Uk9KNnYwRTZ2b0FscE83c3duNjZTNnlJSmVud0xIb3gzTUdNaS1oeWtZQXp6dGZuZzI0VGlJMHhGc1V",
+      "source_url": "http://field.10jqka.com.cn",
+      "source": "同花顺财经"
     },
     {
-      "title": "中国大模型开源开放，逻辑在哪里？",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tenYzcnpRWkFuSGZEUXFWcnhVRktKVS1udFRjZjRuSVhJM0M2TUdwR1ppLWEyc0trMEVfZEFwLVNscXV1T1RlaXJ",
-      "source_url": "https://m.voc.com.cn",
-      "source": "新湖南"
-    },
-    {
-      "title": "乌镇观察：从一座“词元工厂”看山东AI路径——不追参数，追场景",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CRmdFWUxPRHZNTUc5SjJYZ1dFOGprcU5CSkd2QWtXWGFNcjRfTEUzcVJSdjU5Ylp3eFpIYy1nWmhkZW16ZlU5S2h",
-      "source_url": "https://sd.ifeng.com",
-      "source": "凤凰网山东"
-    },
-    {
-      "title": "WAIE2026（第十届）人工智能产业大会圆满收官！",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPQ0VuY3hoU1dhZzlSOFl2Vkd4RVQtMHE4dFprNFZNakF5YTFBcjdtQXk5dUZoUXJHWWZXRk5EcTBRbFhrUnNDbTV",
+      "title": "高质量发展｜算力、AI齐出圈 中国计算机大会首次落地成都",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QbzJFenplQnVJUUZUMmhMb0xDNlNDY0MySXVDVFdzck81UGN5dXVMckJBa3pYTG9jc0RIR01oX1VuZ25rb1hJLUp",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "2026年世界互联网大会乌镇峰会勾勒开源开放新图景",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DUldRWkVQc2JGYkxpdkpVR0dLUGwzT3RtQmhkMDlzam1xOGJmT3ZWRXAzU19ldG9IUWVkZE9MT0lfMzlPWVBwMGV",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "星图金融旗下星云数字荣获\"绿水金山奖·ESG金融创新奖\"",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuZXp3VmcydFVfSDE1QmlRSXdNX20yaXVjMkEyQ2hXOUdYbTVFNFpXNTRmTU45ZmhHWGJFUTNiRkZJcGtvMkE3M2E",
+      "source_url": "https://m.jrj.com.cn",
+      "source": "金融界"
     },
     {
-      "title": "DeepSeek 工程师高熙乌镇谈开源：想让 AGI 更快到来，“对手不是其他公司，而是时间”",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xdjJUQ1lKWGFlcmZpU1dmNUQzaTBQNU12NW55U3ZIMDBWQlE3UE1QcXhJSkRoMU50R1dTOXFoTHJYYXpmZlhyTw?",
-      "source_url": "https://hub.baai.ac.cn",
-      "source": "智源社区"
+      "title": "乌镇照见AI走进生活",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXNjRPNGh2azUzWENPX1c0NG94QWVHS1BHa0Nwb3dPclItNUhwZk9YdnpIRDRWdE1ReGFiWEJUdGRaOEFmb1ZISUx",
+      "source_url": "http://m.cyol.com",
+      "source": "中青在线"
+    },
+    {
+      "title": "智涌乌镇，触摸未来——2026年世界互联网大会乌镇峰会新技术观察",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wb1RackZhUEVOTXEyd1lHTjFUTk05WldaV2NJZzQ1dGpjQTBXNVNRQTNLci1TTS1Wa3JWbEc2ZHkxdm1yYXByejB",
+      "source_url": "https://cn.chinadaily.com.cn",
+      "source": "中国日报网"
+    },
+    {
+      "title": "王钦：海尔智家架起AI原生应用的“桥”",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00bkwtQnM1NGRzMUtsNWJLbG9aN1ZaR0VLdWpCRzdSZVNlc1NSbFBwU2pxM0tCd1RIOXVvaXMwNFNuS0JNdkl2ckt",
+      "source_url": "https://mtz.china.com",
+      "source": "中华网"
     }
   ]
 }

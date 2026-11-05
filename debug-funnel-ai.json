@@ -1,42 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 25,
-    "trusted": 5,
+    "raw_dedup_junk": 50,
+    "trusted": 13,
     "non_trusted_top": {
-      "ac.cn": 3,
-      "sina.com.cn": 2,
-      "unite.ai": 2,
-      "cnhubei.com": 1,
-      "voc.com.cn": 1,
-      "hizh.cn": 1,
-      "scol.com.cn": 1,
-      "mydrivers.com": 1,
-      "bjd.com.cn": 1,
-      "mpaypass.com.cn": 1
+      "sina.com.cn": 5,
+      "chinadaily.com.cn": 2,
+      "china.com": 2,
+      "ac.cn": 2,
+      "techwalker.com": 2,
+      "guandian.cn": 2,
+      "stockstar.com": 2,
+      "jrj.com.cn": 1,
+      "mrjjxw.com": 1,
+      "zhiding.cn": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 2,
-    "relaxed_72h": 2,
-    "final": 4,
-    "cap": "不限同域"
+    "fresh1_24h": 13,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "乌镇观察：从一座“词元工厂”看山东AI路径——不追参数，追场景",
+      "t": "首张！人工智能渗透测试系统（增强级）检测证书揭秘",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "乌镇照见AI走进生活",
+      "d": "cyol.com"
+    },
+    {
+      "t": "Anthropic用Claude设计自研AI芯片：IPO路演向投资者展示芯片设计",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "10个月融了20亿，北京跑出一家AI独角兽，上海国资投了",
+      "d": "zhidx.com"
+    },
+    {
+      "t": "乌镇观察｜通用大模型之外，机器人还需要怎样的“大脑”？",
+      "d": "nbd.com.cn"
+    },
+    {
+      "t": "首个生涯大模型，开始操心你这辈子｜甲子光年",
+      "d": "sohu.com"
+    },
+    {
+      "t": "让2000名工程师使用中国大模型，这家英国企业实现了“词元自由”",
       "d": "ifeng.com"
-    },
-    {
-      "t": "银行AI进入规模化运行阶段，日均token消耗量最高超800亿，价值转化尚需时日",
-      "d": "cls.cn"
-    },
-    {
-      "t": "专访群核科技董事长黄晓煌：通用大模型不会替代空间智能，确定能力边界是关键",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "从这场乌镇对话，读懂构建AI开源生态关键词",
-      "d": "news.cn"
     }
   ]
 }

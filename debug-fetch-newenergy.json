@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 14,
+  "total": 34,
   "samples": [
     {
-      "title": "全球认证 | 科华数能PCS荣获IEC工控网络安全认可",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRTDNEN056RmFzeUp5SUVWcWZFaTZUUTlzMFAxYmZQbHY4TzJjakl0ZHJPTF8zaDF1RWpMVEVfRVNXY0psdnhXNXZ",
+      "title": "【VIP日报】光伏、储能概念走强， 栏目以机构视角解读行业前景 提及相关公司大涨",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vaVc5UnpISXBBaEdNd3RJR1plTGhaR1VVWm1jWk1qTW1xcjJGSFlTdl84S3hqU1Y4aG5sRzRZaDBFUHVzYU05LQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "0.7444元/Wh起，运达200MW/800MWh独立储能项目中标候选人公示",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aOGJXZU4tbEpCWEUtOWg0em11TWd4TjFFRzhMOHJPRHA1QVVsRmpBbFlUdjV4ZDZKa0ZZOVJwdkFyLTgtT0M3eHV",
       "source_url": "https://www.ne21.com",
       "source": "世纪新能源网"
     },
     {
-      "title": "浙江景宁抽蓄项目开关站GIS楼顺利封顶",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OQ0tiQVR3M0EwcUhFQXZ1dGo4ejRsVkFBLXRsZVlMdmtNM2s3ZzUwUTJpamVxUzd2LTlTUHU4VHlBd003LWFON3J",
-      "source_url": "https://mcn.solarbe.com",
-      "source": "碳索储能网"
-    },
-    {
-      "title": "国家能源集团310MW光伏指标被收回",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55UnRmbWltS2NOaUJReWd1OUlXcVJ5NFRPdnFPZU9OS0FONWZIbEp4LWRidFN2bjdGUkgtSWt3NVBwSzdmQjkzVEV",
+      "title": "24套碱槽！85.54亿光储氢氨醇项目获批",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wMWd3TVkyX0J5UUZ5Yl9KZURZMzFDemdHY1pTZm96aEVGT3dGbUlHN0pfSzZ6WlJ4RGxNTWVjWEJvWF9mNVpJLW5",
       "source_url": "https://www.ne21.com",
       "source": "世纪新能源网"
     },
     {
-      "title": "贵州用电大户纸品厂用上绿电|煊远致和×年丰纸品 1.5MW 屋顶光伏并网成功",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VdWFBSk1mUE11R0xFemdiZ0I3R0ItMDFuMXd3VC14WWZaV05jd1FfWXc2akZXZnp6VV9wbTFMVFFlRTF0bjNrTE1",
+      "title": "宁德时代、智光储能等入围！龙源电力1.2GWh储能系统集成设备框架采购开标",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92bENwaEFTbkYzZDdGSXJCYlh0Y2tZQWN3bmpUanF5NUd3ZlZsZ2R5ZVFaSjh6MGZxLXQ0S1loZjVzUHJhb3hlTXN",
       "source_url": "https://www.ne21.com",
       "source": "世纪新能源网"
     },
     {
-      "title": "隆基绿能嘉兴、滁州双基地获SSI供应链可追溯金牌认证",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tTHlDYVp1YVR6a1hjSEVWNjJuQV9wZXJCUTc3ekh3RThqQzJiY192eGpNXzNuTWZzVm13QlFtWGo0eGRPbWNJYXd",
+      "title": "竞争性不足！电投绿能梨树项目制氢装置辅助设备采购终止",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEcUtyTzlyM3VYQnh5ZW5rT1RjWEtVMEZjWm5GOTkxMUdWSExmMkJpcGdBd2xRaThpamxseTJRTzVtdDZGZG4xUnJ",
       "source_url": "https://www.ne21.com",
       "source": "世纪新能源网"
     },
     {
-      "title": "总投20亿元！8GWh钠电池项目终止！",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DUF9FT2hNSzlRTDJ2SFUyOXp6ZF91RVNNTnAtUElwWEZfc29CM2ozQ1JaQTRLTXJOMDd6enZtMzJsbUhFZkltWVp",
-      "source_url": "https://www.ne21.com",
-      "source": "世纪新能源网"
+      "title": "新版“站在光里”出现了？光伏板块大爆发，“易中天”却集体大跌",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pem1DWkRmM3hNTFk0U3JvSUFMWnp6ejhvNUxEZXp0RFpyaWZ3Z05ZNHl2VmxaZEh1c1RJMHN2a2stYkdmYWFnNHR",
+      "source_url": "https://www.nbd.com.cn",
+      "source": "每日经济新闻"
     }
   ]
 }

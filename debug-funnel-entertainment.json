@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 16,
+    "raw_dedup_junk": 66,
+    "trusted": 21,
     "non_trusted_top": {
-      "iheima.com": 6,
+      "iheima.com": 5,
+      "china.com": 4,
+      "sina.com.cn": 3,
       "sina.cn": 3,
+      "mydrivers.com": 3,
       "starnewskorea.com": 2,
-      "dianyingjie.com.cn": 2,
-      "china.com": 2,
-      "xmnn.cn": 2,
+      "rediandf.com": 2,
       "bjd.com.cn": 2,
-      "epochtimes.com": 1,
-      "528btc.com": 1,
-      "wenxuecity.com": 1
+      "xmnn.cn": 2,
+      "cm3721.com": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 6,
-    "relaxed_72h": 10,
+    "fresh1_24h": 21,
+    "page_fresh": 21,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "明晚开播，27集爱情剧江苏卫视呈现，《偷偷藏不住》姊妹篇，即将大火",
+      "t": "慈文传媒：公司联合出品 电视剧《谷雨》今日在央视开播",
+      "d": "sohu.com"
+    },
+    {
+      "t": "走出乌蒙 走向世界——贵州题材电视剧《乌蒙深处》登陆泰国主流电视台首播",
+      "d": "sohu.com"
+    },
+    {
+      "t": "剧集《三十六计杀》开播",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "游改电影《愤怒的小鸟3》发布正式预告，12月23日北美上映",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "为什么你总是抢不到热门演唱会门票？这是经济学家的解释……",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "综艺流量落地本地生活：厉娜同款鸭舌抖音团购一周暴涨14倍",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "慈文传媒：公司联合出品的电视剧《谷雨》于2026年11月5日在CCTV‑8开播",
       "d": "163.com"
-    },
-    {
-      "t": "谭松韵自认“笨演员”，谈《兰香如故》“生理性害怕”",
-      "d": "163.com"
-    },
-    {
-      "t": "手搓婚纱照定制微电影 AI风吹到婚庆市场",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "外媒：高效率、强共情，中国微短剧全球圈粉",
-      "d": "china.com.cn"
-    },
-    {
-      "t": "让中式美学扎根生活",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "“青绿”何以长青（面对面）",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "金元证券：给予中国电影增持评级",
-      "d": "10jqka.com.cn"
     }
   ]
 }
