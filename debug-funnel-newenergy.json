@@ -1,28 +1,37 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 21,
-    "trusted": 7,
+    "raw_dedup_junk": 38,
+    "trusted": 6,
     "non_trusted_top": {
-      "ne21.com": 8,
-      "sina.com.cn": 3,
-      "autohome.com.cn": 2,
-      "news18a.com": 1
+      "ne21.com": 15,
+      "autohome.com.cn": 7,
+      "seetao.com": 3,
+      "sina.com.cn": 2,
+      "wedoany.com": 1,
+      "sina.cn": 1,
+      "starnewskorea.com": 1,
+      "chedongxi.com": 1,
+      "stockstar.com": 1
     },
     "fresh1_24h": 5,
-    "page_fresh": 4,
-    "relaxed_72h": 3,
-    "final": 7,
+    "page_fresh": 5,
+    "relaxed_72h": 1,
+    "final": 6,
     "cap": "不限同域"
   },
   "final": [
+    {
+      "t": "20cm速递丨创业板新能源ETF国泰（159387）近30日获资金净流入5338",
+      "d": "163.com"
+    },
     {
       "t": "远东储能拉脱维亚二期交付，全液冷方案验证极寒可靠性",
       "d": "solarbe.com"
     },
     {
-      "t": "重磅！湖南省印发“十五五”可再生能源发展规划，氢能多赛道迎来新机遇",
-      "d": "solarbe.com"
+      "t": "免费打卡！比亚迪科技开放日携全系硬核科技亮相昆明车展",
+      "d": "sohu.com"
     },
     {
       "t": "西寺坡变10MW/40MWh电网侧储能电站建设项目（EPCO）招标公告发布",
@@ -35,14 +44,6 @@
     {
       "t": "【VIP日报】光伏、储能概念走强， 栏目以机构视角解读行业前景 提及相关公司大涨",
       "d": "eastmoney.com"
-    },
-    {
-      "t": "武汉工商学院光储充一体化智慧停车棚打造校园低碳新场景",
-      "d": "stdaily.com"
-    },
-    {
-      "t": "民主党或加强新能源补贴？新能源集体回血！创业板新能源ETF华宝（159076）标",
-      "d": "sohu.com"
     }
   ]
 }

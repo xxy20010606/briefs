@@ -1,53 +1,54 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 20,
-    "trusted": 10,
+    "raw_dedup_junk": 29,
+    "trusted": 14,
     "non_trusted_top": {
+      "orientaldaily.com.my": 3,
+      "sina.com.cn": 2,
       "stockstar.com": 2,
+      "moomoo.com": 2,
+      "com.sg": 1,
+      "atvnewsonline.com": 1,
       "sina.cn": 1,
       "ajudaily.com": 1,
-      "sina.com.cn": 1,
-      "com.sg": 1,
-      "hk01.com": 1,
-      "on.cc": 1,
-      "jrj.com.cn": 1,
-      "moomoo.com": 1
+      "sfccn.com": 1,
+      "hk01.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 6,
+    "fresh1_24h": 14,
+    "page_fresh": 8,
     "relaxed_72h": 1,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "A股：做好准备，股市2大消息来临，行情会继续迎来大涨吗？",
-      "d": "163.com"
+      "t": "宝明科技前三季亏损2020年上市募7.7亿中银证券保荐_股市聚焦_市场",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "美国股市缘何暴跌",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "中期选举扰动下美股重挫！华尔街看涨预期遭打脸短期内抛压恐难消_股市直播_市场",
+      "d": "cnfol.com"
     },
     {
       "t": "【环球财经】伦敦股市5日下跌",
       "d": "sohu.com"
     },
     {
-      "t": "美股三大指数涨跌不一，高通绩后跌超12%，SpaceX跌超4%_市场分析",
-      "d": "cnfol.com"
+      "t": "高盛大砍黄金目标价！央行购金挡不住美联储转鹰，当前格局像极了2022年",
+      "d": "wallstreetcn.com"
     },
     {
       "t": "港股早报｜国务院报告支持汇金类平准基金 美股纳指跌超5%中概股相对坚挺",
       "d": "cls.cn"
     },
     {
-      "t": "港股风向标｜科网股短线集体爆发 恒指放量反弹逼近25000点",
-      "d": "cls.cn"
-    },
-    {
-      "t": "中信证券(06030)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "江南新材(603124.SH)向特定对象发行A股股票申请获上交所受理_股市直播_",
-      "d": "cnfol.com"
+      "t": "高通业绩超预期但指引疲弱 内存短缺拖累手机芯片销售",
+      "d": "yicai.com"
     }
   ]
 }

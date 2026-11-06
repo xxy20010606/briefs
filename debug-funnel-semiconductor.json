@@ -1,46 +1,50 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 30,
+    "raw_dedup_junk": 34,
     "trusted": 18,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "sina.cn": 3,
-      "indexbox.io": 2,
-      "china.com": 1,
-      "pjtime.com": 1,
-      "chnfund.com": 1
+      "china.com": 3,
+      "stockstar.com": 3,
+      "sina.com.cn": 3,
+      "ichaoqi.com": 1,
+      "nai500.com": 1,
+      "mydrivers.com": 1,
+      "ofweek.com": 1,
+      "sina.cn": 1,
+      "cnbeta.com.tw": 1,
+      "ebiotrade.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 8,
-    "relaxed_72h": 8,
+    "fresh1_24h": 17,
+    "page_fresh": 16,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "美股三大指数集体重挫：纳指跌超5%，半导体、存储芯片股领跌",
-      "d": "thepaper.cn"
+      "t": "印度计划24个月内自研GPU芯片，电子与信息技术部秘书详解AI五层布局",
+      "d": "eet-china.com"
     },
     {
-      "t": "美股大跌 纳指跌逾5% 费城半导体指数跌超12% 芯片、存储板块重挫",
-      "d": "cnfol.com"
+      "t": "路维光电，28nm单片掩膜版实现稳定供货，布局14nm",
+      "d": "eet-china.com"
     },
     {
-      "t": "摩尔线程获得实用新型专利授权：“半导体结构和电子设备”",
+      "t": "芯片龙头拉升！中国硬科技，自强不息！",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "半导体设备板块冲高回落，半导体设备ETF易方达（159558）半日获6.63亿份",
       "d": "sohu.com"
     },
     {
-      "t": "23:01:10【美股AI硬件产业链全线重挫 费城半导体指数跌逾7% 多只个股跌",
-      "d": "cls.cn"
+      "t": "重塑芯片市场的五大趋势",
+      "d": "sohu.com"
     },
     {
-      "t": "围绕长江存储补链，湖北武鄂“跨界”设立半导体基金",
-      "d": "cls.cn"
-    },
-    {
-      "t": "扩大投资！台积电砸450亿美元赴德州建两座先进晶圆厂！",
-      "d": "eet-china.com"
+      "t": "美股三大指数集体重挫：纳指跌超5%，半导体、存储芯片股领跌",
+      "d": "thepaper.cn"
     },
     {
       "t": "美科技股遭“血洗”，纳指重挫超5%，芯片指数跳水12%，闪迪暴跌22%，“恐慌指",

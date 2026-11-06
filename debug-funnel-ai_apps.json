@@ -1,33 +1,42 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 24,
-    "trusted": 2,
+    "raw_dedup_junk": 18,
+    "trusted": 4,
     "non_trusted_top": {
-      "quasa.io": 11,
-      "unite.ai": 3,
-      "stockstar.com": 2,
-      "pcauto.com.cn": 1,
+      "quasa.io": 4,
+      "unite.ai": 2,
       "pasqualepillitteri.it": 1,
-      "jrj.com.cn": 1,
-      "sina.cn": 1,
-      "sina.com.cn": 1,
-      "mydrivers.com": 1
+      "leidacj.com": 1,
+      "technode.com": 1,
+      "icloudnews.net": 1,
+      "bjd.com.cn": 1,
+      "iheima.com": 1,
+      "53ai.com": 1,
+      "sina.com.cn": 1
     },
-    "fresh1_24h": 2,
-    "page_fresh": 0,
-    "relaxed_72h": 2,
-    "final": 2,
+    "fresh1_24h": 4,
+    "page_fresh": 4,
+    "relaxed_72h": 0,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "Personal Agent的竞争，开始于用户想清楚之前",
-      "d": "sohu.com"
+      "t": "传智教育：注重培养学员驾驭AI工具、完成业务闭环的复合型能力",
+      "d": "eastmoney.com"
     },
     {
-      "t": "鸿蒙电脑发货破百万台、应用超2.1万款：生态规模化发展，加速布局更多领域",
-      "d": "yicai.com"
+      "t": "Coze企业版将下线，独立开发工具生存空间被AI办公挤占",
+      "d": "jiemian.com"
+    },
+    {
+      "t": "网易智企乌镇发布AI创新成果：帝王蟹三项升级，易盾首发AI原生安全体系",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "个人Agent上桌，谁先露了怯？",
+      "d": "sohu.com"
     }
   ]
 }

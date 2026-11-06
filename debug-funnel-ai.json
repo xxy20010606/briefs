@@ -1,38 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 23,
-    "trusted": 4,
+    "raw_dedup_junk": 46,
+    "trusted": 15,
     "non_trusted_top": {
-      "sina.com.cn": 7,
+      "china.com": 5,
+      "sina.com.cn": 5,
+      "aibase.com": 3,
+      "techwalker.com": 2,
       "quasa.io": 2,
-      "unite.ai": 2,
-      "techwalker.com": 1,
-      "jingjiribao.cn": 1,
-      "anhuinews.com": 1,
-      "ac.cn": 1,
-      "bjd.com.cn": 1,
-      "jfdaily.com.cn": 1,
-      "cjn.cn": 1
+      "ichaoqi.com": 1,
+      "pingwest.com": 1,
+      "people.cn": 1,
+      "chinanews.se": 1,
+      "mydrivers.com": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 1,
-    "relaxed_72h": 2,
-    "final": 3,
-    "cap": "不限同域"
+    "fresh1_24h": 15,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "人工智能，从炫技高手到实干伙伴",
-      "d": "cnr.cn"
+      "t": "AI从屏幕走进物理世界，八维通具身智能公司导览平台助力22省百城实战落地",
+      "d": "ifeng.com"
     },
     {
-      "t": "AI智能体千亿红利释放，从“技术可用”到“商业可赚”还需多久？",
+      "t": "北汽研究总院：AI时代下的智能交互实践_车市动态",
       "d": "cnfol.com"
     },
     {
-      "t": "月之暗面Kimi K3.1 Pro开放权重，同步推出托管智能体服务",
-      "d": "thepaper.cn"
+      "t": "帮助解决真实社会问题，阿里巴巴发布《2026 AI向善行动报告》",
+      "d": "stdaily.com"
+    },
+    {
+      "t": "智涌乌镇，触摸未来——2026年世界互联网大会乌镇峰会新技术观察",
+      "d": "cyol.com"
+    },
+    {
+      "t": "“北京亦庄会客厅”进博会首秀 集中展示前沿科创成果",
+      "d": "stdaily.com"
+    },
+    {
+      "t": "AI算力景气主线强化，南方基金旗下科创人工智能ETF南方(589230)跟踪标的",
+      "d": "cls.cn"
+    },
+    {
+      "t": "你的品牌为什么不被AI推荐？揭秘大模型采信背后的“信源金字塔”",
+      "d": "ifeng.com"
     }
   ]
 }

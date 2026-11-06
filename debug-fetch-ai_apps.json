@@ -1,28 +1,28 @@
 {
   "type": "ai_apps",
-  "total": 24,
+  "total": 18,
   "samples": [
     {
-      "title": "Hyper3D Rodin 评测：最快的可控 3D AI 生成器",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGdaTlhGR3hNeFZfeWJRVUZXeW9yRXNfYkJBS0tpRWxkd29xN2p3c2paNXJ1WE1obE1QMXA5Q0FIZXh0NHJsckh",
+      "title": "传智教育：注重培养学员驾驭AI工具、完成业务闭环的复合型能力",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZX2Jqc1U5SFhPZU02S0VMbUNFZkMyZDVxbjUzUU1WNFlJSWx5dU1oVEFqOFNkc1JMTmU1bTZlTGFHcEVtUV9WeU9",
+      "source_url": "https://wap.eastmoney.com",
+      "source": "东方财富"
+    },
+    {
+      "title": "Floot 评测：几分钟内将创意变成可用的网站和应用。",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX0xWal8waEl4cl8wYzJEY2lVd05iaU9CQ3lsdXdmZTVqTjBJb2RVNWN6RGNCSkV6N3pJd09jZDExdHRwaGN5bFB",
       "source_url": "https://quasa.io",
       "source": "quasa.io"
     },
     {
-      "title": "Magic Patterns 评测：深受产品团队喜爱的 AI 原型生成器",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc25ySjRfLWNzVkRmV0VKM3FWWXBzWWlIT1kzYnllTXdQT051MlNLcVZsYWVXNXpXOEdBYWlNTklvMW1NUjRvdHZ",
-      "source_url": "https://quasa.io",
-      "source": "quasa.io"
+      "title": "Coze企业版将下线，独立开发工具生存空间被AI办公挤占",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9laW1jSmNnWG03MDNJNUxaWTYyRFFGZWpyRnFwRnR0RTk5Ry05emZRNUhwTGhRRGtiMzV1THlxQ285SzM1QWRBWC1",
+      "source_url": "https://www.jiemian.com",
+      "source": "Jiemian.com"
     },
     {
       "title": "Linear 评测：团队真正喜爱的 AI 时代问题跟踪工具",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOazUtNnM4UjBqbVNBSjBBSUxrYUJXdXlhNENreWtmX3dUemtveU9oQ2V4QXhDY2F6ZUo0LThBRFR2TkRqWUQzUE9",
-      "source_url": "https://quasa.io",
-      "source": "quasa.io"
-    },
-    {
-      "title": "Wispr Flow 评测：真正能在任何地方使用的 AI 语音听写工具",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMVUwbzBaeEpCUnRKY21Ta3JYYzdpSV8tM1VqejdIM2tfS0x1OWd3U2haNzczTGtYbVR2bUZFSDdjaExvS2ZTd28",
       "source_url": "https://quasa.io",
       "source": "quasa.io"
     },
@@ -33,10 +33,10 @@
       "source": "quasa.io"
     },
     {
-      "title": "Gumloop 评测：无需编写代码，构建可用于生产环境的 AI 智能体",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd09QNlBxdzE5OENEUDhPOHpMX012N1pMcEhDQmNBdXlSV0hyU0tBbFotTFpzYWM3cmtvTXVWc0RmUjJ0X044VnJ",
-      "source_url": "https://quasa.io",
-      "source": "quasa.io"
+      "title": "Mammouth AI 评测，12 欧元起的套餐与使用限额",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTYwMjZnYVNVT1ktNmFYa2RJaUFyenVfMkJXRjRPQnNjNFR3VUFzRmZEWEd1djJOQTBJVHljN0FocGI5dXV4NHN",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     }
   ]
 }

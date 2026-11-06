@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 23,
+  "total": 46,
   "samples": [
     {
-      "title": "人工智能，从炫技高手到实干伙伴",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQUHNEUDhRSXdhRDFNcjZkV3lLV2VVRlYzQnFNZzJkUlltcTIxZ0lLbTJKZ19tLTZCVm9lclRhSXpmcnUxYWYtd29",
-      "source_url": "https://zj.cnr.cn",
-      "source": "央广网"
+      "title": "电话邦AI可信名片上线：AI搜索时代，让客户优先找到可信的你",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aSkhULVNGN3VYN3I3ejRzTDRYeC1RSWdWblBXS1dJc2R0M1diYW9idTdJYjNOWTBsSU13U2lXUHZ6WmdJMTktTFF",
+      "source_url": "https://tech.china.com",
+      "source": "中华网"
     },
     {
-      "title": "MIMESIS：当AI不再扮演\"完美用户\"，训练出来的智能助手才真正变强",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aUVpnVWwtblNuaXlBN1ZxTDFGXzdIMFJQVktkbE93VFQxTm5Gckthbk9oMkFMTkVHcFhZenhQbzVwY1hYTnNBQjV",
-      "source_url": "https://www.techwalker.com",
-      "source": "科技行者"
+      "title": "陈天桥最新演讲：AI下半场，竞争从“生成”转向“验证”，模型能力不在大，而在谁能证明自己正确",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DcHo5bHFhZTFla3ZOMGZuTkxNLTdjV0NnZzA2ZENHN3lTbGgzX20zN05ya2QzcFNXeE9JWWFQc285dDlUelpCU0d",
+      "source_url": "https://www.ichaoqi.com",
+      "source": "潮起网"
     },
     {
-      "title": "【中国制造新观察】发展人工智能也应共建共享",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BdnBoMEE3WnZkNmJqdGZDNTBCZGx6ejViZVBFQTBrNkVuUGJGbXpPZF9VWFRPLU9xMFloN0xSaERndEVfV2ttaDY",
-      "source_url": "http://www.jingjiribao.cn",
-      "source": "http://www.jingjiribao.cn/"
+      "title": "AI从屏幕走进物理世界，八维通具身智能公司导览平台助力22省百城实战落地",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4WmZQbEpFXzh4VWlMOTNFSkZuQ3BHZDZLdlZDTlZKalFzSHlsa2RsbFQxNnFlSGRQdEFIa19mQU1kOFVQZGJBWjk",
+      "source_url": "https://hainan.ifeng.com",
+      "source": "凤凰网"
     },
     {
-      "title": "“双11”把词元摆上货架，看不见的商品，账怎么算？",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2UGJscDZrTTZsb3pGUTdHRmhHY0d2UU1FZVAtSlRRSHJETjhpUDJRaDYwRnVCaTBfaHRfWk9WTk5qVkUwbkF4MWx",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "统一AI：一套跑通的智能教育生态如何回答\"培养人而非依赖AI\"",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SaTJlV3N0S01YeUVpeXZjOTVDdE12WEViTTFGOERMd0tFbl9leFVRclVsWk1oUkx1UTk4aUVTOFctYnhPNDVqQUo",
+      "source_url": "https://hea.china.com",
+      "source": "中华网"
     },
     {
-      "title": "乌镇打开窗口",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9id3NiNVZkbWotZUxfVVMwaDZfNnRDRGFHYmdSUlRPek9RczZ1LTJSckp1MEpxNktER09TSmtpbWRLdlJIbm5LNUd",
-      "source_url": "http://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 3",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03eVc5eGNOckRLVU50TEJkQXBpbkNKa1VCV2dEak5HVzdvWC1FOWViUkZhT0tNSkM4eEFjaGRpUHRZbkpXVk50aHF",
+      "source_url": "https://news.aibase.com",
+      "source": "AIBase"
     },
     {
-      "title": "全球媒体聚焦 | 外媒：乌镇峰会聚焦人工智能开源开放",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXZXdSRnJWZHpONE0yQ0RpaldDenZhV0dzVzNublg4QWtHTllHcnR2V2xzZ3otWExBcDdCZDJneWY4eVM0WjdVeTB",
-      "source_url": "http://news.anhuinews.com",
-      "source": "中安在线"
+      "title": "北汽研究总院：AI时代下的智能交互实践_车市动态",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XUENDMU9ZVUVvRVpzZjQ0ZUEyQ3Y4MUVMNGlOOV9iLTFibVcwQzltcV82T3RfLUx4ZXdRR2tRQ0twc3U0Wkw3ODM",
+      "source_url": "http://auto.cnfol.com",
+      "source": "中金在线"
     }
   ]
 }
