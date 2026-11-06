@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 50,
+  "total": 23,
   "samples": [
     {
-      "title": "首张！人工智能渗透测试系统（增强级）检测证书揭秘",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QamlwZzB2Uk9KNnYwRTZ2b0FscE83c3duNjZTNnlJSmVud0xIb3gzTUdNaS1oeWtZQXp6dGZuZzI0VGlJMHhGc1V",
-      "source_url": "http://field.10jqka.com.cn",
-      "source": "同花顺财经"
+      "title": "人工智能，从炫技高手到实干伙伴",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQUHNEUDhRSXdhRDFNcjZkV3lLV2VVRlYzQnFNZzJkUlltcTIxZ0lLbTJKZ19tLTZCVm9lclRhSXpmcnUxYWYtd29",
+      "source_url": "https://zj.cnr.cn",
+      "source": "央广网"
     },
     {
-      "title": "高质量发展｜算力、AI齐出圈 中国计算机大会首次落地成都",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QbzJFenplQnVJUUZUMmhMb0xDNlNDY0MySXVDVFdzck81UGN5dXVMckJBa3pYTG9jc0RIR01oX1VuZ25rb1hJLUp",
+      "title": "MIMESIS：当AI不再扮演\"完美用户\"，训练出来的智能助手才真正变强",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aUVpnVWwtblNuaXlBN1ZxTDFGXzdIMFJQVktkbE93VFQxTm5Gckthbk9oMkFMTkVHcFhZenhQbzVwY1hYTnNBQjV",
+      "source_url": "https://www.techwalker.com",
+      "source": "科技行者"
+    },
+    {
+      "title": "【中国制造新观察】发展人工智能也应共建共享",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BdnBoMEE3WnZkNmJqdGZDNTBCZGx6ejViZVBFQTBrNkVuUGJGbXpPZF9VWFRPLU9xMFloN0xSaERndEVfV2ttaDY",
+      "source_url": "http://www.jingjiribao.cn",
+      "source": "http://www.jingjiribao.cn/"
+    },
+    {
+      "title": "“双11”把词元摆上货架，看不见的商品，账怎么算？",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2UGJscDZrTTZsb3pGUTdHRmhHY0d2UU1FZVAtSlRRSHJETjhpUDJRaDYwRnVCaTBfaHRfWk9WTk5qVkUwbkF4MWx",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "星图金融旗下星云数字荣获\"绿水金山奖·ESG金融创新奖\"",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuZXp3VmcydFVfSDE1QmlRSXdNX20yaXVjMkEyQ2hXOUdYbTVFNFpXNTRmTU45ZmhHWGJFUTNiRkZJcGtvMkE3M2E",
-      "source_url": "https://m.jrj.com.cn",
-      "source": "金融界"
+      "title": "乌镇打开窗口",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9id3NiNVZkbWotZUxfVVMwaDZfNnRDRGFHYmdSUlRPek9RczZ1LTJSckp1MEpxNktER09TSmtpbWRLdlJIbm5LNUd",
+      "source_url": "http://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "乌镇照见AI走进生活",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXNjRPNGh2azUzWENPX1c0NG94QWVHS1BHa0Nwb3dPclItNUhwZk9YdnpIRDRWdE1ReGFiWEJUdGRaOEFmb1ZISUx",
-      "source_url": "http://m.cyol.com",
-      "source": "中青在线"
-    },
-    {
-      "title": "智涌乌镇，触摸未来——2026年世界互联网大会乌镇峰会新技术观察",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wb1RackZhUEVOTXEyd1lHTjFUTk05WldaV2NJZzQ1dGpjQTBXNVNRQTNLci1TTS1Wa3JWbEc2ZHkxdm1yYXByejB",
-      "source_url": "https://cn.chinadaily.com.cn",
-      "source": "中国日报网"
-    },
-    {
-      "title": "王钦：海尔智家架起AI原生应用的“桥”",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00bkwtQnM1NGRzMUtsNWJLbG9aN1ZaR0VLdWpCRzdSZVNlc1NSbFBwU2pxM0tCd1RIOXVvaXMwNFNuS0JNdkl2ckt",
-      "source_url": "https://mtz.china.com",
-      "source": "中华网"
+      "title": "全球媒体聚焦 | 外媒：乌镇峰会聚焦人工智能开源开放",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXZXdSRnJWZHpONE0yQ0RpaldDenZhV0dzVzNublg4QWtHTllHcnR2V2xzZ3otWExBcDdCZDJneWY4eVM0WjdVeTB",
+      "source_url": "http://news.anhuinews.com",
+      "source": "中安在线"
     }
   ]
 }

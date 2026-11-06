@@ -1,54 +1,38 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 13,
+    "raw_dedup_junk": 23,
+    "trusted": 4,
     "non_trusted_top": {
-      "sina.com.cn": 5,
-      "chinadaily.com.cn": 2,
-      "china.com": 2,
-      "ac.cn": 2,
-      "techwalker.com": 2,
-      "guandian.cn": 2,
-      "stockstar.com": 2,
-      "jrj.com.cn": 1,
-      "mrjjxw.com": 1,
-      "zhiding.cn": 1
+      "sina.com.cn": 7,
+      "quasa.io": 2,
+      "unite.ai": 2,
+      "techwalker.com": 1,
+      "jingjiribao.cn": 1,
+      "anhuinews.com": 1,
+      "ac.cn": 1,
+      "bjd.com.cn": 1,
+      "jfdaily.com.cn": 1,
+      "cjn.cn": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 3,
+    "page_fresh": 1,
+    "relaxed_72h": 2,
+    "final": 3,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "首张！人工智能渗透测试系统（增强级）检测证书揭秘",
-      "d": "10jqka.com.cn"
+      "t": "人工智能，从炫技高手到实干伙伴",
+      "d": "cnr.cn"
     },
     {
-      "t": "乌镇照见AI走进生活",
-      "d": "cyol.com"
+      "t": "AI智能体千亿红利释放，从“技术可用”到“商业可赚”还需多久？",
+      "d": "cnfol.com"
     },
     {
-      "t": "Anthropic用Claude设计自研AI芯片：IPO路演向投资者展示芯片设计",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "10个月融了20亿，北京跑出一家AI独角兽，上海国资投了",
-      "d": "zhidx.com"
-    },
-    {
-      "t": "乌镇观察｜通用大模型之外，机器人还需要怎样的“大脑”？",
-      "d": "nbd.com.cn"
-    },
-    {
-      "t": "首个生涯大模型，开始操心你这辈子｜甲子光年",
-      "d": "sohu.com"
-    },
-    {
-      "t": "让2000名工程师使用中国大模型，这家英国企业实现了“词元自由”",
-      "d": "ifeng.com"
+      "t": "月之暗面Kimi K3.1 Pro开放权重，同步推出托管智能体服务",
+      "d": "thepaper.cn"
     }
   ]
 }

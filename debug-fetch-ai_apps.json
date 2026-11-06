@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 20,
+  "total": 24,
   "samples": [
     {
-      "title": "OneBox智能体协作平台，把“能用的AI”变成“政企敢用的AI”-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iQkE5SkYzdVZUZk5nMFZsbEQxU0FkbWdkWExXTE01dWI4TUtaMXdzMGdtb3lYUmhfUkd1ejhEazc2UWd0a3djRW1",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "Hyper3D Rodin 评测：最快的可控 3D AI 生成器",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGdaTlhGR3hNeFZfeWJRVUZXeW9yRXNfYkJBS0tpRWxkd29xN2p3c2paNXJ1WE1obE1QMXA5Q0FIZXh0NHJsckh",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
     },
     {
-      "title": "通信行业行业动态报告：OPC行业快速发展，AI+应用放量开启_行业研究_研报",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wcE05MkR4cXBuVXNydkViYkpfTXVMUV9JYVRTYkVwdlpVb1dLdXhoZEpnTjZyc1F6YXZfYTR0XzU4dTUyeGRnNkJ",
-      "source_url": "https://stock.stockstar.com",
-      "source": "证券之星"
+      "title": "Magic Patterns 评测：深受产品团队喜爱的 AI 原型生成器",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc25ySjRfLWNzVkRmV0VKM3FWWXBzWWlIT1kzYnllTXdQT051MlNLcVZsYWVXNXpXOEdBYWlNTklvMW1NUjRvdHZ",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
     },
     {
-      "title": "zoomer AI 亮相2026摩登上海设计周 展示 AI 室内设计应用",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1URmxvZjVhVmNmZnZfS3B0ejB4V3pnLXlIR20xREZ2ZzJGM3c4U2JjRHhxaTBzSGJaVDhkbEhwX042b2lsMDctb0F",
-      "source_url": "https://tech.china.com",
-      "source": "中华网"
+      "title": "Linear 评测：团队真正喜爱的 AI 时代问题跟踪工具",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOazUtNnM4UjBqbVNBSjBBSUxrYUJXdXlhNENreWtmX3dUemtveU9oQ2V4QXhDY2F6ZUo0LThBRFR2TkRqWUQzUE9",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
     },
     {
-      "title": "阿里云启动“千问AI双11” 模型调用、AI应用、云底座同步推出优惠",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15V2hlZE9fOGw5QlVENktoVFBKcnE0RDNJaWVMby0temtGblZaUEVwQmRtUEFhSGpMSG45M1hUMGRWcGxMMWJSUVh",
-      "source_url": "https://news.mydrivers.com",
-      "source": "驱动之家"
+      "title": "Wispr Flow 评测：真正能在任何地方使用的 AI 语音听写工具",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMVUwbzBaeEpCUnRKY21Ta3JYYzdpSV8tM1VqejdIM2tfS0x1OWd3U2haNzczTGtYbVR2bUZFSDdjaExvS2ZTd28",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
     },
     {
-      "title": "中国人最喜欢用的十大PC应用出炉 AI工具快速崛起",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3S3VaTjgtVVA0VVgzMXdrZncyVmdWN0ZuSTZtMlEwa3FfcDBDYWRvdGJxbGo1NXU2WV9DZVo3OWlqX2RfcWtjRjR",
-      "source_url": "https://news.china.com",
-      "source": "中华网"
+      "title": "Granola 评测：为连续会议打造的无机器人 AI 笔记工具",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVWFYemRxWlFfZWwzYlhMWjNRbk4wSXlJU0E3VUdRNG1hd1ROd1ZEOXhrNlNXYWZNTEdqUW5NNnhIdVdDcWVKUUZ",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
     },
     {
-      "title": "从“会用 AI”到“能交付 AI”，新知 NewSeekAI 上新两大实战训练项目与 12 门岗位实",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hVTA5UjRBd3p0SHZUcDg0cjdEZmRoZkQwNzFyTDlxRjRiSDB3RXN5SU0tR0p2VkpLM1BIbTU1S1hFQ0d6Z3YxNmt",
-      "source_url": "https://baby.ifeng.com",
-      "source": "凤凰网"
+      "title": "Gumloop 评测：无需编写代码，构建可用于生产环境的 AI 智能体",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd09QNlBxdzE5OENEUDhPOHpMX012N1pMcEhDQmNBdXlSV0hyU0tBbFotTFpzYWM3cmtvTXVWc0RmUjJ0X044VnJ",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 66,
-    "trusted": 21,
+    "raw_dedup_junk": 56,
+    "trusted": 15,
     "non_trusted_top": {
-      "iheima.com": 5,
-      "china.com": 4,
-      "sina.com.cn": 3,
-      "sina.cn": 3,
-      "mydrivers.com": 3,
-      "starnewskorea.com": 2,
-      "rediandf.com": 2,
+      "sina.com.cn": 7,
+      "iheima.com": 6,
+      "mezha.net": 3,
+      "sina.cn": 2,
       "bjd.com.cn": 2,
-      "xmnn.cn": 2,
-      "cm3721.com": 1
+      "scol.com.cn": 2,
+      "17173.com": 2,
+      "henan100.com": 1,
+      "beijing.gov.cn": 1,
+      "shobserver.cn": 1
     },
-    "fresh1_24h": 21,
-    "page_fresh": 21,
-    "relaxed_72h": 0,
+    "fresh1_24h": 5,
+    "page_fresh": 2,
+    "relaxed_72h": 13,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "慈文传媒：公司联合出品 电视剧《谷雨》今日在央视开播",
-      "d": "sohu.com"
+      "t": "精品引领 创新驱动——2026中国广播电视精品创作大会动画论坛在京举办",
+      "d": "gmw.cn"
     },
     {
-      "t": "走出乌蒙 走向世界——贵州题材电视剧《乌蒙深处》登陆泰国主流电视台首播",
-      "d": "sohu.com"
+      "t": "“旁听”遵义会议，一次精神会师（纵横）",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "顶级赛事“0”到“1” 澄迈凭什么接住电竞这波流量？ | 南国智库·市县观察- ",
+      "d": "chinadaily.com.cn"
     },
     {
       "t": "剧集《三十六计杀》开播",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "游改电影《愤怒的小鸟3》发布正式预告，12月23日北美上映",
-      "d": "ifeng.com"
+      "t": "11月影市出大招，《珠穆朗玛：云中彼岸》定档11月6日，全程实拍顶级极限：直攀珠",
+      "d": "sohu.com"
     },
     {
-      "t": "为什么你总是抢不到热门演唱会门票？这是经济学家的解释……",
-      "d": "thepaper.cn"
+      "t": "尼古拉斯·凯奇主演《战争之王2》首曝预告 定档2027.1.22北美上映",
+      "d": "sohu.com"
     },
     {
-      "t": "综艺流量落地本地生活：厉娜同款鸭舌抖音团购一周暴涨14倍",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "慈文传媒：公司联合出品的电视剧《谷雨》于2026年11月5日在CCTV‑8开播",
-      "d": "163.com"
+      "t": "“剧好看 2027新剧推介会”在京举行 多部重点剧集亮相",
+      "d": "chinanews.com.cn"
     }
   ]
 }

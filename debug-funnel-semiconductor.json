@@ -1,54 +1,50 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 34,
+    "raw_dedup_junk": 30,
     "trusted": 18,
     "non_trusted_top": {
       "sina.com.cn": 4,
-      "jrj.com.cn": 2,
-      "fx168news.com": 1,
-      "mydrivers.com": 1,
-      "futunn.com": 1,
-      "capwhale.com": 1,
-      "pedaily.cn": 1,
-      "pingwest.com": 1,
-      "esmchina.com": 1,
-      "voachinese.com": 1
+      "sina.cn": 3,
+      "indexbox.io": 2,
+      "china.com": 1,
+      "pjtime.com": 1,
+      "chnfund.com": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 11,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 8,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "财联社11月5日电，美股存储芯片股盘前延续跌势，SK海力士、西部数据跌超4%，美",
+      "t": "美股三大指数集体重挫：纳指跌超5%，半导体、存储芯片股领跌",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "美股大跌 纳指跌逾5% 费城半导体指数跌超12% 芯片、存储板块重挫",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "摩尔线程获得实用新型专利授权：“半导体结构和电子设备”",
+      "d": "sohu.com"
+    },
+    {
+      "t": "23:01:10【美股AI硬件产业链全线重挫 费城半导体指数跌逾7% 多只个股跌",
       "d": "cls.cn"
     },
     {
-      "t": "400万颗！4家企业披露碳化硅主驱芯片上车进展",
+      "t": "围绕长江存储补链，湖北武鄂“跨界”设立半导体基金",
+      "d": "cls.cn"
+    },
+    {
+      "t": "扩大投资！台积电砸450亿美元赴德州建两座先进晶圆厂！",
       "d": "eet-china.com"
     },
     {
-      "t": "年产6000片！睿晶半导体高端光掩膜版项目最新进展",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "紫荆M100入选“中国芯”示范案例，长沙车规级芯片生态建设获权威认可",
-      "d": "sohu.com"
-    },
-    {
-      "t": "前10月狂拿10宗地！半导体带火深圳土地市场",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "全球半导体Q3销售高增，A股半导体板块反弹，科创半导体设备ETF华泰柏瑞（588",
-      "d": "sohu.com"
-    },
-    {
-      "t": "1105半导体、算力硬件集体大涨，反弹成立了吗？（财富投研付少琪）",
-      "d": "yicai.com"
+      "t": "美科技股遭“血洗”，纳指重挫超5%，芯片指数跳水12%，闪迪暴跌22%，“恐慌指",
+      "d": "wallstreetcn.com"
     }
   ]
 }

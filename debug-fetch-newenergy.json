@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 34,
+  "total": 21,
   "samples": [
     {
+      "title": "远东储能拉脱维亚二期交付，全液冷方案验证极寒可靠性",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jbF9lNlB1VnhuQ2dVRjZ0TmdWcm05ekU2T2FOLTFYclBDdHNscUhUU0xVcm9iV21KRTJ5dVlZeGl1VVZtMVdTdGp",
+      "source_url": "https://mcn.solarbe.com",
+      "source": "碳索储能网"
+    },
+    {
       "title": "【VIP日报】光伏、储能概念走强， 栏目以机构视角解读行业前景 提及相关公司大涨",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vaVc5UnpISXBBaEdNd3RJR1plTGhaR1VVWm1jWk1qTW1xcjJGSFlTdl84S3hqU1Y4aG5sRzRZaDBFUHVzYU05LQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IOWsxMjVTd0hVNnppNGpKTnhzSmpfWnJVaGtybDEtOGNRRWR2dXlHMHhlWVNuMHN5SzJoSEZuX2RiOEE0a0xMTVR",
+      "source_url": "http://finance.eastmoney.com",
+      "source": "东方财富"
     },
     {
-      "title": "0.7444元/Wh起，运达200MW/800MWh独立储能项目中标候选人公示",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aOGJXZU4tbEpCWEUtOWg0em11TWd4TjFFRzhMOHJPRHA1QVVsRmpBbFlUdjV4ZDZKa0ZZOVJwdkFyLTgtT0M3eHV",
+      "title": "山东：在沿海工业园区、海上生产平台等推广风电、光伏、核电",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TTmtWZTJSRXhfb040ZWNVQWJKR0JOZVhGcnFranRJMXZvNzlDb09obklnZzVqY0VVc05TX2FQOWNVWVZBZHRvTlM",
       "source_url": "https://www.ne21.com",
       "source": "世纪新能源网"
     },
     {
-      "title": "24套碱槽！85.54亿光储氢氨醇项目获批",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wMWd3TVkyX0J5UUZ5Yl9KZURZMzFDemdHY1pTZm96aEVGT3dGbUlHN0pfSzZ6WlJ4RGxNTWVjWEJvWF9mNVpJLW5",
-      "source_url": "https://www.ne21.com",
-      "source": "世纪新能源网"
+      "title": "1000MW！国家电网拿下海外储能电站开发协议",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oQmktX3B0OXlGVzhoeGFfa0Y4dVdMeS1WdUtkdXo1ZDI0MnBtYV9YeWM2cXlEdHo3NGpMa1I5d1AwNHBRMTdYQjJ",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "宁德时代、智光储能等入围！龙源电力1.2GWh储能系统集成设备框架采购开标",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92bENwaEFTbkYzZDdGSXJCYlh0Y2tZQWN3bmpUanF5NUd3ZlZsZ2R5ZVFaSjh6MGZxLXQ0S1loZjVzUHJhb3hlTXN",
-      "source_url": "https://www.ne21.com",
-      "source": "世纪新能源网"
+      "title": "武汉工商学院光储充一体化智慧停车棚打造校园低碳新场景",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80VVI3RXc2TmhQLWFJZHQ3VGFhd1RsNnNDZEZlWnNHcEV5b3NocUVpYlpvS2lLZHY3VU5GVEJlb0dJa0V0WFhCUkx",
+      "source_url": "https://www.stdaily.com",
+      "source": "中国科技网"
     },
     {
-      "title": "竞争性不足！电投绿能梨树项目制氢装置辅助设备采购终止",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEcUtyTzlyM3VYQnh5ZW5rT1RjWEtVMEZjWm5GOTkxMUdWSExmMkJpcGdBd2xRaThpamxseTJRTzVtdDZGZG4xUnJ",
-      "source_url": "https://www.ne21.com",
-      "source": "世纪新能源网"
-    },
-    {
-      "title": "新版“站在光里”出现了？光伏板块大爆发，“易中天”却集体大跌",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pem1DWkRmM3hNTFk0U3JvSUFMWnp6ejhvNUxEZXp0RFpyaWZ3Z05ZNHl2VmxaZEh1c1RJMHN2a2stYkdmYWFnNHR",
-      "source_url": "https://www.nbd.com.cn",
-      "source": "每日经济新闻"
+      "title": "民主党或加强新能源补贴？新能源集体回血！创业板新能源ETF华宝（159076）标的指数再涨4%",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejR0M1lfOUdURzFkYkNLV0xmWGt4dXhENldxR3VMOTVIYjkwYVZpMXh1Ui0tWVFYWFAzekFnZ3VuMkIyeFdfNVd",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     }
   ]
 }

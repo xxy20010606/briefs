@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 34,
+  "total": 30,
   "samples": [
     {
-      "title": "财联社11月5日电，美股存储芯片股盘前延续跌势，SK海力士、西部数据跌超4%，美光科技、闪迪跌超3%",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hYkVBVnM1M2hEencySmtMd3ZNbjc4Zl9uX2pHdnJveExCTEF4Q0pYTTMxZldvTFFDWnRoTXVYR3VEUTNiMHBfQQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "美股三大指数集体重挫：纳指跌超5%，半导体、存储芯片股领跌",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sN3hHUGU2bklUWURwV3JJLWJGOUxFa2drZ0tKU2owdkFNanJieWdlU1pEZ2V0THd3QWFXOEdpSE9Xb2N2QUN4UEJ",
+      "source_url": "https://www.thepaper.cn",
+      "source": "ThePaper.cn"
     },
     {
-      "title": "三星前员工获刑5年！一场技术泄密案，揭开全球芯片人才争夺战",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeGstNkJyUURGUXNTaG95bHpnMDY2MjNiTTBLb05XWjJMbDNCSWVza2hZSkhta0RqN1pDdk8yeGUwS0RVZEFhUm5",
-      "source_url": "https://www.fx168news.com",
-      "source": "FX168财经"
+      "title": "美股大跌 纳指跌逾5% 费城半导体指数跌超12% 芯片、存储板块重挫",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4NldPTW1tenRxUnppZ2tEVDRQeW9CQVBoMGdMVkp5Wkp1enNRaVRsNlkwZWhMSmNERjdnU0FFYVE1dm03OHRreW8",
+      "source_url": "http://fund.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "400万颗！4家企业披露碳化硅主驱芯片上车进展",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05SWJxMHpKbmZSdV9lOTFsN3FZNjBlajAwNGM5OG00TzV2WnQ2MGtJMzlJNGpVMlhWTTZORkQyT1ZrT2FfWE1RZFV",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
+      "title": "美股芯片、存储、光通信板块，集体重挫",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BOFE5Ml9SOFJMS1plOGZ0OGNzSVo1akVwQlQtMUlLSWRwYXk1OUJRVXVaejlpZlBndXJkbTBzR3R2MU5NTTlJTGZ",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "消息称部分半导体设备制造商已启动2029年供应谈判",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UcW94Qk5mMnlXTnhfYWNZRmFMaFBWQzBMZThld0p2MXV0cnBxMkNJajdWeFJHREVnS0g4aDNnN3c3N01zS2NVSEJ",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "美科技股遭“血洗”，纳指重挫超5%，芯片指数跳水12%，闪迪暴跌22%，“恐慌指数”飙升",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByQjRGUUR5cFFKUG8tT3d4UGdTTWE3S3Q2UkNLTng0UmJwSW1YczZCU0dUa3otNU1PaldnZzZKbmxBM1lKZW5acFN",
+      "source_url": "https://wallstreetcn.com",
+      "source": "华尔街见闻"
     },
     {
-      "title": "年产6000片！睿晶半导体高端光掩膜版项目最新进展",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yMVpNdmxaVXh1ckd2eXp6dnVhVmdlYWNVUXRQaWZMMkJrWU9nWTBDX2N1Mm1zM3MwMVRJQ0VuUEpsNzJYWlpfSUR",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
+      "title": "美股AI硬件产业链全线重挫：闪迪、西数、美光等大跌",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoQTJWNWsya1AxY1FYRVRSVjBuREo2T1pDUGVjQ2R2SFIzQzNmYkF5YkJ4dXlzTWxxVjJBNmFOb291cnJnRV91VzV",
+      "source_url": "https://tech.sina.cn",
+      "source": "新浪网"
     },
     {
-      "title": "数亿B+轮！中科卓尔，国产高端空白掩模版突围",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HTjF2clBFeHRINmdGMFlCTEZXXy1SUUZhSWZaMXJWcHhBOU83OTVGZF9UeHdGQ3JhUFJEZHhKQ2RzNkNyNi12RVp",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
+      "title": "摩尔线程获得实用新型专利授权：“半导体结构和电子设备”",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVF9pWktEM05uU1QxS0Y4MTVocTVzc3daX2xxUHZZeFBwMVJLU0lRaXppd0JnQk93YzVibG5QVm5uU1JjcHBCQ2V",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     }
   ]
 }
