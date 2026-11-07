@@ -1,49 +1,33 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 38,
-    "trusted": 6,
+    "raw_dedup_junk": 25,
+    "trusted": 2,
     "non_trusted_top": {
-      "ne21.com": 15,
-      "autohome.com.cn": 7,
-      "seetao.com": 3,
-      "sina.com.cn": 2,
-      "wedoany.com": 1,
+      "ne21.com": 12,
+      "autohome.com.cn": 4,
+      "stockstar.com": 1,
+      "fznews.com.cn": 1,
+      "notebookcheck-cn.com": 1,
       "sina.cn": 1,
-      "starnewskorea.com": 1,
-      "chedongxi.com": 1,
-      "stockstar.com": 1
+      "ceic.com": 1,
+      "sina.com.cn": 1,
+      "yzwb.net": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 5,
-    "relaxed_72h": 1,
-    "final": 6,
+    "fresh1_24h": 1,
+    "page_fresh": 0,
+    "relaxed_72h": 2,
+    "final": 2,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "20cm速递丨创业板新能源ETF国泰（159387）近30日获资金净流入5338",
-      "d": "163.com"
+      "t": "河北沧州：织密新能源汽车充电服务网络",
+      "d": "xinhuanet.com"
     },
     {
-      "t": "远东储能拉脱维亚二期交付，全液冷方案验证极寒可靠性",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "免费打卡！比亚迪科技开放日携全系硬核科技亮相昆明车展",
-      "d": "sohu.com"
-    },
-    {
-      "t": "西寺坡变10MW/40MWh电网侧储能电站建设项目（EPCO）招标公告发布",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "朔州市行政审批服务管理局关于山阴经开区中核400MW/800MWh独立储能电站项",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "【VIP日报】光伏、储能概念走强， 栏目以机构视角解读行业前景 提及相关公司大涨",
-      "d": "eastmoney.com"
+      "t": "车企自研电池真相：不造电芯，到底在争什么？",
+      "d": "ifeng.com"
     }
   ]
 }

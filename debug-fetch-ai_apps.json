@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 18,
+  "total": 17,
   "samples": [
     {
-      "title": "传智教育：注重培养学员驾驭AI工具、完成业务闭环的复合型能力",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZX2Jqc1U5SFhPZU02S0VMbUNFZkMyZDVxbjUzUU1WNFlJSWx5dU1oVEFqOFNkc1JMTmU1bTZlTGFHcEVtUV9WeU9",
-      "source_url": "https://wap.eastmoney.com",
-      "source": "东方财富"
-    },
-    {
-      "title": "Floot 评测：几分钟内将创意变成可用的网站和应用。",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX0xWal8waEl4cl8wYzJEY2lVd05iaU9CQ3lsdXdmZTVqTjBJb2RVNWN6RGNCSkV6N3pJd09jZDExdHRwaGN5bFB",
+      "title": "Hugging Face 评测：开放模型、数据集与 AI 应用",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXZJbmYxQ2VSNXJjbk5OVjF5eGp0a3ZScVZYc2drRk0yYTJoSjY3NnF4V1Brb0h6TkpNcVY5VjJHRG1DXzFYcHE",
       "source_url": "https://quasa.io",
       "source": "quasa.io"
     },
     {
-      "title": "Coze企业版将下线，独立开发工具生存空间被AI办公挤占",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9laW1jSmNnWG03MDNJNUxaWTYyRFFGZWpyRnFwRnR0RTk5Ry05emZRNUhwTGhRRGtiMzV1THlxQ285SzM1QWRBWC1",
-      "source_url": "https://www.jiemian.com",
-      "source": "Jiemian.com"
+      "title": "网友用AI搓出来的“App” 可以直接在小红书玩起来？",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zWl9KLV9nUDNSN1hjY25PY1d6eDNvdFA1bVQtaTh5UURZUlNYeF9BaVRPcjJXNjRtNDZMUWVlZWNTVFdIM29LSXh",
+      "source_url": "https://news.mydrivers.com",
+      "source": "驱动之家"
     },
     {
-      "title": "Linear 评测：团队真正喜爱的 AI 时代问题跟踪工具",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOazUtNnM4UjBqbVNBSjBBSUxrYUJXdXlhNENreWtmX3dUemtveU9oQ2V4QXhDY2F6ZUo0LThBRFR2TkRqWUQzUE9",
-      "source_url": "https://quasa.io",
-      "source": "quasa.io"
+      "title": "女员工AI做报告被炒 告赢公司 复工还获赔4.6万",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54S290MGdSZlN6d1pFYmtvMWZid19td1ZWRHlDTmpPdlpwUUtnelczUXZWQUd4WVQxM0t0T3NCUFdJVW5lZi1YbS1",
+      "source_url": "https://www.wenxuecity.com",
+      "source": "文学城"
     },
     {
-      "title": "Granola 评测：为连续会议打造的无机器人 AI 笔记工具",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVWFYemRxWlFfZWwzYlhMWjNRbk4wSXlJU0E3VUdRNG1hd1ROd1ZEOXhrNlNXYWZNTEdqUW5NNnhIdVdDcWVKUUZ",
-      "source_url": "https://quasa.io",
-      "source": "quasa.io"
+      "title": "Meta 新增自定义空间，打造个性化 Muse 应用体验",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjJVUFhyNXpOQkRxTlZZdTNTdnFvMzlyMnBHb1YtZTdyNkJsVmVEaFJHNmFUbE9mSXBaUzhUYXcxd3NQRzE4LV9",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "Mammouth AI 评测，12 欧元起的套餐与使用限额",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTYwMjZnYVNVT1ktNmFYa2RJaUFyenVfMkJXRjRPQnNjNFR3VUFzRmZEWEd1djJOQTBJVHljN0FocGI5dXV4NHN",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "BMO推出面向信用卡客户支持的智能体 AI 案件准备功能",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdHpvV1BJWm5wZXVEUk9PNkFkaUxmV1FuZXFHc1l5N0FtVThwbW80RGtELS0zRHhQeDUzdHF5NnZCUU5Ib2d4Z0o",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
+    },
+    {
+      "title": "Shannon McWilliams，Orca Security 全球分销负责人——访谈系列",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjFsZldnX19ERURlQ2o3aUJqRVNfdGRrc1FtaWxBNkJ2aHB4SWlnRzZOYWFmUTBNandLaW9PcnJTRW1YNXZ2TS1",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     }
   ]
 }

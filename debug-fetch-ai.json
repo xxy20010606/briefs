@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 46,
+  "total": 41,
   "samples": [
     {
-      "title": "电话邦AI可信名片上线：AI搜索时代，让客户优先找到可信的你",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aSkhULVNGN3VYN3I3ejRzTDRYeC1RSWdWblBXS1dJc2R0M1diYW9idTdJYjNOWTBsSU13U2lXUHZ6WmdJMTktTFF",
-      "source_url": "https://tech.china.com",
-      "source": "中华网"
+      "title": "中国突然停购60万枚英伟达芯片，美国急了！",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11dzVUckFSZ2poZDctT1d5cFVrZUpXTElXSm1VSXRRaEY0Z3llcVQxem4ySXZjYk9aTUZOX3ZLbnhxR1ZESWNmM0F",
+      "source_url": "https://user.guancha.cn",
+      "source": "风闻"
     },
     {
-      "title": "陈天桥最新演讲：AI下半场，竞争从“生成”转向“验证”，模型能力不在大，而在谁能证明自己正确",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DcHo5bHFhZTFla3ZOMGZuTkxNLTdjV0NnZzA2ZENHN3lTbGgzX20zN05ya2QzcFNXeE9JWWFQc285dDlUelpCU0d",
-      "source_url": "https://www.ichaoqi.com",
-      "source": "潮起网"
+      "title": "江苏苏州：“智驾之城”蓄势换道",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0wwOFZzVmpEX2o1QVlzTzNjYktRUkhpUzlNRmZwU1Nxekk4RmtIcDNYR05sVjZucFVlcTNtTVBNUUxtSjVjUTB",
+      "source_url": "https://news.jschina.com.cn",
+      "source": "中国江苏网"
     },
     {
-      "title": "AI从屏幕走进物理世界，八维通具身智能公司导览平台助力22省百城实战落地",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4WmZQbEpFXzh4VWlMOTNFSkZuQ3BHZDZLdlZDTlZKalFzSHlsa2RsbFQxNnFlSGRQdEFIa19mQU1kOFVQZGJBWjk",
-      "source_url": "https://hainan.ifeng.com",
-      "source": "凤凰网"
+      "title": "恭贺！这30个大模型入围山东2026年度省级“模型券”拟奖补名单_山东新闻",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHajVoLWpSWFVWOU1PY2lTMzBLSGhhenBqWWZ4Nm92aFFTV0IwdGNQU2FMdV92UFpOa0t2SnUyTDg1U3QtYXF0S09",
+      "source_url": "https://sd.dzwww.com",
+      "source": "大众网"
     },
     {
-      "title": "统一AI：一套跑通的智能教育生态如何回答\"培养人而非依赖AI\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SaTJlV3N0S01YeUVpeXZjOTVDdE12WEViTTFGOERMd0tFbl9leFVRclVsWk1oUkx1UTk4aUVTOFctYnhPNDVqQUo",
-      "source_url": "https://hea.china.com",
-      "source": "中华网"
+      "title": "青岛市属企业发布第三批应用场景 人工智能“占大头”",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oMnlBZ3hzTTh0RHExUjhiNEVvdzk1b3hMeG1VOWdXUERaQ2dzcDhiUmU3LUFUZE9HV0lNVElST0h2bk1UUFQ3SzR",
+      "source_url": "http://m.qdxin.cn",
+      "source": "信网"
     },
     {
-      "title": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 3",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03eVc5eGNOckRLVU50TEJkQXBpbkNKa1VCV2dEak5HVzdvWC1FOWViUkZhT0tNSkM4eEFjaGRpUHRZbkpXVk50aHF",
-      "source_url": "https://news.aibase.com",
-      "source": "AIBase"
+      "title": "柳钢股份11月6日回应工业大模型话题：玄铁大模型已投入运行_公司新闻",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBveHlsT3dpNlhQSlZETkxLdHhYd3VMaUZlenBPRWZucDBCdDZ6OHpPQVV0Tlp5UnhrTHM5a0owRGE5dTdmSE1IQXI",
+      "source_url": "https://stock.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "北汽研究总院：AI时代下的智能交互实践_车市动态",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XUENDMU9ZVUVvRVpzZjQ0ZUEyQ3Y4MUVMNGlOOV9iLTFibVcwQzltcV82T3RfLUx4ZXdRR2tRQ0twc3U0Wkw3ODM",
-      "source_url": "http://auto.cnfol.com",
-      "source": "中金在线"
+      "title": "柳钢股份11月6日回应AI大模型话题：玄铁钢铁大模型已在相关工序投入运行_公司新闻",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JcU10QjNTR2Qxa3RIemp4MkhaZ2wzdm5wWFp1RDBrV1E2WmY0Y3J0QlY5eW1KVUJpWURGTlNNTlNuakw0bXVtaWh",
+      "source_url": "https://stock.stockstar.com",
+      "source": "证券之星"
     }
   ]
 }

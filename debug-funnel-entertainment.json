@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 42,
-    "trusted": 7,
+    "raw_dedup_junk": 47,
+    "trusted": 8,
     "non_trusted_top": {
-      "iheima.com": 7,
-      "sina.cn": 5,
-      "sina.com.cn": 3,
-      "hupu.com": 2,
-      "bjd.com.cn": 2,
-      "workercn.cn": 2,
-      "lmtw.com": 2,
-      "ntdtv.com": 1,
-      "hk01.com": 1,
-      "epochtimes.com": 1
+      "iheima.com": 11,
+      "sina.cn": 3,
+      "360.com": 3,
+      "rediandf.com": 3,
+      "voc.com.cn": 2,
+      "xmnn.cn": 2,
+      "vietnam.vn": 1,
+      "leidacj.com": 1,
+      "mezha.net": 1,
+      "chinadaily.com.cn": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 7,
-    "relaxed_72h": 0,
+    "fresh1_24h": 6,
+    "page_fresh": 2,
+    "relaxed_72h": 6,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2026电竞显示器品牌排行榜揭秘高端赛道新标杆",
-      "d": "sohu.com"
+      "t": "从日剧里的镜头，到美国院线科幻长片：AI制片已走到哪一步？",
+      "d": "cls.cn"
     },
     {
-      "t": "《悲伤逆流成河》定档11月27日全国重映 时隔八年再回望齐铭易遥的青春故事",
-      "d": "sohu.com"
+      "t": "复刻声音商用，可识别性是侵权认定核心",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "张抗抗：文学的“骨气”源于作家不随波逐流的独立思考",
-      "d": "sohu.com"
+      "t": "陕西导演上街举牌求新电影“被看见”，上映首日全国各地影迷来支持，本人最新回应：对",
+      "d": "ifeng.com"
     },
     {
-      "t": "捷成股份出席2026中国广播电视精品创作大会：分享AI精品内容工业化生产的捷成经",
-      "d": "10jqka.com.cn"
+      "t": "一期更新150+热搜，《后会友期》是怎么爆的？",
+      "d": "jiemian.com"
     },
     {
-      "t": "《后会友期》：旧友重逢，旧账算得清吗",
-      "d": "cri.cn"
-    },
-    {
-      "t": "刘晓庆发文回应330万元借贷纠纷，称被人算计：看着我好欺负；此前她在该案二审中败",
+      "t": "一场车祸，一张假发票，《谷雨》李小冉把女大佬演活了！",
       "d": "163.com"
     },
     {
-      "t": "“旁听”遵义会议，一次精神会师（纵横）",
-      "d": "people.com.cn"
+      "t": "探讨当代亲密关系话剧《今宵酒·醒何处》首演",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "《流浪地球》编剧叶俊策：科幻影视正迎来发展的“窗口期”",
+      "d": "eastmoney.com"
     }
   ]
 }

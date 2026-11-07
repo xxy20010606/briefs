@@ -1,54 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 34,
-    "trusted": 18,
+    "raw_dedup_junk": 27,
+    "trusted": 12,
     "non_trusted_top": {
-      "china.com": 3,
-      "stockstar.com": 3,
-      "sina.com.cn": 3,
-      "ichaoqi.com": 1,
-      "nai500.com": 1,
-      "mydrivers.com": 1,
-      "ofweek.com": 1,
-      "sina.cn": 1,
-      "cnbeta.com.tw": 1,
-      "ebiotrade.com": 1
+      "stockstar.com": 2,
+      "vietnam.vn": 1,
+      "dahecube.com": 1,
+      "investing.com": 1,
+      "rfi.fr": 1,
+      "moomoo.com": 1,
+      "jschina.com.cn": 1,
+      "shangbaoindonesia.com": 1,
+      "jrj.com.cn": 1,
+      "industrysourcing.cn": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 16,
-    "relaxed_72h": 0,
+    "fresh1_24h": 9,
+    "page_fresh": 3,
+    "relaxed_72h": 6,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "印度计划24个月内自研GPU芯片，电子与信息技术部秘书详解AI五层布局",
+      "t": "英伟达寻求破解存储瓶颈 台积电据悉考虑布局3D DRAM",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "碳化硅订单/合作密集释放，涉及英飞凌、天域半导体等",
       "d": "eet-china.com"
     },
     {
-      "t": "路维光电，28nm单片掩膜版实现稳定供货，布局14nm",
-      "d": "eet-china.com"
+      "t": "【IC风云榜候选企业27】大鱼半导体：把窄带自组网铺进地质灾害监测和石油勘探现场",
+      "d": "laoyaoba.com"
     },
     {
-      "t": "芯片龙头拉升！中国硬科技，自强不息！",
-      "d": "21jingji.com"
+      "t": "美芯片股反弹，半导体指数涨超4%；特朗普称正在与伊朗进行沟通；俄美乌三方会谈将于",
+      "d": "nbd.com.cn"
     },
     {
-      "t": "半导体设备板块冲高回落，半导体设备ETF易方达（159558）半日获6.63亿份",
+      "t": "这些“芯”上企业，为什么要到这里？",
       "d": "sohu.com"
     },
     {
-      "t": "重塑芯片市场的五大趋势",
-      "d": "sohu.com"
+      "t": "半导体企业密集回购增持，“真金白银”彰显信心！中微公司涨近9%，芯片ETF汇添富",
+      "d": "eastmoney.com"
     },
     {
-      "t": "美股三大指数集体重挫：纳指跌超5%，半导体、存储芯片股领跌",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "美科技股遭“血洗”，纳指重挫超5%，芯片指数跳水12%，闪迪暴跌22%，“恐慌指",
-      "d": "wallstreetcn.com"
+      "t": "美股盘前：AI硬件股集体反弹 芯片、存储、半导体设备及光通信板块普遍上涨",
+      "d": "cnfol.com"
     }
   ]
 }

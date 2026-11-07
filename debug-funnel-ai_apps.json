@@ -1,42 +1,30 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 18,
-    "trusted": 4,
+    "raw_dedup_junk": 17,
+    "trusted": 1,
     "non_trusted_top": {
-      "quasa.io": 4,
-      "unite.ai": 2,
-      "pasqualepillitteri.it": 1,
-      "leidacj.com": 1,
-      "technode.com": 1,
-      "icloudnews.net": 1,
-      "bjd.com.cn": 1,
-      "iheima.com": 1,
-      "53ai.com": 1,
-      "sina.com.cn": 1
+      "unite.ai": 4,
+      "quasa.io": 2,
+      "mydrivers.com": 1,
+      "wenxuecity.com": 1,
+      "myzaker.com": 1,
+      "yzwb.net": 1,
+      "sh.gov.cn": 1,
+      "xiaguangshe.com": 1,
+      "ac.cn": 1,
+      "leikeji.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 4,
-    "relaxed_72h": 0,
-    "final": 4,
+    "fresh1_24h": 0,
+    "page_fresh": 0,
+    "relaxed_72h": 1,
+    "final": 1,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "传智教育：注重培养学员驾驭AI工具、完成业务闭环的复合型能力",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "Coze企业版将下线，独立开发工具生存空间被AI办公挤占",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "网易智企乌镇发布AI创新成果：帝王蟹三项升级，易盾首发AI原生安全体系",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "个人Agent上桌，谁先露了怯？",
-      "d": "sohu.com"
+      "t": "三七互娱拿下琶洲算法大赛超级龙虾挑战赛多个奖项，持续深耕AI产业落地",
+      "d": "10jqka.com.cn"
     }
   ]
 }

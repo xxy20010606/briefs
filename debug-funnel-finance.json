@@ -1,54 +1,42 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 29,
-    "trusted": 14,
+    "raw_dedup_junk": 22,
+    "trusted": 6,
     "non_trusted_top": {
-      "orientaldaily.com.my": 3,
-      "sina.com.cn": 2,
-      "stockstar.com": 2,
-      "moomoo.com": 2,
-      "com.sg": 1,
-      "atvnewsonline.com": 1,
+      "stockstar.com": 3,
+      "sina.com.cn": 3,
+      "sfccn.com": 2,
+      "cnfin.com": 2,
       "sina.cn": 1,
-      "ajudaily.com": 1,
-      "sfccn.com": 1,
-      "hk01.com": 1
+      "jrj.com.cn": 1,
+      "hk01.com": 1,
+      "smm.cn": 1,
+      "binance.com": 1,
+      "hkcna.hk": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 8,
-    "relaxed_72h": 1,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 5,
+    "page_fresh": 0,
+    "relaxed_72h": 4,
+    "final": 4,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "宝明科技前三季亏损2020年上市募7.7亿中银证券保荐_股市聚焦_市场",
+      "t": "爱玛科技(603529.SH)拟推2026年限制性股票激励计划_车市动态",
       "d": "cnfol.com"
     },
     {
-      "t": "美国股市缘何暴跌",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "中期选举扰动下美股重挫！华尔街看涨预期遭打脸短期内抛压恐难消_股市直播_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "【环球财经】伦敦股市5日下跌",
-      "d": "sohu.com"
-    },
-    {
-      "t": "高盛大砍黄金目标价！央行购金挡不住美联储转鹰，当前格局像极了2022年",
+      "t": "1998 VS 2000，高盛主管：AI抛售更像LTCM危机而非互联网泡沫，但关",
       "d": "wallstreetcn.com"
     },
     {
-      "t": "港股早报｜国务院报告支持汇金类平准基金 美股纳指跌超5%中概股相对坚挺",
-      "d": "cls.cn"
+      "t": "进博财经眼丨德勤中国主席蒋颖：6天聚共识365天促落地从展会“流量”变成持续生长",
+      "d": "yicai.com"
     },
     {
-      "t": "高通业绩超预期但指引疲弱 内存短缺拖累手机芯片销售",
-      "d": "yicai.com"
+      "t": "ETF市场日报｜美股AI暴跌传导，三大指数集体大幅低开，红利低波与电力主题ETF",
+      "d": "jiemian.com"
     }
   ]
 }

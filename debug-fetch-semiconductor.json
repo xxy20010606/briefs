@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 34,
+  "total": 27,
   "samples": [
     {
-      "title": "印度计划24个月内自研GPU芯片，电子与信息技术部秘书详解AI五层布局",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SbTBpUEUwR1hYb1ltenZ1R1E4aUl6YVFCTXNBaTJRbk9fOUZEX3hrRUo3OU94Q3Z3aE02V1NkSHNkVEw1cG5LMmN",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
+      "title": "VGC v1.0 芯片——迈向技术自立道路上的一个里程碑。",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlV2RWgwWEdvUF90cWpsNGRTbjVxUmdTbHU2ZVFvc2xUMGktV2NzLWdVeDhBaVZtVkQ0QkFlR0d1UzhkSDdDbTJ",
+      "source_url": "https://www.vietnam.vn",
+      "source": "Vietnam.vn"
     },
     {
-      "title": "进博观察丨从芯片展台到290亿美元投资，三星进博会秀AI全链条",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YQnNmVGRBVGJwT0hma3A2cG12VmV6aklzYVlpamdXR0VsX0F5c2xlSXRZNWt3eFhDXzc1V3VObE9RWkNzeXRtaW1",
-      "source_url": "https://finance.china.com",
-      "source": "中华网财经"
+      "title": "美联储，加息大消息！美半导体芯片股反弹，中国资产走强",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wVktfUDJILU0xd1dvb2VjMGpGb3dydmE4RWdaQnBiaHgtQVdWZmFXQk16M1FqSHpmaVZtVzFyZWxHcVYtQW9kZWJ",
+      "source_url": "https://app.dahecube.com",
+      "source": "大河财立方"
     },
     {
-      "title": "皇冠新材(001381.SZ)：公司半导体功能材料可用于芯片的粘接、保护、应力缓和等场景_公司新闻_",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55QmNvNk92bURPSEVyNlh3ZmpVbjZFTUtJeTJUZWZ4S09zMTQ4T0NYYWxmWG9aWXVjcVdsdnMzTmFSOEFfRlFzTlN",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "路维光电，28nm单片掩膜版实现稳定供货，布局14nm",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjR2Fsa1loY2NnR0tHWE1iZVF0dmJ3RGVKMUVFWUVmZTBUN19NZEVxM2RrdHNuYUtBaVFlYlI2cjFEVW5vT3JwRGl",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
-    },
-    {
-      "title": "模拟芯片国产化提速，晶华微三季度盈利回暖_公司新闻",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HUTZSeEwzRDcyX3lUc2xqeFhNTVVjN3lBVTk1OUJZenFKRmkwNWJDVGR4MVJGYU1obVRrc3I0TWJRZWNxNDBlZEl",
-      "source_url": "http://stock.stockstar.com",
-      "source": "证券之星"
+      "title": "美芯片股反弹，半导体指数涨超4%；特朗普称正在与伊朗进行沟通；俄美乌三方会谈将于11月10日举行；中",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yeXNyOFhiZENZaDhDVFE4UmRrYWZmTXB0bnBFdmJPVGI4WDA0azdWR2pLYTZrOGdrMEhYMWs5eFd5dW1ZUy01MFJ",
+      "source_url": "https://www.nbd.com.cn",
+      "source": "每日经济新闻"
     },
     {
       "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tZmJ1Z3AtaGlHMG1MVDU3bEUwVTVxbmQ0SGYzQU9XUGdyek5NcjVhMWtpek9XLXFSdjdqWVlqYS0wTzZnOExfTg?",
       "source_url": "https://www.cls.cn",
       "source": "财联社"
+    },
+    {
+      "title": "安森美半导体与捷克工业部取消20亿美元芯片厂扩建计划 提供者 Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NbHR6elhuOUpJRUdWWmtweDlfeHUxWXFuTmRRSkVPdUxLWUlDZ0JNMVE4bFFJS3Q5R0xQc2dCSzhnT2hvZVBSaEt",
+      "source_url": "https://cn.investing.com",
+      "source": "英为财情 Investing.com"
+    },
+    {
+      "title": "英伟达寻求破解存储瓶颈 台积电据悉考虑布局3D DRAM",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQdjBKWi1lN1M1VFdTNGNaVWljU3d5ZGpIUEYweW9hZE00X0xZX0VXOFVReURCSkZnbFhFQW5YalI2d1NnNzRCZUw",
+      "source_url": "https://wap.eastmoney.com",
+      "source": "东方财富"
     }
   ]
 }
