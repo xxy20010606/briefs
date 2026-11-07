@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 27,
+  "total": 22,
   "samples": [
     {
-      "title": "VGC v1.0 芯片——迈向技术自立道路上的一个里程碑。",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlV2RWgwWEdvUF90cWpsNGRTbjVxUmdTbHU2ZVFvc2xUMGktV2NzLWdVeDhBaVZtVkQ0QkFlR0d1UzhkSDdDbTJ",
+      "title": "狂欢的AI，把手机芯片厂拖入寒冬",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RREt4MG9vSUlfTjk5ZG9jX1BCNmcyUHNxcndhYV92SzJnREVLQk12Z0YxbGNfbnJSeEEzNGV4OFBINkhJMGE4Vzl",
+      "source_url": "https://news.pedaily.cn",
+      "source": "投资界"
+    },
+    {
+      "title": "培训半导体行业人才，使其掌握该技术。",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BVHRvVTcyX2hPNzJsVUxIdXhDX3h4eUFqSnFKUVZSUmdrN2VRX2k2Y3FMQmROZlhVbVNXX2JFMmFDRWp5b1FuUjN",
       "source_url": "https://www.vietnam.vn",
       "source": "Vietnam.vn"
     },
     {
-      "title": "美联储，加息大消息！美半导体芯片股反弹，中国资产走强",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wVktfUDJILU0xd1dvb2VjMGpGb3dydmE4RWdaQnBiaHgtQVdWZmFXQk16M1FqSHpmaVZtVzFyZWxHcVYtQW9kZWJ",
-      "source_url": "https://app.dahecube.com",
-      "source": "大河财立方"
+      "title": "光模块退潮，先进封装能否扛起科技反弹大旗？",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VREJjbnQ0SDlNbU1oV2VuSE80RXZUT1NnMjRTNW44UWZmZHdYSHFLaGNGUFJLNXQwUGtZWGZNdkFrLWxSQ1VKR2x",
+      "source_url": "https://m.jrj.com.cn",
+      "source": "金融界"
     },
     {
-      "title": "美芯片股反弹，半导体指数涨超4%；特朗普称正在与伊朗进行沟通；俄美乌三方会谈将于11月10日举行；中",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yeXNyOFhiZENZaDhDVFE4UmRrYWZmTXB0bnBFdmJPVGI4WDA0azdWR2pLYTZrOGdrMEhYMWs5eFd5dW1ZUy01MFJ",
-      "source_url": "https://www.nbd.com.cn",
-      "source": "每日经济新闻"
+      "title": "当芯片抢着上太空，半导体下一轮增量有了？",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50TWVfNEtobS1Sc0F5LXpJUXpfeHpPUFZjLTlpWk10LXhsZ083b2tTb2tKVk1oajc1NmRYUXpYQ21lM2tUM0dhRHl",
+      "source_url": "https://news.qq.com",
+      "source": "腾讯新闻"
     },
     {
-      "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tZmJ1Z3AtaGlHMG1MVDU3bEUwVTVxbmQ0SGYzQU9XUGdyek5NcjVhMWtpek9XLXFSdjdqWVlqYS0wTzZnOExfTg?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "钻石长到20厘米！美企造出单晶金刚石瞄准芯片散热",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MZlJ1aVc2andsazd1ejVPdkV1RXBFMzYwc09zQVB6LTF6T2Nvc3BMbTJNODQ4bkQ2dWVSRnY4Y08xTE9RTF9oVUg",
+      "source_url": "https://news.mydrivers.com",
+      "source": "驱动之家"
     },
     {
-      "title": "安森美半导体与捷克工业部取消20亿美元芯片厂扩建计划 提供者 Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NbHR6elhuOUpJRUdWWmtweDlfeHUxWXFuTmRRSkVPdUxLWUlDZ0JNMVE4bFFJS3Q5R0xQc2dCSzhnT2hvZVBSaEt",
-      "source_url": "https://cn.investing.com",
-      "source": "英为财情 Investing.com"
-    },
-    {
-      "title": "英伟达寻求破解存储瓶颈 台积电据悉考虑布局3D DRAM",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQdjBKWi1lN1M1VFdTNGNaVWljU3d5ZGpIUEYweW9hZE00X0xZX0VXOFVReURCSkZnbFhFQW5YalI2d1NnNzRCZUw",
-      "source_url": "https://wap.eastmoney.com",
-      "source": "东方财富"
+      "title": "主投硅光芯片等领域 孛璞半导体完成数亿元B轮融资",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fYlR1RE1OdkNYZVR1Uk1sbU91dlBtQkpqUkNWbnlyUW5KT3RyOHhfSGtURFhvWHJ3TERGaFZ6T3hrZXZmUzdiUWN",
+      "source_url": "https://www.itdcw.com",
+      "source": "https://www.itdcw.com/"
     }
   ]
 }

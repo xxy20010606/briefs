@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 17,
+  "total": 18,
   "samples": [
+    {
+      "title": "Jimdo 2026 评测：适合个体创业者和小企业的易用 AI 建站工具",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjZXQzBIZkhXRTdHQjNZUTZBVXhNSk5vZ2oyXzYtT1ZzQUx2dlJycHd2UFhDZ2F5Tk5tcVFzanFMOUZ4OVFCNVF",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
+    },
+    {
+      "title": "LangChain 评测：构建 AI 智能体的终极框架",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSFpRSWxaLXotM3ExRk1ad3dYcldqX3I1emxRZ1lnWFV6NzByVXpnRU1rakdKU3lkRDFxZWttU1dCN0pGOXJTb0Y",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
+    },
+    {
+      "title": "Gradio：构建和分享 AI Web 应用的最简单方式",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ21PVjBLMzVrVUVYdG5KaGt0RzlLSllGU0Z0cW9tN2FQTF9kMG5BLVR4WjRTZnVsX0V3YW10Ry02QjNBMnZjblB",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
+    },
+    {
+      "title": "「引導式學習」工具惹議 學校禁AI恐罷用谷歌",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05XzZiR21qc0NRYzR6ZjF2RGtJMm91MWh2VXVIdlhIMllmWm93cy1sVHoxeXkzR0lzZC1kS184dC1tbTlYRUxFN0F",
+      "source_url": "https://www.epochtimes.com",
+      "source": "大紀元"
+    },
+    {
+      "title": "美国Cursor推出AI应用自动构建与部署功能",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HSHJtS2FxR0tsU0FWOVRIT2ZVTTM3WFBlcHZqZy1yYjlqbnJHTnpFdmt6clpkQTFCLTRaakw1eGZHVEotRWNPcWN",
+      "source_url": "https://www.wedoany.com",
+      "source": "维度网"
+    },
     {
       "title": "Hugging Face 评测：开放模型、数据集与 AI 应用",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXZJbmYxQ2VSNXJjbk5OVjF5eGp0a3ZScVZYc2drRk0yYTJoSjY3NnF4V1Brb0h6TkpNcVY5VjJHRG1DXzFYcHE",
       "source_url": "https://quasa.io",
       "source": "quasa.io"
-    },
-    {
-      "title": "网友用AI搓出来的“App” 可以直接在小红书玩起来？",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zWl9KLV9nUDNSN1hjY25PY1d6eDNvdFA1bVQtaTh5UURZUlNYeF9BaVRPcjJXNjRtNDZMUWVlZWNTVFdIM29LSXh",
-      "source_url": "https://news.mydrivers.com",
-      "source": "驱动之家"
-    },
-    {
-      "title": "女员工AI做报告被炒 告赢公司 复工还获赔4.6万",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54S290MGdSZlN6d1pFYmtvMWZid19td1ZWRHlDTmpPdlpwUUtnelczUXZWQUd4WVQxM0t0T3NCUFdJVW5lZi1YbS1",
-      "source_url": "https://www.wenxuecity.com",
-      "source": "文学城"
-    },
-    {
-      "title": "Meta 新增自定义空间，打造个性化 Muse 应用体验",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjJVUFhyNXpOQkRxTlZZdTNTdnFvMzlyMnBHb1YtZTdyNkJsVmVEaFJHNmFUbE9mSXBaUzhUYXcxd3NQRzE4LV9",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "BMO推出面向信用卡客户支持的智能体 AI 案件准备功能",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdHpvV1BJWm5wZXVEUk9PNkFkaUxmV1FuZXFHc1l5N0FtVThwbW80RGtELS0zRHhQeDUzdHF5NnZCUU5Ib2d4Z0o",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "Shannon McWilliams，Orca Security 全球分销负责人——访谈系列",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjFsZldnX19ERURlQ2o3aUJqRVNfdGRrc1FtaWxBNkJ2aHB4SWlnRzZOYWFmUTBNandLaW9PcnJTRW1YNXZ2TS1",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
     }
   ]
 }

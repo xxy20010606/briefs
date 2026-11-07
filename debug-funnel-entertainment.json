@@ -1,54 +1,46 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 47,
-    "trusted": 8,
+    "raw_dedup_junk": 36,
+    "trusted": 5,
     "non_trusted_top": {
-      "iheima.com": 11,
-      "sina.cn": 3,
-      "360.com": 3,
-      "rediandf.com": 3,
-      "voc.com.cn": 2,
-      "xmnn.cn": 2,
+      "iheima.com": 6,
+      "dianyingjie.com.cn": 5,
+      "sina.cn": 4,
+      "china.com": 3,
+      "360.com": 2,
       "vietnam.vn": 1,
-      "leidacj.com": 1,
-      "mezha.net": 1,
-      "chinadaily.com.cn": 1
+      "rediandf.com": 1,
+      "weibo.com": 1,
+      "creaders.net": 1,
+      "voc.com.cn": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 2,
-    "relaxed_72h": 6,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 5,
+    "page_fresh": 4,
+    "relaxed_72h": 1,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "从日剧里的镜头，到美国院线科幻长片：AI制片已走到哪一步？",
-      "d": "cls.cn"
+      "t": "刘德华替身杜奕衡新片《凶宅怪谈》上映数小时票房0元垫底，宋佳新片夺冠",
+      "d": "sohu.com"
+    },
+    {
+      "t": "音乐剧《风声》升级版迎来百场里程碑，以舞台艺术谱写时代史诗",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "2026年中国金鸡百花电影节在厦门开幕 黄晓明、赵丽颖点亮金鸡",
+      "d": "chinanews.com.cn"
     },
     {
       "t": "复刻声音商用，可识别性是侵权认定核心",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "陕西导演上街举牌求新电影“被看见”，上映首日全国各地影迷来支持，本人最新回应：对",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "一期更新150+热搜，《后会友期》是怎么爆的？",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "一场车祸，一张假发票，《谷雨》李小冉把女大佬演活了！",
-      "d": "163.com"
-    },
-    {
-      "t": "探讨当代亲密关系话剧《今宵酒·醒何处》首演",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "《流浪地球》编剧叶俊策：科幻影视正迎来发展的“窗口期”",
-      "d": "eastmoney.com"
+      "t": "从日剧里的镜头，到美国院线科幻长片：AI制片已走到哪一步？",
+      "d": "cls.cn"
     }
   ]
 }

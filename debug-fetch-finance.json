@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 22,
+  "total": 16,
   "samples": [
     {
-      "title": "南方财经全媒体集团",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaMHBtZEdBS2U1VXhtQ1JVa2FrSnowSGluWE9EQlVjX3F5RHRkMmFtVS1qZWE1cnFmU284ZGJZbzZMQXFVUXBCS2J",
-      "source_url": "https://www.sfccn.com",
-      "source": "南方财经"
+      "title": "国常会：完善资本市场稳市机制增强股市内在稳定性_证券要闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkNEJaR1FlelVkNUFNQjhWZThuX0dXN0ljYmJ4ekhwdzB2YWhROFVXc2RqZXVXMWdJU3dSQ1VhS0VaR1EzUE1VVzN",
+      "source_url": "http://news.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "南方财经全媒体集团 肖文旸 2026-11-06 23:40:34",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4cHdqbDE1eXN3S3JRei0yVmhfczlNcXlSTHktZWpFYzg2UjdNMlJpaXJ1MHBTa19JQVp0bWNjY0k4QWg1b0RVbU5",
-      "source_url": "https://www.sfccn.com",
-      "source": "南方财经"
+      "title": "AI股止跌回升 费半飙劲扬逾4%、道琼终场跌237点",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vRFhIbzlaZkZwSHljMFV1R1lOWTc5dUx4S1RfNWd1S0ZFaGt0WEVOOVNpOUw0RTVrWkVpVWVkQXVsOTcyczJza3h",
+      "source_url": "https://news.vocofm.com",
+      "source": "VOCO News"
     },
     {
-      "title": "【财经分析】德国法兰克福股市DAX创历史新高 短期利好驱动与经济深层隐忧并存",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16anA2blZwM0VkR3hPOVlqQkVJbmRkTXlCbnFqSWFjb2hMS3d2eHNraVc4enFpWHVVMXpRYTVacDR2Yk9DTHpnMDZ",
+      "title": "【环球财经】市场继续消化美选举结果潜在影响 纽约股市三大股指6日涨跌不一",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FSEw2Rlo5WG1CZ1k1cF9SaE1hUDBabEFtOUJxbUZ3ZkEyVUNpdGMyaVdXajZQcHhUczBmSDA3cUhoUzZWdzVRdTd",
       "source_url": "https://www.cnfin.com",
       "source": "中国金融信息网"
     },
     {
-      "title": "杨德龙：美国中期选举尘埃落定 全球股市迎来大涨",
-      "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxNdC1xSnZ4QzQ1VWdDcE5PLVlHWWZhejR2LXdEa1dfck9zUWlDbFFsX0hUWHI3TzJFTnFSZG1FSm13Tld2dWUxaEt",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经"
+      "title": "南方财经全媒体集团",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HR0hNb1dqSmphQ0EzdDhtS3pzWnEzLWNocWtLN09mdC1MMkw2bmEzQjlEcUMtbzRvcnl3TXBKZko4Q1pVVk10Ykd",
+      "source_url": "https://m.sfccn.com",
+      "source": "南方财经"
     },
     {
-      "title": "“预判你的预判”加剧科技股踩踏! 2.3万亿美元市值蒸发之后，“快钱”机械卖盘仍未退潮?_滚动新闻_",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zYTFVTi1iUzRsS0tmblNIX1lnNFRnR3JqZ25aMzZEbElqMWkwcWhid3Vfc290YWxRdzFINFZlTnJZel80V3FSZlZ",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
+      "title": "美联储如预期按兵不动 1/4成员投下反对票",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FTjRmWkxpaU85aVI1WWkwbU05OEFNMXk3eVZkVWVwY0QxQ01ST0tEWEtHWEpBMnNnY0ZZVE05V0F5clZOV2NlYw?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "已买入股票！中信、国泰海通、中金、银河、招商，正式官宣！",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMmN2WWFFa3RlWHNuQm8xM2xDa295ckR5Vm9Bd2NHS1JzVjZMZlFBNFBvNzU2N2prNURHXzZWdTNTQWFHY3BhX05",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
+      "title": "调查：逾八成经济学家预计美联储本周加息 明年3月底前有望再出手！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PRXFTMjJMVXpldlgzeFVJNXdiMVlrdGJENjdxXzhwQm1HdHFVd2poeEIyekN5a1NpQy1Xb0dFZnRDRjc3MWRrQQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }

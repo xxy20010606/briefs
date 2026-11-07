@@ -1,33 +1,32 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 25,
-    "trusted": 2,
+    "raw_dedup_junk": 10,
+    "trusted": 3,
     "non_trusted_top": {
-      "ne21.com": 12,
-      "autohome.com.cn": 4,
-      "stockstar.com": 1,
-      "fznews.com.cn": 1,
-      "notebookcheck-cn.com": 1,
-      "sina.cn": 1,
-      "ceic.com": 1,
-      "sina.com.cn": 1,
-      "yzwb.net": 1
+      "in-en.com": 3,
+      "sina.com.cn": 2,
+      "wedoany.com": 1,
+      "autohome.com.cn": 1
     },
-    "fresh1_24h": 1,
-    "page_fresh": 0,
-    "relaxed_72h": 2,
-    "final": 2,
+    "fresh1_24h": 2,
+    "page_fresh": 2,
+    "relaxed_72h": 1,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "河北沧州：织密新能源汽车充电服务网络",
+      "t": "比亚迪秦15款蓄燃气表现如何？",
+      "d": "autohome.com.cn"
+    },
+    {
+      "t": "毕诗方：以科技引领数智赋能 书写能源转型新答卷",
       "d": "xinhuanet.com"
     },
     {
-      "t": "车企自研电池真相：不造电芯，到底在争什么？",
-      "d": "ifeng.com"
+      "t": "三友联众：推进“53+”发展战略，重点关注新能源及算力电源等高附加值领域",
+      "d": "eastmoney.com"
     }
   ]
 }

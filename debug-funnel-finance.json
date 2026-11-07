@@ -1,29 +1,26 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 22,
-    "trusted": 6,
+    "raw_dedup_junk": 16,
+    "trusted": 7,
     "non_trusted_top": {
-      "stockstar.com": 3,
-      "sina.com.cn": 3,
-      "sfccn.com": 2,
-      "cnfin.com": 2,
+      "hk01.com": 2,
+      "sina.com.cn": 2,
+      "vocofm.com": 1,
+      "cnfin.com": 1,
+      "sfccn.com": 1,
       "sina.cn": 1,
-      "jrj.com.cn": 1,
-      "hk01.com": 1,
-      "smm.cn": 1,
-      "binance.com": 1,
-      "hkcna.hk": 1
+      "myzaker.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 0,
-    "relaxed_72h": 4,
-    "final": 4,
+    "fresh1_24h": 6,
+    "page_fresh": 1,
+    "relaxed_72h": 2,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "爱玛科技(603529.SH)拟推2026年限制性股票激励计划_车市动态",
+      "t": "国常会：完善资本市场稳市机制增强股市内在稳定性_证券要闻",
       "d": "cnfol.com"
     },
     {
@@ -31,12 +28,8 @@
       "d": "wallstreetcn.com"
     },
     {
-      "t": "进博财经眼丨德勤中国主席蒋颖：6天聚共识365天促落地从展会“流量”变成持续生长",
-      "d": "yicai.com"
-    },
-    {
-      "t": "ETF市场日报｜美股AI暴跌传导，三大指数集体大幅低开，红利低波与电力主题ETF",
-      "d": "jiemian.com"
+      "t": "美股科技股集体重挫，港股红利逆势活跃，资金倾向于涌入现金流稳定性资产",
+      "d": "21jingji.com"
     }
   ]
 }

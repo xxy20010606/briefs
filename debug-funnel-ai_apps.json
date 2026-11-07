@@ -1,30 +1,25 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 17,
+    "raw_dedup_junk": 18,
     "trusted": 1,
     "non_trusted_top": {
-      "unite.ai": 4,
-      "quasa.io": 2,
-      "mydrivers.com": 1,
+      "quasa.io": 5,
+      "epochtimes.com": 1,
+      "wedoany.com": 1,
+      "sina.cn": 1,
       "wenxuecity.com": 1,
-      "myzaker.com": 1,
-      "yzwb.net": 1,
+      "unite.ai": 1,
       "sh.gov.cn": 1,
       "xiaguangshe.com": 1,
       "ac.cn": 1,
-      "leikeji.com": 1
+      "china.com": 1
     },
-    "fresh1_24h": 0,
+    "fresh1_24h": 1,
     "page_fresh": 0,
-    "relaxed_72h": 1,
-    "final": 1,
+    "relaxed_72h": 0,
+    "final": 0,
     "cap": "不限同域"
   },
-  "final": [
-    {
-      "t": "三七互娱拿下琶洲算法大赛超级龙虾挑战赛多个奖项，持续深耕AI产业落地",
-      "d": "10jqka.com.cn"
-    }
-  ]
+  "final": []
 }

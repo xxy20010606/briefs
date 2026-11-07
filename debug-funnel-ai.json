@@ -1,54 +1,50 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 41,
-    "trusted": 12,
+    "raw_dedup_junk": 34,
+    "trusted": 9,
     "non_trusted_top": {
       "sina.com.cn": 5,
       "stockstar.com": 4,
-      "techwalker.com": 4,
-      "jfdaily.com": 3,
-      "yzwb.net": 2,
+      "donews.com": 2,
+      "ac.cn": 1,
+      "cyzone.cn": 1,
+      "chinadaily.com.cn": 1,
+      "cbndata.com": 1,
+      "csdn.net": 1,
       "jschina.com.cn": 1,
-      "dzwww.com": 1,
-      "qdxin.cn": 1,
-      "zaochenbao.com": 1,
-      "hangzhou.com.cn": 1
+      "dzwww.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 1,
-    "relaxed_72h": 10,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 8,
+    "page_fresh": 5,
+    "relaxed_72h": 1,
+    "final": 6,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "AI编程工具Amp推出Spaces：你的AI项目经理上线，自主编排/协调Agen",
+      "t": "德适科技携手邕江实验室，推动中国医疗影像大模型落地东盟、普惠出海",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "进博会观察｜硬件公司集体讲起了智能体AI新故事",
       "d": "ifeng.com"
     },
     {
-      "t": "成就每一座Token工厂，神州数码多项创新成果亮相2026移动网络大会",
-      "d": "10jqka.com.cn"
+      "t": "人工智能已经这么聪明了，为什么工资还没涨？",
+      "d": "ifeng.com"
     },
     {
-      "t": "全球企业AI支出达1768亿美元，三年翻了100倍！三巨头占据近七成美国市场，美",
-      "d": "nbd.com.cn"
+      "t": "“晋问AI”上线：一问三晋，书香作答",
+      "d": "people.com.cn"
     },
     {
-      "t": "专访万联易达集团商贸平台副总经理周家宇：数字化越薄弱的行业，AI时代取得跨越式发",
-      "d": "nbd.com.cn"
+      "t": "办公提效之后，企业级 Agent 开始对经营结果负责",
+      "d": "geekpark.net"
     },
     {
-      "t": "成就每一座Token工厂！神州数码在移动网络大会发布多项创新成果",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "2026年世界互联网大会乌镇峰会热点聚焦",
-      "d": "cyol.com"
-    },
-    {
-      "t": "外媒：乌镇峰会聚焦人工智能开源开放",
-      "d": "cyol.com"
+      "t": "全球热议“北美科技企业可于中国建设AI数据中心”，影响几何？",
+      "d": "21jingji.com"
     }
   ]
 }
