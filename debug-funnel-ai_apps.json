@@ -1,26 +1,29 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 15,
-    "trusted": 1,
+    "raw_dedup_junk": 12,
+    "trusted": 3,
     "non_trusted_top": {
-      "quasa.io": 5,
-      "pasqualepillitteri.it": 3,
-      "sina.cn": 2,
-      "sina.com.cn": 2,
-      "myzaker.com": 1,
-      "c114.net.cn": 1
+      "quasa.io": 4,
+      "pasqualepillitteri.it": 2,
+      "ebiotrade.com": 1,
+      "vietnam.vn": 1,
+      "sina.com.cn": 1
     },
-    "fresh1_24h": 0,
-    "page_fresh": 0,
-    "relaxed_72h": 1,
-    "final": 1,
+    "fresh1_24h": 3,
+    "page_fresh": 2,
+    "relaxed_72h": 0,
+    "final": 2,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "传智教育：注重培养学员驾驭AI工具、完成业务闭环的复合型能力",
-      "d": "eastmoney.com"
+      "t": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon 北京",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "创业者做 Personal Agent，有没有一线生机？",
+      "d": "geekpark.net"
     }
   ]
 }

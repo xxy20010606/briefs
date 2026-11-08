@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 22,
+  "total": 25,
   "samples": [
     {
-      "title": "复杂系统功能建模方法——GTST-MLD与MFM的比较综述及AI增强的PHM与LLM辅助前景",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qWmkwZUsxSm1xQlNQZE53QXNkTlZKR2FqcjlzSXRlVFJZaldYaUF0SzN1X3ZtenRydG5NNEpQYVpWUEpha0RCYS1",
-      "source_url": "https://www.ebiotrade.com",
-      "source": "生物通"
-    },
-    {
-      "title": "通信也是人工智能的基础",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11N05HUFluZUpLVUwtT3dTbzhLV19ISU5iZEVydEM0dV9UUVJmTzFWRzVkNnpUSkxGUnFSNDVVNldSeUNIM21NT0V",
-      "source_url": "https://user.guancha.cn",
-      "source": "风闻"
-    },
-    {
-      "title": "热搜里的AI真相：降速、Agent与偏见治理",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fdWJ4Tm9nR2xRUTlWS1hPWkxtcVpFLUdEZGlOUGU0MGhObk1SUG8tUTh3anhZcU5hX0pZTlZqdFFvZkNralB6Skt",
-      "source_url": "https://www.csdn.net",
-      "source": "CSDN"
-    },
-    {
-      "title": "多家省属企业亮相2026人工智能产业大会",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1udkJhaEF4c0otYnhReVNzcFNZVDNnYWJmVUpWcUtyUHktdHJlMTVJOEtuYTg4QU5vblZ4OER4SzJtTXR5dE5xYk1",
+      "title": "中国移动发布算网数智全栈创新成果",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdnRVVWVySWE2VWxpM28yNzVYNmxXUy1BOXlWU1dmMEE1OHQxeHl6R3lwWmxYM3FXSkdJY2JsRU9JUXBYTHhLSFU",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "掘金生成式视频算力赛道，凌川科技打造多模态大模型国产算力底座",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KbHBsbUxCRzR3bG9VTG9tQXhHWjNsdlVITjJTVktvQnRZbFpBcnZMTE9vVk90c1VjdUhJZkhjNUZiUU1xU0c3eFo",
-      "source_url": "https://www.cnr.cn",
-      "source": "央广网"
+      "title": "前排围观！MEET2027报名通道已开启，首批重磅嘉宾已就位",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oSEp0X1Y0Q3BreVB5aWJHdHBfOVFOUFVCeGxiTGF2Y1NOQjZPZFJTRjRTQjZfTlNQX2QxN2lEZWlscFhhQjlfVQ?",
+      "source_url": "https://hub.baai.ac.cn",
+      "source": "智源社区"
     },
     {
-      "title": "江天骄：AI“越界”？国际社会探索设立“护栏”",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QYnhHNFh2S2dXcG82Z0JCdVRwRXBqeFFxU3hvSWVmN1RLbUdtWUxpVzhSbERDMDFkcUhKazRvbnpmbGZnNHlCOW5",
-      "source_url": "https://fddi.fudan.edu.cn",
-      "source": "复旦发展研究院"
+      "title": "第二十六届中国虚拟现实大会在广州开幕",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcUE4U2RpYnRuUnB3c1ZQeks2ZHlicE0xMnVpb3N2SWhfNWk1c0tSTGQydTE5X0puM29oXzhJOUFkZWFRTWJiSEZ",
+      "source_url": "https://huacheng.gz-cmc.com",
+      "source": "广州日报新花城"
+    },
+    {
+      "title": "大模型的记忆死结：为什么 AI 记得住人类全部知识，却永远记不住“昨天”？",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mOXBvZWcyYmFXVUtTazkycFlXU2JpSngtY2RZVjE2VGgwdnFqSEFja3ZheE4yZEdGN0dubDhlWXEwSE1zZlRUaS1",
+      "source_url": "https://www.techflowpost.com",
+      "source": "深潮TechFlow"
+    },
+    {
+      "title": "AI自我推荐再学习导致热门商品偏向与错误重复",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mRldRbUJ4VU1wQUxGQWFuZG5za2tFdGVuYnVzdWhpcmdQc2pERGU2YWdyWWlnYnVweXJiRDNiUC1SalZzVG5iR0k",
+      "source_url": "https://www.ajudaily.com",
+      "source": "亚洲日报"
+    },
+    {
+      "title": "科大讯飞AI竞争的下半场，从榜单到账单",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5faWxEZVo5dU5zX0ZUUDg0QjlTalpvNnhkM1lXMVg0cDNBY3lvZ3FaV2x4eGc5NWpBc3plVE5iNTZDdXdTZTJBbzN",
+      "source_url": "https://www.ichaoqi.com",
+      "source": "潮起网"
     }
   ]
 }

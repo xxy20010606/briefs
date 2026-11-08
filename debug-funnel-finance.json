@@ -1,29 +1,51 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 14,
-    "trusted": 5,
+    "raw_dedup_junk": 18,
+    "trusted": 9,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "moomoo.com": 2,
-      "stockstar.com": 1,
-      "yeeyi.com": 1,
-      "jrj.com.cn": 1
+      "jrj.com.cn": 2,
+      "sina.com.cn": 2,
+      "sina.cn": 1,
+      "bitcoin.com": 1,
+      "china.com": 1,
+      "blockweeks.com": 1,
+      "moomoo.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 1,
-    "relaxed_72h": 1,
-    "final": 2,
-    "cap": "不限同域"
+    "fresh1_24h": 9,
+    "page_fresh": 7,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "A股：又有消息来临，明天，股市会下跌还是启动大涨？",
+      "t": "周末要闻汇总：国常会要求完善资本市场稳市机制 增强股市内在稳定性",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "AI“神话”褪色，全球资本看好中印股市",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "美股科技股，比大盘还便宜了",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "外资投行密集发声 积极看多A股市场 高度关注中国AI产业链",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "伯克希尔哈撒韦公司：第三季度营业利润为127.1亿美元第三季度回购了96亿美元股",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "A股：注意两大变化，明后两天，股市或要有变盘！",
       "d": "163.com"
     },
     {
-      "t": "当前市场更像1998年！高盛：这次没有美联储降息兜底",
-      "d": "ifeng.com"
+      "t": "A股：又有消息来临，明天，股市会下跌还是启动大涨？",
+      "d": "163.com"
     }
   ]
 }

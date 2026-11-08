@@ -1,33 +1,40 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 23,
-    "trusted": 3,
+    "raw_dedup_junk": 19,
+    "trusted": 5,
     "non_trusted_top": {
-      "autohome.com.cn": 13,
-      "sina.com.cn": 3,
-      "in-en.com": 2,
+      "autohome.com.cn": 4,
+      "indexbox.io": 3,
+      "sina.com.cn": 2,
+      "scol.com.cn": 1,
+      "qhnews.com": 1,
       "sina.cn": 1,
-      "indexbox.io": 1
+      "idnfinancials.com": 1,
+      "eastmoney.com": 1
     },
-    "fresh1_24h": 2,
-    "page_fresh": 1,
-    "relaxed_72h": 2,
-    "final": 3,
+    "fresh1_24h": 5,
+    "page_fresh": 4,
+    "relaxed_72h": 0,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
+    {
+      "t": "中国煤电发电量占比首次低于50%，能源转型进入系统调整阶段",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "推动民营经济向新向优向好发展丨政策“组合拳”精准滴灌民营经济茁壮成长",
+      "d": "ifeng.com"
+    },
     {
       "t": "煤海向绿 “风光”逐新",
       "d": "people.com.cn"
     },
     {
-      "t": "三友联众：推进“53+”发展战略，重点关注新能源及算力电源等高附加值领域",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "毕诗方：以科技引领数智赋能 书写能源转型新答卷",
-      "d": "sohu.com"
+      "t": "全国多地可再生能源转型步伐按下“加速键” 形成绿色增长“新引擎”",
+      "d": "21jingji.com"
     }
   ]
 }

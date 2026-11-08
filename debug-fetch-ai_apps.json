@@ -1,12 +1,24 @@
 {
   "type": "ai_apps",
-  "total": 15,
+  "total": 12,
   "samples": [
     {
-      "title": "PetOS – AI 宠物护理应用、个性化指导与共享健康记录",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFpnVVhwOU9hMUVEcW0tbDVublJKTmRnR0c4b2VHLTd6NXlwQ212bDF1dWY4YVdTOUQwbWJ3TkFsTGdHLVhjOEN",
+      "title": "DoMore 评测：你的个性化 AI 工具目录",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnI4SHB5S05TakNZUjhsREYxRlpVZ1BkdkluTGpLQ2NwQm50VExCUHZQYzFWMTFzd0JWM2lrMUJ3TEJYNkZKNm4",
       "source_url": "https://quasa.io",
       "source": "quasa.io"
+    },
+    {
+      "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon 北京",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3ME5uTzNIelY0MVlQM2dLSUZZRkg2SmFaX1dYRmxXQUlEdEZBX191NDA5aWNoY0RQcnpZamdCZERYblJsRy1YWnV",
+      "source_url": "https://www.infoq.cn",
+      "source": "InfoQ.cn"
+    },
+    {
+      "title": "波兰医疗保健专业人员对 AI-精益协同指数的构建与评估：协同效应、意愿差距及实施障碍",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZWGt4YlJDQTBCN1BlOXhYOVM5OXNRRW9zbFpQQkxwaHBscVJLb1pjR1ZaaGp3enpMMWFJckpDQVM4MFlLbW14Qjd",
+      "source_url": "https://www.ebiotrade.com",
+      "source": "生物通"
     },
     {
       "title": "Drafted – AI 家居设计工具、可编辑平面图与外观渲染",
@@ -21,20 +33,8 @@
       "source": "quasa.io"
     },
     {
-      "title": "Mindtrip – AI 旅行助手、个性化行程与互动地图",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmtJSUZDX1VhVFJQLTF4UjA5aVJTTDhnSVdodFYtbFFWZGJ1M1loOFNRSXY5aXd4SXJmNmd5X01nWV9semlnaFh",
-      "source_url": "https://quasa.io",
-      "source": "quasa.io"
-    },
-    {
-      "title": "VIDIO – AI 视频编辑平台、自动剪辑与背景移除",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYU43NG9DY2IzYnlsTDJvQUUyZUJLRXNFemdDTDN2dDRBbXc2S2FUZzZXQUxqXzJKZzRDQzIwMVdsT2JUUnBiSGJ",
-      "source_url": "https://quasa.io",
-      "source": "quasa.io"
-    },
-    {
-      "title": "iFLYTEK Spark M50 发布，可批改手写作业的机器来了",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFAtMGFBOGFyY0pWT19nQzN1U0hndUhZWHVjZ2dEVkw5aWgxUHAtMEpaRlpqdVNJSDJEZUVCeGFvLTFNLUhLeGF",
+      "title": "GLM 5.1是什么？智谱Z.ai开放权重AI模型与收费",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeUoyYlQwNkJ2cl9yNlRjQWJVdnBzZkhlVXppNW9uTWJNQ3M2d1YzellrUUZBSWNEUzhPTlpkblgxRWljUjBpU25",
       "source_url": "https://pasqualepillitteri.it",
       "source": "Pasquale Pillitteri"
     }

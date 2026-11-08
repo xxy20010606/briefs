@@ -1,7 +1,31 @@
 {
   "type": "newenergy",
-  "total": 23,
+  "total": 19,
   "samples": [
+    {
+      "title": "投资10亿项目将落地阿拉山口，四川西向开放再添新枢纽",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zeVpVQmU0ODhtNXVOUWgtX2l6ZkxYNXpfOUhUbFk0NzRlMEJMaWxxXzMyZ0g2dmpuZWVCblI5M2k2ZmZSSUR2NWR",
+      "source_url": "https://sichuan.scol.com.cn",
+      "source": "四川新闻"
+    },
+    {
+      "title": "中国煤电发电量占比首次低于50%，能源转型进入系统调整阶段",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3RXJwN2FhV21ibUdQR1FBUHJGYm5QR1NpQnJnVlU2TFU4WmdGeFlDdWtFRjUyclpfaUxkSVBWNXVNY2l6bnI5eWV",
+      "source_url": "https://www.bjnews.com.cn",
+      "source": "新京报"
+    },
+    {
+      "title": "推动民营经济向新向优向好发展丨政策“组合拳”精准滴灌民营经济茁壮成长",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hWm5pMnUzbk96UUZoM0ZwWWFSZGQ1cS00YTRNN3p4cEttNW1JUnQ5NFJBOXR4SENjRkxBSlVXYUZMVG5zUXo4cXV",
+      "source_url": "https://finance.ifeng.com",
+      "source": "凤凰网财经"
+    },
+    {
+      "title": "弘柳储能电站为青海清洁能源发展注入新动能",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LNUpYaDlrY2tVZTdfaXlHXzFqTFhVaDd3LWFRcjlyMXRLdU1lcEw4VnFpRVV3cEZQdUQ4TGQ4WjBEdWFONDJ3enZ",
+      "source_url": "http://www.qhnews.com",
+      "source": "青海新闻网"
+    },
     {
       "title": "煤海向绿 “风光”逐新",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YOXlDMFNYVlNqYWNrMEtDbnVFZnlyRjFMYUNVQlo5UFdXSG1rWHJZNkI1TE1qbmFWMElZc0F0UlNQMlgxY3kzR0F",
@@ -9,34 +33,10 @@
       "source": "人民日报"
     },
     {
-      "title": "倪真：与加拿大“国家电气化战略”对接，重点在清洁能源技术联合研发、新能源与储能项目建设等领域",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pNy02ZEpqdVZyQXJTdlo3cjh1c2o2eW9XWXJsVk0tNW5mVWtIbGhYTFlSUkRWNUdGT3p3SzBRZWNFcnc4dXFpTHN",
-      "source_url": "https://newenergy.in-en.com",
-      "source": "国际新能源网"
-    },
-    {
-      "title": "三友联众：推进“53+”发展战略，重点关注新能源及算力电源等高附加值领域",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjSm5YWUJLV0lKeTB1bVRTM19VejQ2elZSMERHbmU0MjRXU1JHQzlQZlM2OUxsa04yR0VMMF9DT0s5MnFKdEhMVWF",
-      "source_url": "https://wap.eastmoney.com",
-      "source": "东方财富"
-    },
-    {
-      "title": "2027年马来西亚充电桩展EMA 2027",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pdjRNOXdKNlE0Q0ZvbXBfc1ZoeHllTEgwTHVNQ1psWkkzUTRhWnVzU3AwcEdaYkJkR0tsd0tmdVkySThuR2tqY2d",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "比亚迪重磅进军摩电市场，汽车级电池技术正式下放",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLM3N0dWZWVTdMbk1KTFo5REExNDM0WmkwSzZUOE51TzBRc2FEYmZCRFhZZ3Y1LUljX1JoMWFuTFZiTGdQb3JtUml",
-      "source_url": "https://chejiahao.m.autohome.com.cn",
-      "source": "汽车之家"
-    },
-    {
-      "title": "15到20万车展看比亚迪秦PLUS，油车还是电车？3个维度说透+FAQ",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JTUhPYW5GTjFTOVN3RzRrX0JCVll6TlIzS3ktbmZJQ0FfUjFiemFpQUVmTWVEU3RNOWRhMTBITkdYQWR5V1RIZm1",
-      "source_url": "https://www.sina.cn",
-      "source": "新浪网"
+      "title": "新型电力系统三大指数，看看哪只是你想要的？",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14QVdWTVFhckgwZHhPTEVCVnJrcHd2dWdjR05BR2xxTEMyejRlTklLTG5MOVluTjFyXzF6SnpMSUlydllqNTVDag?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }

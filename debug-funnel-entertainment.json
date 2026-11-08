@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 38,
-    "trusted": 9,
+    "raw_dedup_junk": 35,
+    "trusted": 11,
     "non_trusted_top": {
-      "dianyingjie.com.cn": 5,
-      "rediandf.com": 3,
+      "dianyingjie.com.cn": 3,
       "fjsen.com": 3,
       "china.com": 2,
-      "bjd.com.cn": 2,
-      "xmnn.cn": 2,
-      "jfdaily.com.cn": 1,
-      "hk01.com": 1,
-      "com.sg": 1,
-      "sina.com.cn": 1
+      "southcn.com": 2,
+      "pedaily.cn": 1,
+      "shangbaoindonesia.com": 1,
+      "sina.cn": 1,
+      "xinmin.cn": 1,
+      "sina.com.cn": 1,
+      "cjn.cn": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 3,
-    "relaxed_72h": 6,
+    "fresh1_24h": 11,
+    "page_fresh": 10,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "为了拯救快要暴死的冷门电影，网友靠整活和反串换来了1000万票房？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "破局升维，在厦门看见华语新电影——第八届金鸡电影创投大会主单元开启终极路演",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "《后会友期》中许飞与厉娜重逢，带动“画地为牢”成为网络热词",
-      "d": "huxiu.com"
-    },
-    {
-      "t": "导演街头举牌求“被看见”，影片终于上映，但2天票房仅6万多",
-      "d": "sohu.com"
-    },
-    {
       "t": "重大革命题材电视剧《伟大的长征》创作座谈会在京召开",
-      "d": "thepaper.cn"
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "“草台班子”如何做出爆款短剧？独家专访《持械入宋》总策划：拒绝AI脸！从主角到群",
-      "d": "yicai.com"
+      "t": "扎根现实沃土，光影自有力量",
+      "d": "sohu.com"
+    },
+    {
+      "t": "上芭舞剧《梁山伯与祝英台》亮相美国弗吉尼亚州",
+      "d": "chinanews.com.cn"
     },
     {
       "t": "赵丽颖穿24万7阿玛尼上衣，用149元水杯，坐评委席打哈欠被偷拍",
       "d": "163.com"
+    },
+    {
+      "t": "张艺谋：AI短视频倒给钱，谁还进电影院？压力很大，不知道怎么办",
+      "d": "guancha.cn"
+    },
+    {
+      "t": "大理漾濞阿尼么村入选全国首批文艺赋美乡村典型案例",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "擦亮“厦门出品”金字招牌 2026年金鸡电影市场推介会·厦门专场举办",
+      "d": "cnr.cn"
     }
   ]
 }
