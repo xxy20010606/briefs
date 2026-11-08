@@ -1,54 +1,40 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 22,
-    "trusted": 11,
+    "raw_dedup_junk": 13,
+    "trusted": 7,
     "non_trusted_top": {
-      "pedaily.cn": 1,
+      "sina.com.cn": 3,
       "vietnam.vn": 1,
-      "jrj.com.cn": 1,
       "mydrivers.com": 1,
-      "itdcw.com": 1,
-      "epochtimes.com": 1,
-      "c114.net.cn": 1,
-      "dahecube.com": 1,
-      "investing.com": 1,
-      "chosun.com": 1
+      "iqilu.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 6,
-    "relaxed_72h": 3,
-    "final": 7,
-    "cap": "同域≤2条"
+    "fresh1_24h": 5,
+    "page_fresh": 3,
+    "relaxed_72h": 2,
+    "final": 5,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "当芯片抢着上太空，半导体下一轮增量有了？",
-      "d": "qq.com"
-    },
-    {
-      "t": "美股半导体、芯片股，全线大涨",
-      "d": "sohu.com"
-    },
-    {
-      "t": "英伟达寻求破解存储瓶颈 台积电据悉考虑布局3D DRAM",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "长鑫科技新设投资平台 揭秘半导体龙头产业投资版图",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "国产化率 21%，光刻只有 1%：一份2026年报告解读 40 余家国产厂商的晶",
+      "t": "基于新型声透镜的超声换能器，可清晰检测芯片缺陷",
       "d": "eet-china.com"
     },
     {
-      "t": "苏大维格(300331.SZ)：在先进封装检测领域的布局尚未实现量产收入_股市直",
+      "t": "天域半导体战略入股东尼电子，有何用意？",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "光电集成｜指甲盖大小的芯片，是如何一步步造出来的？",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "长鑫科技新设投资平台 揭秘半导体龙头产业投资版图",
       "d": "cnfol.com"
     },
     {
-      "t": "历史上的“芯片股大跌”之后，发生了什么？",
-      "d": "wallstreetcn.com"
+      "t": "美股三大指数集体重挫：纳指跌超5%，半导体、存储芯片股领跌",
+      "d": "eastmoney.com"
     }
   ]
 }

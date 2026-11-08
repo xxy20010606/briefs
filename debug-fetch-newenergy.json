@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 10,
+  "total": 23,
   "samples": [
     {
-      "title": "波兰WBS Power获4800万兹罗提融资建设两座光储项目",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lMVpqQ2F4MGI0R3o3ellFQTZJazNuMklOa3N4aW12LW4zdDJ3X0lEd0twaS0tSndxZ3JLUjEzcmlYZFBBUmlFblF",
-      "source_url": "https://www.wedoany.com",
-      "source": "维度网"
+      "title": "煤海向绿 “风光”逐新",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YOXlDMFNYVlNqYWNrMEtDbnVFZnlyRjFMYUNVQlo5UFdXSG1rWHJZNkI1TE1qbmFWMElZc0F0UlNQMlgxY3kzR0F",
+      "source_url": "http://paper.people.com.cn",
+      "source": "人民日报"
     },
     {
-      "title": "鼓励风电、光伏项目配建新型储能！四川新型储能项目建设三年行动方案印发",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14WnpZREU4dW9VLUhrRXdaY1R4QlIxTHJKdmFIRFk1UXV6NmJiTU5XWGlzM05QUVRQMXFsQXlUbUZ6WGZsbW11Nld",
-      "source_url": "https://msolar.in-en.com",
-      "source": "国际太阳能光伏网"
+      "title": "倪真：与加拿大“国家电气化战略”对接，重点在清洁能源技术联合研发、新能源与储能项目建设等领域",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pNy02ZEpqdVZyQXJTdlo3cjh1c2o2eW9XWXJsVk0tNW5mVWtIbGhYTFlSUkRWNUdGT3p3SzBRZWNFcnc4dXFpTHN",
+      "source_url": "https://newenergy.in-en.com",
+      "source": "国际新能源网"
     },
     {
-      "title": "湖南“十五五”可再生能源规划：风电新增超8.83GW、光伏新增超9.26GW！",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IbTZUckM2UmhwdXJoWWhOdmlMZlNlSm9LTDZTX2lzUTlYOG40MHhrMC0zWFVwLWtNSlM5X3U3T3IxLUpWZnV2VTJ",
-      "source_url": "https://mwind.in-en.com",
-      "source": "国际风电网"
+      "title": "三友联众：推进“53+”发展战略，重点关注新能源及算力电源等高附加值领域",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjSm5YWUJLV0lKeTB1bVRTM19VejQ2elZSMERHbmU0MjRXU1JHQzlQZlM2OUxsa04yR0VMMF9DT0s5MnFKdEhMVWF",
+      "source_url": "https://wap.eastmoney.com",
+      "source": "东方财富"
     },
     {
-      "title": "光伏、储能培训班 | 光储协同运营管理高级研修班开始报名啦！",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOWdTcDZrcE9aMGh4RURGMDQ4U3p2VlVoQ1k4ZUdzYnNPZmFnaVd5aGtYaVBtWklsaWIybzZZSUxEWGF5N3k2SU9",
+      "title": "2027年马来西亚充电桩展EMA 2027",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pdjRNOXdKNlE0Q0ZvbXBfc1ZoeHllTEgwTHVNQ1psWkkzUTRhWnVzU3AwcEdaYkJkR0tsd0tmdVkySThuR2tqY2d",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "三友联众：推进“53+”发展战略，重点关注新能源及算力电源等高附加值领域",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VanI1Z0JTS0R1VFRZVmtqTkJaLXRFenExMlNoQXdVcG5HZUhiODhZdDd2bmhfZnpDOXV0M2s3R1VlQlh0UGNCWFJ",
-      "source_url": "https://finance.eastmoney.com",
-      "source": "东方财富"
+      "title": "比亚迪重磅进军摩电市场，汽车级电池技术正式下放",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLM3N0dWZWVTdMbk1KTFo5REExNDM0WmkwSzZUOE51TzBRc2FEYmZCRFhZZ3Y1LUljX1JoMWFuTFZiTGdQb3JtUml",
+      "source_url": "https://chejiahao.m.autohome.com.cn",
+      "source": "汽车之家"
     },
     {
-      "title": "比亚迪秦15款蓄燃气表现如何？",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWdnZ4Y2thR3RsYUllSHMyeHMxcjF5WW4zNzVNSFNjaWU1YThUMzlMeU5aSndCeGEydXZ6cmpWQUphRkIzejUwemR",
-      "source_url": "https://www.autohome.com.cn",
-      "source": "汽车之家"
+      "title": "15到20万车展看比亚迪秦PLUS，油车还是电车？3个维度说透+FAQ",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JTUhPYW5GTjFTOVN3RzRrX0JCVll6TlIzS3ktbmZJQ0FfUjFiemFpQUVmTWVEU3RNOWRhMTBITkdYQWR5V1RIZm1",
+      "source_url": "https://www.sina.cn",
+      "source": "新浪网"
     }
   ]
 }

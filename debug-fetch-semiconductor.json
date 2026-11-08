@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 22,
+  "total": 13,
   "samples": [
     {
-      "title": "狂欢的AI，把手机芯片厂拖入寒冬",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RREt4MG9vSUlfTjk5ZG9jX1BCNmcyUHNxcndhYV92SzJnREVLQk12Z0YxbGNfbnJSeEEzNGV4OFBINkhJMGE4Vzl",
-      "source_url": "https://news.pedaily.cn",
-      "source": "投资界"
+      "title": "基于新型声透镜的超声换能器，可清晰检测芯片缺陷",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81enNsLVppaG5Sc3RFUmZWOFd3NjR4X00yS1NQVm81dTR0Q2ZCRWVSQlBJdVRJeHhwVll0Um5NWVNUMlhfUnJ0czd",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "培训半导体行业人才，使其掌握该技术。",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BVHRvVTcyX2hPNzJsVUxIdXhDX3h4eUFqSnFKUVZSUmdrN2VRX2k2Y3FMQmROZlhVbVNXX2JFMmFDRWp5b1FuUjN",
+      "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tZmJ1Z3AtaGlHMG1MVDU3bEUwVTVxbmQ0SGYzQU9XUGdyek5NcjVhMWtpek9XLXFSdjdqWVlqYS0wTzZnOExfTg?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "对于越南来说，这是一个摆脱在全球半导体供应链中作为分包商角色的绝佳机会。",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWnJSSFdZYXZfa0NPVHlZRHptZ3d6azFGNzNIYnhrMTNMVkt3S3pEd29lUGFBeXdYbzZVYi1hRjRNX3ZDT2R2QWN",
       "source_url": "https://www.vietnam.vn",
       "source": "Vietnam.vn"
     },
     {
-      "title": "光模块退潮，先进封装能否扛起科技反弹大旗？",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VREJjbnQ0SDlNbU1oV2VuSE80RXZUT1NnMjRTNW44UWZmZHdYSHFLaGNGUFJLNXQwUGtZWGZNdkFrLWxSQ1VKR2x",
-      "source_url": "https://m.jrj.com.cn",
-      "source": "金融界"
+      "title": "朱一明，投了梁文锋",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLNGV5VHNZMUcwcGVURWU3Mk5XNkxlSGZmM0FWV1BHWGVrQTJSQ2w1Rndab2ZLM0p5TFpGUzktZURxSDBWMkMzQjZ",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "当芯片抢着上太空，半导体下一轮增量有了？",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50TWVfNEtobS1Sc0F5LXpJUXpfeHpPUFZjLTlpWk10LXhsZ083b2tTb2tKVk1oajc1NmRYUXpYQ21lM2tUM0dhRHl",
-      "source_url": "https://news.qq.com",
-      "source": "腾讯新闻"
+      "title": "天域半导体战略入股东尼电子，有何用意？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oazM3djN2ckk5ZDRBTGJ0b0dyMUVlQU42d3ptdUc5U2I2dUh6R3VHWGx0MXV2U0JvSTl0Z0FDOWlMYTMtbVhZYkF",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "钻石长到20厘米！美企造出单晶金刚石瞄准芯片散热",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MZlJ1aVc2andsazd1ejVPdkV1RXBFMzYwc09zQVB6LTF6T2Nvc3BMbTJNODQ4bkQ2dWVSRnY4Y08xTE9RTF9oVUg",
-      "source_url": "https://news.mydrivers.com",
-      "source": "驱动之家"
-    },
-    {
-      "title": "主投硅光芯片等领域 孛璞半导体完成数亿元B轮融资",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fYlR1RE1OdkNYZVR1Uk1sbU91dlBtQkpqUkNWbnlyUW5KT3RyOHhfSGtURFhvWHJ3TERGaFZ6T3hrZXZmUzdiUWN",
-      "source_url": "https://www.itdcw.com",
-      "source": "https://www.itdcw.com/"
+      "title": "光电集成｜指甲盖大小的芯片，是如何一步步造出来的？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QbnlIZUk2NUYwY0RMZUlqODI3aGxwTFRLblNBYU9rTXdXdm05ZGJVaUp3ZUZNWDE1T0FGM3BEd010MnhTZjBvakE",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     }
   ]
 }

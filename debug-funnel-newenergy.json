@@ -1,32 +1,33 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 10,
+    "raw_dedup_junk": 23,
     "trusted": 3,
     "non_trusted_top": {
-      "in-en.com": 3,
-      "sina.com.cn": 2,
-      "wedoany.com": 1,
-      "autohome.com.cn": 1
+      "autohome.com.cn": 13,
+      "sina.com.cn": 3,
+      "in-en.com": 2,
+      "sina.cn": 1,
+      "indexbox.io": 1
     },
     "fresh1_24h": 2,
-    "page_fresh": 2,
-    "relaxed_72h": 1,
+    "page_fresh": 1,
+    "relaxed_72h": 2,
     "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "比亚迪秦15款蓄燃气表现如何？",
-      "d": "autohome.com.cn"
-    },
-    {
-      "t": "毕诗方：以科技引领数智赋能 书写能源转型新答卷",
-      "d": "xinhuanet.com"
+      "t": "煤海向绿 “风光”逐新",
+      "d": "people.com.cn"
     },
     {
       "t": "三友联众：推进“53+”发展战略，重点关注新能源及算力电源等高附加值领域",
       "d": "eastmoney.com"
+    },
+    {
+      "t": "毕诗方：以科技引领数智赋能 书写能源转型新答卷",
+      "d": "sohu.com"
     }
   ]
 }

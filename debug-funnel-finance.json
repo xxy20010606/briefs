@@ -1,35 +1,29 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 16,
-    "trusted": 7,
+    "raw_dedup_junk": 14,
+    "trusted": 5,
     "non_trusted_top": {
-      "hk01.com": 2,
-      "sina.com.cn": 2,
-      "vocofm.com": 1,
-      "cnfin.com": 1,
-      "sfccn.com": 1,
-      "sina.cn": 1,
-      "myzaker.com": 1
+      "sina.com.cn": 4,
+      "moomoo.com": 2,
+      "stockstar.com": 1,
+      "yeeyi.com": 1,
+      "jrj.com.cn": 1
     },
-    "fresh1_24h": 6,
+    "fresh1_24h": 5,
     "page_fresh": 1,
-    "relaxed_72h": 2,
-    "final": 3,
+    "relaxed_72h": 1,
+    "final": 2,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "国常会：完善资本市场稳市机制增强股市内在稳定性_证券要闻",
-      "d": "cnfol.com"
+      "t": "A股：又有消息来临，明天，股市会下跌还是启动大涨？",
+      "d": "163.com"
     },
     {
-      "t": "1998 VS 2000，高盛主管：AI抛售更像LTCM危机而非互联网泡沫，但关",
-      "d": "wallstreetcn.com"
-    },
-    {
-      "t": "美股科技股集体重挫，港股红利逆势活跃，资金倾向于涌入现金流稳定性资产",
-      "d": "21jingji.com"
+      "t": "当前市场更像1998年！高盛：这次没有美联储降息兜底",
+      "d": "ifeng.com"
     }
   ]
 }

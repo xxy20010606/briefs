@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 18,
+  "total": 15,
   "samples": [
     {
-      "title": "Jimdo 2026 评测：适合个体创业者和小企业的易用 AI 建站工具",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjZXQzBIZkhXRTdHQjNZUTZBVXhNSk5vZ2oyXzYtT1ZzQUx2dlJycHd2UFhDZ2F5Tk5tcVFzanFMOUZ4OVFCNVF",
+      "title": "PetOS – AI 宠物护理应用、个性化指导与共享健康记录",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFpnVVhwOU9hMUVEcW0tbDVublJKTmRnR0c4b2VHLTd6NXlwQ212bDF1dWY4YVdTOUQwbWJ3TkFsTGdHLVhjOEN",
       "source_url": "https://quasa.io",
       "source": "quasa.io"
     },
     {
-      "title": "LangChain 评测：构建 AI 智能体的终极框架",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSFpRSWxaLXotM3ExRk1ad3dYcldqX3I1emxRZ1lnWFV6NzByVXpnRU1rakdKU3lkRDFxZWttU1dCN0pGOXJTb0Y",
+      "title": "Drafted – AI 家居设计工具、可编辑平面图与外观渲染",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWVJmeUNZWTV4RGhCQVhZNlUyTHhXZEt6V0VUMTVnRHoyR29oQl80amlxVDJJTWVRcE9ITEFKN3czeEJmTW5nbGF",
       "source_url": "https://quasa.io",
       "source": "quasa.io"
     },
     {
-      "title": "Gradio：构建和分享 AI Web 应用的最简单方式",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ21PVjBLMzVrVUVYdG5KaGt0RzlLSllGU0Z0cW9tN2FQTF9kMG5BLVR4WjRTZnVsX0V3YW10Ry02QjNBMnZjblB",
+      "title": "Swerve – AI 小说应用、角色聊天与分支故事",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLXN2T1dIR1VhbGxKallXREZKaV9FdGY1RV8ydXRFZHVoR2Q2S3VadlZobnpydHBfd3hEczhmWWdONTJGY1NoS2k",
       "source_url": "https://quasa.io",
       "source": "quasa.io"
     },
     {
-      "title": "「引導式學習」工具惹議 學校禁AI恐罷用谷歌",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05XzZiR21qc0NRYzR6ZjF2RGtJMm91MWh2VXVIdlhIMllmWm93cy1sVHoxeXkzR0lzZC1kS184dC1tbTlYRUxFN0F",
-      "source_url": "https://www.epochtimes.com",
-      "source": "大紀元"
-    },
-    {
-      "title": "美国Cursor推出AI应用自动构建与部署功能",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HSHJtS2FxR0tsU0FWOVRIT2ZVTTM3WFBlcHZqZy1yYjlqbnJHTnpFdmt6clpkQTFCLTRaakw1eGZHVEotRWNPcWN",
-      "source_url": "https://www.wedoany.com",
-      "source": "维度网"
-    },
-    {
-      "title": "Hugging Face 评测：开放模型、数据集与 AI 应用",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXZJbmYxQ2VSNXJjbk5OVjF5eGp0a3ZScVZYc2drRk0yYTJoSjY3NnF4V1Brb0h6TkpNcVY5VjJHRG1DXzFYcHE",
+      "title": "Mindtrip – AI 旅行助手、个性化行程与互动地图",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmtJSUZDX1VhVFJQLTF4UjA5aVJTTDhnSVdodFYtbFFWZGJ1M1loOFNRSXY5aXd4SXJmNmd5X01nWV9semlnaFh",
       "source_url": "https://quasa.io",
       "source": "quasa.io"
+    },
+    {
+      "title": "VIDIO – AI 视频编辑平台、自动剪辑与背景移除",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYU43NG9DY2IzYnlsTDJvQUUyZUJLRXNFemdDTDN2dDRBbXc2S2FUZzZXQUxqXzJKZzRDQzIwMVdsT2JUUnBiSGJ",
+      "source_url": "https://quasa.io",
+      "source": "quasa.io"
+    },
+    {
+      "title": "iFLYTEK Spark M50 发布，可批改手写作业的机器来了",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFAtMGFBOGFyY0pWT19nQzN1U0hndUhZWHVjZ2dEVkw5aWgxUHAtMEpaRlpqdVNJSDJEZUVCeGFvLTFNLUhLeGF",
+      "source_url": "https://pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri"
     }
   ]
 }

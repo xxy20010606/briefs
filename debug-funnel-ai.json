@@ -1,50 +1,30 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 34,
-    "trusted": 9,
+    "raw_dedup_junk": 22,
+    "trusted": 3,
     "non_trusted_top": {
-      "sina.com.cn": 5,
-      "stockstar.com": 4,
-      "donews.com": 2,
-      "ac.cn": 1,
-      "cyzone.cn": 1,
-      "chinadaily.com.cn": 1,
-      "cbndata.com": 1,
+      "sina.com.cn": 3,
+      "pasqualepillitteri.it": 3,
+      "ebiotrade.com": 1,
       "csdn.net": 1,
-      "jschina.com.cn": 1,
-      "dzwww.com": 1
+      "fudan.edu.cn": 1,
+      "mrjjxw.com": 1,
+      "shobserver.cn": 1,
+      "eol.cn": 1,
+      "gz-cmc.com": 1,
+      "yzwb.net": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 5,
+    "fresh1_24h": 2,
+    "page_fresh": 0,
     "relaxed_72h": 1,
-    "final": 6,
+    "final": 1,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "德适科技携手邕江实验室，推动中国医疗影像大模型落地东盟、普惠出海",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "进博会观察｜硬件公司集体讲起了智能体AI新故事",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "人工智能已经这么聪明了，为什么工资还没涨？",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "“晋问AI”上线：一问三晋，书香作答",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "办公提效之后，企业级 Agent 开始对经营结果负责",
-      "d": "geekpark.net"
-    },
-    {
-      "t": "全球热议“北美科技企业可于中国建设AI数据中心”，影响几何？",
-      "d": "21jingji.com"
+      "t": "掘金生成式视频算力赛道，凌川科技打造多模态大模型国产算力底座",
+      "d": "cnr.cn"
     }
   ]
 }

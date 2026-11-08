@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 34,
+  "total": 22,
   "samples": [
     {
-      "title": "全球热议“北美科技企业可于中国建设AI数据中心”，影响几何？",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeC1sWktSd1pmckVoanhyUVNNVE9vTmFHZ1Y2NXYxYU5md2h6QWtlR1QyRHZFNm9OWVNmVm90S0lyNXJGZHlEX09",
-      "source_url": "https://m.21jingji.com",
-      "source": "21财经"
+      "title": "复杂系统功能建模方法——GTST-MLD与MFM的比较综述及AI增强的PHM与LLM辅助前景",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qWmkwZUsxSm1xQlNQZE53QXNkTlZKR2FqcjlzSXRlVFJZaldYaUF0SzN1X3ZtenRydG5NNEpQYVpWUEpha0RCYS1",
+      "source_url": "https://www.ebiotrade.com",
+      "source": "生物通"
     },
     {
-      "title": "AI时代的数学发展：数学研究的新范式｜AI for Math读书会第二季第6期",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42bzlYc1pxV1VwRUZJTkQwMzBzaGdsTmlPT2JDV3d1TGpDU2ZVMjNhQTh1cW4ydElHY0VOSEFvTnh5bVRDNkV4LQ?",
-      "source_url": "https://hub.baai.ac.cn",
-      "source": "智源社区"
+      "title": "通信也是人工智能的基础",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11N05HUFluZUpLVUwtT3dTbzhLV19ISU5iZEVydEM0dV9UUVJmTzFWRzVkNnpUSkxGUnFSNDVVNldSeUNIM21NT0V",
+      "source_url": "https://user.guancha.cn",
+      "source": "风闻"
     },
     {
-      "title": "李佳琦直播间半小时卖出2万亿Token；可灵完成198亿元融资，估值超母公司快手丨AI周报",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rN3h6N0NOVEZoSTlGSDlIU3c0d1JfMGc4N3k2Z2Y5UGFzRFczNnNiUy1SQ09WZVFucWFhR1FlXy1CcUdWcXFQRC1",
-      "source_url": "https://m.cyzone.cn",
-      "source": "创业邦"
+      "title": "热搜里的AI真相：降速、Agent与偏见治理",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fdWJ4Tm9nR2xRUTlWS1hPWkxtcVpFLUdEZGlOUGU0MGhObk1SUG8tUTh3anhZcU5hX0pZTlZqdFFvZkNralB6Skt",
+      "source_url": "https://www.csdn.net",
+      "source": "CSDN"
     },
     {
-      "title": "中国移动发布算网数智全栈创新成果",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGb0xSNTZnZGRpNkVpanhaOWpnQUo5SVJkR1Uyb1lvSEYwUm55OHFCQUdpWWhxMjI4LVNLLTktZTBrSXpfOFVMbFZ",
-      "source_url": "https://www.donews.com",
-      "source": "DoNews"
+      "title": "多家省属企业亮相2026人工智能产业大会",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1udkJhaEF4c0otYnhReVNzcFNZVDNnYWJmVUpWcUtyUHktdHJlMTVJOEtuYTg4QU5vblZ4OER4SzJtTXR5dE5xYk1",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "德适科技携手邕江实验室，推动中国医疗影像大模型落地东盟、普惠出海",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHbW1qbkhZVnlMMnR0eGhLNDhPNDB2RXhMMVpfZzV1U09nQWVBNjd5ai1fWEJnYUI4bWVvbVlseXVhS19oVHZqWDR",
-      "source_url": "https://finance.eastmoney.com",
-      "source": "东方财富"
+      "title": "掘金生成式视频算力赛道，凌川科技打造多模态大模型国产算力底座",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KbHBsbUxCRzR3bG9VTG9tQXhHWjNsdlVITjJTVktvQnRZbFpBcnZMTE9vVk90c1VjdUhJZkhjNUZiUU1xU0c3eFo",
+      "source_url": "https://www.cnr.cn",
+      "source": "央广网"
     },
     {
-      "title": "冯雯：三年，大模型从聊天走到造芯片",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPdk93T3N3czEyR09EeFFMN1V5SVBLSndJU2t0UW82VGVLV3p1TUU1QmpMWHNBYnNBLThiN3VrVTJUcFVnT3BtOHV",
-      "source_url": "http://cn.chinadaily.com.cn",
-      "source": "中国日报网"
+      "title": "江天骄：AI“越界”？国际社会探索设立“护栏”",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QYnhHNFh2S2dXcG82Z0JCdVRwRXBqeFFxU3hvSWVmN1RLbUdtWUxpVzhSbERDMDFkcUhKazRvbnpmbGZnNHlCOW5",
+      "source_url": "https://fddi.fudan.edu.cn",
+      "source": "复旦发展研究院"
     }
   ]
 }

@@ -1,46 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 36,
-    "trusted": 5,
+    "raw_dedup_junk": 38,
+    "trusted": 9,
     "non_trusted_top": {
-      "iheima.com": 6,
       "dianyingjie.com.cn": 5,
-      "sina.cn": 4,
-      "china.com": 3,
-      "360.com": 2,
-      "vietnam.vn": 1,
-      "rediandf.com": 1,
-      "weibo.com": 1,
-      "creaders.net": 1,
-      "voc.com.cn": 1
+      "rediandf.com": 3,
+      "fjsen.com": 3,
+      "china.com": 2,
+      "bjd.com.cn": 2,
+      "xmnn.cn": 2,
+      "jfdaily.com.cn": 1,
+      "hk01.com": 1,
+      "com.sg": 1,
+      "sina.com.cn": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 4,
-    "relaxed_72h": 1,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 8,
+    "page_fresh": 3,
+    "relaxed_72h": 6,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "刘德华替身杜奕衡新片《凶宅怪谈》上映数小时票房0元垫底，宋佳新片夺冠",
+      "t": "为了拯救快要暴死的冷门电影，网友靠整活和反串换来了1000万票房？",
       "d": "sohu.com"
     },
     {
-      "t": "音乐剧《风声》升级版迎来百场里程碑，以舞台艺术谱写时代史诗",
-      "d": "bjnews.com.cn"
+      "t": "破局升维，在厦门看见华语新电影——第八届金鸡电影创投大会主单元开启终极路演",
+      "d": "cnr.cn"
     },
     {
-      "t": "2026年中国金鸡百花电影节在厦门开幕 黄晓明、赵丽颖点亮金鸡",
-      "d": "chinanews.com.cn"
+      "t": "《后会友期》中许飞与厉娜重逢，带动“画地为牢”成为网络热词",
+      "d": "huxiu.com"
     },
     {
-      "t": "复刻声音商用，可识别性是侵权认定核心",
-      "d": "chinanews.com.cn"
+      "t": "导演街头举牌求“被看见”，影片终于上映，但2天票房仅6万多",
+      "d": "sohu.com"
     },
     {
-      "t": "从日剧里的镜头，到美国院线科幻长片：AI制片已走到哪一步？",
-      "d": "cls.cn"
+      "t": "重大革命题材电视剧《伟大的长征》创作座谈会在京召开",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "“草台班子”如何做出爆款短剧？独家专访《持械入宋》总策划：拒绝AI脸！从主角到群",
+      "d": "yicai.com"
+    },
+    {
+      "t": "赵丽颖穿24万7阿玛尼上衣，用149元水杯，坐评委席打哈欠被偷拍",
+      "d": "163.com"
     }
   ]
 }
