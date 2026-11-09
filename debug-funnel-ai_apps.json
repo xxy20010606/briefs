@@ -1,38 +1,30 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 10,
-    "trusted": 4,
+    "raw_dedup_junk": 15,
+    "trusted": 1,
     "non_trusted_top": {
-      "ajudaily.com": 1,
-      "ebiotrade.com": 1,
-      "futunn.com": 1,
-      "hunantoday.cn": 1,
-      "sina.cn": 1,
-      "icloudnews.net": 1
+      "sina.com.cn": 2,
+      "chinadaily.com.cn": 2,
+      "stockstar.com": 2,
+      "pedaily.cn": 2,
+      "dostor.com": 1,
+      "rednet.cn": 1,
+      "jfdaily.com": 1,
+      "17173.com": 1,
+      "xhby.net": 1,
+      "caiwennews.com": 1
     },
-    "fresh1_24h": 2,
+    "fresh1_24h": 1,
     "page_fresh": 1,
-    "relaxed_72h": 3,
-    "final": 4,
+    "relaxed_72h": 0,
+    "final": 1,
     "cap": "不限同域"
   },
   "final": [
     {
       "t": "某知名互联网公司限制员工使用外部AI？知情人士这样回应",
       "d": "xinhuanet.com"
-    },
-    {
-      "t": "（第九届进博会）普华永道：中国内地职场正从AI“工具引入期”稳步迈入“人机协同期",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "Personal Agent，为什么都停在付款之前？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "进博会专访｜莱迪思半导体亚太区总裁徐宏来：数据中心带来可观增长，物理AI才是未来",
-      "d": "nbd.com.cn"
     }
   ]
 }

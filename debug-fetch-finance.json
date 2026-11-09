@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 21,
+  "total": 36,
   "samples": [
     {
-      "title": "A股盘前播报| 国常会：完善资本市场稳市机制加快“六张网”建设 10月CPI、PPI数据今日公布_短",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SOTlIN1FoaVNNdURDNVZlYmU1Z012QVk3b2dtdGIwa1pOS29wWkp4SVYzLWRHSlpuWGozU1k0SF9JLUViMnQwakh",
-      "source_url": "https://stock.stockstar.com",
+      "title": "华泰证券完成第三批互换便利回购融资及股票买入操作_公司新闻_财经",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42aHAxN2UtZ1VYWXk4ZXNNb21BRmpyeVlORUtwbkJlTHBSbjA0cU1SSDRpV3JfWW5aTWFKZWRXdm84WWtmNWN5REM",
+      "source_url": "https://wap.stockstar.com",
       "source": "证券之星"
     },
     {
-      "title": "中信建投：2027年A股将迎来“盈利下行+贴现率下行”的交接年_股市直播_市场",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrX09pbUxOTjZKRG1JTGVjT253b01fMkdOb1FEWVZMbVpWd3laUzNXNzZGelRYRzYxSVFiNmVNRG1nbWNTeFNxUkp",
+      "title": "美日韩台股市强劲反弹，A股收复5日10日五周均线_证券要闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03YlU2akdNLU9NcmJGOW5DbXdsNl9BNVBLUm9QZVNucmdJYW1TNWJUTndFUmdXQkRUT3NPLTVnWUxWZlBTcEpyVV9",
+      "source_url": "http://news.cnfol.com",
+      "source": "中金在线"
+    },
+    {
+      "title": "收评：沪指涨0.32% 燃气板块涨幅居前",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pYk9wYXhrTndDMHlST3NxZ1MwMU5mdlNKSkdnV2RTTm5EaXlyekNadGtrUFYzd1N6MUMtTi16NkdhZ1MtX2J0MHV",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "花旗：银河娱乐(00027)10月表现偏弱或部分受赢率影响毋须过分解读续列首选股_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SLXY1MW1UcDNjam9LV1Z2cHpLUFZiSnNqdE1qLWo2WjlTZ21XM2R6ei1VNFBlTFB4b1hPZUtGQUNzdEdSS1ZyYk5",
       "source_url": "http://sc.stock.cnfol.com",
       "source": "中金在线"
     },
     {
-      "title": "百胜中国(09987.HK)：于11月6日斥资270万美元回购5.42万股_股市直播_市场",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jWVRtVU10Tk1tQUQxSW41dldkZ210QVZIZkQ3THRrSWRPdmRKWUJFbDlMLWZRTENNMDhFbml4N0d0Tkw3OVh4SXU",
-      "source_url": "http://sc.stock.cnfol.com",
+      "title": "信澳新能源产业股票型基金增聘吴凯近1个月跌近19%_证券要闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zQkpWWXhJdXpYUHJKRWVXYmJTTGJkSXp1SkJKQjhDaGVqWF8yMnpfVkFXMVR5bGJ0b2p3MG4yTUFIaU5GV3JXeE9",
+      "source_url": "http://news.cnfol.com",
       "source": "中金在线"
     },
     {
-      "title": "11月9日国内四大证券报纸、重要财经媒体头版头条内容精华摘要_每日必读_市场",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSm9OXzhIZjJ4MTgyU1ZxQ0dxei1tTEZRTENDTXl3Z2NGNDZqVGFQaFFFTmtlUXh6aEZuX3NYMkdHUzVBQ01nUVY",
+      "title": "兆科眼科-B(06622)11月6日斥资约4.28万港元回购2.15万股_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55ZndCNkV1TkdJbGdYdFNuVnM1anZmZmpDVzBiZmkxS002MGpMZW5xX05ZZDMzSDI2eDB1ZFUybjA5V0p0WS12RW4",
       "source_url": "http://sc.stock.cnfol.com",
       "source": "中金在线"
-    },
-    {
-      "title": "为科技股“买单”后，万亿险资欲借调仓“解套”？",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWjNNZnhFdVVsRkVoNThrVTRWOXJBdVRzdWpJRDVhU2MzQ01HOW5FZHhib0pBOXVjdmZRTDVfeElWUzR1TEtPdjd",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "A股又一龙头，上市时间定了",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSE1vbTFrOWZ6RzluN0xxa0diSVFFRC11ZDRjcEMxWGl3eFpvUmxiUW9GWHZJUUNKSUNkcVg2ZVBoWEdmVm5WRjF",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
     }
   ]
 }

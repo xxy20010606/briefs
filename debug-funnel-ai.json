@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 22,
-    "trusted": 7,
+    "raw_dedup_junk": 39,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "csdn.net": 2,
-      "chinesetoday.com": 1,
-      "ebiotrade.com": 1,
+      "sina.com.cn": 4,
+      "techwalker.com": 3,
+      "donews.com": 2,
+      "techflowpost.com": 2,
+      "stockstar.com": 2,
+      "aibase.com": 2,
       "sina.cn": 1,
-      "yzwb.net": 1,
-      "stockstar.com": 1,
-      "hangzhou.com.cn": 1,
-      "zqrb.cn": 1,
-      "scol.com.cn": 1
+      "dostor.com": 1,
+      "rednet.cn": 1,
+      "icloudnews.net": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 2,
-    "relaxed_72h": 5,
+    "fresh1_24h": 13,
+    "page_fresh": 11,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "量子位「MEET2027智能未来大会」火热报名中！首批重磅嘉宾已就位，年度榜单征",
-      "d": "sohu.com"
-    },
-    {
-      "t": "姚顺雨谈大模型护城河：竞争壁垒在产品层而非模型层",
+      "t": "不怪Robin不努力",
       "d": "ifeng.com"
     },
     {
-      "t": "腾讯姚顺雨谈“AI模型公司护城河”：更多存在于产品层，而不是模型层",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "德适科技携手邕江实验室，推动中国医疗影像大模型落地东盟、普惠出海",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "Agent 越用越多，企业为何仍不够 AI Native？",
+      "t": "不能把整个安全体系押在大模型上：AI 分诊 CVE，人工审查仍不能少",
       "d": "infoq.cn"
     },
     {
-      "t": "一人公司爆火！AI智能体当员工，个体创业时代真的到来？",
+      "t": "中国地震台网中心地震预报部主任：构建人工智能地震预测模型，为震情研判提供支撑",
       "d": "sohu.com"
     },
     {
-      "t": "NeurIPS'26 | 只干预10个维度，给智能体穿上安全机甲，准确率超97%",
-      "d": "sohu.com"
+      "t": "权威认证！数美科技“天枢·AI安全围栏”获国家级认证",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "爱思，为什么爱南京",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "210万亿Token！全球AI大模型周调用量榜单出炉，中国产品拿下前五中四席：D",
+      "d": "nbd.com.cn"
+    },
+    {
+      "t": "AI算力采购潮起 公募数智化转型提速",
+      "d": "21jingji.com"
     }
   ]
 }

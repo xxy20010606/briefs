@@ -1,40 +1,48 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 18,
-    "trusted": 5,
+    "raw_dedup_junk": 32,
+    "trusted": 6,
     "non_trusted_top": {
-      "autohome.com.cn": 4,
-      "sina.com.cn": 3,
-      "nmgnews.com.cn": 1,
-      "powerchina.cn": 1,
-      "stockstar.com": 1,
-      "notebookcheck-cn.com": 1,
-      "sfccn.com": 1,
-      "indexbox.io": 1
+      "ne21.com": 13,
+      "autohome.com.cn": 3,
+      "in-en.com": 3,
+      "sina.cn": 2,
+      "sina.com.cn": 2,
+      "jschina.com.cn": 1,
+      "jrj.com.cn": 1,
+      "caiwennews.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 2,
-    "relaxed_72h": 2,
-    "final": 4,
+    "fresh1_24h": 6,
+    "page_fresh": 6,
+    "relaxed_72h": 0,
+    "final": 6,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "跳出规模依赖，山东储能转向“价值比拼”",
-      "d": "ifeng.com"
+      "t": "603366，开盘超300万手封涨停！“东方”火了，概念股批量涨停",
+      "d": "21jingji.com"
     },
     {
-      "t": "钠离子电池创新 有望破解“沙戈荒”储能难题",
-      "d": "eastmoney.com"
+      "t": "微电网为川西高原供电安全添保障",
+      "d": "solarbe.com"
     },
     {
-      "t": "澳人受够油价波动！电动车销量飙升3倍，比亚迪超越起亚、福特升至第二",
+      "t": "企业家之夜前瞻|王传福：不管碰到什么困难，只要理想是对的，方向是对的，一定要坚持",
       "d": "sohu.com"
     },
     {
-      "t": "四川眉山：可储存20万度电的首个电网侧储能项目投运",
-      "d": "chinanews.com.cn"
+      "t": "比亚迪 C12 DUO 首秀 2026 欧洲客车展，英国市场迎来第 3000 台",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "机构：在下游需求高增长驱动下，锂电行业整体景气回升",
+      "d": "sohu.com"
+    },
+    {
+      "t": "跳出规模依赖，山东储能转向“价值比拼”",
+      "d": "ifeng.com"
     }
   ]
 }

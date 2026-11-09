@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 10,
+  "total": 15,
   "samples": [
     {
-      "title": "某知名互联网公司限制员工使用外部AI？知情人士这样回应",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2RBY1N1TURubmpSTkpJaXp3ZGpVVkY1SXVVUHVZYnhacjlUeEhiT2o1S3gtMHpjMWNuQzJDWWNLWUdBcWN5SmN",
-      "source_url": "https://app.xinhuanet.com",
-      "source": "新华网客户端"
+      "title": "企业怎么做GEO搜索排名优化，讯灵AI把品牌信息放在第一位",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFA3cWIyQVRMWEw1cVRDYmFMb1BTSHVkbzdYQ0RaRE55b2NfYW1UVVFfWkhwU203YjlWTU95R2d6ZldxOUo3QjJ",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "访谈：最石元谈AI时代游戏开发的未来",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Kd2hob0hid2V1Rm5EcGhySXlNWDFkcjNlMVdyT3l6MW9uM0wzMmxlX2dQSy1BWU5ia3NIZEFwcUdIZWk5Z0s2WDQ",
-      "source_url": "https://www.ajudaily.com",
-      "source": "亚洲日报"
+      "title": "学大教育加速构建AI教育应用能力 拓展业务增长新空间",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxaFZGY29JNUQ1dEFxN3VlV3paODhTWFlKbWhaYkJ3YVJfRVdjM3ZNOUt4Q1NydzVncEFsZ0tidFpMR0VjTS1zd3Z",
+      "source_url": "https://cn.chinadaily.com.cn",
+      "source": "中国日报网"
     },
     {
-      "title": "基于TAM框架的商科学生Meta AI辅助学习工具使用行为研究：感知价值、个性化、伦理实践与信任的作",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvNkJKempYV2pWZGNyeFZWT0EzNW1jSDZyN0dFZzhpa01Oc3lqV1JWaW5IaHdtLTc2OFY4UHd4NzJVWlRpbU44RFZ",
-      "source_url": "https://www.ebiotrade.com",
-      "source": "生物通"
+      "title": "AMD携手CSDN与CTONE在央视“进博新品汇”带来AI开发者一体机",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wSXV2X3l2ZkhKLVlYNmJReDFyb25KOGxObGtjU3BZQU5CekFFR1RkYzZZVVdBMk5mTHFIQWdmN3o0bFhtdHFpVV9",
+      "source_url": "https://www.dostor.com",
+      "source": "存储在线"
     },
     {
-      "title": "（第九届进博会）普华永道：中国内地职场正从AI“工具引入期”稳步迈入“人机协同期”",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyMXZkQkFhWDlrR2xoZnRQSkNWd3NpNnpxTWllYkJ0X0FDWTgwSDgzUVRUQ3RndmpkRUszMVdoZlFNM0F0U3hBaU9",
-      "source_url": "https://www.sh.chinanews.com.cn",
-      "source": "上海新闻"
+      "title": "AI付费时代，广发智汇卡打造科技“生产力加油站”",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OQ3V4cHE4a3Y5QS1yQjFNVktrR0p3SlRMeUN3U2R5OG1ENlpzc0c1VnN1aG51bVpDcXFRVnRiZGhVMFBFZDhJTTl",
+      "source_url": "https://money.rednet.cn",
+      "source": "湖南红网"
     },
     {
-      "title": "美国银行AI监管转向实际风险！简单代理也能发起交易，高盛收紧工具权限",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObDBzdmdBVUJVSV9PMEpKSVVBZHN6UUxsNUc1V1VDV3hsdk56ZGdER1RhaTFheVI2Qy1HdC1hVEM1THc1VHNBTEp",
-      "source_url": "https://news.futunn.com",
-      "source": "富途牛牛"
+      "title": "苏州河畔论智变：AI如何从工具演进为真实生产力？",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHN5WXJlUDdoNlV6S3BaVDBIVEVBT0dPMnlHRi1jNVhiRENMbklxTEIta2ZvbnNwbVFDMWVXRFc4SG5OMDVzRTR",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "鼓励员工使用AI办公，出错谁来担责？",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SR28yUW1QUWdmMk82a0VPenBKREVWSUtHYzE3ZE5xTkE4dVRPNTZ0M3g5WjREbFZCb19yLWxoNTI1QTRzc2FFWkN",
-      "source_url": "https://www.hunantoday.cn",
-      "source": "新湖南"
+      "title": "从工具到主体：平安如何依托AI重塑保险销售生产力_公司新闻",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CNzVOTnk0cTFjeEVfUGNvWVhTOUkxMGZFbkswSmw5YmN4Tk1BZ0MyeFZxemFtUzRSVVNQS3kwUVc2Q3dkRVhGTjl",
+      "source_url": "https://finance.stockstar.com",
+      "source": "证券之星"
     }
   ]
 }

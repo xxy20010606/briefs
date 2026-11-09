@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 22,
+  "total": 39,
   "samples": [
     {
-      "title": "量子位「MEET2027智能未来大会」火热报名中！首批重磅嘉宾已就位，年度榜单征集倒计时",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFZ4YkxRZjBLcW9xd3VCVXVSSWoxM0Y0RjBYQVl6MjBGdUFuTEdZb2Z6ZDNPalhVN3lVOVdYY09MM2RFcGRfcG9",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
-    },
-    {
-      "title": "青企故事荟 | 星际大模型：帮AI“看懂” 产业场景",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GeHNrMkowYkpNQzN0T3hEaEtGOTVxNWN6NGVIWjIzbXlXbHF1OUtUcFFyN0tCRW13QUNxTERoS3FrblNEUDI0WW1",
-      "source_url": "http://www.chinesetoday.com",
-      "source": "國際日報"
-    },
-    {
-      "title": "腾讯：终端智能体自我进化实现能力跃升",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96UGlKcGJ2RnNKcWVxdXFqeE9TYW5tX2JTSXdFZUVxV2lHeWdqX1JBUWxWcmxHOUpjdTBLRTMxRTRIQmtCczA4UTV",
-      "source_url": "https://blog.csdn.net",
-      "source": "CSDN博客"
-    },
-    {
-      "title": "基于大语言模型的生成式人工智能在牙髓病学中的应用、性能与局限性：一项范围综述",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MWXR2dUg0NVJQV0V3dGhpeklqTl9lWkR5YTVObXZsQUsxa2RueHI3V3g1LVlUOEJ5UldXZWsyZENFbVpKLUFBU25",
-      "source_url": "https://www.ebiotrade.com",
-      "source": "生物通"
-    },
-    {
-      "title": "姚顺雨谈大模型护城河：竞争壁垒在产品层而非模型层",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBua0lNbTFJX1ZmSTRWLWhCR0VyazNEa2NNVmlGLThYVVJ1UllmNm1kTWFMWnZ0Rl9zRWJEQzk0UGhRV09WdXNXbng",
-      "source_url": "https://original.ifeng.com",
+      "title": "不怪Robin不努力",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11U0pXWjB0UW1YdUZSVEVIcmdiUTZXRm43LU4xZVlQTXdRcUJCQV9CdzJ2czNQd0Y2M1dLTUlFcnBLTmhVeGNDUw?",
+      "source_url": "https://i.ifeng.com",
       "source": "凤凰网"
     },
     {
-      "title": "通用人工智能环伺，教育垂直大模型能否跑通“C端”商业化？",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ncXl0ZG5Gb3piMDYyVzk3Uk1jQzU0M0FoSFVDcVRpQWpTUlJ2UFIxTTJNTE03c3J6UFgxc0VMSXp4MXVKam10amR",
+      "title": "决赛圆满收官 中国电信星辰杯高校AI算子开发挑战赛助青年人才赋能国产算力",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3emhqNmxnZ2syR2l1c0xrTzg2XzlNcDUtMGpFRExkWWdDSTQ5R016WDRNQ0FGeTB1XzhFSzdYZ0JQaG9mdGFrOWd",
+      "source_url": "https://www.donews.com",
+      "source": "DoNews"
+    },
+    {
+      "title": "OpenAI再次叫停前沿模型开发 AI+网络安全成国家级战略重点方向",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XcEhsbEZkZ1NUNUVOT0FvUzRfSTlpSjE3Z3BtQms1c3VKeGpIdU9BTFM1LXNvUkdyT3ZFeE9DVG05Rlg5c2tyRA?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
+    },
+    {
+      "title": "2026年物理AI代表性企业有哪些？十家厂商呈现产业多元化布局",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFhKUldQcEVuTjJpRE1rTV9GYnhCeG1wakFybVFNYlJMYjJYejdiWWd2TzM5cnJIU3hxSko5aUJkVXNFeC1IVDh",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
+    },
+    {
+      "title": "不能把整个安全体系押在大模型上：AI 分诊 CVE，人工审查仍不能少",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FOVQwMGNzUjI2YmtNLS1JTmNyaE5FWlVkZ3pWM25CN1M2Y3UtNklCc0lvNzRpNVh3SVllTzdHTi11d2p6S1RqdTB",
+      "source_url": "https://www.infoq.cn",
+      "source": "InfoQ.cn"
+    },
+    {
+      "title": "冻住的大脑，变聪明的病历本：当AI医生学会了\"记笔记\"",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10OTFPczBzR3l4TnJQNTdLQ0RSLWhzNVcyRnpXaGVXdTgzSGEtclhKc1Q1emJNUzQyaDViNnhBYjRnSzMxSTNqYU9",
+      "source_url": "https://www.techwalker.com",
+      "source": "科技行者"
     }
   ]
 }
