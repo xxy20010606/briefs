@@ -1,38 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 25,
-    "trusted": 5,
+    "raw_dedup_junk": 22,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 7,
+      "sina.com.cn": 3,
       "csdn.net": 2,
-      "ac.cn": 1,
-      "gz-cmc.com": 1,
-      "techflowpost.com": 1,
-      "ajudaily.com": 1,
-      "ichaoqi.com": 1,
-      "zsnews.cn": 1,
-      "hk01.com": 1,
-      "lavx.hu": 1
+      "chinesetoday.com": 1,
+      "ebiotrade.com": 1,
+      "sina.cn": 1,
+      "yzwb.net": 1,
+      "stockstar.com": 1,
+      "hangzhou.com.cn": 1,
+      "zqrb.cn": 1,
+      "scol.com.cn": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 3,
-    "relaxed_72h": 0,
-    "final": 3,
-    "cap": "不限同域"
+    "fresh1_24h": 6,
+    "page_fresh": 2,
+    "relaxed_72h": 5,
+    "final": 7,
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon 北京",
+      "t": "量子位「MEET2027智能未来大会」火热报名中！首批重磅嘉宾已就位，年度榜单征",
+      "d": "sohu.com"
+    },
+    {
+      "t": "姚顺雨谈大模型护城河：竞争壁垒在产品层而非模型层",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "腾讯姚顺雨谈“AI模型公司护城河”：更多存在于产品层，而不是模型层",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "德适科技携手邕江实验室，推动中国医疗影像大模型落地东盟、普惠出海",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "Agent 越用越多，企业为何仍不够 AI Native？",
       "d": "infoq.cn"
     },
     {
-      "t": "物理AI升温背后：三大瓶颈待解 产业仍处于早期爬坡阶段",
-      "d": "eastmoney.com"
+      "t": "一人公司爆火！AI智能体当员工，个体创业时代真的到来？",
+      "d": "sohu.com"
     },
     {
-      "t": "睿创燧石“红外热成像+AI大模型”亮相北京安博会",
-      "d": "eet-china.com"
+      "t": "NeurIPS'26 | 只干预10个维度，给智能体穿上安全机甲，准确率超97%",
+      "d": "sohu.com"
     }
   ]
 }

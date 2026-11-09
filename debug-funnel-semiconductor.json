@@ -1,37 +1,43 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 11,
-    "trusted": 6,
+    "raw_dedup_junk": 16,
+    "trusted": 8,
     "non_trusted_top": {
-      "stockstar.com": 1,
-      "klsescreener.com": 1,
-      "c114.net.cn": 1,
+      "smm.cn": 2,
+      "atvnewsonline.com": 1,
       "futunn.com": 1,
-      "mk.co.kr": 1
+      "sina.com.cn": 1,
+      "moomoo.com": 1,
+      "vietnam.vn": 1,
+      "ichaoqi.com": 1
     },
-    "fresh1_24h": 6,
+    "fresh1_24h": 7,
     "page_fresh": 4,
-    "relaxed_72h": 0,
-    "final": 4,
+    "relaxed_72h": 1,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "中国机会 | 默克加码中国：从市场布局到创新策源，深度融入中国半导体生态",
-      "d": "thepaper.cn"
+      "t": "美股AI芯片板块上周五集体反弹，超威半导体涨超11%丨美股复盘",
+      "d": "21jingji.com"
     },
     {
-      "t": "功率芯片士兰微：净利5.3亿涨53%，扣非利润3.78亿",
-      "d": "sohu.com"
-    },
-    {
-      "t": "基于新型声透镜的超声换能器，可清晰检测芯片缺陷",
+      "t": "比亚迪激光雷达VCSEL芯片荣获2026年“中国芯”优秀技术创新产品奖",
       "d": "eet-china.com"
     },
     {
-      "t": "我国前道光刻装备自主化阶段性成果，上海微电子新一代光刻机模型亮相",
+      "t": "台积电先进制程代工或将全线涨价，半导体设备ETF、科创半导体设备ETF、芯片ET",
       "d": "sohu.com"
+    },
+    {
+      "t": "一块靶材的“争气”之路——江丰电子从“带鱼”厂房走向世界一流",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "进博会专访｜莱迪思半导体亚太区总裁徐宏来：数据中心带来可观增长，物理AI才是未来",
+      "d": "nbd.com.cn"
     }
   ]
 }

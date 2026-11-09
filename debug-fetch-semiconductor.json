@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 11,
+  "total": 16,
   "samples": [
     {
-      "title": "中国机会 | 默克加码中国：从市场布局到创新策源，深度融入中国半导体生态",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nN3FJUHg5cnZtdU9fZlI3MGw2QW1tSWdzd1dJWTRRZHE5VXA3ajNvY18yNWFFSUNWMHI0TXdfMGVWLW1wT09wZlh",
-      "source_url": "https://www.thepaper.cn",
-      "source": "ThePaper.cn"
+      "title": "英伟达“催单” 台积电也要造存储芯片了！",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nNGo0YVVIQ2d0RXIzbXJxRWlXdE80a056aExkWFkyeVpHcVJJVEtiQ1ZsdHFEVlFNZjl6N25pM0hBSW5xZEowMHJ",
+      "source_url": "https://news.smm.cn",
+      "source": "上海有色金属网"
     },
     {
-      "title": "功率芯片士兰微：净利5.3亿涨53%，扣非利润3.78亿",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlVjakFQR216bE52bkJidldoYWZiclpIS1RvSjd3VGtnWVJ1Yk5Dbm5hMG4yMFhSLWhUZ1A4RkJnaUl4TjNkc1B",
+      "title": "Apollo拟豪掷750亿美元采购AI芯片 规模远超任何一家Neocloud",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZM0R1c0ZEdDZJYjJzdGttb3hzeWhRRnB6Ukp2UnlaV2d6aU9JWWJsd21laDd0NG5YRXRPcE5Hd3cyMG01OVJoa0Y",
+      "source_url": "https://news.smm.cn",
+      "source": "上海有色金属网"
+    },
+    {
+      "title": "美股AI芯片板块上周五集体反弹，超威半导体涨超11%丨美股复盘",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMUEyMzlBU2ZycDRwTDJKMjl1dkRwZkpBVzhPSWpkSTBjcGQ4UG43VWRLang3OWZrQ1M4c3dCWWVteG1BU2t4SlJ",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
+    },
+    {
+      "title": "三星德州晶圆厂12月试产 锁定特斯拉AI芯片",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNdVZEdDlpZG5wRGdNVVNQRWl2aGtwYlFEYjU3aEl4NlVzbUxybndRcU1XMFZCRGd4UU5ZenF6YVJNR2JiTVZYc0R",
+      "source_url": "https://atvnewsonline.com",
+      "source": "亚洲电视新闻"
+    },
+    {
+      "title": "比亚迪激光雷达VCSEL芯片荣获2026年“中国芯”优秀技术创新产品奖",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oRURjcVVmcjFUZktVc0pRZ2NxSjJmcExTSFdoZmk0djFxSFdadUFGR1EzZktBNl8xNWExeXVYMm5IckU3SXd5bWh",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
+    },
+    {
+      "title": "台积电先进制程代工或将全线涨价，半导体设备ETF、科创半导体设备ETF、芯片ETF涨超5%",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDNVWGs1emw2Vl9FQjhvSWFmcmpxRzQzV3NHVjdpSFJFU19NcXRfT1FHd2RJaTgtRW12TE5DVW9nb1NMMXIzMjl",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
-    },
-    {
-      "title": "688012，芯片龙头，订单创新高，拟大手笔回购",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02azN5Q1l2amJKX2dsLVBsTHlBVHFEYV90MDcxMFc0LWs3NUNnRXkzYndqbHZsY1ZGQjVjRlZGX21qQW9PaDlyZ3R",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "芯片股崩到甜甜价? 外媒点名买入5档优质股",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQb0pQLUZ4VDlOQW8zUEFKT0RZN2h1OENhaXNBbkNZaURVcmZyWGY5NnBpbGNlT29QbGNETlVzLXJBeVozQ29Xb3F",
-      "source_url": "https://www.klsescreener.com",
-      "source": "KLSE Screener"
-    },
-    {
-      "title": "【破产】总投资规划50亿元，浙江旺荣半导体进入破产重整- 产业链",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81NEVuV1NnRDZtZXpiTkNIRTZUeG1IVEt3MlZEbFdEZ21WZThsSTN5dkpTVkItVlExd1ZrN3ExOHVnQUh2SFN3Zi1",
-      "source_url": "https://www.c114.net.cn",
-      "source": "光通信Pro"
-    },
-    {
-      "title": "当芯片抢着上太空，半导体下一轮增量有了？",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmNUxYMkd2ajM5Rms3SEFvbUVzY0ZQN2Q2ZlFCNnRwVERjVkQ5b1Q0UmJYQWhIc3BCR0FTLTZ3U01CRktxRDRuNmk",
-      "source_url": "https://news.futunn.com",
-      "source": "富途牛牛"
     }
   ]
 }

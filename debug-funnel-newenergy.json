@@ -1,40 +1,40 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 19,
+    "raw_dedup_junk": 18,
     "trusted": 5,
     "non_trusted_top": {
       "autohome.com.cn": 4,
-      "indexbox.io": 3,
-      "sina.com.cn": 2,
-      "scol.com.cn": 1,
-      "qhnews.com": 1,
-      "sina.cn": 1,
-      "idnfinancials.com": 1,
-      "eastmoney.com": 1
+      "sina.com.cn": 3,
+      "nmgnews.com.cn": 1,
+      "powerchina.cn": 1,
+      "stockstar.com": 1,
+      "notebookcheck-cn.com": 1,
+      "sfccn.com": 1,
+      "indexbox.io": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 4,
-    "relaxed_72h": 0,
+    "fresh1_24h": 4,
+    "page_fresh": 2,
+    "relaxed_72h": 2,
     "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "中国煤电发电量占比首次低于50%，能源转型进入系统调整阶段",
-      "d": "bjnews.com.cn"
-    },
-    {
-      "t": "推动民营经济向新向优向好发展丨政策“组合拳”精准滴灌民营经济茁壮成长",
+      "t": "跳出规模依赖，山东储能转向“价值比拼”",
       "d": "ifeng.com"
     },
     {
-      "t": "煤海向绿 “风光”逐新",
-      "d": "people.com.cn"
+      "t": "钠离子电池创新 有望破解“沙戈荒”储能难题",
+      "d": "eastmoney.com"
     },
     {
-      "t": "全国多地可再生能源转型步伐按下“加速键” 形成绿色增长“新引擎”",
-      "d": "21jingji.com"
+      "t": "澳人受够油价波动！电动车销量飙升3倍，比亚迪超越起亚、福特升至第二",
+      "d": "sohu.com"
+    },
+    {
+      "t": "四川眉山：可储存20万度电的首个电网侧储能项目投运",
+      "d": "chinanews.com.cn"
     }
   ]
 }

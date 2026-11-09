@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 11,
+    "raw_dedup_junk": 40,
+    "trusted": 13,
     "non_trusted_top": {
-      "dianyingjie.com.cn": 3,
-      "fjsen.com": 3,
-      "china.com": 2,
-      "southcn.com": 2,
-      "pedaily.cn": 1,
-      "shangbaoindonesia.com": 1,
+      "hunantoday.cn": 4,
+      "360.com": 3,
+      "hk01.com": 3,
+      "mezha.net": 2,
+      "sina.com.cn": 2,
+      "xmnn.cn": 2,
+      "bjd.com.cn": 2,
       "sina.cn": 1,
-      "xinmin.cn": 1,
-      "sina.com.cn": 1,
-      "cjn.cn": 1
+      "indexbox.io": 1,
+      "hupu.com": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 10,
-    "relaxed_72h": 0,
+    "fresh1_24h": 6,
+    "page_fresh": 2,
+    "relaxed_72h": 11,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "重大革命题材电视剧《伟大的长征》创作座谈会在京召开",
+      "t": "AI打开新空间，影视创作如何向新而行",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "扎根现实沃土，光影自有力量",
+      "t": "锦州的门与海",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "TVB台庆剧开播，陈自瑶新剧遭闺密算计，先被抹黑再遇下药",
       "d": "sohu.com"
     },
     {
-      "t": "上芭舞剧《梁山伯与祝英台》亮相美国弗吉尼亚州",
+      "t": "排片有限、户外人群超过5亿，珠峰纪录片如何找到观众？金国威：在影院观影，如同围坐",
+      "d": "nbd.com.cn"
+    },
+    {
+      "t": "北京市一周演出预告（11月9日-15日）",
+      "d": "sohu.com"
+    },
+    {
+      "t": "舞剧《五星出东方》将亮相希腊舞台",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "赵丽颖穿24万7阿玛尼上衣，用149元水杯，坐评委席打哈欠被偷拍",
-      "d": "163.com"
-    },
-    {
-      "t": "张艺谋：AI短视频倒给钱，谁还进电影院？压力很大，不知道怎么办",
-      "d": "guancha.cn"
-    },
-    {
-      "t": "大理漾濞阿尼么村入选全国首批文艺赋美乡村典型案例",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "擦亮“厦门出品”金字招牌 2026年金鸡电影市场推介会·厦门专场举办",
-      "d": "cnr.cn"
+      "t": "柏林国家歌剧院全新版本《玫瑰骑士》亮相上海大歌剧院",
+      "d": "yicai.com"
     }
   ]
 }

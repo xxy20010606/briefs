@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 12,
+  "total": 10,
   "samples": [
     {
-      "title": "DoMore 评测：你的个性化 AI 工具目录",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnI4SHB5S05TakNZUjhsREYxRlpVZ1BkdkluTGpLQ2NwQm50VExCUHZQYzFWMTFzd0JWM2lrMUJ3TEJYNkZKNm4",
-      "source_url": "https://quasa.io",
-      "source": "quasa.io"
+      "title": "某知名互联网公司限制员工使用外部AI？知情人士这样回应",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2RBY1N1TURubmpSTkpJaXp3ZGpVVkY1SXVVUHVZYnhacjlUeEhiT2o1S3gtMHpjMWNuQzJDWWNLWUdBcWN5SmN",
+      "source_url": "https://app.xinhuanet.com",
+      "source": "新华网客户端"
     },
     {
-      "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon 北京",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3ME5uTzNIelY0MVlQM2dLSUZZRkg2SmFaX1dYRmxXQUlEdEZBX191NDA5aWNoY0RQcnpZamdCZERYblJsRy1YWnV",
-      "source_url": "https://www.infoq.cn",
-      "source": "InfoQ.cn"
+      "title": "访谈：最石元谈AI时代游戏开发的未来",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Kd2hob0hid2V1Rm5EcGhySXlNWDFkcjNlMVdyT3l6MW9uM0wzMmxlX2dQSy1BWU5ia3NIZEFwcUdIZWk5Z0s2WDQ",
+      "source_url": "https://www.ajudaily.com",
+      "source": "亚洲日报"
     },
     {
-      "title": "波兰医疗保健专业人员对 AI-精益协同指数的构建与评估：协同效应、意愿差距及实施障碍",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZWGt4YlJDQTBCN1BlOXhYOVM5OXNRRW9zbFpQQkxwaHBscVJLb1pjR1ZaaGp3enpMMWFJckpDQVM4MFlLbW14Qjd",
+      "title": "基于TAM框架的商科学生Meta AI辅助学习工具使用行为研究：感知价值、个性化、伦理实践与信任的作",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvNkJKempYV2pWZGNyeFZWT0EzNW1jSDZyN0dFZzhpa01Oc3lqV1JWaW5IaHdtLTc2OFY4UHd4NzJVWlRpbU44RFZ",
       "source_url": "https://www.ebiotrade.com",
       "source": "生物通"
     },
     {
-      "title": "Drafted – AI 家居设计工具、可编辑平面图与外观渲染",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWVJmeUNZWTV4RGhCQVhZNlUyTHhXZEt6V0VUMTVnRHoyR29oQl80amlxVDJJTWVRcE9ITEFKN3czeEJmTW5nbGF",
-      "source_url": "https://quasa.io",
-      "source": "quasa.io"
+      "title": "（第九届进博会）普华永道：中国内地职场正从AI“工具引入期”稳步迈入“人机协同期”",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyMXZkQkFhWDlrR2xoZnRQSkNWd3NpNnpxTWllYkJ0X0FDWTgwSDgzUVRUQ3RndmpkRUszMVdoZlFNM0F0U3hBaU9",
+      "source_url": "https://www.sh.chinanews.com.cn",
+      "source": "上海新闻"
     },
     {
-      "title": "Swerve – AI 小说应用、角色聊天与分支故事",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLXN2T1dIR1VhbGxKallXREZKaV9FdGY1RV8ydXRFZHVoR2Q2S3VadlZobnpydHBfd3hEczhmWWdONTJGY1NoS2k",
-      "source_url": "https://quasa.io",
-      "source": "quasa.io"
+      "title": "美国银行AI监管转向实际风险！简单代理也能发起交易，高盛收紧工具权限",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObDBzdmdBVUJVSV9PMEpKSVVBZHN6UUxsNUc1V1VDV3hsdk56ZGdER1RhaTFheVI2Qy1HdC1hVEM1THc1VHNBTEp",
+      "source_url": "https://news.futunn.com",
+      "source": "富途牛牛"
     },
     {
-      "title": "GLM 5.1是什么？智谱Z.ai开放权重AI模型与收费",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeUoyYlQwNkJ2cl9yNlRjQWJVdnBzZkhlVXppNW9uTWJNQ3M2d1YzellrUUZBSWNEUzhPTlpkblgxRWljUjBpU25",
-      "source_url": "https://pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri"
+      "title": "鼓励员工使用AI办公，出错谁来担责？",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SR28yUW1QUWdmMk82a0VPenBKREVWSUtHYzE3ZE5xTkE4dVRPNTZ0M3g5WjREbFZCb19yLWxoNTI1QTRzc2FFWkN",
+      "source_url": "https://www.hunantoday.cn",
+      "source": "新湖南"
     }
   ]
 }

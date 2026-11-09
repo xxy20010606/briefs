@@ -1,40 +1,40 @@
 {
   "type": "finance",
-  "total": 18,
+  "total": 21,
   "samples": [
     {
-      "title": "周末要闻汇总：国常会要求完善资本市场稳市机制 增强股市内在稳定性",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sNkl3NExOUHlDSnB0QzdkZGZUVF9JR0FnaU11Vk9KcW5XY2g3eklsaDdOSUc2bC11U0NOVkVGYVdUMnFSalM2cG1",
-      "source_url": "http://fund.cnfol.com",
+      "title": "A股盘前播报| 国常会：完善资本市场稳市机制加快“六张网”建设 10月CPI、PPI数据今日公布_短",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SOTlIN1FoaVNNdURDNVZlYmU1Z012QVk3b2dtdGIwa1pOS29wWkp4SVYzLWRHSlpuWGozU1k0SF9JLUViMnQwakh",
+      "source_url": "https://stock.stockstar.com",
+      "source": "证券之星"
+    },
+    {
+      "title": "中信建投：2027年A股将迎来“盈利下行+贴现率下行”的交接年_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrX09pbUxOTjZKRG1JTGVjT253b01fMkdOb1FEWVZMbVpWd3laUzNXNzZGelRYRzYxSVFiNmVNRG1nbWNTeFNxUkp",
+      "source_url": "http://sc.stock.cnfol.com",
       "source": "中金在线"
     },
     {
-      "title": "清华金融评论:国常会给出更高层级定调 稳股市是国家层面的大事",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSjBCVVk5SFdUcDlJNkZnSDhxb1RBN0szMDRfeUU0aG1CUFRPT3JEd0pncHduZ01lVmxZb0NheWVnbFN0eWNTdFV",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经_金融信息服务商"
+      "title": "百胜中国(09987.HK)：于11月6日斥资270万美元回购5.42万股_股市直播_市场",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jWVRtVU10Tk1tQUQxSW41dldkZ210QVZIZkQ3THRrSWRPdmRKWUJFbDlMLWZRTENNMDhFbml4N0d0Tkw3OVh4SXU",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "AI“神话”褪色，全球资本看好中印股市",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRU5Sb2RVWWo1TTFtb0FWX3I2TXBzaDIzMm04Qi1QZFRPa2pLRHl3ZFZPS2dSVGR1RF9Ib0IxbjF5a2xhM0FkNl9",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
+      "title": "11月9日国内四大证券报纸、重要财经媒体头版头条内容精华摘要_每日必读_市场",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lSm9OXzhIZjJ4MTgyU1ZxQ0dxei1tTEZRTENDTXl3Z2NGNDZqVGFQaFFFTmtlUXh6aEZuX3NYMkdHUzVBQ01nUVY",
+      "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "路透测算DJT外部投资者惨亏22亿美元，特朗普持股价值仍达4.6亿美元",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjTE1HZ01vQU9iQ3otb0g1WTNqemRlbG1DVWk4enBqRmNCX20yZWpNU0pqVHlzdWU1d01uS3k1NmdEUlM4b1FZY0w",
-      "source_url": "https://stock.jrj.com.cn",
-      "source": "金融界"
+      "title": "为科技股“买单”后，万亿险资欲借调仓“解套”？",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWjNNZnhFdVVsRkVoNThrVTRWOXJBdVRzdWpJRDVhU2MzQ01HOW5FZHhib0pBOXVjdmZRTDVfeElWUzR1TEtPdjd",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "下周，A股还能继续反弹吗？",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmSXJPWEdqNk5lRWJHdjRJR3dMNW1FUEdQNlRNZGN4Rl9FVC1vM2NfaEluM2pRRnpyejZXTmkxeVdMNmN6elNNcTR",
-      "source_url": "https://m.jrj.com.cn",
-      "source": "金融界"
-    },
-    {
-      "title": "美股科技股，比大盘还便宜了",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVG5oSnBIaDc4WkRmbWdsWVVUcEZRb0RqN3NmamtCaXNwbTBXZnVkM2IwYklwRXVraUpuNXNzNng0b2lWYzZyQWh",
+      "title": "A股又一龙头，上市时间定了",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSE1vbTFrOWZ6RzluN0xxa0diSVFFRC11ZDRjcEMxWGl3eFpvUmxiUW9GWHZJUUNKSUNkcVg2ZVBoWEdmVm5WRjF",
       "source_url": "https://www.21jingji.com",
       "source": "21财经"
     }

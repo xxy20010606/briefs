@@ -1,29 +1,38 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 12,
-    "trusted": 3,
+    "raw_dedup_junk": 10,
+    "trusted": 4,
     "non_trusted_top": {
-      "quasa.io": 4,
-      "pasqualepillitteri.it": 2,
+      "ajudaily.com": 1,
       "ebiotrade.com": 1,
-      "vietnam.vn": 1,
-      "sina.com.cn": 1
+      "futunn.com": 1,
+      "hunantoday.cn": 1,
+      "sina.cn": 1,
+      "icloudnews.net": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 2,
-    "relaxed_72h": 0,
-    "final": 2,
+    "fresh1_24h": 2,
+    "page_fresh": 1,
+    "relaxed_72h": 3,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon 北京",
-      "d": "infoq.cn"
+      "t": "某知名互联网公司限制员工使用外部AI？知情人士这样回应",
+      "d": "xinhuanet.com"
     },
     {
-      "t": "创业者做 Personal Agent，有没有一线生机？",
-      "d": "geekpark.net"
+      "t": "（第九届进博会）普华永道：中国内地职场正从AI“工具引入期”稳步迈入“人机协同期",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "Personal Agent，为什么都停在付款之前？",
+      "d": "sohu.com"
+    },
+    {
+      "t": "进博会专访｜莱迪思半导体亚太区总裁徐宏来：数据中心带来可观增长，物理AI才是未来",
+      "d": "nbd.com.cn"
     }
   ]
 }

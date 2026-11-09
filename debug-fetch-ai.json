@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 25,
+  "total": 22,
   "samples": [
     {
-      "title": "中国移动发布算网数智全栈创新成果",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdnRVVWVySWE2VWxpM28yNzVYNmxXUy1BOXlWU1dmMEE1OHQxeHl6R3lwWmxYM3FXSkdJY2JsRU9JUXBYTHhLSFU",
+      "title": "量子位「MEET2027智能未来大会」火热报名中！首批重磅嘉宾已就位，年度榜单征集倒计时",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFZ4YkxRZjBLcW9xd3VCVXVSSWoxM0Y0RjBYQVl6MjBGdUFuTEdZb2Z6ZDNPalhVN3lVOVdYY09MM2RFcGRfcG9",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "青企故事荟 | 星际大模型：帮AI“看懂” 产业场景",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GeHNrMkowYkpNQzN0T3hEaEtGOTVxNWN6NGVIWjIzbXlXbHF1OUtUcFFyN0tCRW13QUNxTERoS3FrblNEUDI0WW1",
+      "source_url": "http://www.chinesetoday.com",
+      "source": "國際日報"
+    },
+    {
+      "title": "腾讯：终端智能体自我进化实现能力跃升",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96UGlKcGJ2RnNKcWVxdXFqeE9TYW5tX2JTSXdFZUVxV2lHeWdqX1JBUWxWcmxHOUpjdTBLRTMxRTRIQmtCczA4UTV",
+      "source_url": "https://blog.csdn.net",
+      "source": "CSDN博客"
+    },
+    {
+      "title": "基于大语言模型的生成式人工智能在牙髓病学中的应用、性能与局限性：一项范围综述",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MWXR2dUg0NVJQV0V3dGhpeklqTl9lWkR5YTVObXZsQUsxa2RueHI3V3g1LVlUOEJ5UldXZWsyZENFbVpKLUFBU25",
+      "source_url": "https://www.ebiotrade.com",
+      "source": "生物通"
+    },
+    {
+      "title": "姚顺雨谈大模型护城河：竞争壁垒在产品层而非模型层",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBua0lNbTFJX1ZmSTRWLWhCR0VyazNEa2NNVmlGLThYVVJ1UllmNm1kTWFMWnZ0Rl9zRWJEQzk0UGhRV09WdXNXbng",
+      "source_url": "https://original.ifeng.com",
+      "source": "凤凰网"
+    },
+    {
+      "title": "通用人工智能环伺，教育垂直大模型能否跑通“C端”商业化？",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ncXl0ZG5Gb3piMDYyVzk3Uk1jQzU0M0FoSFVDcVRpQWpTUlJ2UFIxTTJNTE03c3J6UFgxc0VMSXp4MXVKam10amR",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
-    },
-    {
-      "title": "前排围观！MEET2027报名通道已开启，首批重磅嘉宾已就位",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oSEp0X1Y0Q3BreVB5aWJHdHBfOVFOUFVCeGxiTGF2Y1NOQjZPZFJTRjRTQjZfTlNQX2QxN2lEZWlscFhhQjlfVQ?",
-      "source_url": "https://hub.baai.ac.cn",
-      "source": "智源社区"
-    },
-    {
-      "title": "第二十六届中国虚拟现实大会在广州开幕",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcUE4U2RpYnRuUnB3c1ZQeks2ZHlicE0xMnVpb3N2SWhfNWk1c0tSTGQydTE5X0puM29oXzhJOUFkZWFRTWJiSEZ",
-      "source_url": "https://huacheng.gz-cmc.com",
-      "source": "广州日报新花城"
-    },
-    {
-      "title": "大模型的记忆死结：为什么 AI 记得住人类全部知识，却永远记不住“昨天”？",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mOXBvZWcyYmFXVUtTazkycFlXU2JpSngtY2RZVjE2VGgwdnFqSEFja3ZheE4yZEdGN0dubDhlWXEwSE1zZlRUaS1",
-      "source_url": "https://www.techflowpost.com",
-      "source": "深潮TechFlow"
-    },
-    {
-      "title": "AI自我推荐再学习导致热门商品偏向与错误重复",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mRldRbUJ4VU1wQUxGQWFuZG5za2tFdGVuYnVzdWhpcmdQc2pERGU2YWdyWWlnYnVweXJiRDNiUC1SalZzVG5iR0k",
-      "source_url": "https://www.ajudaily.com",
-      "source": "亚洲日报"
-    },
-    {
-      "title": "科大讯飞AI竞争的下半场，从榜单到账单",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5faWxEZVo5dU5zX0ZUUDg0QjlTalpvNnhkM1lXMVg0cDNBY3lvZ3FaV2x4eGc5NWpBc3plVE5iNTZDdXdTZTJBbzN",
-      "source_url": "https://www.ichaoqi.com",
-      "source": "潮起网"
     }
   ]
 }
