@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 39,
-    "trusted": 13,
+    "raw_dedup_junk": 32,
+    "trusted": 8,
     "non_trusted_top": {
-      "sina.com.cn": 4,
+      "sina.com.cn": 6,
       "techwalker.com": 3,
-      "donews.com": 2,
-      "techflowpost.com": 2,
       "stockstar.com": 2,
-      "aibase.com": 2,
-      "sina.cn": 1,
-      "dostor.com": 1,
-      "rednet.cn": 1,
-      "icloudnews.net": 1
+      "icloudnews.net": 2,
+      "qstheory.cn": 1,
+      "china.com": 1,
+      "ac.cn": 1,
+      "iqilu.com": 1,
+      "infoobs.com": 1,
+      "scol.com.cn": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 11,
-    "relaxed_72h": 0,
+    "fresh1_24h": 7,
+    "page_fresh": 6,
+    "relaxed_72h": 1,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "不怪Robin不努力",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "不能把整个安全体系押在大模型上：AI 分诊 CVE，人工审查仍不能少",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "中国地震台网中心地震预报部主任：构建人工智能地震预测模型，为震情研判提供支撑",
+      "t": "从比拼算力到深耕算子：国产算力的真正赛场，藏在底层",
       "d": "sohu.com"
     },
     {
-      "t": "权威认证！数美科技“天枢·AI安全围栏”获国家级认证",
-      "d": "ifeng.com"
+      "t": "不怪Robin不努力",
+      "d": "thepaper.cn"
     },
     {
-      "t": "爱思，为什么爱南京",
-      "d": "chinanews.com.cn"
+      "t": "电话邦AI可信名片上线：AI搜索时代，让客户优先找到可信的你",
+      "d": "sohu.com"
     },
     {
-      "t": "210万亿Token！全球AI大模型周调用量榜单出炉，中国产品拿下前五中四席：D",
-      "d": "nbd.com.cn"
+      "t": "人工智能+交通运输场景加速落地",
+      "d": "ce.cn"
     },
     {
-      "t": "AI算力采购潮起 公募数智化转型提速",
-      "d": "21jingji.com"
+      "t": "Anthropic，发布最新“地球最强大模型”",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "智能家居产业调研",
+      "d": "ce.cn"
+    },
+    {
+      "t": "2026文化科技融合十大典型案例揭晓",
+      "d": "stdaily.com"
     }
   ]
 }

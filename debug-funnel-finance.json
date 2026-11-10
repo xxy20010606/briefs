@@ -1,54 +1,39 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 36,
-    "trusted": 16,
+    "raw_dedup_junk": 15,
+    "trusted": 7,
     "non_trusted_top": {
-      "stockstar.com": 5,
-      "sina.cn": 4,
-      "jrj.com.cn": 2,
-      "hstong.com": 2,
-      "sina.com.cn": 1,
-      "tradingview.com": 1,
-      "sfccn.com": 1,
-      "techflowpost.com": 1,
-      "fx678.com": 1,
-      "moomoo.com": 1
+      "stockstar.com": 2,
+      "sina.cn": 1,
+      "com.sg": 1,
+      "tnnthailand.com": 1,
+      "moomoo.com": 1,
+      "on.cc": 1,
+      "sina.com.cn": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
-    "final": 7,
+    "fresh1_24h": 6,
+    "page_fresh": 1,
+    "relaxed_72h": 3,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "美日韩台股市强劲反弹，A股收复5日10日五周均线_证券要闻",
+      "t": "A股：大家做好准备了，又有消息来临，股市或将迎来更大的上涨？",
+      "d": "163.com"
+    },
+    {
+      "t": "恒坤新材(688727.SH)实控人提议5000万元至1亿元回购公司股份_股市直",
       "d": "cnfol.com"
     },
     {
-      "t": "花旗：银河娱乐(00027)10月表现偏弱或部分受赢率影响毋须过分解读续列首选股",
-      "d": "cnfol.com"
+      "t": "高利率之下，美国资产的选择难题",
+      "d": "sohu.com"
     },
     {
-      "t": "信澳新能源产业股票型基金增聘吴凯近1个月跌近19%_证券要闻",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "兆科眼科-B(06622)11月6日斥资约4.28万港元回购2.15万股_股市直",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "港股异动| 泉峰控股(02285)涨超4% 近期人才储备持续推进花旗列公司为出口",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "港股异动 | 卡撒天娇(02223)升50% 附属拟5000万港元出售俊誉国际全",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "3 亿美元日交易额引爆诉讼：无限期期货冲击华尔街_期市动态",
-      "d": "cnfol.com"
+      "t": "美股AI巨震，如何把握港A的AI产业链分化机遇？",
+      "d": "sohu.com"
     }
   ]
 }

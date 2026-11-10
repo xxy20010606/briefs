@@ -1,48 +1,36 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 32,
-    "trusted": 6,
+    "raw_dedup_junk": 15,
+    "trusted": 3,
     "non_trusted_top": {
-      "ne21.com": 13,
-      "autohome.com.cn": 3,
-      "in-en.com": 3,
-      "sina.cn": 2,
-      "sina.com.cn": 2,
-      "jschina.com.cn": 1,
+      "ne21.com": 4,
+      "autohome.com.cn": 2,
+      "wedoany.com": 1,
       "jrj.com.cn": 1,
-      "caiwennews.com": 1
+      "sina.com.cn": 1,
+      "jiaodong.net": 1,
+      "caiwennews.com": 1,
+      "in-en.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 6,
-    "relaxed_72h": 0,
-    "final": 6,
+    "fresh1_24h": 2,
+    "page_fresh": 1,
+    "relaxed_72h": 2,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "603366，开盘超300万手封涨停！“东方”火了，概念股批量涨停",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "微电网为川西高原供电安全添保障",
+      "t": "300MW/600MWh！时代天源助力宁夏吴忠孙家滩共享储能电站一期项目顺利并网",
       "d": "solarbe.com"
     },
     {
-      "t": "企业家之夜前瞻|王传福：不管碰到什么困难，只要理想是对的，方向是对的，一定要坚持",
+      "t": "欧洲建电站、非洲引融资：中企新能源出海不断落地",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "机构：锂电储能低位开始修复，人形加速产业化",
       "d": "sohu.com"
-    },
-    {
-      "t": "比亚迪 C12 DUO 首秀 2026 欧洲客车展，英国市场迎来第 3000 台",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "机构：在下游需求高增长驱动下，锂电行业整体景气回升",
-      "d": "sohu.com"
-    },
-    {
-      "t": "跳出规模依赖，山东储能转向“价值比拼”",
-      "d": "ifeng.com"
     }
   ]
 }

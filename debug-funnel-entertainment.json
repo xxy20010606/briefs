@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 67,
-    "trusted": 17,
+    "raw_dedup_junk": 49,
+    "trusted": 8,
     "non_trusted_top": {
-      "rediandf.com": 4,
-      "sina.com.cn": 3,
+      "donews.com": 13,
       "sina.cn": 3,
-      "yzwb.net": 3,
-      "fjsen.com": 3,
-      "china.com": 3,
+      "xmnn.cn": 3,
+      "hangzhou.com.cn": 3,
+      "sina.com.cn": 2,
+      "dianyingjie.com.cn": 2,
       "lmtw.com": 2,
-      "hk01.com": 2,
-      "bjd.com.cn": 2,
-      "jpchinapress.com": 2
+      "fjsen.com": 2,
+      "informat.ro": 1,
+      "vietnam.vn": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 17,
-    "relaxed_72h": 0,
+    "fresh1_24h": 7,
+    "page_fresh": 6,
+    "relaxed_72h": 2,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2026电竞显示器品牌排行榜：爱攻稳坐高端第一梯队",
+      "t": "首部AI院线电影《三星堆：未来往事》票房惨淡：AI能造奇观，却造不出好故事？",
       "d": "sohu.com"
     },
     {
-      "t": "青春爱情电影《偷偷藏不住》再次定档12.12 朱珞宁周皓崎上演青涩暗恋故事",
-      "d": "sohu.com"
+      "t": "《灵魂的肉身》：对于一颗赤诚的灵魂，所有的边界都不值得畏惧",
+      "d": "bjnews.com.cn"
     },
     {
-      "t": "跨越海峡的光影共鸣：两岸青年电影人座谈交流会在厦门举行",
-      "d": "news.cn"
+      "t": "看《谷雨》追同款取景地！惠州秋冬文旅消费券来了！",
+      "d": "21jingji.com"
     },
     {
-      "t": "第九届花城文学奖颁发 李娟、张抗抗等作家获奖",
-      "d": "chinanews.com.cn"
+      "t": "探访AI短剧创作一线：《持械入宋》爆红后，团队为何主动减产？",
+      "d": "cs.com.cn"
     },
     {
-      "t": "追《尚公主》上头，华为视频AI助手帮我把人物关系捋透了",
-      "d": "163.com"
-    },
-    {
-      "t": "票房｜岁末电影定档数量同比减半 两部国产新片票房破千万",
+      "t": "敬一丹：当家信成为一本书｜带着问题去读书",
       "d": "caixin.com"
     },
     {
-      "t": "《兰香如故》海内外持续热播，以中式美学实现长剧审美跃迁",
-      "d": "cri.cn"
+      "t": "表达严谨才能取信观众（看台人语）",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "TVB也开始走短剧套路？《玫瑰战争》披着娱乐圈皮的狼人杀！",
+      "d": "163.com"
     }
   ]
 }

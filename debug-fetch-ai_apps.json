@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 15,
+  "total": 16,
   "samples": [
     {
-      "title": "企业怎么做GEO搜索排名优化，讯灵AI把品牌信息放在第一位",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVFA3cWIyQVRMWEw1cVRDYmFMb1BTSHVkbzdYQ0RaRE55b2NfYW1UVVFfWkhwU203YjlWTU95R2d6ZldxOUo3QjJ",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "Creality推出面向儿童的mBox，具备AI设计与打印监控功能",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFU4S3lYOVItU3ZqdzdoaFVwdHlXSFZ5MnZGMVh0TDRFWkNlMjJiRWwxQTI1bFBzMG1pYmJicVVYanZ5dWUzQll",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "学大教育加速构建AI教育应用能力 拓展业务增长新空间",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxaFZGY29JNUQ1dEFxN3VlV3paODhTWFlKbWhaYkJ3YVJfRVdjM3ZNOUt4Q1NydzVncEFsZ0tidFpMR0VjTS1zd3Z",
-      "source_url": "https://cn.chinadaily.com.cn",
-      "source": "中国日报网"
+      "title": "Medium推出AI写作辅助工具TK，引入透明化创作机制 ｜#AI资讯# #Medium# #内容创",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORVR0Z20zbDVGaV83M0tvbTAxTkp2RXRtWHE5NTZTMG5rQ2dxeXowSUk5YUdoOFk2STY1eDJVazQ5ckE2NkRibDg",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     },
     {
-      "title": "AMD携手CSDN与CTONE在央视“进博新品汇”带来AI开发者一体机",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wSXV2X3l2ZkhKLVlYNmJReDFyb25KOGxObGtjU3BZQU5CekFFR1RkYzZZVVdBMk5mTHFIQWdmN3o0bFhtdHFpVV9",
-      "source_url": "https://www.dostor.com",
-      "source": "存储在线"
+      "title": "迪士尼携手Adobe打造生成式AI工具，园区、邮轮、ESPN等业务优先试用",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53SUJoUWRiWXVFT1cxS3VPcHI2SWdYOERBa0d1a0RoVUJYYjRkblA4VXZJMDJNdmFRSmd2MlhMNGgzSWpJRUlUZ2h",
+      "source_url": "https://www.icloudnews.net",
+      "source": "人工智能"
     },
     {
-      "title": "AI付费时代，广发智汇卡打造科技“生产力加油站”",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OQ3V4cHE4a3Y5QS1yQjFNVktrR0p3SlRMeUN3U2R5OG1ENlpzc0c1VnN1aG51bVpDcXFRVnRiZGhVMFBFZDhJTTl",
-      "source_url": "https://money.rednet.cn",
-      "source": "湖南红网"
+      "title": "思科将把 Claude Mythos 纳入 AI Defense，用于受控红队测试",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXNBeWVJNnVnVDRnWWZsRnJJMnhfUHNua2NEYS1ncWozUzVybENSdm9yM1pyYWxrcEc1cmk0aTZRTE82c2FSSHh",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "苏州河畔论智变：AI如何从工具演进为真实生产力？",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHN5WXJlUDdoNlV6S3BaVDBIVEVBT0dPMnlHRi1jNVhiRENMbklxTEIta2ZvbnNwbVFDMWVXRFc4SG5OMDVzRTR",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "IBM CIO 组织的应用现代化之旅：简化并加速的工具",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUxMWlF3dXJHVk04YWJIZFk1UU9jSzg1OU5GSUxCaFhuaEQ4WVNCVjZGcksxWWpEdVdtMkpRXzJZVzVGaUd3dEQ",
+      "source_url": "https://www.ibm.com",
+      "source": "IBM"
     },
     {
-      "title": "从工具到主体：平安如何依托AI重塑保险销售生产力_公司新闻",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CNzVOTnk0cTFjeEVfUGNvWVhTOUkxMGZFbkswSmw5YmN4Tk1BZ0MyeFZxemFtUzRSVVNQS3kwUVc2Q3dkRVhGTjl",
-      "source_url": "https://finance.stockstar.com",
-      "source": "证券之星"
+      "title": "Vanta签署协议，收购AI安全公司Pillar Security",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdnl6bXRLR0JXdE9jMTdMMXN6MHlLczlETmFoSWZtN1g1ZWJoRV9hLXkxb0V1QjFOaGZyS2x3SkVFbU1VMUgzdlI",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     }
   ]
 }

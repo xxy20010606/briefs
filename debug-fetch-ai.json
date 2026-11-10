@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 39,
+  "total": 32,
   "samples": [
     {
-      "title": "不怪Robin不努力",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11U0pXWjB0UW1YdUZSVEVIcmdiUTZXRm43LU4xZVlQTXdRcUJCQV9CdzJ2czNQd0Y2M1dLTUlFcnBLTmhVeGNDUw?",
-      "source_url": "https://i.ifeng.com",
-      "source": "凤凰网"
+      "title": "好好聊聊“大模型”",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNbDhYYVkxWkFBc1NtRkdFRl82eDlhcUxOckw2UEZaSjdTblE3eWs4ejZEU3BkWjNCcXpPMVVpVzlsaXJwOWt5MWp",
+      "source_url": "https://www.qstheory.cn",
+      "source": "求是"
     },
     {
-      "title": "决赛圆满收官 中国电信星辰杯高校AI算子开发挑战赛助青年人才赋能国产算力",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3emhqNmxnZ2syR2l1c0xrTzg2XzlNcDUtMGpFRExkWWdDSTQ5R016WDRNQ0FGeTB1XzhFSzdYZ0JQaG9mdGFrOWd",
-      "source_url": "https://www.donews.com",
-      "source": "DoNews"
+      "title": "DeepSeek把战场搬到了“驾驭层”，大模型竞争的真正战场正在转移",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PUFM2aHIyaV85V2U1YnJENkdUa0dkV2dwS1JvTmhJdVI5bjZxS1RaZEFrUGFiMy1uSmNJNHF2U2dzcnA4QzFuejY",
+      "source_url": "https://news.china.com",
+      "source": "中华网"
     },
     {
-      "title": "OpenAI再次叫停前沿模型开发 AI+网络安全成国家级战略重点方向",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XcEhsbEZkZ1NUNUVOT0FvUzRfSTlpSjE3Z3BtQms1c3VKeGpIdU9BTFM1LXNvUkdyT3ZFeE9DVG05Rlg5c2tyRA?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "小模型学不会自己教自己，LG研究院找到了一条迂回的路",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5na3BsdDJ6X2hPc2VlbzJSUEpEakpGVXpLZWpBc3RWSk5zNzVWUWVWT2xfQUw1Z3ZjMlRIOXRxQmJPRVNSaGREbS1",
+      "source_url": "https://www.techwalker.com",
+      "source": "科技行者"
     },
     {
-      "title": "2026年物理AI代表性企业有哪些？十家厂商呈现产业多元化布局",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFhKUldQcEVuTjJpRE1rTV9GYnhCeG1wakFybVFNYlJMYjJYejdiWWd2TzM5cnJIU3hxSko5aUJkVXNFeC1IVDh",
+      "title": "2026年度“十大”科普热词：人工智能＋、智能体、词元...",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQkhkQ2JRZUpSc2hZbjVybXk2VEsxTl8wM1JyRmUzaFZBNDhYa1NKWENvcXdlRVFST1lBbndsQ3RfbnVORDRFQXp",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "不能把整个安全体系押在大模型上：AI 分诊 CVE，人工审查仍不能少",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FOVQwMGNzUjI2YmtNLS1JTmNyaE5FWlVkZ3pWM25CN1M2Y3UtNklCc0lvNzRpNVh3SVllTzdHTi11d2p6S1RqdTB",
-      "source_url": "https://www.infoq.cn",
-      "source": "InfoQ.cn"
+      "title": "量子位「MEET2027智能未来大会」火热报名中！首批重磅嘉宾已就位，年度榜单征集倒计时",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wN1BXNHd0NVJhN0Jid1loUktMaV9BM1VKNEVaUFBpUHpxVTZ1UzZpa3FrUjljeFF2TFZWRHJPekYzeS1wTHE0eA?",
+      "source_url": "https://hub.baai.ac.cn",
+      "source": "智源社区"
     },
     {
-      "title": "冻住的大脑，变聪明的病历本：当AI医生学会了\"记笔记\"",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10OTFPczBzR3l4TnJQNTdLQ0RSLWhzNVcyRnpXaGVXdTgzSGEtclhKc1Q1emJNUzQyaDViNnhBYjRnSzMxSTNqYU9",
-      "source_url": "https://www.techwalker.com",
-      "source": "科技行者"
+      "title": "从比拼算力到深耕算子：国产算力的真正赛场，藏在底层",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQXBnV1dwYzFkS202d3lWWG5LSW55Zklybl9GY3NyemFXbkVzaE9fSFNPRXp2M2VHUWNtZ1RrUDdnQkVXUWJrbHQ",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
     }
   ]
 }

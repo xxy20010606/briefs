@@ -1,42 +1,42 @@
 {
   "type": "entertainment",
-  "total": 67,
+  "total": 54,
   "samples": [
     {
-      "title": "第一个花千万、用AI做电影的老板，交了大学费",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY1JFbXJJOVBSUFVGQ3oxbHgzYk1DTGZEYkRsVnRRbGpTSzFMSjgzN2l5RVBMUHgxdFd1V1hldmN1OVBXckRMQzN",
+      "title": "首部AI院线电影《三星堆：未来往事》票房惨淡：AI能造奇观，却造不出好故事？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZTc5TjBVRFBvX1IyWFpGVU0zdlRLOWctQ0lOTno1eFVTQnNDOTNST3U2WHdoY1hYUnJ2U2NhVUhYczF4eUdIOVB",
+      "source_url": "https://m.sohu.com",
+      "source": "搜狐网"
+    },
+    {
+      "title": "《哥斯拉-1.0》首个周末票房达6300万美元，并在美国、加拿大和日本创下纪录",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYVo5UGZic21UNnpoaDFxdVhhZHpwZTl1d0E2d05CM2xsTlQxZS0yb2wxYW5RNGJCOUdXWTlXN180TktyZWxjRDh",
+      "source_url": "https://informat.ro",
+      "source": "Informat.ro"
+    },
+    {
+      "title": "DJ Mie主演的电影即将上映，敬请关注！",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQbk42UDZfRWxSQV9wbFlJY0lQMktweTBkV05Ob0dyN1lyblJkcDRpTGYtcGpMWksydTdWVjBfc3BHLXhIb2xVZFh",
+      "source_url": "https://www.vietnam.vn",
+      "source": "Vietnam.vn"
+    },
+    {
+      "title": "从无人看好到破圈翻红，这档综艺把“后会友期”走成了真故事|芒果 TV|白小纯|王子璇|厉娜|青稚|后",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fby1aZ0lPVkVZREJKTjJlUXlWcjBmVEI2bklkei1QWGNXcnNwSVJ5N3VqamF5eHNOWnMzbWs5aURLcG5QXzlhVUN",
+      "source_url": "https://www.sina.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "许嵩冯禧官宣结婚！两人相识于综艺节目，第一次见面心动眼神藏不住",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nNEVSOXVfeHFKbmhMNy1ZMzhIcWpBX0RYb1Y4NlJuMk1FTUZtUE9YOXV2MUlNZEFOQV9NREs0Q2VpWUNfcmxtV3B",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "《哥斯拉负零》首映票房创纪录 31.6 美元，击败《戴帽子的猫》",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOdU9ZYmtkbmg3NTJEX0x6VUtiMnN6T2x2NmxjRnFTMElOYzhvNXJ3TDR0Yk84VTBKX2dyeWhRY1g0MmZkdzRQMjd",
-      "source_url": "https://www.arch-web.com.tw",
-      "source": "www.arch-web.com.tw"
-    },
-    {
-      "title": "《剧场版千与千寻：人鱼岛的秘密》连续六周登顶周末票房，韩国电影能否反击？",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MZTF0ZzZUY1NxR2hxUUlqVndjTDRnaGc2bnVHZTJWUkFoaVJ0WFhIY25adjFkUVZ3NUdOMlNrOUlacDE1elBVT3h",
-      "source_url": "https://www.ajudaily.com",
-      "source": "亚洲日报"
-    },
-    {
-      "title": "一周票房丨宋佳、文淇新片高开低走，《哥斯拉》杀疯北美",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CcGpESHJRLXdOcG1KSWQ4ZGtpVk1Dcjh4WjE2Q2ZzSjZfM01aMFBPR0dQa0d5bE1jYk9lbjFPQktPQUQtV25MNDZ",
-      "source_url": "http://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "刘德华新片《白衣逆行者》偷偷摸摸撤档了？",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3VjlkR01jVlVWUHhEY2UyeTdnWnZHVGo1TGxCN2RnLXZfM04wTE8yWHdrXzR2TFlaRUo3aEJCajYxdzhTTnJ6c21",
-      "source_url": "https://www.aboluowang.com",
-      "source": "阿波罗新闻网"
-    },
-    {
-      "title": "《哥斯拉：负零》创下日本单日票房纪录——《日本时报》",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdS1DMEVWWVpMaFI4VUxIajZZQjhaTXh3ZG1reXVRSl9FMWJ0d3RFM2hUajNDOE1nbFlpa2hsMVdBb2doWEU2N3Z",
-      "source_url": "https://ua.news",
-      "source": "UA.NEWS"
+      "title": "全新开体育app官网入口正式揭晓，“开体育app官网入口”全场景电竞体育入口旗舰即将发布！",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpa1NfSmFNTnJkTHBxZ3RodkdYTC1ydkpQOU5xMkdCdk93Y0dGbVNKNldraEQ3elFyVTBDblFYaDFZWTFyeGU1VmN",
+      "source_url": "https://www.donews.com",
+      "source": "DoNews"
     }
   ]
 }
