@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 28,
+  "total": 44,
   "samples": [
     {
-      "title": "产业整合提速叠加需求景气上行，芯片ETF易方达（516350）动能积聚-ETF火线",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Gc0NnOFV4TS1LQWF3cEhXdlJZRjdiSElOUlVOMzRpVGhNOWxMX2lzOW1URFdRN1NtWmpkNWNKSy0xVnc1VmV1MzN",
-      "source_url": "https://fund.jrj.com.cn",
-      "source": "金融界"
+      "title": "2家磷化铟企业冲IPO，其中一家华为小米比亚迪都投了！",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IWW9FTVB5U1BRR09OcWVIUHVjSHM0MmJLLVFqREoySkJsVE1pc0staGVPX2dhSE44SFo5dDVhMlZSTzhfdUVCQWV",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "半导体概念盘中走强，美股费城半导体指数涨近7%|异动情报",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5reE54eTR0emxpQUdCdFpKX0VKWnVCNkZ4dFV6cmE0a3NKVElwR0xZWWxHcnN3dWNqcnhMVmJ5N3pjREtEN3N6Rmh",
-      "source_url": "https://stock.stockstar.com",
-      "source": "证券之星"
+      "title": "兆易创新又出手，控股芯茂微",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LUE8wRllfTGFqLWQ3NW03elEyd0JLSTZiU2p2WHZpRkpHUjhHaTd4c0U3cGNQaEFqazRtc1JkNHk0MGdLQkVJb2V",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "港股半导体、芯片股，集体上涨",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZHFhNnZVNm1UNkVNbjNHMDV1MUNXTWw3d2JFVGVXRkVueUtvUThXSmplYmdkVW95Y0JxY0JHZWduakMzMzFDNFQ",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "摩根士丹利将北美半导体行业评级列为吸引 首选英伟达",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IU3lLMUN2RkhPOFZnckF0SDBXTWJtVXRRVk56Ny1Nb0tzRXJQMzFQRmR1MG9IcVp2RVhTZTJvX2Y4Z2Z2NFdIbmV",
+      "source_url": "https://www.guandian.cn",
+      "source": "观点网"
     },
     {
-      "title": "业绩下滑六成仍出手，艾为电子并购半导体公司",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rX2E0YXV4UWUzbE5CMkFYWDVuZkRWT3JjVWE3UnlBSmdBeUJhWlE4MjBoQ2gwRlhzZlBHS0N2UFBwS2t0OGJOMU9",
-      "source_url": "https://finance.china.com",
-      "source": "中华网财经"
+      "title": "欧洲芯片巨头CEO自信喊话：在机器人和物理AI领域，我们也有实力",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPREgwVHVtNXJRZnRsUlcxQjBILVZ2MzliYUNBT1FCSGpGY1lLQndjYnl4NW9sU0VseXJmTVZNVGh2T3ZTRVFDSWd",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
     },
     {
-      "title": "大摩高喊抄底半导体：跌过头了，风险回报显著改善！首选英伟达、博通",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pVzlRRllTY2tzWkVtSF80a1NEdTBqYjF0QlNqdjZZZzhLWkd6Vm5sbGhhZVZNOUxOX2w5cHNvOFVnajVHWThJOS1",
-      "source_url": "https://m.jrj.com.cn",
-      "source": "金融界"
+      "title": "紫光国微在无锡成立新半导体技术公司 注册资本1亿",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtTzl1OTQ4X1BQM29SemJvb0JrQk9WbF9NSWhMRWJab0dXV3JJWlhsSHNSMExYbWczOUhEdVR0ZzAyQmpRdEU5ZS1",
+      "source_url": "https://finance.eastmoney.com",
+      "source": "东方财富"
     },
     {
-      "title": "存储芯片巨头，涨超7%",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUm83ekVIalRLdUtENldxS3RQY1NHU1FzRWhlSFVrM3ozTmZjU3V3ZnBlWTY1UkZzZkxMdFRDTzZocktNR1lnWlo",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
+      "title": "TOP4芯片分销商，营收大涨，但差距更大了",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pTnUtWGl2bDVKbHlOVFpDbE9Lekw0T1JRMFFrOXZ5eHM0RWZSM2RMYUcweVhIOUkzQlVVanQybUFXWWxCdlp3bHh",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     }
   ]
 }

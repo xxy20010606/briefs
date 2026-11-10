@@ -1,36 +1,42 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 15,
-    "trusted": 3,
+    "raw_dedup_junk": 35,
+    "trusted": 4,
     "non_trusted_top": {
-      "ne21.com": 4,
-      "autohome.com.cn": 2,
+      "autohome.com.cn": 9,
+      "ne21.com": 8,
+      "sina.com.cn": 4,
+      "itdcw.com": 2,
+      "seetao.com": 1,
+      "news18a.com": 1,
+      "vietnam.vn": 1,
+      "sina.cn": 1,
       "wedoany.com": 1,
-      "jrj.com.cn": 1,
-      "sina.com.cn": 1,
-      "jiaodong.net": 1,
-      "caiwennews.com": 1,
-      "in-en.com": 1
+      "xcar.com.cn": 1
     },
-    "fresh1_24h": 2,
-    "page_fresh": 1,
-    "relaxed_72h": 2,
-    "final": 3,
+    "fresh1_24h": 4,
+    "page_fresh": 4,
+    "relaxed_72h": 0,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
+    {
+      "t": "机构：储能盈利略有波动、风电节奏放缓、光伏亏损收窄",
+      "d": "sohu.com"
+    },
     {
       "t": "300MW/600MWh！时代天源助力宁夏吴忠孙家滩共享储能电站一期项目顺利并网",
       "d": "solarbe.com"
     },
     {
-      "t": "欧洲建电站、非洲引融资：中企新能源出海不断落地",
-      "d": "21jingji.com"
+      "t": "比亚迪股份(01211)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
     },
     {
-      "t": "机构：锂电储能低位开始修复，人形加速产业化",
-      "d": "sohu.com"
+      "t": "中国氢能与绿色燃料试点交卷：15个案例，跑通了哪些路？",
+      "d": "thepaper.cn"
     }
   ]
 }

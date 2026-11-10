@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 49,
+    "raw_dedup_junk": 53,
     "trusted": 8,
     "non_trusted_top": {
-      "donews.com": 13,
-      "sina.cn": 3,
-      "xmnn.cn": 3,
-      "hangzhou.com.cn": 3,
-      "sina.com.cn": 2,
+      "sina.cn": 4,
+      "donews.com": 4,
+      "bjd.com.cn": 4,
+      "sina.com.cn": 3,
       "dianyingjie.com.cn": 2,
-      "lmtw.com": 2,
-      "fjsen.com": 2,
-      "informat.ro": 1,
-      "vietnam.vn": 1
+      "rediandf.com": 2,
+      "china.com": 2,
+      "gz-cmc.com": 2,
+      "workercn.cn": 2,
+      "zhengguannews.cn": 2
     },
-    "fresh1_24h": 7,
-    "page_fresh": 6,
-    "relaxed_72h": 2,
+    "fresh1_24h": 8,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "首部AI院线电影《三星堆：未来往事》票房惨淡：AI能造奇观，却造不出好故事？",
+      "t": "沪游双周报｜年末各大赛事总决赛相继来袭",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "电竞燃动阳羡山水！电竞“苏超”无锡赛区宜兴站圆满收官",
       "d": "sohu.com"
     },
     {
-      "t": "《灵魂的肉身》：对于一颗赤诚的灵魂，所有的边界都不值得畏惧",
-      "d": "bjnews.com.cn"
+      "t": "《人民的名义》导演李路携新作《谷雨》交流：以人物呈现真实生活",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "看《谷雨》追同款取景地！惠州秋冬文旅消费券来了！",
-      "d": "21jingji.com"
+      "t": "演了上千场的《五星出东方》，这次用8K超高清“重启”舞台",
+      "d": "cyol.com"
     },
     {
-      "t": "探访AI短剧创作一线：《持械入宋》爆红后，团队为何主动减产？",
-      "d": "cs.com.cn"
+      "t": "电视剧《伟大的长征》主创团队走进北大 与师生共话伟大长征精神",
+      "d": "chinanews.com.cn"
     },
     {
-      "t": "敬一丹：当家信成为一本书｜带着问题去读书",
-      "d": "caixin.com"
+      "t": "《持械入宋》团队提醒谨慎入行，抖音李亮：不要盲目跟风",
+      "d": "guancha.cn"
     },
     {
       "t": "表达严谨才能取信观众（看台人语）",
       "d": "people.com.cn"
-    },
-    {
-      "t": "TVB也开始走短剧套路？《玫瑰战争》披着娱乐圈皮的狼人杀！",
-      "d": "163.com"
     }
   ]
 }

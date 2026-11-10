@@ -1,54 +1,50 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 32,
-    "trusted": 8,
+    "raw_dedup_junk": 39,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 6,
-      "techwalker.com": 3,
-      "stockstar.com": 2,
-      "icloudnews.net": 2,
-      "qstheory.cn": 1,
-      "china.com": 1,
+      "sina.com.cn": 7,
+      "stockstar.com": 4,
+      "aibase.com": 3,
+      "sina.cn": 2,
+      "techwalker.com": 2,
+      "scol.com.cn": 2,
       "ac.cn": 1,
-      "iqilu.com": 1,
-      "infoobs.com": 1,
-      "scol.com.cn": 1
+      "csteelnews.com": 1,
+      "bjwmb.gov.cn": 1,
+      "guanhai.com.cn": 1
     },
     "fresh1_24h": 7,
     "page_fresh": 6,
-    "relaxed_72h": 1,
-    "final": 7,
-    "cap": "同域≤2条"
+    "relaxed_72h": 0,
+    "final": 6,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "从比拼算力到深耕算子：国产算力的真正赛场，藏在底层",
+      "t": "阿里云获中国专利金奖：破解AI时代的超大规模智能算力调度难题",
       "d": "sohu.com"
     },
     {
-      "t": "不怪Robin不努力",
-      "d": "thepaper.cn"
+      "t": "前三季度大赚2100亿，长鑫科技吃下存储周期红利",
+      "d": "21jingji.com"
     },
     {
-      "t": "电话邦AI可信名片上线：AI搜索时代，让客户优先找到可信的你",
+      "t": "筑牢底座物理AI基础设施加速构建 让AI“走出”数字屏幕“走进”现实世界",
       "d": "sohu.com"
+    },
+    {
+      "t": "英伟达失窃 7600 万元芯片，苹果机器人陌生房间任务成功率 91%丨周报",
+      "d": "21jingji.com"
     },
     {
       "t": "人工智能+交通运输场景加速落地",
       "d": "ce.cn"
     },
     {
-      "t": "Anthropic，发布最新“地球最强大模型”",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "智能家居产业调研",
-      "d": "ce.cn"
-    },
-    {
-      "t": "2026文化科技融合十大典型案例揭晓",
-      "d": "stdaily.com"
+      "t": "八天搓出操作系统，还能设计智能硬件！Anthropic新旗舰模型亮相",
+      "d": "cls.cn"
     }
   ]
 }

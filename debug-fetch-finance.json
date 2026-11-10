@@ -1,41 +1,41 @@
 {
   "type": "finance",
-  "total": 15,
+  "total": 29,
   "samples": [
     {
-      "title": "宇树科技成A股第三高价股，多股直线涨停，特斯拉擎天柱机器人要来了",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5adXdKZzM3V3I3dmZzRzJLZVl3cWNjRWlxazlCWHRiUTQ5NUVBS1lEMC1PNUlrQzIyUFBLWTRPRWNVeXMzNFlqQlE",
+      "title": "英伟达，股价直线上涨",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmMEtvMV9SUjJYN1RxYVlqaVk3ejNnY1g5NDQ5XzVWR2k0WUp2ZkNjczk1OUdTMUNveTcwanNud2J5Y2s3NzBuek1",
       "source_url": "https://cj.sina.cn",
       "source": "新浪网"
     },
     {
-      "title": "星期二可关注股票",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CQ1h5TW82R0dOMUx0T1haSHdCdkIyTF91MW5fVW5lazhwcVl1SnpVRS1QOGtaQU50RC1ScVhNNy1qVGtJTE11SnF",
-      "source_url": "https://www.zaobao.com.sg",
-      "source": "联合早报"
+      "title": "宏达电子拟定增目前股价不及2021年募资10亿定增价一半_证券要闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EV3NWSzU2c2IwVzl5WFQ5UTVvOVM3Q2pFYTJnbTdPMFV6NWRkZGtHR3V1Z28wX1RzNnh2cEtFZERWTmVva3l3ZzI",
+      "source_url": "http://news.cnfol.com",
+      "source": "中金在线"
     },
     {
-      "title": "迈威尔科技(MRVL.US)1150亿美元“世纪联姻”遇冷！股价已跌超40%，专家预计完成概率仅五成",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42azJCekZvdGxiWnlLZDdJTzlJNmgySG92VzFVTy1ibzZJcktzYndFenBRNEtsZkM1bkQ5d0xURzR2WWE1OExDaVl",
+      "title": "聚灿光电拟不超15亿定增近5年募18亿实控人累计套现2亿_证券要闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yOVU5X2xRQVYwa1Zqem03eGE3M3ZCUUVCRXlDNGtSM2pRRndyaDZFMG1zdjVCS25OQXlVN29lOWJaa2xqY2I1Y21",
+      "source_url": "http://news.cnfol.com",
+      "source": "中金在线"
+    },
+    {
+      "title": "高盛：日元仍是对冲AI股票进一步抛售风险的最佳工具_公司新闻_财经",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wWlphRnowU3EydGxNeUcxM2tIYl9kRjFpa2NaVDE0NWRPd2NaNEZDOU9TVlZwTEJQbGIxSDhOaE41TjFjUXZ4ZEU",
       "source_url": "https://wap.stockstar.com",
       "source": "证券之星"
     },
     {
-      "title": "A股：大家做好准备了，又有消息来临，股市或将迎来更大的上涨？",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZFJKUU82akxtVk5DTGlZaGJCSm1MemJUQTBBOWhyTE9kSG9CbUJjaVliSGtmV2RHSHFWdHhhRVlVUEFnYXRvaHd",
-      "source_url": "https://c.m.163.com",
-      "source": "网易新闻客户端"
-    },
-    {
-      "title": "美股异动| AI应用软件股全线走高The Trade Desk(TTD.US)升逾10%_全球市场_",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84LWNvYjNJM2dZcjQ2Y0ZRcndYZ1NwVElHbFVSSHo5Q29QZDh3WjVRNVlWcjVINGVjNHY4RVpPVXFQSXNRVEcwNVZ",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "恒坤新材(688727.SH)实控人提议5000万元至1亿元回购公司股份_股市直播_市场",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WNmF0dmVOb3psRk1icE9yaldxUm14MFNlMjNWV2c0cFhiMTMxaXhRTTBya05hNXcyTTdHRzZTSWYza3R2NjFpU1g",
+      "title": "Anthropic、英伟达重磅！物理AI再度引爆机器人(附股)_股市聚焦_市场",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WSGdRV09LS243X0U1dFhoRkRzakpOVHdwQmJib1J0cm9KdzBpV2dXcHJ2bW5sSU1CeEdhQkxaUm54cmVIeEd1dGx",
       "source_url": "http://sc.stock.cnfol.com",
+      "source": "中金在线"
+    },
+    {
+      "title": "破发股ST瀚川遭通报批评A股共募16.5亿国投证券保荐上市_证券要闻",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94bVNPcWpKSUg2N2FIT2hHRUxCMzRkOU1DQ3pNWEFPYnpwUWJGMll1bHhhQUhWZW14X1dVaGNCYzZia3lUZ3U2QTd",
+      "source_url": "http://news.cnfol.com",
       "source": "中金在线"
     }
   ]

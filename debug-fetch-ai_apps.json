@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 16,
+  "total": 22,
   "samples": [
     {
-      "title": "Creality推出面向儿童的mBox，具备AI设计与打印监控功能",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFU4S3lYOVItU3ZqdzdoaFVwdHlXSFZ5MnZGMVh0TDRFWkNlMjJiRWwxQTI1bFBzMG1pYmJicVVYanZ5dWUzQll",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "AI智能体培训机构推荐：职坐标课程与实训支持解析",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSUtUODQ5UWVUZTRncXRoNVVIZVVGR29WazBTcFhUYlJFN1A1NkwybkdfSTBac0JlamlMWE1kdE82SDNxNHl2Tkd",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "Medium推出AI写作辅助工具TK，引入透明化创作机制 ｜#AI资讯# #Medium# #内容创",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORVR0Z20zbDVGaV83M0tvbTAxTkp2RXRtWHE5NTZTMG5rQ2dxeXowSUk5YUdoOFk2STY1eDJVazQ5ckE2NkRibDg",
-      "source_url": "https://m.sohu.com",
-      "source": "搜狐网"
+      "title": "AI付费时代，广发智汇卡打造科技“生产力加油站”",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzTENVVC1jcjRrMDAtMzdjaTlMWHltSnkybUxCT19BbzNoX1Fad0NnUk9lUUlyQTRKVm5aQmt4NWNPaHFiU04yd2w",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "迪士尼携手Adobe打造生成式AI工具，园区、邮轮、ESPN等业务优先试用",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53SUJoUWRiWXVFT1cxS3VPcHI2SWdYOERBa0d1a0RoVUJYYjRkblA4VXZJMDJNdmFRSmd2MlhMNGgzSWpJRUlUZ2h",
-      "source_url": "https://www.icloudnews.net",
-      "source": "人工智能"
+      "title": "AI从辅助工具到执行主体，平安如何重塑保险销售生产力",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSS1TVTBIa2VQR3kxcFl1Y2hWQXlqaHVaWXNsWV9VODhNREJ3SG1RWWZZMjdwRXJxeDUwaFJ6RV9uZlV1Z2thYXB",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "思科将把 Claude Mythos 纳入 AI Defense，用于受控红队测试",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXNBeWVJNnVnVDRnWWZsRnJJMnhfUHNua2NEYS1ncWozUzVybENSdm9yM1pyYWxrcEc1cmk0aTZRTE82c2FSSHh",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "服务中国100年，罗氏找到AI医疗新打法",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0VVSlExTHRWOTlseW1KWkpDam9VR0dFMm41cktSSXlIWG5FbFB0b3BReVhIeDRxTzFOUGJUNmtzWHZidTQ4YW5",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "IBM CIO 组织的应用现代化之旅：简化并加速的工具",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUxMWlF3dXJHVk04YWJIZFk1UU9jSzg1OU5GSUxCaFhuaEQ4WVNCVjZGcksxWWpEdVdtMkpRXzJZVzVGaUd3dEQ",
-      "source_url": "https://www.ibm.com",
-      "source": "IBM"
+      "title": "本地部署、自主适配，IBM Bob探索为中国企业落地AI的新路径",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HZm0ydjBpcUo2VTFlQUxCZDBJTjRFS3c3YVhLSHFxdTRXRzRXVjNXNUZQU3FjdUNkSFRDSHVQOGV3b3BCNzdHcWV",
+      "source_url": "https://www.dostor.com",
+      "source": "存储在线"
     },
     {
-      "title": "Vanta签署协议，收购AI安全公司Pillar Security",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdnl6bXRLR0JXdE9jMTdMMXN6MHlLczlETmFoSWZtN1g1ZWJoRV9hLXkxb0V1QjFOaGZyS2x3SkVFbU1VMUgzdlI",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "【保密宣传】警惕AI泄密：严守保密红线",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvaU5tQzh5UkdKODFfYzhnRENkN01LRzhIeVhtd1FqcmMzdGh6Nk1ldzhZdk5NNjZjZDlETjEzdXFRS0pkVHFZQUZ",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     }
   ]
 }

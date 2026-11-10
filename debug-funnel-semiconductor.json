@@ -1,51 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 28,
-    "trusted": 16,
+    "raw_dedup_junk": 44,
+    "trusted": 28,
     "non_trusted_top": {
-      "sina.cn": 3,
+      "china.com": 3,
+      "mydrivers.com": 2,
       "jrj.com.cn": 2,
-      "stockstar.com": 2,
-      "sina.com.cn": 2,
-      "china.com": 1,
-      "ichaoqi.com": 1,
-      "moomoo.com": 1
+      "guandian.cn": 1,
+      "esmchina.com": 1,
+      "indexbox.io": 1,
+      "futunn.com": 1,
+      "stockstar.com": 1,
+      "sina.com.cn": 1,
+      "smm.cn": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 8,
+    "fresh1_24h": 27,
+    "page_fresh": 26,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "存储芯片巨头，涨超7%",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "研华DDR5 7200内存助力半导体AOI检测性能飙升！",
+      "t": "2家磷化铟企业冲IPO，其中一家华为小米比亚迪都投了！",
       "d": "eet-china.com"
     },
     {
-      "t": "美股三大指数全线收涨：半导体、存储芯片强劲反弹，英伟达跌超4%",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "美股讯号 | 超威半导体股价大涨13.26%，AI芯片板块引领科技股反弹 ｜#美",
-      "d": "sohu.com"
-    },
-    {
-      "t": "美股三大指数狂飙，半导体、存储芯片、光通信集体爆发",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "23:54:01【美股半导体板块强势反弹 费城半导体指数较11月5日收复约10%",
-      "d": "cls.cn"
-    },
-    {
-      "t": "周刊丨半导体行业投融周动态（11.02—11.08）",
+      "t": "兆易创新又出手，控股芯茂微",
       "d": "eet-china.com"
+    },
+    {
+      "t": "欧洲芯片巨头CEO自信喊话：在机器人和物理AI领域，我们也有实力",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "紫光国微在无锡成立新半导体技术公司 注册资本1亿",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "恩纳基自研A19 FC高精度倒装键合装备完成首批交付",
+      "d": "iccsz.com"
+    },
+    {
+      "t": "卓源亚洲再获IPO！芯德半导体登陆港股上市！",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "自研EtherCAT IP ＋全链路国产芯片丨方芯FCE1100八口EtherC",
+      "d": "ifeng.com"
     }
   ]
 }

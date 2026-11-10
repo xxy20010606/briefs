@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 32,
+  "total": 39,
   "samples": [
     {
-      "title": "好好聊聊“大模型”",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNbDhYYVkxWkFBc1NtRkdFRl82eDlhcUxOckw2UEZaSjdTblE3eWs4ejZEU3BkWjNCcXpPMVVpVzlsaXJwOWt5MWp",
-      "source_url": "https://www.qstheory.cn",
-      "source": "求是"
-    },
-    {
-      "title": "DeepSeek把战场搬到了“驾驭层”，大模型竞争的真正战场正在转移",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PUFM2aHIyaV85V2U1YnJENkdUa0dkV2dwS1JvTmhJdVI5bjZxS1RaZEFrUGFiMy1uSmNJNHF2U2dzcnA4QzFuejY",
-      "source_url": "https://news.china.com",
-      "source": "中华网"
-    },
-    {
-      "title": "小模型学不会自己教自己，LG研究院找到了一条迂回的路",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5na3BsdDJ6X2hPc2VlbzJSUEpEakpGVXpLZWpBc3RWSk5zNzVWUWVWT2xfQUw1Z3ZjMlRIOXRxQmJPRVNSaGREbS1",
-      "source_url": "https://www.techwalker.com",
-      "source": "科技行者"
-    },
-    {
-      "title": "2026年度“十大”科普热词：人工智能＋、智能体、词元...",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQkhkQ2JRZUpSc2hZbjVybXk2VEsxTl8wM1JyRmUzaFZBNDhYa1NKWENvcXdlRVFST1lBbndsQ3RfbnVORDRFQXp",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "量子位「MEET2027智能未来大会」火热报名中！首批重磅嘉宾已就位，年度榜单征集倒计时",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wN1BXNHd0NVJhN0Jid1loUktMaV9BM1VKNEVaUFBpUHpxVTZ1UzZpa3FrUjljeFF2TFZWRHJPekYzeS1wTHE0eA?",
+      "title": "“AI毁了我的计算机学位”",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14d0xmT0I5QlV2OTlIMFZwMk8teEdlODY2OFpyNGdIWVlUSTM0eDY0U3h1NGxmdmYxaHNJd21BWjUyZnh2NTUtaQ?",
       "source_url": "https://hub.baai.ac.cn",
       "source": "智源社区"
     },
     {
-      "title": "从比拼算力到深耕算子：国产算力的真正赛场，藏在底层",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQXBnV1dwYzFkS202d3lWWG5LSW55Zklybl9GY3NyemFXbkVzaE9fSFNPRXp2M2VHUWNtZ1RrUDdnQkVXUWJrbHQ",
+      "title": "打造“AI查询智能体” 解锁“智能秒解”新技能",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80X1lpUy1tMS1uRnlyUDI5V001OXdZeFhuMlhOdmNnRk56ZE01MlNWVzhQWDZXbkFqUloxOGNmdnQ0V0RQQk12S0s",
+      "source_url": "http://www.csteelnews.com",
+      "source": "中国钢铁新闻网"
+    },
+    {
+      "title": "GEO 科普｜流量入口迁移，怎么让大模型准确引用你的品牌信息",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80R1ZwYmRNMjVZa2FZNmlVZGM0alBoWlcxUVRMbktXRHE1LTduWERzSnZWOFI0Yzl2ZkRpRG8tZ09KZFVYV2JaTUx",
+      "source_url": "https://t.cj.sina.cn",
+      "source": "新浪网"
+    },
+    {
+      "title": "阿里云获中国专利金奖：破解AI时代的超大规模智能算力调度难题",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemp4ZjBmOVg4T1lJR3ozR3pOOW9pZ2kxVEVjRnpUc1ppTVpoV19wSUhUNjBkOFhNc2d2NFhRRFZKbXZ2VGY5bEZ",
       "source_url": "https://m.sohu.com",
       "source": "搜狐网"
+    },
+    {
+      "title": "河北数字大脑赋能环京智算集群",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zcHBVcFNPbjBGTGpITGNkSXM1NWJuQ29QRGdzS0JCMzJRdGpneE9sUENZbWMxemY5MzhrLTZHMWdqQjF0VklyeTF",
+      "source_url": "https://www.bjwmb.gov.cn",
+      "source": "首都文明网"
+    },
+    {
+      "title": "大模型不缺脑子，缺身体：AI 眼镜会是爆品吗？_科技要闻_科技",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pbTN1NkJpU1QzazRwMUNhdkZXMFJhVEN2eVpOZFZfMWZkODZ0OWxDYzBvNHlYVzRXeEFscHpRM0cxb29xbGp5ZGI",
+      "source_url": "https://stock.stockstar.com",
+      "source": "证券之星"
     }
   ]
 }

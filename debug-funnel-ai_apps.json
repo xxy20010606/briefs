@@ -1,48 +1,52 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 16,
-    "trusted": 8,
+    "raw_dedup_junk": 22,
+    "trusted": 7,
     "non_trusted_top": {
-      "unite.ai": 5,
-      "icloudnews.net": 1,
+      "sina.com.cn": 6,
+      "unite.ai": 3,
+      "dostor.com": 1,
+      "ofweek.com": 1,
       "ibm.com": 1,
-      "smarthey.com": 1
+      "donews.com": 1,
+      "aibase.com": 1,
+      "stockstar.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 6,
-    "relaxed_72h": 1,
+    "fresh1_24h": 7,
+    "page_fresh": 7,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "Medium推出AI写作辅助工具TK，引入透明化创作机制 ｜#AI资讯# #Me",
+      "t": "ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "AI漫剧概念延续爆发！10月海外短剧百强榜上，有82部主投平台是中国厂商",
       "d": "sohu.com"
     },
     {
       "t": "北大助理教授创业押注实时RSI：让AI摆脱“出厂即定型”",
-      "d": "ifeng.com"
+      "d": "sohu.com"
     },
     {
       "t": "三大指数集体高开，创业板指高开2.44%",
       "d": "ifeng.com"
     },
     {
+      "t": "SandBase获种子轮投资",
+      "d": "sohu.com"
+    },
+    {
+      "t": "【每日瞰AI】千问办公2.0 发布，团队可共享资料并让AI 按消息触发任务；谷歌",
+      "d": "eet-china.com"
+    },
+    {
       "t": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布",
       "d": "ifanr.com"
-    },
-    {
-      "t": "Meta轻量模型Muse Ember发布：性能比肩Claude Haiku 5.",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "Anthropic发布Claude Fable 5.2和Mythos 5.2，编",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "千问办公2.0，补上了办公Agent最关键的「短板」",
-      "d": "leiphone.com"
     }
   ]
 }
