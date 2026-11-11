@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 22,
+  "total": 31,
   "samples": [
     {
-      "title": "AI智能体培训机构推荐：职坐标课程与实训支持解析",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSUtUODQ5UWVUZTRncXRoNVVIZVVGR29WazBTcFhUYlJFN1A1NkwybkdfSTBac0JlamlMWE1kdE82SDNxNHl2Tkd",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "IPO路演日加码企业办公市场！Anthropic推出多款AI工具，正面挑战微软Office",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBucXlqM0xCYXZYTWlwNE5SaU5VeTJQUWRSODh3WW5LclhpbHJCQW1BaFFVX3NfTzJQcnZQaExTNDVQbVhUUGVjZlh",
+      "source_url": "https://wallstreetcn.com",
+      "source": "华尔街见闻"
     },
     {
-      "title": "AI付费时代，广发智汇卡打造科技“生产力加油站”",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzTENVVC1jcjRrMDAtMzdjaTlMWHltSnkybUxCT19BbzNoX1Fad0NnUk9lUUlyQTRKVm5aQmt4NWNPaHFiU04yd2w",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "KORA推出搭载端侧AI的Linux桌面系统，面向Snapdragon PC",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREY2cjVtYVVObE1XNmIzSHRNazhjdm9PQlNRODhCYV9nYTNpN19UYmN3R1NESjBHUV81WFJjMHR2MTdmRHA2MVc",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "AI从辅助工具到执行主体，平安如何重塑保险销售生产力",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSS1TVTBIa2VQR3kxcFl1Y2hWQXlqaHVaWXNsWV9VODhNREJ3SG1RWWZZMjdwRXJxeDUwaFJ6RV9uZlV1Z2thYXB",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "Anthropic 推出 Claude Whiteboards 和 Claude Sheets 测试",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON1VVV2s3XzN5R0xCQkRPNmtyNEk3a3VMNEd0Zkp2MkgzVjljWHNET3U2OG1uTnZKOERQekJxQWNzc3RlVklyWGR",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "服务中国100年，罗氏找到AI医疗新打法",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0VVSlExTHRWOTlseW1KWkpDam9VR0dFMm41cktSSXlIWG5FbFB0b3BReVhIeDRxTzFOUGJUNmtzWHZidTQ4YW5",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "VictoriaMetrics推出VictoriaStack，涵盖指标、日志、追踪与AI辅助故障排查",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMHZIOU1MOXdUR2ZjenJsdXZHMGE5SldJOXFLMDREUGlzZ29UNTVIUURJZ3BrdzFGRmZIaWRuQnRMT2ZKSmQ5ZVV",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "本地部署、自主适配，IBM Bob探索为中国企业落地AI的新路径",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HZm0ydjBpcUo2VTFlQUxCZDBJTjRFS3c3YVhLSHFxdTRXRzRXVjNXNUZQU3FjdUNkSFRDSHVQOGV3b3BCNzdHcWV",
-      "source_url": "https://www.dostor.com",
-      "source": "存储在线"
+      "title": "Obsidian Security推出运行时策略引擎，管控AI智能体的操作",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTlJXeHh6Z3FfVy1xT0FISG84aDBqQVpLdGNUXzJlTUFVYndnWi10b21yRVZVd004RDZNdWhNMnhXazNPbTA3YmF",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "【保密宣传】警惕AI泄密：严守保密红线",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvaU5tQzh5UkdKODFfYzhnRENkN01LRzhIeVhtd1FqcmMzdGh6Nk1ldzhZdk5NNjZjZDlETjEzdXFRS0pkVHFZQUZ",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "Gritt 与 MasTec 携手推动物理人工智能应用于太阳能建设",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWl85WXdlN1VJd0R2RUprWDVnM1dUSEtwMVl3Ml9rdDNLQTdJV01wSmRHNE5XMUhZa25SaHEtUFVIU0dXM2tWa1N",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     }
   ]
 }

@@ -1,52 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 22,
-    "trusted": 7,
+    "raw_dedup_junk": 31,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.com.cn": 6,
-      "unite.ai": 3,
-      "dostor.com": 1,
-      "ofweek.com": 1,
-      "ibm.com": 1,
-      "donews.com": 1,
-      "aibase.com": 1,
-      "stockstar.com": 1
+      "unite.ai": 11,
+      "stockstar.com": 1,
+      "pasqualepillitteri.it": 1,
+      "cyzone.cn": 1,
+      "xiaguangshe.com": 1,
+      "cnbeta.com.tw": 1,
+      "ichaoqi.com": 1,
+      "iheima.com": 1,
+      "pedaily.cn": 1,
+      "3elife.net": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 7,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 9,
+    "relaxed_72h": 1,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端",
-      "d": "infoq.cn"
-    },
-    {
-      "t": "AI漫剧概念延续爆发！10月海外短剧百强榜上，有82部主投平台是中国厂商",
+      "t": "当AI遇上“双11” 南京数字消费迎来新空间",
       "d": "sohu.com"
     },
     {
-      "t": "北大助理教授创业押注实时RSI：让AI摆脱“出厂即定型”",
-      "d": "sohu.com"
+      "t": "从今年双十一望向2030：AI购物走到哪一步了",
+      "d": "thepaper.cn"
     },
     {
-      "t": "三大指数集体高开，创业板指高开2.44%",
+      "t": "微软股价跳水，Anthropic上市前夕推出AI办公套件",
       "d": "ifeng.com"
     },
     {
-      "t": "SandBase获种子轮投资",
-      "d": "sohu.com"
+      "t": "技嘉推出RTX Spark迷你主机AI Top Aero，最高128GB统一内存",
+      "d": "ifeng.com"
     },
     {
-      "t": "【每日瞰AI】千问办公2.0 发布，团队可共享资料并让AI 按消息触发任务；谷歌",
-      "d": "eet-china.com"
+      "t": "Ring发布室内巡逻无人机Drone Cam：2027年1月27日美国上市，售价",
+      "d": "ifeng.com"
     },
     {
-      "t": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布",
-      "d": "ifanr.com"
+      "t": "谷歌最强AI“碳”全球解禁！再现人类首次登月",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "Anthropic发布Claude白板、表格与数据工具，AI办公套件来了",
+      "d": "ifeng.com"
     }
   ]
 }

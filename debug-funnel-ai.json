@@ -1,50 +1,46 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 39,
+    "raw_dedup_junk": 32,
     "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "stockstar.com": 4,
-      "aibase.com": 3,
-      "sina.cn": 2,
+      "sina.com.cn": 8,
+      "unite.ai": 4,
       "techwalker.com": 2,
-      "scol.com.cn": 2,
-      "ac.cn": 1,
-      "csteelnews.com": 1,
-      "bjwmb.gov.cn": 1,
-      "guanhai.com.cn": 1
+      "ac.cn": 2,
+      "voc.com.cn": 1,
+      "csdn.net": 1,
+      "bjd.com.cn": 1,
+      "stockstar.com": 1,
+      "chengdu.cn": 1,
+      "jfdaily.com": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 6,
-    "relaxed_72h": 0,
-    "final": 6,
+    "fresh1_24h": 6,
+    "page_fresh": 3,
+    "relaxed_72h": 2,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "阿里云获中国专利金奖：破解AI时代的超大规模智能算力调度难题",
+      "t": "你囤Token了吗？“双十一”AI消费套路避坑指南",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "夯实算力底座 赋能数智浙江 “算力中国行”浙江媒体座谈会顺利举办",
       "d": "sohu.com"
     },
     {
-      "t": "前三季度大赚2100亿，长鑫科技吃下存储周期红利",
-      "d": "21jingji.com"
+      "t": "Anthropic估值缩水，压力给到国内大模型公司",
+      "d": "eet-china.com"
     },
     {
-      "t": "筑牢底座物理AI基础设施加速构建 让AI“走出”数字屏幕“走进”现实世界",
+      "t": "恒指微涨0.44% 私有化引爆方达控股股价 大模型双雄携手航空股集体飙升",
+      "d": "nbd.com.cn"
+    },
+    {
+      "t": "Agent领导力大考！Einsia AI发布WorkflowArena，行业首个",
       "d": "sohu.com"
-    },
-    {
-      "t": "英伟达失窃 7600 万元芯片，苹果机器人陌生房间任务成功率 91%丨周报",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "人工智能+交通运输场景加速落地",
-      "d": "ce.cn"
-    },
-    {
-      "t": "八天搓出操作系统，还能设计智能硬件！Anthropic新旗舰模型亮相",
-      "d": "cls.cn"
     }
   ]
 }

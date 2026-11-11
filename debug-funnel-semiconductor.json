@@ -1,53 +1,48 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 44,
-    "trusted": 28,
+    "raw_dedup_junk": 17,
+    "trusted": 12,
     "non_trusted_top": {
-      "china.com": 3,
-      "mydrivers.com": 2,
-      "jrj.com.cn": 2,
-      "guandian.cn": 1,
-      "esmchina.com": 1,
-      "indexbox.io": 1,
-      "futunn.com": 1,
-      "stockstar.com": 1,
+      "smm.cn": 1,
+      "china.com": 1,
+      "moomoo.com": 1,
       "sina.com.cn": 1,
-      "smm.cn": 1
+      "indexbox.io": 1
     },
-    "fresh1_24h": 27,
-    "page_fresh": 26,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 7,
+    "relaxed_72h": 3,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "2家磷化铟企业冲IPO，其中一家华为小米比亚迪都投了！",
+      "t": "安世半导体CEO：中国业务与国际业务仍可能重新整合",
+      "d": "sohu.com"
+    },
+    {
+      "t": "套刻精度可达4nm！佳能推出高性能KrF光刻机",
+      "d": "sohu.com"
+    },
+    {
+      "t": "分析师警告：黄仁勋若卸任CEO，英伟达估值或缩水近30%",
+      "d": "cls.cn"
+    },
+    {
+      "t": "算力板块反弹！燧原科技市值一度重返2000亿，国产芯片迈入规模化部署",
+      "d": "cls.cn"
+    },
+    {
+      "t": "停牌！国产模拟芯片龙头筹划重大收购",
       "d": "eet-china.com"
     },
     {
-      "t": "兆易创新又出手，控股芯茂微",
+      "t": "突发停牌！上海模拟芯片公司筹划重大收购",
       "d": "eet-china.com"
     },
     {
-      "t": "欧洲芯片巨头CEO自信喊话：在机器人和物理AI领域，我们也有实力",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "紫光国微在无锡成立新半导体技术公司 注册资本1亿",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "恩纳基自研A19 FC高精度倒装键合装备完成首批交付",
-      "d": "iccsz.com"
-    },
-    {
-      "t": "卓源亚洲再获IPO！芯德半导体登陆港股上市！",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "自研EtherCAT IP ＋全链路国产芯片丨方芯FCE1100八口EtherC",
+      "t": "芯德半导体在港股上市：募资总额9.46亿港元，市值121亿港元",
       "d": "ifeng.com"
     }
   ]

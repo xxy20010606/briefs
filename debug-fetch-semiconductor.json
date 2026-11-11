@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 44,
+  "total": 17,
   "samples": [
     {
-      "title": "2家磷化铟企业冲IPO，其中一家华为小米比亚迪都投了！",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IWW9FTVB5U1BRR09OcWVIUHVjSHM0MmJLLVFqREoySkJsVE1pc0staGVPX2dhSE44SFo5dDVhMlZSTzhfdUVCQWV",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
+      "title": "安世半导体CEO：中国业务与国际业务仍可能重新整合",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVN5NzRlTlhkSHpjMDFNZ29xTEc1MW1UdzZKMl80ajZCWnVKT0h0ZFY4dWo3WG4yNDBMRmxfVzF1cjhxVEtWNmk",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "兆易创新又出手，控股芯茂微",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LUE8wRllfTGFqLWQ3NW03elEyd0JLSTZiU2p2WHZpRkpHUjhHaTd4c0U3cGNQaEFqazRtc1JkNHk0MGdLQkVJb2V",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
+      "title": "套刻精度可达4nm！佳能推出高性能KrF光刻机",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWlhWU05zaXBMMTcyM0N4Z2gtR0ZmZmo1TlJNYjc5RzZkdjdVd2tvWTd0cHB5NUs2c0ZiT2IyNG9Cd1NPRElyQkl",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "摩根士丹利将北美半导体行业评级列为吸引 首选英伟达",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IU3lLMUN2RkhPOFZnckF0SDBXTWJtVXRRVk56Ny1Nb0tzRXJQMzFQRmR1MG9IcVp2RVhTZTJvX2Y4Z2Z2NFdIbmV",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
+      "title": "英伟达遭遇信任危机 AMD、博通成最大赢家？",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUcjE1eHdXWV9iZDktNU1ZRks5b0dpdWdSamFTMngtd250NjIxMkxLV0FNU1FFeHd1R2syRUJycnc5TGFqQld3TzN",
+      "source_url": "https://news.smm.cn",
+      "source": "上海有色金属网"
     },
     {
-      "title": "欧洲芯片巨头CEO自信喊话：在机器人和物理AI领域，我们也有实力",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPREgwVHVtNXJRZnRsUlcxQjBILVZ2MzliYUNBT1FCSGpGY1lLQndjYnl4NW9sU0VseXJmTVZNVGh2T3ZTRVFDSWd",
-      "source_url": "https://tech.ifeng.com",
-      "source": "凤凰网科技"
+      "title": "分析师警告：黄仁勋若卸任CEO，英伟达估值或缩水近30%",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HRy1zVHc3SlNwUzI1RGQxYnBxZ0NHaS1WWjI2WDNiRGVFX08yV0hSbEE4Y1FNZXVmamtDMHVjRnBrZXl3Rmp3RA?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "紫光国微在无锡成立新半导体技术公司 注册资本1亿",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtTzl1OTQ4X1BQM29SemJvb0JrQk9WbF9NSWhMRWJab0dXV3JJWlhsSHNSMExYbWczOUhEdVR0ZzAyQmpRdEU5ZS1",
-      "source_url": "https://finance.eastmoney.com",
-      "source": "东方财富"
+      "title": "算力板块反弹！燧原科技市值一度重返2000亿，国产芯片迈入规模化部署",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYYkN5S1Z4Z05UbjZsNlJGNkhmTHhfZjhoXzFfUVhJdl8tZnEwaGZoZEFoS2JKV2wxcXFkc21oNmNoMTNNZkpKcQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     },
     {
-      "title": "TOP4芯片分销商，营收大涨，但差距更大了",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pTnUtWGl2bDVKbHlOVFpDbE9Lekw0T1JRMFFrOXZ5eHM0RWZSM2RMYUcweVhIOUkzQlVVanQybUFXWWxCdlp3bHh",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
+      "title": "芯德半导体在港股上市：募资总额9.46亿港元，市值121亿港元",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsZmxYU2pybExKRXd3SF9RWTUta0dyMzlqdzRSNjcxNW5WZDBiNUlRY3lQMEd2eWU2eUVyZXF6ejMwbjd0NU1rQVp",
+      "source_url": "https://finance.ifeng.com",
+      "source": "凤凰网"
     }
   ]
 }

@@ -1,42 +1,27 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 4,
+    "raw_dedup_junk": 25,
+    "trusted": 1,
     "non_trusted_top": {
-      "autohome.com.cn": 9,
-      "ne21.com": 8,
-      "sina.com.cn": 4,
-      "itdcw.com": 2,
-      "seetao.com": 1,
-      "news18a.com": 1,
-      "vietnam.vn": 1,
-      "sina.cn": 1,
-      "wedoany.com": 1,
-      "xcar.com.cn": 1
+      "ne21.com": 13,
+      "autohome.com.cn": 5,
+      "sina.com.cn": 2,
+      "hstong.com": 1,
+      "ua.news": 1,
+      "mezha.net": 1,
+      "news18a.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 4,
-    "relaxed_72h": 0,
-    "final": 4,
+    "fresh1_24h": 1,
+    "page_fresh": 0,
+    "relaxed_72h": 1,
+    "final": 1,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "机构：储能盈利略有波动、风电节奏放缓、光伏亏损收窄",
+      "t": "铁-空气、液流、热储能：长时储能三条路线拉来数十亿美元，谁更值得投？",
       "d": "sohu.com"
-    },
-    {
-      "t": "300MW/600MWh！时代天源助力宁夏吴忠孙家滩共享储能电站一期项目顺利并网",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "比亚迪股份(01211)股票股价_股价行情_讨论_资讯_财报_数据报告",
-      "d": "xueqiu.com"
-    },
-    {
-      "t": "中国氢能与绿色燃料试点交卷：15个案例，跑通了哪些路？",
-      "d": "thepaper.cn"
     }
   ]
 }
