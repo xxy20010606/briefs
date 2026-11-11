@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 17,
+  "total": 45,
   "samples": [
     {
-      "title": "安世半导体CEO：中国业务与国际业务仍可能重新整合",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVN5NzRlTlhkSHpjMDFNZ29xTEc1MW1UdzZKMl80ajZCWnVKT0h0ZFY4dWo3WG4yNDBMRmxfVzF1cjhxVEtWNmk",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "吵上热搜的华为τ定律落地！麒麟9050真不堆制程也能提性能？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZZ05BUzVjZUs1UGVlQ19sUVZOS0Z6TFpaa2VwRFphVzMyTWRralA0NzBCTko1a093YkRkcEJBcXRRMXI4OG9RNEJ",
+      "source_url": "https://www.ednchina.com",
+      "source": "电子技术设计"
     },
     {
-      "title": "套刻精度可达4nm！佳能推出高性能KrF光刻机",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWlhWU05zaXBMMTcyM0N4Z2gtR0ZmZmo1TlJNYjc5RzZkdjdVd2tvWTd0cHB5NUs2c0ZiT2IyNG9Cd1NPRElyQkl",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "一本书读懂AI时代算力底座：芯片诞生背后的科学力量",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Tdmd0c1luV1I0SGtiT1d2bWlGYUdZQzNXLVkza0x2LTVLYjJTSENIZ3JjTjk1TTBmdDhGUVBOc0R6VDFiWm14MGt",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "英伟达遭遇信任危机 AMD、博通成最大赢家？",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUcjE1eHdXWV9iZDktNU1ZRks5b0dpdWdSamFTMngtd250NjIxMkxLV0FNU1FFeHd1R2syRUJycnc5TGFqQld3TzN",
-      "source_url": "https://news.smm.cn",
-      "source": "上海有色金属网"
+      "title": "被折叠的芯片资产：阿里分拆平头哥的逻辑与悬念",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2paMC1GSTZYX1Z6WmVUVnZ0RUZVOXJxQUd1Sy1iaFVkUEVKZzBYTVNFbDhJMm10eFUxODNIZ29YbmxReGVFZnN",
+      "source_url": "https://m.capwhale.com",
+      "source": "资鲸"
     },
     {
-      "title": "分析师警告：黄仁勋若卸任CEO，英伟达估值或缩水近30%",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HRy1zVHc3SlNwUzI1RGQxYnBxZ0NHaS1WWjI2WDNiRGVFX08yV0hSbEE4Y1FNZXVmamtDMHVjRnBrZXl3Rmp3RA?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "安世半导体与意法半导体称AI数据中心需求挤占成熟制程产能，汽车芯片供应链出现瓶颈",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kSUIyajdQR0Y1RTFnaVJTS0YzWUdQdmVWWjBKamQ2elVUTzR1aV9ubjlMREZnQ01ORXlSdk14VEhPTWxTWHlkVC1",
+      "source_url": "http://www.news18a.com",
+      "source": "网通社"
     },
     {
-      "title": "算力板块反弹！燧原科技市值一度重返2000亿，国产芯片迈入规模化部署",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYYkN5S1Z4Z05UbjZsNlJGNkhmTHhfZjhoXzFfUVhJdl8tZnEwaGZoZEFoS2JKV2wxcXFkc21oNmNoMTNNZkpKcQ?",
-      "source_url": "https://www.cls.cn",
-      "source": "财联社"
+      "title": "AI数据中心挤占成熟制程产能，汽车芯片供应链面临瓶颈",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rOU95b0llQzBiUENERTZsZWx0QXRLRTk4bUE3WVdTLXpjVkxJSkZCd083NDBTZTN1WTlIRzJHc2dsVUctd0MzaDZ",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
     },
     {
-      "title": "芯德半导体在港股上市：募资总额9.46亿港元，市值121亿港元",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsZmxYU2pybExKRXd3SF9RWTUta0dyMzlqdzRSNjcxNW5WZDBiNUlRY3lQMEd2eWU2eUVyZXF6ejMwbjd0NU1rQVp",
-      "source_url": "https://finance.ifeng.com",
-      "source": "凤凰网"
+      "title": "佳能发布KrF半导体光刻机FPA-6400ES6a",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xenZtU3FreUtGdDR4OV82ZTUzUzdrU2ZMZm9DZmt0SllqSVp0QXByaVFlcERMZ3NkcFdlWDNWamFDNGs0ZEE1eTA",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
     }
   ]
 }

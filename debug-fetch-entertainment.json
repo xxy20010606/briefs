@@ -1,18 +1,30 @@
 {
   "type": "entertainment",
-  "total": 41,
+  "total": 48,
   "samples": [
     {
-      "title": "国内首部AI院线电影遇冷三星堆未来往事上映19天票房仅179万_电影产业",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPYS1kQmMtZlQ1WVNHbFdlZG9PQUs1NjhxQjZsUkVqQmVGTzNzRHBtQlVUV0p0Y21XT1Q1UUpKRTZkeExmbEJTZW1",
+      "title": "日本怪兽电影《哥斯拉》的最新作品一上映便创下历来最佳纪录，席卷日本和美国的影院市场。日本的电影、游戏",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RcFBvamlaN1F2Q082NXg4N29VS0FFZmJEQ1poN2V1UFgxMzJQWGNYeE1KTE1ibUFsU2FFTlNFZ0dwd2FtVGc3YXN",
+      "source_url": "https://www.mk.co.kr",
+      "source": "매일경제"
+    },
+    {
+      "title": "现实情感治愈电影无可替代的你11月11日全国上映_电影新闻",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wM09xcml4THFEbllBb01VRFRnNFk5SENJTGdweUNzbzgxQTdVVkU2TUNWUVV4QlM3SG1VYWVWMlRJQUljcVlCT05",
       "source_url": "https://www.dianyingjie.com.cn",
       "source": "电影界"
     },
     {
-      "title": "11月中旬新片接棒上映 无可替代的你试探魔法秘境等五部定档",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6bWgwWHAzNVpsTVJNMUtkeWh2ZW5sMC1ZVVowOExOcXZOYW4zZW5GN0FEbm5fY2pZQmhnaldxLWlOd0hOQmJKNU9",
-      "source_url": "https://www.dianyingjie.com.cn",
-      "source": "电影界"
+      "title": "上映票房惨淡 国内首部AI院线电影为何“遇冷”",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4bjV1czhCQzRwZUQ3UWI2OFZJQmhyMWNUT0M1SExzSXNpZHhqZ3BsNnJPT2hram9TX0cxTGZRY0V3THprT2hjYWp",
+      "source_url": "https://fun.youth.cn",
+      "source": "中国青年网"
+    },
+    {
+      "title": "撤档三个月后重映：国产动画电影《三国第一部：争洛阳》密钥延期至2026年12月16日",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4LUJsMTNlNXVGczdjTlRXdXlmZDE2d1hyaXJXRHgxVHF0ZW1EZUtJbU56a3Z6dnl0dm9TMjJaMzhrSnhVN2RyNWp",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
       "title": "#你好星期六# 许嵩冯禧官宣结婚！ 当年看到许嵩热泪盈眶的小女孩，如今居然嫁给了他",
@@ -21,22 +33,10 @@
       "source": "手机新浪网"
     },
     {
-      "title": "《披荆斩棘6》总决赛在即，谁能拿下年度总冠军？",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rQk9lY0U3TUNOU2xNX3dJcGhpOW1zOTA4cDlrN2NHM2ZTcmJqVG81ODdfbzBhakw0TDZWMFZNUEtkOWhnUTVEOHl",
-      "source_url": "https://yule.360.com",
-      "source": "360娱乐"
-    },
-    {
-      "title": "《乘风2027》拟邀名单引热议 一众实力大咖与熟悉面孔引期待",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzQlFma0dqX1VYcGFOcXdTcUtDSTNocXYwRW5oZFNGWHhFRE1tVEkwZUp4ME53VGF1MFZnanhIOTU2TEg2VW1MYjM",
-      "source_url": "https://yule.360.com",
-      "source": "360娱乐"
-    },
-    {
-      "title": "薛之谦昆明站官宣4场连开，万兽舞台赴约春城",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aVGxGUUtiVXN0c29aS0VkVGZ6RUdlZzBmTmdPQk1rYkM3aldFeDhNbDNRYXp0NWtDTjNQd0xkdGVJYTE1MC00NXN",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "新聊斋把中式浪漫画进海报常华森张淼怡宋祖儿腾讯待播_电视与剧集",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HTGtDekJ5UkRsX0FYbE1wRE85WDZ2SEhVeHRMbUtjN3dHODZMekx2NElFODRValhyT1lOekU5UGxyd1V0NzJJbzF",
+      "source_url": "https://www.dianyingjie.com.cn",
+      "source": "电影界"
     }
   ]
 }

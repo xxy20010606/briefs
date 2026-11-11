@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 41,
-    "trusted": 14,
+    "raw_dedup_junk": 47,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.com.cn": 4,
-      "dianyingjie.com.cn": 3,
-      "china.com": 3,
-      "360.com": 2,
+      "dianyingjie.com.cn": 4,
+      "china.com": 4,
+      "sina.com.cn": 3,
+      "sina.cn": 3,
+      "lmtw.com": 3,
       "bjd.com.cn": 2,
-      "icswb.com": 1,
-      "voc.com.cn": 1,
-      "sina.cn": 1,
-      "hk01.com": 1,
-      "sinchew.com.my": 1
+      "mk.co.kr": 1,
+      "youth.cn": 1,
+      "360.com": 1,
+      "gamemeca.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 4,
-    "relaxed_72h": 9,
+    "fresh1_24h": 16,
+    "page_fresh": 15,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "大山里的歌声与成长——电影《勇敢女孩合唱团》观后",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "真诚的表演，会被观众接住",
-      "d": "gmw.cn"
-    },
-    {
-      "t": "“上海出品”矩阵闪耀国际艺术节",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "撤档三个月后重映：国产动画电影《三国第一部：争洛阳》密钥延期至2026年12月1",
+      "t": "不只是打游戏，北京海淀电竞联赛让高校人才对接头部企业",
       "d": "sohu.com"
     },
     {
-      "t": "广东电影《给阿嬷的情书》获第39届金鸡奖评委会两项大奖，蓝鸿春感谢“在天上的阿嬷",
+      "t": "金鸡奖最佳戏曲片《顾炎武》定档，12月1日全国艺联上映",
+      "d": "sohu.com"
+    },
+    {
+      "t": "梁家辉首夺金鸡“影帝” 《南京照相馆》成第39届金鸡奖大赢家",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "深圳原创出品电影《给阿嬷的情书》获金鸡奖两项荣誉",
       "d": "21jingji.com"
     },
     {
-      "t": "人民锐评：“画地为牢”出圈，流量不靠撕扯",
-      "d": "thepaper.cn"
+      "t": "祝贺！吾守尔·赛来获金鸡奖最佳男配角，高小阳获最佳音乐奖",
+      "d": "xinhuanet.com"
     },
     {
-      "t": "怒批民进党！罗大佑盼台湾民众觉醒",
-      "d": "chinanews.com.cn"
+      "t": "“画地为牢”的不是许飞也不是厉娜，而是围观的我们｜每经热评",
+      "d": "nbd.com.cn"
+    },
+    {
+      "t": "从“AI辅助”到“AI原生” ，华策探索AI时代影视内容生产新路径",
+      "d": "10jqka.com.cn"
     }
   ]
 }

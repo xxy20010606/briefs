@@ -1,46 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 32,
-    "trusted": 7,
+    "raw_dedup_junk": 36,
+    "trusted": 9,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "unite.ai": 4,
+      "sina.com.cn": 5,
+      "china.com": 2,
       "techwalker.com": 2,
-      "ac.cn": 2,
-      "voc.com.cn": 1,
-      "csdn.net": 1,
-      "bjd.com.cn": 1,
-      "stockstar.com": 1,
-      "chengdu.cn": 1,
-      "jfdaily.com": 1
+      "voc.com.cn": 2,
+      "cheaa.com": 1,
+      "jfdaily.com": 1,
+      "jrj.com.cn": 1,
+      "prnasia.com": 1,
+      "ofweek.com": 1,
+      "2500sz.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 3,
-    "relaxed_72h": 2,
-    "final": 5,
-    "cap": "不限同域"
+    "fresh1_24h": 9,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
+    "final": 7,
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "你囤Token了吗？“双十一”AI消费套路避坑指南",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "夯实算力底座 赋能数智浙江 “算力中国行”浙江媒体座谈会顺利举办",
+      "t": "半两财经｜“人工智能+”城市落地：首都产业智能化，青年既是建设者也是使用者",
       "d": "sohu.com"
     },
     {
-      "t": "Anthropic估值缩水，压力给到国内大模型公司",
+      "t": "DeepX第二代边缘AI芯片DXM2流片完成：借助PIM内存技术，实现本地大模型",
       "d": "eet-china.com"
     },
     {
-      "t": "恒指微涨0.44% 私有化引爆方达控股股价 大模型双雄携手航空股集体飙升",
+      "t": "“人工智能+”拓展文化和科技融合边界",
+      "d": "news.cn"
+    },
+    {
+      "t": "A股上市公司差异化布局AI应用细分赛道",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "35B模型跑进手机，面壁智能押注端侧AI的下一阶段",
       "d": "nbd.com.cn"
     },
     {
-      "t": "Agent领导力大考！Einsia AI发布WorkflowArena，行业首个",
-      "d": "sohu.com"
+      "t": "AI中国｜颗粒归仓、秋粮丰收！一起守护大国粮仓",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "阿里云发布基于 AMD 第六代 EPYC 处理器的第十代 ECS 企业级实例",
+      "d": "infoq.cn"
     }
   ]
 }

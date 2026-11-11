@@ -1,49 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 17,
-    "trusted": 12,
+    "raw_dedup_junk": 45,
+    "trusted": 26,
     "non_trusted_top": {
-      "smm.cn": 1,
-      "china.com": 1,
+      "sina.cn": 5,
+      "jrj.com.cn": 3,
+      "mydrivers.com": 3,
+      "capwhale.com": 1,
+      "news18a.com": 1,
+      "qianjia.com": 1,
+      "seetao.com": 1,
+      "esmchina.com": 1,
       "moomoo.com": 1,
-      "sina.com.cn": 1,
-      "indexbox.io": 1
+      "autohome.com.cn": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 7,
-    "relaxed_72h": 3,
+    "fresh1_24h": 26,
+    "page_fresh": 24,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "安世半导体CEO：中国业务与国际业务仍可能重新整合",
-      "d": "sohu.com"
+      "t": "吵上热搜的华为τ定律落地！麒麟9050真不堆制程也能提性能？",
+      "d": "ednchina.com"
     },
     {
-      "t": "套刻精度可达4nm！佳能推出高性能KrF光刻机",
-      "d": "sohu.com"
-    },
-    {
-      "t": "分析师警告：黄仁勋若卸任CEO，英伟达估值或缩水近30%",
-      "d": "cls.cn"
-    },
-    {
-      "t": "算力板块反弹！燧原科技市值一度重返2000亿，国产芯片迈入规模化部署",
-      "d": "cls.cn"
-    },
-    {
-      "t": "停牌！国产模拟芯片龙头筹划重大收购",
+      "t": "一本书读懂AI时代算力底座：芯片诞生背后的科学力量",
       "d": "eet-china.com"
     },
     {
-      "t": "突发停牌！上海模拟芯片公司筹划重大收购",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "芯德半导体在港股上市：募资总额9.46亿港元，市值121亿港元",
+      "t": "AI数据中心挤占成熟制程产能，汽车芯片供应链面临瓶颈",
       "d": "ifeng.com"
+    },
+    {
+      "t": "佳能发布KrF半导体光刻机FPA-6400ES6a",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "硅光芯片赛道再获大额融资！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "半导体资金流入叠加AI催化，科技ETF易方达涨1.94%",
+      "d": "sohu.com"
+    },
+    {
+      "t": "圣邦股份盘中涨超5%，机构看好半导体国产化及模拟芯片复苏",
+      "d": "sohu.com"
     }
   ]
 }
