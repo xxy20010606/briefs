@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 9,
+  "total": 21,
   "samples": [
     {
-      "title": "Grok Build被曝数据暴露：超九成Grok应用无需登录即可访问",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yVzJ6Qm1NaTVEdGtQWUlmRFNkS3BFSFlVNVZVZy1CRThPaHVqVTM0YzRHc2pGcDJMRGpJNEtwWTg2TmNJeHoybWp",
-      "source_url": "https://original.ifeng.com",
-      "source": "凤凰网"
-    },
-    {
-      "title": "AI工具越来越好用 双十一商家为何越用越焦虑？",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50WlE4bXpzeDJNc2VnUFhIVTRWTkFxYUZiV3NTczZYclhxc3hFc1N6UWdUVXdWNWRVWlJYMkcxQWt5Mk8wT0RJbmY",
+      "title": "60名学员解锁AI新技能！临翔劳动者逐梦数字新赛道",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lRGNkY2hmLWxXeXFIX2d6cGlWYlNIQWxueTFRREx6V2NETDZSTVZFaXVzSC1YQmJNNFp4RDNfNkR5VGpnZzNGcUJ",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "Edelbyte 获得 7000 万美元融资，用于构建 AI 智能体数据基础设施",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObVNqaWRlbHBWWGgzc2ZPb053dFdPYWxVYmZILXJ0eUc2SEFZLUFGMHU4N0RqamEwSU9HUE5QVVZ6Tm5EZ0hsWFF",
+      "title": "Big Walk用AI修复Bug，独立游戏圈掀起AI使用争议-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRUF9vYW0tdjdfTUpwNUpCTXd0Sll3S1N0N2F6TDY0NExPMERzWlU3bWpzaEI1UWNlakZ3bHRGOUprY1BJQjV1eF9",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
+    },
+    {
+      "title": "Nebuly完成2,100万美元A轮融资，扩大企业AI价值衡量业务",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZlJORGc2dEp3WTl3MmRyWWRyU2ZDeTR1czRfZFNOSWJmNUd6VExrbGFQRmxnLXFYcEFBUkVuWTBZbWVLUFVOM2I",
       "source_url": "https://www.unite.ai",
       "source": "Unite.AI"
     },
     {
-      "title": "Hitachi Vantara 为 VSP One Object 新增数据原位湖仓查询功能",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPXy1BaHZTb0VVOXZ1ZTA2LTZteXpIRHJ3UTRmUkg1VmkyOHFSNFVMRkF5VEdIc2U1V3FhVkRTalhZcGFENkJadS1",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "Grok Build被曝数据暴露风险 35578个应用无需登录可访问",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82V29hMUIwYUpQVmFTRDJyZ3BRb2FRdnBWV1NmTnYyZmZFNTV0bUV4NzMyNnpKaW9rSnlKa0FPd1cySFlZZjQ1Mzd",
+      "source_url": "https://www.guandian.cn",
+      "source": "观点网"
     },
     {
-      "title": "Microsoft副总裁开发开源工具，可显示哪些应用正在使用GPU显存",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGU3YWQ3T2JGVzFDMU93R2JlYXFZaWlFb29PcXRhNVFteUZ6dVd0ZjFyeE9LX1VFRk5EcTk1RzBQYmZ0TzhEeGt",
-      "source_url": "https://mezha.net",
-      "source": "Mezha.net"
+      "title": "李彦宏谈AI组织进化：组织能力才是真正的护城河",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ3QxMW5iblVEejJXQVlhY3VhZjhuTEhmclEydFUxNXViVVNUQUdSYUdRZGJBN1VteGNSV0otLWIwY2pVb0h0OXM",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Qazg0Q1FkbFo5UFYzWjZtTVR5Wjk3VWdleTJZdXo2QU1QcXp4R0tteHRXbkFyai01Nm4wZ1NXS2dpZWx2NjlHeVJ",
-      "source_url": "https://www.infoq.cn",
-      "source": "InfoQ 中文"
+      "title": "新航已至：WAVE2026泛互联网全球领航者大会亮点抢先看",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IRV9xZDVzVlhuM0h5VVd5N0l2OWx3N055U2UwVHhlajFLYWxJWThGcjhadHN5YU93NGZINEpWUjloaVRDRUVFeGo",
+      "source_url": "https://enjoyglobal.net",
+      "source": "Enjoy出海"
     }
   ]
 }

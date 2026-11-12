@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 29,
+  "total": 49,
   "samples": [
     {
-      "title": "青春华章·我们的新长征|天津：闲置楼宇变身创新高地",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1UElTeEpRUW5EclUyYmhYTXJDREVtWnBVTUljQXoxa29TRGJMRjZKSGlBeEY0eHdFd0xldVhaamFLN1ZKTWdRZ0V",
-      "source_url": "https://news.ifeng.com",
-      "source": "凤凰网"
+      "title": "张一鸣坦言：字节AI追上全球第一梯队，至少还要三年",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMUJreW1pZGplalFiUkt6Q1N4Ulo0eGViSF9yVGxMVU5NcnZ6SzBWakc2bExUX3p5eFplaHpmci1jNzh3Wjd0X00",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
     },
     {
-      "title": "AI+制造”的下一程，不再拼谁的模型参数大，而是拼谁能先把场景对上",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWDNCWnZxR2JqNTZmV0g5eFJOaUZoSXAtY3VYYVhXYWVFWDA2bUhqb09ZdUI1S0QzMUFVdUZMdjQ1VmlXWk11Y3R",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
-    },
-    {
-      "title": "拓展人工智能就业新空间",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mX0JOS2lSMktLZVhJT3JvV2dSd2lKT3J0QlIwYjBVcEV1Nmltd3U5RVc0UzVsQUpXMFN0MGFIU3YxNC1ST1lzdy1",
-      "source_url": "https://www.infoobs.com",
-      "source": "信息化观察网"
-    },
-    {
-      "title": "连云港：AI嵌入研发车间 “十年磨一药”按下快进键",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyR01UX2pnOEJjbmotTDFCdHJkR0pHQ2VWaXdQUFlpX3JJbnZxYVI1Q2g5cWh1MW1wdHlhN01QUHNORTZZRXZVS0p",
-      "source_url": "https://www.ycnews.cn",
-      "source": "www.ycnews.cn"
-    },
-    {
-      "title": "从Token上电商货架看消费深刻变革",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaVUkxVlVEZXhfSndIdnlNclZTdFVWVW9xSjBCVG0tcXd3NndsejdLWjhrUTZOcERqWFk5RU9YbmNfbVZMbjFfZHJ",
+      "title": "百度世界2026发布多项AI成果，李彦宏：AI下一幕是“智能组织”",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTjFSVnJCY1pnaTc4ZFE1cGVGczhkeWlyWEl0NXlueHFqWUVfWHNURi15RzhTbGVXbGF6V0FFdVBoby1vcjQ2TFV",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "南方财经全媒体集团 周蕊 2026-11-12 09:05:26",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OTm1wSFJvX093N1pPcEwwTmJxRklRc3VnendVUFBWSWl1cE1SRGFaY3owM0t5Ym91cDRYc1RHZ0Y0bkEzbGUyUTh",
-      "source_url": "https://m.sfccn.com",
-      "source": "南方财经"
+      "title": "百度推出大模型交易所“词元所”，李彦宏谈企业如何更好使用AI降本增效",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWEZNUURjWVFZdklaWk5KdjIxVlcyTVRIclBRdmxzVUdJeWZ1N1VOY2ZmcmFoVGduNnBnUGU4T0lDOXhpUnEtc09",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "“碳硅协同”落子南京玄武区 南京大学生物智能研究院正式揭牌",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcG4xbFBScWtfR2ttMVdTeVAwRzB6VDMwYWhZNmRkYURHMWtjWGxkQjlrdjJEMzVzdUQxMzdsM3ZvUkxFMFFOSDR",
+      "source_url": "http://www.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "AI场景大规模落地 京北方入选“2026中国金融AI创新企业TOP50”",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SUHI3eWlGeDVjUDdQcWc1M1JLUEJmUEFQN2tnWWYyRllLVVZUTk9QUVdUSFVXMGFfZG43MVFSZDE1bkVGWmVyT1F",
+      "source_url": "http://stock.10jqka.com.cn",
+      "source": "同花顺财经"
+    },
+    {
+      "title": "从工业品采购降本增效到合规出海 京东工业大模型助力汽车制造供应链创新",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55U3lvWE9VajNFTFRDcWFCVXlLU1hTOVJ6aUlwbzE1SU0yaklJbk1rU21PT3ZDRDdoZlBXUkFMOXpGbl85ZFA5QzN",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     }
   ]
 }

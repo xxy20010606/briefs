@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 22,
-    "trusted": 8,
+    "raw_dedup_junk": 49,
+    "trusted": 7,
     "non_trusted_top": {
+      "pchome.net": 5,
+      "china.com": 4,
+      "rediandf.com": 3,
+      "hupu.com": 2,
+      "hbwmw.gov.cn": 2,
       "bjd.com.cn": 2,
-      "dianyingjie.com.cn": 1,
-      "rediandf.com": 1,
-      "sina.cn": 1,
-      "hupu.com": 1,
-      "guan.media": 1,
-      "china.com": 1,
-      "hk01.com": 1,
-      "360.com": 1,
-      "chinaqw.com": 1
+      "hangzhou.com.cn": 2,
+      "kagit.kr": 1,
+      "creaders.net": 1,
+      "mydrivers.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 2,
-    "relaxed_72h": 5,
+    "fresh1_24h": 7,
+    "page_fresh": 7,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "华泰证券：AI影视正呈现结构性分化",
-      "d": "10jqka.com.cn"
-    },
-    {
-      "t": "以故事化表达回应年轻人追问！《伟大的长征》的启示",
+      "t": "阿嬷得奖无人起立，郑大圣获最佳导演冷场背后的故事",
       "d": "sohu.com"
     },
     {
-      "t": "预售仅181元，雪藏五年，没上映就被判死刑，冯绍峰新片惨败出局",
+      "t": "2026电竞显示器品牌排行榜：爱攻跻身高端第一梯队",
       "d": "sohu.com"
     },
     {
-      "t": "“一人公司”拍出金鸡奖入围作品，AI影视精品从松江洞泾破土",
-      "d": "eastmoney.com"
+      "t": "荣获第39届中国电影金鸡奖最佳戏曲片 昆剧电影《顾炎武》定档12月1日全国艺联上",
+      "d": "sohu.com"
     },
     {
-      "t": "婺剧《三打白骨精》揭幕第十二届上海国际喜剧节",
+      "t": "梁家辉首夺金鸡“影帝” 《南京照相馆》成第39届金鸡奖大赢家",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "2026中国金鸡百花电影节福建电影专场推介在厦举办",
-      "d": "cnr.cn"
+      "t": "大陆微短剧受岛内观众追捧 国台办：体现两岸情感共鸣",
+      "d": "people.com.cn"
     },
     {
-      "t": "四篇苏童作品汇入 话剧《夜间故事》于北京师范大学登台",
-      "d": "chinanews.com.cn"
+      "t": "9部影片揽获11项金鸡大奖 怀柔展现影视全产业链硬核实力",
+      "d": "people.com.cn"
+    },
+    {
+      "t": "从莫扎特到普希金，俄罗斯百年名团瓦赫坦戈夫剧院登台上海东艺，让经典“活在当下”",
+      "d": "sohu.com"
     }
   ]
 }

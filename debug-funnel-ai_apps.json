@@ -1,36 +1,54 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 9,
-    "trusted": 4,
+    "raw_dedup_junk": 21,
+    "trusted": 9,
     "non_trusted_top": {
-      "unite.ai": 2,
-      "sina.com.cn": 1,
-      "mezha.net": 1,
-      "voc.com.cn": 1
+      "sina.com.cn": 2,
+      "csdn.net": 2,
+      "zhiding.cn": 1,
+      "unite.ai": 1,
+      "guandian.cn": 1,
+      "enjoyglobal.net": 1,
+      "shobserver.cn": 1,
+      "sina.cn": 1,
+      "panewslab.com": 1,
+      "capwhale.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 3,
-    "relaxed_72h": 1,
-    "final": 4,
+    "fresh1_24h": 9,
+    "page_fresh": 8,
+    "relaxed_72h": 0,
+    "final": 7,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "Grok Build被曝数据暴露：超九成Grok应用无需登录即可访问",
-      "d": "ifeng.com"
+      "t": "李彦宏谈AI组织进化：组织能力才是真正的护城河",
+      "d": "sohu.com"
     },
     {
-      "t": "从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI",
-      "d": "infoq.cn"
+      "t": "马斯克自家AI暴露自家机密？SpaceXSI把秘密摆上网",
+      "d": "sohu.com"
+    },
+    {
+      "t": "华泰证券：AI从工具提效迈向组织生产力重构，企业级应用进入深度落地阶段",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "AI时代，谁来孵化下一代硬件公司？",
+      "d": "sohu.com"
+    },
+    {
+      "t": "2026，AI应用的钱都流向了哪里？",
+      "d": "sohu.com"
     },
     {
       "t": "字节旧部创业，在海外杀疯了",
       "d": "ifeng.com"
     },
     {
-      "t": "Anthropic 一夜逼疯微软？Claude 杀入办公软件腹地：能自己参会、做",
-      "d": "infoq.cn"
+      "t": "当办公室里长满了用AI的打工人，“新式程序员”出现了",
+      "d": "sohu.com"
     }
   ]
 }

@@ -1,52 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 26,
-    "trusted": 14,
+    "raw_dedup_junk": 45,
+    "trusted": 26,
     "non_trusted_top": {
-      "futunn.com": 2,
-      "sina.cn": 2,
-      "autohome.com.cn": 2,
-      "csdn.net": 2,
-      "pedaily.cn": 1,
-      "moomoo.com": 1,
+      "jrj.com.cn": 6,
+      "sina.cn": 3,
+      "sina.com.cn": 2,
+      "stockstar.com": 2,
       "guandian.cn": 1,
-      "3elife.net": 1
+      "autohome.com.cn": 1,
+      "mbcaijing.com": 1,
+      "mydrivers.com": 1,
+      "china.com": 1,
+      "digitaltoday.co.kr": 1
     },
-    "fresh1_24h": 12,
-    "page_fresh": 7,
-    "relaxed_72h": 6,
+    "fresh1_24h": 26,
+    "page_fresh": 21,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "拨款两万亿日元，项目已延误数月，日本“孤注一掷”，为何造不出尖端芯片？",
+      "t": "韩国公布端侧AI半导体路线图，计划到2030年完成10款芯片开发验证",
       "d": "sohu.com"
     },
     {
-      "t": "意法半导体将于2027年1月1日上调价格，2026年已进行三轮涨价",
+      "t": "安世半导体临时CEO：可重新整合，永久分离需给闻泰补偿！",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "11月12日主题复盘 | 半导体、光通信冲高回落，福建自贸区概念盘中异动",
       "d": "sohu.com"
     },
     {
-      "t": "美股ETF追踪 | 存储芯片爆发 三倍做多半导体ETF涨超17%",
-      "d": "eastmoney.com"
+      "t": "【半导体指数大PK】芯片右侧行情确立，哪个指数更适配当下市场？",
+      "d": "jiemian.com"
     },
     {
-      "t": "23:55:20【美股半导体板块盘中持续走强 费城半导体指数涨6.1% 闪迪涨超",
-      "d": "cls.cn"
+      "t": "亚笙半导体完成B+++产业战略轮数千万股权融资，加速半导体尾气处理设备国产替代",
+      "d": "laoyaoba.com"
     },
     {
-      "t": "23:28:36【美股半导体板块夜盘强势拉升 费城半导体指数涨5% 美光、闪迪涨",
-      "d": "cls.cn"
+      "t": "IC大会开幕叠加自主可控逻辑强化国产芯片有望迎景气上行窗口_市场测评_市场",
+      "d": "cnfol.com"
     },
     {
-      "t": "纳斯达克指数高开1.5%，芯片半导体股票明显上涨",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "青岛半导体设备商冲刺科创板，中车系背景，拟募资20亿",
-      "d": "ifeng.com"
+      "t": "736KB、264MB、16GB：三颗边缘 AI 芯片把内存放在三个位置",
+      "d": "eet-china.com"
     }
   ]
 }

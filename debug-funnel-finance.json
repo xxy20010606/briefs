@@ -1,36 +1,42 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 19,
+    "raw_dedup_junk": 23,
     "trusted": 7,
     "non_trusted_top": {
-      "stockstar.com": 3,
-      "futunn.com": 2,
-      "sina.com.cn": 2,
-      "cfi.net.cn": 1,
-      "tmgm.com": 1,
+      "sina.com.cn": 3,
+      "sina.cn": 2,
+      "jrj.com.cn": 2,
+      "moomoo.com": 2,
+      "investing.com": 1,
       "techflowpost.com": 1,
-      "vtmarkets.com": 1,
-      "moomoo.com": 1
+      "tmgm.com": 1,
+      "mrjjxw.com": 1,
+      "on.cc": 1,
+      "stockstar.com": 1
     },
     "fresh1_24h": 7,
-    "page_fresh": 6,
-    "relaxed_72h": 1,
+    "page_fresh": 7,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "央行：加力实施支持资本市场的两项货币政策工具，用好债市非银大额赎回互换便利，维护",
+      "t": "央行定调！利好股票、债券、外汇等金融市场",
+      "d": "sohu.com"
+    },
+    {
+      "t": "“固收+”中邮瑞享两年定开混合4成为股票投资近半年跌25%_证券要闻",
       "d": "cnfol.com"
     },
     {
-      "t": "长效发力稳股市",
+      "t": "破发连亏股天益医疗拟发可转债去年底被罚没1402万_证券要闻",
       "d": "cnfol.com"
     },
     {
-      "t": "A股：刚刚利好消息终于来了，今明两天，股市或有大行情？",
-      "d": "163.com"
+      "t": "从“鼓吹降息”到“加息50基点”？起底美联储“变脸王”沃勒！",
+      "d": "cls.cn"
     },
     {
       "t": "2027年港股基本面与估值或迎共振修复；CoreWeave超预期财报提振美股AI",
@@ -43,10 +49,6 @@
     {
       "t": "美股三大指数高开，CoreWeave大涨超16%，英伟达涨近3%_市场分析",
       "d": "cnfol.com"
-    },
-    {
-      "t": "央行重要报告，维护股票、债券、外汇等金融市场平稳运行",
-      "d": "ifeng.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 26,
+  "total": 45,
   "samples": [
     {
-      "title": "RDMA智能网卡芯片设计领军厂商「沐创」完成新一轮融资",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbWRONElaLUFDa0Q0TEFXd0FOOFdDQlYzRVBsMmFFajlIM3pPLUhIQmJKMkw2b0hBOHhTN1pfQUxZN292a3NneGJ",
-      "source_url": "https://news.pedaily.cn",
-      "source": "投资界"
+      "title": "国产半导体设备景气延续，半导体材料设备指数收涨0.7%，半导体设备ETF易方达（159558）今日获",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50aDkyRmx2aXZ2Vk1VeFBIYnhLTUNacmR0bk5xVl9XS1BHT0F5WXN3YXFtTlc0YTR0MFQ1MW9JUjRhN19Zb01oSHZ",
+      "source_url": "https://fund.jrj.com.cn",
+      "source": "金融界"
     },
     {
-      "title": "拨款两万亿日元，项目已延误数月，日本“孤注一掷”，为何造不出尖端芯片？",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0g1eGc5d0dvSk80NVN6MU1TZERrTzI3eXVNalNXSXR2aHdPdG8xODFyRmtDTUZXUUdCUENySHZOR1o4S25lS29",
+      "title": "韩国公布端侧AI半导体路线图，计划到2030年完成10款芯片开发验证",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWNVdzZZQml2YXQ4OU9OSEFmM3Q4VEFxYTdLQVpOMWoycWZMTmViY0Z6elYzcEN4dFNhdF9tNHJ5SUF0bGZ2MUJ",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "多只半导体、芯片ETF涨超3%",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGRsY2h3MGJuZ3hFZ2JmM0dlUVpjWHRFdTA2eHJzTmFGdF9SUHRoVWZPR1Q5RjIxZEY2d25lbTl6QVRLRVU1RjZ",
-      "source_url": "https://news.futunn.com",
-      "source": "富途牛牛"
+      "title": "安世半导体临时CEO：可重新整合，永久分离需给闻泰补偿！",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13ejFuSnBDeVZzdTJwRm1uLTJOVDlBYkRaVVJRVHpVSVdkWm9xSENvWkhpXzdNYmVoZEdYTzBpR1k4WFBwS1NRZml",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "高通(QCOM.US)瞄准150亿美元数据中心营收伯恩斯坦却抛来看跌研报：蹭上AI风口也难扭转盈利",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUo1RWhlZGh3bnNrMVJhUUdhaXJhWGc4WXppTlpOOHZNTFg1TXZyX1JpWHVpZUQwM195TTVnREJKSzRoVEQ2aEF",
-      "source_url": "https://news.futunn.com",
-      "source": "富途牛牛"
-    },
-    {
-      "title": "意法半导体将于2027年1月1日上调价格，2026年已进行三轮涨价",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT0Z1ZU5VTW40RGYyYmlpNDRZa2VTaFVGY0k1bkx1WllXQ1RsaXVTbUJOWTlZV01wTXVscFVTS2ZHN0paNEJLSUt",
-      "source_url": "https://m.sohu.com",
+      "title": "11月12日主题复盘 | 半导体、光通信冲高回落，福建自贸区概念盘中异动",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONTZGOFkyeWJhVVlvOTR5aVYxNXhSTmh4cDNDaHhtUVkwVmJTOWkybEZ3ME82Y1hIN29YTVBjdGVCNWVsbF9NWmQ",
+      "source_url": "https://www.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "日韩股市高开，三大存储芯片巨头齐涨",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUC1jbWJpRVdvTGRDVUpqUzVtSURSdldkeUdMNlF0MGF4dHZ1d2x6WFZ5N1VkZDBkRUUxY3BwS1ZwOC1zSWxvSnI",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "村田亮相2026芯和半导体用户生态大会",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHemtXY3Z3MlJ2Z3JibngtZW5lOUFKQk1IN0QzYVI4eEZHXzluS2Y4andFRWJjTVJIeURFTmhxajRTNGtjbldkaVB",
+      "source_url": "https://finance.sina.com.cn",
+      "source": "新浪财经"
+    },
+    {
+      "title": "蓝海华腾：对外投资基本半导体、北一半导体、中科昊芯、湖南毂梁微、镓创未来等芯片企业_公司新闻",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZTnJfbE00ZHFEc1U1U180dnF2VXM4TUdmRzZrSXlZdll3ZUUtMXh2dkxjaUI1WFBUVTNIMXBValF3VmJJWUxQdXl",
+      "source_url": "https://stock.stockstar.com",
+      "source": "证券之星"
     }
   ]
 }

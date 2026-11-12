@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 29,
-    "trusted": 11,
+    "raw_dedup_junk": 49,
+    "trusted": 21,
     "non_trusted_top": {
-      "sina.com.cn": 6,
-      "infoobs.com": 1,
-      "ycnews.cn": 1,
-      "sfccn.com": 1,
-      "csdn.net": 1,
-      "sina.cn": 1,
-      "voc.com.cn": 1,
-      "stockstar.com": 1,
+      "sina.com.cn": 8,
+      "infoobs.com": 2,
+      "sina.cn": 2,
+      "stockstar.com": 2,
       "ac.cn": 1,
-      "bjd.com.cn": 1
+      "mydrivers.com": 1,
+      "icloudnews.net": 1,
+      "guan.media": 1,
+      "ctdsb.net": 1,
+      "autohome.com.cn": 1
     },
-    "fresh1_24h": 10,
-    "page_fresh": 6,
-    "relaxed_72h": 4,
+    "fresh1_24h": 21,
+    "page_fresh": 20,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "青春华章·我们的新长征|天津：闲置楼宇变身创新高地",
-      "d": "ifeng.com"
+      "t": "张一鸣坦言：字节AI追上全球第一梯队，至少还要三年",
+      "d": "21jingji.com"
     },
     {
-      "t": "AI+制造”的下一程，不再拼谁的模型参数大，而是拼谁能先把场景对上",
+      "t": "百度推出大模型交易所“词元所”，李彦宏谈企业如何更好使用AI降本增效",
       "d": "sohu.com"
     },
     {
-      "t": "中国大模型，不想只卖API了",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "黄仁勋出轨风波发酵英伟达盘后跳水，OpenAI单季亏损109亿美元｜AI早报",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "字节跳动计划推出AI智能体助手，目标缩小与顶级AI实验室技术差距 ｜#AI资讯#",
+      "t": "“碳硅协同”落子南京玄武区 南京大学生物智能研究院正式揭牌",
       "d": "sohu.com"
     },
     {
-      "t": "超级AI服务平台就位！派生万物官网全新改版，解锁智能传播新纪元",
-      "d": "thepaper.cn"
+      "t": "AI场景大规模落地 京北方入选“2026中国金融AI创新企业TOP50”",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "一周卖出约20万亿词元 AI消费有哪些新变化？",
-      "d": "chinanews.com.cn"
+      "t": "列车装上“AI大脑” 新型地铁智慧列车在青岛下线",
+      "d": "stdaily.com"
+    },
+    {
+      "t": "一条街区如何托举AI时代的“一人公司”？",
+      "d": "36kr.com"
+    },
+    {
+      "t": "高调秀自家AI能力，谷歌高管“翻车”了",
+      "d": "guancha.cn"
     }
   ]
 }
