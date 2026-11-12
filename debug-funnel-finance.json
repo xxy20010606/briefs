@@ -1,52 +1,52 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 25,
-    "trusted": 10,
+    "raw_dedup_junk": 19,
+    "trusted": 7,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "jrj.com.cn": 3,
-      "stockstar.com": 2,
-      "sina.cn": 2,
-      "tradingview.com": 2,
-      "futunn.com": 1,
-      "moomoo.com": 1,
-      "on.cc": 1
+      "stockstar.com": 3,
+      "futunn.com": 2,
+      "sina.com.cn": 2,
+      "cfi.net.cn": 1,
+      "tmgm.com": 1,
+      "techflowpost.com": 1,
+      "vtmarkets.com": 1,
+      "moomoo.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 8,
+    "fresh1_24h": 7,
+    "page_fresh": 6,
     "relaxed_72h": 1,
     "final": 7,
     "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "港股收评：恒指跌约1%，科网股金融股拖累大市走低，光通信PCB逆势大涨_股市直播",
+      "t": "央行：加力实施支持资本市场的两项货币政策工具，用好债市非银大额赎回互换便利，维护",
       "d": "cnfol.com"
     },
     {
-      "t": "沪硅产业扣非连亏3年3季 3募资共95亿IPO国泰海通保荐_证券要闻",
+      "t": "长效发力稳股市",
       "d": "cnfol.com"
     },
     {
-      "t": "股市波动与监管取向",
-      "d": "caixin.com"
+      "t": "A股：刚刚利好消息终于来了，今明两天，股市或有大行情？",
+      "d": "163.com"
     },
     {
-      "t": "全球资金，盯上新兴市场低估值资产",
+      "t": "2027年港股基本面与估值或迎共振修复；CoreWeave超预期财报提振美股AI",
       "d": "21jingji.com"
     },
     {
-      "t": "11.10股市早8点丨三重顶后构筑止跌平台_证券要闻",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "港股早报｜美国10月通胀超预期引发加息担忧 隔夜美股芯片股表现再度分化",
+      "t": "港股早报｜隔夜美股AI产业链交易热潮回归 存储四季度价格仍呈上涨态势",
       "d": "cls.cn"
     },
     {
-      "t": "11月10日港股收盘：恒指涨0.44% 恒生科技指数涨1.08%",
-      "d": "eastmoney.com"
+      "t": "美股三大指数高开，CoreWeave大涨超16%，英伟达涨近3%_市场分析",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "央行重要报告，维护股票、债券、外汇等金融市场平稳运行",
+      "d": "ifeng.com"
     }
   ]
 }

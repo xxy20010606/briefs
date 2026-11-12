@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 36,
+  "total": 29,
   "samples": [
     {
-      "title": "半两财经｜“人工智能+”城市落地：首都产业智能化，青年既是建设者也是使用者",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSWhMa3NSdjhWYnlEVTFsZ1I0TWtLbDJMY1FnVTUyeFFNSkNiSGkwRU5UNnpZbmQwVTk1c1NlN1RwYmNKazNQa1R",
+      "title": "青春华章·我们的新长征|天津：闲置楼宇变身创新高地",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1UElTeEpRUW5EclUyYmhYTXJDREVtWnBVTUljQXoxa29TRGJMRjZKSGlBeEY0eHdFd0xldVhaamFLN1ZKTWdRZ0V",
+      "source_url": "https://news.ifeng.com",
+      "source": "凤凰网"
+    },
+    {
+      "title": "AI+制造”的下一程，不再拼谁的模型参数大，而是拼谁能先把场景对上",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWDNCWnZxR2JqNTZmV0g5eFJOaUZoSXAtY3VYYVhXYWVFWDA2bUhqb09ZdUI1S0QzMUFVdUZMdjQ1VmlXWk11Y3R",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "合肥将“人工智能大模型应用”课程纳入党校干部培训",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TR2xzSS1hblRjZmpmLWNUWkF3OE91RnM3anB2djU5Q293QllSR0V6ZGpVa0hrdVlxbGttUHBHMlZObTF5ZFRBalF",
+      "title": "拓展人工智能就业新空间",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mX0JOS2lSMktLZVhJT3JvV2dSd2lKT3J0QlIwYjBVcEV1Nmltd3U5RVc0UzVsQUpXMFN0MGFIU3YxNC1ST1lzdy1",
+      "source_url": "https://www.infoobs.com",
+      "source": "信息化观察网"
+    },
+    {
+      "title": "连云港：AI嵌入研发车间 “十年磨一药”按下快进键",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyR01UX2pnOEJjbmotTDFCdHJkR0pHQ2VWaXdQUFlpX3JJbnZxYVI1Q2g5cWh1MW1wdHlhN01QUHNORTZZRXZVS0p",
+      "source_url": "https://www.ycnews.cn",
+      "source": "www.ycnews.cn"
+    },
+    {
+      "title": "从Token上电商货架看消费深刻变革",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaVUkxVlVEZXhfSndIdnlNclZTdFVWVW9xSjBCVG0tcXd3NndsejdLWjhrUTZOcERqWFk5RU9YbmNfbVZMbjFfZHJ",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     },
     {
-      "title": "兴业银行人工智能建设成果荣获多项IDC大奖",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUZxaV9Pc1VpbXcwMEdpdEV3c0pGWVBRR2VzSWpiOU5pdGtIQmYwLUdrT0NWd2lURXpFeU04Y25mSEh1NFF2ckl",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "家电品牌唯一！长虹美菱“声学大模型”斩获国家级荣誉",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xM0lmMmp1eEJhVHZjWkpYbUhoN3d4TERxMl8tTW5UbTJsTXNZNjVIUVd4QUh3SWRsVFhvTkpGTHJYTnR4ckhya3h",
-      "source_url": "https://news.cheaa.com",
-      "source": "中国家电网"
-    },
-    {
-      "title": "DeepX第二代边缘AI芯片DXM2流片完成：借助PIM内存技术，实现本地大模型推理性能跃升",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UQ2kweGZ2Qk9BRnhQa3F2V05QUWlqYXdqWlctUVM2UkFSMm85QjVhMzZGUkhBSk5kdlh2bDAyRXVQbVpaMVB1ZzN",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
-    },
-    {
-      "title": "聚焦乌镇峰会|孙茂松：AI赋能生产性服务，拥有巨大的场景创新空间",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VaXdPYXdlNDRXa2JaaHRuX3o0cXpMazRRSXVzRk92a20tRW9BQl94UWFHbWJ2c1lReWdSWkg3M2R2WlRZeHJscmd",
-      "source_url": "https://tech.china.com",
-      "source": "中华网"
+      "title": "南方财经全媒体集团 周蕊 2026-11-12 09:05:26",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OTm1wSFJvX093N1pPcEwwTmJxRklRc3VnendVUFBWSWl1cE1SRGFaY3owM0t5Ym91cDRYc1RHZ0Y0bkEzbGUyUTh",
+      "source_url": "https://m.sfccn.com",
+      "source": "南方财经"
     }
   ]
 }

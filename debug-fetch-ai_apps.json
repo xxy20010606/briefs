@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 18,
+  "total": 9,
   "samples": [
     {
-      "title": "Photoshop、Lightroom与Premiere新增一键消除功能-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEZjJ3dm5VUmxwcFUtVWMxX3dnZExOajc3QWlQdHl0ZTI3NTFQdS1Xd2ttWFllMHY3Z3ZkSExfQklSazNRb0hrTjA",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "Grok Build被曝数据暴露：超九成Grok应用无需登录即可访问",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yVzJ6Qm1NaTVEdGtQWUlmRFNkS3BFSFlVNVZVZy1CRThPaHVqVTM0YzRHc2pGcDJMRGpJNEtwWTg2TmNJeHoybWp",
+      "source_url": "https://original.ifeng.com",
+      "source": "凤凰网"
     },
     {
-      "title": "Lenovo调研显示，80%的IT负责人认为数字化工作环境对AI应用成功至关重要，仅10%已着手从根",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yV1NDNWJsY2ZPNUh6WlR5OV9heE1RdmVrSFdtZ1FFYldGOXBuV0ZNYnVJSUhrdDdlR3dRVjZSRDRQMDlBMGJyX24",
-      "source_url": "https://www.businesswire.com",
-      "source": "Business Wire"
+      "title": "AI工具越来越好用 双十一商家为何越用越焦虑？",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50WlE4bXpzeDJNc2VnUFhIVTRWTkFxYUZiV3NTczZYclhxc3hFc1N6UWdUVXdWNWRVWlJYMkcxQWt5Mk8wT0RJbmY",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "人工智能ETF领涨；AI应用或正从单点工具走向全场景深度渗透丨ETF基金日报",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd2l3UE1EMnp6TlVUYlRxWlZlbE9ZNTYya1lnTjhNLVB5U3M4SkFvaThaaVlhdXF1ZjQ4bHdBbzdaM1JNMHdNeTN",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
-    },
-    {
-      "title": "微软正式发布.NET 11：开发更省时，AI工具更齐全",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CWjU2bHZGS040T2kzZFVnd3o5S21OcG12bjFaTmhCV3Y1NzVvdzlnb0xiVVRLLXpkbzlPQXdYa2hHQlBtSmFYN2F",
-      "source_url": "https://t.cj.sina.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "IPO路演日加码企业办公市场！Anthropic推出多款AI工具，正面挑战微软Office",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBucXlqM0xCYXZYTWlwNE5SaU5VeTJQUWRSODh3WW5LclhpbHJCQW1BaFFVX3NfTzJQcnZQaExTNDVQbVhUUGVjZlh",
-      "source_url": "https://wallstreetcn.com",
-      "source": "华尔街见闻"
-    },
-    {
-      "title": "KORA推出搭载端侧AI的Linux桌面系统，面向Snapdragon PC",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREY2cjVtYVVObE1XNmIzSHRNazhjdm9PQlNRODhCYV9nYTNpN19UYmN3R1NESjBHUV81WFJjMHR2MTdmRHA2MVc",
+      "title": "Edelbyte 获得 7000 万美元融资，用于构建 AI 智能体数据基础设施",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObVNqaWRlbHBWWGgzc2ZPb053dFdPYWxVYmZILXJ0eUc2SEFZLUFGMHU4N0RqamEwSU9HUE5QVVZ6Tm5EZ0hsWFF",
       "source_url": "https://www.unite.ai",
       "source": "Unite.AI"
+    },
+    {
+      "title": "Hitachi Vantara 为 VSP One Object 新增数据原位湖仓查询功能",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPXy1BaHZTb0VVOXZ1ZTA2LTZteXpIRHJ3UTRmUkg1VmkyOHFSNFVMRkF5VEdIc2U1V3FhVkRTalhZcGFENkJadS1",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
+    },
+    {
+      "title": "Microsoft副总裁开发开源工具，可显示哪些应用正在使用GPU显存",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGU3YWQ3T2JGVzFDMU93R2JlYXFZaWlFb29PcXRhNVFteUZ6dVd0ZjFyeE9LX1VFRk5EcTk1RzBQYmZ0TzhEeGt",
+      "source_url": "https://mezha.net",
+      "source": "Mezha.net"
+    },
+    {
+      "title": "从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Qazg0Q1FkbFo5UFYzWjZtTVR5Wjk3VWdleTJZdXo2QU1QcXp4R0tteHRXbkFyai01Nm4wZ1NXS2dpZWx2NjlHeVJ",
+      "source_url": "https://www.infoq.cn",
+      "source": "InfoQ 中文"
     }
   ]
 }

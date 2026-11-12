@@ -1,52 +1,36 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 18,
-    "trusted": 8,
+    "raw_dedup_junk": 9,
+    "trusted": 4,
     "non_trusted_top": {
-      "sina.cn": 2,
       "unite.ai": 2,
-      "zhiding.cn": 1,
-      "businesswire.com": 1,
-      "pedaily.cn": 1,
-      "panewslab.com": 1,
-      "vrtuoluo.cn": 1,
-      "aibase.com": 1
+      "sina.com.cn": 1,
+      "mezha.net": 1,
+      "voc.com.cn": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 7,
-    "relaxed_72h": 0,
-    "final": 7,
+    "fresh1_24h": 4,
+    "page_fresh": 3,
+    "relaxed_72h": 1,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "人工智能ETF领涨；AI应用或正从单点工具走向全场景深度渗透丨ETF基金日报",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "AI短剧爆火，Agent也开始卷了",
-      "d": "jiemian.com"
-    },
-    {
-      "t": "Anthropic推出AI办公套件，竞争对手微软股价跌超2%",
-      "d": "sohu.com"
-    },
-    {
-      "t": "阿里发布Qwen4-Max预览版：编程、Agent能力升级，最低1折体验",
+      "t": "Grok Build被曝数据暴露：超九成Grok应用无需登录即可访问",
       "d": "ifeng.com"
     },
     {
-      "t": "阿里预告Qwen4即将发布：Max预览版已接入多款产品",
+      "t": "从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI",
+      "d": "infoq.cn"
+    },
+    {
+      "t": "字节旧部创业，在海外杀疯了",
       "d": "ifeng.com"
     },
     {
-      "t": "Anthropic发布Claude白板、表格与数据工具，AI办公套件来了",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "Anthropic将发布办公套件整合AI功能 对抗微软、谷歌",
-      "d": "ifeng.com"
+      "t": "Anthropic 一夜逼疯微软？Claude 杀入办公软件腹地：能自己参会、做",
+      "d": "infoq.cn"
     }
   ]
 }

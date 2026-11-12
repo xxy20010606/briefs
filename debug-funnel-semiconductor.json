@@ -1,54 +1,52 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 26,
+    "raw_dedup_junk": 26,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.cn": 5,
-      "jrj.com.cn": 3,
-      "mydrivers.com": 3,
-      "capwhale.com": 1,
-      "news18a.com": 1,
-      "qianjia.com": 1,
-      "seetao.com": 1,
-      "esmchina.com": 1,
+      "futunn.com": 2,
+      "sina.cn": 2,
+      "autohome.com.cn": 2,
+      "csdn.net": 2,
+      "pedaily.cn": 1,
       "moomoo.com": 1,
-      "autohome.com.cn": 1
+      "guandian.cn": 1,
+      "3elife.net": 1
     },
-    "fresh1_24h": 26,
-    "page_fresh": 24,
-    "relaxed_72h": 0,
+    "fresh1_24h": 12,
+    "page_fresh": 7,
+    "relaxed_72h": 6,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "吵上热搜的华为τ定律落地！麒麟9050真不堆制程也能提性能？",
-      "d": "ednchina.com"
-    },
-    {
-      "t": "一本书读懂AI时代算力底座：芯片诞生背后的科学力量",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "AI数据中心挤占成熟制程产能，汽车芯片供应链面临瓶颈",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "佳能发布KrF半导体光刻机FPA-6400ES6a",
-      "d": "ifeng.com"
-    },
-    {
-      "t": "硅光芯片赛道再获大额融资！",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "半导体资金流入叠加AI催化，科技ETF易方达涨1.94%",
+      "t": "拨款两万亿日元，项目已延误数月，日本“孤注一掷”，为何造不出尖端芯片？",
       "d": "sohu.com"
     },
     {
-      "t": "圣邦股份盘中涨超5%，机构看好半导体国产化及模拟芯片复苏",
+      "t": "意法半导体将于2027年1月1日上调价格，2026年已进行三轮涨价",
       "d": "sohu.com"
+    },
+    {
+      "t": "美股ETF追踪 | 存储芯片爆发 三倍做多半导体ETF涨超17%",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "23:55:20【美股半导体板块盘中持续走强 费城半导体指数涨6.1% 闪迪涨超",
+      "d": "cls.cn"
+    },
+    {
+      "t": "23:28:36【美股半导体板块夜盘强势拉升 费城半导体指数涨5% 美光、闪迪涨",
+      "d": "cls.cn"
+    },
+    {
+      "t": "纳斯达克指数高开1.5%，芯片半导体股票明显上涨",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "青岛半导体设备商冲刺科创板，中车系背景，拟募资20亿",
+      "d": "ifeng.com"
     }
   ]
 }

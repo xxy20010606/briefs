@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 45,
+  "total": 26,
   "samples": [
     {
-      "title": "吵上热搜的华为τ定律落地！麒麟9050真不堆制程也能提性能？",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZZ05BUzVjZUs1UGVlQ19sUVZOS0Z6TFpaa2VwRFphVzMyTWRralA0NzBCTko1a093YkRkcEJBcXRRMXI4OG9RNEJ",
-      "source_url": "https://www.ednchina.com",
-      "source": "电子技术设计"
+      "title": "RDMA智能网卡芯片设计领军厂商「沐创」完成新一轮融资",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sbWRONElaLUFDa0Q0TEFXd0FOOFdDQlYzRVBsMmFFajlIM3pPLUhIQmJKMkw2b0hBOHhTN1pfQUxZN292a3NneGJ",
+      "source_url": "https://news.pedaily.cn",
+      "source": "投资界"
     },
     {
-      "title": "一本书读懂AI时代算力底座：芯片诞生背后的科学力量",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Tdmd0c1luV1I0SGtiT1d2bWlGYUdZQzNXLVkza0x2LTVLYjJTSENIZ3JjTjk1TTBmdDhGUVBOc0R6VDFiWm14MGt",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
+      "title": "拨款两万亿日元，项目已延误数月，日本“孤注一掷”，为何造不出尖端芯片？",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0g1eGc5d0dvSk80NVN6MU1TZERrTzI3eXVNalNXSXR2aHdPdG8xODFyRmtDTUZXUUdCUENySHZOR1o4S25lS29",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "被折叠的芯片资产：阿里分拆平头哥的逻辑与悬念",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2paMC1GSTZYX1Z6WmVUVnZ0RUZVOXJxQUd1Sy1iaFVkUEVKZzBYTVNFbDhJMm10eFUxODNIZ29YbmxReGVFZnN",
-      "source_url": "https://m.capwhale.com",
-      "source": "资鲸"
+      "title": "多只半导体、芯片ETF涨超3%",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGRsY2h3MGJuZ3hFZ2JmM0dlUVpjWHRFdTA2eHJzTmFGdF9SUHRoVWZPR1Q5RjIxZEY2d25lbTl6QVRLRVU1RjZ",
+      "source_url": "https://news.futunn.com",
+      "source": "富途牛牛"
     },
     {
-      "title": "安世半导体与意法半导体称AI数据中心需求挤占成熟制程产能，汽车芯片供应链出现瓶颈",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kSUIyajdQR0Y1RTFnaVJTS0YzWUdQdmVWWjBKamQ2elVUTzR1aV9ubjlMREZnQ01ORXlSdk14VEhPTWxTWHlkVC1",
-      "source_url": "http://www.news18a.com",
-      "source": "网通社"
+      "title": "高通(QCOM.US)瞄准150亿美元数据中心营收伯恩斯坦却抛来看跌研报：蹭上AI风口也难扭转盈利",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUo1RWhlZGh3bnNrMVJhUUdhaXJhWGc4WXppTlpOOHZNTFg1TXZyX1JpWHVpZUQwM195TTVnREJKSzRoVEQ2aEF",
+      "source_url": "https://news.futunn.com",
+      "source": "富途牛牛"
     },
     {
-      "title": "AI数据中心挤占成熟制程产能，汽车芯片供应链面临瓶颈",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rOU95b0llQzBiUENERTZsZWx0QXRLRTk4bUE3WVdTLXpjVkxJSkZCd083NDBTZTN1WTlIRzJHc2dsVUctd0MzaDZ",
-      "source_url": "https://tech.ifeng.com",
-      "source": "凤凰网科技"
+      "title": "意法半导体将于2027年1月1日上调价格，2026年已进行三轮涨价",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT0Z1ZU5VTW40RGYyYmlpNDRZa2VTaFVGY0k1bkx1WllXQ1RsaXVTbUJOWTlZV01wTXVscFVTS2ZHN0paNEJLSUt",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "佳能发布KrF半导体光刻机FPA-6400ES6a",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xenZtU3FreUtGdDR4OV82ZTUzUzdrU2ZMZm9DZmt0SllqSVp0QXByaVFlcERMZ3NkcFdlWDNWamFDNGs0ZEE1eTA",
-      "source_url": "https://tech.ifeng.com",
-      "source": "凤凰网科技"
+      "title": "日韩股市高开，三大存储芯片巨头齐涨",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUC1jbWJpRVdvTGRDVUpqUzVtSURSdldkeUdMNlF0MGF4dHZ1d2x6WFZ5N1VkZDBkRUUxY3BwS1ZwOC1zSWxvSnI",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     }
   ]
 }

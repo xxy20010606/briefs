@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 36,
-    "trusted": 9,
+    "raw_dedup_junk": 29,
+    "trusted": 11,
     "non_trusted_top": {
-      "sina.com.cn": 5,
-      "china.com": 2,
-      "techwalker.com": 2,
-      "voc.com.cn": 2,
-      "cheaa.com": 1,
-      "jfdaily.com": 1,
-      "jrj.com.cn": 1,
-      "prnasia.com": 1,
-      "ofweek.com": 1,
-      "2500sz.com": 1
+      "sina.com.cn": 6,
+      "infoobs.com": 1,
+      "ycnews.cn": 1,
+      "sfccn.com": 1,
+      "csdn.net": 1,
+      "sina.cn": 1,
+      "voc.com.cn": 1,
+      "stockstar.com": 1,
+      "ac.cn": 1,
+      "bjd.com.cn": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 8,
-    "relaxed_72h": 0,
+    "fresh1_24h": 10,
+    "page_fresh": 6,
+    "relaxed_72h": 4,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "半两财经｜“人工智能+”城市落地：首都产业智能化，青年既是建设者也是使用者",
+      "t": "青春华章·我们的新长征|天津：闲置楼宇变身创新高地",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "AI+制造”的下一程，不再拼谁的模型参数大，而是拼谁能先把场景对上",
       "d": "sohu.com"
     },
     {
-      "t": "DeepX第二代边缘AI芯片DXM2流片完成：借助PIM内存技术，实现本地大模型",
-      "d": "eet-china.com"
+      "t": "中国大模型，不想只卖API了",
+      "d": "eastmoney.com"
     },
     {
-      "t": "“人工智能+”拓展文化和科技融合边界",
-      "d": "news.cn"
+      "t": "黄仁勋出轨风波发酵英伟达盘后跳水，OpenAI单季亏损109亿美元｜AI早报",
+      "d": "ifeng.com"
     },
     {
-      "t": "A股上市公司差异化布局AI应用细分赛道",
-      "d": "21jingji.com"
+      "t": "字节跳动计划推出AI智能体助手，目标缩小与顶级AI实验室技术差距 ｜#AI资讯#",
+      "d": "sohu.com"
     },
     {
-      "t": "35B模型跑进手机，面壁智能押注端侧AI的下一阶段",
-      "d": "nbd.com.cn"
+      "t": "超级AI服务平台就位！派生万物官网全新改版，解锁智能传播新纪元",
+      "d": "thepaper.cn"
     },
     {
-      "t": "AI中国｜颗粒归仓、秋粮丰收！一起守护大国粮仓",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "阿里云发布基于 AMD 第六代 EPYC 处理器的第十代 ECS 企业级实例",
-      "d": "infoq.cn"
+      "t": "一周卖出约20万亿词元 AI消费有哪些新变化？",
+      "d": "chinanews.com.cn"
     }
   ]
 }

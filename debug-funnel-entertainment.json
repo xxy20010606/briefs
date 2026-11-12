@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 47,
-    "trusted": 17,
+    "raw_dedup_junk": 22,
+    "trusted": 8,
     "non_trusted_top": {
-      "dianyingjie.com.cn": 4,
-      "china.com": 4,
-      "sina.com.cn": 3,
-      "sina.cn": 3,
-      "lmtw.com": 3,
       "bjd.com.cn": 2,
-      "mk.co.kr": 1,
-      "youth.cn": 1,
+      "dianyingjie.com.cn": 1,
+      "rediandf.com": 1,
+      "sina.cn": 1,
+      "hupu.com": 1,
+      "guan.media": 1,
+      "china.com": 1,
+      "hk01.com": 1,
       "360.com": 1,
-      "gamemeca.com": 1
+      "chinaqw.com": 1
     },
-    "fresh1_24h": 16,
-    "page_fresh": 15,
-    "relaxed_72h": 0,
+    "fresh1_24h": 4,
+    "page_fresh": 2,
+    "relaxed_72h": 5,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "不只是打游戏，北京海淀电竞联赛让高校人才对接头部企业",
+      "t": "华泰证券：AI影视正呈现结构性分化",
+      "d": "10jqka.com.cn"
+    },
+    {
+      "t": "以故事化表达回应年轻人追问！《伟大的长征》的启示",
       "d": "sohu.com"
     },
     {
-      "t": "金鸡奖最佳戏曲片《顾炎武》定档，12月1日全国艺联上映",
+      "t": "预售仅181元，雪藏五年，没上映就被判死刑，冯绍峰新片惨败出局",
       "d": "sohu.com"
     },
     {
-      "t": "梁家辉首夺金鸡“影帝” 《南京照相馆》成第39届金鸡奖大赢家",
+      "t": "“一人公司”拍出金鸡奖入围作品，AI影视精品从松江洞泾破土",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "婺剧《三打白骨精》揭幕第十二届上海国际喜剧节",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "深圳原创出品电影《给阿嬷的情书》获金鸡奖两项荣誉",
-      "d": "21jingji.com"
+      "t": "2026中国金鸡百花电影节福建电影专场推介在厦举办",
+      "d": "cnr.cn"
     },
     {
-      "t": "祝贺！吾守尔·赛来获金鸡奖最佳男配角，高小阳获最佳音乐奖",
-      "d": "xinhuanet.com"
-    },
-    {
-      "t": "“画地为牢”的不是许飞也不是厉娜，而是围观的我们｜每经热评",
-      "d": "nbd.com.cn"
-    },
-    {
-      "t": "从“AI辅助”到“AI原生” ，华策探索AI时代影视内容生产新路径",
-      "d": "10jqka.com.cn"
+      "t": "四篇苏童作品汇入 话剧《夜间故事》于北京师范大学登台",
+      "d": "chinanews.com.cn"
     }
   ]
 }
