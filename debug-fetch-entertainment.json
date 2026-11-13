@@ -1,18 +1,30 @@
 {
   "type": "entertainment",
-  "total": 28,
+  "total": 42,
   "samples": [
     {
-      "title": "全球影史票房第三！《蜘蛛侠：崭新之日》明日网播：爱优腾、华为视频等同步上线",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MWnBFOWNYNHRia0lXbGJGckFNWFNDQ3Q3TmtiNHBvU2FyMFJFbnNwcDBBQVpYdjQtQUxUemJteGUxTFpmTDlpYlN",
+      "title": "王晶贺岁片《麻将女王》上映8天，内地票房4455元，没有万",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0Q0QTI4dWN6VmpLT0h4WkQ5TEpnSHZJMjFURXdLdW1CYzRPbDdRTzM1alZHUEhNY0M0dVEzenRFeEhLcTdfejJ",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经_金融信息服务商"
+    },
+    {
+      "title": "王晶贺岁电影《麻将女王》上映8天 内地票房仅4455元",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpN2hVeVprTXVtTVZLdlJzUDVWWllEWnQ2RTgyc2Z1MEVHRm5HSXFnSnhKbmFkaFpDZ3FCeERJT2F3aU13LWU1bEN",
       "source_url": "https://news.mydrivers.com",
       "source": "驱动之家"
     },
     {
-      "title": "刘德华亏了2亿，王晶李连杰新片惨败，香港电影指望谢苗救场？",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSGRSZGMtLTFfaDVjdzVULV9QV2JNTUJPd19ZLWdmYlY1VFpyVldYNG1qMUtZMGlZc1ctNHFkUm4xejhoNnhFaHB",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "《喜欢了你一整个青春》定档12月5日 赴一场青春与暗恋的约定",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aeW56WVczbVhKSHByWjBHTHgxOWZOMXdhRzdONFN2V0E3RHlWODdtQlRoMF9XeWZWa1lfM05CYmxsVHJIdHo2MXp",
+      "source_url": "https://www.rediandf.com",
+      "source": "rediandf.com"
+    },
+    {
+      "title": "邓为《花儿与少年》综艺表现引观众心疼|邓为|花儿与少年",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DXzcyTElyRTR5RHFXTlFyTnZySGNaRzRMeEYwOTBSWUhTWE1HOHJzVS0xemhYVGpWVW1vaEJKUXNqcHA3dUF4RXF",
+      "source_url": "https://www.sina.cn",
+      "source": "新浪网"
     },
     {
       "title": "报告|国民品牌发力,海外新锐上桌,Q3代言市场谁领跑?",
@@ -25,18 +37,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVnhrenAyRjhtTWxHTmlSSVJYV2RUWUdmdlUwWXphcFU5VXNDOThSSUFjZ3VoYVZta3dDMExzNVJTMHNCeGMxTVo",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
-    },
-    {
-      "title": "六千左右手机推荐怎么选？2026年5款旗舰横评+避坑指南+FAQ",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yM1c2ZFdQcGR1ODRmMVpTeFV0dm9BQW1zaDYtUG5rUFFEWGVGaUhDVWVDOUU5Nk84LUtOV1NUbGpaVEFVcjVlM1U",
-      "source_url": "https://www.sina.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "多宝手机网页登录全新升级：一站式电竞游戏平台体验与下载指南",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fWWtHRkQyeDlCOXNKMTZwU29ESWtITUFjSVJ0M05lWVpJTXNKUDA5M1ZRc0daODVWUXJpWXNMejZiYUM5V3U3dTl",
-      "source_url": "https://m.36kr.com",
-      "source": "36Kr"
     }
   ]
 }

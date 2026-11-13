@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 34,
-    "trusted": 14,
+    "raw_dedup_junk": 50,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.com.cn": 9,
-      "sina.cn": 2,
-      "unite.ai": 2,
-      "cctime.com": 1,
-      "ebiotrade.com": 1,
-      "hsw.cn": 1,
-      "stockstar.com": 1,
-      "yzwb.net": 1,
-      "zqrb.cn": 1,
-      "fxbaogao.com": 1
+      "sina.cn": 5,
+      "sina.com.cn": 4,
+      "china.com": 3,
+      "icloudnews.net": 2,
+      "prnasia.com": 2,
+      "guandian.cn": 1,
+      "eastmoney.com": 1,
+      "ac.cn": 1,
+      "ncsti.gov.cn": 1,
+      "voc.com.cn": 1
     },
-    "fresh1_24h": 11,
-    "page_fresh": 8,
-    "relaxed_72h": 5,
+    "fresh1_24h": 17,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "告别“烟囱式适配”痛点 云网智算一体化支撑大模型发展",
-      "d": "sohu.com"
-    },
-    {
-      "t": "科技云报到：大模型狂奔三年，百度词元所重新定义AI生意",
-      "d": "sohu.com"
-    },
-    {
-      "t": "AIDC为储能电池行业提供新机遇， 安全是第一要素",
-      "d": "gasgoo.com"
-    },
-    {
-      "t": "全球就业格局加快重塑",
-      "d": "ce.cn"
-    },
-    {
-      "t": "天鹜科技：中国AI蛋白质设计的突围",
+      "t": "“未来超级明星正来自中国”，欧洲科技盛会中的AI竞逐",
       "d": "thepaper.cn"
     },
     {
-      "t": "自变量通用具身大模型GreatWall完成“广东省生成式人工智能服务备案”",
-      "d": "eastmoney.com"
+      "t": "见证人工智能与开源鸿蒙融入千行万业的浙江实践",
+      "d": "cyol.com"
     },
     {
-      "t": "从“双十一”Token热销看智能消费新动能",
-      "d": "china.com.cn"
+      "t": "南通崇川“三券齐发” 单项最高补贴1000万元",
+      "d": "sohu.com"
+    },
+    {
+      "t": "Anthropic估值缩水，压力给到国内大模型公司",
+      "d": "thepaper.cn"
+    },
+    {
+      "t": "核心观点 | 李彦宏首提“组织进化三原则”：智能组织是AI时代的新厂房",
+      "d": "sohu.com"
+    },
+    {
+      "t": "自变量机器人GreatWall通用具身大模型完成备案",
+      "d": "xinhuanet.com"
+    },
+    {
+      "t": "13:53:23【AI大模型等港股热门概念股跌幅扩大 智谱跌超11%】",
+      "d": "cls.cn"
     }
   ]
 }

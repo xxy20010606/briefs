@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 14,
+  "total": 17,
   "samples": [
     {
-      "title": "美国直接护理团队AI应用率低 错失银发护理提质机遇",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HVV9NY0FfaUh3d0UyT0dYd3VBWG9EWjFsdG9RcGhiX1NqQkw4NWRGZmdNSXMtNFJrdFVGV1pNaE5RT3hGTFY0Smp",
-      "source_url": "https://www.ageclub.net",
-      "source": "AgeClub"
+      "title": "百万粉丝多平台运营，自媒体工作室如何保持创作高产？",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EbnZQZWhhSUh1Q1l0aGJQUjJzQ2tNT0ZJSjJKTDRPQkYtUk50VExiWFBuZW9xYk9JM2EyY1pZZWF4UVVMRktOREJ",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
     },
     {
-      "title": "医生有了AI分身，看病会不一样吗",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tM3cwVWU3XzA5V19IOG9PXzQ5VGpwblhKNW1neUtCdW1mWm5wVXVvY1kyQXFwSlpQbC12QmVfUHBYMW9yTURWLWl",
-      "source_url": "https://health.66wz.com",
-      "source": "温州新闻"
+      "title": "京东双11售出超5000万件AI产品 Token搜索量增长逾13倍",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzNUFfaE1qOVhDQTZVOVhRc1FLRndIbTUwano4WFRDSUNLYWVzRC1XMkFJTi01ZHFUYTRsSmNrWXZLZzJGNTM1WHB",
+      "source_url": "https://www.moomoo.com",
+      "source": "Moomoo"
     },
     {
-      "title": "AI浪潮袭来 求职赛道变化 这3所高校出新招帮学生闯关",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ycDNRajd5OUJ0UjRiakk5VmFaeWJyamFvUHk5eUpfZHRScWZldlJ2WWs4NXQ0dHVqTWpMMTFZcG5NYk1tN2ZOaDJ",
-      "source_url": "https://news.hsw.cn",
-      "source": "华商网"
+      "title": "网易智企帝王蟹入选全球企业级Agent图谱，企业上下文实践获关注",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSnEtb0FTb3Q0Wkp1R3IyUldtV0lkZ25Ib0ltNFNYaVV5ZTFPMHV3dW5SZkNxdjgtMTR1TXZYVVB4YzVCYkQwVWd",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "DuPont 携手 Microsoft 和 NobleAI，将智能体人工智能应用于研发",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY1ZxQmE4R21EdWNMbHJRUmtNNzZFSTJycG82bnFZNV8yODRPeU1XS3c1LTRxQ3pwWjF1RjI2UmowR3FweGVlUHl",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
+      "title": "Omdia：预计2026年全球AI软件收入将超过2000亿美元_滚动新闻_财经",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90NGFLQmgwS3gzOUh5ZTdiaEhMbTkxek15Y1U5VnAtX1hPZWF3bGtpMWU4cmRCVWRkWHdILTVKaUIwTXFFWlVocGQ",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "2026年第6周GitHub榜单：AI代理本地化部署与TypeScript工具链实践",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdUw4XzNKYWJVSGM2TU5QdEhBanZQMUdDRXF1bDFNa0Q4UXZ3V3VwdWNra3RNUURRejNERHVFelpyZG9GN0hxaF8",
-      "source_url": "https://www.csdn.net",
-      "source": "CSDN"
+      "title": "OpenAI收购小型软件公司以增强Codex功能-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jcktHd2duSDUzVUJoRkJmYXdqRHZWSThNRXVmYUt3VllDRXBfZmx5d0dKVFNid2RwQ1d4OGI0SnhYa3d2ejVMbEt",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
     },
     {
-      "title": "60名学员解锁AI新技能！临翔劳动者逐梦数字新赛道",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2bEhGWXRuS3Z5WEFtR19NSTY5eUZreXVjLXFRM3lSX19XaWpNV2xOY2RlSW9iTFQyUUNsNVdUWDA4TTNnand0OEt",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "联邦航空局将AI交通管理系统推广至全美空域-AI应用",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6djBIUHZuRmdGNVBVNEdqZ3lNVWdTSUtJQnAzZUY0cElIMXlEN0VMVjMyVGQ2Z3JwR0xscE5WelJvU19fbnNkeG8",
+      "source_url": "https://www.zhiding.cn",
+      "source": "至顶网"
     }
   ]
 }

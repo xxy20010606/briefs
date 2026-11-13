@@ -1,27 +1,46 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 25,
-    "trusted": 1,
+    "raw_dedup_junk": 44,
+    "trusted": 5,
     "non_trusted_top": {
-      "ne21.com": 13,
-      "sina.cn": 4,
-      "autohome.com.cn": 3,
-      "wedoany.com": 1,
-      "yzwb.net": 1,
+      "ne21.com": 18,
+      "autohome.com.cn": 9,
+      "wedoany.com": 2,
+      "zjol.com.cn": 1,
+      "tianshui.com.cn": 1,
+      "seetao.com": 1,
+      "straitstimes.com": 1,
+      "moomoo.com": 1,
       "sina.com.cn": 1,
-      "smm.cn": 1
+      "sina.cn": 1
     },
-    "fresh1_24h": 1,
-    "page_fresh": 0,
-    "relaxed_72h": 1,
-    "final": 1,
+    "fresh1_24h": 5,
+    "page_fresh": 5,
+    "relaxed_72h": 0,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "多形式赋能！2026年青岛市绿色能源产业链专场对接会举行",
+      "t": "“十五五”新型储能实施方案印发：2030年新能源基地配储50-60GW，鼓励新能",
       "d": "sohu.com"
+    },
+    {
+      "t": "安徽省新能源及新型储能行业报告发布",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "甘肃酒泉金塔160万千瓦风光储基地送出工程投运",
+      "d": "solarbe.com"
+    },
+    {
+      "t": "高盛：比亚迪技术与生态发展深度观察",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "两部门印发《“十五五”新型储能实施方案》",
+      "d": "cls.cn"
     }
   ]
 }

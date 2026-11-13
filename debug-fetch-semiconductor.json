@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 27,
+  "total": 48,
   "samples": [
     {
-      "title": "半导体芯片开盘领涨，天普股份4连板，华东重机一字涨停，旋极信息、大胜达、摩尔线程、天普股份、寒武纪涨",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OWHRwMFpMVC1ua085SW8ySEZPUmdBRzJqaV9iR29hZ1dOUnlzWFF5V1owVGtpRVEzQkhiMDNpenFYWmdVZjRIemZ",
+      "title": "隔夜费城半导体大涨5.66%！A股半导体大幅拉升，寒武纪、北方华创涨超11%、5%！",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT203TndvZ1p1WEExUzBqbXZlTVVHeG44ZUx2alBEY09GcU1MX2wtWWZQaUpWVTYtRHpZem5jYXRtdzVfR2JLRjV",
+      "source_url": "https://m.21jingji.com",
+      "source": "21财经"
+    },
+    {
+      "title": "南芯科技，成立半导体子公司",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YaU1MYjllcDExUmlRa1VHVm1IeDd3ZjBMMlFEY0I3Y18tWVh4SzhmNnA2Znh6UFZ1OFc4cGVabFVkbGdDdG9vNm1",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
+    },
+    {
+      "title": "英伟达动荡引发芯片板块轮动",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10cks5RjczUDhDWlJ2alNBM2NSSmVwM3BmU0w4WDZSbUcxalI3MV81aTdZSGZ2UWh5ZWV3bGtyYUFGUUdqaVpsbFJ",
+      "source_url": "https://news.futunn.com",
+      "source": "富途牛牛"
+    },
+    {
+      "title": "南芯科技上海新设全资半导体子公司 注册资本未披露",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BV2tyYUptRy1CLVpPOHlnOUVDcDZuQXB5RlRmZW5tSU9KbEpsdHMydUd6MXEzd3E5T3pPR2RRbHJVa3pGbVJOSEd",
+      "source_url": "https://www.guandian.cn",
+      "source": "观点网"
+    },
+    {
+      "title": "南芯科技在上海成立半导体子公司",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSSDRXcExrdHdnNWo1MW5EWk5JZTYtZGhHTEQ0WGR0MTRwUGw2RFR4VlRpTFczTXIwNGZsLVdYa3dEcWh1b1d2RDZ",
       "source_url": "https://wap.cj.sina.cn",
       "source": "新浪网"
     },
     {
-      "title": "一颗芯片是如何生产出来的？VANCH 万全CIDRW读写器在半导体全流程制造过程中应用价值",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JcXB6MHVSY3pZM015azlPRGR6bVYtdWlvRnFSSURVaXNxWUdEajVIVkJwZVpfbnVNQ3FxX2tXUTdQZzBkV1NXMWp",
-      "source_url": "https://www.rfidworld.com.cn",
-      "source": "RFID世界网"
-    },
-    {
-      "title": "三大存储芯片巨头，大涨",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc2JFYlg3WlJJT05aUW1tZG1yX1QzYVpKOEMtT1d4R2podVVFRmFrMVdmZVRSdVJTWllBOE9YVVZnZ2VyaU4ySGR",
+      "title": "因半导体及存储等零部件成本持续上涨，大疆部分产品11月18日起上调售价",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTmcwNDdZeE50anhzUHpSbnB2aVNMU1JiaVhWZGRmMnFoMUpNOFBRMzlObnlCZWFoaENuSF9yRVNQUmZRUWJ6UE1",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
-    },
-    {
-      "title": "半导体主题ETF上涨 中小盘宽基产品吸金",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rcHYySGgydTAwMklZcERCRjFfWEg4SFhSZjExdVROVUhVQ29lUmxuSGNFV3RFcktUcjF6cjhQVDdnQ0dlMFdrSVR",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经_金融信息服务商"
-    },
-    {
-      "title": "年产2亿只！又有碳化硅项目即将投产",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11UmYwSFFLaVg2ZUVuTmVaNVZqbTdpbGlHWDFtQWxYVDctYTdtX2N4b2psMW1fUWJOMWxmMldfN1ktajFXaktqRWQ",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
-    },
-    {
-      "title": "美国半导体设备龙头，业绩全面超预期",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Wb005T1F1VEM2TmZhWGZaSFdlazgwNHNveU1OaHJEMlRTeUdHXy10MU92N3dMY083Nndub3lDQ0FxQkpXRlhLUl9",
-      "source_url": "https://www.eet-china.com",
-      "source": "电子工程专辑EE Times China"
     }
   ]
 }

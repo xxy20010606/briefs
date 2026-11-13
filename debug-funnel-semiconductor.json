@@ -1,52 +1,54 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 27,
-    "trusted": 16,
+    "raw_dedup_junk": 48,
+    "trusted": 28,
     "non_trusted_top": {
-      "sina.cn": 2,
+      "sina.cn": 6,
+      "jrj.com.cn": 3,
       "sina.com.cn": 2,
-      "cfi.net.cn": 2,
-      "rfidworld.com.cn": 1,
-      "jfdaily.com": 1,
+      "futunn.com": 1,
+      "guandian.cn": 1,
+      "infoobs.com": 1,
+      "esmchina.com": 1,
       "stockstar.com": 1,
-      "chosun.com": 1,
-      "fxbaogao.com": 1
+      "mydrivers.com": 1,
+      "rfidworld.com.cn": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 7,
+    "fresh1_24h": 26,
+    "page_fresh": 20,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "三大存储芯片巨头，大涨",
-      "d": "sohu.com"
-    },
-    {
-      "t": "年产2亿只！又有碳化硅项目即将投产",
+      "t": "南芯科技，成立半导体子公司",
       "d": "eet-china.com"
     },
     {
-      "t": "美国半导体设备龙头，业绩全面超预期",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "国产芯片厂商，集体奔向德国",
-      "d": "36kr.com"
-    },
-    {
-      "t": "黄仁勋辞职！华人执掌美国四大芯片巨头的格局被打破",
+      "t": "因半导体及存储等零部件成本持续上涨，大疆部分产品11月18日起上调售价",
       "d": "sohu.com"
     },
     {
-      "t": "接口IP走向台前：国产芯片“高速公路”争夺战刚开场",
-      "d": "10jqka.com.cn"
+      "t": "【VIP日报】算力芯片持续活跃 栏目以机构视角解读国内市场 提及焦点公司涨停",
+      "d": "cls.cn"
     },
     {
-      "t": "国产算力芯片股集体爆发！半导体、芯片相关ETF逆市走强",
-      "d": "eastmoney.com"
+      "t": "IC China 2026现场直击：“纯度几个9？出货稳不稳？”半导体博览会上的",
+      "d": "sohu.com"
+    },
+    {
+      "t": "中芯赵海军预判：2027年半导体代工产能进入紧缺周期",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "风口研报",
+      "d": "cls.cn"
+    },
+    {
+      "t": "AI应用场景开始分层 半导体产业链上下游寻找新突破口",
+      "d": "21jingji.com"
     }
   ]
 }

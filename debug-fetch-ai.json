@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 34,
+  "total": 50,
   "samples": [
     {
-      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1Qnl5N3l2VC1YQWE2WGotd0hITmltdlUxM3BoOHc3Q1RlY056a1J0bTFydUN6Ty1MMmJnTzZEWHJ3TkZuOGNTRzZ",
-      "source_url": "https://www.cctime.com",
-      "source": "飞象网"
+      "title": "首批｜绿盟科技正式获评首批国家人工智能安全漏洞库（AIVD）技术支撑单位",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzSWN6VzZSWTVXd1JfREdmLVRVQ0ZTWkxMaHZkMjQtQWpHd0Fab3BaX0wtTTd5bHJ5ZkVLZXBSY3BVMnIyU1hXX2h",
+      "source_url": "https://www.icloudnews.net",
+      "source": "人工智能"
     },
     {
-      "title": "告别“烟囱式适配”痛点 云网智算一体化支撑大模型发展",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0Y0cmNHOWFNb0RMNmw3d0RDSjBGLXB6TlpnRnIwUDdpTmNqMFJtSlRCRkdIQmFRQWRxTnhyVjd6VWhtSDlSUER",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "中金公司与蚂蚁集团签署战略合作协议 围绕金融大模型及AI财富管理开展合作",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9idTR1MVRpWTBNWFFFZXhqZ2R5ckZ0SVJqZmdJblVPZXEyTWRxdklDVzdEMTZNQkdieFZ6TkZrMlRpT25WVG5zVlk",
+      "source_url": "https://www.guandian.cn",
+      "source": "观点网"
     },
     {
-      "title": "科技云报到：大模型狂奔三年，百度词元所重新定义AI生意",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMFhOdHpnYlJldWtONXd0SW1LaGFLMTZvNG9JcWxzaTV2ZGptODNWWGVqSFlwT0EwUDltS1dmeVRLTklJZ0pWVkd",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "AI应成为独立根学科，并纳入中小学基础课程",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlbnZDWkpsYWFEWEFsZVMzT1hKQXFhVzhyNV9NVXh1bmUwdVg5ZVJnWWdMUWFfV1ZXMXBYaHhacTF3Qzc2ZEpVU25",
+      "source_url": "https://user.guancha.cn",
+      "source": "风闻"
     },
     {
-      "title": "星辰大模型驱动AI场景向善 Token经营打通产业落地通道",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmw1MFU1MnRnRnpjcTJfV3RYX1RiNGV3V01mZTVvcFVvc3B3VUdra0hqeWdIMUs4MThLdndyeFltSXk4LVgwR2p",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
-    },
-    {
-      "title": "兰州市校地协同打通人工智能科研转化通道",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTBFZWdUdXdNUVdpYnk2QmRBU3k3UmpnMmZKYXFtSzYybTJmeURjYkIzd0tzS1lwd3lPenU2NXpqSFFZWjY1OFh",
+      "title": "企袖KeyAction探路“人工智能+”落地",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvNjRVTHNNMkZrOS1ZTWlGelNPWG9yclFuUUwxYVhQSDJibnVTSmZHRjVHS0NHa2c4ODBtTXJtSkUwUkZGWVhQaWd",
       "source_url": "https://finance.sina.cn",
       "source": "新浪财经_金融信息服务商"
     },
     {
-      "title": "AIDC为储能电池行业提供新机遇， 安全是第一要素",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFd3paSUdfUEpKbjA4bjlldTdCTFZ0SF9idHowTnBzSk9oMTZoYUo3MDNtelpoLVAyczRVTXlPb1VYajhfZmpnVGh",
-      "source_url": "https://m.gasgoo.com",
-      "source": "盖世汽车"
+      "title": "“未来超级明星正来自中国”，欧洲科技盛会中的AI竞逐",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5scUJIbUpheE9QaWlEZzRtQXlNUFJfU0k1eVpIZlptZzVQMUZGNGZTUTExNjMyY29MT0dwWEFiOU9uZzIyelNpVUR",
+      "source_url": "https://www.thepaper.cn",
+      "source": "ThePaper.cn"
+    },
+    {
+      "title": "凌晨四点十七分，Outlook 连不上，多国政府系统也陷入瘫痪|Charles Lamanna|微软",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uV0x1d1BGZ3llUmlscl84VkVYeDRFLWFiZ0tIVmlKaC1WT3FZc1VLOFFUeUZKcmpBQUlsd01FY0E2bUFhODliVEZ",
+      "source_url": "https://www.sina.cn",
+      "source": "新浪网"
     }
   ]
 }

@@ -1,37 +1,38 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 14,
+    "raw_dedup_junk": 17,
     "trusted": 3,
     "non_trusted_top": {
-      "csdn.net": 3,
-      "ageclub.net": 1,
-      "66wz.com": 1,
-      "hsw.cn": 1,
-      "unite.ai": 1,
-      "sina.com.cn": 1,
+      "zhiding.cn": 3,
+      "hsw.cn": 2,
+      "china.com": 2,
       "moomoo.com": 1,
+      "stockstar.com": 1,
+      "openai.com": 1,
       "sina.cn": 1,
-      "capwhale.com": 1
+      "eu-opensci.org": 1,
+      "ageclub.net": 1,
+      "baijing.cn": 1
     },
     "fresh1_24h": 3,
-    "page_fresh": 1,
-    "relaxed_72h": 2,
+    "page_fresh": 3,
+    "relaxed_72h": 0,
     "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "Claude一夜杀进Office办公，微软你慌不慌?我的Excel算白学了",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "豆包工作全面开放多模型 ，办公Agent“路由大战”再升级",
-      "d": "wallstreetcn.com"
-    },
-    {
-      "t": "当办公室里长满了用AI的打工人，“新式程序员”出现了",
+      "t": "网易智企帝王蟹入选全球企业级Agent图谱，企业上下文实践获关注",
       "d": "sohu.com"
+    },
+    {
+      "t": "DeepSeek无人创业",
+      "d": "36kr.com"
+    },
+    {
+      "t": "AI 录音硬件卖的是时间差，窗口可能只剩半年",
+      "d": "geekpark.net"
     }
   ]
 }

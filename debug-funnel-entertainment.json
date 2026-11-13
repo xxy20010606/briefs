@@ -1,25 +1,25 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 28,
-    "trusted": 8,
+    "raw_dedup_junk": 42,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.cn": 4,
-      "mydrivers.com": 2,
-      "lmtw.com": 2,
+      "sina.cn": 8,
+      "lmtw.com": 3,
+      "hupu.com": 2,
       "china.com": 2,
-      "xmnn.cn": 2,
-      "hupu.com": 1,
-      "sinovision.net": 1,
+      "mydrivers.com": 1,
+      "rediandf.com": 1,
+      "yesky.com": 1,
+      "hk01.com": 1,
       "dianyingjie.com.cn": 1,
-      "66wz.com": 1,
-      "hzsc.com.cn": 1
+      "sina.com.cn": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 5,
-    "relaxed_72h": 3,
+    "fresh1_24h": 13,
+    "page_fresh": 13,
+    "relaxed_72h": 0,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
@@ -27,28 +27,28 @@
       "d": "sohu.com"
     },
     {
-      "t": "电影《饥饿游戏：收获日出》定档11月20日内地上映，全新中字预告发布",
-      "d": "sohu.com"
-    },
-    {
-      "t": "2026年中国金鸡百花电影节闭幕《给阿嬷的情书》获两项大奖",
-      "d": "chinanews.com.cn"
-    },
-    {
-      "t": "北京怀柔影企出品影片揽获多项金鸡奖 “中国影都”持续擦亮金字招牌",
-      "d": "sohu.com"
-    },
-    {
-      "t": "外国人都念“duanju”了！中国文化出海不再只靠功夫和太极｜新民侨梁",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "多宝手机网页登录全新升级：一站式电竞游戏平台体验与下载指南",
+      "t": "博鱼安卓版游戏：全新体育赛事直播平台上线，高清流畅体验受好评",
       "d": "36kr.com"
     },
     {
-      "t": "走好新时代长征路，《伟大的长征》剧组走进中国浦东干部学院",
-      "d": "thepaper.cn"
+      "t": "当游戏帧率提升，不再由芯片架构和工艺决定 | IEM电竞赛观后感",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "电影《饥饿游戏：收获日出》定档11月20日内地上映，全新中字预告发布",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "大批明星马上抵达广州，多场演唱会官宣王嘉尔、孙燕姿、周杰伦等",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "中新网江苏新闻11月13日电(记者 葛勇)舞剧《楚河汉界》近日在江苏大剧院上演。",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "罗大佑怒批民进党当局引发岛内共鸣",
+      "d": "chinanews.com.cn"
     }
   ]
 }

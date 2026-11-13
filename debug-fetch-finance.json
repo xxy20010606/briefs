@@ -1,7 +1,19 @@
 {
   "type": "finance",
-  "total": 18,
+  "total": 27,
   "samples": [
+    {
+      "title": "AI交易退潮及企业盈利增长成就欧股！止步四日连涨但仍有望创7月来最大单周涨幅_滚动新闻_财经",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IVlVBb1ZJbzNWRFNKdGhRVEZST3NGMTl5TGN0Ym9iOE9ZdHJoU2psdk1xN2d5RFUxYnF3QzhORDBtZzhUbHhHRVA",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
+    },
+    {
+      "title": "资金面与股市资金流向日评20261113",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NaFJEZkEwTjZ4ZndtelFVTEdCLW5SNmhVWnY1RlpNRmVldWhrNnpjMjFYNEVreTE3VU00TVlRdF8ybENkMGwzbWx",
+      "source_url": "https://cj.sina.cn",
+      "source": "新浪财经_金融信息服务商"
+    },
     {
       "title": "日韩股市，大涨！芯片股又火了",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9UQkIwMTRMZm51WUpuVWxJUlFTVDhqdFZEVERITXliRkx3dW5BMjNBemgwcXp1VzlZaUUwV1hrNDlQQWhieVV",
@@ -15,28 +27,16 @@
       "source": "新浪财经_金融信息服务商"
     },
     {
-      "title": "【环球财经】伦敦股市12日上涨",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeHFFZUdIZUwxcktocFROeFMwMGh1azljdXdtVV83SVJEM245SFZmM2wyVUNqQXY0YkRrbmFxQ1RsSWpuaGJLQXF",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
+      "title": "【环球财经】多个利空打压 纽约股市三大股指12日均下跌",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Eby1WeFk0S2cwajdDRFl5ZWVnNm53RkpRcHl0X3Ntcms3bUhpUi1kb1FsY2dwdWZYVjY4LWtXYXFNTFVtblU4YkU",
+      "source_url": "https://www.cnfin.com",
+      "source": "中国金融信息网"
     },
     {
-      "title": "罗博特科获工行不超9000万元股票回购贷款承诺_公司新闻",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GZ2FqbE96Uzh2Ukx3ek45SVhCU0lWOGhYb1oxeUVQS3dHZU9JTUVpZThoOTI2VkFIMFpkbVVKbFZqQ1ZVc0NNR3Z",
+      "title": "AI资本开支见顶，全球股市盈利“换挡”! 高盛给出2027年三大主线_全球市场",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EOTJhbjFVZEdXSmVhS24xV0lGakU5RGxsaGtucVhHMmtwNUdXVElOWUJzbFhfMFlBSkdwcEV4ZTI4eks0bGJGNEp",
       "source_url": "https://finance.stockstar.com",
       "source": "证券之星"
-    },
-    {
-      "title": "摩根大通：股票ETF资金流入强劲凸显AI交易逢低买盘_公司新闻_财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBETy1xQmRTYVdmYmtBa21wd2hQZlVfNWlVN3h2RnFCLThXZXFiWlVoNU91UkRXdXBNMHV0YWg4VzNGdE5BdDFIWkR",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "柴油供应约束或扰动比特币“降息交易”，EIA上调2027年美国柴油零售价预期",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdnpUYmtreUwwRkZXczNPS2J1c3Z1M3BReThMTmxvajYtRE9MWUlXdXViVEhaaFBRLVA5Q3NnRXNfT1NjWFdYaGN",
-      "source_url": "https://www.digitaltoday.co.kr",
-      "source": "디지털투데이"
     }
   ]
 }
