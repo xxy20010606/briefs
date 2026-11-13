@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 49,
+  "total": 34,
   "samples": [
     {
-      "title": "张一鸣坦言：字节AI追上全球第一梯队，至少还要三年",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMUJreW1pZGplalFiUkt6Q1N4Ulo0eGViSF9yVGxMVU5NcnZ6SzBWakc2bExUX3p5eFplaHpmci1jNzh3Wjd0X00",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
+      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1Qnl5N3l2VC1YQWE2WGotd0hITmltdlUxM3BoOHc3Q1RlY056a1J0bTFydUN6Ty1MMmJnTzZEWHJ3TkZuOGNTRzZ",
+      "source_url": "https://www.cctime.com",
+      "source": "飞象网"
     },
     {
-      "title": "百度世界2026发布多项AI成果，李彦宏：AI下一幕是“智能组织”",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTjFSVnJCY1pnaTc4ZFE1cGVGczhkeWlyWEl0NXlueHFqWUVfWHNURi15RzhTbGVXbGF6V0FFdVBoby1vcjQ2TFV",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "百度推出大模型交易所“词元所”，李彦宏谈企业如何更好使用AI降本增效",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWEZNUURjWVFZdklaWk5KdjIxVlcyTVRIclBRdmxzVUdJeWZ1N1VOY2ZmcmFoVGduNnBnUGU4T0lDOXhpUnEtc09",
+      "title": "告别“烟囱式适配”痛点 云网智算一体化支撑大模型发展",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0Y0cmNHOWFNb0RMNmw3d0RDSjBGLXB6TlpnRnIwUDdpTmNqMFJtSlRCRkdIQmFRQWRxTnhyVjd6VWhtSDlSUER",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "“碳硅协同”落子南京玄武区 南京大学生物智能研究院正式揭牌",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcG4xbFBScWtfR2ttMVdTeVAwRzB6VDMwYWhZNmRkYURHMWtjWGxkQjlrdjJEMzVzdUQxMzdsM3ZvUkxFMFFOSDR",
-      "source_url": "http://www.sohu.com",
+      "title": "科技云报到：大模型狂奔三年，百度词元所重新定义AI生意",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMFhOdHpnYlJldWtONXd0SW1LaGFLMTZvNG9JcWxzaTV2ZGptODNWWGVqSFlwT0EwUDltS1dmeVRLTklJZ0pWVkd",
+      "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "AI场景大规模落地 京北方入选“2026中国金融AI创新企业TOP50”",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SUHI3eWlGeDVjUDdQcWc1M1JLUEJmUEFQN2tnWWYyRllLVVZUTk9QUVdUSFVXMGFfZG43MVFSZDE1bkVGWmVyT1F",
-      "source_url": "http://stock.10jqka.com.cn",
-      "source": "同花顺财经"
+      "title": "星辰大模型驱动AI场景向善 Token经营打通产业落地通道",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmw1MFU1MnRnRnpjcTJfV3RYX1RiNGV3V01mZTVvcFVvc3B3VUdra0hqeWdIMUs4MThLdndyeFltSXk4LVgwR2p",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "从工业品采购降本增效到合规出海 京东工业大模型助力汽车制造供应链创新",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55U3lvWE9VajNFTFRDcWFCVXlLU1hTOVJ6aUlwbzE1SU0yaklJbk1rU21PT3ZDRDdoZlBXUkFMOXpGbl85ZFA5QzN",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "兰州市校地协同打通人工智能科研转化通道",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTBFZWdUdXdNUVdpYnk2QmRBU3k3UmpnMmZKYXFtSzYybTJmeURjYkIzd0tzS1lwd3lPenU2NXpqSFFZWjY1OFh",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经_金融信息服务商"
+    },
+    {
+      "title": "AIDC为储能电池行业提供新机遇， 安全是第一要素",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFd3paSUdfUEpKbjA4bjlldTdCTFZ0SF9idHowTnBzSk9oMTZoYUo3MDNtelpoLVAyczRVTXlPb1VYajhfZmpnVGh",
+      "source_url": "https://m.gasgoo.com",
+      "source": "盖世汽车"
     }
   ]
 }

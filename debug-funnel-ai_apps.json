@@ -1,50 +1,33 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 21,
-    "trusted": 9,
+    "raw_dedup_junk": 14,
+    "trusted": 3,
     "non_trusted_top": {
-      "sina.com.cn": 2,
-      "csdn.net": 2,
-      "zhiding.cn": 1,
+      "csdn.net": 3,
+      "ageclub.net": 1,
+      "66wz.com": 1,
+      "hsw.cn": 1,
       "unite.ai": 1,
-      "guandian.cn": 1,
-      "enjoyglobal.net": 1,
-      "shobserver.cn": 1,
+      "sina.com.cn": 1,
+      "moomoo.com": 1,
       "sina.cn": 1,
-      "panewslab.com": 1,
       "capwhale.com": 1
     },
-    "fresh1_24h": 9,
-    "page_fresh": 8,
-    "relaxed_72h": 0,
-    "final": 7,
+    "fresh1_24h": 3,
+    "page_fresh": 1,
+    "relaxed_72h": 2,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "李彦宏谈AI组织进化：组织能力才是真正的护城河",
-      "d": "sohu.com"
+      "t": "Claude一夜杀进Office办公，微软你慌不慌?我的Excel算白学了",
+      "d": "eet-china.com"
     },
     {
-      "t": "马斯克自家AI暴露自家机密？SpaceXSI把秘密摆上网",
-      "d": "sohu.com"
-    },
-    {
-      "t": "华泰证券：AI从工具提效迈向组织生产力重构，企业级应用进入深度落地阶段",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "AI时代，谁来孵化下一代硬件公司？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "2026，AI应用的钱都流向了哪里？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "字节旧部创业，在海外杀疯了",
-      "d": "ifeng.com"
+      "t": "豆包工作全面开放多模型 ，办公Agent“路由大战”再升级",
+      "d": "wallstreetcn.com"
     },
     {
       "t": "当办公室里长满了用AI的打工人，“新式程序员”出现了",

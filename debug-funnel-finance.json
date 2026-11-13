@@ -1,54 +1,52 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 23,
-    "trusted": 7,
+    "raw_dedup_junk": 18,
+    "trusted": 8,
     "non_trusted_top": {
-      "sina.com.cn": 3,
-      "sina.cn": 2,
-      "jrj.com.cn": 2,
+      "stockstar.com": 2,
       "moomoo.com": 2,
-      "investing.com": 1,
-      "techflowpost.com": 1,
+      "sina.cn": 1,
+      "digitaltoday.co.kr": 1,
       "tmgm.com": 1,
-      "mrjjxw.com": 1,
-      "on.cc": 1,
-      "stockstar.com": 1
+      "fxbaogao.com": 1,
+      "futunn.com": 1,
+      "sina.com.cn": 1
     },
-    "fresh1_24h": 7,
-    "page_fresh": 7,
-    "relaxed_72h": 0,
+    "fresh1_24h": 8,
+    "page_fresh": 6,
+    "relaxed_72h": 1,
     "final": 7,
-    "cap": "同域≤3条"
+    "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "央行定调！利好股票、债券、外汇等金融市场",
-      "d": "sohu.com"
-    },
-    {
-      "t": "“固收+”中邮瑞享两年定开混合4成为股票投资近半年跌25%_证券要闻",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "破发连亏股天益医疗拟发可转债去年底被罚没1402万_证券要闻",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "从“鼓吹降息”到“加息50基点”？起底美联储“变脸王”沃勒！",
-      "d": "cls.cn"
-    },
-    {
-      "t": "2027年港股基本面与估值或迎共振修复；CoreWeave超预期财报提振美股AI",
+      "t": "日韩股市，大涨！芯片股又火了",
       "d": "21jingji.com"
     },
     {
-      "t": "港股早报｜隔夜美股AI产业链交易热潮回归 存储四季度价格仍呈上涨态势",
+      "t": "【环球财经】伦敦股市12日上涨",
+      "d": "sohu.com"
+    },
+    {
+      "t": "港股早报｜年内回购金额超1300亿港元 隔夜美股中概股集体走弱",
       "d": "cls.cn"
     },
     {
-      "t": "美股三大指数高开，CoreWeave大涨超16%，英伟达涨近3%_市场分析",
+      "t": "美股三大指数集体上涨 费城半导体指数转涨 英伟达跌幅收窄",
       "d": "cnfol.com"
+    },
+    {
+      "t": "全球市场：美股三大指数集体收跌芯片股跌幅居前英伟达跌超4%市值蒸发约1820亿美",
+      "d": "cnfol.com"
+    },
+    {
+      "t": "海丰国际(01308)股票股价_股价行情_讨论_资讯_财报_数据报告",
+      "d": "xueqiu.com"
+    },
+    {
+      "t": "美联储议息释放鹰派信号，金价大幅跳水，滞胀风险浮现",
+      "d": "sohu.com"
     }
   ]
 }

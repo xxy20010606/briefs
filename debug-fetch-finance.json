@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 23,
+  "total": 18,
   "samples": [
     {
-      "title": "央行定调！利好股票、债券、外汇等金融市场",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONk9neVB4MjBUR2Flcm5jenNkUHhxWE1mcWJLaGJqRXcyOFJFSlhhR2dHcFpWV0hoaTFCUEFGUEI4UURjc3ZrT0t",
+      "title": "日韩股市，大涨！芯片股又火了",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9UQkIwMTRMZm51WUpuVWxJUlFTVDhqdFZEVERITXliRkx3dW5BMjNBemgwcXp1VzlZaUUwV1hrNDlQQWhieVV",
+      "source_url": "https://www.21jingji.com",
+      "source": "21财经"
+    },
+    {
+      "title": "四大证券报头版头条内容精华摘要_2026年11月13日_财经新闻",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMEFLamJvTXd1WEtWdnVLQTB4WmNrLXdqTUhNeURDaXk2XzJBWEtpaFN6VWJvQTFfWTl1eWlkS3UwaUlBRllTX20",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经_金融信息服务商"
+    },
+    {
+      "title": "【环球财经】伦敦股市12日上涨",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeHFFZUdIZUwxcktocFROeFMwMGh1azljdXdtVV83SVJEM245SFZmM2wyVUNqQXY0YkRrbmFxQ1RsSWpuaGJLQXF",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "罗博特科获工行不超9000万元股票回购贷款承诺",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NX3dDSFF3NFM3RVRSM1dVMWZhUjlUam1FU1BJLWJpX3M0ZDZwT0FrbEFPTmNNZFdIRW1lSlBxNEpmS3dwdVZrd1F",
-      "source_url": "https://cj.sina.cn",
-      "source": "新浪财经"
+      "title": "罗博特科获工行不超9000万元股票回购贷款承诺_公司新闻",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GZ2FqbE96Uzh2Ukx3ek45SVhCU0lWOGhYb1oxeUVQS3dHZU9JTUVpZThoOTI2VkFIMFpkbVVKbFZqQ1ZVc0NNR3Z",
+      "source_url": "https://finance.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "罗博特科(300757.SZ)取得金融机构股票回购专项贷款承诺函 提供者 智通财经",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vYlZyc2ZHcEtoNmZkQWY0OEk2UXlaWWxkWlRuMHNHUDBCYWFreHNsd1RjcG5qOUtvRDdJVF80NTJyRFpsVEZRVmh",
-      "source_url": "https://cn.investing.com",
-      "source": "英为财情 Investing.com"
+      "title": "摩根大通：股票ETF资金流入强劲凸显AI交易逢低买盘_公司新闻_财经",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBETy1xQmRTYVdmYmtBa21wd2hQZlVfNWlVN3h2RnFCLThXZXFiWlVoNU91UkRXdXBNMHV0YWg4VzNGdE5BdDFIWkR",
+      "source_url": "https://wap.stockstar.com",
+      "source": "证券之星"
     },
     {
-      "title": "“固收+”中邮瑞享两年定开混合4成为股票投资近半年跌25%_证券要闻",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tQXFSUnByZGVYc2VoTEVWTktzYlZtMVRqSXk3am9KVDJlU2VzbkdMcVNESU9aNFItR3ItdXVlWVVsVjZPc2l5QS1",
-      "source_url": "http://news.cnfol.com",
-      "source": "中金在线"
-    },
-    {
-      "title": "破发连亏股天益医疗拟发可转债去年底被罚没1402万_证券要闻",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWa2Z2R3RNa3NtOUhtR3BjV2NCa09idnpoVm9wMUF4bUYzM1lxaVp1U2VpaFNRc2pFaVpPVW1oYmQ1MnZkR3V6cno",
-      "source_url": "http://news.cnfol.com",
-      "source": "中金在线"
-    },
-    {
-      "title": "印度股市反弹，成为资金规避AI股大跌的避风港",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZHlnblZtcXMxcEo4QlFPdjB6YXY1dlpWRV9QejlXNUU5NU1OQmktMndJMG15LWRoODZ6TkVNc1E0QnVpM3VTU0V",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
+      "title": "柴油供应约束或扰动比特币“降息交易”，EIA上调2027年美国柴油零售价预期",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdnpUYmtreUwwRkZXczNPS2J1c3Z1M3BReThMTmxvajYtRE9MWUlXdXViVEhaaFBRLVA5Q3NnRXNfT1NjWFdYaGN",
+      "source_url": "https://www.digitaltoday.co.kr",
+      "source": "디지털투데이"
     }
   ]
 }

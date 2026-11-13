@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 21,
+    "raw_dedup_junk": 34,
+    "trusted": 14,
     "non_trusted_top": {
-      "sina.com.cn": 8,
-      "infoobs.com": 2,
+      "sina.com.cn": 9,
       "sina.cn": 2,
-      "stockstar.com": 2,
-      "ac.cn": 1,
-      "mydrivers.com": 1,
-      "icloudnews.net": 1,
-      "guan.media": 1,
-      "ctdsb.net": 1,
-      "autohome.com.cn": 1
+      "unite.ai": 2,
+      "cctime.com": 1,
+      "ebiotrade.com": 1,
+      "hsw.cn": 1,
+      "stockstar.com": 1,
+      "yzwb.net": 1,
+      "zqrb.cn": 1,
+      "fxbaogao.com": 1
     },
-    "fresh1_24h": 21,
-    "page_fresh": 20,
-    "relaxed_72h": 0,
+    "fresh1_24h": 11,
+    "page_fresh": 8,
+    "relaxed_72h": 5,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "张一鸣坦言：字节AI追上全球第一梯队，至少还要三年",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "百度推出大模型交易所“词元所”，李彦宏谈企业如何更好使用AI降本增效",
+      "t": "告别“烟囱式适配”痛点 云网智算一体化支撑大模型发展",
       "d": "sohu.com"
     },
     {
-      "t": "“碳硅协同”落子南京玄武区 南京大学生物智能研究院正式揭牌",
+      "t": "科技云报到：大模型狂奔三年，百度词元所重新定义AI生意",
       "d": "sohu.com"
     },
     {
-      "t": "AI场景大规模落地 京北方入选“2026中国金融AI创新企业TOP50”",
-      "d": "10jqka.com.cn"
+      "t": "AIDC为储能电池行业提供新机遇， 安全是第一要素",
+      "d": "gasgoo.com"
     },
     {
-      "t": "列车装上“AI大脑” 新型地铁智慧列车在青岛下线",
-      "d": "stdaily.com"
+      "t": "全球就业格局加快重塑",
+      "d": "ce.cn"
     },
     {
-      "t": "一条街区如何托举AI时代的“一人公司”？",
-      "d": "36kr.com"
+      "t": "天鹜科技：中国AI蛋白质设计的突围",
+      "d": "thepaper.cn"
     },
     {
-      "t": "高调秀自家AI能力，谷歌高管“翻车”了",
-      "d": "guancha.cn"
+      "t": "自变量通用具身大模型GreatWall完成“广东省生成式人工智能服务备案”",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "从“双十一”Token热销看智能消费新动能",
+      "d": "china.com.cn"
     }
   ]
 }

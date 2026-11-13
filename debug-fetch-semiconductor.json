@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 45,
+  "total": 27,
   "samples": [
     {
-      "title": "国产半导体设备景气延续，半导体材料设备指数收涨0.7%，半导体设备ETF易方达（159558）今日获",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50aDkyRmx2aXZ2Vk1VeFBIYnhLTUNacmR0bk5xVl9XS1BHT0F5WXN3YXFtTlc0YTR0MFQ1MW9JUjRhN19Zb01oSHZ",
-      "source_url": "https://fund.jrj.com.cn",
-      "source": "金融界"
+      "title": "半导体芯片开盘领涨，天普股份4连板，华东重机一字涨停，旋极信息、大胜达、摩尔线程、天普股份、寒武纪涨",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OWHRwMFpMVC1ua085SW8ySEZPUmdBRzJqaV9iR29hZ1dOUnlzWFF5V1owVGtpRVEzQkhiMDNpenFYWmdVZjRIemZ",
+      "source_url": "https://wap.cj.sina.cn",
+      "source": "新浪网"
     },
     {
-      "title": "韩国公布端侧AI半导体路线图，计划到2030年完成10款芯片开发验证",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWNVdzZZQml2YXQ4OU9OSEFmM3Q4VEFxYTdLQVpOMWoycWZMTmViY0Z6elYzcEN4dFNhdF9tNHJ5SUF0bGZ2MUJ",
+      "title": "一颗芯片是如何生产出来的？VANCH 万全CIDRW读写器在半导体全流程制造过程中应用价值",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JcXB6MHVSY3pZM015azlPRGR6bVYtdWlvRnFSSURVaXNxWUdEajVIVkJwZVpfbnVNQ3FxX2tXUTdQZzBkV1NXMWp",
+      "source_url": "https://www.rfidworld.com.cn",
+      "source": "RFID世界网"
+    },
+    {
+      "title": "三大存储芯片巨头，大涨",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc2JFYlg3WlJJT05aUW1tZG1yX1QzYVpKOEMtT1d4R2podVVFRmFrMVdmZVRSdVJTWllBOE9YVVZnZ2VyaU4ySGR",
       "source_url": "https://m.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "安世半导体临时CEO：可重新整合，永久分离需给闻泰补偿！",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13ejFuSnBDeVZzdTJwRm1uLTJOVDlBYkRaVVJRVHpVSVdkWm9xSENvWkhpXzdNYmVoZEdYTzBpR1k4WFBwS1NRZml",
+      "title": "半导体主题ETF上涨 中小盘宽基产品吸金",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rcHYySGgydTAwMklZcERCRjFfWEg4SFhSZjExdVROVUhVQ29lUmxuSGNFV3RFcktUcjF6cjhQVDdnQ0dlMFdrSVR",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经_金融信息服务商"
+    },
+    {
+      "title": "年产2亿只！又有碳化硅项目即将投产",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11UmYwSFFLaVg2ZUVuTmVaNVZqbTdpbGlHWDFtQWxYVDctYTdtX2N4b2psMW1fUWJOMWxmMldfN1ktajFXaktqRWQ",
       "source_url": "https://www.eet-china.com",
       "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "11月12日主题复盘 | 半导体、光通信冲高回落，福建自贸区概念盘中异动",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONTZGOFkyeWJhVVlvOTR5aVYxNXhSTmh4cDNDaHhtUVkwVmJTOWkybEZ3ME82Y1hIN29YTVBjdGVCNWVsbF9NWmQ",
-      "source_url": "https://www.sohu.com",
-      "source": "Sohu"
-    },
-    {
-      "title": "村田亮相2026芯和半导体用户生态大会",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHemtXY3Z3MlJ2Z3JibngtZW5lOUFKQk1IN0QzYVI4eEZHXzluS2Y4andFRWJjTVJIeURFTmhxajRTNGtjbldkaVB",
-      "source_url": "https://finance.sina.com.cn",
-      "source": "新浪财经"
-    },
-    {
-      "title": "蓝海华腾：对外投资基本半导体、北一半导体、中科昊芯、湖南毂梁微、镓创未来等芯片企业_公司新闻",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZTnJfbE00ZHFEc1U1U180dnF2VXM4TUdmRzZrSXlZdll3ZUUtMXh2dkxjaUI1WFBUVTNIMXBValF3VmJJWUxQdXl",
-      "source_url": "https://stock.stockstar.com",
-      "source": "证券之星"
+      "title": "美国半导体设备龙头，业绩全面超预期",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Wb005T1F1VEM2TmZhWGZaSFdlazgwNHNveU1OaHJEMlRTeUdHXy10MU92N3dMY083Nndub3lDQ0FxQkpXRlhLUl9",
+      "source_url": "https://www.eet-china.com",
+      "source": "电子工程专辑EE Times China"
     }
   ]
 }

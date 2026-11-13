@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 21,
+  "total": 14,
   "samples": [
     {
-      "title": "60名学员解锁AI新技能！临翔劳动者逐梦数字新赛道",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lRGNkY2hmLWxXeXFIX2d6cGlWYlNIQWxueTFRREx6V2NETDZSTVZFaXVzSC1YQmJNNFp4RDNfNkR5VGpnZzNGcUJ",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "美国直接护理团队AI应用率低 错失银发护理提质机遇",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HVV9NY0FfaUh3d0UyT0dYd3VBWG9EWjFsdG9RcGhiX1NqQkw4NWRGZmdNSXMtNFJrdFVGV1pNaE5RT3hGTFY0Smp",
+      "source_url": "https://www.ageclub.net",
+      "source": "AgeClub"
     },
     {
-      "title": "Big Walk用AI修复Bug，独立游戏圈掀起AI使用争议-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRUF9vYW0tdjdfTUpwNUpCTXd0Sll3S1N0N2F6TDY0NExPMERzWlU3bWpzaEI1UWNlakZ3bHRGOUprY1BJQjV1eF9",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "医生有了AI分身，看病会不一样吗",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tM3cwVWU3XzA5V19IOG9PXzQ5VGpwblhKNW1neUtCdW1mWm5wVXVvY1kyQXFwSlpQbC12QmVfUHBYMW9yTURWLWl",
+      "source_url": "https://health.66wz.com",
+      "source": "温州新闻"
     },
     {
-      "title": "Nebuly完成2,100万美元A轮融资，扩大企业AI价值衡量业务",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZlJORGc2dEp3WTl3MmRyWWRyU2ZDeTR1czRfZFNOSWJmNUd6VExrbGFQRmxnLXFYcEFBUkVuWTBZbWVLUFVOM2I",
+      "title": "AI浪潮袭来 求职赛道变化 这3所高校出新招帮学生闯关",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ycDNRajd5OUJ0UjRiakk5VmFaeWJyamFvUHk5eUpfZHRScWZldlJ2WWs4NXQ0dHVqTWpMMTFZcG5NYk1tN2ZOaDJ",
+      "source_url": "https://news.hsw.cn",
+      "source": "华商网"
+    },
+    {
+      "title": "DuPont 携手 Microsoft 和 NobleAI，将智能体人工智能应用于研发",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY1ZxQmE4R21EdWNMbHJRUmtNNzZFSTJycG82bnFZNV8yODRPeU1XS3c1LTRxQ3pwWjF1RjI2UmowR3FweGVlUHl",
       "source_url": "https://www.unite.ai",
       "source": "Unite.AI"
     },
     {
-      "title": "Grok Build被曝数据暴露风险 35578个应用无需登录可访问",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82V29hMUIwYUpQVmFTRDJyZ3BRb2FRdnBWV1NmTnYyZmZFNTV0bUV4NzMyNnpKaW9rSnlKa0FPd1cySFlZZjQ1Mzd",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
+      "title": "2026年第6周GitHub榜单：AI代理本地化部署与TypeScript工具链实践",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdUw4XzNKYWJVSGM2TU5QdEhBanZQMUdDRXF1bDFNa0Q4UXZ3V3VwdWNra3RNUURRejNERHVFelpyZG9GN0hxaF8",
+      "source_url": "https://www.csdn.net",
+      "source": "CSDN"
     },
     {
-      "title": "李彦宏谈AI组织进化：组织能力才是真正的护城河",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ3QxMW5iblVEejJXQVlhY3VhZjhuTEhmclEydFUxNXViVVNUQUdSYUdRZGJBN1VteGNSV0otLWIwY2pVb0h0OXM",
-      "source_url": "https://m.sohu.com",
-      "source": "Sohu"
-    },
-    {
-      "title": "新航已至：WAVE2026泛互联网全球领航者大会亮点抢先看",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IRV9xZDVzVlhuM0h5VVd5N0l2OWx3N055U2UwVHhlajFLYWxJWThGcjhadHN5YU93NGZINEpWUjloaVRDRUVFeGo",
-      "source_url": "https://enjoyglobal.net",
-      "source": "Enjoy出海"
+      "title": "60名学员解锁AI新技能！临翔劳动者逐梦数字新赛道",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2bEhGWXRuS3Z5WEFtR19NSTY5eUZreXVjLXFRM3lSX19XaWpNV2xOY2RlSW9iTFQyUUNsNVdUWDA4TTNnand0OEt",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     }
   ]
 }

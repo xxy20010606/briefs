@@ -1,50 +1,27 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 35,
-    "trusted": 6,
+    "raw_dedup_junk": 25,
+    "trusted": 1,
     "non_trusted_top": {
-      "ne21.com": 11,
-      "seetao.com": 2,
-      "sina.com.cn": 2,
-      "autohome.com.cn": 2,
-      "zhiding.cn": 2,
-      "icloudnews.net": 1,
+      "ne21.com": 13,
+      "sina.cn": 4,
+      "autohome.com.cn": 3,
       "wedoany.com": 1,
-      "gdshe.org": 1,
-      "in-en.com": 1,
+      "yzwb.net": 1,
+      "sina.com.cn": 1,
       "smm.cn": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 6,
-    "relaxed_72h": 0,
-    "final": 6,
+    "fresh1_24h": 1,
+    "page_fresh": 0,
+    "relaxed_72h": 1,
+    "final": 1,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "蓉青携手融链固链！青岛举办绿色能源产业链专场对接会",
+      "t": "多形式赋能！2026年青岛市绿色能源产业链专场对接会举行",
       "d": "sohu.com"
-    },
-    {
-      "t": "【项目动态】榆能榆神热电储能调频项目开展受电前联合验收 冲刺并网受电节点",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "储能电池 vs 动力电池：政策视角下，为什么储能更值得押注？",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "深圳储能展开幕在即，新技术扎堆亮相！“超跌”修复机会来了？",
-      "d": "sohu.com"
-    },
-    {
-      "t": "大秦数能助力苏州别墅家庭实现绿色低碳生活",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "高邮市高新区工商业侧分布式储能建设项目中标结果发布",
-      "d": "solarbe.com"
     }
   ]
 }

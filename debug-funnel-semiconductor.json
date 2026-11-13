@@ -1,54 +1,52 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 45,
-    "trusted": 26,
+    "raw_dedup_junk": 27,
+    "trusted": 16,
     "non_trusted_top": {
-      "jrj.com.cn": 6,
-      "sina.cn": 3,
+      "sina.cn": 2,
       "sina.com.cn": 2,
-      "stockstar.com": 2,
-      "guandian.cn": 1,
-      "autohome.com.cn": 1,
-      "mbcaijing.com": 1,
-      "mydrivers.com": 1,
-      "china.com": 1,
-      "digitaltoday.co.kr": 1
+      "cfi.net.cn": 2,
+      "rfidworld.com.cn": 1,
+      "jfdaily.com": 1,
+      "stockstar.com": 1,
+      "chosun.com": 1,
+      "fxbaogao.com": 1
     },
-    "fresh1_24h": 26,
-    "page_fresh": 21,
+    "fresh1_24h": 14,
+    "page_fresh": 7,
     "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "韩国公布端侧AI半导体路线图，计划到2030年完成10款芯片开发验证",
+      "t": "三大存储芯片巨头，大涨",
       "d": "sohu.com"
     },
     {
-      "t": "安世半导体临时CEO：可重新整合，永久分离需给闻泰补偿！",
+      "t": "年产2亿只！又有碳化硅项目即将投产",
       "d": "eet-china.com"
     },
     {
-      "t": "11月12日主题复盘 | 半导体、光通信冲高回落，福建自贸区概念盘中异动",
+      "t": "美国半导体设备龙头，业绩全面超预期",
+      "d": "eet-china.com"
+    },
+    {
+      "t": "国产芯片厂商，集体奔向德国",
+      "d": "36kr.com"
+    },
+    {
+      "t": "黄仁勋辞职！华人执掌美国四大芯片巨头的格局被打破",
       "d": "sohu.com"
     },
     {
-      "t": "【半导体指数大PK】芯片右侧行情确立，哪个指数更适配当下市场？",
-      "d": "jiemian.com"
+      "t": "接口IP走向台前：国产芯片“高速公路”争夺战刚开场",
+      "d": "10jqka.com.cn"
     },
     {
-      "t": "亚笙半导体完成B+++产业战略轮数千万股权融资，加速半导体尾气处理设备国产替代",
-      "d": "laoyaoba.com"
-    },
-    {
-      "t": "IC大会开幕叠加自主可控逻辑强化国产芯片有望迎景气上行窗口_市场测评_市场",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "736KB、264MB、16GB：三颗边缘 AI 芯片把内存放在三个位置",
-      "d": "eet-china.com"
+      "t": "国产算力芯片股集体爆发！半导体、芯片相关ETF逆市走强",
+      "d": "eastmoney.com"
     }
   ]
 }

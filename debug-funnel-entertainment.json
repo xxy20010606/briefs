@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 49,
-    "trusted": 7,
+    "raw_dedup_junk": 28,
+    "trusted": 8,
     "non_trusted_top": {
-      "pchome.net": 5,
-      "china.com": 4,
-      "rediandf.com": 3,
-      "hupu.com": 2,
-      "hbwmw.gov.cn": 2,
-      "bjd.com.cn": 2,
-      "hangzhou.com.cn": 2,
-      "kagit.kr": 1,
-      "creaders.net": 1,
-      "mydrivers.com": 1
+      "sina.cn": 4,
+      "mydrivers.com": 2,
+      "lmtw.com": 2,
+      "china.com": 2,
+      "xmnn.cn": 2,
+      "hupu.com": 1,
+      "sinovision.net": 1,
+      "dianyingjie.com.cn": 1,
+      "66wz.com": 1,
+      "hzsc.com.cn": 1
     },
     "fresh1_24h": 7,
-    "page_fresh": 7,
-    "relaxed_72h": 0,
+    "page_fresh": 5,
+    "relaxed_72h": 3,
     "final": 7,
-    "cap": "不限同域"
+    "cap": "同域≤3条"
   },
   "final": [
     {
-      "t": "阿嬷得奖无人起立，郑大圣获最佳导演冷场背后的故事",
+      "t": "《喜人奇妙夜3》正式官宣 老新喜剧人同台开启全新竞演",
       "d": "sohu.com"
     },
     {
-      "t": "2026电竞显示器品牌排行榜：爱攻跻身高端第一梯队",
+      "t": "电影《饥饿游戏：收获日出》定档11月20日内地上映，全新中字预告发布",
       "d": "sohu.com"
     },
     {
-      "t": "荣获第39届中国电影金鸡奖最佳戏曲片 昆剧电影《顾炎武》定档12月1日全国艺联上",
-      "d": "sohu.com"
-    },
-    {
-      "t": "梁家辉首夺金鸡“影帝” 《南京照相馆》成第39届金鸡奖大赢家",
+      "t": "2026年中国金鸡百花电影节闭幕《给阿嬷的情书》获两项大奖",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "大陆微短剧受岛内观众追捧 国台办：体现两岸情感共鸣",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "9部影片揽获11项金鸡大奖 怀柔展现影视全产业链硬核实力",
-      "d": "people.com.cn"
-    },
-    {
-      "t": "从莫扎特到普希金，俄罗斯百年名团瓦赫坦戈夫剧院登台上海东艺，让经典“活在当下”",
+      "t": "北京怀柔影企出品影片揽获多项金鸡奖 “中国影都”持续擦亮金字招牌",
       "d": "sohu.com"
+    },
+    {
+      "t": "外国人都念“duanju”了！中国文化出海不再只靠功夫和太极｜新民侨梁",
+      "d": "eastmoney.com"
+    },
+    {
+      "t": "多宝手机网页登录全新升级：一站式电竞游戏平台体验与下载指南",
+      "d": "36kr.com"
+    },
+    {
+      "t": "走好新时代长征路，《伟大的长征》剧组走进中国浦东干部学院",
+      "d": "thepaper.cn"
     }
   ]
 }
