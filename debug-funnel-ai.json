@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 40,
-    "trusted": 16,
+    "raw_dedup_junk": 33,
+    "trusted": 12,
     "non_trusted_top": {
-      "sina.com.cn": 7,
-      "ac.cn": 3,
-      "iqilu.com": 2,
-      "smartcity.team": 1,
-      "stockstar.com": 1,
+      "sina.com.cn": 8,
+      "csdn.net": 2,
       "sina.cn": 1,
-      "csdn.net": 1,
-      "yzwb.net": 1,
-      "cryptopolitan.com": 1,
-      "tikr.com": 1
+      "ichaoqi.com": 1,
+      "ac.cn": 1,
+      "jiaodong.net": 1,
+      "zqrb.cn": 1,
+      "china.com": 1,
+      "sfccn.com": 1,
+      "cryptopolitan.com": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 4,
-    "relaxed_72h": 9,
+    "fresh1_24h": 12,
+    "page_fresh": 9,
+    "relaxed_72h": 1,
     "final": 7,
-    "cap": "同域≤2条"
+    "cap": "同域≤3条"
   },
   "final": [
+    {
+      "t": "中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理",
+      "d": "sohu.com"
+    },
+    {
+      "t": "核心观点 | 李彦宏：人工智能的下一幕是智能组织，将迎来三大机会",
+      "d": "sohu.com"
+    },
+    {
+      "t": "人工智能赋能创业新范式，雄安中关村集聚“一人公司”创新星火",
+      "d": "sohu.com"
+    },
+    {
+      "t": "在里斯本，看中国科创拓宽人工智能边界",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "第七届中国人工智能大赛在厦门圆满收官，筑牢AI安全底座，推动技术产业融合",
+      "d": "thepaper.cn"
+    },
     {
       "t": "断网也能跑满血大模型？本地AI界最火的“基石神器”终于发布1.0正式版",
       "d": "ifeng.com"
     },
     {
-      "t": "教育观察丨大学发Token，算力成为新的“隐形图书馆”",
-      "d": "sohu.com"
-    },
-    {
-      "t": "WIM2026丨云知声大模型事业部总经理刘升平确认参加亿欧创新者年会",
-      "d": "sohu.com"
-    },
-    {
-      "t": "广东首个、全国唯二！渔军师Aquahealth垂类大模型完成备案，以AI助力发展",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "GPT周报｜黄仁勋辞职；Anthropic、谷歌发布新模型；微软服务中断影响政府",
-      "d": "caixin.com"
-    },
-    {
-      "t": "21快评| 美国AI发展路线来到关键岔口- 21经济网",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "元理智能张帆：企业应用AI不应一味追求通用智能",
-      "d": "caixin.com"
+      "t": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“",
+      "d": "wallstreetcn.com"
     }
   ]
 }

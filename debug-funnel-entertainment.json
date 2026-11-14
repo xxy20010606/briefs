@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 39,
-    "trusted": 10,
+    "raw_dedup_junk": 41,
+    "trusted": 15,
     "non_trusted_top": {
       "sina.cn": 7,
-      "yzwb.net": 4,
-      "sina.com.cn": 3,
       "hupu.com": 2,
+      "bjd.com.cn": 2,
       "hangzhou.com.cn": 2,
-      "china.com": 2,
-      "rediandf.com": 1,
-      "games.gg": 1,
-      "cm3721.com": 1,
-      "dianyingjie.com.cn": 1
+      "8world.com": 1,
+      "orientaldaily.com.my": 1,
+      "sina.com.cn": 1,
+      "donews.com": 1,
+      "hk01.com": 1,
+      "360.com": 1
     },
-    "fresh1_24h": 8,
-    "page_fresh": 3,
-    "relaxed_72h": 7,
+    "fresh1_24h": 15,
+    "page_fresh": 15,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
+      "t": "马国明与高海宁主演电影内地上映，票房仅5634元，成许绍雄遗作",
+      "d": "sohu.com"
+    },
+    {
+      "t": "上映9天票房仅5634元！许绍雄电影遗作《麻将女王》票房遇冷，导演王晶回应：临时",
+      "d": "sohu.com"
+    },
+    {
+      "t": "11月14日追剧日历，9部长剧更新，《我和妈妈的长征》今日开播",
+      "d": "163.com"
+    },
+    {
       "t": "初冬好戏连台！徐良、胡彦斌济南演唱会12月即将开演",
       "d": "ifeng.com"
     },
     {
-      "t": "红楼梦AI剧被指侵害肖像权，律师：盗脸、魔改触碰法律红线",
-      "d": "sohu.com"
-    },
-    {
-      "t": "声耀赣鄱！“青春之声”总决赛在南昌大学燃情开唱",
-      "d": "cnr.cn"
-    },
-    {
-      "t": "深圳南山电竞产业扶持项目启动申报，赛事与活动两条线最高资助1000万元",
-      "d": "sohu.com"
-    },
-    {
-      "t": "知名游资呼家楼抢筹儒意电影，《流浪地球3》定档成催化因素",
+      "t": "徐峥自曝刷到自己的AI换脸视频惊了：脸和声音都是我的，竟演得不错！",
       "d": "21jingji.com"
     },
     {
-      "t": "从骨甲刻痕到数字影像 上海百年古宅里的“千年书写”",
+      "t": "AI短剧《持械入宋》火到台湾，台湾网友自嘲怕在古代活不过一集-中新网",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "人民锐评：现实主义剧集为何成了文旅“种草神器”？",
-      "d": "thepaper.cn"
+      "t": "顾嘉辉之子返乡探访父亲故居：这是他最思念的儿时旧屋",
+      "d": "chinanews.com.cn"
     }
   ]
 }

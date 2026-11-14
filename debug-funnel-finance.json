@@ -1,22 +1,20 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 19,
+    "raw_dedup_junk": 14,
     "trusted": 4,
     "non_trusted_top": {
-      "stockstar.com": 3,
-      "sina.com.cn": 3,
       "jrj.com.cn": 2,
+      "cnfin.com": 2,
+      "moomoo.com": 2,
       "futunn.com": 2,
-      "hstong.com": 2,
-      "sfccn.com": 1,
-      "528btc.com": 1,
-      "moomoo.com": 1
+      "sina.cn": 1,
+      "528btc.com": 1
     },
     "fresh1_24h": 3,
     "page_fresh": 0,
-    "relaxed_72h": 3,
-    "final": 3,
+    "relaxed_72h": 2,
+    "final": 2,
     "cap": "不限同域"
   },
   "final": [
@@ -25,12 +23,8 @@
       "d": "eastmoney.com"
     },
     {
-      "t": "朴东国：华测导航迈向全球化 直面合规文化与地缘多重挑战",
-      "d": "yicai.com"
-    },
-    {
-      "t": "美联储原本预期今年降息，如今要再度迎战通胀",
-      "d": "sohu.com"
+      "t": "贝森特与美联储高官交锋：通胀源于能源冲击还是需求过热，美联储加息路径争论升温",
+      "d": "wallstreetcn.com"
     }
   ]
 }

@@ -1,42 +1,42 @@
 {
   "type": "newenergy",
-  "total": 23,
+  "total": 18,
   "samples": [
     {
-      "title": "四川光伏储能竞价0.2至0.4012元每度 8.94GW装机规模启动",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zb3FHRmhHQ1BFOTVuT1A4bE1oUml3NmQtOVNDaTZZRUV1VVlXYUlaNXVUU0wyVzloVUJxa2lvNmotQlBmcWp3cmN",
-      "source_url": "https://www.gessey.com",
-      "source": "www.gessey.com"
-    },
-    {
-      "title": "遂宁船山200MW压缩空气储能项目压缩空气储能电站运营服务招标！",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLVVV0RjJLalJscjZYbXR2ckZ1enZGXzN0Ty1vOVhhQkJma3REazJYMlJqMHp0cGg2eldIUXd4RW85Ym0zRG9sRkw",
-      "source_url": "https://www.ne21.com",
-      "source": "世纪新能源网"
-    },
-    {
-      "title": "华为智能组串式构网储能平台获TÜV南德颁发业界首个L4最高等级构网能力认证！",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lVU16SHVuV1Y0RWt6U0JiUWVpV2FCejd3bHVOWnB6d2d3b082ejVnX2pXbGJtMDZJMldoT0RETExBRzg5MHhrdkh",
-      "source_url": "https://www.ne21.com",
-      "source": "世纪新能源网"
-    },
-    {
-      "title": "大兴安岭5MW/10MWh储能系统项目成功送电",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xMXRIVTFrNXFWZUNCa1dWZDZ4NUU2Nldid0VDbWVDdDBacTlwbmF0d210Ni1qVEJZLUhpeE5LR2tUWDYxMWFrQTl",
-      "source_url": "https://www.ne21.com",
-      "source": "世纪新能源网"
-    },
-    {
-      "title": "追“光”聚能跨洲“通电” 中非共绘新能源合作新篇章",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXdSN3ZrTUt3RnBMZVgzQk54VWtRcUJfVzFud0NiTFJ5QWhtV09mUFhNT19DUVVOOUxJT3o2QVBnZ3FQbFRzVUN",
+      "title": "追光聚能跨洲通电 中非共绘能源合作新篇章",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOckRncFZocjVXSUFHUm8tTTN3MG8xbGVsWUp5ZlIyUUlHNkZEeEJEaGVzSzRVN3ByRGlON0thb3d0S1JIX1E3b2Q",
       "source_url": "https://m.sohu.com",
-      "source": "手机搜狐网"
+      "source": "Sohu"
     },
     {
-      "title": "浙江：2026义乌新能源与储能出口博览会启幕",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhR0hqcGFrMDJrWklMS05Vd3NueXdRYWk2X3NCQzN5aFJfdXg5ZG53dFJBbUlQZGNvU1dxQk1XbkFCcDVFekQ3VVg",
-      "source_url": "https://www.chinanews.com.cn",
-      "source": "中国新闻网"
+      "title": "远景张雷受邀出席中加商业圆桌会议，中国新能源赋能加拿大绿色经济",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GbXFNbzZ2aDFCRHNFREowRHppTVFhWWJ0R0wxdTUyaFk4cTVIYjBfeDZUeVM3OTN5UEpFRHhLLXRUTU13bGk4Nkl",
+      "source_url": "https://www.ne21.com",
+      "source": "世纪新能源网"
+    },
+    {
+      "title": "美国Sunrun推进74MW光伏及110MWh户用储能资产融资",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QUE5tQnNHSkszc0pTcDZWU1ZibGlVa2FEbFRHZ0FCOVpzWEY3RDFLeUhlTlEzSHpfLVhydEZVRkNQeGxIZEtUeHJ",
+      "source_url": "https://www.wedoany.com",
+      "source": "维度网"
+    },
+    {
+      "title": "光伏49MW，储能120MW/240MWh！江西一光储项目备案通过",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaG0zTEZXSE5vZE1lQ1UxeERyYnlicE1xZ1FWNEs2Q053SEV0VXh6dkNqaENYa1dzSVRvb2JPNVNiU2ZDaUQ3TGp",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
+    },
+    {
+      "title": "澳大利亚投资方控股美国Redball Energy并拓展光伏储能业务",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01ZF8xaGlVNTdvaUpsUV8zbkJvaHF0RUxuOUUtdHZ3eDZVVTdqekJ5MVN5RHNIakpRZFZIbVBEX1c5dWUxdEl0aVZ",
+      "source_url": "https://www.wedoany.com",
+      "source": "维度网"
+    },
+    {
+      "title": "比亚迪拟在印尼新建电池工厂推进本地化",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxc19TU2ZDdHVhaHJjNXJqeTE1Tk41VW8tVVpKMEFIbWdYSVQzS2g3bEZBTUpSd2lNNUQtMkpaUm04U1l1eERRQ3l",
+      "source_url": "https://www.indonesia-daily.com",
+      "source": "每日印尼"
     }
   ]
 }

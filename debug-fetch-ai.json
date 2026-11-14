@@ -1,40 +1,40 @@
 {
   "type": "ai",
-  "total": 40,
+  "total": 33,
   "samples": [
     {
-      "title": "这一次，李彦宏看到的下一幕是“智能组织”",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcVMtaVhVbnFDNF9HUGgwLWxwMWFWNk9yQUs1ZWpuQWlWVjJnbE5jeUdjdnB5VDI0eXpUajNkM0V0Y0dWS1lnMlA",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "OpenAI撤销独立机器人团队，通用模型“打穿”具身智能？|GPT-6 Astra|大模型|测试|仿",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Mc29HMnBxMGVnTVJpNnZ4X2VVRGpUb3NabEZ6TVhGZWo2WXhEU1B1M0FOX3R5bUdhN1JKZ2dPZm9RcmMzVWQ2WjV",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
     },
     {
-      "title": "星辰大模型驱动AI场景向善 Token经营打通产业落地通道",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeF9OSWlkOHFacER6Z3c1alB5ckdINC1tOEtGY1ZlRWxwemlQX2ZYVVRWOFltWllacVpXTXJINEZ6cmJwS1JLQl8",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb1B1N2RHVVdtTi1zSGVsd2M0VkV0bHlGOFBjbTQ2ekIxUFJXTXR1dEdWVkQ1RDlKQ1lUOU5HR1hhZUtpSGtYTi1",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "断网也能跑满血大模型？本地AI界最火的“基石神器”终于发布1.0正式版",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfS3N6RXJxeEp5UjVpak5sWnJZOFp5TzRXamJUOEhKUkE2X0tiSjYzVmlabFFsQ1Mzb3RwN0l0R3RhVVNycjRkS19",
-      "source_url": "https://tech.ifeng.com",
-      "source": "凤凰网科技"
+      "title": "想用AI造芯片？芯片工程师笑了",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RdmEzNEk1cWRlVC1aeFhnU3UyQ1pGOTVVdWxfZ3V2NS1iazZoNzRUZXVpUzB1VFNCelRFbEs2OTJfVzdXQTBlWnJ",
+      "source_url": "https://www.ichaoqi.com",
+      "source": "潮起网"
     },
     {
-      "title": "2026人工智能+大会锚定智算议题 中国电信扩容智算集群促产业落地",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGVfbTFxenZBdG0xcXZWT003SUlxWmVyaWFfT2FaZVFvQTdIZ1hCLS02LS1JSXZibi15eHpIX1RUenQ2SEVwWVB",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "国产大模型又杀出一匹黑马，引发硅谷关注！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13VXlnTUsxcFVINk5CeEkzOXZyZ1pUN3pfTlNSLUgycV8wSDlITnhDb3RwMEx6V1hvX2k2S3EweUk4YVpnVU8tSw?",
+      "source_url": "https://hub.baai.ac.cn",
+      "source": "智源社区"
     },
     {
-      "title": "AI应用商业化提速 游戏产业投资机遇凸显",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TM0wtTC1lQ2VaNnloMlB4OFpva1Y4WWRwZU8tNFFhM0hobFJHcm5teExNNktEdUdkYVlXdDI4bi12cFhfaXR5OGV",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
+      "title": "核心观点 | 李彦宏：人工智能的下一幕是智能组织，将迎来三大机会",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUVxOTFGQ2pkLVRUZVVTRUZiMlB6OG53a0RkeUpyc0E0UXVjVmgxZjRYemRpazFzS3lTZUlqaXdBcExWRnZpVDJ",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "黄仁勋将人工智能比作五层蛋糕，称应用层最核心",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNXN0aVJoaWV4Y1JCOExFdXhGNTdCMHcyNzZWUlR5Z3ZENnloMVVfMl9BT1lhR1JqTHp5WUVwTWZ5MFRCYzZ3MG5",
+      "title": "“碳硅协同”落子玄武：南京大学生物智能研究院正式揭牌",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYb1hqVVVmbFlselQxVURlZXN1S0lHLUVoMDRNRmFQRkdCYVQxOElXT3FQNGxCa3FNTG5FQnN4ZTU4dHZNUXZlOUl",
       "source_url": "https://k.sina.com.cn",
       "source": "手机新浪网"
     }

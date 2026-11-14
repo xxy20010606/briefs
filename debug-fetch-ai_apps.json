@@ -1,12 +1,18 @@
 {
   "type": "ai_apps",
-  "total": 14,
+  "total": 10,
   "samples": [
     {
-      "title": "GitHub AI与Rust高星项目日报：工具链崛起，工程化与性能并进",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92LURZeDBvUl9lelFQQmpVTTNCc1llMkswcW1wT1VfSUU1ZnJDX3l0Vm1Jd3Z6dkRCLXlOWUpyWE1aQW1TbGJNQTN",
-      "source_url": "https://www.csdn.net",
-      "source": "CSDN"
+      "title": "游戏《红色沙漠》开发商将AI应用范围扩展至整个开发管线",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NOXhZTjNuVEg5X3p3TVhXalRvN3Z1YVhwdjlEaXlKdldCN3hGSk4tRGVjanVHS05BYTJ2SjNucWN2RE5WVXFUc1B",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "鲸鱼体育app官网下载品牌焕新升级：从运动工具到全民健身AI朋友",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pUk5JYzI3YjQzWlRjRDVtZjB0di1BWVprc0JIa2x4ZFZkVzkwVS1lbEo0YkpEWHBTaUJvMDNQdnZQMmZHVldWMGh",
+      "source_url": "https://www.donews.com",
+      "source": "DoNews"
     },
     {
       "title": "Google 将 Google Wallet 消费洞察功能引入 Gemini 应用",
@@ -15,28 +21,22 @@
       "source": "Unite.AI"
     },
     {
+      "title": "AI时代Android开发者的进化指南：从工具链到端侧智能",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nU0g2ZVJaTzNRcENwbDhfU3BBSVFuQnQyUmJjQmd1UFlwNmZCS3lKR0R6dm1yeklzSXJveFdBc1NsNmtPeWMyNnp",
+      "source_url": "https://www.csdn.net",
+      "source": "CSDN"
+    },
+    {
       "title": "将生成式 AI 与应用程序现代化相结合",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLXpLZFRNRTRRZC1jeEJXNjRtR1JCMWZCYm1sdENxT0R0RUU2YjBjcDk5RFNmdjhlYmVfSk9XNXpqREtRN1B3ZWh",
       "source_url": "https://www.ibm.com",
       "source": "IBM"
     },
     {
-      "title": "俊睿科技顺利举办韩山师范学院AI促就业应用实践营",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zNW5OUUxNLXZZdEtITHVjMG5wbXZQd2MxN3c1aVFRU0NpZGlzUzF5Q19sbmZTNnBmUkZtTTFsZU9zQ0I1SnNNa3p",
-      "source_url": "https://k.sina.com.cn",
-      "source": "手机新浪网"
-    },
-    {
-      "title": "为什么 LLM 追踪工具如今开始构建 AI 网关",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4Wm5IenE2QjZuVXFlYlBQSW5sNTZNcVdTaWE2b25VLXZWZjc5NkloZFFfdXB2ZllZTjNxVy1JUnlObjRqRHE2VTR",
-      "source_url": "https://www.unite.ai",
-      "source": "Unite.AI"
-    },
-    {
-      "title": "梁圣再放大招：人人都能手搓DeepSeek App了",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlAzSHJUQkJvT3owQ05pcGgwcnRXQ1g1SlBYeXlvQi1ocEhKY2NubFc3NXpNSjBfTERKQVk0YU4tY1pvWndDdlB",
-      "source_url": "https://www.sohu.com",
-      "source": "Sohu"
+      "title": "Agent寒武纪大爆发，a16z预言消费AI的下一站不是助手是“军团”",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvR2N0c0pYbDEyN1Ftd2M5S0k0LTFQUDdDSFZBZFlhOUpraGN3c1lCOVBHR2xEUHU0MVd1OFlmbGxacmlzeGkxR0h",
+      "source_url": "https://news.qq.com",
+      "source": "QQ News"
     }
   ]
 }

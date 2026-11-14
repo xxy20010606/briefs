@@ -1,41 +1,35 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 14,
-    "trusted": 4,
+    "raw_dedup_junk": 10,
+    "trusted": 3,
     "non_trusted_top": {
-      "unite.ai": 2,
+      "sina.com.cn": 1,
+      "donews.com": 1,
+      "unite.ai": 1,
       "csdn.net": 1,
       "ibm.com": 1,
-      "sina.com.cn": 1,
-      "sina.cn": 1,
-      "mezha.net": 1,
-      "panewslab.com": 1,
-      "yeeyi.com": 1,
-      "iheima.com": 1
+      "ac.cn": 1,
+      "panewslab.com": 1
     },
-    "fresh1_24h": 4,
-    "page_fresh": 2,
-    "relaxed_72h": 2,
-    "final": 4,
+    "fresh1_24h": 3,
+    "page_fresh": 3,
+    "relaxed_72h": 0,
+    "final": 3,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "百万美金成标配？中国AI硬件把海外众筹玩成了“提款机”",
-      "d": "36kr.com"
+      "t": "Agent寒武纪大爆发，a16z预言消费AI的下一站不是助手是“军团”",
+      "d": "qq.com"
     },
     {
-      "t": "通用数智能力框架发布，普通劳动者有望补上AI技能课",
-      "d": "bjnews.com.cn"
-    },
-    {
-      "t": "梁圣再放大招：人人都能手搓DeepSeek App了",
+      "t": "机构测算：办公Agent的长期市场空间上限，可能是一万亿美元",
       "d": "sohu.com"
     },
     {
-      "t": "评价 Personal Agent，灵光为什么选择了 “托管量”？",
-      "d": "sohu.com"
+      "t": "实现“躺平式办公”：Mac版Perplexity上线“AI队友”",
+      "d": "ifeng.com"
     }
   ]
 }

@@ -1,35 +1,39 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 23,
-    "trusted": 5,
+    "raw_dedup_junk": 18,
+    "trusted": 6,
     "non_trusted_top": {
-      "ne21.com": 7,
-      "autohome.com.cn": 5,
+      "autohome.com.cn": 3,
+      "ne21.com": 2,
+      "wedoany.com": 2,
       "stockstar.com": 2,
-      "gessey.com": 1,
-      "in-en.com": 1,
-      "xcar.com.cn": 1,
-      "cfbond.com": 1
+      "indonesia-daily.com": 1,
+      "sina.cn": 1,
+      "shangbaoindonesia.com": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 0,
-    "relaxed_72h": 4,
-    "final": 4,
+    "fresh1_24h": 6,
+    "page_fresh": 3,
+    "relaxed_72h": 2,
+    "final": 5,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "追“光”聚能跨洲“通电” 中非共绘新能源合作新篇章",
+      "t": "追光聚能跨洲通电 中非共绘能源合作新篇章",
       "d": "sohu.com"
     },
     {
-      "t": "浙江：2026义乌新能源与储能出口博览会启幕",
-      "d": "chinanews.com.cn"
+      "t": "光伏49MW，储能120MW/240MWh！江西一光储项目备案通过",
+      "d": "sohu.com"
     },
     {
-      "t": "价值引领！上能电气解读分布式光伏发展新逻辑",
-      "d": "solarbe.com"
+      "t": "深耕海上风电 共促中荷协同——2026年中荷海上风电合作对接会在江阴顺利召开",
+      "d": "sohu.com"
+    },
+    {
+      "t": "推广钠离子电池储能应用！事关新型储能，国家最新部署来了！",
+      "d": "thepaper.cn"
     },
     {
       "t": "民企的机会来了！3亿千瓦目标下新型储能的三个利好",

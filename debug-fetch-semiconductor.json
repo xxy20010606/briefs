@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 29,
+  "total": 22,
   "samples": [
     {
-      "title": "美新半导体出席MEMS国际研讨会，解析AI时代MEMS产业化路径",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sUEJyTzE1ZnBoeG8yVXFSMkdHVmQ3bk5ZQmhJX2NmV0JMMXBqcWtaeTI2bzZKRzRVaUo0OEpVMTZuZmxjb3V2TE8",
+      "title": "白天逛展，晚上复盘！近100位芯片人聚在慕尼黑，到底聊了啥？",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nenB1SHhvV2YzU0sweTlnWGpUUmFGU3J2a28yc2tlWURVTktiSVlaNjZDZWlsbDBqOUgxNDk0Zm5LR2lfM2Fhakt",
       "source_url": "https://www.eet-china.com",
       "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "人工智能和半导体：实现“越南制造”芯片目标的驱动力。",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXR1TkFqUDkxNFNha2g2UWZmMnU5SHZXVEpXdDJabzlYVlZnaFJWTTVRczV1Slk0aTd1YVV2SlVORldXZVdqdlp",
-      "source_url": "https://www.vietnam.vn",
-      "source": "Vietnam.vn"
+      "title": "从SpaceX与特斯拉合并看供应链重构：Terafab半导体量产在即，车规级芯片格局走向何方？",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sUHBpMG56dVpiSzdkTE5kNEhjSjE4SDE1WlZmZy1TMTFQaXFaeGpTeE1PUWllelhlNkhuN1hSQ1JSOHVPakRTMnB",
+      "source_url": "http://auto.news18a.com",
+      "source": "网通社"
     },
     {
-      "title": "苹果，创新高！芯片股，又大跌",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84d2FvRXZFaVNaMFRvSmRRWmE4NGlPb3M0d1FkZUNWYVVQN0E5RF9JaUxXektPX2Rha0RDSldWa1NFUkFUS2xOaVJ",
-      "source_url": "https://finance.ifeng.com",
-      "source": "凤凰网财经"
+      "title": "AI不只是GPU的生意，应材财报透露的产业变局！",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXZvQldna1BqTlphVUlLNzN4M3NVTmZsdGh4ZjN4TUlkeUo3WGVOdmJzeU9xdkFhVi11LWdKdzJvZkZSSDRLT2V",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "苹果，创新高！芯片股，又大跌！",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeFVITEJSRURZY0NZb3NheW9TOXRseTVMWkswRHR3NWZGZDBwQ1ZhbDI3VEo0TTUtZG1KeGRUVk41eGY5NS14Q0x",
+      "title": "台积电 5 亿美元设立创投基金，挖掘芯片行业潜在龙头",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3JnNmlzaGhUR25Jc1BnTDdpQTlTSkRvYkZWeFNVSG9jODhUUkZ0S3pHejRBdU54aXpjZVRtUkFlQi1TVkFCdVZ",
       "source_url": "https://www.sohu.com",
       "source": "Sohu"
     },
     {
-      "title": "[Chip Talk]与日本携手，国产化也不停步……韩国半导体的两项课题- 阿视亚经济",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WaEozSUdjaVFSc0x0eHlyR3owTnJBRnR0ZmJSb3RvYmctM2lCbHIxZlVKQV9KZUQ1LUJ3by00a0FKejVtZ3NTMld",
-      "source_url": "https://www.asiae.co.kr",
-      "source": "아시아경제"
+      "title": "奔赴工业沃土：中国半导体企业齐聚欧洲",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWElUR2RoYWd6WEJ1NHdrUWx6OS1yeWo4aHNUNHVOLThXZndLSE93Mm5WZy1YWC1RZWYyY2lJcmwtODRwQ20xUG1",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     },
     {
-      "title": "完成2亿元A+轮融资后，这家湘企又拿下三星独家芯片订单——啃场景“硬骨头” 靠“通感智算”突围",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4WjZQaFVIUnktY25NWEMzS3dyY21MZWRCc2pRa3h0RnJpU2RMREozSU5GUWVQWmdLOFRwVDVyRzVSd2Y1NlZwNXA",
-      "source_url": "https://m.voc.com.cn",
-      "source": "新湖南"
+      "title": "美、日、荷慌了？中国逐步不买它们的芯片设备，对华出口全部下滑",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVnVURHRqZVZBRURyVTlfT2xFejJsNW5nTU05MTNZZEhKNXhmdTcyMTB3MmZWelQwUDRZaE9WZjNjLXJ2MFlOZ3c",
+      "source_url": "https://m.sohu.com",
+      "source": "Sohu"
     }
   ]
 }

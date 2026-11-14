@@ -1,51 +1,52 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 29,
-    "trusted": 17,
+    "raw_dedup_junk": 22,
+    "trusted": 13,
     "non_trusted_top": {
-      "sina.cn": 3,
-      "stockstar.com": 3,
-      "voc.com.cn": 2,
+      "sina.cn": 2,
+      "news18a.com": 1,
+      "workercn.cn": 1,
+      "cfi.net.cn": 1,
       "vietnam.vn": 1,
-      "asiae.co.kr": 1,
+      "voc.com.cn": 1,
       "pjtime.com": 1,
-      "zqrb.cn": 1
+      "ichaoqi.com": 1
     },
-    "fresh1_24h": 14,
-    "page_fresh": 8,
-    "relaxed_72h": 8,
+    "fresh1_24h": 12,
+    "page_fresh": 11,
+    "relaxed_72h": 0,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "美新半导体出席MEMS国际研讨会，解析AI时代MEMS产业化路径",
+      "t": "白天逛展，晚上复盘！近100位芯片人聚在慕尼黑，到底聊了啥？",
       "d": "eet-china.com"
     },
     {
-      "t": "苹果，创新高！芯片股，又大跌",
-      "d": "ifeng.com"
+      "t": "AI不只是GPU的生意，应材财报透露的产业变局！",
+      "d": "sohu.com"
+    },
+    {
+      "t": "台积电 5 亿美元设立创投基金，挖掘芯片行业潜在龙头",
+      "d": "sohu.com"
     },
     {
       "t": "苹果，创新高！芯片股，又大跌！",
-      "d": "sohu.com"
+      "d": "21jingji.com"
+    },
+    {
+      "t": "美新半导体出席MEMS国际研讨会，解析AI时代MEMS产业化路径",
+      "d": "eet-china.com"
     },
     {
       "t": "美股成交额前20：芯片股集体暴跌 AMD重挫8.75%",
       "d": "eastmoney.com"
     },
     {
-      "t": "超 40 亿意向大单！国产 6 英寸磷化铟衬底出海，光智科技子公司牵手全球光电子",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "展会现场屡遭“不接受采访”，半导体行业的高门槛藏在“高成本”里",
-      "d": "eastmoney.com"
-    },
-    {
-      "t": "国产半导体设备景气延续，半导体材料设备指数收涨0.7%，半导体设备ETF易方达（",
-      "d": "cls.cn"
+      "t": "清华大学发布单细胞蛋白组基础模型ProtCell，利用摩尔线程S5000智算卡成",
+      "d": "ifeng.com"
     }
   ]
 }

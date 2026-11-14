@@ -1,7 +1,31 @@
 {
   "type": "finance",
-  "total": 19,
+  "total": 14,
   "samples": [
+    {
+      "title": "分析师：美国科技股承压，欧洲股市相对抗跌",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RLTR0Slg3di1sN3lrZUJvenZicTZmdkQxS0VKUTBidU51RFd4TXFfMXJKRTE3aXdIUkIwYUd6QmdFdzV6YThsQXB",
+      "source_url": "https://m.jrj.com.cn",
+      "source": "金融界"
+    },
+    {
+      "title": "【环球财经】投资者担忧持续 纽约股市三大股指13日涨跌不一",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Db21LdE1HRF9iQUpRTUZicUtHNVdyX25ocWRVamN0WVZndGFlVkxRaWtPY0xfY09DcnJnc1pkWTIwaC1MSXdoVkd",
+      "source_url": "https://m.cnfin.com",
+      "source": "中国金融信息网"
+    },
+    {
+      "title": "【环球财经】伦敦股市13日上涨",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4dFQxR1k0UEUxSktieVpJM2RFaFR1aHppNzhYazI0cmpGdUN6d0NGeUVyX0FITlBHVmFjR0JqZWE3RnZTZkJIVjN",
+      "source_url": "https://www.cnfin.com",
+      "source": "中国金融信息网"
+    },
+    {
+      "title": "四大证券报头版头条内容精华摘要_2026年11月13日_财经新闻",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRkJVRFVBNGhZYjM4VEllOGFmdVZYUVZKd2k3SUVBTWdBd0JZbk03bkFTbDh3RnpFOFIyeDZYdDBZUGdWak0xcHZ",
+      "source_url": "https://finance.sina.cn",
+      "source": "新浪财经"
+    },
     {
       "title": "菲利华：取得金融机构不超过9000万元股票回购专项贷款承诺函",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WUXZxV05uejhsQ2Q3NkU1aEhzZjh4MGtlb0hiVDU0Sk9paDEyTVlEOUhxRXlBeFR4cWVMaFI2MzI1ZzVDLXZuYnN",
@@ -9,34 +33,10 @@
       "source": "东方财富"
     },
     {
-      "title": "美国银行研报称全球股票基金今年流入1.4万亿美元创纪录_公司新闻_财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mRWpmNXN5bjdLWi0xWW90MjRoQXVIWVhYWWMwWEdHa3hVSVNobk1QVl9xSXBNXzNlZFBvSUtBSG42dUdqZzJVNW5",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "全球股票基金单周吸金510亿美元，创近两个月新高！美银拆解“言行不一”：看空者众多，实际做空者寥寥",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EX2dZb2JTeE9vbmFYZFZuQjZzcDRfQ3ppTERlbGhTLW10ZS1HWmNScXJmS2lCU1dKRjIwUzVjaldNVVFVQTUzU1l",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "美银下调欧洲股票评级至低配 斯托克600指数明年二季度将跌近15%",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pNHlfcF9tUTVxQVRNb0dVWTNZYjd1bkVGSmc3Vmk2ZXNOeGJac3I2YnBPNnRkYTZJYmt3MDFLWXRFUGJaaTA5YmF",
-      "source_url": "https://stock.jrj.com.cn",
-      "source": "金融界"
-    },
-    {
-      "title": "TCL中环：拟购买中环领先65.8%股份 股票11月16日复牌",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kbVMxczZwZnFHWEZnejZGQUxIN0tXcHpEMWlyMDFGdkdMMHZTaV9RQVJFaGRkeUxvOVRRY1RCcGd4TEdlaHFvNjZ",
-      "source_url": "https://stock.jrj.com.cn",
-      "source": "金融界"
-    },
-    {
-      "title": "南方财经全媒体集团",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sMkk5NnQ3ZmpmZlV4WHR5dFVmRjAwRTgwYWJ0dS1oRmFnbUJXeHE0OFpxVDVDOE9McXJFeDI3dy1qSDRCaUpmR09",
-      "source_url": "https://m.sfccn.com",
-      "source": "南方财经"
+      "title": "调查：逾八成经济学家预计美联储本周加息 明年3月底前有望再出手！",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9PRXFTMjJMVXpldlgzeFVJNXdiMVlrdGJENjdxXzhwQm1HdHFVd2poeEIyekN5a1NpQy1Xb0dFZnRDRjc3MWRrQQ?",
+      "source_url": "https://www.cls.cn",
+      "source": "财联社"
     }
   ]
 }
