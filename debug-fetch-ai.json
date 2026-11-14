@@ -1,42 +1,42 @@
 {
   "type": "ai",
-  "total": 50,
+  "total": 40,
   "samples": [
     {
-      "title": "首批｜绿盟科技正式获评首批国家人工智能安全漏洞库（AIVD）技术支撑单位",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzSWN6VzZSWTVXd1JfREdmLVRVQ0ZTWkxMaHZkMjQtQWpHd0Fab3BaX0wtTTd5bHJ5ZkVLZXBSY3BVMnIyU1hXX2h",
-      "source_url": "https://www.icloudnews.net",
-      "source": "人工智能"
+      "title": "这一次，李彦宏看到的下一幕是“智能组织”",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcVMtaVhVbnFDNF9HUGgwLWxwMWFWNk9yQUs1ZWpuQWlWVjJnbE5jeUdjdnB5VDI0eXpUajNkM0V0Y0dWS1lnMlA",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "中金公司与蚂蚁集团签署战略合作协议 围绕金融大模型及AI财富管理开展合作",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9idTR1MVRpWTBNWFFFZXhqZ2R5ckZ0SVJqZmdJblVPZXEyTWRxdklDVzdEMTZNQkdieFZ6TkZrMlRpT25WVG5zVlk",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
+      "title": "星辰大模型驱动AI场景向善 Token经营打通产业落地通道",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeF9OSWlkOHFacER6Z3c1alB5ckdINC1tOEtGY1ZlRWxwemlQX2ZYVVRWOFltWllacVpXTXJINEZ6cmJwS1JLQl8",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "AI应成为独立根学科，并纳入中小学基础课程",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlbnZDWkpsYWFEWEFsZVMzT1hKQXFhVzhyNV9NVXh1bmUwdVg5ZVJnWWdMUWFfV1ZXMXBYaHhacTF3Qzc2ZEpVU25",
-      "source_url": "https://user.guancha.cn",
-      "source": "风闻"
+      "title": "断网也能跑满血大模型？本地AI界最火的“基石神器”终于发布1.0正式版",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfS3N6RXJxeEp5UjVpak5sWnJZOFp5TzRXamJUOEhKUkE2X0tiSjYzVmlabFFsQ1Mzb3RwN0l0R3RhVVNycjRkS19",
+      "source_url": "https://tech.ifeng.com",
+      "source": "凤凰网科技"
     },
     {
-      "title": "企袖KeyAction探路“人工智能+”落地",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvNjRVTHNNMkZrOS1ZTWlGelNPWG9yclFuUUwxYVhQSDJibnVTSmZHRjVHS0NHa2c4ODBtTXJtSkUwUkZGWVhQaWd",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经_金融信息服务商"
+      "title": "2026人工智能+大会锚定智算议题 中国电信扩容智算集群促产业落地",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGVfbTFxenZBdG0xcXZWT003SUlxWmVyaWFfT2FaZVFvQTdIZ1hCLS02LS1JSXZibi15eHpIX1RUenQ2SEVwWVB",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "“未来超级明星正来自中国”，欧洲科技盛会中的AI竞逐",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5scUJIbUpheE9QaWlEZzRtQXlNUFJfU0k1eVpIZlptZzVQMUZGNGZTUTExNjMyY29MT0dwWEFiOU9uZzIyelNpVUR",
-      "source_url": "https://www.thepaper.cn",
-      "source": "ThePaper.cn"
+      "title": "AI应用商业化提速 游戏产业投资机遇凸显",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TM0wtTC1lQ2VaNnloMlB4OFpva1Y4WWRwZU8tNFFhM0hobFJHcm5teExNNktEdUdkYVlXdDI4bi12cFhfaXR5OGV",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     },
     {
-      "title": "凌晨四点十七分，Outlook 连不上，多国政府系统也陷入瘫痪|Charles Lamanna|微软",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uV0x1d1BGZ3llUmlscl84VkVYeDRFLWFiZ0tIVmlKaC1WT3FZc1VLOFFUeUZKcmpBQUlsd01FY0E2bUFhODliVEZ",
-      "source_url": "https://www.sina.cn",
-      "source": "新浪网"
+      "title": "黄仁勋将人工智能比作五层蛋糕，称应用层最核心",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNXN0aVJoaWV4Y1JCOExFdXhGNTdCMHcyNzZWUlR5Z3ZENnloMVVfMl9BT1lhR1JqTHp5WUVwTWZ5MFRCYzZ3MG5",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
     }
   ]
 }

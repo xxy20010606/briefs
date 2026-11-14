@@ -1,54 +1,54 @@
 {
   "type": "entertainment",
   "stages": {
-    "raw_dedup_junk": 42,
-    "trusted": 13,
+    "raw_dedup_junk": 39,
+    "trusted": 10,
     "non_trusted_top": {
-      "sina.cn": 8,
-      "lmtw.com": 3,
+      "sina.cn": 7,
+      "yzwb.net": 4,
+      "sina.com.cn": 3,
       "hupu.com": 2,
+      "hangzhou.com.cn": 2,
       "china.com": 2,
-      "mydrivers.com": 1,
       "rediandf.com": 1,
-      "yesky.com": 1,
-      "hk01.com": 1,
-      "dianyingjie.com.cn": 1,
-      "sina.com.cn": 1
+      "games.gg": 1,
+      "cm3721.com": 1,
+      "dianyingjie.com.cn": 1
     },
-    "fresh1_24h": 13,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 8,
+    "page_fresh": 3,
+    "relaxed_72h": 7,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "《喜人奇妙夜3》正式官宣 老新喜剧人同台开启全新竞演",
-      "d": "sohu.com"
-    },
-    {
-      "t": "博鱼安卓版游戏：全新体育赛事直播平台上线，高清流畅体验受好评",
-      "d": "36kr.com"
-    },
-    {
-      "t": "当游戏帧率提升，不再由芯片架构和工艺决定 | IEM电竞赛观后感",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "电影《饥饿游戏：收获日出》定档11月20日内地上映，全新中字预告发布",
+      "t": "初冬好戏连台！徐良、胡彦斌济南演唱会12月即将开演",
       "d": "ifeng.com"
     },
     {
-      "t": "大批明星马上抵达广州，多场演唱会官宣王嘉尔、孙燕姿、周杰伦等",
+      "t": "红楼梦AI剧被指侵害肖像权，律师：盗脸、魔改触碰法律红线",
+      "d": "sohu.com"
+    },
+    {
+      "t": "声耀赣鄱！“青春之声”总决赛在南昌大学燃情开唱",
+      "d": "cnr.cn"
+    },
+    {
+      "t": "深圳南山电竞产业扶持项目启动申报，赛事与活动两条线最高资助1000万元",
+      "d": "sohu.com"
+    },
+    {
+      "t": "知名游资呼家楼抢筹儒意电影，《流浪地球3》定档成催化因素",
       "d": "21jingji.com"
     },
     {
-      "t": "中新网江苏新闻11月13日电(记者 葛勇)舞剧《楚河汉界》近日在江苏大剧院上演。",
+      "t": "从骨甲刻痕到数字影像 上海百年古宅里的“千年书写”",
       "d": "chinanews.com.cn"
     },
     {
-      "t": "罗大佑怒批民进党当局引发岛内共鸣",
-      "d": "chinanews.com.cn"
+      "t": "人民锐评：现实主义剧集为何成了文旅“种草神器”？",
+      "d": "thepaper.cn"
     }
   ]
 }

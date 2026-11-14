@@ -1,42 +1,42 @@
 {
   "type": "semiconductor",
-  "total": 48,
+  "total": 29,
   "samples": [
     {
-      "title": "隔夜费城半导体大涨5.66%！A股半导体大幅拉升，寒武纪、北方华创涨超11%、5%！",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT203TndvZ1p1WEExUzBqbXZlTVVHeG44ZUx2alBEY09GcU1MX2wtWWZQaUpWVTYtRHpZem5jYXRtdzVfR2JLRjV",
-      "source_url": "https://m.21jingji.com",
-      "source": "21财经"
-    },
-    {
-      "title": "南芯科技，成立半导体子公司",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YaU1MYjllcDExUmlRa1VHVm1IeDd3ZjBMMlFEY0I3Y18tWVh4SzhmNnA2Znh6UFZ1OFc4cGVabFVkbGdDdG9vNm1",
+      "title": "美新半导体出席MEMS国际研讨会，解析AI时代MEMS产业化路径",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sUEJyTzE1ZnBoeG8yVXFSMkdHVmQ3bk5ZQmhJX2NmV0JMMXBqcWtaeTI2bzZKRzRVaUo0OEpVMTZuZmxjb3V2TE8",
       "source_url": "https://www.eet-china.com",
       "source": "电子工程专辑EE Times China"
     },
     {
-      "title": "英伟达动荡引发芯片板块轮动",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10cks5RjczUDhDWlJ2alNBM2NSSmVwM3BmU0w4WDZSbUcxalI3MV81aTdZSGZ2UWh5ZWV3bGtyYUFGUUdqaVpsbFJ",
-      "source_url": "https://news.futunn.com",
-      "source": "富途牛牛"
+      "title": "人工智能和半导体：实现“越南制造”芯片目标的驱动力。",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXR1TkFqUDkxNFNha2g2UWZmMnU5SHZXVEpXdDJabzlYVlZnaFJWTTVRczV1Slk0aTd1YVV2SlVORldXZVdqdlp",
+      "source_url": "https://www.vietnam.vn",
+      "source": "Vietnam.vn"
     },
     {
-      "title": "南芯科技上海新设全资半导体子公司 注册资本未披露",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BV2tyYUptRy1CLVpPOHlnOUVDcDZuQXB5RlRmZW5tSU9KbEpsdHMydUd6MXEzd3E5T3pPR2RRbHJVa3pGbVJOSEd",
-      "source_url": "https://www.guandian.cn",
-      "source": "观点网"
+      "title": "苹果，创新高！芯片股，又大跌",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84d2FvRXZFaVNaMFRvSmRRWmE4NGlPb3M0d1FkZUNWYVVQN0E5RF9JaUxXektPX2Rha0RDSldWa1NFUkFUS2xOaVJ",
+      "source_url": "https://finance.ifeng.com",
+      "source": "凤凰网财经"
     },
     {
-      "title": "南芯科技在上海成立半导体子公司",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSSDRXcExrdHdnNWo1MW5EWk5JZTYtZGhHTEQ0WGR0MTRwUGw2RFR4VlRpTFczTXIwNGZsLVdYa3dEcWh1b1d2RDZ",
-      "source_url": "https://wap.cj.sina.cn",
-      "source": "新浪网"
-    },
-    {
-      "title": "因半导体及存储等零部件成本持续上涨，大疆部分产品11月18日起上调售价",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTmcwNDdZeE50anhzUHpSbnB2aVNMU1JiaVhWZGRmMnFoMUpNOFBRMzlObnlCZWFoaENuSF9yRVNQUmZRUWJ6UE1",
-      "source_url": "https://m.sohu.com",
+      "title": "苹果，创新高！芯片股，又大跌！",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeFVITEJSRURZY0NZb3NheW9TOXRseTVMWkswRHR3NWZGZDBwQ1ZhbDI3VEo0TTUtZG1KeGRUVk41eGY5NS14Q0x",
+      "source_url": "https://www.sohu.com",
       "source": "Sohu"
+    },
+    {
+      "title": "[Chip Talk]与日本携手，国产化也不停步……韩国半导体的两项课题- 阿视亚经济",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WaEozSUdjaVFSc0x0eHlyR3owTnJBRnR0ZmJSb3RvYmctM2lCbHIxZlVKQV9KZUQ1LUJ3by00a0FKejVtZ3NTMld",
+      "source_url": "https://www.asiae.co.kr",
+      "source": "아시아경제"
+    },
+    {
+      "title": "完成2亿元A+轮融资后，这家湘企又拿下三星独家芯片订单——啃场景“硬骨头” 靠“通感智算”突围",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4WjZQaFVIUnktY25NWEMzS3dyY21MZWRCc2pRa3h0RnJpU2RMREozSU5GUWVQWmdLOFRwVDVyRzVSd2Y1NlZwNXA",
+      "source_url": "https://m.voc.com.cn",
+      "source": "新湖南"
     }
   ]
 }

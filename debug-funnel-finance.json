@@ -1,54 +1,36 @@
 {
   "type": "finance",
   "stages": {
-    "raw_dedup_junk": 27,
-    "trusted": 7,
+    "raw_dedup_junk": 19,
+    "trusted": 4,
     "non_trusted_top": {
-      "moomoo.com": 4,
       "stockstar.com": 3,
-      "sina.cn": 2,
-      "cnfin.com": 1,
-      "zhonghongwang.com": 1,
+      "sina.com.cn": 3,
+      "jrj.com.cn": 2,
+      "futunn.com": 2,
+      "hstong.com": 2,
       "sfccn.com": 1,
-      "chosun.com": 1,
-      "techflowpost.com": 1,
-      "digitaltoday.co.kr": 1,
-      "tmgm.com": 1
+      "528btc.com": 1,
+      "moomoo.com": 1
     },
-    "fresh1_24h": 6,
-    "page_fresh": 5,
-    "relaxed_72h": 2,
-    "final": 7,
-    "cap": "同域≤3条"
+    "fresh1_24h": 3,
+    "page_fresh": 0,
+    "relaxed_72h": 3,
+    "final": 3,
+    "cap": "不限同域"
   },
   "final": [
     {
-      "t": "日韩股市，大涨！芯片股又火了",
-      "d": "21jingji.com"
+      "t": "菲利华：取得金融机构不超过9000万元股票回购专项贷款承诺函",
+      "d": "eastmoney.com"
     },
     {
-      "t": "【环球财经】伦敦股市12日上涨",
-      "d": "sohu.com"
-    },
-    {
-      "t": "马上三件大事落地！股票、债基、黄金怎么走，提前盯紧！",
-      "d": "21jingji.com"
-    },
-    {
-      "t": "全球市场：美股三大指数集体收跌 芯片股跌幅居前 英伟达跌超4%市值蒸发约1820",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "美股三大指数集体收跌 纳指收跌0.4% 英伟达跌超4%",
-      "d": "cnfol.com"
-    },
-    {
-      "t": "连敬涵：港股反弹后承压 短线或偏弱震荡| 亚太时间",
+      "t": "朴东国：华测导航迈向全球化 直面合规文化与地缘多重挑战",
       "d": "yicai.com"
     },
     {
-      "t": "2027年港股基本面与估值或迎共振修复；CoreWeave超预期财报提振美股AI",
-      "d": "21jingji.com"
+      "t": "美联储原本预期今年降息，如今要再度迎战通胀",
+      "d": "sohu.com"
     }
   ]
 }

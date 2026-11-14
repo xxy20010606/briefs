@@ -1,42 +1,42 @@
 {
   "type": "finance",
-  "total": 27,
+  "total": 19,
   "samples": [
     {
-      "title": "AI交易退潮及企业盈利增长成就欧股！止步四日连涨但仍有望创7月来最大单周涨幅_滚动新闻_财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IVlVBb1ZJbzNWRFNKdGhRVEZST3NGMTl5TGN0Ym9iOE9ZdHJoU2psdk1xN2d5RFUxYnF3QzhORDBtZzhUbHhHRVA",
+      "title": "菲利华：取得金融机构不超过9000万元股票回购专项贷款承诺函",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WUXZxV05uejhsQ2Q3NkU1aEhzZjh4MGtlb0hiVDU0Sk9paDEyTVlEOUhxRXlBeFR4cWVMaFI2MzI1ZzVDLXZuYnN",
+      "source_url": "https://emwap.eastmoney.com",
+      "source": "东方财富"
+    },
+    {
+      "title": "美国银行研报称全球股票基金今年流入1.4万亿美元创纪录_公司新闻_财经",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mRWpmNXN5bjdLWi0xWW90MjRoQXVIWVhYWWMwWEdHa3hVSVNobk1QVl9xSXBNXzNlZFBvSUtBSG42dUdqZzJVNW5",
       "source_url": "https://wap.stockstar.com",
       "source": "证券之星"
     },
     {
-      "title": "资金面与股市资金流向日评20261113",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NaFJEZkEwTjZ4ZndtelFVTEdCLW5SNmhVWnY1RlpNRmVldWhrNnpjMjFYNEVreTE3VU00TVlRdF8ybENkMGwzbWx",
-      "source_url": "https://cj.sina.cn",
-      "source": "新浪财经_金融信息服务商"
-    },
-    {
-      "title": "日韩股市，大涨！芯片股又火了",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdV9UQkIwMTRMZm51WUpuVWxJUlFTVDhqdFZEVERITXliRkx3dW5BMjNBemgwcXp1VzlZaUUwV1hrNDlQQWhieVV",
-      "source_url": "https://www.21jingji.com",
-      "source": "21财经"
-    },
-    {
-      "title": "四大证券报头版头条内容精华摘要_2026年11月13日_财经新闻",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMEFLamJvTXd1WEtWdnVLQTB4WmNrLXdqTUhNeURDaXk2XzJBWEtpaFN6VWJvQTFfWTl1eWlkS3UwaUlBRllTX20",
-      "source_url": "https://finance.sina.cn",
-      "source": "新浪财经_金融信息服务商"
-    },
-    {
-      "title": "【环球财经】多个利空打压 纽约股市三大股指12日均下跌",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Eby1WeFk0S2cwajdDRFl5ZWVnNm53RkpRcHl0X3Ntcms3bUhpUi1kb1FsY2dwdWZYVjY4LWtXYXFNTFVtblU4YkU",
-      "source_url": "https://www.cnfin.com",
-      "source": "中国金融信息网"
-    },
-    {
-      "title": "AI资本开支见顶，全球股市盈利“换挡”! 高盛给出2027年三大主线_全球市场",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EOTJhbjFVZEdXSmVhS24xV0lGakU5RGxsaGtucVhHMmtwNUdXVElOWUJzbFhfMFlBSkdwcEV4ZTI4eks0bGJGNEp",
-      "source_url": "https://finance.stockstar.com",
+      "title": "全球股票基金单周吸金510亿美元，创近两个月新高！美银拆解“言行不一”：看空者众多，实际做空者寥寥",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EX2dZb2JTeE9vbmFYZFZuQjZzcDRfQ3ppTERlbGhTLW10ZS1HWmNScXJmS2lCU1dKRjIwUzVjaldNVVFVQTUzU1l",
+      "source_url": "https://wap.stockstar.com",
       "source": "证券之星"
+    },
+    {
+      "title": "美银下调欧洲股票评级至低配 斯托克600指数明年二季度将跌近15%",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pNHlfcF9tUTVxQVRNb0dVWTNZYjd1bkVGSmc3Vmk2ZXNOeGJac3I2YnBPNnRkYTZJYmt3MDFLWXRFUGJaaTA5YmF",
+      "source_url": "https://stock.jrj.com.cn",
+      "source": "金融界"
+    },
+    {
+      "title": "TCL中环：拟购买中环领先65.8%股份 股票11月16日复牌",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kbVMxczZwZnFHWEZnejZGQUxIN0tXcHpEMWlyMDFGdkdMMHZTaV9RQVJFaGRkeUxvOVRRY1RCcGd4TEdlaHFvNjZ",
+      "source_url": "https://stock.jrj.com.cn",
+      "source": "金融界"
+    },
+    {
+      "title": "南方财经全媒体集团",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sMkk5NnQ3ZmpmZlV4WHR5dFVmRjAwRTgwYWJ0dS1oRmFnbUJXeHE0OFpxVDVDOE9McXJFeDI3dy1qSDRCaUpmR09",
+      "source_url": "https://m.sfccn.com",
+      "source": "南方财经"
     }
   ]
 }

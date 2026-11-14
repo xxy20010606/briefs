@@ -1,46 +1,39 @@
 {
   "type": "newenergy",
   "stages": {
-    "raw_dedup_junk": 44,
+    "raw_dedup_junk": 23,
     "trusted": 5,
     "non_trusted_top": {
-      "ne21.com": 18,
-      "autohome.com.cn": 9,
-      "wedoany.com": 2,
-      "zjol.com.cn": 1,
-      "tianshui.com.cn": 1,
-      "seetao.com": 1,
-      "straitstimes.com": 1,
-      "moomoo.com": 1,
-      "sina.com.cn": 1,
-      "sina.cn": 1
+      "ne21.com": 7,
+      "autohome.com.cn": 5,
+      "stockstar.com": 2,
+      "gessey.com": 1,
+      "in-en.com": 1,
+      "xcar.com.cn": 1,
+      "cfbond.com": 1
     },
-    "fresh1_24h": 5,
-    "page_fresh": 5,
-    "relaxed_72h": 0,
-    "final": 5,
+    "fresh1_24h": 3,
+    "page_fresh": 0,
+    "relaxed_72h": 4,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "“十五五”新型储能实施方案印发：2030年新能源基地配储50-60GW，鼓励新能",
+      "t": "追“光”聚能跨洲“通电” 中非共绘新能源合作新篇章",
       "d": "sohu.com"
     },
     {
-      "t": "安徽省新能源及新型储能行业报告发布",
+      "t": "浙江：2026义乌新能源与储能出口博览会启幕",
+      "d": "chinanews.com.cn"
+    },
+    {
+      "t": "价值引领！上能电气解读分布式光伏发展新逻辑",
       "d": "solarbe.com"
     },
     {
-      "t": "甘肃酒泉金塔160万千瓦风光储基地送出工程投运",
-      "d": "solarbe.com"
-    },
-    {
-      "t": "高盛：比亚迪技术与生态发展深度观察",
-      "d": "eet-china.com"
-    },
-    {
-      "t": "两部门印发《“十五五”新型储能实施方案》",
-      "d": "cls.cn"
+      "t": "民企的机会来了！3亿千瓦目标下新型储能的三个利好",
+      "d": "sohu.com"
     }
   ]
 }

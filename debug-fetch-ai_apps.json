@@ -1,42 +1,42 @@
 {
   "type": "ai_apps",
-  "total": 17,
+  "total": 14,
   "samples": [
     {
-      "title": "百万粉丝多平台运营，自媒体工作室如何保持创作高产？",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EbnZQZWhhSUh1Q1l0aGJQUjJzQ2tNT0ZJSjJKTDRPQkYtUk50VExiWFBuZW9xYk9JM2EyY1pZZWF4UVVMRktOREJ",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
+      "title": "GitHub AI与Rust高星项目日报：工具链崛起，工程化与性能并进",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92LURZeDBvUl9lelFQQmpVTTNCc1llMkswcW1wT1VfSUU1ZnJDX3l0Vm1Jd3Z6dkRCLXlOWUpyWE1aQW1TbGJNQTN",
+      "source_url": "https://www.csdn.net",
+      "source": "CSDN"
     },
     {
-      "title": "京东双11售出超5000万件AI产品 Token搜索量增长逾13倍",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzNUFfaE1qOVhDQTZVOVhRc1FLRndIbTUwano4WFRDSUNLYWVzRC1XMkFJTi01ZHFUYTRsSmNrWXZLZzJGNTM1WHB",
-      "source_url": "https://www.moomoo.com",
-      "source": "Moomoo"
+      "title": "Google 将 Google Wallet 消费洞察功能引入 Gemini 应用",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNE1LZ054NG9CQjN6c1B3WlpRTzQ1bEJIdDlyUTJWZXgzM0g2dGlsMjQwN1BPcER5RFJ1dTVXOUxCeWlrQWdRT3B",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
     },
     {
-      "title": "网易智企帝王蟹入选全球企业级Agent图谱，企业上下文实践获关注",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSnEtb0FTb3Q0Wkp1R3IyUldtV0lkZ25Ib0ltNFNYaVV5ZTFPMHV3dW5SZkNxdjgtMTR1TXZYVVB4YzVCYkQwVWd",
-      "source_url": "https://m.sohu.com",
+      "title": "将生成式 AI 与应用程序现代化相结合",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLXpLZFRNRTRRZC1jeEJXNjRtR1JCMWZCYm1sdENxT0R0RUU2YjBjcDk5RFNmdjhlYmVfSk9XNXpqREtRN1B3ZWh",
+      "source_url": "https://www.ibm.com",
+      "source": "IBM"
+    },
+    {
+      "title": "俊睿科技顺利举办韩山师范学院AI促就业应用实践营",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zNW5OUUxNLXZZdEtITHVjMG5wbXZQd2MxN3c1aVFRU0NpZGlzUzF5Q19sbmZTNnBmUkZtTTFsZU9zQ0I1SnNNa3p",
+      "source_url": "https://k.sina.com.cn",
+      "source": "手机新浪网"
+    },
+    {
+      "title": "为什么 LLM 追踪工具如今开始构建 AI 网关",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4Wm5IenE2QjZuVXFlYlBQSW5sNTZNcVdTaWE2b25VLXZWZjc5NkloZFFfdXB2ZllZTjNxVy1JUnlObjRqRHE2VTR",
+      "source_url": "https://www.unite.ai",
+      "source": "Unite.AI"
+    },
+    {
+      "title": "梁圣再放大招：人人都能手搓DeepSeek App了",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlAzSHJUQkJvT3owQ05pcGgwcnRXQ1g1SlBYeXlvQi1ocEhKY2NubFc3NXpNSjBfTERKQVk0YU4tY1pvWndDdlB",
+      "source_url": "https://www.sohu.com",
       "source": "Sohu"
-    },
-    {
-      "title": "Omdia：预计2026年全球AI软件收入将超过2000亿美元_滚动新闻_财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90NGFLQmgwS3gzOUh5ZTdiaEhMbTkxek15Y1U5VnAtX1hPZWF3bGtpMWU4cmRCVWRkWHdILTVKaUIwTXFFWlVocGQ",
-      "source_url": "https://wap.stockstar.com",
-      "source": "证券之星"
-    },
-    {
-      "title": "OpenAI收购小型软件公司以增强Codex功能-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jcktHd2duSDUzVUJoRkJmYXdqRHZWSThNRXVmYUt3VllDRXBfZmx5d0dKVFNid2RwQ1d4OGI0SnhYa3d2ejVMbEt",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
-    },
-    {
-      "title": "联邦航空局将AI交通管理系统推广至全美空域-AI应用",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6djBIUHZuRmdGNVBVNEdqZ3lNVWdTSUtJQnAzZUY0cElIMXlEN0VMVjMyVGQ2Z3JwR0xscE5WelJvU19fbnNkeG8",
-      "source_url": "https://www.zhiding.cn",
-      "source": "至顶网"
     }
   ]
 }

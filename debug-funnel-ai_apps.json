@@ -1,38 +1,41 @@
 {
   "type": "ai_apps",
   "stages": {
-    "raw_dedup_junk": 17,
-    "trusted": 3,
+    "raw_dedup_junk": 14,
+    "trusted": 4,
     "non_trusted_top": {
-      "zhiding.cn": 3,
-      "hsw.cn": 2,
-      "china.com": 2,
-      "moomoo.com": 1,
-      "stockstar.com": 1,
-      "openai.com": 1,
+      "unite.ai": 2,
+      "csdn.net": 1,
+      "ibm.com": 1,
+      "sina.com.cn": 1,
       "sina.cn": 1,
-      "eu-opensci.org": 1,
-      "ageclub.net": 1,
-      "baijing.cn": 1
+      "mezha.net": 1,
+      "panewslab.com": 1,
+      "yeeyi.com": 1,
+      "iheima.com": 1
     },
-    "fresh1_24h": 3,
-    "page_fresh": 3,
-    "relaxed_72h": 0,
-    "final": 3,
+    "fresh1_24h": 4,
+    "page_fresh": 2,
+    "relaxed_72h": 2,
+    "final": 4,
     "cap": "不限同域"
   },
   "final": [
     {
-      "t": "网易智企帝王蟹入选全球企业级Agent图谱，企业上下文实践获关注",
-      "d": "sohu.com"
-    },
-    {
-      "t": "DeepSeek无人创业",
+      "t": "百万美金成标配？中国AI硬件把海外众筹玩成了“提款机”",
       "d": "36kr.com"
     },
     {
-      "t": "AI 录音硬件卖的是时间差，窗口可能只剩半年",
-      "d": "geekpark.net"
+      "t": "通用数智能力框架发布，普通劳动者有望补上AI技能课",
+      "d": "bjnews.com.cn"
+    },
+    {
+      "t": "梁圣再放大招：人人都能手搓DeepSeek App了",
+      "d": "sohu.com"
+    },
+    {
+      "t": "评价 Personal Agent，灵光为什么选择了 “托管量”？",
+      "d": "sohu.com"
     }
   ]
 }

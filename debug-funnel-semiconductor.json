@@ -1,54 +1,51 @@
 {
   "type": "semiconductor",
   "stages": {
-    "raw_dedup_junk": 48,
-    "trusted": 28,
+    "raw_dedup_junk": 29,
+    "trusted": 17,
     "non_trusted_top": {
-      "sina.cn": 6,
-      "jrj.com.cn": 3,
-      "sina.com.cn": 2,
-      "futunn.com": 1,
-      "guandian.cn": 1,
-      "infoobs.com": 1,
-      "esmchina.com": 1,
-      "stockstar.com": 1,
-      "mydrivers.com": 1,
-      "rfidworld.com.cn": 1
+      "sina.cn": 3,
+      "stockstar.com": 3,
+      "voc.com.cn": 2,
+      "vietnam.vn": 1,
+      "asiae.co.kr": 1,
+      "pjtime.com": 1,
+      "zqrb.cn": 1
     },
-    "fresh1_24h": 26,
-    "page_fresh": 20,
-    "relaxed_72h": 0,
+    "fresh1_24h": 14,
+    "page_fresh": 8,
+    "relaxed_72h": 8,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "南芯科技，成立半导体子公司",
+      "t": "美新半导体出席MEMS国际研讨会，解析AI时代MEMS产业化路径",
       "d": "eet-china.com"
     },
     {
-      "t": "因半导体及存储等零部件成本持续上涨，大疆部分产品11月18日起上调售价",
+      "t": "苹果，创新高！芯片股，又大跌",
+      "d": "ifeng.com"
+    },
+    {
+      "t": "苹果，创新高！芯片股，又大跌！",
       "d": "sohu.com"
     },
     {
-      "t": "【VIP日报】算力芯片持续活跃 栏目以机构视角解读国内市场 提及焦点公司涨停",
-      "d": "cls.cn"
+      "t": "美股成交额前20：芯片股集体暴跌 AMD重挫8.75%",
+      "d": "eastmoney.com"
     },
     {
-      "t": "IC China 2026现场直击：“纯度几个9？出货稳不稳？”半导体博览会上的",
-      "d": "sohu.com"
-    },
-    {
-      "t": "中芯赵海军预判：2027年半导体代工产能进入紧缺周期",
+      "t": "超 40 亿意向大单！国产 6 英寸磷化铟衬底出海，光智科技子公司牵手全球光电子",
       "d": "eet-china.com"
     },
     {
-      "t": "风口研报",
-      "d": "cls.cn"
+      "t": "展会现场屡遭“不接受采访”，半导体行业的高门槛藏在“高成本”里",
+      "d": "eastmoney.com"
     },
     {
-      "t": "AI应用场景开始分层 半导体产业链上下游寻找新突破口",
-      "d": "21jingji.com"
+      "t": "国产半导体设备景气延续，半导体材料设备指数收涨0.7%，半导体设备ETF易方达（",
+      "d": "cls.cn"
     }
   ]
 }

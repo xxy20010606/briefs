@@ -1,54 +1,54 @@
 {
   "type": "ai",
   "stages": {
-    "raw_dedup_junk": 50,
-    "trusted": 17,
+    "raw_dedup_junk": 40,
+    "trusted": 16,
     "non_trusted_top": {
-      "sina.cn": 5,
-      "sina.com.cn": 4,
-      "china.com": 3,
-      "icloudnews.net": 2,
-      "prnasia.com": 2,
-      "guandian.cn": 1,
-      "eastmoney.com": 1,
-      "ac.cn": 1,
-      "ncsti.gov.cn": 1,
-      "voc.com.cn": 1
+      "sina.com.cn": 7,
+      "ac.cn": 3,
+      "iqilu.com": 2,
+      "smartcity.team": 1,
+      "stockstar.com": 1,
+      "sina.cn": 1,
+      "csdn.net": 1,
+      "yzwb.net": 1,
+      "cryptopolitan.com": 1,
+      "tikr.com": 1
     },
-    "fresh1_24h": 17,
-    "page_fresh": 13,
-    "relaxed_72h": 0,
+    "fresh1_24h": 13,
+    "page_fresh": 4,
+    "relaxed_72h": 9,
     "final": 7,
     "cap": "同域≤2条"
   },
   "final": [
     {
-      "t": "“未来超级明星正来自中国”，欧洲科技盛会中的AI竞逐",
-      "d": "thepaper.cn"
+      "t": "断网也能跑满血大模型？本地AI界最火的“基石神器”终于发布1.0正式版",
+      "d": "ifeng.com"
     },
     {
-      "t": "见证人工智能与开源鸿蒙融入千行万业的浙江实践",
-      "d": "cyol.com"
-    },
-    {
-      "t": "南通崇川“三券齐发” 单项最高补贴1000万元",
+      "t": "教育观察丨大学发Token，算力成为新的“隐形图书馆”",
       "d": "sohu.com"
     },
     {
-      "t": "Anthropic估值缩水，压力给到国内大模型公司",
-      "d": "thepaper.cn"
-    },
-    {
-      "t": "核心观点 | 李彦宏首提“组织进化三原则”：智能组织是AI时代的新厂房",
+      "t": "WIM2026丨云知声大模型事业部总经理刘升平确认参加亿欧创新者年会",
       "d": "sohu.com"
     },
     {
-      "t": "自变量机器人GreatWall通用具身大模型完成备案",
-      "d": "xinhuanet.com"
+      "t": "广东首个、全国唯二！渔军师Aquahealth垂类大模型完成备案，以AI助力发展",
+      "d": "eet-china.com"
     },
     {
-      "t": "13:53:23【AI大模型等港股热门概念股跌幅扩大 智谱跌超11%】",
-      "d": "cls.cn"
+      "t": "GPT周报｜黄仁勋辞职；Anthropic、谷歌发布新模型；微软服务中断影响政府",
+      "d": "caixin.com"
+    },
+    {
+      "t": "21快评| 美国AI发展路线来到关键岔口- 21经济网",
+      "d": "21jingji.com"
+    },
+    {
+      "t": "元理智能张帆：企业应用AI不应一味追求通用智能",
+      "d": "caixin.com"
     }
   ]
 }
